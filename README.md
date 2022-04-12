@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 -->
 ## [**Coursemetry.com**](https://coursemetry.com/)
 
-Coursemetry provided 100% OFF online courses (Udemy, Coursera, edX, Eduonix)
+[Coursemetry](https://coursemetry.com/) provided 100% OFF online courses (Udemy, Coursera, edX, Eduonix)
 
 About 100+ daily free courses with certificates to develop its skills and its knowledge.
+
+* No stupid videos or memes
+* No links to courses that are not really free!
+* No post like "Who is interested in ..."
+* No advertising for free online schools with unofficial certificates
+* ONLY 100% OFF coupons and free courses!
 
 **Follow us**
 * [Telegram](https://t.me/coursemetry)
@@ -31,4 +37,4 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 **Disclaimer**
 * We cannot generate coupons
 * Udemy coupons are valid for 5 days and up to 1000 registrations max
-
+* We use affiliate links on some links
