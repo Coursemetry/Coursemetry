@@ -40,7 +40,7 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * We use affiliate links on some links
 
 
-**120 Udemy free courses with certificate already published today** 🔥🔥🔥
+**120 Udemy free courses with certificate already published on 2022-04-12** 🔥🔥🔥
 > *  7-Day Guided Meditation Challenge
 > *  AWS Certified Advanced Networking - Specialty Practice Test
 > *  Adobe Premiere Pro Basic till Advance
