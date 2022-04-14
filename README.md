@@ -40,97 +40,143 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * We use affiliate links on some links
 
 
-**90 Udemy free courses with certificate published on 2022-04-13** 🔥🔥🔥
-> *  Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide
-> *  Google Data Studio | Visualize, Reports, Methods, Examples
-> *  Pancakeswap Crypto Full Training | Buy, Sell, Earn Income
-> *  Cryptocurrencies: complet practical course on crypto trading
-> *  C++ And PHP Programming Complete Course
-> *  Personal Branding System: UNIQUE Secret for YOUR Success
-> *  Udemy Course Creation - Udemy Instructor Guide (Unofficial)
-> *  Fundamental Question on R Programming
-> *  Python For Beginners Course In-Depth
-> *  Technical SEO User Intent Content Strategy | Examples | 2021
-> *  5 Star Goal Setting Guide: Achieve Your Goals in 3 Steps
-> *  Reverse Engineering .NET For Beginners (Visual Basic)
-> *  The complete introduction to cryptocurrencies trading
-> *  Penny Stock Trading Secrets Revealed
-> *  Object Oriented Programming in C++  &  Interview Preparation
-> *  Technical SEO Content Writing Tips & How-to Examples | 2021
-> *  How to buy NFT on Opensea without paying Gas Fees
-> *  Creative Infographics in PowerPoint
+## **136 Udemy free courses with certificate published on 2022-04-14** 🔥🔥🔥
+> *  Agile Retrospective: Continuous Improvement+Kaizen wth Scrum
+> *  Data Analytics,Storage,Mining & Visual Big Data Technologies
+> *  Cisco Certification CLCOR 350-801 Practice Exams
+> *  Java Network Programming - Mastering TCP/IP | CJNP+ 2022
+> *  Managing Modern Desktops (MD-101) Practice Tests 2022
+> *  Vue JS + Google Maps API: Build Location Based Web Apps Fast
+> *  ABA CTFA Certified Trust and Financial Advisor Practice Exam
+> *  Project Management Course: Project Monitoring, Control & EVM
+> *  Digital Forensics Masterclass | Forensic Science 2022 DFMC+
+> *  Complete Cryptocurrency Trading Course 2022| Cryptolocally
+> *  Basics Kali Linux
+> *  Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022
+> *  The Complete Computer Basics Guide for Beginners: 2022
+> *  QuickBooks Online vs Xero Accounting Software
+> *  Updated Windows 10 (MD-100) Practice Exams 2022
+> *  Computer Forensics Beginner to Advanced | CFCT+ Masterclass
+> *  Python And Flask  Demonstrations Practice Course
+> *  Fundamental Question on RPA (Robotic Process Automation)
+> *  LeetCode in Java: Algorithms Coding Interview Questions
+> *  Learn Big Data Basics
+> *  25+ Great Side Hustle Ideas that you can try today!
+> *  Contented Career Mom
+> *  C++ Programming: Practice Tests Beginner To Advanced Level
+> *  Big Data Programming Languages & Big Data Vs Data Science
+> *  Cyber Security and Ethical Hacking Masterclass | CSEH+ 2022
+> *  Corp Finance #10 Cost of Capital–Debt & Equity Financing
+> *  Kotlin Android Training - Beginner Android App Development
+> *  Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio
+> *  Auto Mechanic Masterclass - Car Repair Training | CAMM+ 2022
+> *  CSS Complete Course For Beginners
+> *  Car Repair | Automotive Electrician and Mechanic Training |
+> *  Mastering Architectural, Night & HDR Photography
+> *  Complete DaVinci Resolve 17 Megacourse: Beginner to Expert
+> *  C++ Programming for Beginners
+> *  10 Strategies To Get Your Customers Without Exactly Spending
+> *  Successful Habits 101: Build Strong Habits That Last!
+> *  Proven ways to make Money Online
+> *  Data Analysis with SQL  using MySQL Database Server
+> *  C-Programming for Beginners - Solid Foundations
+> *  Complete Wordpress course for beginners in 2022
+> *  Cisco Certification DEVCOR 350-901 Practice Exams
+> *  Google Workspace: Docs, Sheets, Slides  من الصفر للاحتراف
+> *  GMail Productivity Complete Gmail course to Get things Done
+> *  Online Business – Work from Home
+> *  Governmental Accounting 200 Capital Projects & Debt Service
+> *  Data Manipulation in Python: Master Python, Numpy & Pandas
+> *  Xero Accounting Software
+> *  Audit - Financial Statement
+> *  Governmental Accounting 300 Proprietary & Fiduciary Funds
+> *  QuickBooks Desktop Job Costing
+> *  Managerial Accounting / Cost Accounting
+> *  Governmental Accounting 100
+> *  Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor
+> *  Not-for-Profit Accounting-Charities, Colleges, & Health Care
+> *  The Complete NFT Course: Become an NFT Creator & Investor
+> *  QuickBooks Desktop Not for Profit Organizations
+> *  QuickBooks Online Not for Profit Organization
+> *  Personal Finance
+> *  Improve English by Listening Movies – 1c
+> *  Personal Capital Free Financial Planner Application
+> *  QuickBooks Online Multiple Currencies
+> *  QuickBooks Desktop Multiple Currencies
+> *  QuickBooks Desktop – Export Directly to Tax Software Lacerte
+> *  Advanced Financial Accounting
+> *  Corporate Finance
+> *  Improve English by Listening Movies – 1b
+> *  Numpy Pandas in Python from Scratch
+> *  Financial Accounting & Excel–Comprehensive Accounting Course
+> *  QuickBooks Desktop vs. Excel
+> *  IP Address Complete Course for Beginners | GET CERTIFICATE |
+> *  Improve English by Movies
+> *  CSS - Basics To Advanced for front end development (2021)
+> *  HTML5 - From Basics to Advanced level (2021)
+> *  Tools for Working From Home - Google Apps, Trello & Zoom
+> *  Hyperledger Fabric 2.x Multihost Deployment (4 Org, 4 VM)
+> *  Agile Project Management: Agile, Scrum, Kanban & XP
+> *  Linear Regression and Logistic Regression in Python
+> *  Learn Java Fundamentals for beginners
+> *  The Complete ReactJs Course - Basics to Advanced (2021)
+> *  Statistics for Business Analytics using MS Excel
+> *  Logistic Regression in R Studio
+> *  JavaScript - Basics to Advanced [step by step (2021)]
+> *  How to Print on Demand - Beginners Guide to POD
+> *  Graphic Design Certification + Live Class
+> *  Artificial Intelligence in Web Design + Live Class
+> *  Hyperledger Fabric 2.x Basic & Advanced Network Operations
+> *  QuickBooks Pro Desktop 2022, 2021, & 2020
+> *  Growth Marketing Essentials Course (2022 edition)
+> *  Business Automation Systems Training
+> *  How to Break Into the Music Industry
+> *  KAFKA Cluster deployment and Java SpringBoot
+> *  Become A Virtual Assistant: Launch Successfully 2022
+> *  First steps to automate processes with GeneXus 17
+> *  Zero to Hero Bootstrap5 Mastery Course
+> *  Apache Spark with Scala useful for Databricks Certification
+> *  CheckPoint-NGFW Security : Basic Introduction
+> *  Create WordPress Website To Sell Digital Products NO CODING!
+> *  Containerize SpringBoot Node Express Apps & Deploy on Azure
+> *  UI/UX Design With Figma : 5+ Real World Projects(2022)
+> *  R Programming : Data Analysis and Visualisations using R
+> *  Filmora 11/X/9:  Zero to Hero in Video Editing (2022)
+> *  Videoscribe Whiteboard Animations : MasterClass With Project
 > *  English Vocabulary - Master & Learn 100+ English Words
-> *  ABA Certified Regulatory Compliance Manager Practice Exams
-> *  PSD Professional Scrum Developer Certification Practice Exam
-> *  PHP for Beginners 2022: The Complete PHP MySQL PDO Course
-> *  Certified Ethical Hacker v11: Crash Course Practice Test!
-> *  Complete Filmora (9, X & 11) Megacourse: Beginner to Expert
-> *  Complete Polish Course: Learn Polish for Beginners
-> *  Pentaho for ETL & Data Integration Masterclass 2022 - PDI 9
-> *  Atlassian Confluence Masterclass for Project Managers
-> *  Microsoft Excel - MS Excel Formulas & Functions in just 3hrs
-> *  Linear Regression and Logistic Regression using R Studio
-> *  Wordpress Web Development for Absolute Beginner Zero to Hero
-> *  [CAA-02] AWS Certified Solution Architect Associate NEW 2021
-> *  How To Produce A Low Budget Independent Feature Film!
-> *  Machine Learning in R & Predictive Models | 3 Courses in 1
-> *  Jira Advanced | Managing and administrating Jira like a pro
-> *  Practical Ho'oponopono Workshop
-> *  How to Create a Secure Website With WordPress
-> *  Ecommerce Pricing Strategy in Magento, Shopify, Woocommerce!
-> *  WordPress Backup And Restore Fundamentals
-> *  Complete WordPress Security Course: Go from zero to hero
-> *  Excel Intermedio
-> *  Diseño responsivo con cajas flexibles CSS3
-> *  Fundamental Question on Robotics
-> *  Microsoft Excel: From Beginner to Expert
-> *  DevSecOps in AWS & AWS Security Services
-> *  YouTube Marketing: SEO and Algorithm Step-by-Step Guide!
-> *  Chatfuel: The Complete Guide to Messenger Bots for Business
-> *  Simple Independent Film Screenwriting
-> *  Agile Scrum + Scrum Certification Prep. + Scrum Master + PO
-> *  Agile Kanban | Project Management | Certify | Board & Card
-> *  Agile Project Management | Agile Delivery | Agile Teams
-> *  React Progressive Web App With Workbox and Webpack Tutorial
-> *  Free CCNA 200-301 Course: Network Fundamentals
-> *  Start A Fully Automated Print on Demand Store with Etsy
-> *  How To Design A Great Movie Poster That Works
-> *  Book of Nehemiah - How To Develop The Leader In You!
-> *  Ethical Hacking: Introduction to Exploits
-> *  Python: Object Oriented Programming
-> *  Project Management Essentials: A practical approach
-> *  Practical Database Course for Beginners : 6 courses in 1
-> *  SOLAR COURSE for Beginners of Solar Energy-
-> *  Scrum Ceremonies Simplified
-> *  The Complete Introduction to Online Course Creation
-> *  3 Simple Steps to Seize the Day and Enjoy Life Now
-> *  Excel Tips and trick : Learn MS Excel by making 7 Projects
-> *  Excel files with Python
-> *  Cryptocurrency, BitCoin, Ethereum Capital Gains Tax Secrets
-> *  SEO Cost Calculator: How much to spend on SEO Budget
-> *  Build your own NFT Candy Machine on the Solana Blockchain
-> *  Parenting Psychology  - Unlocking Your Child's Potential
-> *  The Complete SketchUp Guide II - Advanced 3D Modeling
-> *  How to Conquer Fear, Stress, and Worry When it Feels Hard
-> *  Ultimate Guide to Product Design: Design Thinking Approach
-> *  The quick basics of SketchUp Free!
-> *  Fundamentos de Programación: Aprende a programar desde cero
-> *  Intro to Django Python Web Apps
-> *  Django for WordPress Developers
-> *  Try Django 1.11 // Python Web Development
-> *  Workshops - systemisch konzipieren und gestalten
-> *  Leaflet praxisorientierte Datenvisualisierung OpenStreetMap
-> *  Personalentwicklung für (zukünftige) Führungskräfte
-> *  Systemische Gesprächsführung im digitalen Umfeld
-> *  Moodle Security, de Cero a Experto
-> *  Curso Completo de Windows 10
-> *  Curso Completo de Windows Terminal
-> *  Curso Completo de Computación [Informática]
-> *  Fundamentos de Windows Scripting
-> *  SEO Interview Preparation (Question, Answer, Test, Practice)
-> *  MERN Stack with Blog Project
-> *  Diversity At Workplace
-> *  YouTube Shorts StoryVideo
+> *  cPanel Administration Crash Course for Beginners 2022
+> *  Make WordPress Hosting Easy with Plesk on Google Cloud
+> *  CCNP Security (350-701 SCOR) 5 PRACTICE TESTS April 2022
+> *  AZURE Exam Practical Labs
+> *  Free CCNA 200-301 Course: Binary, Hex and Decimal Conversion
+> *  Mind Power - Change Your Thought Process To Change Your Life
+> *  Accounting–Financial Accounting Total-Beginners to Advanced
+> *  Zero to Hero Python FASTAPI JWT SQLAlchemy DB Mastery Course
+> *  Data Analytics Real World Projects using Python
+> *  Photoshop CC para bebés
+> *  HTML, CSS, & JavaScript - Certification Course for Beginners
+> *  Real Estate Investment & Finance
+> *  Excel Accounting Problem
+> *  JavaScript, Bootstrap, & PHP - Certification for Beginners
+> *  JavaScript & jQuery - Certification Course for Beginners
+> *  Complete PYTHON Programming for Beginners - 2022
+> *  How to VLOG 2022 : Complete Beginners Course +YouTube
+> *  Machine Learning with Apache Spark 3.0 using Scala
+> *  (50+ Saat) Python ile Sıfırdan İleri Seviye Programlama
+> *  Introduction to Domain Names and Web Hosting - Quick Guide
+> *  HTML, JavaScript, & Bootstrap - Certification Course
+> *  IP Addressing and Subnetting - Zero to Hero
+> *  NGINX, Apache, SSL Encryption - Certification Course
+> *  Create a Members Only Blog using PHP, MySQL, & AJAX
+> *  Complete Spanish Course: Learn Spanish for Beginners
+> *  Complete Digital Marketing Course for Local Businesses 2022
+> *  Bootstrap & jQuery - Certification Course for Beginners
+> *  How the Internet Works & the Web Development Process
+> *  Setup a Virtual Web Server using Linode or Digital Ocean
+> *  AWS Certified DevOps Engineer - Professional Practice Test
+> *  Python : Nifty Tools & Functions Basic Coding Beginner Guide
+> *  Lumion 10.  Desde Iniciación a Experto
+> *  WooCommerce Onpage SEO | Fast Technique with Examples | 2022
 
 [coursemetry.com](https://coursemetry.com/)
 
