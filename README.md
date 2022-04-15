@@ -39,6 +39,176 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * Udemy coupons are valid for 5 days and up to 1000 registrations max
 * We use affiliate links on some links
 
+## **165 Udemy free courses with certificate already published on 2022-04-15** 🔥🔥🔥
+> *  Complete Clip Studio Paint Megacourse: Beginner to Expert
+> *  Bitcoin University: Build & Grow Your Wealth with Bitcoin
+> *  The Complete Nonverbal Communication Course - Body Language
+> *  Certified Lead Generation Professional | List Building Easy!
+> *  The Complete Google Drive Course - Mastering Google Drive
+> *  Digital Nomad Lifestyle: Live Your Dream & Travel the World
+> *  Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course
+> *  The Advanced SQL Course
+> *  Data Manipulation in Python: Master Python, Numpy & Pandas
+> *  The Complete Growth Mindset Course - The Mindset for Success
+> *  2022-Master in Core Python Programming in 99Days
+> *  Substation Power Engineering Fundamentals
+> *  Master Classes for Web Designing Course (HTML, CSS, JS, SEO)
+> *  The Complete Journaling Course: Build Self-Awareness Habits
+> *  Advanced Strategies to Secure Better UpWork Clients
+> *  Microsoft SQL Server Development for Everyone
+> *  Learn Elementor & WordPress, for Startups & Freelancers
+> *  The 150 Most Important Irregular Verbs in English. Volume 1
+> *  Python for Deep Learning: Build Neural Networks in Python
+> *  Learn ASP.NET MVC and Entity Framework (Database First)
+> *  Python for Machine Learning: The Complete Beginner's Course
+> *  The Complete Telecommuting Course - Remote Work - Work Life
+> *  The Complete NFT Course: Become an NFT Creator & Investor
+> *  The Complete IT Job Search Course - Land Your Dream IT Job
+> *  Best of Content Marketing, SEO & Copywriting + 23 Templates
+> *  Complete Willpower Course - Build Self Control & Good Habits
+> *  Learn JavaScript Programming in 7 Days
+> *  Basic Interviewing Skills - Master Basic Interviewing Skills
+> *  CompTIA A+ certification Course: CompTIA A 220-1001 220-1002
+> *  Ableton Live: Complete EDM Music Production in 3 Hours
+> *  C# Console and Windows Forms Development w/ Entity Framework
+> *  Modern PHP Web Development w/ MySQL, GitHub & Heroku
+> *  MySQL Database Development Mastery
+> *  YouTube Thumbnail Masterclass / Ultimate Guide to Thumbnails
+> *  How to Get UpWork Clients (2020 And Beyond)
+> *  The Complete Law Of Attraction Course Updated for the 2020s
+> *  Interview Essentials - Master Your Interview Essentials Now
+> *  CompTIA Security+ | Security Plus | (SY0-601) Certification
+> *  Fundamentals of Cyber Security
+> *  Bootstrap 4 Quick Start: Code Modern Responsive Websites
+> *  YouTube Masterclass: How to get free Subscribers
+> *  Fundamentos da Criptografia, Esteganografia e Criptoanálise
+> *  بايثون في التعامل مع الواي فاي و اخفاء الرسائل في الصور
+> *  Data Structures : Binary Tree Animations and Implementations
+> *  The Ultimate Computers and Technology Quiz (2022 Edition)
+> *  Create Incredible Visual Graphics with Canva (2022 Edition)
+> *  Artificial Intelligence (AI) Logo Design Tools: 2022 Edition
+> *  Super-Fast Web Design using Weebly (2022 Grand Edition)
+> *  Choosing a Career based on Passion in 2022
+> *  RoboAuthor: Content Writing Automation 2022 - Part 5
+> *  eCommerce Marketing Course (2022 Grand Edition)
+> *  Jetpack 1.0: Artificial Intelligence and Automation in HR
+> *  Learn Java Programming: Classes and Objects (2022 Edition)
+> *  Crash Course on Civil Engineering and AutoCAD: Part 5
+> *  Artificial Intelligence in App Creation: Beginners Edition
+> *  Crash Course on Civil Engineering and AutoCAD: Exam (Vol.1)
+> *  The Ultimate Startup Quiz for Entrepreneurs (2022 Edition)
+> *  Apache Zeppelin - Big Data Visualization Tool
+> *  Market Research Test Quiz For Business Analysts (BAs)
+> *  Crash Course on Civil Engineering and AutoCAD: Part 9
+> *  RoboAuthor: Content Writing Automation 2022 - Part 9
+> *  Artificial Intelligence (AI) Tools For Job Seekers (2022)
+> *  Learn C++ by Solving 75 Coding Challenges
+> *  Wordpress Create Your Own Website 2022!
+> *  JavaScript for Beginners - The Complete introduction to JS
+> *  Complete Figma Web Design Course:UI/UX Design with Projects
+> *  The Ultimate Content Marketing Quiz (2022 Edition)
+> *  The Ultimate LinkedIn Marketing Quiz (2022 Edition)
+> *  RoboAuthor: Content Writing Automation 2022 - Part 7
+> *  Space Render Classic Edition: Create Live Audio-Rooms (2022)
+> *  The Ultimate WordPress Quiz for Beginners and Advanced Users
+> *  The Ultimate Search Engine Optimization (SEO) Quiz 2022
+> *  Google Ads Fundamentals: Fast-Track Practice Quiz Exam
+> *  How To Use LazyApply To Automate Your Job Search?
+> *  Insight to Post Pandemic: Importance of Lean Six Sigma
+> *  Figma Basics Super Easy Crash Course
+> *  Social Media Marketing on Autopilot with Missinglettr (2022)
+> *  Getting Started with Blockchain Solidity and Smart Contracts
+> *  QuickBooks Online 2022 & 2021 Start to Finish
+> *  أسرار منصة لينكدإن
+> *  Massaggio Prenatale: dalla teoria alla pratica
+> *  Postman Masterclass and REST API Testing
+> *  The Future of Social Networking - Startups Meet (2022)
+> *  Advanced Artificial Intelligence in App Creation (2022)
+> *  MariaDB Basics
+> *  Three.js
+> *  Microsoft Sway Basics
+> *  Opera Basics
+> *  SVG Basics
+> *  Sublime Text 3 Basics
+> *  PowerShell Basics
+> *  Bootstrap 4 Basics
+> *  استخدام بايثون في الشبكات و الامن السيبراني
+> *  تحليل البيانات بأستخدام بايثون
+> *  استخدام بايثون في اختبار الاختراق و التجسس علي الشبكة
+> *  دبلومة إدارة الموارد البشرية
+> *  اساسيات التعامل مع نظام لينكس
+> *  Azure Real World Hand-on Training For Beginners.
+> *  Spreadsheet Data query from JavaScript Frontend Code AJAX
+> *  Build a Twitter Bot with Python, Tweepy and the Twitter API
+> *  Google Apps Script Quick Start Beginner Guide
+> *  The Ultimate Facebook Marketing Quiz (2022 Edition)
+> *  Secure Your VueJs Applications With Auth0
+> *  Secure Your ReactJs Applications With Auth0
+> *  HTML Canvas Crash Course for Beginners
+> *  Microsoft Power BI Basics
+> *  Microsoft Stream Basics
+> *  OpenGL Basics
+> *  Microsoft To Do Basics
+> *  Server Infrastructure
+> *  How To Use Helium 10 Chrome Extension - Review And Tutorial
+> *  Adobe Audition 2022 Projects
+> *  Amazon EC2 Ultimate Course
+> *  Amazon EKS Ultimate Course
+> *  Adobe Animate 2022 Ultimate Course
+> *  Adobe Dreamweaver 2022 Ultimate Course
+> *  SVG Ultimate Course
+> *  Bootstrap 4 Ultimate Course
+> *  Microsoft 365 Ultimate Course 2021
+> *  Computer Vision with OpenCV Python | Official OpenCV Course
+> *  Computer Vision and NLP with AWS ML and Python Boto3
+> *  Create Custom Yolo Object Detector for Game and News videos
+> *  Free Text To Speech Software with Multiple Voices
+> *  Data Engineer: Prepare Financial Data for ML and Backtesting
+> *  AI foundations for business professionals
+> *  Hiring Process: Talent Management
+> *  HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour
+> *  Amazon Quicksight Ultimate Course
+> *  Containerize SpringBoot Node Express Apps & Deploy on Azure
+> *  Adobe Illustrator 2022 Ultimate Course
+> *  Microsoft Teams Ultimate Course 2022
+> *  Google Workspace (G Suite) Ultimate Course 2021
+> *  Burp Suite Basics
+> *  Chrome Developer Tool Basics
+> *  Chrome Extension Basics
+> *  Debugging Basics
+> *  Domain Name Basics
+> *  Developer Tool Basics
+> *  GitHub Basics
+> *  Gmail Productivity Ultimate Course 2021
+> *  Google Chrome Basics
+> *  Google Forms Ultimate Course 2021
+> *  HTML5 Basics
+> *  Java Web Services
+> *  JavaScript Basics
+> *  JDBC Basics
+> *  jQuery Basics
+> *  JSF Basics
+> *  Microsoft Power Automate (Flow) Ultimate Course 2022
+> *  Microsoft PowerApps Ultimate Course 2022
+> *  Open Broadcaster Basics
+> *  awk tutorial
+> *  Python Desktop Apps with Tkinter
+> *  Redis Database Tutorial
+> *  Cyber Security: Secure Passwords on Linux
+> *  AWS Certified Solutions Architect - Professional Latest Exam
+> *  Zero to Hero Python FASTAPI JWT SQLAlchemy DB Mastery Course
+> *  AWS Certified Cloud Practitioner Practice Exams
+> *  Zero to Hero Bootstrap5 Mastery Course
+> *  Machine Learning Mastering Course in Arabic
+> *  AZ-500: Microsoft Azure Security Technologies Practice Exam
+> *  Unleash Your Creative Mind
+> *  Physics practices for Three.js, Cannon and Blender.
+> *  CREATE PORTFOLIO WEBSITE USING MERN STACK
+> *  Acronis #CyberFit Developer Business Automation Part 3
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
 
 ## **136 Udemy free courses with certificate published on 2022-04-14** 🔥🔥🔥
 > *  Agile Retrospective: Continuous Improvement+Kaizen wth Scrum
