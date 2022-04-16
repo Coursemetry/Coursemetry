@@ -34,10 +34,90 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * [Coursemetry](https://coursemetry.com/)
 
 
-**Disclaimer**
-* We cannot generate coupons
-* Udemy coupons are valid for 5 days and up to 1000 registrations max
-* We use affiliate links on some links
+## **79 Udemy free courses with certificate already published on 2022-04-16** 🔥🔥🔥
+> *  MLOps Certification- Basics, Deployment & Vertex AI Darknet
+> *  Ethical Hacking - Port Scan com Ferramentas Online e Offline
+> *  Brilliant StartUp - Liderazgo para jóvenes profesionales
+> *  Project Management Essential Training
+> *  Cómo Crear una Landing Page con WordPress Desde Cero 2022
+> *  Complete Pixel Art Megacourse: Beginner to Expert
+> *  Curso Básico de Kali Linux com NMap para pentest e hacking
+> *  Best of Content Marketing, SEO & Copywriting + 23 Templates
+> *  Build A Search Engine With Python: Computer Science & Python
+> *  Python Complete Course For Beginners
+> *  Gestión en Jira Server Administrador ACP-100-Examen-2022
+> *  Lead Generation Mastery with Facebook Lead & Messenger Ads
+> *  The Complete Introduction to C++ Programming
+> *  JavaScript And PHP Programming Complete Course
+> *  The Ultimate MySQL Crash Course 2022
+> *  Java for Beginners - Learn all the Basics of Java
+> *  Python Programming Tutorial For The Absolute Beginner + Code
+> *  C++ And Java And PHP The Big 3 Languages Complete Course
+> *  Object Oriented Programming in C++  &  Interview Preparation
+> *  Job Skills - Increase Your Earning Potential
+> *  Stress-free Effective Learning for Adults: Crush your goals!
+> *  SEO Training 2022: Complete SEO Course & WordPress SEO Yoast
+> *  Fundamental of Power Electronics with MATLAB Simulink
+> *  Lead Generation Mastery 2022
+> *  Create Your Client Centered LinkedIn Profile
+> *  DP-300-Administering Relational Databases on Microsoft Azure
+> *  The English Conversation Course | Master the key expressions
+> *  Make Your Excel Look Like a Standalone Program
+> *  Método 333 - Aprende y Fortalece Tu Inteligencia Emocional.
+> *  Method 333 To Learn & Strengthen Your Emotional Intelligence
+> *  The Service Business Accelerator
+> *  Fire Up Creativity in Your Child
+> *  Consulting Offer Creation Masterclass
+> *  Creating Video Lessons with Online Video Maker InVideo
+> *  The Complete Nmap Ethical Hacking MasterClass
+> *  CompTIA Network+ (N10-007) Practice Exam
+> *  AWS Certified Solutions Architect - Associate Practice Exam
+> *  Learn Python By building Games in Python
+> *  Google Certified Associate Cloud Engineer Practice Exam
+> *  AZ-220: Microsoft Azure IoT Developer Practice Questions
+> *  AZ104  Microsoft Azure Administrator Practice Exams
+> *  AWS Certified Cloud Practitioner (CLF-C01) Practise Exams
+> *  Regex Academy: An Introduction To Text Parsing Sorcery
+> *  Enable Any Frontend App with Login using Google & SpringBoot
+> *  Getting Started with Blockchain Solidity and Smart Contracts
+> *  MongoDB Essentials - Understand the Basics of MongoDB
+> *  Javascript Essentials
+> *  Instagram Marketing 2021: Growth and Promotion on Instagram
+> *  Master all the MS Excel Macros and the basics of Excel VBA
+> *  Public Speaking For Startups! - Cure Stage Fright & Anxiety
+> *  Practical Web Development: 22 Courses in 1
+> *  Bible: Titus - 7 Lessons We Can Learn For Today!
+> *  Acing Time Management & Productivity: Your ultimate Program
+> *  Excel Lessons - Zero to Pro for Teachers and Office Workers
+> *  Complete Responsive Web Development: 4 courses in 1
+> *  Python Programming - From Basics to Advanced level [2021]
+> *  How to transform your mind & body in 21 days for busy mums
+> *  Introduction to Game Development with Unity
+> *  NFTs: Creating and Selling NFTs Complete 2022 Guide
+> *  Python: Nifty Tools & Functions Basic Coding Beginner Course
+> *  Money In Excel - Income Tax Sch. C & Personal Financials
+> *  Design Thinking Guide for Successful Professionals
+> *  SDET C#: Test Automation From Scratch
+> *  Data analysis & Business Intelligence | Advanced MySQL
+> *  Traffic Driving Mastery 2022
+> *  Create and Scale Powerful Facebook Ads For Your Business
+> *  CV0-001 CompTIA Cloud + Certification Practice Exam
+> *  Merch by Amazon Mastery 2022
+> *  SnapChat Marketing Mastery 2022 | Full Blueprint From 0 To 1
+> *  Storytelling Marketing Mastery 2022
+> *  Social Media Marketing Mastery 2022
+> *  Complete Course on Blockchain and Cryptocurrency
+> *  The Lean Startup: Best course on Entrepreneurship
+> *  SaaS Masterclass: Sales, Marketing and Growth Metrics
+> *  MBA Course: Marketing and Business Strategy
+> *  31 Startup Business Model: Best Course for Entrepreneurs
+> *  Complete Metaverse Course: Everything about AR, VR, and NFTs
+> *  Awesome Startup Pitch deck: Raise Capital (20+ Templates)
+> *  Startup Fundraising Master course - Raise Venture Capital
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
 
 ## **165 Udemy free courses with certificate already published on 2022-04-15** 🔥🔥🔥
 > *  Complete Clip Studio Paint Megacourse: Beginner to Expert
