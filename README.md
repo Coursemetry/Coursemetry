@@ -33,6 +33,114 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * [Pinterest](https://www.pinterest.fr/Coursemetry)
 * [Coursemetry](https://coursemetry.com/)
 
+## **103 Udemy free courses with certificate already published on 2022-04-17** 🔥🔥🔥
+> *  MBA: Retail management, Merchandising, and E-commerce
+> *  Facebook Ads & Instagram Ads Course 2022: The Art of Selling
+> *  Gatsby JS | Build a personal blog using gatsbyJS
+> *  C++ And Java Programming Complete Training Course
+> *  Curso de Hacker para Iniciantes
+> *  Modern Niche Marketing: Niche Website for Beginners!
+> *  Machine Learning- From Basics to Advanced
+> *  AWS Services for Solutions Architect Associate [2021]
+> *  MERN Stack with Blog Project
+> *  Sales Skills: How To Maximize Sales In A Downturn
+> *  Learn Geometry: geometry for beginners
+> *  Salesforce Platform Developer 1 Practice Exams PD1 2022
+> *  SEO & Copywriting Course as Project & Fun: 43 Days Challenge
+> *  Como Estudar Programação de Computadores
+> *  Certified Ethical Hacker v11: Crash Course Practice Test!
+> *  Fundamentos da Criptografia, Esteganografia e Criptoanálise
+> *  DevOps Fundamentals
+> *  Digital Marketing for pharmacies
+> *  Zero to Hero in Microsoft Excel: Complete Excel guide 2022
+> *  Practical CSS3 Mastery Course
+> *  Python And Flask Framework Complete Course
+> *  Complete Machine Learning with R Studio - ML for 2022
+> *  Audacity 2022 - Grundkurs für jeden Einsteiger!
+> *  Internet of Things: MQTT
+> *  Pharma Drug Regulatory Affairs course - DRA 2022
+> *  YouTube Masterclass: How to get free Subscribers
+> *  Data Analysis Expressions DAX in Microsoft POWER BI
+> *  A Complete Guide to Sales Forecasting for Beginners
+> *  Blender 3d: New User Cycles Node Tips
+> *  Python from the beginning in Sinhala - Python මුල සිට සරලව
+> *  Joomla 3 in Sinhala: Programming නැතිව website නිර්මාණය
+> *  Python beginner to advanced complete master class (2022)
+> *  SVM for Beginners: Support Vector Machines in R Studio
+> *  Logistic Regression in Python
+> *  Image Recognition for Beginners using CNN in R Studio
+> *  Kanban Metrics for Agile teams: Measure & Improve Flow
+> *  Neural Networks in Python: Deep Learning for Beginners
+> *  Google Analytics 4 Overview in One Hour
+> *  Blender 3d: New User Modeling Trial
+> *  BRAND NEW: The Science Behind Website Copy That Converts
+> *  Explore Power BI World! [Free+2022]
+> *  QuantConnect Boot Camp in Python
+> *  PTSD Counseling with DBT, CBT, ACT & other Psychotherapies
+> *  Overcoming Insomnia and Sleep Problems- Effective Counseling
+> *  Schema psychotherapy for Borderline Personality Disorder BPD
+> *  CBT Counseling with Mindfulness for self-compassion
+> *  Build FreeCodeCamp Responsive HTML Form with Flexbox CSS
+> *  The Complete Business Etiquette Course - Biz Social Skills
+> *  SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun
+> *  Agile Model & Methodologies  (1 Hour ): SCRUM KANBAN (2022)
+> *  Python for Machine Learning: The Complete Beginner's Course
+> *  Data Manipulation in Python: Master Python, Numpy & Pandas
+> *  The Complete Leadership Mastery Course
+> *  The Complete B2B Sales Course: Lead Generation to Closing
+> *  Bitcoin University: Build & Grow Your Wealth with Bitcoin
+> *  Python for Deep Learning: Build Neural Networks in Python
+> *  Best of Digital Marketing Essentials 2022: Learn Fun & Fast
+> *  Digital Nomad Lifestyle: Live Your Dream & Travel the World
+> *  Business Fundamentals & Questions to Answer Before Launching
+> *  Freelance Consulting - The 1-Hour Course for Beginners
+> *  Ethical Hacking: Learn The Art of Hacking Using Python3
+> *  Tally ERP9 With GST Step By Step Guide From Basic to Advance
+> *  Curso Básico de Kali Linux com NMap para pentest e hacking
+> *  Effective Business Planning and Execution
+> *  Python Learn by Python Projects & Python Quizzes in 2022
+> *  Programação em Linguagem C para Iniciantes
+> *  Sıfırdan İleri Seviyeye PHP Eğitimi
+> *  Print on Demand with Etsy for Passive Income 2022 Guide
+> *  HTML&CSS Workshop
+> *  ServiceNow System Administrator (CSA) - Practice Exams 2022
+> *  CSS, JavaScript And PHP Complete Course For Beginners
+> *  CAMS Certified Anti-Money Laundering Specialist Exams
+> *  Social Media Manager: Curso de Manejo de Redes Sociales
+> *  Microsoft Excel: Excel course for beginners
+> *  DaVinci Resolve 17: Video editing course for beginners
+> *  Learn Python Programming from Scratch
+> *  Java Programming: Complete Beginner to Advanced
+> *  NFT Mastery 2022
+> *  Crypto Mastery 2022
+> *  Fixed Income Securities: Become a Bond Analyst & Investor
+> *  AWS Certified Cloud Practitioner Practice Exams 2022
+> *  Curso de Idioma Francés : Del A2.1 al A2.2 en un Mes
+> *  Learn how to use Zapier to automate your Business
+> *  Top 5 Stocks Intraday Trading Strategies
+> *  Human Rights : A basic course
+> *  PL-900 Microsoft Power Platform Fundamentals Practice Exams
+> *  Instalación de un servidor de dominio: Windows 2019 Server
+> *  Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam
+> *  Microsoft Azure Fundamentals AZ-900 Practice Exams APR 2022
+> *  MB-800 Microsoft Dynamics 365 Business Central Functional
+> *  Social Media Influencer Mastery 2022  | 8-Figure Blueprint !
+> *  Learn Solidity Programming to Build & Deploy Smart Contracts
+> *  AWS Certified Security Specialty – Practice Exams APR 2022
+> *  Public Speaking Mastery 2022
+> *  Practical Photography for Absolute Beginners: 9 Courses in 1
+> *  P.O.W.E.R. : Proven Interview System to crack your DREAM job
+> *  Python Programming for Beginners [Full Course]
+> *  C# ile Temel ve Orta Seviye Programlama
+> *  SQL for Data Analysis and Data Science in 2022
+> *  The Complete Business Interview Course
+> *  The Literature Review : A Comprehensive Six Step Guide
+> *  The Beginner’s Guide to Digital Illustration in Photoshop
+> *  Aprende C, de basico a profesional
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
 
 ## **79 Udemy free courses with certificate already published on 2022-04-16** 🔥🔥🔥
 > *  MLOps Certification- Basics, Deployment & Vertex AI Darknet
