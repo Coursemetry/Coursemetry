@@ -33,7 +33,7 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * [Pinterest](https://www.pinterest.fr/Coursemetry)
 * [Coursemetry](https://coursemetry.com/)
 
-## **153 Udemy free courses with certificate published 2022-04-18** 🔥🔥🔥
+## **153 Udemy free courses with certificate published on 2022-04-18** 🔥🔥🔥
 > *  virology 4 you
 > *  PRINCE2 Foundation Practice Certification Exams Updated 2022
 > *  No Oil Cooking Recipes - Eat Healthy! Live Strong!
