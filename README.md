@@ -33,6 +33,165 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * [Pinterest](https://www.pinterest.fr/Coursemetry)
 * [Coursemetry](https://coursemetry.com/)
 
+## **153 Udemy free courses with certificate published 2022-04-18** 🔥🔥🔥
+> *  virology 4 you
+> *  PRINCE2 Foundation Practice Certification Exams Updated 2022
+> *  No Oil Cooking Recipes - Eat Healthy! Live Strong!
+> *  General bacteriology a concise course
+> *  C++ Complete Course For Beginners 2022
+> *  Kids English Vocabulary Set Two - Adjectives
+> *  AWS Certified Solution Architect Professional Exam Test 2021
+> *  Ethical Hacking - Port Scan com Ferramentas Online e Offline
+> *  VidIQ Masterclass - Full Guide to YouTube Keyword Tool
+> *  Google Cloud Practitioner - Firebase Practice Exam Training
+> *  The Complete SAP S/4HANA Bootcamp 2022
+> *  AZ-104 Microsoft Azure Administrator Practice Exams APR 2022
+> *  Cisco CyberOps Associate CBROPS 200-201 Practice Exams 2022
+> *  speak arbic like natives
+> *  Google Cloud Digital Leader-Practice Test 2022- [New]
+> *  Google Ads 2022. How to drive sales with PPC!
+> *  ITIL 4 Foundation Practice Exams - APRIL 2022
+> *  CompTIA Security+ (SY0-601)- Practice Test Exam 2021 [New]
+> *  Google Cloud Professional Data Engineer - Practice Test 2021
+> *  Certified Information System Security Professional-Exam 2021
+> *  AWS Certified Cloud Practitioner - Practice Test 2021 [new]
+> *  master layer farm management the business of millionaires
+> *  Social media marketing strategy 2022. Launch your SMM!
+> *  AZ- 900: Microsoft Azure Fundamentals Practice Tests 2022
+> *  AWS Certified DevOps Engineer Professional - Practice test
+> *  AWS Certified Developer Associate- Practice Test 2022
+> *  Project Management Professional- Practice Test 2021 [NEW]
+> *  Digital Marketing Strategy Bundle: 7 practical courses in 1!
+> *  AZ-204 Microsoft Azure Developer – Practice Exams APR 2022
+> *  Google Associate Cloud Engineer- Practice Test 2021 july
+> *  Developing Microsoft Azure Solutions AZ-204 - Practice Test
+> *  AWS Certified Developer Associate Practice Test 2021
+> *  Becoming A Sales Professional
+> *  SEO & Copywriting Course as Project & Fun: 43 Days Challenge
+> *  Agile Project Management Certification Prep+Agile Scrum+Jira
+> *  Criminology and Criminal Psychology | Certified CSI+ Course
+> *  Build CRUD app using MERN(MongoDB, Express, React, Node.js)
+> *  Sage One accounting and bookkeeping online course
+> *  A Biophilic Home.
+> *  HTML CSS JavaScript Course for Modern Web Developers
+> *  Competitive programming basics for beginners using C++
+> *  Songwriting: Functions of Hidden Meaning
+> *  KashFlow (IRIS) accounting cloud software course
+> *  DBT Practitioner -Interpersonal Effectiveness for Counseling
+> *  PTSD & Trauma Counseling with Combination of Psychotherapy
+> *  Tantra Guided Meditations - Breath, Kundalini & Third Eye
+> *  Overcome low self image with positive psychology
+> *  Professional Adobe Photoshop CC Course With Advance Training
+> *  Stress Management Therapy
+> *  Treating Worry & Anxiety with Cognitive Behavioural Therapy
+> *  Software career planning
+> *  Master your emotions with - Core Spiritual Teachings
+> *  Treat clients with Social Anxiety using ACT Therapy
+> *  The Complete and Special Bitcoin Trading Course In The World
+> *  SAP Basis Essential Training
+> *  Adobe Photoshop CC- Basic Photoshop training
+> *  Introduction to Quantum Computing
+> *  Primavera P6 Complete Course of Project Planning 2021
+> *  Manager Training: Master Effective Delegation for Leaders
+> *  English grammar tenses made easy
+> *  LeetCode in Java: Algorithms Coding Interview Questions
+> *  Basics Of Fibonacci : Price Action Trading Tool
+> *  Startup Bootstrapping Mastery 2022
+> *  Youtube Business Mastery 2022
+> *  ACI Dealing Certificate (3I0-012) Practice Exams
+> *  Complete Unreal Engine Megacourse: Beginner to Expert
+> *  Certification Course in Talent Development & Management
+> *  Content Marketing Mastery 2022
+> *  ACFE CFE Certified Fraud Examiner Practice Exams
+> *  Microsoft Azure AI-102 Exam Practice Test
+> *  AZ-900: Microsoft Azure Fundamentals 500+ Practice Questions
+> *  Export Documents, Procedures, Policies & Incentives in India
+> *  Amazon FBA Mastery 2022
+> *  Time Management Mastery 2022
+> *  Mobile Marketing Mastery 2022
+> *  Smart Content Marketing Mastery 2022
+> *  AI Entrepreneurship Mastery 2022
+> *  Email Monetization Mastery 2022
+> *  Altcoin Mastery 2022
+> *  Side Hustle Mastery 2022
+> *  Stablecoins: Rebuilding Global Financial Systems
+> *  First Steps Into Public Speaking
+> *  The Life of the Music Producer: The Top 5 Producer Secrets
+> *  DaVinci Resolve Tutorial – MotionVFX Academy
+> *  Technical Java Interview Prep for IT professionals
+> *  Python Programming for Beginners [Full Course]
+> *  Laravel Tutorial From Beginner To Expert Level
+> *  The Digital Nomad Lifestyle
+> *  Public Speaking: Become a Better Presenter
+> *  Fundamentals of Yoga
+> *  How to Become a Private Investigator
+> *  Genetics : All science related to genetic
+> *  Fundamental Sales Skills to Boost Your Growth and Success
+> *  Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!
+> *  Customer Service Fundamentals.
+> *  Learn 70 Great Websites to Get Unlimited  Royalty FreeImages
+> *  Master your goals
+> *  Lead Nurture 101: How To Grow Like A Pro
+> *  Best of SEO: #1 SEO Training & Content Marketing Course 2022
+> *  Developing Data Science Projects With Google Colab
+> *  British pronunciation & accent
+> *  Wordpress Elementor Course: Develop Site Without Coding
+> *  Ultimate Adobe Photoshop CC Masterclass Basics To Advanced
+> *  Complete Academic Course: Enterprise Application Development
+> *  Energy Management Economics
+> *  Towards Excellence : The 25 Steps to Success
+> *  Best Introduction to Information Security
+> *  Mastering The Complete Agile Scrum Master Workshop
+> *  Everything About Blogger From Scratch
+> *  Basic Structure of Computers
+> *  Introduction To Cybersecurity
+> *  Everything About Kali Linux OS
+> *  Microsoft Excel: Excel course for beginners
+> *  JavaScript in 12 Easy Lessons
+> *  Code Your First Game: Arcade Classic in JavaScript on Canvas
+> *  Learn Bootstrap - For Beginners
+> *  Microsoft Excel -Basic Excel/ Advanced Excel Formulas
+> *  Learn CSS - For Beginners
+> *  PHP & MySQL - Certification Course for Beginners
+> *  Learn PHP - For Beginners
+> *  HTML & CSS - Certification Course for Beginners
+> *  Learn jQuery - For Beginners
+> *  Learn JavaScript - For Beginners
+> *  Learn HTML - For Beginners
+> *  CSS & JavaScript - Certification Course for Beginners
+> *  Learn MySQL - For Beginners
+> *  Complete ExpressJS and MongoDB for Beginners in 2 hours
+> *  RESTFul API With Express Framework Crash Course
+> *  The Flutter & Dart Bootcamp-Getting Started Complete Guide
+> *  How to Create a Professional Presentation in PowerPoint
+> *  No-Code Machine Learning Using Amazon AWS SageMaker Canvas
+> *  Most Effective Tips to get your Dream Data Science Job
+> *  Solidity Interview Questions & Practice Tests (updated 2022)
+> *  Python Practice Tests & Interview Questions (Basic/Advanced)
+> *  EXCEL para principiantes enfocado a los  negocios
+> *  Spotfire Interview Tech Questions Answered with Explanation
+> *  Python Desktop Apps with Tkinter
+> *  WordPress Practice Tests & Interview Questions (Basic/Adv)
+> *  NFT Investing for Prudent Investors
+> *  Git &Github Practice Tests & Interview Questions (Basic/Adv)
+> *  Intro to Django Python Web Apps
+> *  Developer Relations Fundamentals - DevRel Masterclass 2022
+> *  Essential Non Technical Skills of Effective Data Scientists
+> *  »Photoshop y sus procesos automáticos | Trabaja más rápido
+> *  Healthy living with "No Oil" Recipes - Non Vegetarian
+> *  Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests
+> *  TIBCO Spotfire Development : Beginners To Advanced Course
+> *  Scrum Certification Course 2022 (Based on Scrum Guide 2020)
+> *  Complete Python Challenges, Python MCQ& Python Recap in 2022
+> *  Cyber Security: Secure Passwords on Linux
+> *  Copywriting & Content Marketing Course: Be a Pro Copywriter
+> *  Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor
+> *  Aprende a Invertir Profesionalmente en NFT y Metaverso
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **103 Udemy free courses with certificate already published on 2022-04-17** 🔥🔥🔥
 > *  MBA: Retail management, Merchandising, and E-commerce
 > *  Facebook Ads & Instagram Ads Course 2022: The Art of Selling
