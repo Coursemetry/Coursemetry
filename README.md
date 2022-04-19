@@ -33,6 +33,185 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * [Pinterest](https://www.pinterest.fr/Coursemetry)
 * [Coursemetry](https://coursemetry.com/)
 
+## **173 Udemy free courses with certificate published on 2022-04-19** 🔥🔥🔥
+> *  Quantum Computing Fundamentals with Microsoft Azure Quantum
+> *  No-Code Machine Learning with Qlik AutoML
+> *  Artificial Neural Networks for Business Managers in R Studio
+> *  Python Demonstrations For Practice Course
+> *  CSS And Javascript Crash Course
+> *  general mycology a brief review
+> *  Marketing Analytics and Retail Business Management
+> *  Microsoft Excel Masterclass for Business Managers
+> *  Project/ Product Management Frameworks & Methods MasterClass
+> *  Microsoft Clarity for Web Analytics :  A-Z Complete Tutorial
+> *  Quantity Surveying With Rate Analysis And Take Off-Beginners
+> *  Curso de Hacker para Iniciantes
+> *  Excel Analytics: Linear Regression Analysis in MS Excel
+> *  Google Data Studio Complete Beginners to Advanced Tutorial
+> *  Emotional Intelligence for Software Engineers and Developers
+> *  Marketing Analytics: Customer Value and Promotion Strategy
+> *  CompTIA A+ CompTIA Network+ CompTIA Security+ IT Fundamental
+> *  practical bacteriology from scratch
+> *  Use Would in English
+> *  Automated Machine Learning for Beginners (Google & Apple)
+> *  Embedded Systems. STM32 Interrupt-Driven NEC decoder
+> *  ML for Business Managers: Build Regression model in R Studio
+> *  Ethical Hacking - Port Scan com Ferramentas Online e Offline
+> *  Python-Introduction to Data Science and Machine learning A-Z
+> *  Microsoft SQL for Beginners
+> *  SQL Masterclass: SQL for Data Analytics
+> *  Mobile App Marketing for Absolute Beginners
+> *  AutoCAD 2D and 3D Masterclass
+> *  Management Consulting Essential Training
+> *  Management Consulting Skills Mastery
+> *  PHP for Beginners: PDO Crash Course 2022
+> *  Complete Figma Megacourse: UI/UX Design Beginner to Expert
+> *  Complete Procreate Megacourse: Beginner to Expert
+> *  Applying Scrum: Mastering the Agile Scrum Framework
+> *  How to Earn from Photography: Absolute Beginners Guide
+> *  SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP
+> *  Python Programming for Beginners [Full Course]
+> *  Learn Egyptian Arabic through Cartoons
+> *  Complete German Course: Learn German for Beginners
+> *  First Steps Into Selling Smarter
+> *  Web Developer 101-Use Web Servers to Build Sites on your PC
+> *  Udemy Course Creation - Udemy Instructor Guide (Unofficial)
+> *  Introduction To Ethical Hacking
+> *  Basic Portrait Drawing Techniques- Beginners and Advanced
+> *  Financial Accounting – Inventory Costs
+> *  Process Costing System-Cost Accounting-Managerial Accounting
+> *  Accounting for Corporations
+> *  QuickBooks Desktop Pro-Personal Tax Tracking Tricks
+> *  Accounting-Bonds Payable, Notes Payable, Liabilities
+> *  Flexible Budgets, Standard Costs, & Variance Analysis
+> *  Master Budgets – Managerial Accounting/Cost Accounting
+> *  Job Order Costing System – Managerial Accounting
+> *  Cost Volume Profit Analysis (CVP) – Managerial Accounting
+> *  Accounting-Statement of Cash Flows
+> *  Financial Accounting-Depreciation Calculation & Fixed Assets
+> *  Partnership Accounting
+> *  Personal Finance #2–Financial Statements & Budgeting
+> *  Excel Accounting 2–Worksheet, Opening Balances, & Subledger
+> *  Excel Accounting 4–Enter Data & Track Current Month & YTD
+> *  Excel Accounting 5–Bank Reconciliations-Month 1 & 2
+> *  Master Microsoft Power BI in 21 Days
+> *  Microsoft Office Complete Course | All in one MS Office
+> *  Excel Accounting 1–Transactions for Common Data Input Forms
+> *  Microsoft Access Training | Master the MS Access
+> *  Learn Microsoft Publisher | Complete Microsoft Publisher
+> *  Corporate Finance #15 Dividend Policy
+> *  Personal Finance #1 Goals, Planning, & Time Value of Money
+> *  Corporate Finance #7 Short Term Financing
+> *  Corporate Finance #13 Investment Banking & Long-Term Debt
+> *  Corp Finance #10 Cost of Capital–Debt & Equity Financing
+> *  Corporate Finance #11 Capital Budgeting
+> *  Kids English Vocabulary Set One - Nouns
+> *  Corp Finance #12 Capital Budgeting & Investment Risk Tools
+> *  Corp Finance #17 Merger, Acquisition & Foreign Currency
+> *  English Reading Set Level A
+> *  Corporate Finance #8 Time Value of Money (PV & FV)
+> *  Personal Finance #3–Financial Services & Bank Reconciliation
+> *  Corporate Finance #16 Convertible Bonds & Warrants
+> *  Corporate Finance #9 Valuation-Bond, Common /Preferred Stock
+> *  Desenvolvimento Front-End: HTML, CSS, JS, Bootstrap e Vue.js
+> *  The Complete Brain Training Course - Neuroplasticity -
+> *  The Complete Facebook Traffic Ads (Facebook CPC) Course 2022
+> *  Bitcoin University: Build & Grow Your Wealth with Bitcoin
+> *  Accounting, Financial Accounting
+> *  Profitable App Development Blueprint for Startups
+> *  Complete Good Sleep Habits Course - Sleep Better Tonight!
+> *  Python for Machine Learning: The Complete Beginner's Course
+> *  Copywriting: Make Money From Home WRITING WORDS
+> *  Complete Organization Masterclass - Organize - Decluttering
+> *  Minimalist Lifestyle - Complete Course - Decluttering Life
+> *  The Complete Happiness Course: Become Happier Now!
+> *  Entrepreneurship: 60 Day Startup Launch Blueprint
+> *  Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022
+> *  Complete Gmail Productivity Course -  More Productive Email
+> *  The Complete Proofreading Course: Editing and Proofreading
+> *  Python for Deep Learning: Build Neural Networks in Python
+> *  Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge
+> *  Web Hacking for Beginners
+> *  Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto
+> *  Data Manipulation in Python: Master Python, Numpy & Pandas
+> *  The Complete Google Sheets Course - Google Spreadsheet Tips
+> *  Teacher Training - How to Teach Online - Remote Teaching 1Hr
+> *  Complete Google Slides Course - Create Stunning Slides
+> *  Data Science with Python Complete Course
+> *  Core Java bootcamp program with Hands on practice: Java SE
+> *  Beginners guide to Android App Development (Step by Step)
+> *  Python for Machine Learning with Numpy, Pandas & Matplotlib
+> *  Learn Machine learning & AI (Including Hands-on 3 Projects)
+> *  Building Android Widgets from Scratch ( Learn 8 Widgets)
+> *  5 Real-Time Use Cases using Machine Learning
+> *  MySQL Beginner to Advance
+> *  Docker Course for Beginners
+> *  Introduction to Microservices
+> *  Machine Learning From Basic to Advanced
+> *  NLP Course for Beginner
+> *  Computer Vision with Python
+> *  Python Course From Basic to Advanced
+> *  Learn Machine Learning in 21 Days
+> *  Learn Flutter and Dart to create Android and IOS apps
+> *  App android y Sistema para Karaoke en Xamarin Forms
+> *  Mobile Games 101 – Android and iOS Development
+> *  Learn to Build Mobile Games using Corona SDK
+> *  Hashtag Traffic Generation - Hashtag Marketing
+> *  Twitter for Business
+> *  Learn To Code By Making Games in Python
+> *  Negotiation A-Z: Inside Secrets from a Master Negotiator
+> *  Excel Profesional 2022– Para Empresas!
+> *  Learn Elementor & WordPress, for Startups & Freelancers
+> *  Aprende en 2022 RÁPIDAMENTE   Power BI en Español
+> *  Learn Zapier + IFTTT and Automate Your Life | 2020 Guide
+> *  Escuela de Programación y Desarrollo Web desde cero a Master
+> *  SQL Básico - Intermedio ¡Añade valor a tu CV en 2 horas!
+> *  Microsoft Excel: Análisis de datos con tablas dinámicas
+> *  R Studio: Empieza desde cero
+> *  SQL: Creación de Bases de Datos (De cero a profesional)
+> *  The Comprehensive Course in Construction Project Management
+> *  Flutter Advanced Course - Clean Architecture With MVVM
+> *  Learn Python from a University Professor
+> *  Angels & Demons - What The Bible Really Says About It
+> *  Advanced Microsoft Excel Formulas & Functions - 2022
+> *  The SQL Programming Essentials 2022 Immersive Training
+> *  Learn Coding with C# from Scratch | C# Comprehensive Course
+> *  Advanced Foundations of Python Programming | 2022 Training
+> *  Learn Coding with Java from Scratch: Essential Training 2022
+> *  1Z0-1085-21: OCl Foundations Associate Practice Exam
+> *  Practice Python: Building Projects with Python Programming
+> *  The R Programming For Data Science A-Z Complete Diploma 2022
+> *  Databases with Python: MySQL, SQLite & MongoDB with Python
+> *  AWS Certified Cloud Practitioner - Practice Exams - 2022
+> *  AWS Certified Developer - Associate Latest Practice Exam
+> *  Write to Impress -Business Writing Skills for Corporates
+> *  Google Analytics For Beginners
+> *  Corporate Finance #5 Financing Decisions
+> *  Mastering the Art of Presentation Skills
+> *  Corporate Finance #6 Management of Current Assets
+> *  Corporate Finance #4 Leverage & Break-Even Analysis
+> *  Corporate Finance #2 Financial Ratios
+> *  Marketing Basics for Non Marketing Professionals
+> *  Work Smarter Not Harder - Modern Productivity Hacks for Life
+> *  Corporate Finance #3 Forecasting & Budgeting
+> *  Excel Accounting 3 – Enter First Month of Transactions
+> *  Google Certified Associate Cloud Engineer Practice Questions
+> *  Google Sheets - جوجل شيت من الصفر للاحتراف
+> *  Google Slides - جوجل سلايدز من الصفر للاحتراف
+> *  Google Docs - مستندات جوجل من الصفر للاحتراف
+> *  Learn How to Compete with the top 5% of Fortnite Players
+> *  Itemization Course League of Legends
+> *  Xero Job Costing – Projects
+> *  QuickBooks Online (QBO) Bookkeeping With Bank Feeds 2022
+> *  Corp. Finance #14 Financing-Commons Stock & Preferred Stock
+> *  QuickBooks Pro Desktop Bookkeeping With Bank Feeds 2022 2021
+> *  The Complete NFT Course: Become an NFT Creator & Investor
+> *  The Complete Windows 11 Masterclass
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **153 Udemy free courses with certificate published on 2022-04-18** 🔥🔥🔥
 > *  virology 4 you
 > *  PRINCE2 Foundation Practice Certification Exams Updated 2022
