@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 
 About 100+ daily free courses with certificates to develop its skills and its knowledge.
 
-* No stupid videos or memes
-* No links to courses that are not really free!
-* No post like "Who is interested in ..."
-* No advertising for free online schools with unofficial certificates
-* ONLY 100% OFF coupons and free courses!
-
 **Follow us**
 * [Telegram](https://t.me/coursemetry)
 * [Twitter](https://twitter.com/Agimafr)
