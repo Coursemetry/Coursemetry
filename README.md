@@ -27,6 +27,153 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * [Pinterest](https://www.pinterest.fr/Coursemetry)
 * [Coursemetry](https://coursemetry.com/)
 
+## **141 Udemy free courses with certificate published on 2022-04-21** 🔥🔥🔥
+> *  GoF Design Patterns - Complete Course with Java Examples
+> *  Google Chrome Basics
+> *  Software engineering fundamentals for Beginners : 0-4 years
+> *  Adobe Premiere Pro 2022 Ultimate Course
+> *  Preparation to Java SE 11 Developer Exam: 1Z0-819 & 1Z0-817
+> *  Font Awesome
+> *  Learn basic Italian in 2 hours
+> *  Firefox Developer Edition
+> *  Advanced Strategies to Secure Better UpWork Clients
+> *  AZ-303: Microsoft Azure Architect Technologies Practice Exam
+> *  WebServices testing (RestSharp + Postman) Complete Guide
+> *  CSS, JavaScript And Python Complete Course
+> *  Java Complete Course For Begineers 2022
+> *  Data Analytics,Storage,Mining & Visual Big Data Technologies
+> *  Adobe Audition 2022 Projects
+> *  Adobe Dreamweaver 2022 Basics
+> *  Certified Cloud Computing Practical Tests and Answers
+> *  Software architecture
+> *  Learn ASP.NET MVC and Entity Framework (Database First)
+> *  Adobe Animate 2022 Ultimate Course
+> *  WebServices testing (RestAssured + Postman) Complete Guide
+> *  Webservices API Testing with Postman - Complete Guide
+> *  Master Multithreading - Concurrency with Java Examples
+> *  2022 Python for Beginners:  A to Z Concise Hands-on Course
+> *  Java Test Automation Engineer - from Zero to Hero
+> *  Improving software development productivity
+> *  Selenium in C# - Setup Simple Test Automation Framework
+> *  How to Get UpWork Clients (2020 And Beyond)
+> *  Tech Disruption to the accouting Industry and how to counter
+> *  Project Management: Deliver on Time + Scrum Project Delivery
+> *  Amazon Elastic Compute Cloud (EC2) Beginners Certification
+> *  Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu
+> *  Modern PHP Web Development w/ MySQL, GitHub & Heroku
+> *  HTML, CSS, & Bootstrap - Certification Course for Beginners
+> *  C# Console and Windows Forms Development w/ Entity Framework
+> *  Learn to Host Multiple Domains on one Virtual Server
+> *  Web Development Masterclass - Complete Certificate Course
+> *  How to Install a Free SSL Certificate using Let's Encrypt
+> *  SDET C#: Test Automation From Scratch
+> *  Supply Chain Professional Practical tests ... Be Certified
+> *  MySQL Database Development Mastery
+> *  Adobe Lightroom Masterclass - Beginner to Expert
+> *  Cloud Computing and Amazon Web Services (AWS) Fundamentals
+> *  School Physics Class 12 Practical Tests and Answers
+> *  Certified Virology Practical Tests and Answers
+> *  2022 Professional MS EXCEL Course with Real Applications
+> *  AWS Identity and Access Management (IAM) Foundations
+> *  Bible: 7 Lessons From The Book Of Jude Plus The Why..
+> *  Java Collections Framework + Generics, Lambdas & Stream API
+> *  Certified Python Questions and detailed Answers
+> *  PHP y MYSQL: Convierte cualquier template HTML en una WebAPP
+> *  Microsoft SQL Server Development for Everyone
+> *  Build an Amazon Affiliate E-Commerce Store from Scratch
+> *  AWS Certified Solutions Architect Associate Tests
+> *  School Chemistry Class 12 Practical Tests and Answers
+> *  Fundamentals of Network Security
+> *  School Chemistry Class 11 Practical Tests and Answers
+> *  SAS Certified Associate SAS Programming Fundamentals
+> *  Certified C Sharp [C#] Programming Practical Tests
+> *  Certified Artificial Intelligence [AI] Practical Tests
+> *  Certified Artificial Neural Networks [ANNs] Practical Tests
+> *  Certified C Programming practical tests TOP Questions
+> *  Selenium in Java - Setup Simple Test Automation Framework
+> *  Certified C++ Programming practical tests TOP Questions
+> *  TOP Interview Questions of Data Structures and Algorithms(1)
+> *  Python And Flask Framework Complete Course For Beginners
+> *  Certified Data Structures and Algorithms Questions Part(2)
+> *  Certified Six Sigma green belt Practice Tests
+> *  School Physics Class 11 Practical Tests and Answers
+> *  How to create an animated promo video in PowerPoint
+> *  Certified Associate in Project Management (CAPM) Simulator
+> *  International Computer Driving License (ICDL)
+> *  School Mathematics Math Class 8 Practical Tests and Answers
+> *  Certification OCI Foundations[1Z0-1085-21]|Update 2022
+> *  Building your own Neural Network from Scratch with Python
+> *  AI-900 Azure AI Fundamentals practice tests - April 2022
+> *  Wordpress for Complete Beginners
+> *  DIY Advance Options Trading Strategies (5 Courses) 11 Hours
+> *  (MEVN Stack) build a PWA & Machine Learning E-Commerce APP
+> *  The Complete React Redux Node Express MySQL Developer Course
+> *  The Complete Go:Golang Bootcamp
+> *  DP 900: Microsoft Azure Data Fundamentals Practice Questions
+> *  JavaScript Certification Exam JSE-40-01 - Preparation
+> *  AWS Certified Cloud Practitioner Practice Questions
+> *  Complete WiFi Hacking Course: Beginner to Advanced
+> *  Wordpress Create Your Own Website 2022!
+> *  NGINX Web Server from Scratch
+> *  How to Create a Secure Website With WordPress
+> *  Become A Certified Python Programmer: Python Practice Tests
+> *  2022 Become A Certified Node JS Developer: Practice Tests
+> *  Introduction To Swedish Body Massage
+> *  2022 Become A Certified JavaScript Developer: Practice Tests
+> *  Enterprise Application Development Masterclass 2022
+> *  Web Design for Web Developers: Build Beautiful Websites!
+> *  Create Stunning Infographics to Share your Ideas
+> *  Complete Linear Regression Analysis in Python
+> *  Logistic Regression in R Studio
+> *  Data Analyst Skill path in Hindi - हिंदी में सीखें
+> *  SVM for Beginners: Support Vector Machines in R Studio
+> *  Hyperthinking: improve your day to day learning & creativity
+> *  The Complete Beginners Guide to Google Slides
+> *  Video Editing Made Easy (FILMORA)
+> *  Python Basics - Python from Scratch in 2 Days
+> *  The Most Common Used Technical Indicators
+> *  Online Teaching Course: Basics of Teaching Online
+> *  Ethical capitalism
+> *  Life extension
+> *  Master C++ Programming From Beginner To Advance - C++ Course
+> *  Intermediate Python Immersive Training | Boost your career
+> *  The Python Programming Comprehensive Bootcamp
+> *  YouTube Thumbnail Masterclass / Ultimate Guide to Thumbnails
+> *  How to make WordPress website with DIVI 2020 and Toolset
+> *  Write to Impress -Business Writing Skills for Corporates
+> *  FE Exam Academy: FE Civil Exam for Geotechnical Engineering
+> *  Porto Visual Composer CSS Woocommerce Zero to Hero  2020
+> *  ووردبريس ريسبونسيف wordpress visual composer css responsive
+> *  Mastering The Interview
+> *  Leadership Essentials for Emerging Leaders
+> *  Learn CAESAR II : The complete pipe stress analysis course
+> *  Team Management Skills for Building High Performance Teams
+> *  Ultimate MD-100 Windows 10  Exams 2022
+> *  Certified Ethical Hacker CEHv11 Exam Practice Questions
+> *  GOLANG: Curso profesional de Go - De cero a Master 2022
+> *  Mastering the Art of Presentation Skills
+> *  The Python Developer Essentials 2022 Immersive Bootcamp
+> *  Linux Command Line Terminal Basic for Beginners (In Hindi)
+> *  Python Programming Beyond The Basics & Intermediate Training
+> *  Complete NFT Course (Beginner > 1000USD /Day Trading NFTs)
+> *  Data Science: Python for Data Analysis 2022 Full Bootcamp
+> *  The Python Programming For Everyone Immersive Training
+> *  The Python Programming A-Z Definitive Diploma in 2022
+> *  P.O.W.E.R Resume System: Proven system to get job interviews
+> *  اختبار اختراق المواقع بالعربي
+> *  The 150 Most Important Irregular Verbs in English. Volume 1
+> *  Learn Big Data Basics
+> *  Linux Desktop Automation
+> *  Ethical Hacking: Hacking with Python
+> *  Ethical Hacking: SQL Injection for Beginners
+> *  Ethical Hacking: Introduction to Exploits
+> *  AppArmor - Linux Security
+> *  GCP-Google Professional Cloud Developer Exam APR 2022
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **148 Udemy free courses with certificate published on 2022-04-20** 🔥🔥🔥
 > *  Java, Python And PHP Programming In One Complete Course
 > *  Python Complete Course For Python Beginners
