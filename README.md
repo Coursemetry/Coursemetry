@@ -27,6 +27,109 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * [Pinterest](https://www.pinterest.fr/Coursemetry)
 * [Coursemetry](https://coursemetry.com/)
 
+## **97 Udemy free courses with certificate published on 2022-04-22** 🔥🔥🔥
+> *  Understanding Java with C++ knowledge [Urdu/Hindi]
+> *  How to speak to your dream client on social media
+> *  Ecommerce Mastery 2022
+> *  GIT Version Control Understanding [Urdu/Hindi]
+> *  Freelancing Mastery 2022
+> *  Instant Affiliate Mastery 2022
+> *  JavaScript And PHP Programming Complete Course
+> *  Entrepreneurial Ideas Mastery 2022
+> *  Ms Excel/Excel 2022 - The Complete Introduction to Excel
+> *  Counselling and Negotiation Skills for Management
+> *  Bitcoin Mastery 2022
+> *  Curso Básico de Kali Linux com NMap para pentest e hacking
+> *  Create your own business graphics like a BOSS
+> *  T-Shirt Business Mastery 2022  | Full Blueprint From 0 to 1
+> *  An entrepreneurs guide to marketing and sales
+> *  Affiliate Networking Mastery 2022
+> *  Python For Beginners Course In-Depth
+> *  Referral Marketing Mastery 2022
+> *  Time management for busy entrepreneurs - optimize to win
+> *  Online Traffic Mastery 2022
+> *  Facebook Marketing Mastery 2022
+> *  Organize your online business for busy entrepreneurs
+> *  Amazon Associates Mastery 2022 | Full Blueprint From 0 to 1!
+> *  Bitcoin For Beginners: How To Earn Bitcoin Online For Free
+> *  Digital Products Mastery 2022
+> *  The Complete Computer Basics Guide for Beginners: 2022
+> *  C++ And Java Programming Complete Training Course
+> *  Instagram Business Mastery 2022
+> *  Practical CSS3 Mastery Course
+> *  Marketing Analytics: Forecasting Models with Excel
+> *  Blockchain Mastery 2022
+> *  WordPress Express
+> *  Futures Trading Mastery 2022 | FREE Top 45 Trading Signals!
+> *  AWS Certified Cloud Practitioner - Practice Exams - 2022
+> *  Positivity in 2022 and beyond (despite the virus!)
+> *  Shopify Bootcamp: Increase Your Sales and Conversion rate
+> *  Fundamentos da Criptografia, Esteganografia e Criptoanálise
+> *  Demand Forecasting - A Beginner's guide
+> *  Become a Citizen Data Scientist with HyperSense-AI Studio
+> *  Applied Sentiment Analysis - Trading & Forecasting
+> *  JDBC Basics
+> *  Ultimate Course on Massive Goal Setting: NLP Based Course
+> *  MB-910 Microsoft Dynamics 365 Fundamentals - Tests 2022
+> *  Java Web Services
+> *  jQuery Basics
+> *  JavaScript Basics
+> *  HTML5 Basics
+> *  PowerShell Basics
+> *  The Ultimate Guide to Python Programming With Python 3.10
+> *  HTML5 Ultimate Course
+> *  jQuery Ultimate Course
+> *  Learn to Draw Illustrated Creatures From Simple Shapes
+> *  [NEW] AWS Certified Cloud Practitioner Practice Exams  2022
+> *  Complete PowerPoint Megacourse: Beginner to Expert
+> *  Fiverr Freelancing Beginner Course
+> *  The World-Class Digital Portfolio Blueprint For Freelancers
+> *  Practical Photography for Absolute Beginners: 9 Courses in 1
+> *  Premiere Video Editing Ultimate Beginners Course in Premiere
+> *  Search Engine Optimization Complete Specialization Course
+> *  Create Marketing Videos Like a Pro Using InVideo
+> *  Customer Service Fundamentals.
+> *  Introduction To Swedish Body Massage
+> *  Google Certified Associate Cloud Engineer Practice Questions
+> *  10 Passive Income Businesses - Earn Passive Income In 2022
+> *  Blogging & Content Writing Course - Start A Profitable Blog
+> *  Certified Ethical Hacker CEH v10 Practice Questions
+> *  RA: Supply Chain Applications with Python: Inventory.
+> *  Cisco CCNA CyberOps - SECFND (210-250) Practice Questions
+> *  The Mega PRO Digital Marketing Course A-Z : 4 Courses In 1
+> *  A Deep Dive into Forecasting- Excel & R.
+> *  SQL Bootcamp: Complete SQL Course
+> *  The Ultimate Microsoft Excel Pivot Table MasterClass
+> *  Statistical Thinking and Data Science with R.
+> *  Wordpress for Complete Beginners
+> *  Machine Learning with Python : COMPLETE COURSE FOR BEGINNERS
+> *  Level 1 - How to run RPA/Automation projects, the easy way
+> *  Disaster and Emergency Preparation - France
+> *  online coaching walking in the woods
+> *  Learn Ethereum and Solidity
+> *  PMI Scheduling Professional (PMI-SP)-Practice Tests-2022
+> *  CompTIA Network+ (N10-007) Practice Test
+> *  Certified Information System Security Professional-Exam 2021
+> *  NGINX Web Server from Scratch
+> *  SIMULADOR PMP 2022 GUIA preguntas Examen Vol II
+> *  How To Use R for Research
+> *  Metaverse Masterclass for Beginners - Metaverse Mastery Now!
+> *  Control Your Subconscious Mind: Neuroscience Hidden Secrets
+> *  Creative Infographics in PowerPoint
+> *  Simple Methods To Create A Passive Income
+> *  Export Documents, Procedures, Policies & Incentives in India
+> *  Enable Any Frontend App with Login using Google & SpringBoot
+> *  AWS Certified Cloud Practitioner Practice Exams 2022
+> *  Complete Modeling Guide: Cinema 4D S24
+> *  Complete Course in CATIA
+> *  Hiring Process: Talent Management
+> *  Facebook Ads Copywriting & Facebook Ads for Real Estate 2022
+> *  Forex Indicator’s system
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **141 Udemy free courses with certificate published on 2022-04-21** 🔥🔥🔥
 > *  GoF Design Patterns - Complete Course with Java Examples
 > *  Google Chrome Basics
