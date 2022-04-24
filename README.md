@@ -27,6 +27,90 @@ About 100+ daily free courses with certificates to develop its skills and its kn
 * [Pinterest](https://www.pinterest.fr/Coursemetry)
 * [Coursemetry](https://coursemetry.com/)
 
+## **78 Udemy free courses with certificate published on 2022-04-24** 🔥🔥🔥
+> *  Become A Certified Java Developer: Java Practice Tests
+> *  Become A Certified JS Developer: JavaScript Practice Tests
+> *  Microsoft Azure Fundamentals (AZ-900) PRACTICE TESTS.
+> *  C++ Programming: Practice Tests Beginner To Advanced Level
+> *  Ultimate Guide to Product Design: Design Thinking Approach
+> *  Become A Certified Python Programmer: Python Practice Tests
+> *  Open Broadcaster Basics
+> *  Generate More Sales With Social Selling
+> *  Microsoft Power Automate (Flow) Ultimate Course 2022
+> *  HTML Certification, Practice Test For Exams & Interviews
+> *  Adobe After Effects 2022 Ultimate Course
+> *  Microsoft 365 Ultimate Course 2021
+> *  Microsoft Edge Basics
+> *  The Art of Drawing Cartoon : Baby Viking 2.0 (NEW)
+> *  Understanding Brain Health And Function
+> *  The Essential Guide to Online Privacy & Security in 2022
+> *  NFT Gold Rush
+> *  Best Solution Ever To Crack API Testing Interview.
+> *  2022 Beginner's guide to Cyber Security
+> *  How to create viral podcast videos for social media
+> *  Video editing for busy entrepreneurs: edit video like a boss
+> *  Cómo Crear una Tienda Online con WordPress Desde Cero 2022
+> *  Learn Carnatic Flute | Annamacharya Keerthanas - Vol 5
+> *  Affiliate Marketing Excellence: Clickbank Success Strategies
+> *  How to Start a Podcast
+> *  How to create 3D video tutorial - Blender Maya 3D
+> *  Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022
+> *  Portrait Photography for Absolute Beginners
+> *  Discord Message Deleted bot
+> *  Chatfuel: The Complete Guide to Messenger Bots for Business
+> *  Logistic Regression for Text Classification
+> *  Natural Language Processing (NLP) with BERT
+> *  Excel Accounting Problem
+> *  Audit - Financial Statement
+> *  QuickBooks Pro-Business & Personal-One QuickBooks File
+> *  Two QuickBooks File-Business & Personal vs One File For Both
+> *  QuickBooks Payroll - QuickBooks Pro Desktop
+> *  QuickBooks Payroll - QuickBooks Online
+> *  QuickBooks Desktop vs QBO Multiple Currencies
+> *  QuickBooks Online-Bookkeeping Business-Easy Way
+> *  QuickBooks Pro Desktop -Bookkeeping Business-Easy Way
+> *  Real Estate Investment & Finance
+> *  FREE Italian Class For Beginners
+> *  Chinese 101: Learn 14 Essential Basic Chinese for Beginner
+> *  Basics of Automotive Electronics
+> *  Install macOS on Azure Virtual Machine
+> *  Aprende a Invertir Profesionalmente en NFT y Metaverso
+> *  A Quick Guide to Turn Your Idea Into a Project.
+> *  Complete Python 3 course-Learn all the basics of python
+> *  Tax & Adjusting Entry Year-End Accounting Excel Worksheet
+> *  Criminology and Criminal Psychology | Certified CSI+ Course
+> *  Dive Deep into Statistics
+> *  AWS Certified Advanced Networking Specialty PRACTICE TESTS.
+> *  RCA: Root cause analysis
+> *  Lean Six Sigma Introduction Course
+> *  Six Sigma Yellow Belt
+> *  Complete Python & Python OOP with Exercises& Projects in2022
+> *  Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation
+> *  jQuery Fundamentals Powerful Bootcamp for beginners
+> *  Cyber Security and Ethical Hacking Masterclass | CSEH+ 2022
+> *  Kotlin Android Training - Mastering Android App Development
+> *  Digital Forensics Masterclass | Forensic Science 2022 DFMC+
+> *  Javascript For Beginners Complete Course
+> *  CSS Crash Course For Beginners
+> *  Excel Lessons - Zero to Pro for Teachers and Office Workers
+> *  Java Network Programming - Mastering TCP/IP | CJNP+ 2022
+> *  Python 1000: The Python Primer
+> *  Shopify Dropshipping Store Development | Beginners to Expert
+> *  Car Repair | Automotive Electrician and Mechanic Training |
+> *  Introduction to Apache Tomcat - Deploy Oracle APEX (2022)
+> *  Google Fonts
+> *  C++ Programming for Beginners
+> *  UI/UX Design With Figma : 5+ Real World Projects(2022)
+> *  Master Visual Scripting in Unity by Making Advanced Games
+> *  Create the ultimate SAAS system with Bubble and Stripe
+> *  How To Create an eCommerce Website With WordPress
+> *  Build an eCommerce website using Wix
+> *  Fire Up Creativity in Your Child
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **97 Udemy free courses with certificate published on 2022-04-22** 🔥🔥🔥
 > *  Understanding Java with C++ knowledge [Urdu/Hindi]
 > *  How to speak to your dream client on social media
