@@ -19,6 +19,187 @@ Here are some ideas to get you started:
 
 [Coursemetry](https://coursemetry.com/) provided 100% OFF online courses (Udemy, Coursera, edX, Eduonix)
 
+## **175 Udemy free courses with certificate published on 2022-04-25** 🔥🔥🔥
+> *  Super-Fast Web Design using Weebly (2022 Grand Edition)
+> *  Introduction to Cloud Computing on AWS for Beginners [2022]
+> *  Excel Tips and trick : Learn MS Excel by making 7 Projects
+> *  JavaScript for Beginners - The Complete introduction to JS
+> *  SuperMinds: The Future of Artificial Intelligence (AI)
+> *  C++ Complete Course For Beginners 2022
+> *  Bitcoin ve Kripto Para Uzmanlığı
+> *  HVAC Chillers system inside District cooling plant
+> *  Artificial Intelligence for Civil Engineers (Part 1)- தமிழில
+> *  Machine Learning with Python : COMPLETE COURSE FOR BEGINNERS
+> *  Fundamentals in Neural Networks
+> *  Complete Wordpress Website Developer Course
+> *  RoboAuthor: Content Writing Automation - Part 1 + Live Class
+> *  Ultra-Speed 3D Game Development using GameGuru  - தமிழில்
+> *  Fundamentals of Electrical Engineering - 2022
+> *  Agile Project Management: Scrum Step by Step with Examples
+> *  The Complete Microsoft Teams Course - Master Microsoft Teams
+> *  The Complete Resilience Course - Master Emotional Resiliency
+> *  Complete Confidence Building Course - Exude Confidence Now
+> *  Core Java bootcamp program with Hands on practice: Java SE
+> *  The Complete Google Docs Course - Google Docs Tricks & Tips
+> *  AD’s Hacker 1.0: Growth Hacking Certification for Marketers
+> *  Power BI Interview Questions and Answers
+> *  The Complete Google Forms Course - Sending & Analyzing Forms
+> *  Drupal For Absolute Beginners (2022)
+> *  Complete PYTHON Programming for Beginners - 2022
+> *  Python And Flask Framework Complete Course
+> *  Redesigning Amazon App Using Figma
+> *  सीखें Javascript Programming हिन्दी में
+> *  Killer ways to create and promote YouTube videos in 2022
+> *  The Ultimate Text-To-Video Creation Course (2022 Edition)
+> *  Gmail Productivity Ultimate Course 2021
+> *  The Ultimate Content Title and Idea Generation Course
+> *  The Art of Doing: Video Game Basics with Python and Pygame
+> *  Try Django 1.11 // Python Web Development
+> *  Google Photo Basics
+> *  Chrome Extension Basics
+> *  Code Editor Basics
+> *  Visual Studio Code Ultimate Course
+> *  Amazon Quicksight Ultimate Course
+> *  Chrome Developer Tool Basics
+> *  Google Sheet Basics
+> *  Domain Trading Basics
+> *  Burp Suite Basics
+> *  Debugging Basics
+> *  Amazon EKS Ultimate Course
+> *  Amazon EC2 Ultimate Course
+> *  Developer Tool Basics
+> *  cPanel Ultimate Course
+> *  Jetpack 1.0: Artificial Intelligence and Automation in HR
+> *  Google Drawings Basics
+> *  Digishock 3.0: The Future of Artificial Intelligence (AI)
+> *  QuickBooks Desktop vs. Excel
+> *  8D Audio Conversion Course: Convert Any Music Track To 8D
+> *  Google Jamboard Basics
+> *  QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020
+> *  Financial Accounting & Excel–Comprehensive Accounting Course
+> *  Arabic language conversational beginner course | byna yadek
+> *  RoboAuthor: Content Writing Automation 2022 - Part 7
+> *  Unlimited Free Traffic Generation Course: Master Edition
+> *  Advanced Artificial Intelligence in App Creation (2022)
+> *  Artificial Intelligence Markup Language (AIML)
+> *  Artificial Neural Network for Regression
+> *  Social Media Marketing on Autopilot with Missinglettr (2022)
+> *  Space Render Classic Edition: Create Live Audio-Rooms (2022)
+> *  Consulting Offer Creation Masterclass
+> *  Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)
+> *  The Service Business Accelerator
+> *  Unleash Your Creative Mind
+> *  New-Age Technologies For Fitness Trainers (2022 Edition)
+> *  Digital Marketing Course for Fitness Professionals (2022)
+> *  Use Would in English
+> *  Learn Python: Python Baby Steps
+> *  Get My Super Backlink Method & Rank 1st in Google Every Time
+> *  Google Keep
+> *  Improve English by Listening Movies – 1b
+> *  Improve English by Movies
+> *  Google My Maps Basics
+> *  HTML & CSS - Certification Course for Beginners
+> *  AWS Certified Solutions Architect Professional Practice Exam
+> *  Improve English by Listening Movies – 1c
+> *  AZ-900: Microsoft Azure Fundamentals Latest Practice Exam
+> *  Lumion : Landscape Design & Photorealistic Rendering
+> *  AWS Certified Developer - Associate Practice Exam
+> *  AZ-304: Microsoft Azure Architect Design Practice Questions
+> *  Excel Analytics: Linear Regression Analysis in MS Excel
+> *  Python for beginners - Learn all the basics of python
+> *  Support Vector Machines in Python: SVM Concepts & Code
+> *  Google Certified Professional Cloud Architect Practice Exam
+> *  AZ-400: Designing and Implementing Microsoft DevOps Solution
+> *  Neural Networks in Python: Deep Learning for Beginners
+> *  Data Visualization in Excel: All Excel Charts and Graphs
+> *  Diversity At Workplace
+> *  Data analysis & Business Intelligence | Advanced MySQL
+> *  Video Production, YouTube Marketing, & Video Marketing Guide
+> *  Best of Copywriting & SEO: Content, Copywriting & SEO Course
+> *  2022 Become A Certified React Developer: Practice Tests
+> *  Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition
+> *  2022 Become A Certified Node JS Developer: Practice Tests
+> *  Facebook Ads Copywriting & Facebook Ads for Real Estate 2022
+> *  Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course
+> *  Python for Deep Learning: Build Neural Networks in Python
+> *  Data Manipulation in Python: Master Python, Numpy & Pandas
+> *  Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022
+> *  Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun
+> *  Certified Professional in Python Programming - Practice Test
+> *  Python for Machine Learning: The Complete Beginner's Course
+> *  Best of Content Marketing, SEO & Copywriting + 23 Templates
+> *  Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor
+> *  Lead Generation Mastery with Facebook Lead & Messenger Ads
+> *  Mindfulness for Wellbeing and Peak Performance
+> *  Introduction into Facebook Marketing & Facebook Advertising
+> *  How to Create a Professional Presentation in PowerPoint
+> *  Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !
+> *  CSS Complete Course For Beginners
+> *  Javascript Practicals Crash Course
+> *  Python Technical Interview Questions: The Ultimate Course
+> *  Game Development with Java and Python
+> *  Wedding Photography Complete Guide For Beginners
+> *  The Complete GSAP: JavaScript ,HTML and CSS Course for 2022
+> *  Aerospace Masterclass: Transonic Aerodynamics
+> *  The Complete RESTful APIs with Python Course
+> *  The Complete Java Swing Course for GUI Development for 2022
+> *  The Complete Python Game Development Course for 2022
+> *  Aerospace Masterclass: Aircraft Design
+> *  The Complete Java Game Development Course for 2022
+> *  How To Write A Business Proposal - Upwork - Proposal Writing
+> *  Game Development with PyGame  | Real World Games
+> *  The Complete Java Game Development Course 2022: Part 2
+> *  Python API Programming with FastAPI and Flask
+> *  Comprehensive Introduction to Cyber Security
+> *  The Complete Python Network Programming Course for 2022
+> *  The Complete Mathematics Software Developer Course for 2022
+> *  The Complete Introduction to C++ Programming
+> *  Java for Beginners - Learn all the Basics of Java
+> *  2022 Aprende SQL y Oracle MUY RÁPIDO  Certifícate
+> *  Book of Nehemiah - How To Develop The Leader In You!
+> *  Java Games Development With libGDX  | Create 5 Games
+> *  The Complete Automation PyTest Course for 2022
+> *  Wordpress for Complete Beginners
+> *  Learn ETABS & SAFE in the Structural Design of 15 Stories RC
+> *  Autodesk Structural Robot R.C.C Villa Design in UAE
+> *  Get Some Sleep Tonight
+> *  Everything you need to know Trading & Technical analysis
+> *  AutoCAD2020 2D Basics & Advanced(Full Projects Civil + Arch)
+> *  Csi ETABS in the Structural analysis of 15 stories+ basement
+> *  Tekla structures Shop drawings Steel Structure
+> *  Robot Structural Analysis (Steel Structure)
+> *  Autodesk Revit & Robot Structural Analysis + Sheets + BOQ
+> *  Prokon Civil Engineering Structural Design R.C.C Element
+> *  Advanced ETABS V2019 52 stories Tower different seismic sys
+> *  Civil Engineering Structural Shop Drawing in AutoCAD
+> *  CSI Sap2000 3D building design + all type of (Stairs+Tanks)
+> *  Revit structural drawing of 15 stories residential building
+> *  Csi Safe + AllPile foundation, slabs, beams and deflection
+> *  STAAD Pro V8 Structural design of R.C building from A to Z
+> *  STAAD Pro V8 Industrial Steel Warehouse Design from A to Z
+> *  Robot structural design 15 stories residential buildings
+> *  ETABS v19 & SAFE v16 in Villa Structural Design in UAE+CAD
+> *  Architectural Shop Drawing Plans in AutoCAD 2020
+> *  Prokon Analysis and Design of 3 Stories R.C.C Building
+> *  Cloud Web Server : configuración simple y automatizada.
+> *  Tekla Structures shop drawing R.C.C Building
+> *  CSI ETABSV19 steel structure analysis and design
+> *  Python 1000: The Python Primer
+> *  Agile Scrum + Scrum Certification Prep. + Scrum Master + PO
+> *  Mind Power - Change Your Thought Process To Change Your Life
+> *  Masterclass for Effective Time Management
+> *  Italian Made Easy: Learn & Improve Your Italian Instantly
+> *  YouTubeフィットネスチャンネルの作り方｜ヨガ、筋トレ、ダンス系で日本と海外の動画比較
+> *  Effective Time Management Skills For A Productivity Boost
+> *  Basics of Database Design & Development
+> *  Write Dreamy, Heartfelt, Soulful Poetry - Creative Writing
+> *  Instagram For Beginners Who Don't Like Social Media
+> *  21-Days Challenge to Overcome Failure & Find Motivation
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 About 100+ daily free courses with certificates to develop its skills and its knowledge.
 
 **Follow us**
