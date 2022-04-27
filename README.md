@@ -19,6 +19,130 @@ Here are some ideas to get you started:
 
 [Coursemetry](https://coursemetry.com/) provided 100% OFF online courses (Udemy, Coursera, edX, Eduonix)
 
+## **118 Udemy free courses with certificate published on 2022-04-27** 🔥🔥🔥
+> *  The Art Of Drawing The Face | Beginner's Level Course (NEW)
+> *  Laser Focus Mastery 2022
+> *  Cisco CyberOps Associate CBROPS 200-201 Practice Exams 2022
+> *  ITIL 4 Foundation Practice Exams - APRIL 2022
+> *  The Complete Go:Golang Bootcamp
+> *  AWS Certified Security Specialty – Practice Exams APR 2022
+> *  CSS, JavaScript,PHP And Python Programming All in One Course
+> *  AZ-900 Microsoft Azure Fundamentals Practice Exams APR 2022
+> *  Ubuntu Linux on  VirtualBox quick setup
+> *  Tokenization : Bringing Crypto to the Real World
+> *  Python And Django Framework For Beginners Complete Course
+> *  Salesforce Platform Developer 1 Practice Exams PD1 2022
+> *  Political Savvy: Maximizing Your IMPACT in the Organization
+> *  AZ-204 Microsoft Azure Developer – Practice Exams APR 2022
+> *  Dare to Lead: How to Become a Next Generation Leader
+> *  Use Would in English
+> *  Procesamiento digital de imágenes con Python de 0 a Master
+> *  NGINX Web Server from Scratch
+> *  English language basics for beginners & intermediate level 3
+> *  PRINCE2 Foundation Practice Certification Exams Updated 2022
+> *  Influencer Marketing Mastery 2022
+> *  C++ And Python Programming Complete Course
+> *  Learn PHP Development | Arabic [عربي]
+> *  Advanced Java programming with JavaFx: Write an email client
+> *  Mastering Visual Studio Code
+> *  Ubuntu Linux for beginners
+> *  AZ-104 Microsoft Azure Administrator Practice Exams APR 2022
+> *  Typescript with React classes - quick start - Jest testing
+> *  Facebook Group Marketing Mastery 2022
+> *  Complete FL Studio Megacourse: Beginner to Expert
+> *  PL-900 Microsoft Power Platform Fundamentals Practice Exams
+> *  Git with Visual Studio Code
+> *  Mobile App Marketing for Absolute Beginners
+> *  How to hold an investigation meeting with confidence
+> *  How to Paint a Cute Rabbit Using Watercolor for Beginner Art
+> *  A New Manager's Guide to One-on-One Meetings
+> *  Kube By Example - Spring Boot on Kubernetes
+> *  Bootstrap 5  with 3 projects in Hindi
+> *  HTML5 & CSS3 Build: Two Responsive Websites in Hindi
+> *  Land a new digital job during the pandemic - by iTalentJob!
+> *  Introduction to programming for Bioinformatics with Python
+> *  Pandas Bootcamp 2022: Complete Pandas Walkthrough
+> *  Scala at Light Speed
+> *  How to Create a NFT Collection and Sell Your NFTs on Opensea
+> *  Improve English in 14 days
+> *  Animations In Unity using Unity Timeline
+> *  cPanel Administration Crash Course for Beginners 2022
+> *  The Complete React Redux Node Express MySQL Developer Course
+> *  (MEVN Stack) build a PWA & Machine Learning E-Commerce APP
+> *  Complete Adobe Lightroom Megacourse: Beginner to Expert
+> *  KAFKA Cluster deployment and Java SpringBoot
+> *  Build CRUD app using MERN(MongoDB, Express, React, Node.js)
+> *  Vue.js All-in-One
+> *  Power Systems Engineering - Vlog1
+> *  SQLite Made Easy
+> *  Linux Tmux
+> *  Learn Basics of Adobe Photoshop CC 2022 for Beginners
+> *  Color Correction & Grading with Adobe Premiere Pro 2022
+> *  Color Grading and Video Editing with Davinci Resolve 17
+> *  Video Editing with Adobe Premiere Pro CC 2022 for Beginners
+> *  Learn Basics Of Adobe After Effects CC 2022 for Beginners
+> *  Video Editing with Avid Media Composer First for Beginners
+> *  Java Complete Course For Begineers 2022
+> *  Software career planning 101
+> *  Learn Music Production with Ableton
+> *  Scrum with Kanban Certification: Practice Questions 2022
+> *  Cyber Security for Beginners Complete Course
+> *  Teacher Training - How to Teach Online - Remote Teaching 1Hr
+> *  Home Workout Habits in 10 Min - Fitness for Busy-Lazy People
+> *  Practical GIS in QGIS - Project-based GIS, Spatial Analysis
+> *  Python: Step by Step with projects 0 to Hero for Beginners
+> *  Complete TikTok Marketing Course for Business TikTok Habits
+> *  Flowchart mapping
+> *  Italian Made Easy: Learn & Improve Your Italian Instantly
+> *  The Complete Self-Discipline Course - Control Your Own Life
+> *  Public Speaking for Parents - Teach Your Kids to Present 1Hr
+> *  Fedora Linux from Scratch
+> *  Learn Hacking Using Social Engineering
+> *  WiFi Hacking using Evil Twin Attacks and Captive Portals
+> *  How to Create a Secure Website With WordPress
+> *  Flutter & Dart for Beginners: Complete Course [2022 Latest]
+> *  Learn to Code HTML & CSS for Responsive Real-World Websites
+> *  Hiring Process: Talent Management
+> *  DaVinci Resolve Tutorial – MotionVFX Academy
+> *  Javascript For Beginners Complete Course
+> *  Microsoft Office | From Zero to Hero
+> *  Git & GitHub for Automation Testing
+> *  Nmap For Ethical Hackers
+> *  Creating Desktop Applications with Python
+> *  The Art of Doing:  Master the Basics of Python GUIs!
+> *  The Complete Beginners SEO Course from IIBM Institute
+> *  Algorithm Agnostic SEO Strategies For Online Marketers
+> *  DevOps Fundamentals
+> *  Python Programming - From Basics to Advanced level [2021]
+> *  Positive Psychology  For Positive Thinking In Life
+> *  Google Looker Masterclass: Looker & LookML A-Z 2022
+> *  YouTube SEO Mastery Course: How to rank #1 on Youtube
+> *  React JS- Complete Guide for Frontend Web Development [2021]
+> *  SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z
+> *  AWS Services for Solutions Architect Associate [2021]
+> *  Machine Learning- From Basics to Advanced
+> *  Artificial Intelligence in SEO (2022 Extreme Edition)
+> *  Invade Your Classroom with Digital Robot Teachers in 2022
+> *  Create Super-Fast Videos and Online Courses with WeVideo
+> *  Comic Creation for Entrepreneurs (2022 Edition)
+> *  Learn Java and Artificial Intelligence Programming Tools
+> *  NLP Certification- BERT, GPTs to Multilingual Implementation
+> *  P.O.W.E.R. : Proven Interview System to crack your DREAM job
+> *  2022 Certificación CCNA de CISCO 200-301
+> *  Web Design for Beginners: Build Websites in HTML & CSS 2022
+> *  Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +
+> *  Curso completo de Python 2022-De cero a Master con Python 3
+> *  PowerPoint desde Principiante hasta Intermedio
+> *  Introduction to Text To Speech With Python
+> *  SOLIDWORKS - Resilient CAD Modeling (RCM) Technique
+> *  230+ Exercises - Python for Data Science - NumPy + Pandas
+> *  How to Get Over a Break up
+> *  Easy Guitar for Beginners - Become a Confident Guitar Player
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **109 Udemy free courses with certificate published on 2022-04-26** 🔥🔥🔥
 > *  Logo Design Essentials 
 > *  How to Create a Marketing Video for Your Business or Product
