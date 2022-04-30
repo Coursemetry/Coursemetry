@@ -19,6 +19,159 @@ Here are some ideas to get you started:
 
 [Coursemetry](https://coursemetry.com/) provided 100% OFF online courses (Udemy, Coursera, edX, Eduonix)
 
+## **147 Udemy free courses with certificate published on 2022-04-30** 🔥🔥🔥
+> *  Complete DaVinci Resolve 17 Megacourse: Beginner to Expert
+> *  Statistics and Probability using Excel - Statistics A to Z
+> *  Microsoft Office Complete Course | All in one MS Office
+> *  ESG Reporting for Businesses
+> *  Microsoft PowerPoint Course - Zero to Hero in MS PowerPoint
+> *  Java And Python Programming Complete Training Course
+> *  CSS And Javascript Crash Course
+> *  ML for Business Managers: Build Regression model in R Studio
+> *  Decision Trees, Random Forests, AdaBoost & XGBoost in Python
+> *  BOOST YOUR GUT HEALTH AND IMMUNE SYSTEM NATURALLY
+> *  Ethical Hacking - SQL Injection Attack
+> *  Shopify Management For Freelancing
+> *  Certified Cloud Security Professional - CCSP Practice Exam
+> *  SOLAR COURSE for Beginners of Solar Energy-
+> *  Solar Specialist Certification Interview Practice Test 2022
+> *  Time Management Mastership: 10X Your Time, Join the New Rich
+> *  Videoscribe Whiteboard Animations : MasterClass With Project
+> *  YouTube Masterclass Training - 2019 in Hindi/Urdu - Sarfaraz
+> *  R Programming : Data Analysis and Visualisations using R
+> *  Filmora 11/X/9:  Zero to Hero in Video Editing (2022)
+> *  افضل كورس شامل لتعلم تطوير تطبيقات الموبايل باستخدام فلاتر
+> *  Active Directory Skills for IT Support Professionals
+> *  Reiki Zero
+> *  Data Modeling and Decision Making: Fortune 500 Leaders
+> *  5 Mistakes You Should Never Make When You’re Doing Your PhD
+> *  Building REST APIs with Serverless Framework [For Beginners]
+> *  Practical Photography for Absolute Beginners: 9 Courses in 1
+> *  Creative Photoshop Portrait Retouching and Lightroom
+> *  Learn Django by building a stock management system - Part 1
+> *  Learn Django by building a stock management system - Part 2
+> *  Learn Django by building a stock management system - Part 3
+> *  Python 1500 - Practice Missions
+> *  Content Marketing - ROI Driven B2B & B2C to Acquire New User
+> *  Best Free Online Resources For Digital Marketing
+> *  Dealing with Stress- Managing anxiety, anger and frustration
+> *  सीखें Javascript Programming हिन्दी में
+> *  Oracle 1Z0-144 PL SQL (10g, 11g & 12c) Practice Exams [2022]
+> *  Ebay Dropshipping Cómo Crear Tu Tienda y Ganar Dinero Online
+> *  Drupal For Absolute Beginners (2022)
+> *  JavaScript Game Development for Beginners: Sprite Animation
+> *  Learn jQuery - For Beginners
+> *  CSS & JavaScript - Certification Course for Beginners
+> *  PHP & MySQL - Certification Course for Beginners
+> *  VidIQ Masterclass - Full Guide to YouTube Keyword Tool
+> *  Learn CSS - For Beginners
+> *  HTML & CSS - Certification Course for Beginners
+> *  Javascript Practicals Crash Course
+> *  Learn MySQL - For Beginners
+> *  230+ Exercises - Python for Data Science - NumPy + Pandas
+> *  DevSecOps : Master Securing CI/CD | DevOPs Pipeline(2022)
+> *  Learn PHP - For Beginners
+> *  Learn HTML - For Beginners
+> *  Learn JavaScript - For Beginners
+> *  Learn Bootstrap - For Beginners
+> *  Marketing automation 2022 : stratégie et outils
+> *  Advanced Java programming with JavaFx: Write an email client
+> *  Learn Microsoft Outlook | Complete Microsoft Outlook Guide
+> *  Ubuntu Linux on  VirtualBox quick setup
+> *  Typescript with React classes - quick start - Jest testing
+> *  Git with Visual Studio Code
+> *  Mastering Visual Studio Code
+> *  Learn Microsoft Publisher | Complete Microsoft Publisher
+> *  Migrate Windows service to Azure
+> *  Technical Java Interview Prep for IT professionals
+> *  PHP for Beginners: PDO Crash Course 2022
+> *  Amazon Dropshipping FBM - Cómo Buscar Productos Super Ventas
+> *  ClickBank Affiliate Masterclass : Comprehensive Training
+> *  Ebay Dropshipping Vol.1 | Work From Home & Make Money Online
+> *  Microsoft Access Training | Master the MS Access
+> *  Microsoft OneNote Training | Master the Microsoft OneNote
+> *  How to Create a NFT Collection and Sell Your NFTs on Opensea
+> *  Google Analytics For Beginners
+> *  Google Sheets as JSON data for Web Pages JavaScript Fetch
+> *  How To Build Your Social Media Marketing Strategy
+> *  Complete Google Classroom Course: Teaching Google Classroom
+> *  Python for Machine Learning: The Complete Beginner's Course
+> *  Presentation Skills for Beginners
+> *  Video Production, YouTube Marketing, & Video Marketing Guide
+> *  Introduction into Facebook Marketing & Facebook Advertising
+> *  Eliminate Your Insomnia Now  Build Strong Sleep Habits
+> *  Video Production - Inexpensive Talking Head Video - Business
+> *  Python for Deep Learning: Build Neural Networks in Python
+> *  The Complete Facebook Traffic Ads (Facebook CPC) Course 2022
+> *  Complete Goal Achievement Course - Personal Success Goals
+> *  Live Streaming - The Complete Course - Zoom Twitch OBS Skype
+> *  Public Speaking: Eliminate Verbal Tics, Uh, Um, Er, Ya Know
+> *  Start Career in Cyber Security in 2022 - The Complete Course
+> *  The Complete NFT Course: Become an NFT Creator & Investor
+> *  Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course
+> *  Data Manipulation in Python: Master Python, Numpy & Pandas
+> *  Online Course Creation: Complete Course of Blunders to Avoid
+> *  Public Speaking for Beginners
+> *  Complete Hypnosis Weight Loss Course - Dieting Psychology
+> *  Copywriting & Content Marketing Course: Be a Pro Copywriter
+> *  Facebook Ads Copywriting & Facebook Ads for Real Estate 2022
+> *  Master Emotional Turbulence and Increase EQ
+> *  Electronics Practice Test
+> *  Data Visualization with Python: Crash Course
+> *  Configuración y Optimizacion de tu Página de Facebook 2022
+> *  Run Digital Marketing Ad Using Google Adwords Express 2022
+> *  Secure your Linux VPS
+> *  Facebook Ads & Facebook Marketing Funnel Crash Course- 2022
+> *  Marketing en Facebook Ads - Leads /Clientes Potenciales 2022
+> *  Marketing en Facebook Ads -Ecommerce para Ventas Online 2022
+> *  Video Editing Mastery With Camtasia In Hindi/Urdu 2022
+> *  Digital Marketing Business With Google My Business - 2022
+> *  Facebook Ads Google My Business & Google Ads (Adwords) 2022
+> *  Facebook Marketing & Facebook Ads Course For Beginners
+> *  Digital Marketing Business Online For Free Social Media 2022
+> *  Course Creation On Udemy Passive Income Monthly~Unofficial
+> *  Estrategias Pro de Targeting de Audiencia con Facebook Ads
+> *  Google Adwords Crash Course 2022
+> *  Facebook Ads Marketing In Hindi/Urdu 2022
+> *  Facebook Ads Marketing Targeting Strategies ~Hindi 2022
+> *  Facebook Ads Targeting Strategies For Success Fast 2022
+> *  Facebook Ads Marketing - Start Lead Generation Business 2022
+> *  Facebook Ads Marketing Crash Course Traffic & leads - 2022
+> *  Facebook Ads Marketing For Events Organic & Paid Strategy
+> *  Complete Figma Web Design Course:UI/UX Design with Projects
+> *  Adobe Premiere Pro CC 2022: Video Editing for Beginners
+> *  Certified Scrum Master (CSM) Top Priority Question Simulator
+> *  PMP High Quality Simulator 2021 Mock Practice Test Exams
+> *  Web Scraping Financial News using Python 3
+> *  Selenium WebDriver with Python Crash Course
+> *  CSS 3 Loading Animations
+> *  Creative CSS Latest IDEAS, Clip-path, Wave Effects & MORE
+> *  JavaScript DOM Dynamic Web interactive content Boot Camp
+> *  Pursue Top 1% Career: Become The No. 1 Success Magnet
+> *  Flutter Advanced - Clean Architecture With MVVM in Arabic
+> *  Build Shopify store & Run Facebook Page Likes Ad In 2022
+> *  Run Facebook Ads For Customer Engagement & Followers ~ BASIC
+> *  Create Ecommerce Website In WordPress (Hindi)
+> *  Sell Products with Facebook Ads Fast On Shopify 2022
+> *  Facebook Conversions Ads Marketing For Selling Products 2022
+> *  Introduction To SEO Based Content Writing (Hindi)
+> *  Angular Crash Course for beginners
+> *  Angular Fundamental Course for Absolute Beginners 2022
+> *  300+ Exercises - Python Programming Mega Pack - 2022
+> *  Effective Communication Skills: Be a Better Communicator
+> *  EXCEL para principiantes enfocado a los  negocios
+> *  SVM for Beginners: Support Vector Machines in R Studio
+> *  Decision Trees, Random Forests, Bagging & XGBoost: R Studio
+> *  Operating System: Understanding the core
+> *  Learn SQL for Beginners - How To Learn SQL The Easy Way
+> *  Linux Operating System: A complete Linux guide for Beginners
+> *  A Complete Masterclass of Virtualization from scratch
+> *  Getting Started with Wireshark-The Ultimate Hands-On Course
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **147 Udemy free courses with certificate published on 2022-04-28** 🔥🔥🔥
 > *  Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge
 > *  Agile Scrum Master Training : Case Studies and Confessions
