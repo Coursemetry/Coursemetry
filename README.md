@@ -19,6 +19,201 @@ Here are some ideas to get you started:
 
 [Coursemetry](https://coursemetry.com/) provided 100% OFF online courses (Udemy, Coursera, edX, Eduonix)
 
+## **189 Udemy free courses with certificate published on 2022-05-02** 🔥🔥🔥
+> *  Technical SEO Content Writing Tips & How-to Examples | 2021
+> *  Technical SEO User Intent Content Strategy | Examples | 2021
+> *  AZ-500 Microsoft Azure Security Technologies Practice Exams
+> *  AWS ANSC00 Certified Advanced Networking Practice Exams 2022
+> *  Artificial Intelligence in Web Design + Live Class
+> *  Graphic Design Certification + Live Class
+> *  Marketing en Facebook Ads - Leads /Clientes Potenciales 2022
+> *  Learn Email Marketing through PhpList, Free & Opensource
+> *  Practice Exams RHCSA Red Hat Certified System Admin 2022
+> *  AZ-104 Microsoft Azure Administrator Practice Exams MAY 2022
+> *  C++ And Java And PHP The Big 3 Languages Complete Course
+> *  Artificial Intelligence in Digital Marketing + Live Class
+> *  Sell Products with Facebook Ads Fast On Shopify 2022
+> *  Run Search Ad In Google Ads & Easy SEO For Beginners-2022
+> *  APICS Certified Supply Chain Professional CSCP Mock Tests
+> *  SEO Interview Preparation (Question, Answer, Test, Practice)
+> *  AZ-204 Microsoft Azure Developer – Practice Exams MAY 2022
+> *  Run Facebook Ads For Customer Engagement & Followers ~ BASIC
+> *  Control Your Subconscious Mind: Neuroscience Hidden Secrets
+> *  Ultimate Cisco CCNA 200-301 Practice Exams - MAY 2022
+> *  Functional Skills Math Level 2
+> *  Python Complete Course For Beginners
+> *  MuleSoft Certified Integration Architect - Practice Exams
+> *  Python for Data Analysis & Visualization 2022
+> *  PRINCE2 Foundation Practice Certification Exams UPDATED 2022
+> *  Facebook Ads Targeting Strategies For Success Fast 2022
+> *  Business Analyst Certification (PMI-PBA) Practice Exams 2022
+> *  Facebook Ads Marketing In Hindi/Urdu 2022
+> *  Marketing en Facebook Ads -Ecommerce para Ventas Online 2022
+> *  Facebook Ads Marketing Targeting Strategies ~Hindi 2022
+> *  Check Point CCSA (156-215.80) Practice Exams - MAY 2022
+> *  Facebook Ads Google My Business & Google Ads (Adwords) 2022
+> *  Digital Marketing Business With Google My Business - 2022
+> *  CSS, JavaScript And Python Complete Course
+> *  Google Data Studio | Visualize, Reports, Methods, Examples
+> *  PL-900 Microsoft Power Platform Fundamentals Practice Exams
+> *  Cisco CyberOps Associate CBROPS 200-201 Practice Exams 2022
+> *  Salesforce Platform Developer 1 Practice Exams PD1 2022
+> *  Facebook Conversions Ads Marketing For Selling Products 2022
+> *  Course Creation On Udemy Passive Income Monthly~Unofficial
+> *  Configuración y Optimizacion de tu Página de Facebook 2022
+> *  Facebook Ads And Marketing - Lead Generation Pro - 2022
+> *  Run Facebook Event Ad, Youtube Channel & Google Ad 2022
+> *  WooCommerce Onpage SEO | Fast Technique with Examples | 2022
+> *  AWS Certified Security Specialty – Practice Exams MAY 2022
+> *  Como crear y configurar tu canal de Youtube desde cero 2022
+> *  Video Editing Mastery With Camtasia In Hindi/Urdu 2022
+> *  Estrategias Pro de Targeting de Audiencia con Facebook Ads
+> *  Ultimate CAMS Practice Tests | ACAMS 2022
+> *  Build Shopify store & Run Facebook Page Likes Ad In 2022
+> *  Artificial Intelligence Expert Course + Live Class
+> *  Facebook Marketing & Facebook Ads Course For Beginners
+> *  AZ-900 Microsoft Azure Fundamentals Practice Exams MAY 2022
+> *  Run Digital Marketing Ad Using Google Adwords Express 2022
+> *  ITIL 4 Foundation Practice Exams - New MAY 2022
+> *  Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce
+> *  Calculus 1- Teach Yourself Differentiation
+> *  Docker Certified Associate (DCA) Practice Exams - MAY 2022
+> *  Facebook Ads Marketing For Events Organic & Paid Strategy
+> *  Digital Marketing Business Online For Free Social Media 2022
+> *  Facebook Ads Marketing Crash Course Traffic & leads - 2022
+> *  HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour
+> *  Get 10,000 facebook page followers at cheap Hindi/Urdu
+> *  Facebook Ads Marketing technique for Generating Leads 2022
+> *  Python from Beginner to Intermediate in 30 min.
+> *  Data Analyst Skill path in Hindi - हिंदी में सीखें
+> *  Container Security and Cloud Security Posture Management
+> *  The Art Of Drawing The Face | Beginner's Level Course (NEW)
+> *  Linux Desktop Automation
+> *  Certified SOLIDWORKS Professional (CSWP)
+> *  The Complete Frontend Engineering Interview Preparation Kit
+> *  300+ Exercises - Python Programming Mega Pack - 2022
+> *  Domina las bases de tu vida financiera
+> *  Automation Testing Masterclass - Selenium, Cucumber and More
+> *  Master Visual Scripting in Unity by Making Advanced Games
+> *  Ms Excel/Excel 2022 - The Complete Introduction to Excel
+> *  Portrait Photography for Absolute Beginners
+> *  PRINCE2 Re-Registration Practice Tests
+> *  Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022
+> *  Corporate Finance
+> *  Money In Excel - Income Tax Sch. C & Personal Financials
+> *  Advanced Financial Accounting
+> *  Governmental Accounting 100
+> *  Excel Accounting Problem
+> *  Audit - Financial Statement
+> *  QuickBooks Pro Desktop 2022, 2021, & 2020
+> *  Tax & Adjusting Entry Year-End Accounting Excel Worksheet
+> *  Accounting–Financial Accounting Total-Beginners to Advanced
+> *  IP Addressing and Subnetting - Zero to Hero
+> *  The Complete Flutter Development Guide [2022 Edition]
+> *  Altcoins - Investing In Altcoins & ICOs!
+> *  Technical Java Interview Prep for IT professionals
+> *  Python Programming for Beginners [Full Course]
+> *  Zero to Hero Bootstrap5 Mastery Course
+> *  Governmental Accounting 300 Proprietary & Fiduciary Funds
+> *  QuickBooks Online-Bookkeeping Business-Easy Way
+> *  Wave Accounting
+> *  Build Your Own File Sharing Website
+> *  Job Costing QuickBooks Online - Contractors
+> *  QuickBooks Pro-Business & Personal-One QuickBooks File
+> *  QuickBooks Desktop Not for Profit Organizations
+> *  Managerial Accounting / Cost Accounting
+> *  QuickBooks Desktop Job Costing
+> *  Getting Started with Blockchain Solidity and Smart Contracts
+> *  QuickBooks Pro Desktop -Bookkeeping Business-Easy Way
+> *  Governmental Accounting 200 Capital Projects & Debt Service
+> *  Not-for-Profit Accounting-Charities, Colleges, & Health Care
+> *  Scrum Certification 2022 +Scrum Master+ Agile Scrum Training
+> *  Xero Accounting Software
+> *  PMP Practice Test Exam 2022 - PMBOK6
+> *  AWS Certified Cloud Practitioner Practice Exams 2022
+> *  Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation
+> *  Şan Dersi - Ses Eğitimi | Vokalist olma yolunda her şey !
+> *  Redis Database Tutorial
+> *  Image Processing with Python PIL
+> *  Python Desktop Apps with Tkinter
+> *  Python Crash Course
+> *  Create a GUI with Python
+> *  Practical Anger Management: Manage the Anger in You & Others
+> *  Python: Object Oriented Programming
+> *  Learn 70 Great Websites to Get Unlimited  Royalty FreeImages
+> *  Personal Finance fundamentals for beginners
+> *  Ciberseguridad en Cisco Simulación 200-201 CBROPS para  2022
+> *  Bash Scripting Basics
+> *  Complete WhatsApp Marketing Course 2022
+> *  Software career planning 101
+> *  Software engineering fundamentals for Beginners : 0-4 years
+> *  Curso PSeInt algoritmos  y  lógica de  programación
+> *  Learn to Secure your Metamask Hot Wallet, NFTs, & Crypto
+> *  Streamdeck Skills: Launch websites with the push of a button
+> *  Microsoft PowerPoint Essentials
+> *  IT Support Career: Starting IT Career Information and Tips
+> *  PMP Practice Test Exam 2021- PMBOK6
+> *  ABA CTFA Certified Trust and Financial Advisor Practice Exam
+> *  CPA Auditing and Attestation (AUD) Practice Exams
+> *  Create Daily Joy
+> *  VMWare ESXI Real World-hands-on training for beginners
+> *  Music Production Masterclass: Write Songs In FL Studio 20
+> *  Learn anything faster-become a memory master
+> *  6 Steps to a Successful Pre-Sale
+> *  Create Your Personal Cryptocurrency for Less Than One Dollar
+> *  Video Editing in Adobe Premiere Pro : The Beginner's Guide
+> *  Docker Certified Associate (DCA)  Exams 2022
+> *  Secure your Linux VPS
+> *  Ethical Hacking: Hacking with Python
+> *  AppArmor - Linux Security
+> *  Ethical Hacking: Password Cracking with Python
+> *  Ethical Hacking: SQL Injection for Beginners
+> *  Linux Tmux
+> *  Linux  Bash Scripting
+> *  10x Your Social Skills & Connect With People
+> *  Computer Vision with Python
+> *  Create snake with Python PyGame
+> *  Cursillo Excel Básico
+> *  The C++ Learning Guide
+> *  Python for Penetration Testers
+> *  Desafío Súper Profesionales 3.0 Exponencial
+> *  The Complete Dart Learning Guide
+> *  The Python and Django Learning Guide
+> *  The Complete Dart Learning Guide [2022 Edition]
+> *  Success tips for busy entrepreneurs- live your best life now
+> *  The Java Learning Guide
+> *  Blockchain & NFTs (Basics): Smart Contracts to QR NFTs
+> *  The Web Front End Learning Guide
+> *  The Kotlin Learning Guide
+> *  The PHP 8 Learning Guide [2022 Edition]
+> *  The English Conversation Course | Master the key expressions
+> *  Vue JS + Google Maps API: Build Location Based Web Apps Fast
+> *  The Android-Kotlin Development Guide
+> *  Power BI - Data Analytics Essentials with Power BI
+> *  Adobe after effects CC basics, learn few basics
+> *  Quantity Surveyor's Guide for Pre-Contracts Management
+> *  Technical Analysis Certification Course with live trades
+> *  Comprehensive Introduction to Cyber Security
+> *  Git Command Line for Beginners
+> *  Fundamentos de Seguridad Microsoft (SC-900)
+> *  How to SOAR into your Confidence for Busy Moms in Transition
+> *  Object Oriented Programming in C++  &  Interview Preparation
+> *  Designing a Data Warehouse
+> *  Tally ERP9 With GST Step By Step Guide From Basic to Advance
+> *  Shopify eCommerce Store Masterclass - Start a Business!
+> *  Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads
+> *  Complete Guide to eBay Selling as a Business
+> *  SIMULADOR PMP 2022 GUIA preguntas Examen Vol II
+> *  LSSBB: Lean Six Sigma Black Belt Practice Exam
+> *  LSSGB: Lean Six Sigma Green Belt Practice Exam
+> *  LSSMBB: Lean Six Sigma Master Black Belt Practice Exam
+> *  Earn Bitcoin on Your Phone WORLDWIDE Even While You Sleep
+> *  Project Finance Fundamentals | Infrastructure & Energy
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **88 Udemy free courses with certificate published on 2022-05-01** 🔥🔥🔥
 > *  Calculus 1- Teach Yourself Differentiation
 > *  Complete Fingerstyle Guitar Megacourse: Beginner to Expert
