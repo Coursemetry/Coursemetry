@@ -19,6 +19,111 @@ Here are some ideas to get you started:
 
 [Coursemetry](https://coursemetry.com/) provided 100% OFF online courses (Udemy, Coursera, edX, Eduonix)
 
+## **99 Udemy free courses with certificate published on 2022-05-04** 🔥🔥🔥
+> *  SEO Link Building & Content Writing Course: Get HQ Backlinks
+> *  Networking for Real Estate Investors For Profits & Funds
+> *  C++ And Java Programming Complete Training Course
+> *  Accounting for Beginners: Financial Accounting Made Easy
+> *  BGP for Juniper JNCIS, JNCIP
+> *  Learn Microsoft Access from Scratch- For Beginners
+> *  Music Theory for Songwriters: From Beginner to Producer
+> *  The Definitive Guide to HTML Web Development.
+> *  AZ-204 Developing Solutions for MS Azure Practice Tests 2022
+> *  Cisco Certified Network Associate CCNA 200-301 Practice Test
+> *  Python for beginners - Learn all the basics of python
+> *  Python And Flask Framework Complete Course
+> *  AWS Certified Security Speciality practice test [NEW]
+> *  Introduction to Data Quality and Data Management
+> *  HTML & CSS - Certification Course for Beginners
+> *  CSS, Bootstrap, JavaScript And PHP Stack Complete Course
+> *  Lean Six Sigma Yellow Belt - Primary Problem solving
+> *  اختبر نفسك في العمل الحر عبر الانترنت
+> *  Fundamentos de la Inversión Inmobiliaria
+> *  Cryptocurrency trading & stock investing
+> *  NFT How-To course for absolute beginner (Create and Invest)
+> *  Complete Graphics Design and Video Editing Masterclass
+> *  The Step by Step Guide to Get Out of Debt Easily
+> *  Creating Your First Udemy Course For Beginners - Unofficial
+> *  The complete forex course from scratch to professional
+> *  JavaScript for Beginners - The Complete introduction to JS
+> *  Wedding Photography Complete Guide For Beginners
+> *  Excel Tips and trick : Learn MS Excel by making 7 Projects
+> *  The Complete Body Language for Business Course
+> *  Bootstrap 5 Course: Build Responsive Websites like a Pro
+> *  Learn Carnatic Flute | Muthuswamy Deekshitar Krithis - Vol 2
+> *  Time Management Mastery: 10X Your Time, Join the New Rich
+> *  Passive Income - 1-Hour Course To Guide Your Financial Path
+> *  Freelance Consulting - The 1-Hour Course for Beginners
+> *  Leading Effective Meetings - You Can Lead Effective Meetings
+> *  Public Speaking: Eliminate Verbal Tics, Uh, Um, Er, Ya Know
+> *  Stress Management - 1-Hour Intro Course - Reduce Stress Now
+> *  leadlovers: configurações, email, páginas, ead e integrações
+> *  Being Independent Movie Director
+> *  Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!
+> *  Beginner - Expert Linear Algebra, with Practice in Python.
+> *  Intermediate JavaScript Development
+> *  How To Find A Profitable Mobile App Idea
+> *  Excel Dashboards in an Hour
+> *  Hadoop Starter Kit
+> *  Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu
+> *  The Complete MongoDB Course 2022
+> *  Become A Certified JS Developer: JavaScript Practice Tests
+> *  Become A Certified Java Developer: Java Practice Tests
+> *  Wordpress Elementor Course: Develop Site Without Coding
+> *  HTML Certification, Practice Test For Exams & Interviews
+> *  Become A Certified Python Programmer: Python Practice Tests
+> *  Mastering Azure Virtual Desktop (WVD - Advanced Training)
+> *  C++ Programming: Practice Tests Beginner To Advanced Level
+> *  Adobe Premiere Pro CC Video Editing Course Beginners To Pro
+> *  Einstieg in die Kosten-Leistungsrechnung
+> *  Search Engine Optimization Complete Specialization Course
+> *  300+ Exercises - Python Programming Mega Pack - 2022
+> *  Data analysis & Business Intelligence | Advanced MySQL
+> *  Complete Wordpress Website Developer Course
+> *  Writing a scientific research article
+> *  Learn 4 Steps to Make Money Online with Affiliate Marketing!
+> *  Autodesk Revit - beginner to an intermediate level
+> *  Learn Machine learning & AI (Including Hands-on 3 Projects)
+> *  Free Own Chat Application from scratch using MQTT & MEAN
+> *  Facebook Ads Marketing - Start Lead Generation Business 2022
+> *  Building Android Widgets from Scratch ( Learn 8 Widgets)
+> *  Docker Course for Beginners
+> *  Introduction to Microservices
+> *  Microsoft SQL for Beginners
+> *  English vocabulary : Upgrade your english speaking
+> *  2022 Certificación CCNA de CISCO 200-301
+> *  Project Development Using JAVA for Beginners - 2022
+> *  Getting Started with Blockchain Solidity and Smart Contracts
+> *  Master HTML5 CSS3 Bootstrap5 by building Responsive Website
+> *  Meditation Masterclass: meditation teacher certification
+> *  Learn To Focus: Meditation & Mindfulness For ADHD
+> *  Meditation For Beginners
+> *  KAFKA Cluster deployment and Java SpringBoot
+> *  Core Java Interview Questions and Answers by Ashish Gadpayle
+> *  Software Testing with Java - Advanced Topics
+> *  AP Computer Science A - Part 1
+> *  AP Computer Science A - Part 2
+> *  Advance Stock Momentum Trading Technical Analysis Work Tools
+> *  Beginners guide to Android App Development (Step by Step)
+> *  The Art Of Persuasion
+> *  REAL Passive Income With Udemy Course Creation (Unofficial)
+> *  Complete Guide to TOEFL iBT | Mastering the Skills
+> *  Complete accounting and finance Course for Startups | SMEs
+> *  Django Channels | Group Chat Application With WebSockets
+> *  Flutter 2.2&Firebase, build a complete app from scratch [AR]
+> *  HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour
+> *  Fire Up Creativity in Your Child
+> *  Python: Step by Step with projects 0 to Hero for Beginners
+> *  Power BI - Data Analytics Essentials with Power BI
+> *  How To Grow Your YouTube Channel Fast in 2022! Step-by-Step
+> *  OWASP ZAP For Pentesting And Bug Bounties From Scratch FREE
+> *  How to start a 6 figure Amazon Dropshipping business in 2022
+> *  Learn Azure Bicep
+
+[coursemetry.com](https://coursemetry.com/)
+
+[Join our Telegram channel](https://t.me/coursemetry)
+
 ## **189 Udemy free courses with certificate published on 2022-05-02** 🔥🔥🔥
 > *  Technical SEO Content Writing Tips & How-to Examples | 2021
 > *  Technical SEO User Intent Content Strategy | Examples | 2021
@@ -456,283 +561,6 @@ Here are some ideas to get you started:
 > *  Linux Operating System: A complete Linux guide for Beginners
 > *  A Complete Masterclass of Virtualization from scratch
 > *  Getting Started with Wireshark-The Ultimate Hands-On Course
-
-[coursemetry.com](https://coursemetry.com/)
-
-[Join our Telegram channel](https://t.me/coursemetry)
-
-## **147 Udemy free courses with certificate published on 2022-04-28** 🔥🔥🔥
-> *  Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge
-> *  Agile Scrum Master Training : Case Studies and Confessions
-> *  Instagram Marketing 2021: Growth and Promotion on Instagram
-> *  Master all the MS Excel Macros and the basics of Excel VBA
-> *  Curso de Hacker para Iniciantes
-> *  CSS, JavaScript And PHP Complete Course For Beginners
-> *  TOP Business Analyst Certification (PMI-PBA) Practice Exams
-> *  Java, Python And PHP Programming In One Complete Course
-> *  MuleSoft Certified Integration Architect - Practice Exams
-> *  Check Point CCSA (156-215.80) Practice Exams - APR 2022
-> *  Programação em Linguagem C para Iniciantes
-> *  Como Estudar Programação de Computadores
-> *  Docker Certified Associate (DCA) Practice Exams - APR 2022
-> *  Python Complete Course For Beginners
-> *  AZ-500 Microsoft Azure Security Technologies Practice Exams
-> *  AWS ANS-C00 Certified Advanced Networking PracticeExams 2022
-> *  Cisco CCNA 200-301 Practice Exams - APR 2022
-> *  C_ACTIVATE13 | SAP Activate Project Manager Practice Test
-> *  Mindfulness, Guided Meditation & Yoga Retreat
-> *  Setting Health Goals to Upgrade your Lifestyle
-> *  Learn to Draw Illustrated Creatures From Simple Shapes
-> *  Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition
-> *  AWS Certified Solutions Architect - Associate Practice Test
-> *  React with Hooks for Beginners
-> *  How to become a Cloud Architect with no experience
-> *  Interior Decoration Works in  Building construction
-> *  How to plan your week for success
-> *  A Quick Guide to Turn Your Idea Into a Project.
-> *  Professional Voice Acting & Voice Over Courses
-> *  Problem solving techniques
-> *  Microsoft Excel - Advanced Excel Formulas & Training
-> *  Penny Stocks King: How 2 really Trade Penny Stocks (6 Hours)
-> *  Complete Adobe Premiere Pro Megacourse: Beginner to Expert
-> *  Cloud Web Server : configuración simple y automatizada.
-> *  Practical Web Development: 22 Courses in 1
-> *  Estimation and Planning for Agile/Scrum Projects
-> *  HTML5 Programming - Web Development Skills
-> *  Affinity Photo: Portrait Retouching Essentials
-> *  Complete Figma Megacourse: UI/UX Design Beginner to Expert
-> *  New illustration Painting - Digital Photoshop Drawing Course
-> *  Time Series Analysis and Forecasting using Python
-> *  Transportation Management: Global Logistics & Urban Planning
-> *  Ebay Dropshipping Vol.2 | Work From Home & Make Money Online
-> *  Complete Georgian Course: Learn Georgian for Beginners
-> *  Como Crear una Coleccion NFT y Vender tus Tokens en Opensea
-> *  CompTIA PenTest+ (PT0-001) Practice Exam
-> *  Marketing Analytics: Forecasting Models with Excel
-> *  Complete Machine Learning with R Studio - ML for 2022
-> *  PHP for Beginners 2022: The Complete PHP MySQL PDO Course
-> *  AWS Certified Security - Specialty Latest Exam
-> *  Tools for Working From Home - Google Apps, Trello & Zoom
-> *  Google Cloud Professional Data Engineer Practice Questions
-> *  AZ-900: Microsoft Azure Fundamentals Practice Exam
-> *  AWS Certified Solutions Architect Professional Practice Test
-> *  Artificial Neural Networks (ANN) with Keras in Python and R
-> *  Songwriting Craft: 6 Tools to Make Your Melodies Stand Out
-> *  Blender 3d: New User Modeling Trial
-> *  Blender 3d: New User Cycles Node Tips
-> *  Designing Foodsnap app design in Figma
-> *  POWER  BI data Analytics Course and DASHBOARDS creation 2022
-> *  Are you privacy savvy? A Beginner's Guide to Privacy Basics
-> *  Marketing Analytics: Pricing Strategies and Price Analytics
-> *  Aprender HTML5 sin dolor
-> *  Agile PMO: The Benefits of Becoming an Agile Organization
-> *  Skills for Success: Learn necessary future skills to survive
-> *  DevOps Transformation: Get started with DevOps today
-> *  A Method to Solve Complex Problems
-> *  Inteligencia Emocional - Una guía practica y completa.
-> *  Agile Transformation: Guide to getting started with Agility
-> *  Convolutional Neural Networks in Python: CNN Computer Vision
-> *  Masterclass de NFT: Aprende desde cero
-> *  The 7 Unwritten Laws Of Music Production
-> *  Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 1
-> *  خطة ادارة الجودة بين المنهجية والتطبيق
-> *  Python Pandas Data Crash Course
-> *  Selenium in Java - Setup Simple Test Automation Framework
-> *  Java Collections Framework + Generics, Lambdas & Stream API
-> *  Selenium in C# - Setup Simple Test Automation Framework
-> *  Webservices API Testing with Postman - Complete Guide
-> *  Ultimate Python Bootcamp For Data Science & Machine Learning
-> *  Master Multithreading - Concurrency with Java Examples
-> *  GoF Design Patterns - Complete Course with Java Examples
-> *  Preparation to Java SE 11 Developer Exam: 1Z0-819 & 1Z0-817
-> *  Java Test Automation Engineer - from Zero to Hero
-> *  WebServices testing (RestAssured + Postman) Complete Guide
-> *  Git & GitHub A Practical Course: Beginner To Advanced Level
-> *  Learn Carnatic Flute | Sri.Thyagaraja Krithis - Vol 1
-> *  Improving software development productivity
-> *  Artificial Intelligence Presentation Creation (2022 Edition)
-> *  Viral Marketing Masterclass (2022 Virality Edition)
-> *  WebServices testing (RestSharp + Postman) Complete Guide
-> *  Artificial Intelligence Powered Audiobook Creation Course
-> *  Competitor Analysis Masterclass (Phenomenal Edition 2022)
-> *  Viral YouTube Marketing - Crash Course + Live Class
-> *  Influencer Content Marketing (2022 Incredible Edition)
-> *  Online Branded TV Channel Creation (Neon Edition 2022)
-> *  RoboAuthor: Content Writing Automation 2022 - Part 10
-> *  Event Management in 3D Virtual Worlds (2022 Grand Edition)
-> *  3D Animation Film-Making with Plotagon (2022 Edition)
-> *  Artificial Intelligence Music Creation (2022 New Edition)
-> *  Innovation 1.0: Learn To Think Creatively Like Walt Disney
-> *  Complete Advanced Data Entry Application in Microsoft Excel
-> *  Tally ERP9 With GST Step By Step Guide From Basic to Advance
-> *  Copywriting: 3 Crucial Points For Your Text To Sell Itself
-> *  Setup a Virtual Web Server using Linode or Digital Ocean
-> *  JavaScript & jQuery - Certification Course for Beginners
-> *  Bootstrap & jQuery - Certification Course for Beginners
-> *  Full English course for intermediate students. PART ONE
-> *  How the Internet Works & the Web Development Process
-> *  HTML, CSS, & JavaScript - Certification Course for Beginners
-> *  Secure coding guide for Developers, Analysts and Architects
-> *  JavaScript, Bootstrap, & PHP - Certification for Beginners
-> *  HTML, JavaScript, & Bootstrap - Certification Course
-> *  Aprenda rapidamente o Inglês Britânico e divirta-se. Curso#6
-> *  NGINX, Apache, SSL Encryption - Certification Course
-> *  Introduction to Domain Names and Web Hosting - Quick Guide
-> *  Create a Members Only Blog using PHP, MySQL, & AJAX
-> *  Leading SAFe 5.1 (SA) Practice with realistic tests
-> *  NFT Gold Rush
-> *  Check Point Certified Security Administrator Practice 2022
-> *  CompTIA A+ Core I Exam(220-1001) Practice Questions
-> *  AZ-500: Microsoft Azure Security Technologies Practice -2022
-> *  AZ-400 Microsoft Azure DevOps Solutions  2022
-> *  AZ-400 Microsoft Azure DevOps Solutions Tests 2022
-> *  2022 Beginner's guide to Cyber Security
-> *  CompTIA Cybersecurity Analyst (CySA+) Practice Questions
-> *  PL-900 Microsoft Power Platform Fundamentals Practice Exams
-> *  AZ-500: Microsoft Azure Security Technologies Practice Exam
-> *  Software architecture
-> *  Instagram Marketing: How To Promote Anything On Instagram
-> *  Memory: 3 Ways of Memorising Like a Spy
-> *  How to Become a Facilitator: 7 Effective Skills
-> *  Screenwriting: Writing a Selling Story with Your Bare Hands
-> *  Top 5 Secrets for Improving Screenwriting Skills Summary
-> *  Career Coaching: TOP 5 Secrets of Effcient Sessions
-> *  Instagram Photo: Make Your Instagram Look Pretty in 5 Steps
-> *  Design Beautiful Animated Websites Incredibly Fast in 2022
-> *  Neuroplasticity: Teach Your Brain  To Work 3 Times Faster
-> *  Instagram Photography Summary: Top3 Ways To Shoot Everything
-> *  Learn the Vulkan API with C++
-> *  No Oil Cooking Recipes - Eat Healthy! Live Strong!
-> *  Excel Profesional 2022– Para Empresas!
-> *  Mit Online Marketing Dein Business aufbauen ohne Vorwissen!
-> *  Sales and Selling with Emotional Intelligence
-> *  Blockchain & Bitcoin Fundamentals Course
-> *  Passive Income : Learn to Make Money Online passively
-> *  Best of Website Traffic 2022: SEO, Facebook Ads & Google Ads
-
-[coursemetry.com](https://coursemetry.com/)
-
-[Join our Telegram channel](https://t.me/coursemetry)
-
-## **118 Udemy free courses with certificate published on 2022-04-27** 🔥🔥🔥
-> *  The Art Of Drawing The Face | Beginner's Level Course (NEW)
-> *  Laser Focus Mastery 2022
-> *  Cisco CyberOps Associate CBROPS 200-201 Practice Exams 2022
-> *  ITIL 4 Foundation Practice Exams - APRIL 2022
-> *  The Complete Go:Golang Bootcamp
-> *  AWS Certified Security Specialty – Practice Exams APR 2022
-> *  CSS, JavaScript,PHP And Python Programming All in One Course
-> *  AZ-900 Microsoft Azure Fundamentals Practice Exams APR 2022
-> *  Ubuntu Linux on  VirtualBox quick setup
-> *  Tokenization : Bringing Crypto to the Real World
-> *  Python And Django Framework For Beginners Complete Course
-> *  Salesforce Platform Developer 1 Practice Exams PD1 2022
-> *  Political Savvy: Maximizing Your IMPACT in the Organization
-> *  AZ-204 Microsoft Azure Developer – Practice Exams APR 2022
-> *  Dare to Lead: How to Become a Next Generation Leader
-> *  Use Would in English
-> *  Procesamiento digital de imágenes con Python de 0 a Master
-> *  NGINX Web Server from Scratch
-> *  English language basics for beginners & intermediate level 3
-> *  PRINCE2 Foundation Practice Certification Exams Updated 2022
-> *  Influencer Marketing Mastery 2022
-> *  C++ And Python Programming Complete Course
-> *  Learn PHP Development | Arabic [عربي]
-> *  Advanced Java programming with JavaFx: Write an email client
-> *  Mastering Visual Studio Code
-> *  Ubuntu Linux for beginners
-> *  AZ-104 Microsoft Azure Administrator Practice Exams APR 2022
-> *  Typescript with React classes - quick start - Jest testing
-> *  Facebook Group Marketing Mastery 2022
-> *  Complete FL Studio Megacourse: Beginner to Expert
-> *  PL-900 Microsoft Power Platform Fundamentals Practice Exams
-> *  Git with Visual Studio Code
-> *  Mobile App Marketing for Absolute Beginners
-> *  How to hold an investigation meeting with confidence
-> *  How to Paint a Cute Rabbit Using Watercolor for Beginner Art
-> *  A New Manager's Guide to One-on-One Meetings
-> *  Kube By Example - Spring Boot on Kubernetes
-> *  Bootstrap 5  with 3 projects in Hindi
-> *  HTML5 & CSS3 Build: Two Responsive Websites in Hindi
-> *  Land a new digital job during the pandemic - by iTalentJob!
-> *  Introduction to programming for Bioinformatics with Python
-> *  Pandas Bootcamp 2022: Complete Pandas Walkthrough
-> *  Scala at Light Speed
-> *  How to Create a NFT Collection and Sell Your NFTs on Opensea
-> *  Improve English in 14 days
-> *  Animations In Unity using Unity Timeline
-> *  cPanel Administration Crash Course for Beginners 2022
-> *  The Complete React Redux Node Express MySQL Developer Course
-> *  (MEVN Stack) build a PWA & Machine Learning E-Commerce APP
-> *  Complete Adobe Lightroom Megacourse: Beginner to Expert
-> *  KAFKA Cluster deployment and Java SpringBoot
-> *  Build CRUD app using MERN(MongoDB, Express, React, Node.js)
-> *  Vue.js All-in-One
-> *  Power Systems Engineering - Vlog1
-> *  SQLite Made Easy
-> *  Linux Tmux
-> *  Learn Basics of Adobe Photoshop CC 2022 for Beginners
-> *  Color Correction & Grading with Adobe Premiere Pro 2022
-> *  Color Grading and Video Editing with Davinci Resolve 17
-> *  Video Editing with Adobe Premiere Pro CC 2022 for Beginners
-> *  Learn Basics Of Adobe After Effects CC 2022 for Beginners
-> *  Video Editing with Avid Media Composer First for Beginners
-> *  Java Complete Course For Begineers 2022
-> *  Software career planning 101
-> *  Learn Music Production with Ableton
-> *  Scrum with Kanban Certification: Practice Questions 2022
-> *  Cyber Security for Beginners Complete Course
-> *  Teacher Training - How to Teach Online - Remote Teaching 1Hr
-> *  Home Workout Habits in 10 Min - Fitness for Busy-Lazy People
-> *  Practical GIS in QGIS - Project-based GIS, Spatial Analysis
-> *  Python: Step by Step with projects 0 to Hero for Beginners
-> *  Complete TikTok Marketing Course for Business TikTok Habits
-> *  Flowchart mapping
-> *  Italian Made Easy: Learn & Improve Your Italian Instantly
-> *  The Complete Self-Discipline Course - Control Your Own Life
-> *  Public Speaking for Parents - Teach Your Kids to Present 1Hr
-> *  Fedora Linux from Scratch
-> *  Learn Hacking Using Social Engineering
-> *  WiFi Hacking using Evil Twin Attacks and Captive Portals
-> *  How to Create a Secure Website With WordPress
-> *  Flutter & Dart for Beginners: Complete Course [2022 Latest]
-> *  Learn to Code HTML & CSS for Responsive Real-World Websites
-> *  Hiring Process: Talent Management
-> *  DaVinci Resolve Tutorial – MotionVFX Academy
-> *  Javascript For Beginners Complete Course
-> *  Microsoft Office | From Zero to Hero
-> *  Git & GitHub for Automation Testing
-> *  Nmap For Ethical Hackers
-> *  Creating Desktop Applications with Python
-> *  The Art of Doing:  Master the Basics of Python GUIs!
-> *  The Complete Beginners SEO Course from IIBM Institute
-> *  Algorithm Agnostic SEO Strategies For Online Marketers
-> *  DevOps Fundamentals
-> *  Python Programming - From Basics to Advanced level [2021]
-> *  Positive Psychology  For Positive Thinking In Life
-> *  Google Looker Masterclass: Looker & LookML A-Z 2022
-> *  YouTube SEO Mastery Course: How to rank #1 on Youtube
-> *  React JS- Complete Guide for Frontend Web Development [2021]
-> *  SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z
-> *  AWS Services for Solutions Architect Associate [2021]
-> *  Machine Learning- From Basics to Advanced
-> *  Artificial Intelligence in SEO (2022 Extreme Edition)
-> *  Invade Your Classroom with Digital Robot Teachers in 2022
-> *  Create Super-Fast Videos and Online Courses with WeVideo
-> *  Comic Creation for Entrepreneurs (2022 Edition)
-> *  Learn Java and Artificial Intelligence Programming Tools
-> *  NLP Certification- BERT, GPTs to Multilingual Implementation
-> *  P.O.W.E.R. : Proven Interview System to crack your DREAM job
-> *  2022 Certificación CCNA de CISCO 200-301
-> *  Web Design for Beginners: Build Websites in HTML & CSS 2022
-> *  Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +
-> *  Curso completo de Python 2022-De cero a Master con Python 3
-> *  PowerPoint desde Principiante hasta Intermedio
-> *  Introduction to Text To Speech With Python
-> *  SOLIDWORKS - Resilient CAD Modeling (RCM) Technique
-> *  230+ Exercises - Python for Data Science - NumPy + Pandas
-> *  How to Get Over a Break up
-> *  Easy Guitar for Beginners - Become a Confident Guitar Player
 
 [coursemetry.com](https://coursemetry.com/)
 
