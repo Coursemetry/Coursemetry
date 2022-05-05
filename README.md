@@ -3,20 +3,18 @@
 
 [Coursemetry](https://coursemetry.com/) provided 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-<a href="https://coursemetry.com/product-management-agile-requirements-using-product-backlog/" target="_blank">Product Management TEST blanck</a>
-
 ## **Udemy free courses with certificate published on 2022-05-05**
-> * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
-> * [Crack the Coding Interview  تعلم الخوارزميات وهيكلة البيانات](https://coursemetry.com/crack-the-coding-interview-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d9%88%d9%87%d9%8a%d9%83%d9%84%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7/)
-> * [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
-> * [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
-> * [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
-> * [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
-> * [Learn PHP Development | Arabic [عربي]](https://coursemetry.com/learn-php-development-arabic-%d8%b9%d8%b1%d8%a8%d9%8a/)
-> * [Enterprise Application Development Masterclass using Java](https://coursemetry.com/enterprise-application-development-masterclass-using-java/)
-> * [Ethical Hacking: SQL Injection for Beginners](https://coursemetry.com/ethical-hacking-sql-injection-for-beginners/)
-> * [Linux Desktop Automation](https://coursemetry.com/linux-desktop-automation/)
-> * [Image Processing with Python PIL](https://coursemetry.com/image-processing-with-python-pil/)
+* [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
+* [Crack the Coding Interview  تعلم الخوارزميات وهيكلة البيانات](https://coursemetry.com/crack-the-coding-interview-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d9%88%d9%87%d9%8a%d9%83%d9%84%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7/)
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+* [Learn PHP Development | Arabic [عربي]](https://coursemetry.com/learn-php-development-arabic-%d8%b9%d8%b1%d8%a8%d9%8a/)
+* [Enterprise Application Development Masterclass using Java](https://coursemetry.com/enterprise-application-development-masterclass-using-java/)
+* [Ethical Hacking: SQL Injection for Beginners](https://coursemetry.com/ethical-hacking-sql-injection-for-beginners/)
+* [Linux Desktop Automation](https://coursemetry.com/linux-desktop-automation/)
+* [Image Processing with Python PIL](https://coursemetry.com/image-processing-with-python-pil/)
 > * [AppArmor - Linux Security](https://coursemetry.com/apparmor-linux-security/)
 > * [Secure your Linux VPS](https://coursemetry.com/secure-your-linux-vps/)
 > * [Italian Made Easy: Learn & Improve Your Italian Instantly](https://coursemetry.com/italian-made-easy-learn-improve-your-italian-instantly/)
