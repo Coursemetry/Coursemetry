@@ -1,10 +1,10 @@
 
 ## [**Coursemetry.com**](https://coursemetry.com/)
 
-[Coursemetry](https://coursemetry.com/) provided 100% OFF online courses (Udemy, Coursera, edX, Eduonix)
+[Coursemetry](https://coursemetry.com/) provided 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **Udemy free courses with certificate published on 2022-05-05** 🔥🔥🔥
-> * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
+## **Udemy free courses with certificate published on 2022-05-05**
+> * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/){:target="_blank"}
 > * [Crack the Coding Interview  تعلم الخوارزميات وهيكلة البيانات](https://coursemetry.com/crack-the-coding-interview-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d9%88%d9%87%d9%8a%d9%83%d9%84%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7/)
 > * [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
 > * [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
