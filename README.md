@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published on 2022-05-31**
+## **124 Udemy free courses published on 2022-05-31**
 
 * [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
 
@@ -243,6 +243,14 @@
 * [Porto Visual Composer CSS Woocommerce Zero to Hero  2020](https://coursemetry.com/porto-visual-composer-css-woocommerce-zero-to-hero-2020/)
 
 * [Mastering Shopify Theme Development - Online Store 2.0 A-Z](https://coursemetry.com/mastering-shopify-theme-development-online-store-2-0-a-z/)
+
+* [Full Stack Series - [FREE SEGMENT of  PART1]](https://coursemetry.com/full-stack-series-free-segment-of-part1/)
+
+* [Crypto Trading Cyber Security for Bitcoin & Altcoin Holders](https://coursemetry.com/crypto-trading-cyber-security-for-bitcoin-altcoin-holders/)
+
+* [Job Interview Preparation for Beginners, Questions & Answers](https://coursemetry.com/job-interview-preparation-for-beginners-questions-answers/)
+
+* [React JS- Complete Guide for Frontend Web Development [2021]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2021/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
