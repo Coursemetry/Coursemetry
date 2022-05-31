@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **56 Udemy free courses published on 2022-05-31**
+## **58 Udemy free courses published on 2022-05-31**
 
 * [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
 
@@ -115,6 +115,10 @@
 * [Programação em Linguagem C para Iniciantes](https://coursemetry.com/programacao-em-linguagem-c-para-iniciantes/)
 
 * [Como Estudar Programação de Computadores](https://coursemetry.com/como-estudar-programacao-de-computadores/)
+
+* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
+
+* [Data Science and Analytics with AWS Quicksight and Power BI](https://coursemetry.com/data-science-and-analytics-with-aws-quicksight-and-power-bi/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
