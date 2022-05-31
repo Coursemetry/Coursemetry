@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published on 2022-05-31**
+## **107 Udemy free courses published on 2022-05-31**
 
 * [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
 
@@ -215,6 +215,8 @@
 * [Eigene Website mit Jimdo erstellen](https://coursemetry.com/eigene-website-mit-jimdo-erstellen/)
 
 * [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
+
+* [Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://coursemetry.com/freelancing-37-ways-to-make-money-from-home-as-a-freelancer/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
