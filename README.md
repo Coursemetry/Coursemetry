@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **107 Udemy free courses published on 2022-05-31**
+## **112 Udemy free courses published on 2022-05-31**
 
 * [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
 
@@ -217,6 +217,16 @@
 * [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
 
 * [Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://coursemetry.com/freelancing-37-ways-to-make-money-from-home-as-a-freelancer/)
+
+* [Introduction to Programming with Python](https://coursemetry.com/introduction-to-programming-with-python/)
+
+* [KAFKA Cluster deployment and Java SpringBoot](https://coursemetry.com/kafka-cluster-deployment-and-java-springboot/)
+
+* [Microsoft Power BI Beginner Projects : Learn by Doing](https://coursemetry.com/microsoft-power-bi-beginner-projects-learn-by-doing/)
+
+* [ACE the AutoCAD Interview : Go from Zero to Hero](https://coursemetry.com/ace-the-autocad-interview-go-from-zero-to-hero/)
+
+* [7 Step Guide to Master Self Discipline.](https://coursemetry.com/7-step-guide-to-master-self-discipline/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
