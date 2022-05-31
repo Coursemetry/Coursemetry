@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **112 Udemy free courses published on 2022-05-31**
+## **115 Udemy free courses published on 2022-05-31**
 
 * [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
 
@@ -227,6 +227,12 @@
 * [ACE the AutoCAD Interview : Go from Zero to Hero](https://coursemetry.com/ace-the-autocad-interview-go-from-zero-to-hero/)
 
 * [7 Step Guide to Master Self Discipline.](https://coursemetry.com/7-step-guide-to-master-self-discipline/)
+
+* [Media Training for Doctors/Healthcare Pros: Master the Media](https://coursemetry.com/media-training-for-doctors-healthcare-pros-master-the-media/)
+
+* [Public Speaking for High School Students: Speak Well Now](https://coursemetry.com/public-speaking-for-high-school-students-speak-well-now/)
+
+* [Journalism: Be a Great Talk Show Host](https://coursemetry.com/journalism-be-a-great-talk-show-host/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
