@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **89 Udemy free courses published on 2022-05-31**
+## **106 Udemy free courses published on 2022-05-31**
 
 * [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
 
@@ -181,6 +181,40 @@
 * [Public Speaking: Give a Great Retirement Speech!](https://coursemetry.com/public-speaking-give-a-great-retirement-speech/)
 
 * [Income Tax – Schedule C Small Business Sole Proprietor](https://coursemetry.com/income-tax-schedule-c-small-business-sole-proprietor/)
+
+* [Perform common query tasks in Power BI Desktop](https://coursemetry.com/perform-common-query-tasks-in-power-bi-desktop-2/)
+
+* [FREE Korean Class For Beginners](https://coursemetry.com/free-korean-class-for-beginners/)
+
+* [Automatización de Pruebas con Katalon Studio 2021](https://coursemetry.com/automatizacion-de-pruebas-con-katalon-studio-2021/)
+
+* [CSS - Basics To Advanced for front end development (2021)](https://coursemetry.com/css-basics-to-advanced-for-front-end-development-2021/)
+
+* [Ultimate AWS Guide with Interview Preparation](https://coursemetry.com/ultimate-aws-guide-with-interview-preparation/)
+
+* [JavaScript - Basics to Advanced [step by step (2021)]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2021/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [Learn Apache Spark to Generate Weblog Reports for Websites](https://coursemetry.com/learn-apache-spark-to-generate-weblog-reports-for-websites/)
+
+* [Modern JavaScript for React JS - ES6.](https://coursemetry.com/modern-javascript-for-react-js-es6/)
+
+* [AWS Services for Solutions Architect Associate [2021]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2021/)
+
+* [Ciberseguridad en Cisco Simulación 200-201 CBROPS para  2022](https://coursemetry.com/ciberseguridad-en-cisco-simulacion-200-201-cbrops-para-2022/)
+
+* [HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour](https://coursemetry.com/html5-fundamentals-course-learn-html-basics-in-1-hour/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [The Complete ReactJs Course - Basics to Advanced (2021)](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2021/)
+
+* [HTML5 - From Basics to Advanced level (2021)](https://coursemetry.com/html5-from-basics-to-advanced-level-2021/)
+
+* [Eigene Website mit Jimdo erstellen](https://coursemetry.com/eigene-website-mit-jimdo-erstellen/)
+
+* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
