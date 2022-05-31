@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **118 Udemy free courses published on 2022-05-31**
+## **120 Udemy free courses published on 2022-05-31**
 
 * [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
 
@@ -239,6 +239,10 @@
 * [Aprende FastAPI desde cero](https://coursemetry.com/aprende-fastapi-desde-cero/)
 
 * [PRINCE 2 Foundation Practice-2022](https://coursemetry.com/prince-2-foundation-practice-2022/)
+
+* [Porto Visual Composer CSS Woocommerce Zero to Hero  2020](https://coursemetry.com/porto-visual-composer-css-woocommerce-zero-to-hero-2020/)
+
+* [Mastering Shopify Theme Development - Online Store 2.0 A-Z](https://coursemetry.com/mastering-shopify-theme-development-online-store-2-0-a-z/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
