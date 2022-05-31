@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **117 Udemy free courses published on 2022-05-31**
+## **118 Udemy free courses published on 2022-05-31**
 
 * [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
 
@@ -237,6 +237,8 @@
 * [Individual Income Tax Form 1040 Comprehensive Problem](https://coursemetry.com/individual-income-tax-form-1040-comprehensive-problem/)
 
 * [Aprende FastAPI desde cero](https://coursemetry.com/aprende-fastapi-desde-cero/)
+
+* [PRINCE 2 Foundation Practice-2022](https://coursemetry.com/prince-2-foundation-practice-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
