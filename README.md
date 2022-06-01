@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **52 Udemy free courses published on 2022-06-01**
+## **53 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -107,6 +107,8 @@
 * [Augmented Reality Application Development with Unity 3D 2022](https://coursemetry.com/augmented-reality-application-development-with-unity-3d-2022/)
 
 * [Wie Du Ein Erfolgreiches CPA Marketing Business Aufbaust](https://coursemetry.com/wie-du-ein-erfolgreiches-cpa-marketing-business-aufbaust/)
+
+* [Laravel 8 for beginners - Become a Master (In Arabic)](https://coursemetry.com/laravel-8-for-beginners-become-a-master-in-arabic/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
