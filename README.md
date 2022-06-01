@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **143 Udemy free courses published on 2022-06-01**
+## **144 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -289,6 +289,8 @@
 * [Adobe Photoshop 2022 Ultimate Guide](https://coursemetry.com/adobe-photoshop-2022-ultimate-guide/)
 
 * [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
