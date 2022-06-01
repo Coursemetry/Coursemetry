@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **117 Udemy free courses published on 2022-06-01**
+## **128 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -237,6 +237,28 @@
 * [Generative Adversarial Networks in Artificial Intelligence](https://coursemetry.com/generative-adversarial-networks-in-artificial-intelligence/)
 
 * [Curso Taller De Excel Desde Cero Hasta Avanzado](https://coursemetry.com/curso-taller-de-excel-desde-cero-hasta-avanzado/)
+
+* [How To Craft An Irresistible Lead Magnet To Build Your List](https://coursemetry.com/how-to-craft-an-irresistible-lead-magnet-to-build-your-list/)
+
+* [Facebook Marketing: Reveal The Power of Promoted Posts](https://coursemetry.com/facebook-marketing-reveal-the-power-of-promoted-posts/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [HACKING COMPLETO desde ANDROID](https://coursemetry.com/hacking-completo-desde-android/)
+
+* [Facebook Marketing: Next Level List Building Strategies](https://coursemetry.com/facebook-marketing-next-level-list-building-strategies/)
+
+* [Adobe photoshop cc from a-z beginner to master](https://coursemetry.com/adobe-photoshop-cc-from-a-z-beginner-to-master/)
+
+* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [UNIVERSIDAD DEEP WEB y DARK WEB](https://coursemetry.com/universidad-deep-web-y-dark-web/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [Facebook Marketing: How To Build A Targeted Email List](https://coursemetry.com/facebook-marketing-how-to-build-a-targeted-email-list/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
