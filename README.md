@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published on 2022-06-01**
+## **97 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -109,6 +109,94 @@
 * [Wie Du Ein Erfolgreiches CPA Marketing Business Aufbaust](https://coursemetry.com/wie-du-ein-erfolgreiches-cpa-marketing-business-aufbaust/)
 
 * [Laravel 8 for beginners - Become a Master (In Arabic)](https://coursemetry.com/laravel-8-for-beginners-become-a-master-in-arabic/)
+
+* [Secret Method: Become TOP Wordpress Freelancer & Get Clients](https://coursemetry.com/secret-method-become-top-wordpress-freelancer-get-clients/)
+
+* [Media Training for Financial Service Professionals](https://coursemetry.com/media-training-for-financial-service-professionals/)
+
+* [Awesome Pivoting - Pivot through Network like a BOSS](https://coursemetry.com/awesome-pivoting-pivot-through-network-like-a-boss/)
+
+* [Python 3 Master Course for 2022](https://coursemetry.com/python-3-master-course-for-2022/)
+
+* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+
+* [Microsoft Planner Ultimate Course 2022](https://coursemetry.com/microsoft-planner-ultimate-course-2022/)
+
+* [Microsoft Power BI 2022: The Complete Guide](https://coursemetry.com/microsoft-power-bi-2022-the-complete-guide/)
+
+* [JavaScript Ultimate Course](https://coursemetry.com/javascript-ultimate-course/)
+
+* [QR Code Generator Using JavaScript](https://coursemetry.com/qr-code-generator-using-javascript/)
+
+* [Microsoft Edge Basics](https://coursemetry.com/microsoft-edge-basics/)
+
+* [Adobe Audition 2022 Ultimate Course](https://coursemetry.com/adobe-audition-2022-ultimate-course/)
+
+* [GitHub Basics](https://coursemetry.com/github-basics/)
+
+* [Google Docs Ultimate Course 2021](https://coursemetry.com/google-docs-ultimate-course-2021/)
+
+* [Wordpress for Complete Beginners!](https://coursemetry.com/wordpress-for-complete-beginners/)
+
+* [Adobe After Effects 2022 Ultimate Guide](https://coursemetry.com/adobe-after-effects-2022-ultimate-guide/)
+
+* [Google Drive Ultimate Course 2021](https://coursemetry.com/google-drive-ultimate-course-2021/)
+
+* [Microsoft Outlook](https://coursemetry.com/microsoft-outlook/)
+
+* [DP-900 Microsoft Azure Data Fundamentals Practice Test MAY22](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-test-may22/)
+
+* [HTML5 Ultimate Course](https://coursemetry.com/html5-ultimate-course/)
+
+* [English placement test - Unofficial](https://coursemetry.com/english-placement-test-unofficial/)
+
+* [Bootstrap 4 Ultimate Course](https://coursemetry.com/bootstrap-4-ultimate-course/)
+
+* [QuickBooks Online (QBO) Bookkeeping With Bank Feeds 2022](https://coursemetry.com/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2022/)
+
+* [Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor](https://coursemetry.com/job-cost-quickbooks-online-vs-quickbooks-desktop-contractor/)
+
+* [AZ-500: Microsoft Azure Security Technologies Practice Exam](https://coursemetry.com/az-500-microsoft-azure-security-technologies-practice-exam-2/)
+
+* [Dashboards with Excel](https://coursemetry.com/dashboards-with-excel/)
+
+* [Quantity Surveyor's Guide for Pre-Contracts Management](https://coursemetry.com/quantity-surveyors-guide-for-pre-contracts-management/)
+
+* [Adobe Photoshop 2022 Photo Editing](https://coursemetry.com/adobe-photoshop-2022-photo-editing/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [AZ-400: Designing and Implementing Microsoft DevOps Solution](https://coursemetry.com/az-400-designing-and-implementing-microsoft-devops-solution/)
+
+* [Cryptocurrency & Bitcoin for Beginners in Plain English.](https://coursemetry.com/cryptocurrency-bitcoin-for-beginners-in-plain-english/)
+
+* [HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour](https://coursemetry.com/html5-fundamentals-course-learn-html-basics-in-1-hour/)
+
+* [Adobe Premiere Pro 2022 Ultimate Guide](https://coursemetry.com/adobe-premiere-pro-2022-ultimate-guide/)
+
+* [Linear Regression Analysis using Python: ML Basics (हिंदी)](https://coursemetry.com/linear-regression-analysis-using-python-ml-basics-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80/)
+
+* [Microsoft 365 Ultimate Course 2021](https://coursemetry.com/microsoft-365-ultimate-course-2021/)
+
+* [CompTIA A+ Core I Exam(220-1001) Practice Questions](https://coursemetry.com/comptia-a-core-i-exam220-1001-practice-questions-2/)
+
+* [Master the Art of Making Actionable To Do List](https://coursemetry.com/master-the-art-of-making-actionable-to-do-list/)
+
+* [Logistic Regression in Python](https://coursemetry.com/logistic-regression-in-python/)
+
+* [Complete Financial Planning Course- Beginners to advanced](https://coursemetry.com/complete-financial-planning-course-beginners-to-advanced/)
+
+* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
+
+* [Curso PSeInt algoritmos  y  lógica de  programación](https://coursemetry.com/curso-pseint-algoritmos-y-logica-de-programacion/)
+
+* [Sports Nutrition for Athletes and Fitness Enthusiasts](https://coursemetry.com/sports-nutrition-for-athletes-and-fitness-enthusiasts/)
+
+* [ISC CAP Certified Authorization Professional Practice Exam](https://coursemetry.com/isc-cap-certified-authorization-professional-practice-exam/)
+
+* [Despierta... a tu abundancia personal](https://coursemetry.com/despierta-a-tu-abundancia-personal/)
+
+* [ECCouncil 312-50v7 Ethical Hacking Certified Practice Exam](https://coursemetry.com/eccouncil-312-50v7-ethical-hacking-certified-practice-exam/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
