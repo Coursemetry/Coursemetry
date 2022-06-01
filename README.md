@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published on 2022-06-01**
+## **52 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -97,6 +97,16 @@
 * [Discover and invest in metaverse - Your metaverse adventure](https://coursemetry.com/discover-and-invest-in-metaverse-your-metaverse-adventure/)
 
 * [PHP for Beginners: PHP Crash Course 2022](https://coursemetry.com/php-for-beginners-php-crash-course-2022/)
+
+* [MQL Elementary:Start Learning Algo Trading With MetaTrader 4](https://coursemetry.com/mql-elementarystart-learning-algo-trading-with-metatrader-4/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [Master the Art Of Self-Confidence – Unshakable Confidence](https://coursemetry.com/master-the-art-of-self-confidence-unshakable-confidence/)
+
+* [Augmented Reality Application Development with Unity 3D 2022](https://coursemetry.com/augmented-reality-application-development-with-unity-3d-2022/)
+
+* [Wie Du Ein Erfolgreiches CPA Marketing Business Aufbaust](https://coursemetry.com/wie-du-ein-erfolgreiches-cpa-marketing-business-aufbaust/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
