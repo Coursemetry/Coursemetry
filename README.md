@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **128 Udemy free courses published on 2022-06-01**
+## **129 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -201,64 +201,6 @@
 * [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
 
 * [QuickBooks Pro Desktop Bookkeeping With Bank Feeds 2022 2021](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-with-bank-feeds-2022-2021/)
-
-* [Adobe InDesign 2022 Ultimate Course](https://coursemetry.com/adobe-indesign-2022-ultimate-course/)
-
-* [Vue JS + Google Maps API: Build Location Based Web Apps Fast](https://coursemetry.com/vue-js-google-maps-api-build-location-based-web-apps-fast/)
-
-* [Adobe Creative Cloud 2022 Ultimate Guide](https://coursemetry.com/adobe-creative-cloud-2022-ultimate-guide/)
-
-* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
-
-* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
-
-* [CompTIA PenTest+ (PT0-001) Practice Test](https://coursemetry.com/comptia-pentest-pt0-001-practice-test/)
-
-* [QuickBooks Enterprise-Classes-Responsibility Accounting](https://coursemetry.com/quickbooks-enterprise-classes-responsibility-accounting/)
-
-* [AWS Certified Cloud Practitioner - Practice Exams - 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022-2/)
-
-* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
-
-* [Simulador Scrum Product Owner (PSPO I) Practice-Exam](https://coursemetry.com/simulador-scrum-product-owner-pspo-i-practice-exam/)
-
-* [MLOps Certification- Basics, Deployment & Vertex AI Darknet](https://coursemetry.com/mlops-certification-basics-deployment-vertex-ai-darknet/)
-
-* [Power BI - Data Analytics Essentials with Power BI](https://coursemetry.com/power-bi-data-analytics-essentials-with-power-bi/)
-
-* [Metaverse: Avatars, NFTs, Meta- Farm, GAN-Gough & Open GL](https://coursemetry.com/metaverse-avatars-nfts-meta-farm-gan-gough-open-gl/)
-
-* [Modelagem de banco de dados sem complicação com SQL Server!](https://coursemetry.com/modelagem-de-banco-de-dados-sem-complicacao-com-sql-server/)
-
-* [FullStack Application Spring Boot and React](https://coursemetry.com/fullstack-application-spring-boot-and-react/)
-
-* [Google Professional Cloud Architect - GCP PCA - Exams - 2022](https://coursemetry.com/google-professional-cloud-architect-gcp-pca-exams-2022/)
-
-* [Generative Adversarial Networks in Artificial Intelligence](https://coursemetry.com/generative-adversarial-networks-in-artificial-intelligence/)
-
-* [Curso Taller De Excel Desde Cero Hasta Avanzado](https://coursemetry.com/curso-taller-de-excel-desde-cero-hasta-avanzado/)
-
-* [How To Craft An Irresistible Lead Magnet To Build Your List](https://coursemetry.com/how-to-craft-an-irresistible-lead-magnet-to-build-your-list/)
-
-* [Facebook Marketing: Reveal The Power of Promoted Posts](https://coursemetry.com/facebook-marketing-reveal-the-power-of-promoted-posts/)
-
-* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
-
-* [HACKING COMPLETO desde ANDROID](https://coursemetry.com/hacking-completo-desde-android/)
-
-* [Facebook Marketing: Next Level List Building Strategies](https://coursemetry.com/facebook-marketing-next-level-list-building-strategies/)
-
-* [Adobe photoshop cc from a-z beginner to master](https://coursemetry.com/adobe-photoshop-cc-from-a-z-beginner-to-master/)
-
-* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
-
-* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
-
-* [UNIVERSIDAD DEEP WEB y DARK WEB](https://coursemetry.com/universidad-deep-web-y-dark-web/)
-
-* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
-
-* [Facebook Marketing: How To Build A Targeted Email List](https://coursemetry.com/facebook-marketing-how-to-build-a-targeted-email-list/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
