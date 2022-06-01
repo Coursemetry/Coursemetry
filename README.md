@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published on 2022-06-01**
+## **143 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -265,6 +265,30 @@
 * [Planung Online Marketing](https://coursemetry.com/planung-online-marketing/)
 
 * [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
+
+* [Aprende SQL usando PostgreSQL de cero](https://coursemetry.com/aprende-sql-usando-postgresql-de-cero/)
+
+* [Becoming A Sales Professional](https://coursemetry.com/becoming-a-sales-professional/)
+
+* [CompTIA A+ Core I Exam(220-1001) Practice Test](https://coursemetry.com/comptia-a-core-i-exam220-1001-practice-test/)
+
+* [CCSP - Certified Cloud Security Professional Practice Exam](https://coursemetry.com/ccsp-certified-cloud-security-professional-practice-exam/)
+
+* [Google Workspace (G Suite) Ultimate Course 2021](https://coursemetry.com/google-workspace-g-suite-ultimate-course-2021/)
+
+* [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
+
+* [AWS Certified Solutions Architect - Professional Latest Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-latest-exam/)
+
+* [Front End Web Development Ultimate Course 2022](https://coursemetry.com/front-end-web-development-ultimate-course-2022/)
+
+* [2022 Certificación CCNA de CISCO 200-301](https://coursemetry.com/2022-certificacion-ccna-de-cisco-200-301/)
+
+* [Fundamentos y Lógica de Programación - Bootcamp 2022](https://coursemetry.com/fundamentos-y-logica-de-programacion-bootcamp-2022/)
+
+* [Adobe Photoshop 2022 Ultimate Guide](https://coursemetry.com/adobe-photoshop-2022-ultimate-guide/)
+
+* [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
