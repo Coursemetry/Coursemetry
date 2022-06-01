@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **28 Udemy free courses published on 2022-06-01**
+## **32 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -59,6 +59,14 @@
 * [Mobile App Development for people with Autism, Dyslexia etc](https://coursemetry.com/mobile-app-development-for-people-with-autism-dyslexia-etc/)
 
 * [Aprende Cómo Hacer El Mejor Podcast y Con Hosting](https://coursemetry.com/aprende-como-hacer-el-mejor-podcast-y-con-hosting/)
+
+* [The Complete Digital Marketing Strategy For 2022](https://coursemetry.com/the-complete-digital-marketing-strategy-for-2022/)
+
+* [Contented Career Mom](https://coursemetry.com/contented-career-mom/)
+
+* [The Zen Methodology Secrets To Habit Formation](https://coursemetry.com/the-zen-methodology-secrets-to-habit-formation/)
+
+* [Time Management for Personal & Professional Productivity](https://coursemetry.com/time-management-for-personal-professional-productivity/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
