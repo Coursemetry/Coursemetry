@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **148 Udemy free courses published on 2022-06-01**
+## **149 Udemy free courses published on 2022-06-01**
 
 * [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
 
@@ -299,6 +299,8 @@
 * [Ethical Hacking: Hacking with Python](https://coursemetry.com/ethical-hacking-hacking-with-python/)
 
 * [Ethical Hacking: SQL Injection for Beginners](https://coursemetry.com/ethical-hacking-sql-injection-for-beginners/)
+
+* [French for Beginners - A1](https://coursemetry.com/french-for-beginners-a1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
