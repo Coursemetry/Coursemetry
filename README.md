@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published on 2022-06-02**
+## **81 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -161,6 +161,10 @@
 * [Adobe Dreamweaver 2022 Ultimate Course](https://coursemetry.com/adobe-dreamweaver-2022-ultimate-course/)
 
 * [Web Development Ultimate Course](https://coursemetry.com/web-development-ultimate-course/)
+
+* [Kanban : A concise Introduction](https://coursemetry.com/kanban-a-concise-introduction/)
+
+* [Discover Python](https://coursemetry.com/discover-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
