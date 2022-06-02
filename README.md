@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **95 Udemy free courses published on 2022-06-02**
+## **101 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -193,6 +193,18 @@
 * [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
 
 * [Web Analytics with Similarweb: from Basic to PRO!](https://coursemetry.com/web-analytics-with-similarweb-from-basic-to-pro/)
+
+* [The Complete Recruiting Masterclass - HR Resources - Hiring](https://coursemetry.com/the-complete-recruiting-masterclass-hr-resources-hiring/)
+
+* [Certified Network Associate CCNA Practice Test](https://coursemetry.com/certified-network-associate-ccna-practice-test/)
+
+* [Complete Management Coaching Course - Executive Coaching](https://coursemetry.com/complete-management-coaching-course-executive-coaching/)
+
+* [IT Fundamentals ITF+  Practice Test](https://coursemetry.com/it-fundamentals-itf-practice-test/)
+
+* [Programming Fundamentals in TypeScript 2022](https://coursemetry.com/programming-fundamentals-in-typescript-2022/)
+
+* [15+ Microsoft Power Automate Business Use Cases](https://coursemetry.com/15-microsoft-power-automate-business-use-cases/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
