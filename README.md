@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **101 Udemy free courses published on 2022-06-02**
+## **109 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -205,6 +205,22 @@
 * [Programming Fundamentals in TypeScript 2022](https://coursemetry.com/programming-fundamentals-in-typescript-2022/)
 
 * [15+ Microsoft Power Automate Business Use Cases](https://coursemetry.com/15-microsoft-power-automate-business-use-cases/)
+
+* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
+
+* [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
+
+* [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
+
+* [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
+
+* [The Complete Dart Learning Guide [2022 Edition]](https://coursemetry.com/the-complete-dart-learning-guide-2022-edition/)
+
+* [Comprehensive Introduction to Cyber Security](https://coursemetry.com/comprehensive-introduction-to-cyber-security/)
+
+* [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
+
+* [Exam MS-500: Microsoft 365 Security Administration Exam 2022](https://coursemetry.com/exam-ms-500-microsoft-365-security-administration-exam-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
