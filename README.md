@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **109 Udemy free courses published on 2022-06-02**
+## **124 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -221,6 +221,36 @@
 * [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
 
 * [Exam MS-500: Microsoft 365 Security Administration Exam 2022](https://coursemetry.com/exam-ms-500-microsoft-365-security-administration-exam-2022/)
+
+* [Wordpress for Complete Beginners!](https://coursemetry.com/wordpress-for-complete-beginners/)
+
+* [Stress-free Effective Learning for Adults: Crush your goals!](https://coursemetry.com/stress-free-effective-learning-for-adults-crush-your-goals/)
+
+* [Self Care: The Boundary Bundle](https://coursemetry.com/self-care-the-boundary-bundle/)
+
+* [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
+
+* [12 Surefire Hacks To Writing Your First Book! - Book Writing](https://coursemetry.com/12-surefire-hacks-to-writing-your-first-book-book-writing/)
+
+* [C++ Para Principiantes](https://coursemetry.com/c-para-principiantes/)
+
+* [PL-900 Microsoft Power Platform Fundamentals 2022](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-2022/)
+
+* [Cryptocurrency & Bitcoin for Beginners in Plain English.](https://coursemetry.com/cryptocurrency-bitcoin-for-beginners-in-plain-english/)
+
+* [Figma UI/UX Web Design & Animation with 5 Projects (2022)](https://coursemetry.com/figma-ui-ux-web-design-animation-with-5-projects-2022/)
+
+* [Swift for Beginners – 100 Hands-On Exercises](https://coursemetry.com/swift-for-beginners-100-hands-on-exercises/)
+
+* [Adaptive Sourcing: Agile Procurement in Practice](https://coursemetry.com/adaptive-sourcing-agile-procurement-in-practice/)
+
+* [Get Your Dream Job Or Internship + Live Masterclasses 2022](https://coursemetry.com/get-your-dream-job-or-internship-live-masterclasses-2022/)
+
+* [Simple and Strong Forex Swing Trading Strategy in the world](https://coursemetry.com/simple-and-strong-forex-swing-trading-strategy-in-the-world/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [MariaDB Basics](https://coursemetry.com/mariadb-basics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
