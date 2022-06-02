@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **84 Udemy free courses published on 2022-06-02**
+## **86 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -171,6 +171,10 @@
 * [Cyber Security: Secure Passwords on Linux](https://coursemetry.com/cyber-security-secure-passwords-on-linux/)
 
 * [Xero Job Costing – Projects](https://coursemetry.com/xero-job-costing-projects/)
+
+* [Power BI - Data Analytics Essentials with Power BI](https://coursemetry.com/power-bi-data-analytics-essentials-with-power-bi/)
+
+* [Django Channels | Group Chat Application With WebSockets](https://coursemetry.com/django-channels-group-chat-application-with-websockets/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
