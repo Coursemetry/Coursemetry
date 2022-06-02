@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published on 2022-06-02**
+## **138 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -265,6 +265,20 @@
 * [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
 
 * [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
+
+* [Learn To Code Trading Card Game Battle System With Unity 3D](https://coursemetry.com/learn-to-code-trading-card-game-battle-system-with-unity-3d/)
+
+* [Home Business: The Complete CPA Marketing Course](https://coursemetry.com/home-business-the-complete-cpa-marketing-course/)
+
+* [Neuroplasticity Ultimate Certification Course](https://coursemetry.com/neuroplasticity-ultimate-certification-course/)
+
+* [Learn How to Make Trading Card Game Menus With Unity 3D](https://coursemetry.com/learn-how-to-make-trading-card-game-menus-with-unity-3d/)
+
+* [Simple and Advanced Topics of Animating 2D Characters](https://coursemetry.com/simple-and-advanced-topics-of-animating-2d-characters/)
+
+* [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
+
+* [Google Cloud Certified Associate Engineer Practice Tests](https://coursemetry.com/google-cloud-certified-associate-engineer-practice-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
