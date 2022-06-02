@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published on 2022-06-02**
+## **95 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -187,6 +187,12 @@
 * [Voice of the Customer: Toolkit](https://coursemetry.com/voice-of-the-customer-toolkit/)
 
 * [Complete Teacher Wellbeing in Schools](https://coursemetry.com/complete-teacher-wellbeing-in-schools/)
+
+* [Google Analytics, GA4, GTM. How to improve your marketing?](https://coursemetry.com/google-analytics-ga4-gtm-how-to-improve-your-marketing/)
+
+* [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
+
+* [Web Analytics with Similarweb: from Basic to PRO!](https://coursemetry.com/web-analytics-with-similarweb-from-basic-to-pro/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
