@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **138 Udemy free courses published on 2022-06-02**
+## **157 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -279,6 +279,44 @@
 * [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
 
 * [Google Cloud Certified Associate Engineer Practice Tests](https://coursemetry.com/google-cloud-certified-associate-engineer-practice-tests/)
+
+* [Neuroplasticity Life Coach Complete Certificate Course](https://coursemetry.com/neuroplasticity-life-coach-complete-certificate-course/)
+
+* [Nutrition: The Ultimate Nutrition certification Course](https://coursemetry.com/nutrition-the-ultimate-nutrition-certification-course/)
+
+* [Certified Network Marketer (Network Marketing & MLM Mastery)](https://coursemetry.com/certified-network-marketer-network-marketing-mlm-mastery/)
+
+* [Sales Funnel PRO: Your Step-by-Step Guide to Success](https://coursemetry.com/sales-funnel-pro-your-step-by-step-guide-to-success/)
+
+* [CBT: Cognitive Behavioral Therapy For Anxiety And Depression](https://coursemetry.com/cbt-cognitive-behavioral-therapy-for-anxiety-and-depression/)
+
+* [Nutrition Certification: The Complete Nutrition Course](https://coursemetry.com/nutrition-certification-the-complete-nutrition-course/)
+
+* [CBT: Complete psychotherapy Certificate Course](https://coursemetry.com/cbt-complete-psychotherapy-certificate-course/)
+
+* [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
+
+* [Learn 4 STEPS to Make Money Online by Blogging!](https://coursemetry.com/learn-4-steps-to-make-money-online-by-blogging/)
+
+* [Become an Instagram Manager 2022, for Freelancers & Business](https://coursemetry.com/become-an-instagram-manager-2022-for-freelancers-business/)
+
+* [Life Coaching: ZERO TO HERO Life Coach certificate Course](https://coursemetry.com/life-coaching-zero-to-hero-life-coach-certificate-course/)
+
+* [The Importance of JV Contests in Exploding Your Business](https://coursemetry.com/the-importance-of-jv-contests-in-exploding-your-business/)
+
+* [SQL Bootcamp - SQLite - Hands-On Exercises](https://coursemetry.com/sql-bootcamp-sqlite-hands-on-exercises/)
+
+* [Nutrition certification: Diet and weight loss for everyone](https://coursemetry.com/nutrition-certification-diet-and-weight-loss-for-everyone/)
+
+* [CBT and Nutrition Ultimate Certification Course](https://coursemetry.com/cbt-and-nutrition-ultimate-certification-course/)
+
+* [CBT for anxiety and panic](https://coursemetry.com/cbt-for-anxiety-and-panic/)
+
+* [The Ultimate Weight Loss & Health Improvement Training](https://coursemetry.com/the-ultimate-weight-loss-health-improvement-training/)
+
+* [Drive Sales & Conversions With Facebook Ads: Complete Guide!](https://coursemetry.com/drive-sales-conversions-with-facebook-ads-complete-guide/)
+
+* [The Complete Productivity Course: Do More With Less Effort](https://coursemetry.com/the-complete-productivity-course-do-more-with-less-effort/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
