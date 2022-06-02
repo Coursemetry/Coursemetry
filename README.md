@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published on 2022-06-02**
+## **79 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -133,6 +133,34 @@
 * [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
 
 * [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [Gmail Productivity Ultimate Course 2021](https://coursemetry.com/gmail-productivity-ultimate-course-2021/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [Adobe Illustrator 2022 Ultimate Guide](https://coursemetry.com/adobe-illustrator-2022-ultimate-guide/)
+
+* [French for Beginners - A1](https://coursemetry.com/french-for-beginners-a1/)
+
+* [Google Forms Ultimate Course 2021](https://coursemetry.com/google-forms-ultimate-course-2021/)
+
+* [Adobe Creative Cloud 2022 Projects](https://coursemetry.com/adobe-creative-cloud-2022-projects/)
+
+* [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
+
+* [cPanel Ultimate Course](https://coursemetry.com/cpanel-ultimate-course/)
+
+* [GitLab](https://coursemetry.com/gitlab/)
+
+* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
+
+* [Adobe Animate 2022 Ultimate Guide](https://coursemetry.com/adobe-animate-2022-ultimate-guide/)
+
+* [Adobe Dreamweaver 2022 Ultimate Course](https://coursemetry.com/adobe-dreamweaver-2022-ultimate-course/)
+
+* [Web Development Ultimate Course](https://coursemetry.com/web-development-ultimate-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
