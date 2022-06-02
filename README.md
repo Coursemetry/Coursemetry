@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **39 Udemy free courses published on 2022-06-02**
+## **49 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -81,6 +81,26 @@
 * [250+ Questions - Job Interview - Python Developer - 2022](https://coursemetry.com/250-questions-job-interview-python-developer-2022/)
 
 * [Adobe XD 2022 Ultimate Course](https://coursemetry.com/adobe-xd-2022-ultimate-course/)
+
+* [200+ Questions - Job Interview - Software Developer - Git](https://coursemetry.com/200-questions-job-interview-software-developer-git/)
+
+* [Power BI DAX: Aprende las funciones más avanzadas](https://coursemetry.com/power-bi-dax-aprende-las-funciones-mas-avanzadas/)
+
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
+
+* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
+
+* [JDBC Basics](https://coursemetry.com/jdbc-basics/)
+
+* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [SVG Ultimate Course](https://coursemetry.com/svg-ultimate-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
