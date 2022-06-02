@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **26 Udemy free courses published on 2022-06-02**
+## **39 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -55,6 +55,32 @@
 * [Portrait Photography for Absolute Beginners](https://coursemetry.com/portrait-photography-for-absolute-beginners/)
 
 * [Technical Analysis Certification Course with live trades](https://coursemetry.com/technical-analysis-certification-course-with-live-trades/)
+
+* [CSS3 Ultimate Course](https://coursemetry.com/css3-ultimate-course/)
+
+* [21-Day Hormone Harmony Detox](https://coursemetry.com/21-day-hormone-harmony-detox/)
+
+* [ASTQB Certified Mobile Tester Practice Exams](https://coursemetry.com/astqb-certified-mobile-tester-practice-exams/)
+
+* [200+ Questions - Job Interview - Data Scientist - 2022](https://coursemetry.com/200-questions-job-interview-data-scientist-2022/)
+
+* [BCABA Board Certified Assistant Behavior Analyst Exams](https://coursemetry.com/bcaba-board-certified-assistant-behavior-analyst-exams/)
+
+* [Registered Communications Distribution Designer Exams](https://coursemetry.com/registered-communications-distribution-designer-exams/)
+
+* [Microsoft Publisher](https://coursemetry.com/microsoft-publisher/)
+
+* [Open Broadcaster Basics](https://coursemetry.com/open-broadcaster-basics/)
+
+* [200+ Questions - Job Interview - SQL Developer - 2022](https://coursemetry.com/200-questions-job-interview-sql-developer-2022/)
+
+* [jQuery Ultimate Course](https://coursemetry.com/jquery-ultimate-course/)
+
+* [BCBA Board Certified Behavior Analyst Exams](https://coursemetry.com/bcba-board-certified-behavior-analyst-exams/)
+
+* [250+ Questions - Job Interview - Python Developer - 2022](https://coursemetry.com/250-questions-job-interview-python-developer-2022/)
+
+* [Adobe XD 2022 Ultimate Course](https://coursemetry.com/adobe-xd-2022-ultimate-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
