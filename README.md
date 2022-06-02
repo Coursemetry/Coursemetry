@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **128 Udemy free courses published on 2022-06-02**
+## **130 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -259,6 +259,10 @@
 * [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
 * [Scrum Master Simulación y Preguntas 2022](https://coursemetry.com/scrum-master-simulacion-y-preguntas-2022/)
+
+* [The Ultimate SQL Interview Questions : Most Asked Q&A/MCQs](https://coursemetry.com/the-ultimate-sql-interview-questions-most-asked-qa-mcqs/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
