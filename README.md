@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published on 2022-06-02**
+## **65 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -101,6 +101,38 @@
 * [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
 
 * [SVG Ultimate Course](https://coursemetry.com/svg-ultimate-course/)
+
+* [Web Development Masterclass - Complete Certificate Course](https://coursemetry.com/web-development-masterclass-complete-certificate-course/)
+
+* [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
+
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
+
+* [Blockchain & NFTs (Basics): Smart Contracts to QR NFTs](https://coursemetry.com/blockchain-nfts-basics-smart-contracts-to-qr-nfts/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [Microsoft OneDrive Ultimate Course 2022](https://coursemetry.com/microsoft-onedrive-ultimate-course-2022/)
+
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
+
+* [HTML, CSS, & Bootstrap - Certification Course for Beginners](https://coursemetry.com/html-css-bootstrap-certification-course-for-beginners/)
+
+* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+
+* [Microsoft OneNote Ultimate Course 2022](https://coursemetry.com/microsoft-onenote-ultimate-course-2022/)
+
+* [Microsoft Power BI Basics](https://coursemetry.com/microsoft-power-bi-basics/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [Microsoft Word Ultimate Course 2022](https://coursemetry.com/microsoft-word-ultimate-course-2022/)
+
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
