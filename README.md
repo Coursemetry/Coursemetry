@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **81 Udemy free courses published on 2022-06-02**
+## **83 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -165,6 +165,10 @@
 * [Kanban : A concise Introduction](https://coursemetry.com/kanban-a-concise-introduction/)
 
 * [Discover Python](https://coursemetry.com/discover-python/)
+
+* [Service Design for the Real World: A Practical Introduction](https://coursemetry.com/service-design-for-the-real-world-a-practical-introduction/)
+
+* [Cyber Security: Secure Passwords on Linux](https://coursemetry.com/cyber-security-secure-passwords-on-linux/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
