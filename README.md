@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **90 Udemy free courses published on 2022-06-02**
+## **92 Udemy free courses published on 2022-06-02**
 
 * [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
 
@@ -183,6 +183,10 @@
 * [Education Tax Credits & Education Tax Benefits](https://coursemetry.com/education-tax-credits-education-tax-benefits/)
 
 * [Como Crear una Coleccion NFT y Vender tus Tokens en Opensea](https://coursemetry.com/como-crear-una-coleccion-nft-y-vender-tus-tokens-en-opensea/)
+
+* [Voice of the Customer: Toolkit](https://coursemetry.com/voice-of-the-customer-toolkit/)
+
+* [Complete Teacher Wellbeing in Schools](https://coursemetry.com/complete-teacher-wellbeing-in-schools/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
