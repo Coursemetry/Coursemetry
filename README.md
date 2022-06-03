@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published on 2022-06-03**
+## **116 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -215,6 +215,26 @@
 * [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
 
 * [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
+
+* [QuickBooks Pro Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2022-2021-2020/)
+
+* [Accelerated Learning: Study Skills for Success: IT industry](https://coursemetry.com/accelerated-learning-study-skills-for-success-it-industry/)
+
+* [Management Consulting Essential Training](https://coursemetry.com/management-consulting-essential-training/)
+
+* [Google Professional Cloud Developer - GCP PCD - Exams - 2022](https://coursemetry.com/google-professional-cloud-developer-gcp-pcd-exams-2022/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [150+ Exercises - Data Structures in Python - Hands-On - 2022](https://coursemetry.com/150-exercises-data-structures-in-python-hands-on-2022/)
+
+* [Google Cloud Professional Data Engineer Practice Questions](https://coursemetry.com/google-cloud-professional-data-engineer-practice-questions/)
+
+* [Design Sketching S01: Create Amazing Designs with Procreate](https://coursemetry.com/design-sketching-s01-create-amazing-designs-with-procreate/)
+
+* [Financial Accounting & Excel–Comprehensive Accounting Course](https://coursemetry.com/financial-accounting-excel-comprehensive-accounting-course/)
+
+* [HashiCorp Certified: Terraform Associate Practice Questions](https://coursemetry.com/hashicorp-certified-terraform-associate-practice-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
