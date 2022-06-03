@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **101 Udemy free courses published on 2022-06-03**
+## **106 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -205,6 +205,16 @@
 * [Facebook Ads Marketing technique for Generating Leads 2022](https://coursemetry.com/facebook-ads-marketing-technique-for-generating-leads-2022/)
 
 * [Not-for-Profit Accounting-Charities, Colleges, & Health Care](https://coursemetry.com/not-for-profit-accounting-charities-colleges-health-care/)
+
+* [Aplos Not for Profit Accounting Software](https://coursemetry.com/aplos-not-for-profit-accounting-software/)
+
+* [Create awesome videos from text using Pictory](https://coursemetry.com/create-awesome-videos-from-text-using-pictory/)
+
+* [Configuración y Optimizacion de tu Página de Facebook 2022](https://coursemetry.com/configuracion-y-optimizacion-de-tu-pagina-de-facebook-2022/)
+
+* [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
+
+* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
