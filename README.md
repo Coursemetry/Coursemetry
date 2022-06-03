@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **139 Udemy free courses published on 2022-06-03**
+## **142 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -281,6 +281,12 @@
 * [How to Dress Your Best & Create Stylish Outfit Combinations](https://coursemetry.com/how-to-dress-your-best-create-stylish-outfit-combinations/)
 
 * [Método Completo de Escritura de Novela Psicológica](https://coursemetry.com/metodo-completo-de-escritura-de-novela-psicologica/)
+
+* [PODCAST MASTERY: How to Make, Market, and Monetize Podcasts](https://coursemetry.com/podcast-mastery-how-to-make-market-and-monetize-podcasts/)
+
+* [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
+
+* [PMI Scheduling Professional (PMI-SP)-Practice Tests-2022](https://coursemetry.com/pmi-scheduling-professional-pmi-sp-practice-tests-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
