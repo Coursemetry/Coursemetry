@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **137 Udemy free courses published on 2022-06-03**
+## **139 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -33,8 +33,6 @@
 * [Ultimate Jenkins Guide with Interview Preparation](https://coursemetry.com/ultimate-jenkins-guide-with-interview-preparation/)
 
 * [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
-
-* [Método Completo de Escritura de Novela Psicológica](https://coursemetry.com/metodo-completo-de-escritura-de-novela-psicologica/)
 
 * [Deciphering Multi Orgasmic Man – Important Prior Knowledge](https://coursemetry.com/deciphering-multi-orgasmic-man-important-prior-knowledge/)
 
@@ -277,6 +275,12 @@
 * [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
 
 * [Build a decentralized Library management app with solidity](https://coursemetry.com/build-a-decentralized-library-management-app-with-solidity/)
+
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
+
+* [How to Dress Your Best & Create Stylish Outfit Combinations](https://coursemetry.com/how-to-dress-your-best-create-stylish-outfit-combinations/)
+
+* [Método Completo de Escritura de Novela Psicológica](https://coursemetry.com/metodo-completo-de-escritura-de-novela-psicologica/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
