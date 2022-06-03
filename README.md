@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **44 Udemy free courses published on 2022-06-03**
+## **45 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -91,6 +91,8 @@
 * [Secret Method: Become TOP Wordpress Freelancer & Get Clients](https://coursemetry.com/secret-method-become-top-wordpress-freelancer-get-clients/)
 
 * [Change Management: Make the Change!](https://coursemetry.com/change-management-make-the-change/)
+
+* [350+ Exercises - Python Programming Mega Pack - OOP - 2022](https://coursemetry.com/350-exercises-python-programming-mega-pack-oop-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
