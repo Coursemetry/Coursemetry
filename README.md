@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published on 2022-06-03**
+## **128 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -235,6 +235,30 @@
 * [Financial Accounting & Excel–Comprehensive Accounting Course](https://coursemetry.com/financial-accounting-excel-comprehensive-accounting-course/)
 
 * [HashiCorp Certified: Terraform Associate Practice Questions](https://coursemetry.com/hashicorp-certified-terraform-associate-practice-questions/)
+
+* [Learn 10 Ways to Make MORE Money on YouTube!](https://coursemetry.com/learn-10-ways-to-make-more-money-on-youtube/)
+
+* [AWS Certified Security Speciality Practice-2022](https://coursemetry.com/aws-certified-security-speciality-practice-2022/)
+
+* [1Z0-1067-21: OCI Operations Associate Practice Exam](https://coursemetry.com/1z0-1067-21-oci-operations-associate-practice-exam/)
+
+* [Sales & Marketing Funnel To Grow Business- Digital Marketing](https://coursemetry.com/sales-marketing-funnel-to-grow-business-digital-marketing/)
+
+* [QuickBooks Online 2022 & 2021 Start to Finish](https://coursemetry.com/quickbooks-online-2022-2021-start-to-finish/)
+
+* [Ethical Hacking: Offensive Security](https://coursemetry.com/ethical-hacking-offensive-security/)
+
+* [Success tips for busy entrepreneurs- live your best life now](https://coursemetry.com/success-tips-for-busy-entrepreneurs-live-your-best-life-now/)
+
+* [AWS Certified Machine Learning - Specialty Practice Exam](https://coursemetry.com/aws-certified-machine-learning-specialty-practice-exam/)
+
+* [Cloud Web Server : configuración simple y automatizada.](https://coursemetry.com/cloud-web-server-configuracion-simple-y-automatizada/)
+
+* [Ethical Hacking: Password Cracking](https://coursemetry.com/ethical-hacking-password-cracking/)
+
+* [AWS Certified Cloud Practitioner Practice Questions](https://coursemetry.com/aws-certified-cloud-practitioner-practice-questions/)
+
+* [DP 900: Microsoft Azure Data Fundamentals Practice Questions](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
