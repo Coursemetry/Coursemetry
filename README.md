@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **29 Udemy free courses published on 2022-06-03**
+## **41 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -61,6 +61,30 @@
 * [PBA Exam Prep Professional in Business Analysis 2022](https://coursemetry.com/pba-exam-prep-professional-in-business-analysis-2022/)
 
 * [Oracle 1Z0-969 Payroll Cloud Implementation Essentials Exam](https://coursemetry.com/oracle-1z0-969-payroll-cloud-implementation-essentials-exam/)
+
+* [VMware VCPVCD510 Certified Professional 5 IaaS Practice Exam](https://coursemetry.com/vmware-vcpvcd510-certified-professional-5-iaas-practice-exam/)
+
+* [Startup Fundraising Master course - Raise Venture Capital](https://coursemetry.com/startup-fundraising-master-course-raise-venture-capital/)
+
+* [Awesome Startup Pitch deck: Raise Capital (20+ Templates)](https://coursemetry.com/awesome-startup-pitch-deck-raise-capital-20-templates/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
+
+* [Complete Metaverse Course: Everything about AR, VR, and NFTs](https://coursemetry.com/complete-metaverse-course-everything-about-ar-vr-and-nfts/)
+
+* [MBA Course: Marketing and Business Strategy](https://coursemetry.com/mba-course-marketing-and-business-strategy/)
+
+* [The Lean Startup: Best course on Entrepreneurship](https://coursemetry.com/the-lean-startup-best-course-on-entrepreneurship/)
+
+* [Complete Course on Blockchain and Cryptocurrency](https://coursemetry.com/complete-course-on-blockchain-and-cryptocurrency/)
+
+* [MBA: Supply Chain and Operation management](https://coursemetry.com/mba-supply-chain-and-operation-management/)
+
+* [Python for Data Science - NumPy, Pandas & Scikit-Learn](https://coursemetry.com/python-for-data-science-numpy-pandas-scikit-learn/)
+
+* [31 Startup Business Model: Best Course for Entrepreneurs](https://coursemetry.com/31-startup-business-model-best-course-for-entrepreneurs/)
+
+* [MBA: Retail management, Merchandising, and E-commerce](https://coursemetry.com/mba-retail-management-merchandising-and-e-commerce/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
