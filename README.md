@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **128 Udemy free courses published on 2022-06-03**
+## **132 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -259,6 +259,14 @@
 * [AWS Certified Cloud Practitioner Practice Questions](https://coursemetry.com/aws-certified-cloud-practitioner-practice-questions/)
 
 * [DP 900: Microsoft Azure Data Fundamentals Practice Questions](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-questions/)
+
+* [Master C++ Programming From Beginner To Advance - C++ Course](https://coursemetry.com/master-c-programming-from-beginner-to-advance-c-course/)
+
+* [NLP Certification- BERT, GPTs, Software 3.0 & Multimodal NLP](https://coursemetry.com/nlp-certification-bert-gpts-software-3-0-multimodal-nlp/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part I - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-i-2022/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part II - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-ii-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
