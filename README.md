@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published on 2022-06-03**
+## **101 Udemy free courses published on 2022-06-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -141,6 +141,70 @@
 * [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
 
 * [Money In Excel - Income Tax Sch. C & Personal Financials](https://coursemetry.com/money-in-excel-income-tax-sch-c-personal-financials/)
+
+* [Adaptive Sourcing: Agile Procurement in Practice](https://coursemetry.com/adaptive-sourcing-agile-procurement-in-practice/)
+
+* [Microsoft Power BI 2022: The Complete Guide](https://coursemetry.com/microsoft-power-bi-2022-the-complete-guide/)
+
+* [Introduction to Business Analytics](https://coursemetry.com/introduction-to-business-analytics/)
+
+* [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
+
+* [Microsoft Excel: Excel course for beginners](https://coursemetry.com/microsoft-excel-excel-course-for-beginners/)
+
+* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+
+* [Facebook Ads & Facebook Marketing Funnel Crash Course- 2022](https://coursemetry.com/facebook-ads-facebook-marketing-funnel-crash-course-2022/)
+
+* [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
+
+* [Python for Data Analysis & Visualization 2022](https://coursemetry.com/python-for-data-analysis-visualization-2022/)
+
+* [Excel Accounting Problem](https://coursemetry.com/excel-accounting-problem/)
+
+* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [Digital Marketing Business Online For Free Social Media 2022](https://coursemetry.com/digital-marketing-business-online-for-free-social-media-2022/)
+
+* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
+
+* [QuickBooks Desktop Multiple Currencies](https://coursemetry.com/quickbooks-desktop-multiple-currencies/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [Facebook Ads Marketing For Events Organic & Paid Strategy](https://coursemetry.com/facebook-ads-marketing-for-events-organic-paid-strategy/)
+
+* [Run Digital Marketing Ad Using Google Adwords Express 2022](https://coursemetry.com/run-digital-marketing-ad-using-google-adwords-express-2022/)
+
+* [Run Search Ad In Google Ads & Easy SEO For Beginners-2022](https://coursemetry.com/run-search-ad-in-google-ads-easy-seo-for-beginners-2022/)
+
+* [Personal Finance](https://coursemetry.com/personal-finance/)
+
+* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
+
+* [دورة اساسيات بايثون واختبار الاختراق عبر بايثون](https://coursemetry.com/%d8%af%d9%88%d8%b1%d8%a9-%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%88%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+
+* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+
+* [QuickBooks Desktop Job Costing](https://coursemetry.com/quickbooks-desktop-job-costing/)
+
+* [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
+
+* [Python for Beginners: Learn Programming in Python 3](https://coursemetry.com/python-for-beginners-learn-programming-in-python-3/)
+
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
+
+* [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
+
+* [Facebook Ads Marketing technique for Generating Leads 2022](https://coursemetry.com/facebook-ads-marketing-technique-for-generating-leads-2022/)
+
+* [Not-for-Profit Accounting-Charities, Colleges, & Health Care](https://coursemetry.com/not-for-profit-accounting-charities-colleges-health-care/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
