@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **144 Udemy free courses published on 2022-06-04**
+## **145 Udemy free courses published on 2022-06-04**
 
 * [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
 
@@ -291,6 +291,8 @@
 * [Get Started Online With No Investment - Newbie Friendly](https://coursemetry.com/get-started-online-with-no-investment-newbie-friendly/)
 
 * [How To Create An Online Course That Sells](https://coursemetry.com/how-to-create-an-online-course-that-sells/)
+
+* [Aprende Golang desde cero (GO)](https://coursemetry.com/aprende-golang-desde-cero-go/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
