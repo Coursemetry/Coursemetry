@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published on 2022-06-04**
+## **119 Udemy free courses published on 2022-06-04**
 
 * [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
 
@@ -219,6 +219,28 @@
 * [Getting new Customers with Google Adwords](https://coursemetry.com/getting-new-customers-with-google-adwords/)
 
 * [Facebook Marketing: Next Level Traffic Generation Strategies](https://coursemetry.com/facebook-marketing-next-level-traffic-generation-strategies/)
+
+* [Flutter Advanced Course - Clean Architecture With MVVM](https://coursemetry.com/flutter-advanced-course-clean-architecture-with-mvvm/)
+
+* [How To Validate Your Idea And Succeed In Business](https://coursemetry.com/how-to-validate-your-idea-and-succeed-in-business/)
+
+* [The Complete Elementor Course for WordPress](https://coursemetry.com/the-complete-elementor-course-for-wordpress/)
+
+* [A Modern Day Guide To Stop Procrastinating](https://coursemetry.com/a-modern-day-guide-to-stop-procrastinating/)
+
+* [How To Launch A Product Successfully](https://coursemetry.com/how-to-launch-a-product-successfully/)
+
+* [Target Audience Training: Identify Your Ideal Customer](https://coursemetry.com/target-audience-training-identify-your-ideal-customer/)
+
+* [Einführung in UX Writing](https://coursemetry.com/einfuhrung-in-ux-writing/)
+
+* [How To Craft An Irresistible Lead Magnet To Build Your List](https://coursemetry.com/how-to-craft-an-irresistible-lead-magnet-to-build-your-list/)
+
+* [Facebook Marketing: Introduction To Power Editor](https://coursemetry.com/facebook-marketing-introduction-to-power-editor/)
+
+* [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
+
+* [How To Get Your First 10,000 Facebook Fans In 2018](https://coursemetry.com/how-to-get-your-first-10000-facebook-fans-in-2018/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
