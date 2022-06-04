@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **81 Udemy free courses published on 2022-06-04**
+## **108 Udemy free courses published on 2022-06-04**
 
 * [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
 
@@ -165,6 +165,60 @@
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
 * [How To Promote Your Webinar With Facebook Ads](https://coursemetry.com/how-to-promote-your-webinar-with-facebook-ads/)
+
+* [Advanced Facilitation Skills to Enhance Learners Experience](https://coursemetry.com/advanced-facilitation-skills-to-enhance-learners-experience/)
+
+* [Connect the Dots: Simple Stock Trading for Beginners](https://coursemetry.com/connect-the-dots-simple-stock-trading-for-beginners/)
+
+* [Personal Branding Mastery- Reinvent Yourself Like a PRO](https://coursemetry.com/personal-branding-mastery-reinvent-yourself-like-a-pro/)
+
+* [Final Cut Pro Tutorial - MotionVFX Academy](https://coursemetry.com/final-cut-pro-tutorial-motionvfx-academy/)
+
+* [Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022](https://coursemetry.com/reverse-engineering-and-malware-analysis-x64-32-crma-2022/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Blue Prism Certified Developer Practice Exams](https://coursemetry.com/blue-prism-certified-developer-practice-exams/)
+
+* [ABA CTFA Certified Trust and Financial Advisor Practice Exam](https://coursemetry.com/aba-ctfa-certified-trust-and-financial-advisor-practice-exam/)
+
+* [ABA Certified Regulatory Compliance Manager Practice Exams](https://coursemetry.com/aba-certified-regulatory-compliance-manager-practice-exams/)
+
+* [Ethical Hacking: Introduction to Exploits](https://coursemetry.com/ethical-hacking-introduction-to-exploits/)
+
+* [How To Create High-Quality Blog Content That Gets Shared](https://coursemetry.com/how-to-create-high-quality-blog-content-that-gets-shared/)
+
+* [Google Associate Cloud Engineer - GCP ACE - Exams - 2022](https://coursemetry.com/google-associate-cloud-engineer-gcp-ace-exams-2022/)
+
+* [الاختراق الأخلاقي بواسطة الهندسة الأجتماعية من الصفر (حصريا)](https://coursemetry.com/%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d8%a8%d9%88%d8%a7%d8%b3%d8%b7%d8%a9-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%a7%d9%84%d8%a3/)
+
+* [How To Analyze Your Market With Facebook Audience Insights](https://coursemetry.com/how-to-analyze-your-market-with-facebook-audience-insights/)
+
+* [Create awesome videos from text using Pictory](https://coursemetry.com/create-awesome-videos-from-text-using-pictory-2/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [Ethical Hacking: SQL Injection for Beginners](https://coursemetry.com/ethical-hacking-sql-injection-for-beginners/)
+
+* [Facebook Marketing: How To Improve Your Fan Page Performance](https://coursemetry.com/facebook-marketing-how-to-improve-your-fan-page-performance/)
+
+* [CSS3 and Bootstrap for Absolute Beginners : 4 courses in 1](https://coursemetry.com/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1/)
+
+* [Facebook Marketing: Reveal The Power of Promoted Posts](https://coursemetry.com/facebook-marketing-reveal-the-power-of-promoted-posts/)
+
+* [Marketer's Guide To Creating Facebook Ads That Convert](https://coursemetry.com/marketers-guide-to-creating-facebook-ads-that-convert/)
+
+* [Secrets Exposed: Find The Most Profitable Niches of 2020](https://coursemetry.com/secrets-exposed-find-the-most-profitable-niches-of-2020/)
+
+* [How To Grow Your Local Business With Facebook](https://coursemetry.com/how-to-grow-your-local-business-with-facebook/)
+
+* [How to Get Your First 1,000 Facebook Fans: For Beginners](https://coursemetry.com/how-to-get-your-first-1000-facebook-fans-for-beginners/)
+
+* [Facebook Marketing: How To Build A List With Lead Ads](https://coursemetry.com/facebook-marketing-how-to-build-a-list-with-lead-ads/)
+
+* [Getting new Customers with Google Adwords](https://coursemetry.com/getting-new-customers-with-google-adwords/)
+
+* [Facebook Marketing: Next Level Traffic Generation Strategies](https://coursemetry.com/facebook-marketing-next-level-traffic-generation-strategies/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
