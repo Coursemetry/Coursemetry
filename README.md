@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **145 Udemy free courses published on 2022-06-04**
+## **149 Udemy free courses published on 2022-06-04**
 
 * [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
 
@@ -293,6 +293,14 @@
 * [How To Create An Online Course That Sells](https://coursemetry.com/how-to-create-an-online-course-that-sells/)
 
 * [Aprende Golang desde cero (GO)](https://coursemetry.com/aprende-golang-desde-cero-go/)
+
+* [Google Sheets - جوجل شيت من الصفر للاحتراف](https://coursemetry.com/google-sheets-%d8%ac%d9%88%d8%ac%d9%84-%d8%b4%d9%8a%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Google Slides - جوجل سلايدز من الصفر للاحتراف](https://coursemetry.com/google-slides-%d8%ac%d9%88%d8%ac%d9%84-%d8%b3%d9%84%d8%a7%d9%8a%d8%af%d8%b2-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
+
+* [Google Docs - مستندات جوجل من الصفر للاحتراف](https://coursemetry.com/google-docs-%d9%85%d8%b3%d8%aa%d9%86%d8%af%d8%a7%d8%aa-%d8%ac%d9%88%d8%ac%d9%84-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
