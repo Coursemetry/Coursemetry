@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **152 Udemy free courses published on 2022-06-04**
+## **153 Udemy free courses published on 2022-06-04**
 
 * [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
 
@@ -307,6 +307,8 @@
 * [Complete Bitcoin Course: Go from Bitcoin Novice to Expert](https://coursemetry.com/complete-bitcoin-course-go-from-bitcoin-novice-to-expert/)
 
 * [Zero to Hero Bootstrap5 Mastery Course](https://coursemetry.com/zero-to-hero-bootstrap5-mastery-course/)
+
+* [CISSP Practice Test](https://coursemetry.com/cissp-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
