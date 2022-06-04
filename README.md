@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published on 2022-06-04**
+## **134 Udemy free courses published on 2022-06-04**
 
 * [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
 
@@ -241,6 +241,36 @@
 * [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
 
 * [How To Get Your First 10,000 Facebook Fans In 2018](https://coursemetry.com/how-to-get-your-first-10000-facebook-fans-in-2018/)
+
+* [The Complete Law Of Attraction Course Updated for the 2020s](https://coursemetry.com/the-complete-law-of-attraction-course-updated-for-the-2020s/)
+
+* [Freelance Consulting - The 1-Hour Course for Beginners](https://coursemetry.com/freelance-consulting-the-1-hour-course-for-beginners/)
+
+* [Powerful Way To Grow Your Business With Contests](https://coursemetry.com/powerful-way-to-grow-your-business-with-contests/)
+
+* [49 Weight Loss Tips You Can Stick To Forever - Be Thinner](https://coursemetry.com/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/)
+
+* [The Complete Brain Training Course - Neuroplasticity -](https://coursemetry.com/the-complete-brain-training-course-neuroplasticity/)
+
+* [Create WordPress Within minutes using Cloud Computing](https://coursemetry.com/create-wordpress-within-minutes-using-cloud-computing/)
+
+* [Passive Income - 1-Hour Course To Guide Your Financial Path](https://coursemetry.com/passive-income-1-hour-course-to-guide-your-financial-path/)
+
+* [Ethical Hacking: Offensive Security](https://coursemetry.com/ethical-hacking-offensive-security/)
+
+* [The Complete One Hour Perfect Posture Habits Course](https://coursemetry.com/the-complete-one-hour-perfect-posture-habits-course/)
+
+* [Profitable App Development Blueprint for Startups](https://coursemetry.com/profitable-app-development-blueprint-for-startups/)
+
+* [How To Achieve Your Personal Goals In 12 Months](https://coursemetry.com/how-to-achieve-your-personal-goals-in-12-months/)
+
+* [The Complete Career Coaching Course - Career Development](https://coursemetry.com/the-complete-career-coaching-course-career-development/)
+
+* [Ethical Hacking: Password Cracking](https://coursemetry.com/ethical-hacking-password-cracking/)
+
+* [Entrepreneurship: 60 Day Startup Launch Blueprint](https://coursemetry.com/entrepreneurship-60-day-startup-launch-blueprint/)
+
+* [Complete Hypnosis Weight Loss Course - Dieting Psychology](https://coursemetry.com/complete-hypnosis-weight-loss-course-dieting-psychology/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
