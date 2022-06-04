@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **139 Udemy free courses published on 2022-06-04**
+## **144 Udemy free courses published on 2022-06-04**
 
 * [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
 
@@ -281,6 +281,16 @@
 * [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
 
 * [How To Dominate Excel Formatting & Charting](https://coursemetry.com/how-to-dominate-excel-formatting-charting/)
+
+* [تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a8%d9%84%d8%ba%d8%a9-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ae%d8%b7%d9%88%d8%a9/)
+
+* [The Complete Forex Trading Course: Forex Scalping](https://coursemetry.com/the-complete-forex-trading-course-forex-scalping/)
+
+* [Facebook Marketing: Next Level Fan Growth Strategies](https://coursemetry.com/facebook-marketing-next-level-fan-growth-strategies/)
+
+* [Get Started Online With No Investment - Newbie Friendly](https://coursemetry.com/get-started-online-with-no-investment-newbie-friendly/)
+
+* [How To Create An Online Course That Sells](https://coursemetry.com/how-to-create-an-online-course-that-sells/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
