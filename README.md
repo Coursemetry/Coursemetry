@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published on 2022-06-05**
+## **112 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -87,8 +87,6 @@
 * [Cyber Security: Secure Passwords on Linux](https://coursemetry.com/cyber-security-secure-passwords-on-linux/)
 
 * [250+ Exercises - Data Science Bootcamp in Python - 2022](https://coursemetry.com/250-exercises-data-science-bootcamp-in-python-2022/)
-
-* [The English Conversation Course | Learn to speak English!](https://coursemetry.com/the-english-conversation-course-learn-to-speak-english/)
 
 * [Interview coaching course (Standard)](https://coursemetry.com/interview-coaching-course-standard/)
 
@@ -213,6 +211,22 @@
 * [Ethical Hacking - Port Scan com Ferramentas Online e Offline](https://coursemetry.com/ethical-hacking-port-scan-com-ferramentas-online-e-offline/)
 
 * [ACE the AutoCAD Interview : Go from Zero to Hero](https://coursemetry.com/ace-the-autocad-interview-go-from-zero-to-hero/)
+
+* [200+ Questions - Job Interview - Software Developer - Git](https://coursemetry.com/200-questions-job-interview-software-developer-git/)
+
+* [Curso WordPress 2022:  Cómo Crear una Página Web Desde Cero](https://coursemetry.com/curso-wordpress-2022-como-crear-una-pagina-web-desde-cero/)
+
+* [Cómo Pasar de Empleado a Emprendedor](https://coursemetry.com/como-pasar-de-empleado-a-emprendedor/)
+
+* [The English Conversation Course | Learn to speak English!](https://coursemetry.com/the-english-conversation-course-learn-to-speak-english/)
+
+* [Adobe Photoshop CC- Basic Photoshop training](https://coursemetry.com/adobe-photoshop-cc-basic-photoshop-training/)
+
+* [AZ 900 Azure fundamentals latest practice questions](https://coursemetry.com/az-900-azure-fundamentals-latest-practice-questions/)
+
+* [Master all the MS Excel Macros and the basics of Excel VBA](https://coursemetry.com/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/)
+
+* [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
