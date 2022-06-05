@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **38 Udemy free courses published on 2022-06-05**
+## **42 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -79,6 +79,14 @@
 * [Fire Up Creativity in Your Child](https://coursemetry.com/fire-up-creativity-in-your-child/)
 
 * [Containerize SpringBoot Node Express Apps & Deploy on Azure](https://coursemetry.com/containerize-springboot-node-express-apps-deploy-on-azure/)
+
+* [150+ Exercises - Object Oriented Programming in Python - OOP](https://coursemetry.com/150-exercises-object-oriented-programming-in-python-oop/)
+
+* [200+ Exercises - Programming in Python - 2022](https://coursemetry.com/200-exercises-programming-in-python-2022/)
+
+* [Cyber Security: Secure Passwords on Linux](https://coursemetry.com/cyber-security-secure-passwords-on-linux/)
+
+* [250+ Exercises - Data Science Bootcamp in Python - 2022](https://coursemetry.com/250-exercises-data-science-bootcamp-in-python-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
