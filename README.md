@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published on 2022-06-05**
+## **74 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -137,6 +137,20 @@
 * [Microsoft Planner Ultimate Course 2022](https://coursemetry.com/microsoft-planner-ultimate-course-2022/)
 
 * [SVG Ultimate Course](https://coursemetry.com/svg-ultimate-course/)
+
+* [Bootstrap 4 Ultimate Course](https://coursemetry.com/bootstrap-4-ultimate-course/)
+
+* [Microsoft Power BI Basics](https://coursemetry.com/microsoft-power-bi-basics/)
+
+* [GitHub Basics](https://coursemetry.com/github-basics/)
+
+* [Gmail Productivity Ultimate Course 2021](https://coursemetry.com/gmail-productivity-ultimate-course-2021/)
+
+* [Adobe Dreamweaver 2022 Ultimate Guide](https://coursemetry.com/adobe-dreamweaver-2022-ultimate-guide/)
+
+* [CSS3 Ultimate Course](https://coursemetry.com/css3-ultimate-course/)
+
+* [Adobe After Effects 2022 Ultimate Guide](https://coursemetry.com/adobe-after-effects-2022-ultimate-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
