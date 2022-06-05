@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **127 Udemy free courses published on 2022-06-05**
+## **145 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -257,6 +257,42 @@
 * [Create and publish a static web app with Gatsby](https://coursemetry.com/create-and-publish-a-static-web-app-with-gatsby/)
 
 * [Wordpress for Complete Beginners!](https://coursemetry.com/wordpress-for-complete-beginners/)
+
+* [A Beginners Guide to Django!](https://coursemetry.com/a-beginners-guide-to-django/)
+
+* [Learn Data Visualization with Python, Plotly and Power BI](https://coursemetry.com/learn-data-visualization-with-python-plotly-and-power-bi/)
+
+* [ACFE CFE Certified Fraud Examiner Practice Exams](https://coursemetry.com/acfe-cfe-certified-fraud-examiner-practice-exams/)
+
+* [CPP C++ Certified Professional Programmer Practice Exams](https://coursemetry.com/cpp-c-certified-professional-programmer-practice-exams/)
+
+* [ACI Dealing Certificate (3I0-012) Practice Exams](https://coursemetry.com/aci-dealing-certificate-3i0-012-practice-exams/)
+
+* [CPA C++ Certified Associate Programmer Practice Exams](https://coursemetry.com/cpa-c-certified-associate-programmer-practice-exams/)
+
+* [Certified Quality Improvement Associate CQIA Practice Exams](https://coursemetry.com/certified-quality-improvement-associate-cqia-practice-exams/)
+
+* [Certified Quality Engineer CQE Practice Exams](https://coursemetry.com/certified-quality-engineer-cqe-practice-exams/)
+
+* [ACP-100 JIRA Administrator Practice Exams](https://coursemetry.com/acp-100-jira-administrator-practice-exams/)
+
+* [Cryptocurrency & Bitcoin for Beginners in Plain English.](https://coursemetry.com/cryptocurrency-bitcoin-for-beginners-in-plain-english/)
+
+* [CAMS Certified Anti-Money Laundering Specialist Exams](https://coursemetry.com/cams-certified-anti-money-laundering-specialist-exams/)
+
+* [CPA Auditing and Attestation (AUD) Practice Exams](https://coursemetry.com/cpa-auditing-and-attestation-aud-practice-exams/)
+
+* [Certified Manager of Quality/Organizational Excellence Exams](https://coursemetry.com/certified-manager-of-quality-organizational-excellence-exams/)
+
+* [Foreclosure Success for Real Estate Investors by Jay Conner](https://coursemetry.com/foreclosure-success-for-real-estate-investors-by-jay-conner/)
+
+* [BTA Certified Blockchain Solution Architect Practice Exams](https://coursemetry.com/bta-certified-blockchain-solution-architect-practice-exams/)
+
+* [HTML5 Ultimate Course](https://coursemetry.com/html5-ultimate-course/)
+
+* [Blue Prism Certified Professional Developer Practice Exams](https://coursemetry.com/blue-prism-certified-professional-developer-practice-exams/)
+
+* [jQuery Ultimate Course](https://coursemetry.com/jquery-ultimate-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
