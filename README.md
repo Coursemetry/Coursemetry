@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **122 Udemy free courses published on 2022-06-05**
+## **127 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -247,6 +247,16 @@
 * [Construire un CV efficace de A à Z en 2022](https://coursemetry.com/construire-un-cv-efficace-de-a-a-z-en-2022/)
 
 * [Foundations of Contracts and Outsourcing](https://coursemetry.com/foundations-of-contracts-and-outsourcing/)
+
+* [Build A Paint Drawing App Using C#  and Visual Studio](https://coursemetry.com/build-a-paint-drawing-app-using-c-and-visual-studio/)
+
+* [Data Engineering — How to Build an ETL Pipeline Using SSIS](https://coursemetry.com/data-engineering-how-to-build-an-etl-pipeline-using-ssis/)
+
+* [Connect and query  SQL Server using SSMS](https://coursemetry.com/connect-and-query-sql-server-using-ssms/)
+
+* [Create and publish a static web app with Gatsby](https://coursemetry.com/create-and-publish-a-static-web-app-with-gatsby/)
+
+* [Wordpress for Complete Beginners!](https://coursemetry.com/wordpress-for-complete-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
