@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published on 2022-06-05**
+## **48 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -93,6 +93,12 @@
 * [Interview coaching course (Standard)](https://coursemetry.com/interview-coaching-course-standard/)
 
 * [Python - Data mining and Machine learning](https://coursemetry.com/python-data-mining-and-machine-learning/)
+
+* [Complete Guide to TOEFL iBT | Mastering the Skills](https://coursemetry.com/complete-guide-to-toefl-ibt-mastering-the-skills/)
+
+* [Wordpress Elementor Course: Develop Site Without Coding](https://coursemetry.com/wordpress-elementor-course-develop-site-without-coding/)
+
+* [Adobe Premiere Pro CC Video Editing Course Beginners To Pro](https://coursemetry.com/adobe-premiere-pro-cc-video-editing-course-beginners-to-pro/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
