@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published on 2022-06-05**
+## **35 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -63,6 +63,16 @@
 * [Docker & Kubernetes Interview Readiness Course](https://coursemetry.com/docker-kubernetes-interview-readiness-course/)
 
 * [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Building Android Widgets from Scratch ( Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [Ableton Workflow Masterclass - How To Make A Track A Day.](https://coursemetry.com/ableton-workflow-masterclass-how-to-make-a-track-a-day/)
+
+* [Blockchain & NFTs (Basics): Smart Contracts to QR NFTs](https://coursemetry.com/blockchain-nfts-basics-smart-contracts-to-qr-nfts/)
+
+* [Complete Pixel Art Megacourse: Beginner to Expert](https://coursemetry.com/complete-pixel-art-megacourse-beginner-to-expert/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
