@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published on 2022-06-05**
+## **105 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -137,6 +137,82 @@
 * [Microsoft Planner Ultimate Course 2022](https://coursemetry.com/microsoft-planner-ultimate-course-2022/)
 
 * [SVG Ultimate Course](https://coursemetry.com/svg-ultimate-course/)
+
+* [Bootstrap 4 Ultimate Course](https://coursemetry.com/bootstrap-4-ultimate-course/)
+
+* [Microsoft Power BI Basics](https://coursemetry.com/microsoft-power-bi-basics/)
+
+* [GitHub Basics](https://coursemetry.com/github-basics/)
+
+* [Gmail Productivity Ultimate Course 2021](https://coursemetry.com/gmail-productivity-ultimate-course-2021/)
+
+* [Adobe Dreamweaver 2022 Ultimate Guide](https://coursemetry.com/adobe-dreamweaver-2022-ultimate-guide/)
+
+* [CSS3 Ultimate Course](https://coursemetry.com/css3-ultimate-course/)
+
+* [Adobe After Effects 2022 Ultimate Guide](https://coursemetry.com/adobe-after-effects-2022-ultimate-guide/)
+
+* [Microsoft Excel Ultimate Course 2022](https://coursemetry.com/microsoft-excel-ultimate-course-2022/)
+
+* [Project Finance Fundamentals | Infrastructure & Energy](https://coursemetry.com/project-finance-fundamentals-infrastructure-energy/)
+
+* [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
+
+* [Learn Canva: Make Money From Canva: More than 2 Courses in 1](https://coursemetry.com/learn-canva-make-money-from-canva-more-than-2-courses-in-1/)
+
+* [Digital Nomad Secrets: Escape 9-5, Live Anywhere & Have Fun](https://coursemetry.com/digital-nomad-secrets-escape-9-5-live-anywhere-have-fun/)
+
+* [Microsoft 365 Ultimate Course 2021](https://coursemetry.com/microsoft-365-ultimate-course-2021/)
+
+* [Google Workspace (G Suite) Ultimate Course 2021](https://coursemetry.com/google-workspace-g-suite-ultimate-course-2021/)
+
+* [Adobe Premiere Pro 2022 Ultimate Guide](https://coursemetry.com/adobe-premiere-pro-2022-ultimate-guide/)
+
+* [cPanel Ultimate Course](https://coursemetry.com/cpanel-ultimate-course/)
+
+* [Adobe Illustrator 2022 Ultimate Guide](https://coursemetry.com/adobe-illustrator-2022-ultimate-guide/)
+
+* [Asana Ultimate Course 2022](https://coursemetry.com/asana-ultimate-course-2022/)
+
+* [Microsoft OneDrive Ultimate Course 2022](https://coursemetry.com/microsoft-onedrive-ultimate-course-2022/)
+
+* [Google Docs Ultimate Course 2021](https://coursemetry.com/google-docs-ultimate-course-2021/)
+
+* [Google Forms Ultimate Course 2021](https://coursemetry.com/google-forms-ultimate-course-2021/)
+
+* [Google Drive Ultimate Course 2021](https://coursemetry.com/google-drive-ultimate-course-2021/)
+
+* [Microsoft Teams Ultimate Course 2022](https://coursemetry.com/microsoft-teams-ultimate-course-2022/)
+
+* [Adobe Photoshop 2022 Ultimate Guide](https://coursemetry.com/adobe-photoshop-2022-ultimate-guide/)
+
+* [Front End Web Development Ultimate Course 2022](https://coursemetry.com/front-end-web-development-ultimate-course-2022/)
+
+* [Adobe Creative Cloud 2022 Ultimate Guide](https://coursemetry.com/adobe-creative-cloud-2022-ultimate-guide/)
+
+* [Airtable Ultimate Course](https://coursemetry.com/airtable-ultimate-course/)
+
+* [200+ Questions - Job Interview - SQL Developer - 2022](https://coursemetry.com/200-questions-job-interview-sql-developer-2022/)
+
+* [250+ Questions - Job Interview - Python Developer - 2022](https://coursemetry.com/250-questions-job-interview-python-developer-2022/)
+
+* [200+ Questions - Job Interview - Data Scientist - 2022](https://coursemetry.com/200-questions-job-interview-data-scientist-2022/)
+
+* [Digital Marketing Course as Project & Fun: 88 Days Challenge](https://coursemetry.com/digital-marketing-course-as-project-fun-88-days-challenge/)
+
+* [Couples Counseling | Learn to Live happy with Life Partner](https://coursemetry.com/couples-counseling-learn-to-live-happy-with-life-partner/)
+
+* [Brain Computer Interfacing via spiking neuromorphic networks](https://coursemetry.com/brain-computer-interfacing-via-spiking-neuromorphic-networks/)
+
+* [Taoist Sex Education - The Multi Orgasmic Man](https://coursemetry.com/taoist-sex-education-the-multi-orgasmic-man/)
+
+* [Mastering SQL Server | Passage to become Database Developer](https://coursemetry.com/mastering-sql-server-passage-to-become-database-developer/)
+
+* [The Easy Way to Speak English For Beginners](https://coursemetry.com/the-easy-way-to-speak-english-for-beginners/)
+
+* [Ethical Hacking - Port Scan com Ferramentas Online e Offline](https://coursemetry.com/ethical-hacking-port-scan-com-ferramentas-online-e-offline/)
+
+* [ACE the AutoCAD Interview : Go from Zero to Hero](https://coursemetry.com/ace-the-autocad-interview-go-from-zero-to-hero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
