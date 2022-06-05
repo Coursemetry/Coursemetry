@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **29 Udemy free courses published on 2022-06-05**
+## **30 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -61,6 +61,8 @@
 * [Artificial Intelligence Expert Course + Live Class](https://coursemetry.com/artificial-intelligence-expert-course-live-class/)
 
 * [Docker & Kubernetes Interview Readiness Course](https://coursemetry.com/docker-kubernetes-interview-readiness-course/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
