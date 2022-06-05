@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **48 Udemy free courses published on 2022-06-05**
+## **67 Udemy free courses published on 2022-06-05**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -99,6 +99,44 @@
 * [Wordpress Elementor Course: Develop Site Without Coding](https://coursemetry.com/wordpress-elementor-course-develop-site-without-coding/)
 
 * [Adobe Premiere Pro CC Video Editing Course Beginners To Pro](https://coursemetry.com/adobe-premiere-pro-cc-video-editing-course-beginners-to-pro/)
+
+* [Adobe Audition 2022 Ultimate Guide](https://coursemetry.com/adobe-audition-2022-ultimate-guide/)
+
+* [Adobe Photoshop 2022 Photo Editing](https://coursemetry.com/adobe-photoshop-2022-photo-editing/)
+
+* [GitLab](https://coursemetry.com/gitlab/)
+
+* [Adobe InDesign 2022 Ultimate Guide](https://coursemetry.com/adobe-indesign-2022-ultimate-guide/)
+
+* [JavaScript Ultimate Course](https://coursemetry.com/javascript-ultimate-course/)
+
+* [MariaDB Basics](https://coursemetry.com/mariadb-basics/)
+
+* [Python 3 Master Course for 2022](https://coursemetry.com/python-3-master-course-for-2022/)
+
+* [Microsoft Edge Basics](https://coursemetry.com/microsoft-edge-basics/)
+
+* [Adobe XD 2022 Ultimate Guide](https://coursemetry.com/adobe-xd-2022-ultimate-guide/)
+
+* [JDBC Basics](https://coursemetry.com/jdbc-basics/)
+
+* [Adobe Creative Cloud 2022 Projects](https://coursemetry.com/adobe-creative-cloud-2022-projects/)
+
+* [Microsoft Word Ultimate Course 2022](https://coursemetry.com/microsoft-word-ultimate-course-2022/)
+
+* [Web Development Ultimate Course](https://coursemetry.com/web-development-ultimate-course/)
+
+* [Adobe Animate 2022 Ultimate Guide](https://coursemetry.com/adobe-animate-2022-ultimate-guide/)
+
+* [Microsoft OneNote Ultimate Course 2022](https://coursemetry.com/microsoft-onenote-ultimate-course-2022/)
+
+* [Google Analytics Certification 3 in 1 [Practice Test]](https://coursemetry.com/google-analytics-certification-3-in-1-practice-test/)
+
+* [Microsoft Publisher](https://coursemetry.com/microsoft-publisher/)
+
+* [Microsoft Planner Ultimate Course 2022](https://coursemetry.com/microsoft-planner-ultimate-course-2022/)
+
+* [SVG Ultimate Course](https://coursemetry.com/svg-ultimate-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
