@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **39 Udemy free courses published on 2022-06-06**
+## **41 Udemy free courses published on 2022-06-06**
 
 * [SEO & Copywriting Course as Project & Fun: 43 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-43-days-challenge/)
 
@@ -81,6 +81,10 @@
 * [Comunicación Asertiva y Empática](https://coursemetry.com/comunicacion-asertiva-y-empatica/)
 
 * [Service Design for the Real World: A Practical Introduction](https://coursemetry.com/service-design-for-the-real-world-a-practical-introduction/)
+
+* [WordPress for beginners: Best WordPress and marketing course](https://coursemetry.com/wordpress-for-beginners-best-wordpress-and-marketing-course/)
+
+* [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
