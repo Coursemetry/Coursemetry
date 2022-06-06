@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **87 Udemy free courses published on 2022-06-06**
+## **112 Udemy free courses published on 2022-06-06**
 
 * [SEO & Copywriting Course as Project & Fun: 43 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-43-days-challenge/)
 
@@ -177,6 +177,56 @@
 * [Learn Coding with Java from Scratch: Essential Training 2022](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2022/)
 
 * [Aprende FastAPI desde cero](https://coursemetry.com/aprende-fastapi-desde-cero/)
+
+* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+
+* [The R Programming For Data Science A-Z Complete Diploma 2022](https://coursemetry.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/)
+
+* [Data Science: Python for Data Analysis 2022 Full Bootcamp](https://coursemetry.com/data-science-python-for-data-analysis-2022-full-bootcamp/)
+
+* [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
+
+* [The Complete Oracle SQL Bootcamp 2022](https://coursemetry.com/the-complete-oracle-sql-bootcamp-2022/)
+
+* [Microsoft Excel: Desde cero para profesionales](https://coursemetry.com/microsoft-excel-desde-cero-para-profesionales/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [Certified Designing Blue Prism Process Solutions Exams](https://coursemetry.com/certified-designing-blue-prism-process-solutions-exams/)
+
+* [JavaScript: Desde cero con NodeJS](https://coursemetry.com/javascript-desde-cero-con-nodejs/)
+
+* [Fundamentos de Programación: Aprende a programar desde cero](https://coursemetry.com/fundamentos-de-programacion-aprende-a-programar-desde-cero/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [Complete Revit Guide - Project Documentation Essentials](https://coursemetry.com/complete-revit-guide-project-documentation-essentials/)
+
+* [Sage 50 Accounting | Sageline 50 Basic to Advance Training](https://coursemetry.com/sage-50-accounting-sageline-50-basic-to-advance-training/)
+
+* [Interview coaching course (Premium)](https://coursemetry.com/interview-coaching-course-premium/)
+
+* [Escuela de Programación y Desarrollo Web desde cero a Master](https://coursemetry.com/escuela-de-programacion-y-desarrollo-web-desde-cero-a-master/)
+
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
+
+* [The Complete Business Interview Course](https://coursemetry.com/the-complete-business-interview-course/)
+
+* [A+ Core2 Practice Test](https://coursemetry.com/a-core2-practice-test/)
+
+* [Usability Testing in UX Research & Design Evaluation (2022)](https://coursemetry.com/usability-testing-in-ux-research-design-evaluation-2022/)
+
+* [Certified Solutions Architect – Associate Practice Test](https://coursemetry.com/certified-solutions-architect-associate-practice-test/)
+
+* [Learn Mindreading and Mentalism in 3 days](https://coursemetry.com/learn-mindreading-and-mentalism-in-3-days/)
+
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
+* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+
+* [Análisis de datos con Google Data Studio](https://coursemetry.com/analisis-de-datos-con-google-data-studio/)
+
+* [Power BI DAX: Aprende las funciones más avanzadas](https://coursemetry.com/power-bi-dax-aprende-las-funciones-mas-avanzadas/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
