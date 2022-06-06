@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **26 Udemy free courses published on 2022-06-06**
+## **36 Udemy free courses published on 2022-06-06**
 
 * [SEO & Copywriting Course as Project & Fun: 43 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-43-days-challenge/)
 
@@ -55,6 +55,26 @@
 * [200+ Questions - Job Interview - SQL Developer - 2022](https://coursemetry.com/200-questions-job-interview-sql-developer-2022/)
 
 * [250+ Questions - Job Interview - Python Developer - 2022](https://coursemetry.com/250-questions-job-interview-python-developer-2022/)
+
+* [Python Hacking: Create Backdoor](https://coursemetry.com/python-hacking-create-backdoor/)
+
+* [Python Hacking: Build Hacking Tools](https://coursemetry.com/python-hacking-build-hacking-tools/)
+
+* [AWS Certified Cloud Practitioner Third Edition Practice Exam](https://coursemetry.com/aws-certified-cloud-practitioner-third-edition-practice-exam/)
+
+* [Autocoaching: Autoamabilidad](https://coursemetry.com/autocoaching-autoamabilidad/)
+
+* [AWS Certified Database - Specialty Practice Exam](https://coursemetry.com/aws-certified-database-specialty-practice-exam/)
+
+* [Content Marketing Masterclass](https://coursemetry.com/content-marketing-masterclass/)
+
+* [Open Broadcaster Basics](https://coursemetry.com/open-broadcaster-basics/)
+
+* [Kubernetes Administrator (CKA) Practice Exam](https://coursemetry.com/kubernetes-administrator-cka-practice-exam/)
+
+* [Google Professional Cloud Network Engineer Practice Exam](https://coursemetry.com/google-professional-cloud-network-engineer-practice-exam/)
+
+* [Microsoft Outlook](https://coursemetry.com/microsoft-outlook/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
