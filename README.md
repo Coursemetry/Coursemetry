@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **13 Udemy free courses published on 2022-06-06**
+## **16 Udemy free courses published on 2022-06-06**
 
 * [SEO & Copywriting Course as Project & Fun: 43 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-43-days-challenge/)
 
@@ -29,6 +29,12 @@
 * [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
 
 * [Internal Combustion Engine Emissions & Control](https://coursemetry.com/internal-combustion-engine-emissions-control/)
+
+* [Getting Started with Google Sites Create a WebPage Quickly](https://coursemetry.com/getting-started-with-google-sites-create-a-webpage-quickly/)
+
+* [EASY FRENCH-Language course for beginners (course 1)](https://coursemetry.com/easy-french-language-course-for-beginners-course-1/)
+
+* [Project Management Crash Course in 60 Minutes](https://coursemetry.com/project-management-crash-course-in-60-minutes/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
