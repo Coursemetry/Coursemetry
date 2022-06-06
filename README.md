@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published on 2022-06-06**
+## **53 Udemy free courses published on 2022-06-06**
 
 * [SEO & Copywriting Course as Project & Fun: 43 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-43-days-challenge/)
 
@@ -103,6 +103,12 @@
 * [Complete Guide to eBay Selling as a Business](https://coursemetry.com/complete-guide-to-ebay-selling-as-a-business/)
 
 * [Shopify eCommerce Store Masterclass - Start a Business!](https://coursemetry.com/shopify-ecommerce-store-masterclass-start-a-business/)
+
+* [NUMBERS es el EXCEL para ipad y iphone - Curso completo](https://coursemetry.com/numbers-es-el-excel-para-ipad-y-iphone-curso-completo/)
+
+* [AI-102: Microsoft Azure AI Solutions Exam Practice Questions](https://coursemetry.com/ai-102-microsoft-azure-ai-solutions-exam-practice-questions/)
+
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
