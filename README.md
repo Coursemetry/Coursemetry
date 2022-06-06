@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published on 2022-06-06**
+## **39 Udemy free courses published on 2022-06-06**
 
 * [SEO & Copywriting Course as Project & Fun: 43 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-43-days-challenge/)
 
@@ -75,6 +75,12 @@
 * [Google Professional Cloud Network Engineer Practice Exam](https://coursemetry.com/google-professional-cloud-network-engineer-practice-exam/)
 
 * [Microsoft Outlook](https://coursemetry.com/microsoft-outlook/)
+
+* [How to VLOG 2022 : Complete Beginners Course +YouTube](https://coursemetry.com/how-to-vlog-2022-complete-beginners-course-youtube/)
+
+* [Comunicación Asertiva y Empática](https://coursemetry.com/comunicacion-asertiva-y-empatica/)
+
+* [Service Design for the Real World: A Practical Introduction](https://coursemetry.com/service-design-for-the-real-world-a-practical-introduction/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
