@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **12 Udemy free courses published on 2022-06-06**
+## **13 Udemy free courses published on 2022-06-06**
 
 * [SEO & Copywriting Course as Project & Fun: 43 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-43-days-challenge/)
 
@@ -27,6 +27,8 @@
 * [APICS Certified Supply Chain Professional CSCP Practice Exam](https://coursemetry.com/apics-certified-supply-chain-professional-cscp-practice-exam/)
 
 * [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [Internal Combustion Engine Emissions & Control](https://coursemetry.com/internal-combustion-engine-emissions-control/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
