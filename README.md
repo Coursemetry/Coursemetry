@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published on 2022-06-06**
+## **75 Udemy free courses published on 2022-06-06**
 
 * [SEO & Copywriting Course as Project & Fun: 43 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-43-days-challenge/)
 
@@ -109,6 +109,50 @@
 * [AI-102: Microsoft Azure AI Solutions Exam Practice Questions](https://coursemetry.com/ai-102-microsoft-azure-ai-solutions-exam-practice-questions/)
 
 * [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
+
+* [Futures Trading Mastery 2022 | FREE Top 45 Trading Signals!](https://coursemetry.com/futures-trading-mastery-2022-free-top-45-trading-signals/)
+
+* [200+ Questions - Job Interview - Software Developer - Git](https://coursemetry.com/200-questions-job-interview-software-developer-git/)
+
+* [Amazon Associates Mastery 2022 | Full Blueprint From 0 to 1!](https://coursemetry.com/amazon-associates-mastery-2022-full-blueprint-from-0-to-1/)
+
+* [Instant Affiliate Mastery 2022](https://coursemetry.com/instant-affiliate-mastery-2022/)
+
+* [Content Marketing Mastery 2022](https://coursemetry.com/content-marketing-mastery-2022/)
+
+* [Startup Bootstrapping Mastery 2022](https://coursemetry.com/startup-bootstrapping-mastery-2022/)
+
+* [Youtube Business Mastery 2022](https://coursemetry.com/youtube-business-mastery-2022/)
+
+* [Side Hustle Mastery 2022](https://coursemetry.com/side-hustle-mastery-2022/)
+
+* [Time Management Mastery 2022](https://coursemetry.com/time-management-mastery-2022/)
+
+* [Social Media Influencer Mastery 2022  | 8-Figure Blueprint !](https://coursemetry.com/social-media-influencer-mastery-2022-8-figure-blueprint/)
+
+* [Public Speaking Mastery 2022](https://coursemetry.com/public-speaking-mastery-2022/)
+
+* [NFT Mastery 2022](https://coursemetry.com/nft-mastery-2022/)
+
+* [Amazon FBA Mastery 2022](https://coursemetry.com/amazon-fba-mastery-2022/)
+
+* [Optmyzr 102: Managing Bids and Budgets](https://coursemetry.com/optmyzr-102-managing-bids-and-budgets/)
+
+* [CMA USA Part 1 - Cost Management - Exam Focused Revision](https://coursemetry.com/cma-usa-part-1-cost-management-exam-focused-revision/)
+
+* [Microsoft Azure AI-102 Exam Practice- 2022](https://coursemetry.com/microsoft-azure-ai-102-exam-practice-2022/)
+
+* [Real Fast Podcast into Best Selling Kindle Books Easily](https://coursemetry.com/real-fast-podcast-into-best-selling-kindle-books-easily/)
+
+* [PMI-ACP Real Practice Exams - 2022](https://coursemetry.com/pmi-acp-real-practice-exams-2022/)
+
+* [Podcast Pacing For Audience Engagement](https://coursemetry.com/podcast-pacing-for-audience-engagement/)
+
+* [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
+
+* [Acepta PAGOS con CRIPTOMONEDAS (2022) Flutter| Functions |](https://coursemetry.com/acepta-pagos-con-criptomonedas-2022-flutter-functions/)
+
+* [List Building Supercharge Class (build your list & monetize)](https://coursemetry.com/list-building-supercharge-class-build-your-list-monetize/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
