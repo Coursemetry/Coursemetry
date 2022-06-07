@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published on 2022-06-07**
+## **82 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -135,6 +135,38 @@
 * [Excel Accounting 1–Transactions for Common Data Input Forms](https://coursemetry.com/excel-accounting-1-transactions-for-common-data-input-forms/)
 
 * [Administrador de Kubernetes (CKA) Examen de práctica](https://coursemetry.com/administrador-de-kubernetes-cka-examen-de-practica/)
+
+* [Introduction to Python in Hindi](https://coursemetry.com/introduction-to-python-in-hindi/)
+
+* [Adaptive Sourcing: Agile Procurement in Practice](https://coursemetry.com/adaptive-sourcing-agile-procurement-in-practice/)
+
+* [Ethical Hacking: Introduction to Exploits](https://coursemetry.com/ethical-hacking-introduction-to-exploits/)
+
+* [How to Design a STAND-OUT social media content in Canva.](https://coursemetry.com/how-to-design-a-stand-out-social-media-content-in-canva/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/)
+
+* [Python Certification Exam Microsoft MTA 98-381 - Preparation](https://coursemetry.com/python-certification-exam-microsoft-mta-98-381-preparation/)
+
+* [Web Design for Beginners: Build Websites in HTML & CSS 2022](https://coursemetry.com/web-design-for-beginners-build-websites-in-html-css-2022/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Exam](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-exam/)
+
+* [TypeScript Basic: Type System, Interfaces, Types, Generics](https://coursemetry.com/typescript-basic-type-system-interfaces-types-generics/)
+
+* [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
+
+* [Ethical Hacking: SQL Injection for Beginners](https://coursemetry.com/ethical-hacking-sql-injection-for-beginners/)
+
+* [Learn Python by Solving 100 Hardest Coding Exercises](https://coursemetry.com/learn-python-by-solving-100-hardest-coding-exercises/)
+
+* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
