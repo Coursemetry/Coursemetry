@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **43 Udemy free courses published on 2022-06-07**
+## **54 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -89,6 +89,28 @@
 * [200+ Questions - Job Interview - JavaScript Developer](https://coursemetry.com/200-questions-job-interview-javascript-developer/)
 
 * [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+
+* [Build Real World Java Programming Project](https://coursemetry.com/build-real-world-java-programming-project/)
+
+* [All in One Digital Marketing Fundamentals and Basics 2022](https://coursemetry.com/all-in-one-digital-marketing-fundamentals-and-basics-2022/)
+
+* [Manychat essential training 2022](https://coursemetry.com/manychat-essential-training-2022/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
+
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+
+* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
