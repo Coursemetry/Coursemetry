@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **82 Udemy free courses published on 2022-06-07**
+## **93 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -167,6 +167,28 @@
 * [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
 
 * [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [Investing in Metaverse: Beginners Guide to Metaverse](https://coursemetry.com/investing-in-metaverse-beginners-guide-to-metaverse/)
+
+* [Fiber Optics testing and measurements](https://coursemetry.com/fiber-optics-testing-and-measurements/)
+
+* [React Testing - Code and Test 3 React Web Apps](https://coursemetry.com/react-testing-code-and-test-3-react-web-apps/)
+
+* [Website Design for Beginners](https://coursemetry.com/website-design-for-beginners/)
+
+* [Goal Setting For Success: Plan And Achieve Your Goals](https://coursemetry.com/goal-setting-for-success-plan-and-achieve-your-goals/)
+
+* [Test your Knowledge in Wireless Communications](https://coursemetry.com/test-your-knowledge-in-wireless-communications/)
+
+* [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
+
+* [YouTube Masterclass Training - 2019 in Hindi/Urdu - Sarfaraz](https://coursemetry.com/youtube-masterclass-training-2019-in-hindi-urdu-sarfaraz/)
+
+* [Wordpress Create Your Own Website 2022!](https://coursemetry.com/wordpress-create-your-own-website-2022/)
+
+* [How To Make Independent Feature Film On A Budget](https://coursemetry.com/how-to-make-independent-feature-film-on-a-budget/)
+
+* [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
