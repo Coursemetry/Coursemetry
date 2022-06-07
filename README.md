@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published on 2022-06-07**
+## **108 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -207,6 +207,18 @@
 * [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
 
 * [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
+
+* [ازاي تكون عامل حر اونلاين (موقع فريلانسر) - Be a freelancer](https://coursemetry.com/%d8%a7%d8%b2%d8%a7%d9%8a-%d8%aa%d9%83%d9%88%d9%86-%d8%b9%d8%a7%d9%85%d9%84-%d8%ad%d8%b1-%d8%a7%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86-%d9%85%d9%88%d9%82%d8%b9-%d9%81%d8%b1%d9%8a%d9%84%d8%a7%d9%86%d8%b3/)
+
+* [Autodesk AutoCAD - Beginner to an advanced level](https://coursemetry.com/autodesk-autocad-beginner-to-an-advanced-level/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Test](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-test/)
+
+* [TJ Walker's 1-Hour Public Speaking Presentation Skills Class](https://coursemetry.com/tj-walkers-1-hour-public-speaking-presentation-skills-class/)
+
+* [Listening Skills - The Ultimate Workplace Soft Skills](https://coursemetry.com/listening-skills-the-ultimate-workplace-soft-skills/)
+
+* [The Complete Growth Mindset Course - The Mindset for Success](https://coursemetry.com/the-complete-growth-mindset-course-the-mindset-for-success/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
