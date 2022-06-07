@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published on 2022-06-07**
+## **102 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -195,6 +195,18 @@
 * [Gestión en  Jira Server Administrador  Test-ACP-100- 2022](https://coursemetry.com/gestion-en-jira-server-administrador-test-acp-100-2022/)
 
 * [Ciberseguridad en Cisco Simulación 200-201 CBROPS para  2022](https://coursemetry.com/ciberseguridad-en-cisco-simulacion-200-201-cbrops-para-2022/)
+
+* [Corp Finance #10 Cost of Capital–Debt & Equity Financing](https://coursemetry.com/corp-finance-10-cost-of-capital-debt-equity-financing/)
+
+* [Corporate Finance #4 Leverage & Break-Even Analysis](https://coursemetry.com/corporate-finance-4-leverage-break-even-analysis/)
+
+* [Relevant Costs - Managerial Accounting Decisions & Scenarios](https://coursemetry.com/relevant-costs-managerial-accounting-decisions-scenarios/)
+
+* [Java Programming For Complete Beginners And Experts](https://coursemetry.com/java-programming-for-complete-beginners-and-experts/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
