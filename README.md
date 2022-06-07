@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **56 Udemy free courses published on 2022-06-07**
+## **61 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -115,6 +115,16 @@
 * [Building Structures in French - Structure 8 | French Grammar](https://coursemetry.com/building-structures-in-french-structure-8-french-grammar/)
 
 * [Blue Prism Certified Technical Architect Practice Exams](https://coursemetry.com/blue-prism-certified-technical-architect-practice-exams/)
+
+* [Learn Animate On Scroll (AOS.js)](https://coursemetry.com/learn-animate-on-scroll-aos-js/)
+
+* [Excel Accounting 4–Enter Data & Track Current Month & YTD](https://coursemetry.com/excel-accounting-4-enter-data-track-current-month-ytd/)
+
+* [Excel Accounting 6–Adjusting Entries & Financial Statements](https://coursemetry.com/excel-accounting-6-adjusting-entries-financial-statements/)
+
+* [Excel Accounting 2–Worksheet, Opening Balances, & Subledger](https://coursemetry.com/excel-accounting-2-worksheet-opening-balances-subledger/)
+
+* [Ethical Hacking: Crypto 101](https://coursemetry.com/ethical-hacking-crypto-101/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
