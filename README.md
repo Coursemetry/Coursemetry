@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published on 2022-06-07**
+## **56 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -111,6 +111,10 @@
 * [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
 
 * [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
+
+* [Building Structures in French - Structure 8 | French Grammar](https://coursemetry.com/building-structures-in-french-structure-8-french-grammar/)
+
+* [Blue Prism Certified Technical Architect Practice Exams](https://coursemetry.com/blue-prism-certified-technical-architect-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
