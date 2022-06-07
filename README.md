@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **20 Udemy free courses published on 2022-06-07**
+## **22 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -43,6 +43,10 @@
 * [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
 
 * [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
+
+* [Self Confidence & Self Esteem: Confidence Via Self-Awareness](https://coursemetry.com/self-confidence-self-esteem-confidence-via-self-awareness/)
+
+* [Mathematical Optimization with GAMS and Pyomo (Python)](https://coursemetry.com/mathematical-optimization-with-gams-and-pyomo-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
