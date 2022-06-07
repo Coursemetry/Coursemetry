@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published on 2022-06-07**
+## **109 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -219,6 +219,8 @@
 * [Listening Skills - The Ultimate Workplace Soft Skills](https://coursemetry.com/listening-skills-the-ultimate-workplace-soft-skills/)
 
 * [The Complete Growth Mindset Course - The Mindset for Success](https://coursemetry.com/the-complete-growth-mindset-course-the-mindset-for-success/)
+
+* [Algorithmic trading from A to Z using Python](https://coursemetry.com/algorithmic-trading-from-a-to-z-using-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
