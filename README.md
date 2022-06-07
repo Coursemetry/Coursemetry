@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published on 2022-06-07**
+## **96 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -191,6 +191,10 @@
 * [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
 
 * [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
+
+* [Gestión en  Jira Server Administrador  Test-ACP-100- 2022](https://coursemetry.com/gestion-en-jira-server-administrador-test-acp-100-2022/)
+
+* [Ciberseguridad en Cisco Simulación 200-201 CBROPS para  2022](https://coursemetry.com/ciberseguridad-en-cisco-simulacion-200-201-cbrops-para-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
