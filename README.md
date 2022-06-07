@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **61 Udemy free courses published on 2022-06-07**
+## **66 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -125,6 +125,16 @@
 * [Excel Accounting 2–Worksheet, Opening Balances, & Subledger](https://coursemetry.com/excel-accounting-2-worksheet-opening-balances-subledger/)
 
 * [Ethical Hacking: Crypto 101](https://coursemetry.com/ethical-hacking-crypto-101/)
+
+* [The SECRETS to Profitable Forex Trading](https://coursemetry.com/the-secrets-to-profitable-forex-trading/)
+
+* [Zoom App](https://coursemetry.com/zoom-app/)
+
+* [React Project - Convert a Static Website to React js App](https://coursemetry.com/react-project-convert-a-static-website-to-react-js-app/)
+
+* [Excel Accounting 1–Transactions for Common Data Input Forms](https://coursemetry.com/excel-accounting-1-transactions-for-common-data-input-forms/)
+
+* [Administrador de Kubernetes (CKA) Examen de práctica](https://coursemetry.com/administrador-de-kubernetes-cka-examen-de-practica/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
