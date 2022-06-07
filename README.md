@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published on 2022-06-07**
+## **94 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -189,6 +189,8 @@
 * [How To Make Independent Feature Film On A Budget](https://coursemetry.com/how-to-make-independent-feature-film-on-a-budget/)
 
 * [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
+
+* [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
