@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **22 Udemy free courses published on 2022-06-07**
+## **38 Udemy free courses published on 2022-06-07**
 
 * [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
 
@@ -47,6 +47,38 @@
 * [Self Confidence & Self Esteem: Confidence Via Self-Awareness](https://coursemetry.com/self-confidence-self-esteem-confidence-via-self-awareness/)
 
 * [Mathematical Optimization with GAMS and Pyomo (Python)](https://coursemetry.com/mathematical-optimization-with-gams-and-pyomo-python/)
+
+* [How to reduce Attrition](https://coursemetry.com/how-to-reduce-attrition/)
+
+* [Build Java Project Hotel Management System](https://coursemetry.com/build-java-project-hotel-management-system/)
+
+* [Automate Web Scraping with No Code - Extract Data From Web](https://coursemetry.com/automate-web-scraping-with-no-code-extract-data-from-web/)
+
+* [Financial Accounting – Payroll](https://coursemetry.com/financial-accounting-payroll/)
+
+* [Accounting-Bonds Payable, Notes Payable, Liabilities](https://coursemetry.com/accounting-bonds-payable-notes-payable-liabilities/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [Accounting-Statement of Cash Flows](https://coursemetry.com/accounting-statement-of-cash-flows/)
+
+* [Bank Reconciliations & Cash Internal Controls](https://coursemetry.com/bank-reconciliations-cash-internal-controls/)
+
+* [Financial Accounting-Adjusting Entries & Financial Statement](https://coursemetry.com/financial-accounting-adjusting-entries-financial-statement/)
+
+* [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
+
+* [Project Management Professional (PMP) Practice Test](https://coursemetry.com/project-management-professional-pmp-practice-test/)
+
+* [Complete Japanese Course: Learn Japanese for Beginners](https://coursemetry.com/complete-japanese-course-learn-japanese-for-beginners/)
+
+* [Financial Accounting-Depreciation Calculation & Fixed Assets](https://coursemetry.com/financial-accounting-depreciation-calculation-fixed-assets/)
+
+* [Financial Accounting – Closing Process](https://coursemetry.com/financial-accounting-closing-process/)
+
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+
+* [Accounting for Corporations](https://coursemetry.com/accounting-for-corporations/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
