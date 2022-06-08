@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **48 Udemy free courses published on 2022-06-08**
+## **51 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -99,6 +99,12 @@
 * [The Ultimate C++ Beginner Course | 2022](https://coursemetry.com/the-ultimate-c-beginner-course-2022/)
 
 * [Converse in Egyptian Arabic _ The most spoken Arabic dialect](https://coursemetry.com/converse-in-egyptian-arabic-_-the-most-spoken-arabic-dialect/)
+
+* [Dart Complete course from basics to advance](https://coursemetry.com/dart-complete-course-from-basics-to-advance/)
+
+* [Power Transformer Fundamentals](https://coursemetry.com/power-transformer-fundamentals/)
+
+* [CCNA 200-301 Cisco Practice Exams: Pass On First Attempt](https://coursemetry.com/ccna-200-301-cisco-practice-exams-pass-on-first-attempt/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
