@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **33 Udemy free courses published on 2022-06-08**
+## **35 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -69,6 +69,10 @@
 * [ITIL 4 Foundation Practice Tests 2022 (6 Mock Tests)](https://coursemetry.com/itil-4-foundation-practice-tests-2022-6-mock-tests/)
 
 * [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
+
+* [WordPress for beginners: Best WordPress and marketing course](https://coursemetry.com/wordpress-for-beginners-best-wordpress-and-marketing-course/)
+
+* [Foundations of Contracts and Outsourcing](https://coursemetry.com/foundations-of-contracts-and-outsourcing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
