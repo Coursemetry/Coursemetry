@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published on 2022-06-08**
+## **125 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -215,6 +215,44 @@
 * [Desarrollo de pruebas técnicas para desarrollador Python](https://coursemetry.com/desarrollo-de-pruebas-tecnicas-para-desarrollador-python/)
 
 * [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
+
+* [Acting course - tools of acting](https://coursemetry.com/acting-course-tools-of-acting/)
+
+* [DP-900 Microsoft Azure Data Fundamentals Practice Test MAY22](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-test-may22/)
+
+* [Master CSS3 and ReactJs by Developing 3 Projects](https://coursemetry.com/master-css3-and-reactjs-by-developing-3-projects/)
+
+* [GCP Certified Data Engineer - Practice Tests 2023](https://coursemetry.com/gcp-certified-data-engineer-practice-tests-2023/)
+
+* [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
+
+* [Enable Any Frontend App with Login using Google & SpringBoot](https://coursemetry.com/enable-any-frontend-app-with-login-using-google-springboot/)
+
+* [Build Full-Stack Projects with FARM stack](https://coursemetry.com/build-full-stack-projects-with-farm-stack/)
+
+* [Zero to Hero hands-on mastery on HTML5 & CSS3](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-css3/)
+
+* [Day Trading Forex - simple forex day trading strategy WORK](https://coursemetry.com/day-trading-forex-simple-forex-day-trading-strategy-work/)
+
+* [Disciplined Agile Scrum Master (DASM) Exam Prep](https://coursemetry.com/disciplined-agile-scrum-master-dasm-exam-prep/)
+
+* [Zero to Hero hands-on mastery on HTML5 JavaScript & ES6](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-javascript-es6/)
+
+* [Unofficial LFCS Ubuntu 18.04  & 20.04 LTS PRACTICE EXAMS](https://coursemetry.com/unofficial-lfcs-ubuntu-18-04-20-04-lts-practice-exams/)
+
+* [The Complete Nonverbal Communication Course - Body Language](https://coursemetry.com/the-complete-nonverbal-communication-course-body-language/)
+
+* [The Complete Google Drive Course - Mastering Google Drive](https://coursemetry.com/the-complete-google-drive-course-mastering-google-drive/)
+
+* [BCCPA Blue Coat Certified Proxy Administrator Practice Exam](https://coursemetry.com/bccpa-blue-coat-certified-proxy-administrator-practice-exam/)
+
+* [Unofficial LFCS CentOS 7 & 8 & 9 PRACTICE EXAMS](https://coursemetry.com/unofficial-lfcs-centos-7-8-9-practice-exams/)
+
+* [Practical CSS3 Flexbox Media Queries & CSS Grid Mastery](https://coursemetry.com/practical-css3-flexbox-media-queries-css-grid-mastery/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Tests - May 22](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-may-22/)
+
+* [Word Stress of American English](https://coursemetry.com/word-stress-of-american-english/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
