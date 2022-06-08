@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **35 Udemy free courses published on 2022-06-08**
+## **39 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -73,6 +73,14 @@
 * [WordPress for beginners: Best WordPress and marketing course](https://coursemetry.com/wordpress-for-beginners-best-wordpress-and-marketing-course/)
 
 * [Foundations of Contracts and Outsourcing](https://coursemetry.com/foundations-of-contracts-and-outsourcing/)
+
+* [Principles & Practice of Engineering PE Exam](https://coursemetry.com/principles-practice-of-engineering-pe-exam/)
+
+* [Path Finding Algorithms With JavaScript](https://coursemetry.com/path-finding-algorithms-with-javascript/)
+
+* [Method Lesson 5: Speaking with Enthusiasm](https://coursemetry.com/method-lesson-5-speaking-with-enthusiasm/)
+
+* [Microsoft Azure AI-102 Exam Practice Test](https://coursemetry.com/microsoft-azure-ai-102-exam-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
