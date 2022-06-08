@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published on 2022-06-08**
+## **96 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -187,6 +187,14 @@
 * [Certifícate en SQL Con Oracle DB 1Z0-071 Examenes Práctica](https://coursemetry.com/certificate-en-sql-con-oracle-db-1z0-071-examenes-practica/)
 
 * [Google Spreadsheets: Empieza desde cero](https://coursemetry.com/google-spreadsheets-empieza-desde-cero/)
+
+* [Blue Prism Certified ROM Architect Practice Exams](https://coursemetry.com/blue-prism-certified-rom-architect-practice-exams/)
+
+* [Discrete Mathematics for CS in Arabic || الرياضيات المتقطعة](https://coursemetry.com/discrete-mathematics-for-cs-in-arabic-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%b7%d8%b9%d8%a9/)
+
+* [Accounting For All (Urdu/Hindi) - Accounting Made Easy](https://coursemetry.com/accounting-for-all-urdu-hindi-accounting-made-easy/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
