@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published on 2022-06-08**
+## **48 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -95,6 +95,10 @@
 * [English Reading Practice Set for Beginners](https://coursemetry.com/english-reading-practice-set-for-beginners/)
 
 * [Amazon FBA Mastery: How to start from scratch today](https://coursemetry.com/amazon-fba-mastery-how-to-start-from-scratch-today/)
+
+* [The Ultimate C++ Beginner Course | 2022](https://coursemetry.com/the-ultimate-c-beginner-course-2022/)
+
+* [Converse in Egyptian Arabic _ The most spoken Arabic dialect](https://coursemetry.com/converse-in-egyptian-arabic-_-the-most-spoken-arabic-dialect/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
