@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published on 2022-06-08**
+## **102 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -195,6 +195,18 @@
 * [Accounting For All (Urdu/Hindi) - Accounting Made Easy](https://coursemetry.com/accounting-for-all-urdu-hindi-accounting-made-easy/)
 
 * [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [Human Resource Development the complete course](https://coursemetry.com/human-resource-development-the-complete-course/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [Stocks & Crypto: In Google Spreadsheet only with formulas](https://coursemetry.com/stocks-crypto-in-google-spreadsheet-only-with-formulas/)
+
+* [Personalentwicklung für (zukünftige) Führungskräfte](https://coursemetry.com/personalentwicklung-fur-zukunftige-fuhrungskrafte/)
+
+* [DIY Arduino Wetterstation mit IoT Server Erstellung](https://coursemetry.com/diy-arduino-wetterstation-mit-iot-server-erstellung/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
