@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published on 2022-06-08**
+## **106 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -37,8 +37,6 @@
 * [Financial Statement Analysis – Ratio Analysis](https://coursemetry.com/financial-statement-analysis-ratio-analysis/)
 
 * [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
-
-* [Administrador de Kubernetes (CKA) Examen de práctica](https://coursemetry.com/administrador-de-kubernetes-cka-examen-de-practica/)
 
 * [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
 
@@ -207,6 +205,16 @@
 * [DIY Arduino Wetterstation mit IoT Server Erstellung](https://coursemetry.com/diy-arduino-wetterstation-mit-iot-server-erstellung/)
 
 * [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [Administrador de Kubernetes (CKA) Examen de práctica](https://coursemetry.com/administrador-de-kubernetes-cka-examen-de-practica/)
+
+* [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
+
+* [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
+
+* [Desarrollo de pruebas técnicas para desarrollador Python](https://coursemetry.com/desarrollo-de-pruebas-tecnicas-para-desarrollador-python/)
+
+* [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
