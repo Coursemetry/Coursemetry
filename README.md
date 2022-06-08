@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **31 Udemy free courses published on 2022-06-08**
+## **33 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -63,6 +63,12 @@
 * [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
 
 * [200+ Questions - Job Interview - JavaScript Developer](https://coursemetry.com/200-questions-job-interview-javascript-developer/)
+
+* [Google Professional Cloud Security Engineer Practice Exam](https://coursemetry.com/google-professional-cloud-security-engineer-practice-exam/)
+
+* [ITIL 4 Foundation Practice Tests 2022 (6 Mock Tests)](https://coursemetry.com/itil-4-foundation-practice-tests-2022-6-mock-tests/)
+
+* [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
