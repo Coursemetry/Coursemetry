@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **39 Udemy free courses published on 2022-06-08**
+## **46 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -81,6 +81,20 @@
 * [Method Lesson 5: Speaking with Enthusiasm](https://coursemetry.com/method-lesson-5-speaking-with-enthusiasm/)
 
 * [Microsoft Azure AI-102 Exam Practice Test](https://coursemetry.com/microsoft-azure-ai-102-exam-practice-test/)
+
+* [Linux Desktop Automation](https://coursemetry.com/linux-desktop-automation/)
+
+* [Git Command Line for Beginners](https://coursemetry.com/git-command-line-for-beginners/)
+
+* [Ethical Hacking: Network Exploitation Basics](https://coursemetry.com/ethical-hacking-network-exploitation-basics/)
+
+* [Kids English Vocabulary Set Two - Adjectives](https://coursemetry.com/kids-english-vocabulary-set-two-adjectives/)
+
+* [Autodesk Revit - beginner to an intermediate level](https://coursemetry.com/autodesk-revit-beginner-to-an-intermediate-level/)
+
+* [English Reading Practice Set for Beginners](https://coursemetry.com/english-reading-practice-set-for-beginners/)
+
+* [Amazon FBA Mastery: How to start from scratch today](https://coursemetry.com/amazon-fba-mastery-how-to-start-from-scratch-today/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
