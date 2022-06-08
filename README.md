@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **85 Udemy free courses published on 2022-06-08**
+## **92 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -173,6 +173,20 @@
 * [Practical Next.js & React - Build a real WebApp with Next.js](https://coursemetry.com/practical-next-js-react-build-a-real-webapp-with-next-js/)
 
 * [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
+
+* [Master Microsoft Power BI in 21 Days](https://coursemetry.com/master-microsoft-power-bi-in-21-days/)
+
+* [Probability and Statistics in Arabic || الأحتمالات والإحصاء](https://coursemetry.com/probability-and-statistics-in-arabic-%d8%a7%d9%84%d8%a3%d8%ad%d8%aa%d9%85%d8%a7%d9%84%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a5%d8%ad%d8%b5%d8%a7%d8%a1/)
+
+* [HVAC Ductwork Quantity Take off for Quantity Surveyors](https://coursemetry.com/hvac-ductwork-quantity-take-off-for-quantity-surveyors/)
+
+* [Simulador Professional Scrum with Kanban (PSK) Practice](https://coursemetry.com/simulador-professional-scrum-with-kanban-psk-practice/)
+
+* [Certifícate en SQL Con Oracle DB 1Z0-071 Examenes Práctica](https://coursemetry.com/certificate-en-sql-con-oracle-db-1z0-071-examenes-practica/)
+
+* [Google Spreadsheets: Empieza desde cero](https://coursemetry.com/google-spreadsheets-empieza-desde-cero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
