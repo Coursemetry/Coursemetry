@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published on 2022-06-08**
+## **54 Udemy free courses published on 2022-06-08**
 
 * [Email Writing](https://coursemetry.com/email-writing/)
 
@@ -105,6 +105,12 @@
 * [Power Transformer Fundamentals](https://coursemetry.com/power-transformer-fundamentals/)
 
 * [CCNA 200-301 Cisco Practice Exams: Pass On First Attempt](https://coursemetry.com/ccna-200-301-cisco-practice-exams-pass-on-first-attempt/)
+
+* [Stablecoin II: Economics Design for Stablecoin Systems](https://coursemetry.com/stablecoin-ii-economics-design-for-stablecoin-systems/)
+
+* [CBT for anxiety and panic](https://coursemetry.com/cbt-for-anxiety-and-panic/)
+
+* [How to Create a Professional Presentation in PowerPoint](https://coursemetry.com/how-to-create-a-professional-presentation-in-powerpoint/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
