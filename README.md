@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published on 2022-06-09**
+## **52 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -95,6 +95,18 @@
 * [PHP for Beginners: PHP Crash Course 2022](https://coursemetry.com/php-for-beginners-php-crash-course-2022/)
 
 * [Norwegian Language Course A1 Part 1](https://coursemetry.com/norwegian-language-course-a1-part-1/)
+
+* [High Paying Six-Figure Work From Home Accounting Jobs!](https://coursemetry.com/high-paying-six-figure-work-from-home-accounting-jobs/)
+
+* [Scrum Certification 2022 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2022-scrum-master-agile-scrum-training/)
+
+* [How to Become a Proactive Entrepreneur with your sixth sense](https://coursemetry.com/how-to-become-a-proactive-entrepreneur-with-your-sixth-sense/)
+
+* [Linux for Data Engineers (Hands On)](https://coursemetry.com/linux-for-data-engineers-hands-on/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
