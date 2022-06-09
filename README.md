@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **9 Udemy free courses published on 2022-06-09**
+## **13 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -21,6 +21,14 @@
 * [Microsoft Power Platform Fundamentals (PL-900) Practice Exam](https://coursemetry.com/microsoft-power-platform-fundamentals-pl-900-practice-exam-2/)
 
 * [SEO Interview Preparation (Question, Answer, Test, Practice)](https://coursemetry.com/seo-interview-preparation-question-answer-test-practice/)
+
+* [Technical SEO Content Writing Tips & How-to Examples | 2022](https://coursemetry.com/technical-seo-content-writing-tips-how-to-examples-2022/)
+
+* [Advanced Google Analytics + Regex using Examples  | 2021](https://coursemetry.com/advanced-google-analytics-regex-using-examples-2021/)
+
+* [Ecommerce Pricing Strategy in Magento, Shopify, Woocommerce!](https://coursemetry.com/ecommerce-pricing-strategy-in-magento-shopify-woocommerce/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
