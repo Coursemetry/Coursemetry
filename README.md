@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **124 Udemy free courses published on 2022-06-09**
+## **125 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -251,6 +251,8 @@
 * [Journal your way to your dream life](https://coursemetry.com/journal-your-way-to-your-dream-life/)
 
 * [Get Certified Scrum Developer Exam 2022](https://coursemetry.com/get-certified-scrum-developer-exam-2022/)
+
+* [ACE the WordPress Interview : 50 Most Asked WordPress Q&A](https://coursemetry.com/ace-the-wordpress-interview-50-most-asked-wordpress-qa/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
