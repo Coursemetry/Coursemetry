@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **104 Udemy free courses published on 2022-06-09**
+## **122 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -139,6 +139,114 @@
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
+
+* [On-Camera Charisma for YouTube Stars - YouTube Marketing](https://coursemetry.com/on-camera-charisma-for-youtube-stars-youtube-marketing/)
+
+* [Facebook Ads Copywriting & Facebook Ads for Real Estate 2022](https://coursemetry.com/facebook-ads-copywriting-facebook-ads-for-real-estate-2022/)
+
+* [Certification Course in Talent Development & Management](https://coursemetry.com/certification-course-in-talent-development-management/)
+
+* [The Complete Body Language for Business Course](https://coursemetry.com/the-complete-body-language-for-business-course/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [Modern PHP Web Development w/ MySQL, GitHub & Heroku](https://coursemetry.com/modern-php-web-development-w-mysql-github-heroku/)
+
+* [Java Collections Framework + Generics, Lambdas & Stream API](https://coursemetry.com/java-collections-framework-generics-lambdas-stream-api/)
+
+* [The Complete Java Swing Course for GUI Development for 2022](https://coursemetry.com/the-complete-java-swing-course-for-gui-development-for-2022/)
+
+* [Aerospace Masterclass: Transonic Aerodynamics](https://coursemetry.com/aerospace-masterclass-transonic-aerodynamics/)
+
+* [Introduction To Website Development Technologies](https://coursemetry.com/introduction-to-website-development-technologies/)
+
+* [Invitation Writing -Formal and Informal, Reply to invitation](https://coursemetry.com/invitation-writing-formal-and-informal-reply-to-invitation/)
+
+* [E-Money Crash Course 2022: Beginners Online Money Success](https://coursemetry.com/e-money-crash-course-2022-beginners-online-money-success/)
+
+* [The Complete Java Game Development Course 2022: Part 2](https://coursemetry.com/the-complete-java-game-development-course-2022-part-2/)
+
+* [WebServices testing (RestSharp + Postman) Complete Guide](https://coursemetry.com/webservices-testing-restsharp-postman-complete-guide/)
+
+* [Java Games Development With libGDX  | Create 5 Games](https://coursemetry.com/java-games-development-with-libgdx-create-5-games/)
+
+* [Master your content for busy entrepreneurs](https://coursemetry.com/master-your-content-for-busy-entrepreneurs/)
+
+* [Mindset makeover - from distraction to action](https://coursemetry.com/mindset-makeover-from-distraction-to-action/)
+
+* [Advanced Strategies to Secure Better UpWork Clients](https://coursemetry.com/advanced-strategies-to-secure-better-upwork-clients/)
+
+* [Preparation to Java SE 11 Developer Exam: 1Z0-819 & 1Z0-817](https://coursemetry.com/preparation-to-java-se-11-developer-exam-1z0-819-1z0-817/)
+
+* [Unshakable self confidence for busy entrepreneurs](https://coursemetry.com/unshakable-self-confidence-for-busy-entrepreneurs/)
+
+* [The Complete Python Game Development Course for 2022](https://coursemetry.com/the-complete-python-game-development-course-for-2022/)
+
+* [Plan your best life - planning strategies that work](https://coursemetry.com/plan-your-best-life-planning-strategies-that-work/)
+
+* [The Complete Java Game Development Course for 2022](https://coursemetry.com/the-complete-java-game-development-course-for-2022/)
+
+* [Python API Programming with FastAPI and Flask](https://coursemetry.com/python-api-programming-with-fastapi-and-flask/)
+
+* [Python Technical Interview Questions: The Ultimate Course](https://coursemetry.com/python-technical-interview-questions-the-ultimate-course/)
+
+* [PEP8 Guidelines: Python Clean Coding](https://coursemetry.com/pep8-guidelines-python-clean-coding/)
+
+* [Game Development with PyGame  | Real World Games](https://coursemetry.com/game-development-with-pygame-real-world-games/)
+
+* [The Complete Python Network Programming Course for 2022](https://coursemetry.com/the-complete-python-network-programming-course-for-2022/)
+
+* [Relational Databases & SQL: Complete Guide for Developers](https://coursemetry.com/relational-databases-sql-complete-guide-for-developers/)
+
+* [Microsoft SQL Server Development for Everyone](https://coursemetry.com/microsoft-sql-server-development-for-everyone/)
+
+* [How to Get UpWork Clients (2020 And Beyond)](https://coursemetry.com/how-to-get-upwork-clients-2020-and-beyond/)
+
+* [Learn ASP.NET MVC and Entity Framework (Database First)](https://coursemetry.com/learn-asp-net-mvc-and-entity-framework-database-first/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [The Complete RESTful APIs with Python Course](https://coursemetry.com/the-complete-restful-apis-with-python-course/)
+
+* [Google Cloud Professional Cloud Network Engineer Exams 2022](https://coursemetry.com/google-cloud-professional-cloud-network-engineer-exams-2022/)
+
+* [GoF Design Patterns - Complete Course with Java Examples](https://coursemetry.com/gof-design-patterns-complete-course-with-java-examples/)
+
+* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
+
+* [The Complete Mathematics Software Developer Course for 2022](https://coursemetry.com/the-complete-mathematics-software-developer-course-for-2022/)
+
+* [Adobe Creative Cloud 2022 Ultimate Guide](https://coursemetry.com/adobe-creative-cloud-2022-ultimate-guide/)
+
+* [C# Console and Windows Forms Development w/ Entity Framework](https://coursemetry.com/c-console-and-windows-forms-development-w-entity-framework/)
+
+* [Social Media Mastery 2022| Increase Customer Conversion Rate](https://coursemetry.com/social-media-mastery-2022-increase-customer-conversion-rate/)
+
+* [Corporate Finance #6 Management of Current Assets](https://coursemetry.com/corporate-finance-6-management-of-current-assets/)
+
+* [Adobe Audition 2022 Ultimate Guide](https://coursemetry.com/adobe-audition-2022-ultimate-guide/)
+
+* [Airtable Ultimate Course](https://coursemetry.com/airtable-ultimate-course/)
+
+* [Aerospace Masterclass: Aircraft Design](https://coursemetry.com/aerospace-masterclass-aircraft-design/)
+
+* [Front End Web Development Ultimate Course 2022](https://coursemetry.com/front-end-web-development-ultimate-course-2022/)
+
+* [MariaDB Basics](https://coursemetry.com/mariadb-basics/)
+
+* [The Complete Automation PyTest Course for 2022](https://coursemetry.com/the-complete-automation-pytest-course-for-2022/)
+
+* [Bootstrap 4 Ultimate Course](https://coursemetry.com/bootstrap-4-ultimate-course/)
+
+* [Adobe Dreamweaver 2022 Ultimate Guide](https://coursemetry.com/adobe-dreamweaver-2022-ultimate-guide/)
+
+* [Adobe InDesign 2022 Ultimate Guide](https://coursemetry.com/adobe-indesign-2022-ultimate-guide/)
+
+* [Web Development Ultimate Course](https://coursemetry.com/web-development-ultimate-course/)
+
+* [Python Hacking Scripts](https://coursemetry.com/python-hacking-scripts/)
+
+* [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
