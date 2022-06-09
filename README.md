@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published on 2022-06-09**
+## **55 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -111,6 +111,8 @@
 * [Recruiting: Umgang mit der Generation Z](https://coursemetry.com/recruiting-umgang-mit-der-generation-z/)
 
 * [Von der Arbeitslosigkeit in die Selbstständigkeit](https://coursemetry.com/von-der-arbeitslosigkeit-in-die-selbststandigkeit/)
+
+* [Fedora Linux from Scratch](https://coursemetry.com/fedora-linux-from-scratch/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
