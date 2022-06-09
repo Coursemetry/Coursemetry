@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **13 Udemy free courses published on 2022-06-09**
+## **19 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -29,6 +29,18 @@
 * [Ecommerce Pricing Strategy in Magento, Shopify, Woocommerce!](https://coursemetry.com/ecommerce-pricing-strategy-in-magento-shopify-woocommerce/)
 
 * [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [How a Woman VC Investor Thinks Case Study | Sramana Mitra](https://coursemetry.com/how-a-woman-vc-investor-thinks-case-study-sramana-mitra/)
+
+* [Basics of Agile Scrum Project Management](https://coursemetry.com/basics-of-agile-scrum-project-management/)
+
+* [Build Your First Website in 1 Week with HTML5 and CSS3](https://coursemetry.com/build-your-first-website-in-1-week-with-html5-and-css3/)
+
+* [The Easiest Easy Piano Songs](https://coursemetry.com/the-easiest-easy-piano-songs/)
+
+* [YouTube Masterclass Training - 2019 in Hindi/Urdu - Sarfaraz](https://coursemetry.com/youtube-masterclass-training-2019-in-hindi-urdu-sarfaraz/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
