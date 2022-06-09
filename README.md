@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **43 Udemy free courses published on 2022-06-09**
+## **46 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -89,6 +89,12 @@
 * [Assorted New York Cookies](https://coursemetry.com/assorted-new-york-cookies/)
 
 * [Complete WiFi Hacking Course: Beginner to Advanced](https://coursemetry.com/complete-wifi-hacking-course-beginner-to-advanced/)
+
+* [Complete Adobe After Effects Megacourse: Beginner to Expert](https://coursemetry.com/complete-adobe-after-effects-megacourse-beginner-to-expert/)
+
+* [PHP for Beginners: PHP Crash Course 2022](https://coursemetry.com/php-for-beginners-php-crash-course-2022/)
+
+* [Norwegian Language Course A1 Part 1](https://coursemetry.com/norwegian-language-course-a1-part-1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
