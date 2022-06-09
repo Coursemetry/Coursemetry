@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **52 Udemy free courses published on 2022-06-09**
+## **54 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -107,6 +107,10 @@
 * [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
 
 * [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [Recruiting: Umgang mit der Generation Z](https://coursemetry.com/recruiting-umgang-mit-der-generation-z/)
+
+* [Von der Arbeitslosigkeit in die Selbstständigkeit](https://coursemetry.com/von-der-arbeitslosigkeit-in-die-selbststandigkeit/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
