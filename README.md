@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published on 2022-06-09**
+## **73 Udemy free courses published on 2022-06-09**
 
 * [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions/)
 
@@ -113,6 +113,42 @@
 * [Von der Arbeitslosigkeit in die Selbstständigkeit](https://coursemetry.com/von-der-arbeitslosigkeit-in-die-selbststandigkeit/)
 
 * [Fedora Linux from Scratch](https://coursemetry.com/fedora-linux-from-scratch/)
+
+* [The Complete Facebook Traffic Ads (Facebook CPC) Course 2022](https://coursemetry.com/the-complete-facebook-traffic-ads-facebook-cpc-course-2022/)
+
+* [The Complete Freelancing Course-Upwork Fiverr Home Business](https://coursemetry.com/the-complete-freelancing-course-upwork-fiverr-home-business/)
+
+* [Minimalist Lifestyle - Complete Course - Decluttering Life](https://coursemetry.com/minimalist-lifestyle-complete-course-decluttering-life/)
+
+* [Public Speaking - High Tech Executives Can be Eloquent](https://coursemetry.com/public-speaking-high-tech-executives-can-be-eloquent/)
+
+* [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
+
+* [The Complete English Grammar Course - Perfect Your English](https://coursemetry.com/the-complete-english-grammar-course-perfect-your-english/)
+
+* [Brocade Certified Network Engineer (150-130) Practice Exams](https://coursemetry.com/brocade-certified-network-engineer-150-130-practice-exams/)
+
+* [Electronics : Zener Diode & Light Emitting Diode](https://coursemetry.com/electronics-zener-diode-light-emitting-diode/)
+
+* [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
+
+* [The Complete Mindfulness Course - Enjoy Life In the Present](https://coursemetry.com/the-complete-mindfulness-course-enjoy-life-in-the-present/)
+
+* [The Guide to Freelancing in the Modern Gig Economy](https://coursemetry.com/the-guide-to-freelancing-in-the-modern-gig-economy/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+
+* [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
+
+* [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
+
+* [On-Camera Charisma for YouTube Stars - YouTube Marketing](https://coursemetry.com/on-camera-charisma-for-youtube-stars-youtube-marketing/)
+
+* [Facebook Ads Copywriting & Facebook Ads for Real Estate 2022](https://coursemetry.com/facebook-ads-copywriting-facebook-ads-for-real-estate-2022/)
+
+* [Certification Course in Talent Development & Management](https://coursemetry.com/certification-course-in-talent-development-management/)
+
+* [The Complete Body Language for Business Course](https://coursemetry.com/the-complete-body-language-for-business-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
