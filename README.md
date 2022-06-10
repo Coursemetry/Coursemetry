@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **95 Udemy free courses published on 2022-06-10**
+## **100 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -193,6 +193,16 @@
 * [Programacion con Python](https://coursemetry.com/programacion-con-python/)
 
 * [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
+
+* [AI-900: Microsoft Azure AI Fundamentals Practice Questions](https://coursemetry.com/ai-900-microsoft-azure-ai-fundamentals-practice-questions/)
+
+* [Creo Parametric | Sıfırdan 15+ Saat Sektörel Eğitim Seti](https://coursemetry.com/creo-parametric-sifirdan-15-saat-sektorel-egitim-seti/)
+
+* [AZ-303: Microsoft Azure Architect Technologies Practice Exam](https://coursemetry.com/az-303-microsoft-azure-architect-technologies-practice-exam/)
+
+* [1Z0-1084-21: OCI Developer Associate Practice Exam](https://coursemetry.com/1z0-1084-21-oci-developer-associate-practice-exam/)
+
+* [Effective Time Management Skills For A Productivity Boost](https://coursemetry.com/effective-time-management-skills-for-a-productivity-boost/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
