@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **29 Udemy free courses published on 2022-06-10**
+## **31 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -61,6 +61,10 @@
 * [Podcast Storytelling Masterclass](https://coursemetry.com/podcast-storytelling-masterclass/)
 
 * [Adobe Animate 2022 Ultimate Guide](https://coursemetry.com/adobe-animate-2022-ultimate-guide/)
+
+* [Ultimate DevOps Guide with Interview Preparation](https://coursemetry.com/ultimate-devops-guide-with-interview-preparation/)
+
+* [MySQL Database Development Mastery](https://coursemetry.com/mysql-database-development-mastery/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
