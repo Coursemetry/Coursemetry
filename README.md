@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published on 2022-06-10**
+## **74 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -145,6 +145,12 @@
 * [React JS- Complete Guide for Frontend Web Development [2021]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2021/)
 
 * [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [Scratch 3.0: A guide for teachers, parents and students](https://coursemetry.com/scratch-3-0-a-guide-for-teachers-parents-and-students/)
+
+* [Negocios Digitales](https://coursemetry.com/negocios-digitales/)
+
+* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
