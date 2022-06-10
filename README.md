@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published on 2022-06-10**
+## **95 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -161,6 +161,38 @@
 * [Learn JavaScript Programming in 7 Days](https://coursemetry.com/learn-javascript-programming-in-7-days/)
 
 * [Learn Excel from beginner to advance with Example](https://coursemetry.com/learn-excel-from-beginner-to-advance-with-example/)
+
+* [Excel paso a paso](https://coursemetry.com/excel-paso-a-paso/)
+
+* [Negotiation A-Z: Inside Secrets from a Master Negotiator](https://coursemetry.com/negotiation-a-z-inside-secrets-from-a-master-negotiator/)
+
+* [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
+
+* [Crea tu propio juego con Python](https://coursemetry.com/crea-tu-propio-juego-con-python/)
+
+* [Complete WhatsApp Marketing Course 2022](https://coursemetry.com/complete-whatsapp-marketing-course-2022/)
+
+* [Matematicas Financieras](https://coursemetry.com/matematicas-financieras/)
+
+* [Programacion con Scratch, programando con bloques](https://coursemetry.com/programacion-con-scratch-programando-con-bloques/)
+
+* [Aprende a crear tu web desde cero con HTML y CSS](https://coursemetry.com/aprende-a-crear-tu-web-desde-cero-con-html-y-css/)
+
+* [Ethical Hacking: Vulnerability Research](https://coursemetry.com/ethical-hacking-vulnerability-research/)
+
+* [Introduccion a la Contabilidad](https://coursemetry.com/introduccion-a-la-contabilidad/)
+
+* [Ethical Hacking: Linux Privilege Escalation](https://coursemetry.com/ethical-hacking-linux-privilege-escalation/)
+
+* [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
+
+* [ACI Dealing Certificate (3I0-012)  Exams](https://coursemetry.com/aci-dealing-certificate-3i0-012-exams/)
+
+* [Certified Ethical Hacker CEH v10](https://coursemetry.com/certified-ethical-hacker-ceh-v10/)
+
+* [Programacion con Python](https://coursemetry.com/programacion-con-python/)
+
+* [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
