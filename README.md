@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published on 2022-06-10**
+## **65 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -129,6 +129,10 @@
 * [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
 
 * [Python for Machine Learning with Numpy, Pandas & Matplotlib](https://coursemetry.com/python-for-machine-learning-with-numpy-pandas-matplotlib/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [Learn Android Hacking For Beginners](https://coursemetry.com/learn-android-hacking-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
