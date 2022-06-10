@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **28 Udemy free courses published on 2022-06-10**
+## **29 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -59,6 +59,8 @@
 * [Complete Guide to TOEFL iBT | Mastering the Skills](https://coursemetry.com/complete-guide-to-toefl-ibt-mastering-the-skills/)
 
 * [Podcast Storytelling Masterclass](https://coursemetry.com/podcast-storytelling-masterclass/)
+
+* [Adobe Animate 2022 Ultimate Guide](https://coursemetry.com/adobe-animate-2022-ultimate-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
