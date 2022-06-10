@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published on 2022-06-10**
+## **122 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -241,6 +241,12 @@
 * [Python Practice Tests & Interview Questions (Basic/Advanced)](https://coursemetry.com/python-practice-tests-interview-questions-basic-advanced/)
 
 * [Microsoft Clarity for Web Analytics :  A-Z Complete Tutorial](https://coursemetry.com/microsoft-clarity-for-web-analytics-a-z-complete-tutorial/)
+
+* [Emotional Intelligence for Software Engineers and Developers](https://coursemetry.com/emotional-intelligence-for-software-engineers-and-developers/)
+
+* [TODO-List App | iOS 15, SwiftUI, Firebase, MVVM, Git, GitHub](https://coursemetry.com/todo-list-app-ios-15-swiftui-firebase-mvvm-git-github/)
+
+* [The Advanced SQL Course](https://coursemetry.com/the-advanced-sql-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
