@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published on 2022-06-10**
+## **71 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -135,6 +135,16 @@
 * [Learn Android Hacking For Beginners](https://coursemetry.com/learn-android-hacking-for-beginners/)
 
 * [Master Persuasion & Influence: Hypnotic Communication Skills](https://coursemetry.com/master-persuasion-influence-hypnotic-communication-skills/)
+
+* [Python Programming - From Basics to Advanced level [2021]](https://coursemetry.com/python-programming-from-basics-to-advanced-level-2021/)
+
+* [AWS Services for Solutions Architect Associate [2021]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2021/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [React JS- Complete Guide for Frontend Web Development [2021]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2021/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
