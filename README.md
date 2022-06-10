@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published on 2022-06-10**
+## **119 Udemy free courses published on 2022-06-10**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -203,6 +203,44 @@
 * [1Z0-1084-21: OCI Developer Associate Practice Exam](https://coursemetry.com/1z0-1084-21-oci-developer-associate-practice-exam/)
 
 * [Effective Time Management Skills For A Productivity Boost](https://coursemetry.com/effective-time-management-skills-for-a-productivity-boost/)
+
+* [Git &Github Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/git-github-practice-tests-interview-questions-basic-adv/)
+
+* [Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests](https://coursemetry.com/web-3-0-blockchain-smart-contracts-crypto-practice-tests/)
+
+* [Data Mesh - A Modern Decentralized Data Management Concept](https://coursemetry.com/data-mesh-a-modern-decentralized-data-management-concept/)
+
+* [Flourish Studio Masterclass : Create Animated Visualizations](https://coursemetry.com/flourish-studio-masterclass-create-animated-visualizations/)
+
+* [Scrum Certification Course 2022 (Based on Scrum Guide 2020)](https://coursemetry.com/scrum-certification-course-2022-based-on-scrum-guide-2020/)
+
+* [No-Code Machine Learning Using Amazon AWS SageMaker Canvas](https://coursemetry.com/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/)
+
+* [Most Effective Tips to get your Dream Data Science Job](https://coursemetry.com/most-effective-tips-to-get-your-dream-data-science-job/)
+
+* [Spotfire Interview Tech Questions Answered with Explanation](https://coursemetry.com/spotfire-interview-tech-questions-answered-with-explanation/)
+
+* [TIBCO Spotfire Development : Beginners To Advanced Course](https://coursemetry.com/tibco-spotfire-development-beginners-to-advanced-course/)
+
+* [Google Data Studio Complete Beginners to Advanced Tutorial](https://coursemetry.com/google-data-studio-complete-beginners-to-advanced-tutorial/)
+
+* [Solidity Interview Questions & Practice Tests (updated 2022)](https://coursemetry.com/solidity-interview-questions-practice-tests-updated-2022/)
+
+* [Project/ Product Management Frameworks & Methods MasterClass](https://coursemetry.com/project-product-management-frameworks-methods-masterclass/)
+
+* [Essential Non Technical Skills of Effective Data Scientists](https://coursemetry.com/essential-non-technical-skills-of-effective-data-scientists/)
+
+* [Quantum Computing Fundamentals with Microsoft Azure Quantum](https://coursemetry.com/quantum-computing-fundamentals-with-microsoft-azure-quantum/)
+
+* [WordPress Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/wordpress-practice-tests-interview-questions-basic-adv/)
+
+* [Data Sonification using Two Tone- Convert your Data to Music](https://coursemetry.com/data-sonification-using-two-tone-convert-your-data-to-music/)
+
+* [No-Code Machine Learning with Qlik AutoML](https://coursemetry.com/no-code-machine-learning-with-qlik-automl/)
+
+* [Python Practice Tests & Interview Questions (Basic/Advanced)](https://coursemetry.com/python-practice-tests-interview-questions-basic-advanced/)
+
+* [Microsoft Clarity for Web Analytics :  A-Z Complete Tutorial](https://coursemetry.com/microsoft-clarity-for-web-analytics-a-z-complete-tutorial/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
