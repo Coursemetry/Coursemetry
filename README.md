@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published on 2022-06-11**
+## **106 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -207,6 +207,14 @@
 * [Zero to Hero in Microsoft Excel: Complete Excel guide 2022](https://coursemetry.com/zero-to-hero-in-microsoft-excel-complete-excel-guide-2022/)
 
 * [Tools for Working From Home - Google Apps, Trello & Zoom](https://coursemetry.com/tools-for-working-from-home-google-apps-trello-zoom/)
+
+* [Be Effective in Communication - Achieve Great Results](https://coursemetry.com/be-effective-in-communication-achieve-great-results/)
+
+* [Certified Solutions Architect – Associate Practice Test](https://coursemetry.com/certified-solutions-architect-associate-practice-test/)
+
+* [AWS Certified Cloud Practitioner Practice Tests 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-tests-2022/)
+
+* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
