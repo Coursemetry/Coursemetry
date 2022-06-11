@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published on 2022-06-11**
+## **102 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -191,6 +191,22 @@
 * [P.O.W.E.R Resume System: Proven system to get job interviews](https://coursemetry.com/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/)
 
 * [Aprende FastAPI desde cero](https://coursemetry.com/aprende-fastapi-desde-cero/)
+
+* [Image Recognition for Beginners using CNN in R Studio](https://coursemetry.com/image-recognition-for-beginners-using-cnn-in-r-studio/)
+
+* [Financial Analysis and Financial Modeling using MS Excel](https://coursemetry.com/financial-analysis-and-financial-modeling-using-ms-excel/)
+
+* [Linear Regression Analysis using Python: ML Basics (हिंदी)](https://coursemetry.com/linear-regression-analysis-using-python-ml-basics-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80/)
+
+* [Marketing Analytics and Retail Business Management](https://coursemetry.com/marketing-analytics-and-retail-business-management/)
+
+* [Kanban Metrics for Agile teams: Measure & Improve Flow](https://coursemetry.com/kanban-metrics-for-agile-teams-measure-improve-flow/)
+
+* [Logistic Regression in Python](https://coursemetry.com/logistic-regression-in-python/)
+
+* [Zero to Hero in Microsoft Excel: Complete Excel guide 2022](https://coursemetry.com/zero-to-hero-in-microsoft-excel-complete-excel-guide-2022/)
+
+* [Tools for Working From Home - Google Apps, Trello & Zoom](https://coursemetry.com/tools-for-working-from-home-google-apps-trello-zoom/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
