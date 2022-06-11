@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published on 2022-06-11**
+## **51 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -95,6 +95,16 @@
 * [Ethical Hacking: Vulnerability Research](https://coursemetry.com/ethical-hacking-vulnerability-research/)
 
 * [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+
+* [Security + Practice Test](https://coursemetry.com/security-practice-test/)
+
+* [C_TS452_2021 | SAP S/4HANA Sourcing and Procurement Exam](https://coursemetry.com/c_ts452_2021-sap-s-4hana-sourcing-and-procurement-exam/)
+
+* [A+ Core2 Practice Test](https://coursemetry.com/a-core2-practice-test/)
+
+* [Network + Practice Test](https://coursemetry.com/network-practice-test/)
+
+* [CISSP Practice Test](https://coursemetry.com/cissp-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
