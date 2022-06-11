@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **82 Udemy free courses published on 2022-06-11**
+## **83 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -167,6 +167,8 @@
 * [Complete Digital Marketing Course for Local Businesses 2022](https://coursemetry.com/complete-digital-marketing-course-for-local-businesses-2022/)
 
 * [Corporate Finance #7 Short Term Financing](https://coursemetry.com/corporate-finance-7-short-term-financing/)
+
+* [The Complete Course on Data Cleaning in MS Excel](https://coursemetry.com/the-complete-course-on-data-cleaning-in-ms-excel/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
