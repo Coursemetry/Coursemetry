@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **89 Udemy free courses published on 2022-06-11**
+## **93 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -181,6 +181,14 @@
 * [Corporate Finance #11 Capital Budgeting](https://coursemetry.com/corporate-finance-11-capital-budgeting/)
 
 * [Complete Course 2022: Enterprise Application Development](https://coursemetry.com/complete-course-2022-enterprise-application-development/)
+
+* [MongoDB Tutorial for Beginners (2022)](https://coursemetry.com/mongodb-tutorial-for-beginners-2022/)
+
+* [Vocal Recording Course: How To Record Vocals Fast [NEW]](https://coursemetry.com/vocal-recording-course-how-to-record-vocals-fast-new/)
+
+* [Corp Finance #12 Capital Budgeting & Investment Risk Tools](https://coursemetry.com/corp-finance-12-capital-budgeting-investment-risk-tools/)
+
+* [P.O.W.E.R Resume System: Proven system to get job interviews](https://coursemetry.com/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
