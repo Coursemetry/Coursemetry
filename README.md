@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **34 Udemy free courses published on 2022-06-11**
+## **46 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -71,6 +71,30 @@
 * [php function with MySQL (Insert, Update and Delete)](https://coursemetry.com/php-function-with-mysql-insert-update-and-delete/)
 
 * [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
+
+* [How to Build and Break Habits Easily with Atomic Habits!](https://coursemetry.com/how-to-build-and-break-habits-easily-with-atomic-habits/)
+
+* [Blender 3d: New User Modeling Trial (3.1 UPDATE)](https://coursemetry.com/blender-3d-new-user-modeling-trial-3-1-update/)
+
+* [Intro to Machine Learning in AWS for Beginners - New 2022!](https://coursemetry.com/intro-to-machine-learning-in-aws-for-beginners-new-2022/)
+
+* [Mac Hidden Features | use Mac in your Fingertips](https://coursemetry.com/mac-hidden-features-use-mac-in-your-fingertips/)
+
+* [Python Basics - Python from Scratch in 2 Days](https://coursemetry.com/python-basics-python-from-scratch-in-2-days/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Python pour la Data Science : Numpy, Pandas et Matplotlib](https://coursemetry.com/python-pour-la-data-science-numpy-pandas-et-matplotlib/)
+
+* [Project Finance Fundamentals | Infrastructure & Energy](https://coursemetry.com/project-finance-fundamentals-infrastructure-energy/)
+
+* [Ethical Hacking: Metasploit](https://coursemetry.com/ethical-hacking-metasploit/)
+
+* [HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour](https://coursemetry.com/html5-fundamentals-course-learn-html-basics-in-1-hour/)
+
+* [Ethical Hacking: Vulnerability Research](https://coursemetry.com/ethical-hacking-vulnerability-research/)
+
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
