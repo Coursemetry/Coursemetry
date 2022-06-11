@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **32 Udemy free courses published on 2022-06-11**
+## **34 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -67,6 +67,10 @@
 * [Networking for Real Estate Investors For Profits & Funds](https://coursemetry.com/networking-for-real-estate-investors-for-profits-funds/)
 
 * [Data Analyst Skill path in Hindi - हिंदी में सीखें](https://coursemetry.com/data-analyst-skill-path-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82/)
+
+* [php function with MySQL (Insert, Update and Delete)](https://coursemetry.com/php-function-with-mysql-insert-update-and-delete/)
+
+* [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
