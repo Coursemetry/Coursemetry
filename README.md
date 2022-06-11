@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published on 2022-06-11**
+## **54 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -105,6 +105,12 @@
 * [Network + Practice Test](https://coursemetry.com/network-practice-test/)
 
 * [CISSP Practice Test](https://coursemetry.com/cissp-practice-test/)
+
+* [Certified Network Associate CCNA Practice Test](https://coursemetry.com/certified-network-associate-ccna-practice-test/)
+
+* [IT Fundamentals ITF+  Practice Test](https://coursemetry.com/it-fundamentals-itf-practice-test/)
+
+* [Project Management Professional (PMP) Practice Test](https://coursemetry.com/project-management-professional-pmp-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
