@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **26 Udemy free courses published on 2022-06-11**
+## **32 Udemy free courses published on 2022-06-11**
 
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
@@ -55,6 +55,18 @@
 * [Ms Excel/Excel 2022 - The Complete Introduction to Excel](https://coursemetry.com/ms-excel-excel-2022-the-complete-introduction-to-excel/)
 
 * [Electrical  Engineering Interview Practice Questions](https://coursemetry.com/electrical-engineering-interview-practice-questions/)
+
+* [Logo Animation Fundamentals](https://coursemetry.com/logo-animation-fundamentals/)
+
+* [The Three.JS Primer](https://coursemetry.com/the-three-js-primer/)
+
+* [Postman Crash Course | Learn API Testing in 50 minutes](https://coursemetry.com/postman-crash-course-learn-api-testing-in-50-minutes/)
+
+* [Real Estate Investing: Foreclosures, Flipping Houses Profits](https://coursemetry.com/real-estate-investing-foreclosures-flipping-houses-profits/)
+
+* [Networking for Real Estate Investors For Profits & Funds](https://coursemetry.com/networking-for-real-estate-investors-for-profits-funds/)
+
+* [Data Analyst Skill path in Hindi - हिंदी में सीखें](https://coursemetry.com/data-analyst-skill-path-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
