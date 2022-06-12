@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published on 2022-06-12**
+## **117 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -229,12 +229,6 @@
 * [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
 
 * [Create Telegram bot with NodeJS and Firebase Cloud Functions](https://coursemetry.com/create-telegram-bot-with-nodejs-and-firebase-cloud-functions/)
-
-* [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
-
-* [Learn Python Programming from Scratch](https://coursemetry.com/learn-python-programming-from-scratch/)
-
-* [Java Programming: Complete Beginner to Advanced](https://coursemetry.com/java-programming-complete-beginner-to-advanced/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
