@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published on 2022-06-12**
+## **51 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -97,6 +97,14 @@
 * [Complete Blues Guitar Megacourse: Beginner to Expert](https://coursemetry.com/complete-blues-guitar-megacourse-beginner-to-expert/)
 
 * [The Complete Course on Data Analysis and Data Visualization](https://coursemetry.com/the-complete-course-on-data-analysis-and-data-visualization/)
+
+* [JavaScript Fundamentals](https://coursemetry.com/javascript-fundamentals/)
+
+* [Angular Crash Course for beginners](https://coursemetry.com/angular-crash-course-for-beginners/)
+
+* [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
