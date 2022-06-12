@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **59 Udemy free courses published on 2022-06-12**
+## **65 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -121,6 +121,18 @@
 * [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
 
 * [SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP](https://coursemetry.com/sap-project-essentials-implementing-sap-s-4hana-and-sap-erp/)
+
+* [Photoshop CC | Sıfırdan Uzmanlığa 20+ Saat Eğitim Seti A-Z](https://coursemetry.com/photoshop-cc-sifirdan-uzmanliga-20-saat-egitim-seti-a-z/)
+
+* [Catia V5 CAM | Sıfırdan CNC Torna & Freze Programlama](https://coursemetry.com/catia-v5-cam-sifirdan-cnc-torna-freze-programlama/)
+
+* [SAP Basis Essential Training](https://coursemetry.com/sap-basis-essential-training/)
+
+* [Bitcoin ve Kripto Para Uzmanlığı](https://coursemetry.com/bitcoin-ve-kripto-para-uzmanligi/)
+
+* [Autocad | Sıfırdan Uzmanlığa 30+ Saat Sektörel Eğitim Seti](https://coursemetry.com/autocad-sifirdan-uzmanliga-30-saat-sektorel-egitim-seti/)
+
+* [Solidworks: Sıfırdan Uzmanlığa 40+ Saat Sektörel Eğitim Seti](https://coursemetry.com/solidworks-sifirdan-uzmanliga-40-saat-sektorel-egitim-seti/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
