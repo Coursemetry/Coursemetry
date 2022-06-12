@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published on 2022-06-12**
+## **112 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -223,6 +223,10 @@
 * [The Complete English Language Course  Improve Spoken English](https://coursemetry.com/the-complete-english-language-course-improve-spoken-english/)
 
 * [تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a8%d9%84%d8%ba%d8%a9-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ae%d8%b7%d9%88%d8%a9/)
+
+* [Hörbuchsprecher werden - Hörbuch Aufnahme,Marketingstrategie](https://coursemetry.com/horbuchsprecher-werden-horbuch-aufnahmemarketingstrategie/)
+
+* [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
