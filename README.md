@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published on 2022-06-12**
+## **91 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -133,6 +133,58 @@
 * [Autocad | Sıfırdan Uzmanlığa 30+ Saat Sektörel Eğitim Seti](https://coursemetry.com/autocad-sifirdan-uzmanliga-30-saat-sektorel-egitim-seti/)
 
 * [Solidworks: Sıfırdan Uzmanlığa 40+ Saat Sektörel Eğitim Seti](https://coursemetry.com/solidworks-sifirdan-uzmanliga-40-saat-sektorel-egitim-seti/)
+
+* [Learn SQL from Basic](https://coursemetry.com/learn-sql-from-basic/)
+
+* [Job Breakthrough!](https://coursemetry.com/job-breakthrough/)
+
+* [How to Set Personal Boundaries](https://coursemetry.com/how-to-set-personal-boundaries/)
+
+* [Accomplish More in Less Time: 50-minute Productivity Guide](https://coursemetry.com/accomplish-more-in-less-time-50-minute-productivity-guide/)
+
+* [Introduction to Industrial-Organizational  Psychology](https://coursemetry.com/introduction-to-industrial-organizational-psychology/)
+
+* [Introduction to Ethereum with Solidity and React](https://coursemetry.com/introduction-to-ethereum-with-solidity-and-react/)
+
+* [Learn Adobe Premiere Pro from basics to advance](https://coursemetry.com/learn-adobe-premiere-pro-from-basics-to-advance/)
+
+* [Ultimate & Proven Prospecting Systems For Marketing Agencies](https://coursemetry.com/ultimate-proven-prospecting-systems-for-marketing-agencies/)
+
+* [Lifestyle Medicine Basics](https://coursemetry.com/lifestyle-medicine-basics/)
+
+* [Learn to Trade - Elliott Wave, Algos & Fibonacci](https://coursemetry.com/learn-to-trade-elliott-wave-algos-fibonacci/)
+
+* [Get started with crypto](https://coursemetry.com/get-started-with-crypto/)
+
+* [Create A Chat Application Project Using React](https://coursemetry.com/create-a-chat-application-project-using-react/)
+
+* [Victim To Hero: A 5 Step Journey Inward](https://coursemetry.com/victim-to-hero-a-5-step-journey-inward/)
+
+* [AWS Networking and Server building fundamentals -VPC and EC2](https://coursemetry.com/aws-networking-and-server-building-fundamentals-vpc-and-ec2/)
+
+* [Connecting Marriage and Family](https://coursemetry.com/connecting-marriage-and-family/)
+
+* [Create awesome videos from text using Pictory](https://coursemetry.com/create-awesome-videos-from-text-using-pictory-2/)
+
+* [Arduino IoT Zimmerlampe und Treppenlauflicht](https://coursemetry.com/arduino-iot-zimmerlampe-und-treppenlauflicht/)
+
+* [DIY Arduino Wetterstation mit IoT Server Erstellung](https://coursemetry.com/diy-arduino-wetterstation-mit-iot-server-erstellung/)
+
+* [CompTIA PenTest+ PT0-001 Practice Certification Exams](https://coursemetry.com/comptia-pentest-pt0-001-practice-certification-exams/)
+
+* [Killer ways to create and promote YouTube videos in 2022](https://coursemetry.com/killer-ways-to-create-and-promote-youtube-videos-in-2022/)
+
+* [Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://coursemetry.com/learn-audo-studio-ai-powered-noise-cancellation-tool-2022/)
+
+* [Unlimited Free Traffic Generation Course: Master Edition](https://coursemetry.com/unlimited-free-traffic-generation-course-master-edition/)
+
+* [Viral YouTube Marketing - Crash Course + Live Class](https://coursemetry.com/viral-youtube-marketing-crash-course-live-class/)
+
+* [Steuerung der LED Matrix via Webinterface mit Arduino/ESP32](https://coursemetry.com/steuerung-der-led-matrix-via-webinterface-mit-arduino-esp32/)
+
+* [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
+
+* [Graphic Design Certification + Live Class](https://coursemetry.com/graphic-design-certification-live-class/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
