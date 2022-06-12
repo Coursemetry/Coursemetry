@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published on 2022-06-12**
+## **95 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -187,6 +187,12 @@
 * [Graphic Design Certification + Live Class](https://coursemetry.com/graphic-design-certification-live-class/)
 
 * [Google Cloud FinOps Fundamentals](https://coursemetry.com/google-cloud-finops-fundamentals/)
+
+* [Scrum Ceremonies Simplified](https://coursemetry.com/scrum-ceremonies-simplified/)
+
+* [Advance logo design course: Bear mascot shape design](https://coursemetry.com/advance-logo-design-course-bear-mascot-shape-design/)
+
+* [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
