@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **42 Udemy free courses published on 2022-06-12**
+## **46 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -87,6 +87,14 @@
 * [Make Your Excel Look Like a Standalone Program](https://coursemetry.com/make-your-excel-look-like-a-standalone-program/)
 
 * [Podcast Coach: Podcasting Profits](https://coursemetry.com/podcast-coach-podcasting-profits/)
+
+* [Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022](https://coursemetry.com/reverse-engineering-and-malware-analysis-x64-32-crma-2022/)
+
+* [Quantity Surveying Templates for Effective Cost Management](https://coursemetry.com/quantity-surveying-templates-for-effective-cost-management/)
+
+* [SAP Business Analytics Essential Training](https://coursemetry.com/sap-business-analytics-essential-training/)
+
+* [Complete Blues Guitar Megacourse: Beginner to Expert](https://coursemetry.com/complete-blues-guitar-megacourse-beginner-to-expert/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
