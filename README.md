@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **95 Udemy free courses published on 2022-06-12**
+## **96 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -193,6 +193,8 @@
 * [Advance logo design course: Bear mascot shape design](https://coursemetry.com/advance-logo-design-course-bear-mascot-shape-design/)
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
+
+* [First Step in Robot Programing Using LEGO Mindstorms 5in1](https://coursemetry.com/first-step-in-robot-programing-using-lego-mindstorms-5in1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
