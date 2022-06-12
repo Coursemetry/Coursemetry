@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published on 2022-06-12**
+## **102 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -195,6 +195,18 @@
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
 * [First Step in Robot Programing Using LEGO Mindstorms 5in1](https://coursemetry.com/first-step-in-robot-programing-using-lego-mindstorms-5in1/)
+
+* [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
+
+* [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
+
+* [Build apps without coding using Microsoft Power Apps](https://coursemetry.com/build-apps-without-coding-using-microsoft-power-apps/)
+
+* [Git Command Line for Beginners](https://coursemetry.com/git-command-line-for-beginners/)
+
+* [Learn How to Make Trading Card Game Menus With Unity 3D](https://coursemetry.com/learn-how-to-make-trading-card-game-menus-with-unity-3d/)
+
+* [Tally ERP9 With GST Step By Step Guide From Basic to Advance](https://coursemetry.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
