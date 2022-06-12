@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published on 2022-06-12**
+## **103 Udemy free courses published on 2022-06-12**
 
 * [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
 
@@ -207,6 +207,8 @@
 * [Learn How to Make Trading Card Game Menus With Unity 3D](https://coursemetry.com/learn-how-to-make-trading-card-game-menus-with-unity-3d/)
 
 * [Tally ERP9 With GST Step By Step Guide From Basic to Advance](https://coursemetry.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/)
+
+* [Excel Data Analysis With Pivot Tables & Pivot Charts - 2022](https://coursemetry.com/excel-data-analysis-with-pivot-tables-pivot-charts-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
