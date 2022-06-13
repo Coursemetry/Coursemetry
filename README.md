@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published on 2022-06-13**
+## **101 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -197,6 +197,14 @@
 * [ENGLISH with FILMS - Filmlerle İngilizce Geliştirme Kursu](https://coursemetry.com/english-with-films-filmlerle-ingilizce-gelistirme-kursu/)
 
 * [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners/)
+
+* [Fundamentals of Manufacturing Materials, Processes & Systems](https://coursemetry.com/fundamentals-of-manufacturing-materials-processes-systems/)
+
+* [Prepare for Tableau Server Certified Associate 2022 SCA C01](https://coursemetry.com/prepare-for-tableau-server-certified-associate-2022-sca-c01/)
+
+* [Tableau Desktop Specialist Certification Dumps 2022](https://coursemetry.com/tableau-desktop-specialist-certification-dumps-2022/)
+
+* [Complete Course on the Fundamentals of Fluid Mechanics|2022|](https://coursemetry.com/complete-course-on-the-fundamentals-of-fluid-mechanics2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
