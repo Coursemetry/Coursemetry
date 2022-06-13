@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **129 Udemy free courses published on 2022-06-13**
+## **152 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -261,6 +261,52 @@
 * [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
 
 * [Grow your sales with Conversion Optimization Rate](https://coursemetry.com/grow-your-sales-with-conversion-optimization-rate/)
+
+* [How to setup a new export firm in India and get orders?](https://coursemetry.com/how-to-setup-a-new-export-firm-in-india-and-get-orders/)
+
+* [Xflr5 | İHA Yarışmaları için Tasarım & Analiz Rehberi](https://coursemetry.com/xflr5-iha-yarismalari-icin-tasarim-analiz-rehberi/)
+
+* [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
+
+* [Técnicas para la creación de elementos 3D para Videojuegos](https://coursemetry.com/tecnicas-para-la-creacion-de-elementos-3d-para-videojuegos/)
+
+* [Complete FL Studio Megacourse: Beginner to Expert](https://coursemetry.com/complete-fl-studio-megacourse-beginner-to-expert/)
+
+* [Ethical Hacking: Metasploit](https://coursemetry.com/ethical-hacking-metasploit/)
+
+* [DP-100: Designing and Implementing a Data Science Solution](https://coursemetry.com/dp-100-designing-and-implementing-a-data-science-solution/)
+
+* [Python for Beginners to Advance](https://coursemetry.com/python-for-beginners-to-advance/)
+
+* [Facebook Marketing Mastery 2022](https://coursemetry.com/facebook-marketing-mastery-2022/)
+
+* [Complete German Course: Learn German for Beginners](https://coursemetry.com/complete-german-course-learn-german-for-beginners/)
+
+* [Vollstän NFT-Kurs: Werden Sie ein NFT-Ersteller und-Investor](https://coursemetry.com/vollstan-nft-kurs-werden-sie-ein-nft-ersteller-und-investor/)
+
+* [Sıfırdan İleriye Örnek Uygulamalar | NX-Catia-Solid-Autocad](https://coursemetry.com/sifirdan-ileriye-ornek-uygulamalar-nx-catia-solid-autocad/)
+
+* [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
+
+* [Psikolojik Danışmanlık Eğitimi](https://coursemetry.com/psikolojik-danismanlik-egitimi/)
+
+* [Certíficate Microsoft Power Platform PL-900 Simulador  2022](https://coursemetry.com/certificate-microsoft-power-platform-pl-900-simulador-2022/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [The Complete Job Interviewing Skills Masterclass Course](https://coursemetry.com/the-complete-job-interviewing-skills-masterclass-course/)
+
+* [AWS Certified Solutions Architect - Professional Latest Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-latest-exam-2/)
+
+* [Aile, Evlilik, Çift  ve İlişki Sorunları ve Çözümleri](https://coursemetry.com/aile-evlilik-cift-ve-iliski-sorunlari-ve-cozumleri/)
+
+* [Check Point Certified Security Administrator Practice 2022](https://coursemetry.com/check-point-certified-security-administrator-practice-2022/)
+
+* [Certifícate AWS Certified Cloud Practitioner Exam-2022](https://coursemetry.com/certificate-aws-certified-cloud-practitioner-exam-2022/)
+
+* [Personal Branding System: UNIQUE Secret for YOUR Success](https://coursemetry.com/personal-branding-system-unique-secret-for-your-success/)
+
+* [Leading Effective Meetings - You Can Lead Effective Meetings](https://coursemetry.com/leading-effective-meetings-you-can-lead-effective-meetings/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
