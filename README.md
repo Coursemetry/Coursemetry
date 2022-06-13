@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **121 Udemy free courses published on 2022-06-13**
+## **129 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -245,6 +245,22 @@
 * [SaaS Masterclass: Sales, Marketing and Growth Metrics](https://coursemetry.com/saas-masterclass-sales-marketing-and-growth-metrics/)
 
 * [MBA: Retail management, Merchandising, and E-commerce](https://coursemetry.com/mba-retail-management-merchandising-and-e-commerce/)
+
+* [Story telling for Early Childhood Period - Montessori way](https://coursemetry.com/story-telling-for-early-childhood-period-montessori-way/)
+
+* [What Is GIS?](https://coursemetry.com/what-is-gis/)
+
+* [5s system step by step](https://coursemetry.com/5s-system-step-by-step/)
+
+* [Mühendisler için Tasarım-İmalat-Malzeme Bilgileri CAD/CAM](https://coursemetry.com/muhendisler-icin-tasarim-imalat-malzeme-bilgileri-cad-cam/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
+
+* [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
+
+* [Grow your sales with Conversion Optimization Rate](https://coursemetry.com/grow-your-sales-with-conversion-optimization-rate/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
