@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **25 Udemy free courses published on 2022-06-13**
+## **72 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -53,6 +53,100 @@
 * [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
 
 * [Excel Accounting 1–Transactions for Common Data Input Forms](https://coursemetry.com/excel-accounting-1-transactions-for-common-data-input-forms/)
+
+* [Governmental Accounting 300 Proprietary & Fiduciary Funds](https://coursemetry.com/governmental-accounting-300-proprietary-fiduciary-funds/)
+
+* [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
+
+* [Google Certified Professional DevOps Engineer Practice Exam](https://coursemetry.com/google-certified-professional-devops-engineer-practice-exam/)
+
+* [Corporate Finance #13 Investment Banking & Long-Term Debt](https://coursemetry.com/corporate-finance-13-investment-banking-long-term-debt/)
+
+* [Excel Accounting 5–Bank Reconciliations-Month 1 & 2](https://coursemetry.com/excel-accounting-5-bank-reconciliations-month-1-2/)
+
+* [Corp Finance #12 Capital Budgeting & Investment Risk Tools](https://coursemetry.com/corp-finance-12-capital-budgeting-investment-risk-tools/)
+
+* [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
+
+* [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
+
+* [Corp Finance #17 Merger, Acquisition & Foreign Currency](https://coursemetry.com/corp-finance-17-merger-acquisition-foreign-currency/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [Personal Capital Free Financial Planner Application](https://coursemetry.com/personal-capital-free-financial-planner-application/)
+
+* [Excel Accounting 4–Enter Data & Track Current Month & YTD](https://coursemetry.com/excel-accounting-4-enter-data-track-current-month-ytd/)
+
+* [Personal Finance #1 Goals, Planning, & Time Value of Money](https://coursemetry.com/personal-finance-1-goals-planning-time-value-of-money/)
+
+* [Personal Finance #2–Financial Statements & Budgeting](https://coursemetry.com/personal-finance-2-financial-statements-budgeting/)
+
+* [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
+
+* [Video Editing with Adobe Premiere Pro CC 2022 for Beginners](https://coursemetry.com/video-editing-with-adobe-premiere-pro-cc-2022-for-beginners/)
+
+* [AZ-220: Microsoft Azure IoT Developer Practice Test](https://coursemetry.com/az-220-microsoft-azure-iot-developer-practice-test/)
+
+* [Complete Course on Blockchain and Cryptocurrency](https://coursemetry.com/complete-course-on-blockchain-and-cryptocurrency/)
+
+* [Color Grading and Video Editing with Davinci Resolve 17](https://coursemetry.com/color-grading-and-video-editing-with-davinci-resolve-17/)
+
+* [Internal Combustion Engine Emissions & Control](https://coursemetry.com/internal-combustion-engine-emissions-control/)
+
+* [Excel Analytics: Linear Regression Analysis in MS Excel](https://coursemetry.com/excel-analytics-linear-regression-analysis-in-ms-excel/)
+
+* [150+ Questions - Job Interview - C Developer](https://coursemetry.com/150-questions-job-interview-c-developer/)
+
+* [Startup Fundraising Master course - Raise Venture Capital](https://coursemetry.com/startup-fundraising-master-course-raise-venture-capital/)
+
+* [QuickBooks Desktop Not for Profit Organizations](https://coursemetry.com/quickbooks-desktop-not-for-profit-organizations/)
+
+* [Video Editing with Avid Media Composer First for Beginners](https://coursemetry.com/video-editing-with-avid-media-composer-first-for-beginners/)
+
+* [Python for Beginners - हिंदी में सीखें Python Programming](https://coursemetry.com/python-for-beginners-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-python-programming/)
+
+* [The Complete Digital Marketing Strategy For 2022](https://coursemetry.com/the-complete-digital-marketing-strategy-for-2022/)
+
+* [Power BI Interview Questions and Answers](https://coursemetry.com/power-bi-interview-questions-and-answers/)
+
+* [Microsoft Excel Masterclass for Business Managers](https://coursemetry.com/microsoft-excel-masterclass-for-business-managers/)
+
+* [Learn Basics Of Adobe After Effects CC 2022 for Beginners](https://coursemetry.com/learn-basics-of-adobe-after-effects-cc-2022-for-beginners/)
+
+* [Certification in Sustainable Material Management - 2022](https://coursemetry.com/certification-in-sustainable-material-management-2022/)
+
+* [Complete Machine Learning with R Studio - ML for 2022](https://coursemetry.com/complete-machine-learning-with-r-studio-ml-for-2022/)
+
+* [Money In Excel - Income Tax Sch. C & Personal Financials](https://coursemetry.com/money-in-excel-income-tax-sch-c-personal-financials/)
+
+* [AZ-304: Microsoft Azure Architect Design Practice Exam](https://coursemetry.com/az-304-microsoft-azure-architect-design-practice-exam/)
+
+* [Time Management for Personal & Professional Productivity](https://coursemetry.com/time-management-for-personal-professional-productivity/)
+
+* [Google BigQuery & PostgreSQL : Big Query for Data Analysis](https://coursemetry.com/google-bigquery-postgresql-big-query-for-data-analysis/)
+
+* [The Zen Methodology Secrets To Habit Formation](https://coursemetry.com/the-zen-methodology-secrets-to-habit-formation/)
+
+* [MBA: Supply Chain and Operation management](https://coursemetry.com/mba-supply-chain-and-operation-management/)
+
+* [Learn Basics of Adobe Photoshop CC 2022 for Beginners](https://coursemetry.com/learn-basics-of-adobe-photoshop-cc-2022-for-beginners/)
+
+* [Linear Regression and Logistic Regression in Python](https://coursemetry.com/linear-regression-and-logistic-regression-in-python/)
+
+* [Complete Metaverse Course: Everything about AR, VR, and NFTs](https://coursemetry.com/complete-metaverse-course-everything-about-ar-vr-and-nfts/)
+
+* [Awesome Startup Pitch deck: Raise Capital (20+ Templates)](https://coursemetry.com/awesome-startup-pitch-deck-raise-capital-20-templates/)
+
+* [Not-for-Profit Accounting-Charities, Colleges, & Health Care](https://coursemetry.com/not-for-profit-accounting-charities-colleges-health-care/)
+
+* [Advanced Financial Accounting](https://coursemetry.com/advanced-financial-accounting/)
+
+* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
+
+* [Internal Combustion Engines | ICE-2022 |](https://coursemetry.com/internal-combustion-engines-ice-2022/)
+
+* [Color Correction & Grading with Adobe Premiere Pro 2022](https://coursemetry.com/color-correction-grading-with-adobe-premiere-pro-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
