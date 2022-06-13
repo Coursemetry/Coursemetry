@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **19 Udemy free courses published on 2022-06-13**
+## **25 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -41,6 +41,18 @@
 * [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
 
 * [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
+
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
+
+* [general mycology a brief review](https://coursemetry.com/general-mycology-a-brief-review/)
+
+* [Excel Accounting 6–Adjusting Entries & Financial Statements](https://coursemetry.com/excel-accounting-6-adjusting-entries-financial-statements/)
+
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+
+* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
+
+* [Excel Accounting 1–Transactions for Common Data Input Forms](https://coursemetry.com/excel-accounting-1-transactions-for-common-data-input-forms/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
