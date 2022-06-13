@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **103 Udemy free courses published on 2022-06-13**
+## **117 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -209,6 +209,34 @@
 * [How to use Google drive, Onedrive, Dropbox and Mega](https://coursemetry.com/how-to-use-google-drive-onedrive-dropbox-and-mega/)
 
 * [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Video Production - Inexpensive Talking Head Video - Business](https://coursemetry.com/video-production-inexpensive-talking-head-video-business/)
+
+* [The Complete Facebook Traffic Ads (Facebook CPC) Course 2022](https://coursemetry.com/the-complete-facebook-traffic-ads-facebook-cpc-course-2022/)
+
+* [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun](https://coursemetry.com/seo-training-for-beginners-learn-seo-local-seo-fast-fun/)
+
+* [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
+
+* [Journalism -TV Reporters, News Anchors Look Great on TV](https://coursemetry.com/journalism-tv-reporters-news-anchors-look-great-on-tv/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Public Speaking: Eliminate Verbal Tics, Uh, Um, Er, Ya Know](https://coursemetry.com/public-speaking-eliminate-verbal-tics-uh-um-er-ya-know/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [Persuasion in Business Communications](https://coursemetry.com/persuasion-in-business-communications/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
