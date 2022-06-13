@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published on 2022-06-13**
+## **103 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -207,6 +207,8 @@
 * [Complete Course on the Fundamentals of Fluid Mechanics|2022|](https://coursemetry.com/complete-course-on-the-fundamentals-of-fluid-mechanics2022/)
 
 * [How to use Google drive, Onedrive, Dropbox and Mega](https://coursemetry.com/how-to-use-google-drive-onedrive-dropbox-and-mega/)
+
+* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
