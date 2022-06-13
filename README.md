@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **152 Udemy free courses published on 2022-06-13**
+## **159 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -307,6 +307,20 @@
 * [Personal Branding System: UNIQUE Secret for YOUR Success](https://coursemetry.com/personal-branding-system-unique-secret-for-your-success/)
 
 * [Leading Effective Meetings - You Can Lead Effective Meetings](https://coursemetry.com/leading-effective-meetings-you-can-lead-effective-meetings/)
+
+* [Metaverse: Avatars, NFTs, Artyfact Fi, GAN-Gough & Open GL](https://coursemetry.com/metaverse-avatars-nfts-artyfact-fi-gan-gough-open-gl/)
+
+* [Cinema 4d from Scratch in Urdu](https://coursemetry.com/cinema-4d-from-scratch-in-urdu/)
+
+* [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
+
+* [Adobe AfterEffects from Scratch in Urdu](https://coursemetry.com/adobe-aftereffects-from-scratch-in-urdu/)
+
+* [Adobe Premiere Pro Basic till Advance](https://coursemetry.com/adobe-premiere-pro-basic-till-advance/)
+
+* [Flutter Advanced Course - Clean Architecture With MVVM](https://coursemetry.com/flutter-advanced-course-clean-architecture-with-mvvm/)
+
+* [Openrocket | Roket Yarışmaları için Tasarım & Analiz Rehberi](https://coursemetry.com/openrocket-roket-yarismalari-icin-tasarim-analiz-rehberi/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
