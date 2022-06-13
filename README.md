@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **15 Udemy free courses published on 2022-06-13**
+## **19 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -33,6 +33,14 @@
 * [Bitcoin For Beginners: How To Earn Bitcoin Online For Free](https://coursemetry.com/bitcoin-for-beginners-how-to-earn-bitcoin-online-for-free/)
 
 * [Carbon Offsets and Climate Change Mitigation](https://coursemetry.com/carbon-offsets-and-climate-change-mitigation/)
+
+* [Jira agile project management+jira administration+jira agile](https://coursemetry.com/jira-agile-project-managementjira-administrationjira-agile/)
+
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
