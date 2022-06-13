@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **159 Udemy free courses published on 2022-06-13**
+## **163 Udemy free courses published on 2022-06-13**
 
 * [Estatística I (para leigos): aprenda fácil e rápido!](https://coursemetry.com/estatistica-i-para-leigos-aprenda-facil-e-rapido/)
 
@@ -321,6 +321,14 @@
 * [Flutter Advanced Course - Clean Architecture With MVVM](https://coursemetry.com/flutter-advanced-course-clean-architecture-with-mvvm/)
 
 * [Openrocket | Roket Yarışmaları için Tasarım & Analiz Rehberi](https://coursemetry.com/openrocket-roket-yarismalari-icin-tasarim-analiz-rehberi/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [Become a WordPress Developer- Make your Own Business Website](https://coursemetry.com/become-a-wordpress-developer-make-your-own-business-website/)
+
+* [Start Online Business with Affiliate Marketing](https://coursemetry.com/start-online-business-with-affiliate-marketing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
