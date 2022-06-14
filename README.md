@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published on 2022-06-14**
+## **97 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -195,6 +195,8 @@
 * [Flutter 1.2 with Firebase&Stripe Build shop app from scratch](https://coursemetry.com/flutter-1-2-with-firebasestripe-build-shop-app-from-scratch/)
 
 * [Crash Course: Project Management Fundamentals [Earn 6 PDUs]](https://coursemetry.com/crash-course-project-management-fundamentals-earn-6-pdus/)
+
+* [Supervised Learning for AI with Python and Tensorflow 2](https://coursemetry.com/supervised-learning-for-ai-with-python-and-tensorflow-2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
