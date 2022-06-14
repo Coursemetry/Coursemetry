@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **81 Udemy free courses published on 2022-06-14**
+## **88 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -165,6 +165,20 @@
 * [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
 
 * [Become A Certified Java Developer: Java Practice Tests](https://coursemetry.com/become-a-certified-java-developer-java-practice-tests/)
+
+* [Wordpress Web Development for Absolute Beginner Zero to Hero](https://coursemetry.com/wordpress-web-development-for-absolute-beginner-zero-to-hero/)
+
+* [Stock Trading: A to Z Technical Analysis Course+ STRATEGIES](https://coursemetry.com/stock-trading-a-to-z-technical-analysis-course-strategies/)
+
+* [LeetCode in Python: Algorithms Coding Interview Questions](https://coursemetry.com/leetcode-in-python-algorithms-coding-interview-questions/)
+
+* [Emotionale Intelligenz (EQ): Meistere Deine Emotionen](https://coursemetry.com/emotionale-intelligenz-eq-meistere-deine-emotionen/)
+
+* [Master Git in Arabic](https://coursemetry.com/master-git-in-arabic/)
+
+* [CPanel Mastery A Comprehensive and Complete CPanel Training](https://coursemetry.com/cpanel-mastery-a-comprehensive-and-complete-cpanel-training/)
+
+* [AZ-304: Microsoft Azure Architect Design Practice Questions](https://coursemetry.com/az-304-microsoft-azure-architect-design-practice-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
