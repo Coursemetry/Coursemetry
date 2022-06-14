@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published on 2022-06-14**
+## **123 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -225,6 +225,30 @@
 * [Ultimate Ethical Hacking and Penetration Testing (UEH)](https://coursemetry.com/ultimate-ethical-hacking-and-penetration-testing-ueh/)
 
 * [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
+
+* [SAP PM Plant Maintenance and FICO Asset integration SAP EAM](https://coursemetry.com/sap-pm-plant-maintenance-and-fico-asset-integration-sap-eam/)
+
+* [AI for finance](https://coursemetry.com/ai-for-finance/)
+
+* [python for finance-machine learning and algorithmic trading](https://coursemetry.com/python-for-finance-machine-learning-and-algorithmic-trading/)
+
+* [Numpy,pandas and data visualisation using python](https://coursemetry.com/numpypandas-and-data-visualisation-using-python/)
+
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
+
+* [English Speaking in Hindi- English Communication skills 2022](https://coursemetry.com/english-speaking-in-hindi-english-communication-skills-2022/)
+
+* [The Easy Way to Speak English For Beginners](https://coursemetry.com/the-easy-way-to-speak-english-for-beginners/)
+
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
+
+* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
