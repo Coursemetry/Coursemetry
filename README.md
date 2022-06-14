@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published on 2022-06-14**
+## **81 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -105,6 +105,66 @@
 * [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
 
 * [Web Design for Beginners: Build Websites in HTML & CSS 2022](https://coursemetry.com/web-design-for-beginners-build-websites-in-html-css-2022/)
+
+* [Fiverr Business Mastery 2022](https://coursemetry.com/fiverr-business-mastery-2022/)
+
+* [AZ-500: Microsoft Azure Security Technologies  Exam-2022](https://coursemetry.com/az-500-microsoft-azure-security-technologies-exam-2022/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [Laser Focus Mastery 2022](https://coursemetry.com/laser-focus-mastery-2022/)
+
+* [AWS Certified Advanced Networking - Specialty Practice Test](https://coursemetry.com/aws-certified-advanced-networking-specialty-practice-test/)
+
+* [C++ Programming: Practice Tests Beginner To Advanced Level](https://coursemetry.com/c-programming-practice-tests-beginner-to-advanced-level/)
+
+* [Freelancing Mastery 2022](https://coursemetry.com/freelancing-mastery-2022/)
+
+* [Referral Marketing Mastery 2022](https://coursemetry.com/referral-marketing-mastery-2022/)
+
+* [Guaranteed weight loss and Fitness with lifestyle changes](https://coursemetry.com/guaranteed-weight-loss-and-fitness-with-lifestyle-changes/)
+
+* [Creative Infographics in PowerPoint](https://coursemetry.com/creative-infographics-in-powerpoint/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [Become A Certified JS Developer: JavaScript Practice Tests](https://coursemetry.com/become-a-certified-js-developer-javascript-practice-tests/)
+
+* [HTML Certification, Practice Test For Exams & Interviews](https://coursemetry.com/html-certification-practice-test-for-exams-interviews/)
+
+* [Bitcoin Mastery 2022](https://coursemetry.com/bitcoin-mastery-2022/)
+
+* [Blockchain Mastery 2022](https://coursemetry.com/blockchain-mastery-2022/)
+
+* [Complete Procreate Megacourse: Beginner to Expert](https://coursemetry.com/complete-procreate-megacourse-beginner-to-expert/)
+
+* [Entrepreneurial Ideas Mastery 2022](https://coursemetry.com/entrepreneurial-ideas-mastery-2022/)
+
+* [VLSI Design](https://coursemetry.com/vlsi-design/)
+
+* [Online Traffic Mastery 2022](https://coursemetry.com/online-traffic-mastery-2022/)
+
+* [Affiliate Networking Mastery 2022](https://coursemetry.com/affiliate-networking-mastery-2022/)
+
+* [Microsoft Office: Word, Excel, PowerPoint  من الصفر للاحتراف](https://coursemetry.com/microsoft-office-word-excel-powerpoint-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
+
+* [Facebook Messenger Mastery 2022](https://coursemetry.com/facebook-messenger-mastery-2022/)
+
+* [AWS Certified Cloud Practitioner Practice Exam](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exam/)
+
+* [Ecommerce Mastery 2022](https://coursemetry.com/ecommerce-mastery-2022/)
+
+* [Become A Certified Python Programmer: Python Practice Tests](https://coursemetry.com/become-a-certified-python-programmer-python-practice-tests/)
+
+* [R Programming: Aprende a programar en R desde cero](https://coursemetry.com/r-programming-aprende-a-programar-en-r-desde-cero/)
+
+* [Patreon Membership Mastery 2022 | Full Blueprint from 0 to 1](https://coursemetry.com/patreon-membership-mastery-2022-full-blueprint-from-0-to-1/)
+
+* [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
+
+* [Become A Certified Java Developer: Java Practice Tests](https://coursemetry.com/become-a-certified-java-developer-java-practice-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
