@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published on 2022-06-14**
+## **111 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -203,6 +203,28 @@
 * [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
 
 * [JavaScript for Beginners - The Complete introduction to JS](https://coursemetry.com/javascript-for-beginners-the-complete-introduction-to-js/)
+
+* [Practice  Microsoft Azure DP-203 Data Engineering -2022](https://coursemetry.com/practice-microsoft-azure-dp-203-data-engineering-2022/)
+
+* [Power BI: Dashboards Financieros y Análisis Exploratorio](https://coursemetry.com/power-bi-dashboards-financieros-y-analisis-exploratorio/)
+
+* [AZ-900: Microsoft Azure Fundamentals Latest Practice Exam](https://coursemetry.com/az-900-microsoft-azure-fundamentals-latest-practice-exam/)
+
+* [DA-100 Analyzing Data with Microsoft Power BI](https://coursemetry.com/da-100-analyzing-data-with-microsoft-power-bi/)
+
+* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
+
+* [Python for Data Science and Machine Learning](https://coursemetry.com/python-for-data-science-and-machine-learning/)
+
+* [Stop Panic Attacks Today with EFT](https://coursemetry.com/stop-panic-attacks-today-with-eft/)
+
+* [Exams-Google Associate Cloud Engineer - GCP ACE -2022](https://coursemetry.com/exams-google-associate-cloud-engineer-gcp-ace-2022/)
+
+* [Profitable Forex Candlestick Trading Strategy - Forex Trader](https://coursemetry.com/profitable-forex-candlestick-trading-strategy-forex-trader/)
+
+* [Ultimate Ethical Hacking and Penetration Testing (UEH)](https://coursemetry.com/ultimate-ethical-hacking-and-penetration-testing-ueh/)
+
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
