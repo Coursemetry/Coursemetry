@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published on 2022-06-14**
+## **51 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -103,6 +103,8 @@
 * [Control Systems Engineering from Scratch](https://coursemetry.com/control-systems-engineering-from-scratch/)
 
 * [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Web Design for Beginners: Build Websites in HTML & CSS 2022](https://coursemetry.com/web-design-for-beginners-build-websites-in-html-css-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
