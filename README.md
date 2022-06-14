@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **123 Udemy free courses published on 2022-06-14**
+## **124 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -249,6 +249,8 @@
 * [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
 
 * [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+
+* [Operating System Fundamentals : for Beginners](https://coursemetry.com/operating-system-fundamentals-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
