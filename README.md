@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published on 2022-06-14**
+## **96 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -179,6 +179,22 @@
 * [CPanel Mastery A Comprehensive and Complete CPanel Training](https://coursemetry.com/cpanel-mastery-a-comprehensive-and-complete-cpanel-training/)
 
 * [AZ-304: Microsoft Azure Architect Design Practice Questions](https://coursemetry.com/az-304-microsoft-azure-architect-design-practice-questions/)
+
+* [AWS Certified Developer - Associate Latest Practice Question](https://coursemetry.com/aws-certified-developer-associate-latest-practice-question/)
+
+* [Ethical Hacker v10 Practice Questions](https://coursemetry.com/ethical-hacker-v10-practice-questions-2/)
+
+* [AZ-220: Microsoft Azure IoT Developer Practice Questions](https://coursemetry.com/az-220-microsoft-azure-iot-developer-practice-questions/)
+
+* [CompTIA Cybersecurity Analyst (CySA+) Practice Exam](https://coursemetry.com/comptia-cybersecurity-analyst-cysa-practice-exam/)
+
+* [Google Certified Associate Cloud Engineer Practice Questions](https://coursemetry.com/google-certified-associate-cloud-engineer-practice-questions/)
+
+* [Master Time Management and Productivity (Bonus Free eBook)](https://coursemetry.com/master-time-management-and-productivity-bonus-free-ebook/)
+
+* [Flutter 1.2 with Firebase&Stripe Build shop app from scratch](https://coursemetry.com/flutter-1-2-with-firebasestripe-build-shop-app-from-scratch/)
+
+* [Crash Course: Project Management Fundamentals [Earn 6 PDUs]](https://coursemetry.com/crash-course-project-management-fundamentals-earn-6-pdus/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
