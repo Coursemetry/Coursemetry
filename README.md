@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **39 Udemy free courses published on 2022-06-14**
+## **50 Udemy free courses published on 2022-06-14**
 
 * [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
 
@@ -81,6 +81,28 @@
 * [Simulador Examen PMI Agile Certified Practitioner (PMI-ACP)](https://coursemetry.com/simulador-examen-pmi-agile-certified-practitioner-pmi-acp-2/)
 
 * [Sıfırdan V6 Otomobil Motoru Montajı & Uygulamalar | Catia-NX](https://coursemetry.com/sifirdan-v6-otomobil-motoru-montaji-uygulamalar-catia-nx/)
+
+* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [تعلم تصميم وتطوير مواقع الويب باحترافية](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d8%a8%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Meditations with OM (AUM) - Accredited course](https://coursemetry.com/meditations-with-om-aum-accredited-course/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [MOSFET Crash Course](https://coursemetry.com/mosfet-crash-course/)
+
+* [Painting In Ink On Paper By International Artist](https://coursemetry.com/painting-in-ink-on-paper-by-international-artist/)
+
+* [Building Android Widgets from Scratch ( Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [Control Systems Engineering from Scratch](https://coursemetry.com/control-systems-engineering-from-scratch/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
