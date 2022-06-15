@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **44 Udemy free courses published on 2022-06-15**
+## **54 Udemy free courses published on 2022-06-15**
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
@@ -91,6 +91,26 @@
 * [Apache Spark with Scala useful for Databricks Certification](https://coursemetry.com/apache-spark-with-scala-useful-for-databricks-certification/)
 
 * [Complete Adobe Lightroom Megacourse: Beginner to Expert](https://coursemetry.com/complete-adobe-lightroom-megacourse-beginner-to-expert/)
+
+* [Hello Python & Data Science: Exploratory Data Analysis (EDA)](https://coursemetry.com/hello-python-data-science-exploratory-data-analysis-eda/)
+
+* [Python Coding](https://coursemetry.com/python-coding/)
+
+* [Python Crash Course: Learn Python Concepts Easy & Fast Way.](https://coursemetry.com/python-crash-course-learn-python-concepts-easy-fast-way/)
+
+* [Getting Started with AWS Lambda Functions using Python](https://coursemetry.com/getting-started-with-aws-lambda-functions-using-python/)
+
+* [python for beginners](https://coursemetry.com/python-for-beginners-2/)
+
+* [The New Sellvia Dropshipping Course 2022](https://coursemetry.com/the-new-sellvia-dropshipping-course-2022/)
+
+* [Beginner VS Code](https://coursemetry.com/beginner-vs-code/)
+
+* [Introduction to Python Programming](https://coursemetry.com/introduction-to-python-programming-2/)
+
+* [Automated Machine Learning for Beginners (Google & Apple)](https://coursemetry.com/automated-machine-learning-for-beginners-google-apple/)
+
+* [Passive Income: 27 Ways to Earn Passive Income Online](https://coursemetry.com/passive-income-27-ways-to-earn-passive-income-online/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
