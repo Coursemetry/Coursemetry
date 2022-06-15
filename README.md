@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published on 2022-06-15**
+## **67 Udemy free courses published on 2022-06-15**
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
@@ -135,6 +135,8 @@
 * [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
 
 * [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [Erstelle einen Krypto Ticker mit Arduino ESP32/ESP8266](https://coursemetry.com/erstelle-einen-krypto-ticker-mit-arduino-esp32-esp8266/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
