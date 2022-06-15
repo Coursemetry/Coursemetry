@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published on 2022-06-15**
+## **66 Udemy free courses published on 2022-06-15**
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
@@ -119,6 +119,22 @@
 * [SC-900 Practice Tests - Security, Compliance, & Identity](https://coursemetry.com/sc-900-practice-tests-security-compliance-identity/)
 
 * [Python for Data Science - NumPy, Pandas & Scikit-Learn](https://coursemetry.com/python-for-data-science-numpy-pandas-scikit-learn/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
+
+* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
+
+* [How To Make Independent Feature Film On A Budget](https://coursemetry.com/how-to-make-independent-feature-film-on-a-budget/)
+
+* [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python-2/)
+
+* [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
