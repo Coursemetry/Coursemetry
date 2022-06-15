@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published on 2022-06-15**
+## **111 Udemy free courses published on 2022-06-15**
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
@@ -223,6 +223,8 @@
 * [PMI Scheduling Professional (PMI-SP) Pro Tests Simulator](https://coursemetry.com/pmi-scheduling-professional-pmi-sp-pro-tests-simulator/)
 
 * [SQL- The Complete Introduction to SQL programming](https://coursemetry.com/sql-the-complete-introduction-to-sql-programming/)
+
+* [SAFe product owner/product manager training tests POPM 2022](https://coursemetry.com/safe-product-owner-product-manager-training-tests-popm-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
