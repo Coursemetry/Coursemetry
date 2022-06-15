@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published on 2022-06-15**
+## **95 Udemy free courses published on 2022-06-15**
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
@@ -175,6 +175,24 @@
 * [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
 
 * [The Complete Happiness Course: Become Happier Now!](https://coursemetry.com/the-complete-happiness-course-become-happier-now/)
+
+* [Experto en Diseño y Construcción en Madera](https://coursemetry.com/experto-en-diseno-y-construccion-en-madera/)
+
+* [Flutter 2.2 & Firebase, build a complete app from scratch](https://coursemetry.com/flutter-2-2-firebase-build-a-complete-app-from-scratch/)
+
+* [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
+
+* [Erfolgreiches Podcasting & Podcast Hosting](https://coursemetry.com/erfolgreiches-podcasting-podcast-hosting/)
+
+* [Flutter 2.2  برنامج كامل للشركات باستعمال الفلاتر و فايربيز](https://coursemetry.com/flutter-2-2-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d9%83%d8%a7%d9%85%d9%84-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a8%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d9%81%d9%84%d8%a7/)
+
+* [Complete Chinese Course: Learn Mandarin for Beginners](https://coursemetry.com/complete-chinese-course-learn-mandarin-for-beginners/)
+
+* [How to Start a Podcast - Podcasting Made Easy](https://coursemetry.com/how-to-start-a-podcast-podcasting-made-easy/)
+
+* [Podcast Audience Growth - Networking with your Guests](https://coursemetry.com/podcast-audience-growth-networking-with-your-guests/)
+
+* [Podcasting Success Strategies: Get Podcast Sponsorships ](https://coursemetry.com/podcasting-success-strategies-get-podcast-sponsorships/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
