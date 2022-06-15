@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published on 2022-06-15**
+## **117 Udemy free courses published on 2022-06-15**
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
@@ -178,8 +178,6 @@
 
 * [Experto en Diseño y Construcción en Madera](https://coursemetry.com/experto-en-diseno-y-construccion-en-madera/)
 
-* [Flutter 2.2 & Firebase, build a complete app from scratch](https://coursemetry.com/flutter-2-2-firebase-build-a-complete-app-from-scratch/)
-
 * [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
 
 * [Erfolgreiches Podcasting & Podcast Hosting](https://coursemetry.com/erfolgreiches-podcasting-podcast-hosting/)
@@ -225,6 +223,20 @@
 * [SQL- The Complete Introduction to SQL programming](https://coursemetry.com/sql-the-complete-introduction-to-sql-programming/)
 
 * [SAFe product owner/product manager training tests POPM 2022](https://coursemetry.com/safe-product-owner-product-manager-training-tests-popm-2022/)
+
+* [Flutter 2.2 & Firebase, build a complete app from scratch](https://coursemetry.com/flutter-2-2-firebase-build-a-complete-app-from-scratch/)
+
+* [Facilitation Skills: Learn The Secrets Of Facilitation](https://coursemetry.com/facilitation-skills-learn-the-secrets-of-facilitation/)
+
+* [Excel Visual Basic für Anfänger](https://coursemetry.com/excel-visual-basic-fur-anfanger/)
+
+* [Fire Up Creativity in Your Child](https://coursemetry.com/fire-up-creativity-in-your-child/)
+
+* [The Ultimate SEMrush Guide 2022](https://coursemetry.com/the-ultimate-semrush-guide-2022/)
+
+* [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
+
+* [Dare to Lead: How to Become a Next Generation Leader](https://coursemetry.com/dare-to-lead-how-to-become-a-next-generation-leader/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
