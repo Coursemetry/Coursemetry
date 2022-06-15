@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published on 2022-06-15**
+## **76 Udemy free courses published on 2022-06-15**
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
@@ -137,6 +137,24 @@
 * [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
 
 * [Erstelle einen Krypto Ticker mit Arduino ESP32/ESP8266](https://coursemetry.com/erstelle-einen-krypto-ticker-mit-arduino-esp32-esp8266/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Webinar Mastery - Sell High Ticket Products!](https://coursemetry.com/webinar-mastery-sell-high-ticket-products/)
+
+* [Project Management: Cost & Schedule Monitoring using EVM](https://coursemetry.com/project-management-cost-schedule-monitoring-using-evm/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [Wordpress Create Your Own Website 2022!](https://coursemetry.com/wordpress-create-your-own-website-2022/)
+
+* [350+ Exercises - Python Programming Mega Pack - OOP - 2022](https://coursemetry.com/350-exercises-python-programming-mega-pack-oop-2022/)
+
+* [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
+
+* [Wordpress For Beginners](https://coursemetry.com/wordpress-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
