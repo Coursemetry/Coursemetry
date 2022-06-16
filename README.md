@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **152 Udemy free courses published on 2022-06-16**
+## **156 Udemy free courses published on 2022-06-16**
 
 * [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
 
@@ -307,6 +307,14 @@
 * [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
 
 * [Project Management Professional [PMP] Practice Tests](https://coursemetry.com/project-management-professional-pmp-practice-tests/)
+
+* [The Complete MongoDB Course 2022](https://coursemetry.com/the-complete-mongodb-course-2022/)
+
+* [Start selling online on Daraz | eCommerce in Pakistan](https://coursemetry.com/start-selling-online-on-daraz-ecommerce-in-pakistan/)
+
+* [Canva Graphics Design Course | Learn and Earn Online](https://coursemetry.com/canva-graphics-design-course-learn-and-earn-online/)
+
+* [Dropshipping with Shopify | Selling Online Worldwide](https://coursemetry.com/dropshipping-with-shopify-selling-online-worldwide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
