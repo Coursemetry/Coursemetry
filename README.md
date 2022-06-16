@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **146 Udemy free courses published on 2022-06-16**
+## **152 Udemy free courses published on 2022-06-16**
 
 * [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
 
@@ -295,6 +295,18 @@
 * [Der große Traffic-Kurs - die Erfolgssammlung !](https://coursemetry.com/der-grose-traffic-kurs-die-erfolgssammlung/)
 
 * [TinyML with Wio Terminal](https://coursemetry.com/tinyml-with-wio-terminal/)
+
+* [The Advanced SQL Course](https://coursemetry.com/the-advanced-sql-course/)
+
+* [Simulate -Java EE 7 Application Developer 1Z0-900](https://coursemetry.com/simulate-java-ee-7-application-developer-1z0-900/)
+
+* [Compreendendo a Psicologia](https://coursemetry.com/compreendendo-a-psicologia/)
+
+* [Beginners Guide to Mastering Self-Advocacy](https://coursemetry.com/beginners-guide-to-mastering-self-advocacy/)
+
+* [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
+
+* [Project Management Professional [PMP] Practice Tests](https://coursemetry.com/project-management-professional-pmp-practice-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
