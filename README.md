@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **25 Udemy free courses published on 2022-06-17**
+## **47 Udemy free courses published on 2022-06-17**
 
 * [Business Networking for Success and Company Growth: Part Two](https://coursemetry.com/business-networking-for-success-and-company-growth-part-two/)
 
@@ -53,6 +53,50 @@
 * [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
 
 * [Crea un sistema cotizador y aprende PHP Javascript y AJAX](https://coursemetry.com/crea-un-sistema-cotizador-y-aprende-php-javascript-y-ajax/)
+
+* [Automatización avanzada de pruebas de software](https://coursemetry.com/automatizacion-avanzada-de-pruebas-de-software/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Product Launch Mastery 2022](https://coursemetry.com/product-launch-mastery-2022/)
+
+* [Low Content Publishing Mastery 2022](https://coursemetry.com/low-content-publishing-mastery-2022/)
+
+* [Facebook Outreach Mastery 2022](https://coursemetry.com/facebook-outreach-mastery-2022/)
+
+* [Conversion Optimization Mastery 2022](https://coursemetry.com/conversion-optimization-mastery-2022/)
+
+* [Oracle Cloud Infrastructure Foundations 2021 Associate](https://coursemetry.com/oracle-cloud-infrastructure-foundations-2021-associate/)
+
+* [Facebook Group Marketing Mastery 2022](https://coursemetry.com/facebook-group-marketing-mastery-2022/)
+
+* [Influencer Marketing Mastery 2022](https://coursemetry.com/influencer-marketing-mastery-2022/)
+
+* [1Z0-1067-21 Oracle OCI 2021 Cloud Operations Associate](https://coursemetry.com/1z0-1067-21-oracle-oci-2021-cloud-operations-associate/)
+
+* [Live Video Marketing Mastery 2022](https://coursemetry.com/live-video-marketing-mastery-2022/)
+
+* [AWS Certified Solutions Architect Associate Exam Questions](https://coursemetry.com/aws-certified-solutions-architect-associate-exam-questions/)
+
+* [Podcasting Mastery 2022](https://coursemetry.com/podcasting-mastery-2022/)
+
+* [Leadership Strategies Mastery 2022](https://coursemetry.com/leadership-strategies-mastery-2022/)
+
+* [Kickstarter Mastery 2022](https://coursemetry.com/kickstarter-mastery-2022/)
+
+* [Pricing Strategies Mastery 2022](https://coursemetry.com/pricing-strategies-mastery-2022/)
+
+* [Printable Business Mastery 2022](https://coursemetry.com/printable-business-mastery-2022/)
+
+* [200+ Questions - Job Interview - C++ Developer](https://coursemetry.com/200-questions-job-interview-c-developer/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Amazon AWS Certified Database - Specialty Exam Practice 2022](https://coursemetry.com/amazon-aws-certified-database-specialty-exam-practice-2022/)
+
+* [Dropshipping Mastery 2022](https://coursemetry.com/dropshipping-mastery-2022/)
+
+* [Recurring Income Mastery 2022](https://coursemetry.com/recurring-income-mastery-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
