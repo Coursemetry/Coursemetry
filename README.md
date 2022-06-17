@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **95 Udemy free courses published on 2022-06-17**
+## **108 Udemy free courses published on 2022-06-17**
 
 * [Business Networking for Success and Company Growth: Part Two](https://coursemetry.com/business-networking-for-success-and-company-growth-part-two/)
 
@@ -193,6 +193,32 @@
 * [Mastering Coding Interviews & Competitions](https://coursemetry.com/mastering-coding-interviews-competitions/)
 
 * [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Fundamentos y Lógica de Programación - Bootcamp 2022](https://coursemetry.com/fundamentos-y-logica-de-programacion-bootcamp-2022/)
+
+* [Product Launch Marketing Plan: Go to Market Marketing Plan](https://coursemetry.com/product-launch-marketing-plan-go-to-market-marketing-plan/)
+
+* [Real Estate Investing: Foreclosures, Flipping Houses Profits](https://coursemetry.com/real-estate-investing-foreclosures-flipping-houses-profits/)
+
+* [Digital Marketing (B2B): Ultimate Digital Marketing Course](https://coursemetry.com/digital-marketing-b2b-ultimate-digital-marketing-course/)
+
+* [Certified Supply Chain Professional (CSCP) PRO Tests](https://coursemetry.com/certified-supply-chain-professional-cscp-pro-tests/)
+
+* [Become a Product Marketing Manager | Product Management MBA](https://coursemetry.com/become-a-product-marketing-manager-product-management-mba/)
+
+* [PMI Scheduling Professional (PMI-SP) Pro Tests Simulator](https://coursemetry.com/pmi-scheduling-professional-pmi-sp-pro-tests-simulator/)
+
+* [Networking for Real Estate Investors For Profits & Funds](https://coursemetry.com/networking-for-real-estate-investors-for-profits-funds/)
+
+* [Learn CSS3 In-Depth - Beginner to Advanced](https://coursemetry.com/learn-css3-in-depth-beginner-to-advanced/)
+
+* [Email Marketing: Cold Email Marketing Writing, Lead Gen 2022](https://coursemetry.com/email-marketing-cold-email-marketing-writing-lead-gen-2022/)
+
+* [Project Management Professional [PMP] Practice Tests](https://coursemetry.com/project-management-professional-pmp-practice-tests/)
+
+* [Mühendisler için CAD/CAM/CAE Programı Rehberi | CAD Kitabı](https://coursemetry.com/muhendisler-icin-cad-cam-cae-programi-rehberi-cad-kitabi/)
+
+* [SAS Base Programming Practical Pro Tests and Answers](https://coursemetry.com/sas-base-programming-practical-pro-tests-and-answers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
