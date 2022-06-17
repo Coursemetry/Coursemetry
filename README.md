@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published on 2022-06-17**
+## **110 Udemy free courses published on 2022-06-17**
 
 * [Business Networking for Success and Company Growth: Part Two](https://coursemetry.com/business-networking-for-success-and-company-growth-part-two/)
 
@@ -219,6 +219,10 @@
 * [Mühendisler için CAD/CAM/CAE Programı Rehberi | CAD Kitabı](https://coursemetry.com/muhendisler-icin-cad-cam-cae-programi-rehberi-cad-kitabi/)
 
 * [SAS Base Programming Practical Pro Tests and Answers](https://coursemetry.com/sas-base-programming-practical-pro-tests-and-answers/)
+
+* [Artificial Intelligence in Web Design + Live Class](https://coursemetry.com/artificial-intelligence-in-web-design-live-class/)
+
+* [Brilliant StartUp - Liderazgo para jóvenes profesionales](https://coursemetry.com/brilliant-startup-liderazgo-para-jovenes-profesionales/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
