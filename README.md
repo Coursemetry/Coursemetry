@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **23 Udemy free courses published on 2022-06-17**
+## **25 Udemy free courses published on 2022-06-17**
 
 * [Business Networking for Success and Company Growth: Part Two](https://coursemetry.com/business-networking-for-success-and-company-growth-part-two/)
 
@@ -49,6 +49,10 @@
 * [TypeScript Basic: Type System, Interfaces, Types, Generics](https://coursemetry.com/typescript-basic-type-system-interfaces-types-generics/)
 
 * [Complete Adobe Photoshop Megacourse: Beginner to Expert](https://coursemetry.com/complete-adobe-photoshop-megacourse-beginner-to-expert/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [Crea un sistema cotizador y aprende PHP Javascript y AJAX](https://coursemetry.com/crea-un-sistema-cotizador-y-aprende-php-javascript-y-ajax/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
