@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published on 2022-06-17**
+## **73 Udemy free courses published on 2022-06-17**
 
 * [Business Networking for Success and Company Growth: Part Two](https://coursemetry.com/business-networking-for-success-and-company-growth-part-two/)
 
@@ -97,6 +97,58 @@
 * [Dropshipping Mastery 2022](https://coursemetry.com/dropshipping-mastery-2022/)
 
 * [Recurring Income Mastery 2022](https://coursemetry.com/recurring-income-mastery-2022/)
+
+* [C Programming: Master C with this Step by Step](https://coursemetry.com/c-programming-master-c-with-this-step-by-step/)
+
+* [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
+
+* [Android App Development using Android Lollipop](https://coursemetry.com/android-app-development-using-android-lollipop/)
+
+* [Artificial Intelligence in Digital Marketing + Live Class](https://coursemetry.com/artificial-intelligence-in-digital-marketing-live-class/)
+
+* [AI Artificial Intelligence with Python](https://coursemetry.com/ai-artificial-intelligence-with-python/)
+
+* [Arduino Object Oriented Programming OOP](https://coursemetry.com/arduino-object-oriented-programming-oop/)
+
+* [C++ Programming for Beginners](https://coursemetry.com/c-programming-for-beginners/)
+
+* [Practice Exam - Amazon AWS Certified Developer Associate](https://coursemetry.com/practice-exam-amazon-aws-certified-developer-associate/)
+
+* [Artificial Intelligence Expert Course + Live Class](https://coursemetry.com/artificial-intelligence-expert-course-live-class/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [Car Repair | Automotive Electrician and Mechanic Training |](https://coursemetry.com/car-repair-automotive-electrician-and-mechanic-training/)
+
+* [[2022] Cyber Security Guidelines for Organizational Users](https://coursemetry.com/2022-cyber-security-guidelines-for-organizational-users/)
+
+* [Practice Exam - AZ-900 : Microsoft Azure Original](https://coursemetry.com/practice-exam-az-900-microsoft-azure-original/)
+
+* [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [Java Network Programming - Mastering TCP/IP | CJNP+ 2022](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022/)
+
+* [The Best Acrylic Paint Pouring & Fluid Art Training Course](https://coursemetry.com/the-best-acrylic-paint-pouring-fluid-art-training-course/)
+
+* [Kotlin Android Training - Mastering Android App Development](https://coursemetry.com/kotlin-android-training-mastering-android-app-development/)
+
+* [Practice Exam  - AWS certified data analytics](https://coursemetry.com/practice-exam-aws-certified-data-analytics/)
+
+* [Unstoppable Self Confidence - Your Key to Success!](https://coursemetry.com/unstoppable-self-confidence-your-key-to-success/)
+
+* [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
+
+* [Practice Test - AWS Certified Security Specialty 2022](https://coursemetry.com/practice-test-aws-certified-security-specialty-2022/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
+
+* [Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://coursemetry.com/cryptocurrency-trading-for-beginners-learn-click-by-click/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
