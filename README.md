@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **85 Udemy free courses published on 2022-06-17**
+## **95 Udemy free courses published on 2022-06-17**
 
 * [Business Networking for Success and Company Growth: Part Two](https://coursemetry.com/business-networking-for-success-and-company-growth-part-two/)
 
@@ -173,6 +173,26 @@
 * [380+ Exercises - Python Programming Mega Pack - Built-in](https://coursemetry.com/380-exercises-python-programming-mega-pack-built-in/)
 
 * [Operating System: Understanding the core](https://coursemetry.com/operating-system-understanding-the-core/)
+
+* [Python for Trading and Finance](https://coursemetry.com/python-for-trading-and-finance/)
+
+* [The Ultimate Short Cut To Becoming An Indie Filmmaker Course](https://coursemetry.com/the-ultimate-short-cut-to-becoming-an-indie-filmmaker-course/)
+
+* [Basic Arabic Grammar](https://coursemetry.com/basic-arabic-grammar/)
+
+* [Learn Mindreading and Mentalism in 3 days](https://coursemetry.com/learn-mindreading-and-mentalism-in-3-days/)
+
+* [Python for Beginners (2022)](https://coursemetry.com/python-for-beginners-2022/)
+
+* [Soundwave Healing | Solfeggio Frequency Certificate Course](https://coursemetry.com/soundwave-healing-solfeggio-frequency-certificate-course/)
+
+* [TikTok Marketing Mastery 2022](https://coursemetry.com/tiktok-marketing-mastery-2022/)
+
+* [Curso WordPress 2022:  Cómo Crear una Página Web Desde Cero](https://coursemetry.com/curso-wordpress-2022-como-crear-una-pagina-web-desde-cero/)
+
+* [Mastering Coding Interviews & Competitions](https://coursemetry.com/mastering-coding-interviews-competitions/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
