@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published on 2022-06-18**
+## **71 Udemy free courses published on 2022-06-18**
 
 * [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
 
@@ -141,6 +141,10 @@
 * [CSS - Basics To Advanced for front end development (2021)](https://coursemetry.com/css-basics-to-advanced-for-front-end-development-2021/)
 
 * [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
+
+* [Introduction to Spacy 3 for Natural Language Processing](https://coursemetry.com/introduction-to-spacy-3-for-natural-language-processing/)
+
+* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
