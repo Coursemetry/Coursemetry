@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **56 Udemy free courses published on 2022-06-18**
+## **57 Udemy free courses published on 2022-06-18**
 
 * [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
 
@@ -115,6 +115,8 @@
 * [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
 
 * [HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour](https://coursemetry.com/html5-fundamentals-course-learn-html-basics-in-1-hour/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
