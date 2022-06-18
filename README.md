@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published on 2022-06-18**
+## **81 Udemy free courses published on 2022-06-18**
 
 * [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
 
@@ -151,6 +151,20 @@
 * [Complete Unreal Engine Megacourse: Beginner to Expert](https://coursemetry.com/complete-unreal-engine-megacourse-beginner-to-expert/)
 
 * [MERN Stack with Blog Project](https://coursemetry.com/mern-stack-with-blog-project/)
+
+* [Apache Solr Training for Beginners](https://coursemetry.com/apache-solr-training-for-beginners/)
+
+* [Develop Android App with Android Marshmallow](https://coursemetry.com/develop-android-app-with-android-marshmallow/)
+
+* [AWS Certified Cloud Practitioner – 2022](https://coursemetry.com/aws-certified-cloud-practitioner-2022/)
+
+* [Develop Android App with Android Nougat](https://coursemetry.com/develop-android-app-with-android-nougat/)
+
+* [Mastering Apache Cassandra Developer and Admin](https://coursemetry.com/mastering-apache-cassandra-developer-and-admin/)
+
+* [Apache Web Server Training Hands-on](https://coursemetry.com/apache-web-server-training-hands-on/)
+
+* [Apache Pig Training - Tame the Big Data](https://coursemetry.com/apache-pig-training-tame-the-big-data/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
