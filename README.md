@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **81 Udemy free courses published on 2022-06-18**
+## **82 Udemy free courses published on 2022-06-18**
 
 * [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
 
@@ -77,94 +77,6 @@
 * [Passions of the soul. Resurrection](https://coursemetry.com/passions-of-the-soul-resurrection/)
 
 * [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
-
-* [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
-
-* [2022 Spring Professional Certification Test  VMware EDU-1202](https://coursemetry.com/2022-spring-professional-certification-test-vmware-edu-1202/)
-
-* [Malware Analysis & Incident Response for IT Technicians](https://coursemetry.com/malware-analysis-incident-response-for-it-technicians/)
-
-* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
-
-* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
-
-* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
-
-* [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
-
-* [The Complete Talking Head Video Production Masterclass](https://coursemetry.com/the-complete-talking-head-video-production-masterclass/)
-
-* [SEO & Copywriting Course as Project & Fun: 45 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-45-days-challenge/)
-
-* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
-
-* [Leading Effective Meetings - You Can Lead Effective Meetings](https://coursemetry.com/leading-effective-meetings-you-can-lead-effective-meetings/)
-
-* [The Complete Personal Productivity Course - Business & Life](https://coursemetry.com/the-complete-personal-productivity-course-business-life/)
-
-* [Microsoft Access Training - Practice to Perfect Skills](https://coursemetry.com/microsoft-access-training-practice-to-perfect-skills/)
-
-* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
-
-* [Facebook Page & Facebook Ads Made as Fun: 11 Days Challenge](https://coursemetry.com/facebook-page-facebook-ads-made-as-fun-11-days-challenge/)
-
-* [Komplett NFT-Kurs: Werden Sie ein NFT-Ersteller und-Investor](https://coursemetry.com/komplett-nft-kurs-werden-sie-ein-nft-ersteller-und-investor/)
-
-* [Medical Device Regulations](https://coursemetry.com/medical-device-regulations/)
-
-* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
-
-* [HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour](https://coursemetry.com/html5-fundamentals-course-learn-html-basics-in-1-hour/)
-
-* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
-
-* [Learn to drive a car: real world driving & exam preparation](https://coursemetry.com/learn-to-drive-a-car-real-world-driving-exam-preparation/)
-
-* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
-
-* [The Obvious Secrets To Success No One Knows](https://coursemetry.com/the-obvious-secrets-to-success-no-one-knows/)
-
-* [The Complete ReactJs Course - Basics to Advanced (2021)](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2021/)
-
-* [Marketing Psychology, Emotional Intelligence, Neuromarketing](https://coursemetry.com/marketing-psychology-emotional-intelligence-neuromarketing/)
-
-* [HTML5 - From Basics to Advanced level (2021)](https://coursemetry.com/html5-from-basics-to-advanced-level-2021/)
-
-* [Modern JavaScript for React JS - ES6.](https://coursemetry.com/modern-javascript-for-react-js-es6/)
-
-* [Effective Time Management Skills For A Productivity Boost](https://coursemetry.com/effective-time-management-skills-for-a-productivity-boost/)
-
-* [JavaScript - Basics to Advanced [step by step (2021)]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2021/)
-
-* [Assertiveness Training & Assertive Communication Improvement](https://coursemetry.com/assertiveness-training-assertive-communication-improvement/)
-
-* [CSS - Basics To Advanced for front end development (2021)](https://coursemetry.com/css-basics-to-advanced-for-front-end-development-2021/)
-
-* [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
-
-* [Introduction to Spacy 3 for Natural Language Processing](https://coursemetry.com/introduction-to-spacy-3-for-natural-language-processing/)
-
-* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
-
-* [Make Money From Home: 12 EASY Options to Make Money Now](https://coursemetry.com/make-money-from-home-12-easy-options-to-make-money-now/)
-
-* [Complete Unreal Engine Megacourse: Beginner to Expert](https://coursemetry.com/complete-unreal-engine-megacourse-beginner-to-expert/)
-
-* [MERN Stack with Blog Project](https://coursemetry.com/mern-stack-with-blog-project/)
-
-* [Apache Solr Training for Beginners](https://coursemetry.com/apache-solr-training-for-beginners/)
-
-* [Develop Android App with Android Marshmallow](https://coursemetry.com/develop-android-app-with-android-marshmallow/)
-
-* [AWS Certified Cloud Practitioner – 2022](https://coursemetry.com/aws-certified-cloud-practitioner-2022/)
-
-* [Develop Android App with Android Nougat](https://coursemetry.com/develop-android-app-with-android-nougat/)
-
-* [Mastering Apache Cassandra Developer and Admin](https://coursemetry.com/mastering-apache-cassandra-developer-and-admin/)
-
-* [Apache Web Server Training Hands-on](https://coursemetry.com/apache-web-server-training-hands-on/)
-
-* [Apache Pig Training - Tame the Big Data](https://coursemetry.com/apache-pig-training-tame-the-big-data/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
