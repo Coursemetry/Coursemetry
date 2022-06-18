@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published on 2022-06-18**
+## **56 Udemy free courses published on 2022-06-18**
 
 * [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
 
@@ -75,6 +75,46 @@
 * [Agiles Projektmanagement - Erfolg mit dem richtigen Mindset](https://coursemetry.com/agiles-projektmanagement-erfolg-mit-dem-richtigen-mindset/)
 
 * [Passions of the soul. Resurrection](https://coursemetry.com/passions-of-the-soul-resurrection/)
+
+* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
+
+* [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
+
+* [2022 Spring Professional Certification Test  VMware EDU-1202](https://coursemetry.com/2022-spring-professional-certification-test-vmware-edu-1202/)
+
+* [Malware Analysis & Incident Response for IT Technicians](https://coursemetry.com/malware-analysis-incident-response-for-it-technicians/)
+
+* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
+
+* [The Complete Talking Head Video Production Masterclass](https://coursemetry.com/the-complete-talking-head-video-production-masterclass/)
+
+* [SEO & Copywriting Course as Project & Fun: 45 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-45-days-challenge/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Leading Effective Meetings - You Can Lead Effective Meetings](https://coursemetry.com/leading-effective-meetings-you-can-lead-effective-meetings/)
+
+* [The Complete Personal Productivity Course - Business & Life](https://coursemetry.com/the-complete-personal-productivity-course-business-life/)
+
+* [Microsoft Access Training - Practice to Perfect Skills](https://coursemetry.com/microsoft-access-training-practice-to-perfect-skills/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Facebook Page & Facebook Ads Made as Fun: 11 Days Challenge](https://coursemetry.com/facebook-page-facebook-ads-made-as-fun-11-days-challenge/)
+
+* [Komplett NFT-Kurs: Werden Sie ein NFT-Ersteller und-Investor](https://coursemetry.com/komplett-nft-kurs-werden-sie-ein-nft-ersteller-und-investor/)
+
+* [Medical Device Regulations](https://coursemetry.com/medical-device-regulations/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour](https://coursemetry.com/html5-fundamentals-course-learn-html-basics-in-1-hour/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
