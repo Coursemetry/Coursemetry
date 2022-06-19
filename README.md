@@ -2,81 +2,45 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **82 Udemy free courses published on 2022-06-18**
+## **19 Udemy free courses published on 2022-06-19**
 
-* [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
+* [Microsoft Excel in Hindi - हिंदी में सीखें MS Excel A-Z](https://coursemetry.com/microsoft-excel-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-ms-excel-a-z/)
 
-* [The Complete Focus Mastery Course - Brain Concentration](https://coursemetry.com/the-complete-focus-mastery-course-brain-concentration/)
+* [Excel Analytics: Linear Regression Analysis in MS Excel](https://coursemetry.com/excel-analytics-linear-regression-analysis-in-ms-excel/)
 
-* [Python for Beginners - हिंदी में सीखें Python Programming](https://coursemetry.com/python-for-beginners-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-python-programming/)
+* [Kanban Metrics for Agile teams: Measure & Improve Flow](https://coursemetry.com/kanban-metrics-for-agile-teams-measure-improve-flow/)
 
-* [TikTok Bootcamp: Strategy, Video Editing, Getting Followers](https://coursemetry.com/tiktok-bootcamp-strategy-video-editing-getting-followers/)
+* [1Z0-1093-21 Oracle Cloud Database Services Specialist](https://coursemetry.com/1z0-1093-21-oracle-cloud-database-services-specialist/)
 
-* [Marketing Analytics: Customer Value and Promotion Strategy](https://coursemetry.com/marketing-analytics-customer-value-and-promotion-strategy/)
+* [Climate Change explained: Causes, consequences and solutions](https://coursemetry.com/climate-change-explained-causes-consequences-and-solutions/)
 
-* [Image Recognition for Beginners using CNN in R Studio](https://coursemetry.com/image-recognition-for-beginners-using-cnn-in-r-studio/)
+* [Neural Networks in Python: Deep Learning for Beginners](https://coursemetry.com/neural-networks-in-python-deep-learning-for-beginners/)
 
-* [The Complete Daily Positive Habits Building Course](https://coursemetry.com/the-complete-daily-positive-habits-building-course/)
+* [Linear Regression and Logistic Regression using R Studio](https://coursemetry.com/linear-regression-and-logistic-regression-using-r-studio/)
 
-* [Killer Lead Magnet To Build your Email List on Steroids](https://coursemetry.com/killer-lead-magnet-to-build-your-email-list-on-steroids/)
+* [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
-* [HTML 5,Python,Flask Framework All In One Complete Course](https://coursemetry.com/html-5pythonflask-framework-all-in-one-complete-course/)
+* [Simulador Practice  Google Associate Cloud Engineer - GCP AC](https://coursemetry.com/simulador-practice-google-associate-cloud-engineer-gcp-ac/)
 
-* [Agile Metrics for Agile Project Management](https://coursemetry.com/agile-metrics-for-agile-project-management/)
+* [P.O.W.E.R. : Proven Interview System to crack your DREAM job](https://coursemetry.com/p-o-w-e-r-proven-interview-system-to-crack-your-dream-job/)
 
-* [Data Visualization in Excel: All Excel Charts and Graphs](https://coursemetry.com/data-visualization-in-excel-all-excel-charts-and-graphs/)
+* [Business Analyst Masterclass with Excel & Google Data Studio](https://coursemetry.com/business-analyst-masterclass-with-excel-google-data-studio/)
 
-* [How to Identify, Diagnose, and Fix Memory Leaks in Web Apps](https://coursemetry.com/how-to-identify-diagnose-and-fix-memory-leaks-in-web-apps/)
+* [Simulador Scrum Product Owner (PSPO I) Exam](https://coursemetry.com/simulador-scrum-product-owner-pspo-i-exam/)
 
-* [2022 PgMP (Program Management Professional) Exam Prep Tests](https://coursemetry.com/2022-pgmp-program-management-professional-exam-prep-tests/)
+* [5 Steps & 30 Mins : Composite Material Modeling (Digimat-HC)](https://coursemetry.com/5-steps-30-mins-composite-material-modeling-digimat-hc/)
 
-* [Microsoft Excel Pivot-Tabellen für Job und Beruf](https://coursemetry.com/microsoft-excel-pivot-tabellen-fur-job-und-beruf/)
+* [Adobe Photoshop CC- Basic Photoshop training](https://coursemetry.com/adobe-photoshop-cc-basic-photoshop-training/)
 
-* [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
+* [Master all the MS Excel Macros and the basics of Excel VBA](https://coursemetry.com/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/)
 
-* [Design Thinking Guide for Successful Professionals](https://coursemetry.com/design-thinking-guide-for-successful-professionals/)
+* [How to Create a Professional Presentation in PowerPoint](https://coursemetry.com/how-to-create-a-professional-presentation-in-powerpoint/)
 
-* [Meditation Masterclass: meditation teacher certification](https://coursemetry.com/meditation-masterclass-meditation-teacher-certification/)
+* [Aptitude Test Prep : The Most Tricky Questions and More](https://coursemetry.com/aptitude-test-prep-the-most-tricky-questions-and-more/)
 
-* [Basic Portrait Drawing Techniques- Beginners and Advanced](https://coursemetry.com/basic-portrait-drawing-techniques-beginners-and-advanced/)
+* [Complete Guide to TOEFL iBT | Mastering the Skills](https://coursemetry.com/complete-guide-to-toefl-ibt-mastering-the-skills/)
 
-* [Advance logo design course: Bear mascot shape design](https://coursemetry.com/advance-logo-design-course-bear-mascot-shape-design/)
-
-* [#1 Embellishments Course for Acrylic Pouring & Painting](https://coursemetry.com/1-embellishments-course-for-acrylic-pouring-painting/)
-
-* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
-
-* [Jumpstart your Project Management career](https://coursemetry.com/jumpstart-your-project-management-career/)
-
-* [Learn Microsoft Project 2016 Complete Course for Beginners](https://coursemetry.com/learn-microsoft-project-2016-complete-course-for-beginners/)
-
-* [Personal Finance](https://coursemetry.com/personal-finance/)
-
-* [Practice and Learn React Web Development with Quizzes](https://coursemetry.com/practice-and-learn-react-web-development-with-quizzes/)
-
-* [Learn To Focus: Meditation & Mindfulness For ADHD](https://coursemetry.com/learn-to-focus-meditation-mindfulness-for-adhd/)
-
-* [Corporate Finance](https://coursemetry.com/corporate-finance/)
-
-* [Java Foundations Exam 1Z0-811 Practice Tests 2022 New!!](https://coursemetry.com/java-foundations-exam-1z0-811-practice-tests-2022-new/)
-
-* [Master Transaction Management with SpringBoot and Data JPA](https://coursemetry.com/master-transaction-management-with-springboot-and-data-jpa/)
-
-* [My Clarity Compass: Finding & Following my Unique Purpose](https://coursemetry.com/my-clarity-compass-finding-following-my-unique-purpose/)
-
-* [ESG Reporting for Businesses](https://coursemetry.com/esg-reporting-for-businesses/)
-
-* [Practical Photography for Absolute Beginners: 9 Courses in 1](https://coursemetry.com/practical-photography-for-absolute-beginners-9-courses-in-1/)
-
-* [Day to Day activities of an Agile Scrum team in real project](https://coursemetry.com/day-to-day-activities-of-an-agile-scrum-team-in-real-project/)
-
-* [Complete Rhino Megacourse: Beginner to Expert](https://coursemetry.com/complete-rhino-megacourse-beginner-to-expert/)
-
-* [Agiles Projektmanagement - Erfolg mit dem richtigen Mindset](https://coursemetry.com/agiles-projektmanagement-erfolg-mit-dem-richtigen-mindset/)
-
-* [Passions of the soul. Resurrection](https://coursemetry.com/passions-of-the-soul-resurrection/)
-
-* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
+* [Oracle Cloud Infrastructure Foundations 2021 Associate](https://coursemetry.com/oracle-cloud-infrastructure-foundations-2021-associate/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
