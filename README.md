@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published on 2022-06-19**
+## **78 Udemy free courses published on 2022-06-19**
 
 * [Microsoft Excel in Hindi - हिंदी में सीखें MS Excel A-Z](https://coursemetry.com/microsoft-excel-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-ms-excel-a-z/)
 
@@ -129,6 +129,36 @@
 * [Basic Structure of Computers](https://coursemetry.com/basic-structure-of-computers/)
 
 * [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
+
+* [Towards Excellence : The 25 Steps to Success](https://coursemetry.com/towards-excellence-the-25-steps-to-success/)
+
+* [How to Get UpWork Clients (2020 And Beyond)](https://coursemetry.com/how-to-get-upwork-clients-2020-and-beyond/)
+
+* [AZ-104 Microsoft Azure Administrator Practice Exams MAY 2022](https://coursemetry.com/az-104-microsoft-azure-administrator-practice-exams-may-2022/)
+
+* [Salesforce Platform Developer 1 Practice Exams PD1 2022](https://coursemetry.com/salesforce-platform-developer-1-practice-exams-pd1-2022/)
+
+* [AZ-900 Microsoft Azure Fundamentals Practice Exams MAY 2022](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-exams-may-2022-2/)
+
+* [AZ-500 Microsoft Azure Security Technologies Practice Exams](https://coursemetry.com/az-500-microsoft-azure-security-technologies-practice-exams/)
+
+* [Docker Certified Associate (DCA) Practice Exams - MAY 2022](https://coursemetry.com/docker-certified-associate-dca-practice-exams-may-2022/)
+
+* [PL-900 Microsoft Power Platform Fundamentals Practice Exams](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-practice-exams/)
+
+* [ITIL 4 Foundation Practice Exams - MAY 2022](https://coursemetry.com/itil-4-foundation-practice-exams-may-2022/)
+
+* [TOP Business Analyst Certification (PMI-PBA) Practice Exams](https://coursemetry.com/top-business-analyst-certification-pmi-pba-practice-exams/)
+
+* [Cisco CCNA 200-301 Practice Exams - MAY 2022](https://coursemetry.com/cisco-ccna-200-301-practice-exams-may-2022/)
+
+* [Check Point CCSA (156-215.80) Practice Exams - MAY 2022](https://coursemetry.com/check-point-ccsa-156-215-80-practice-exams-may-2022/)
+
+* [AWS Certified Security Specialty – Practice Exams MAY 2022](https://coursemetry.com/aws-certified-security-specialty-practice-exams-may-2022/)
+
+* [AZ-204 Microsoft Azure Developer – Practice Exams MAY 2022](https://coursemetry.com/az-204-microsoft-azure-developer-practice-exams-may-2022/)
+
+* [PRINCE2 Foundation Practice Certification Exams Updated 2022](https://coursemetry.com/prince2-foundation-practice-certification-exams-updated-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
