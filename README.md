@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published on 2022-06-19**
+## **63 Udemy free courses published on 2022-06-19**
 
 * [Microsoft Excel in Hindi - हिंदी में सीखें MS Excel A-Z](https://coursemetry.com/microsoft-excel-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-ms-excel-a-z/)
 
@@ -113,6 +113,22 @@
 * [Marketing Basics for Non Marketing Professionals](https://coursemetry.com/marketing-basics-for-non-marketing-professionals/)
 
 * [Write to Impress -Business Writing Skills for Corporates](https://coursemetry.com/write-to-impress-business-writing-skills-for-corporates/)
+
+* [Self Confidence & Self Esteem: Confidence Via Self-Awareness](https://coursemetry.com/self-confidence-self-esteem-confidence-via-self-awareness/)
+
+* [Complete Life Transformation and Personal Growth Plan Guide](https://coursemetry.com/complete-life-transformation-and-personal-growth-plan-guide/)
+
+* [Complete Adobe Premiere Pro Megacourse: Beginner to Expert](https://coursemetry.com/complete-adobe-premiere-pro-megacourse-beginner-to-expert/)
+
+* [Complete Adobe After Effects Megacourse: Beginner to Expert](https://coursemetry.com/complete-adobe-after-effects-megacourse-beginner-to-expert/)
+
+* [Best Introduction to Information Security](https://coursemetry.com/best-introduction-to-information-security/)
+
+* [Everything About Blogger From Scratch](https://coursemetry.com/everything-about-blogger-from-scratch/)
+
+* [Basic Structure of Computers](https://coursemetry.com/basic-structure-of-computers/)
+
+* [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
