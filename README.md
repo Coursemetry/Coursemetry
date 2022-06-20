@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published on 2022-06-20**
+## **83 Udemy free courses published on 2022-06-20**
 
 * [WooCommerce Onpage SEO | Fast Technique with Examples | 2022](https://coursemetry.com/woocommerce-onpage-seo-fast-technique-with-examples-2022/)
 
@@ -117,6 +117,58 @@
 * [Marketing Success With The Power of Social Media Stories](https://coursemetry.com/marketing-success-with-the-power-of-social-media-stories/)
 
 * [ClickBank Affiliate Marketing Secrets Home Business Success](https://coursemetry.com/clickbank-affiliate-marketing-secrets-home-business-success/)
+
+* [MBA: Retail management, Merchandising, and E-commerce](https://coursemetry.com/mba-retail-management-merchandising-and-e-commerce/)
+
+* [Awesome Startup Pitch deck: Raise Capital (20+ Templates)](https://coursemetry.com/awesome-startup-pitch-deck-raise-capital-20-templates/)
+
+* [Complete Metaverse Course: Everything about AR, VR, and NFTs](https://coursemetry.com/complete-metaverse-course-everything-about-ar-vr-and-nfts/)
+
+* [Backbone JS Tutorial for Beginners](https://coursemetry.com/backbone-js-tutorial-for-beginners/)
+
+* [MBA: Supply Chain and Operation management](https://coursemetry.com/mba-supply-chain-and-operation-management/)
+
+* [Best Introduction to Information Security](https://coursemetry.com/best-introduction-to-information-security/)
+
+* [The Lean Startup: Best course on Entrepreneurship](https://coursemetry.com/the-lean-startup-best-course-on-entrepreneurship/)
+
+* [Startup Fundraising Master course - Raise Venture Capital](https://coursemetry.com/startup-fundraising-master-course-raise-venture-capital/)
+
+* [Everything About Blogger From Scratch](https://coursemetry.com/everything-about-blogger-from-scratch/)
+
+* [31 Startup Business Model: Best Course for Entrepreneurs](https://coursemetry.com/31-startup-business-model-best-course-for-entrepreneurs/)
+
+* [Youtube SEO Course :How TO Rank #1 On YouTube in 2022](https://coursemetry.com/youtube-seo-course-how-to-rank-1-on-youtube-in-2022/)
+
+* [Excel Accounting Problem](https://coursemetry.com/excel-accounting-problem/)
+
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
+
+* [Converse in Egyptian Arabic _ The most spoken Arabic dialect](https://coursemetry.com/converse-in-egyptian-arabic-_-the-most-spoken-arabic-dialect/)
+
+* [Python Certification Exam Microsoft MTA 98-381 - Preparation](https://coursemetry.com/python-certification-exam-microsoft-mta-98-381-preparation/)
+
+* [PL-900 Practice Tests- Microsoft Power Platform Fundamentals](https://coursemetry.com/pl-900-practice-tests-microsoft-power-platform-fundamentals/)
+
+* [Complete Course on Blockchain and Cryptocurrency](https://coursemetry.com/complete-course-on-blockchain-and-cryptocurrency/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [MBA Course: Marketing and Business Strategy](https://coursemetry.com/mba-course-marketing-and-business-strategy/)
+
+* [Introduction To Cybersecurity](https://coursemetry.com/introduction-to-cybersecurity/)
+
+* [SaaS Masterclass: Sales, Marketing and Growth Metrics](https://coursemetry.com/saas-masterclass-sales-marketing-and-growth-metrics/)
+
+* [Basic Structure of Computers](https://coursemetry.com/basic-structure-of-computers/)
+
+* [1Z0-1093-21 Oracle Cloud Database Services Specialist](https://coursemetry.com/1z0-1093-21-oracle-cloud-database-services-specialist/)
+
+* [Ecommerce Website With WooCommerce -Build an ecommerce Store](https://coursemetry.com/ecommerce-website-with-woocommerce-build-an-ecommerce-store/)
+
+* [Everything About Kali Linux OS](https://coursemetry.com/everything-about-kali-linux-os/)
+
+* [Norwegian Language Course A1 Part 1](https://coursemetry.com/norwegian-language-course-a1-part-1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
