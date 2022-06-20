@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **83 Udemy free courses published on 2022-06-20**
+## **129 Udemy free courses published on 2022-06-20**
 
 * [WooCommerce Onpage SEO | Fast Technique with Examples | 2022](https://coursemetry.com/woocommerce-onpage-seo-fast-technique-with-examples-2022/)
 
@@ -169,6 +169,98 @@
 * [Everything About Kali Linux OS](https://coursemetry.com/everything-about-kali-linux-os/)
 
 * [Norwegian Language Course A1 Part 1](https://coursemetry.com/norwegian-language-course-a1-part-1/)
+
+* [Public Speaking Contests: You Can Win](https://coursemetry.com/public-speaking-contests-you-can-win/)
+
+* [Ethical Hacking: Crypto 101](https://coursemetry.com/ethical-hacking-crypto-101/)
+
+* [Complete Guide to eBay Selling as a Business](https://coursemetry.com/complete-guide-to-ebay-selling-as-a-business/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://coursemetry.com/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/)
+
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+
+* [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
+
+* [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [Image Processing with Python PIL](https://coursemetry.com/image-processing-with-python-pil/)
+
+* [Shopify eCommerce Store Masterclass - Start a Business!](https://coursemetry.com/shopify-ecommerce-store-masterclass-start-a-business/)
+
+* [Presentation Skills Training: Great One on One Presentations](https://coursemetry.com/presentation-skills-training-great-one-on-one-presentations/)
+
+* [Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course](https://coursemetry.com/facebook-instagram-dynamic-ads-dynamic-retargeting-course/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [PowerPoint Presentations: Deliver a Non-Boring Presentation](https://coursemetry.com/powerpoint-presentations-deliver-a-non-boring-presentation/)
+
+* [Teacher Training: Teachers Can Be Great Speakers](https://coursemetry.com/teacher-training-teachers-can-be-great-speakers/)
+
+* [Mastering The Complete Agile Scrum Master Workshop](https://coursemetry.com/mastering-the-complete-agile-scrum-master-workshop/)
+
+* [Nutrition: The Ultimate Nutrition certification Course](https://coursemetry.com/nutrition-the-ultimate-nutrition-certification-course/)
+
+* [Life Coach: The Complete Life Coach Certification Course](https://coursemetry.com/life-coach-the-complete-life-coach-certification-course/)
+
+* [Nutrition Certification: The Complete Nutrition Course](https://coursemetry.com/nutrition-certification-the-complete-nutrition-course/)
+
+* [Life Coaching: ZERO TO HERO Life Coach certificate Course](https://coursemetry.com/life-coaching-zero-to-hero-life-coach-certificate-course/)
+
+* [CompTIA PenTest+ PT0-001 Practice Certification Exams](https://coursemetry.com/comptia-pentest-pt0-001-practice-certification-exams/)
+
+* [CBT: Cognitive Behavioral Therapy For Anxiety And Depression](https://coursemetry.com/cbt-cognitive-behavioral-therapy-for-anxiety-and-depression/)
+
+* [CBT and Nutrition Ultimate Certification Course](https://coursemetry.com/cbt-and-nutrition-ultimate-certification-course/)
+
+* [WordPress Express](https://coursemetry.com/wordpress-express/)
+
+* [Neuroplasticity Ultimate Certification Course](https://coursemetry.com/neuroplasticity-ultimate-certification-course/)
+
+* [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
+
+* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
+
+* [Time Value of Money & Capital Budgeting - Present Value](https://coursemetry.com/time-value-of-money-capital-budgeting-present-value/)
+
+* [Operational Amplifiers: Linear Integrated Circuits](https://coursemetry.com/operational-amplifiers-linear-integrated-circuits/)
+
+* [Life coach and life purpose certification course](https://coursemetry.com/life-coach-and-life-purpose-certification-course/)
+
+* [Corporate Finance #7 Short Term Financing](https://coursemetry.com/corporate-finance-7-short-term-financing/)
+
+* [CBT for anxiety and panic](https://coursemetry.com/cbt-for-anxiety-and-panic/)
+
+* [C++ Programming - From Scratch to Advanced](https://coursemetry.com/c-programming-from-scratch-to-advanced/)
+
+* [Neuroplasticity And CBT Complete Certification Course](https://coursemetry.com/neuroplasticity-and-cbt-complete-certification-course/)
+
+* [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
+
+* [Java Programming: Complete Beginner to Advanced](https://coursemetry.com/java-programming-complete-beginner-to-advanced/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [The Complete Course on Data Cleaning in MS Excel](https://coursemetry.com/the-complete-course-on-data-cleaning-in-ms-excel/)
+
+* [Money In Excel - Income Tax Sch. C & Personal Financials](https://coursemetry.com/money-in-excel-income-tax-sch-c-personal-financials/)
+
+* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+
+* [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
