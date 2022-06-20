@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published on 2022-06-20**
+## **57 Udemy free courses published on 2022-06-20**
 
 * [WooCommerce Onpage SEO | Fast Technique with Examples | 2022](https://coursemetry.com/woocommerce-onpage-seo-fast-technique-with-examples-2022/)
 
@@ -101,6 +101,22 @@
 * [150+ Exercises - Object Oriented Programming in Python - OOP](https://coursemetry.com/150-exercises-object-oriented-programming-in-python-oop/)
 
 * [SQL Bootcamp - Hands-On Exercises - SQLite - Part I - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-i-2022/)
+
+* [Certified MongoDB Database Administrator - Practice Tests](https://coursemetry.com/certified-mongodb-database-administrator-practice-tests/)
+
+* [New Microsoft Power Platform Fundamental  Practice Test](https://coursemetry.com/new-microsoft-power-platform-fundamental-practice-test/)
+
+* [Complete Android App Development Masterclass in اردو & हिंदी](https://coursemetry.com/complete-android-app-development-masterclass-in-%d8%a7%d8%b1%d8%af%d9%88-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80/)
+
+* [Artificial Intelligence In Digital Marketing](https://coursemetry.com/artificial-intelligence-in-digital-marketing/)
+
+* [Adobe Premiere Pro CC Video Editing Course Beginners To Pro](https://coursemetry.com/adobe-premiere-pro-cc-video-editing-course-beginners-to-pro/)
+
+* [Unity 3D Temel C# ve Doğru Kodlama Eğitimi](https://coursemetry.com/unity-3d-temel-c-ve-dogru-kodlama-egitimi/)
+
+* [Marketing Success With The Power of Social Media Stories](https://coursemetry.com/marketing-success-with-the-power-of-social-media-stories/)
+
+* [ClickBank Affiliate Marketing Secrets Home Business Success](https://coursemetry.com/clickbank-affiliate-marketing-secrets-home-business-success/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
