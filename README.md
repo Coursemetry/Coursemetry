@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **129 Udemy free courses published on 2022-06-20**
+## **131 Udemy free courses published on 2022-06-20**
 
 * [WooCommerce Onpage SEO | Fast Technique with Examples | 2022](https://coursemetry.com/woocommerce-onpage-seo-fast-technique-with-examples-2022/)
 
@@ -261,6 +261,10 @@
 * [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
 
 * [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
+
+* [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
+
+* [New Business Analyst Certification (PMI-PBA)](https://coursemetry.com/new-business-analyst-certification-pmi-pba/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
