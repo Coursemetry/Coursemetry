@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published on 2022-06-21**
+## **109 Udemy free courses published on 2022-06-21**
 
 * [Podcast Power Breathing Masterclass](https://coursemetry.com/podcast-power-breathing-masterclass/)
 
@@ -161,6 +161,66 @@
 * [Complete and proven masterclass: Find & Get your dream job](https://coursemetry.com/complete-and-proven-masterclass-find-get-your-dream-job/)
 
 * [Vind en krijg je droombaan](https://coursemetry.com/vind-en-krijg-je-droombaan/)
+
+* [Data Mesh - A Modern Decentralized Data Management Concept](https://coursemetry.com/data-mesh-a-modern-decentralized-data-management-concept/)
+
+* [Microsoft Access Training - Practice to Perfect Skills](https://coursemetry.com/microsoft-access-training-practice-to-perfect-skills/)
+
+* [Análisis de casos reales y funciones DAX con Power BI](https://coursemetry.com/analisis-de-casos-reales-y-funciones-dax-con-power-bi/)
+
+* [R Programming: Aprende a programar en R desde cero](https://coursemetry.com/r-programming-aprende-a-programar-en-r-desde-cero/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
+
+* [Innovation Management - Develop Innovative Mindset](https://coursemetry.com/innovation-management-develop-innovative-mindset/)
+
+* [Python 3: Análisis y visualización de datos](https://coursemetry.com/python-3-analisis-y-visualizacion-de-datos/)
+
+* [Crea tu primer juego con Pygame](https://coursemetry.com/crea-tu-primer-juego-con-pygame/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 1](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-1/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
+
+* [Análisis avanzado con SQL y programación en R con Power BI](https://coursemetry.com/analisis-avanzado-con-sql-y-programacion-en-r-con-power-bi/)
+
+* [Análisis de datos con Power BI](https://coursemetry.com/analisis-de-datos-con-power-bi/)
+
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
+
+* [Análisis de datos con Python](https://coursemetry.com/analisis-de-datos-con-python/)
+
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
+* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+
+* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
+
+* [Forex On Smart Phone: Trade Anywhere, Anytime!](https://coursemetry.com/forex-on-smart-phone-trade-anywhere-anytime/)
+
+* [SQL: Consultas básicas a complejas](https://coursemetry.com/sql-consultas-basicas-a-complejas/)
+
+* [Google Spreadsheets: Empieza desde cero](https://coursemetry.com/google-spreadsheets-empieza-desde-cero/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [Python 3: Desde cero para principiantes y no programadores](https://coursemetry.com/python-3-desde-cero-para-principiantes-y-no-programadores/)
+
+* [AWS Certified Security Speciality Exam-2022](https://coursemetry.com/aws-certified-security-speciality-exam-2022/)
+
+* [JavaScript: Desde cero con NodeJS](https://coursemetry.com/javascript-desde-cero-con-nodejs/)
+
+* [SQL Básico - Intermedio](https://coursemetry.com/sql-basico-intermedio/)
+
+* [CISSP Practice Test](https://coursemetry.com/cissp-practice-test/)
+
+* [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
