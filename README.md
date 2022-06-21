@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **109 Udemy free courses published on 2022-06-21**
+## **141 Udemy free courses published on 2022-06-21**
 
 * [Podcast Power Breathing Masterclass](https://coursemetry.com/podcast-power-breathing-masterclass/)
 
@@ -221,6 +221,70 @@
 * [CISSP Practice Test](https://coursemetry.com/cissp-practice-test/)
 
 * [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
+
+* [GOLANG: Curso profesional de Go - De cero a Master 2022](https://coursemetry.com/golang-curso-profesional-de-go-de-cero-a-master-2022/)
+
+* [PHP for Beginners: PDO Crash Course 2022](https://coursemetry.com/php-for-beginners-pdo-crash-course-2022/)
+
+* [CV / Resume for Experienced & Freshers](https://coursemetry.com/cv-resume-for-experienced-freshers/)
+
+* [Certified Network Associate CCNA Practice Test](https://coursemetry.com/certified-network-associate-ccna-practice-test/)
+
+* [Introduction to Design Thinking and Product Development](https://coursemetry.com/introduction-to-design-thinking-and-product-development/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [STOP HEART ATTACKS AND STROKES IN WOMEN.](https://coursemetry.com/stop-heart-attacks-and-strokes-in-women/)
+
+* [AWS Services for Solutions Architect Associate [2021]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2021/)
+
+* [React JS- Complete Guide for Frontend Web Development [2021]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2021/)
+
+* [Google Hacks For Businesses: Introduction to Google Tools](https://coursemetry.com/google-hacks-for-businesses-introduction-to-google-tools/)
+
+* [Network + Practice Test](https://coursemetry.com/network-practice-test/)
+
+* [Why not help prevent a stroke and/or a heart attack?](https://coursemetry.com/why-not-help-prevent-a-stroke-and-or-a-heart-attack/)
+
+* [Security + Practice Test](https://coursemetry.com/security-practice-test/)
+
+* [IT Fundamentals ITF+  Practice Test](https://coursemetry.com/it-fundamentals-itf-practice-test/)
+
+* [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [Python Programming - From Basics to Advanced level [2021]](https://coursemetry.com/python-programming-from-basics-to-advanced-level-2021/)
+
+* [Linux+ XK0-004 Practice Test](https://coursemetry.com/linux-xk0-004-practice-test/)
+
+* [Starting 6 Businesses in 2022](https://coursemetry.com/starting-6-businesses-in-2022/)
+
+* [Certified Solutions Architect – Associate Practice Test](https://coursemetry.com/certified-solutions-architect-associate-practice-test/)
+
+* [12 Great-Powers to Change Your Life](https://coursemetry.com/12-great-powers-to-change-your-life/)
+
+* [A+ Core2 Practice Test](https://coursemetry.com/a-core2-practice-test/)
+
+* [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
+
+* [Wordpress For Beginners](https://coursemetry.com/wordpress-for-beginners/)
+
+* [Shopify guide: The complete shopify store creation course](https://coursemetry.com/shopify-guide-the-complete-shopify-store-creation-course/)
+
+* [List Building Supercharge Class (build your list & monetize)](https://coursemetry.com/list-building-supercharge-class-build-your-list-monetize/)
+
+* [Curso de Excel do Básico ao Avançado - Fórmulas, Macros +VBA](https://coursemetry.com/curso-de-excel-do-basico-ao-avancado-formulas-macros-vba/)
+
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
+
+* [Introduction to Forex- learn to trade forex by yourself](https://coursemetry.com/introduction-to-forex-learn-to-trade-forex-by-yourself/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
