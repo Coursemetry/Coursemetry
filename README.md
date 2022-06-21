@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **141 Udemy free courses published on 2022-06-21**
+## **148 Udemy free courses published on 2022-06-21**
 
 * [Podcast Power Breathing Masterclass](https://coursemetry.com/podcast-power-breathing-masterclass/)
 
@@ -285,6 +285,20 @@
 * [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
 
 * [Introduction to Forex- learn to trade forex by yourself](https://coursemetry.com/introduction-to-forex-learn-to-trade-forex-by-yourself/)
+
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [Social Media Marketing Advertising 2022: Get More Customers!](https://coursemetry.com/social-media-marketing-advertising-2022-get-more-customers/)
+
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
+
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [Excel Accounting 2–Worksheet, Opening Balances, & Subledger](https://coursemetry.com/excel-accounting-2-worksheet-opening-balances-subledger/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
