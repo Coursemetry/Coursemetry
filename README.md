@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published on 2022-06-22**
+## **97 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -195,6 +195,8 @@
 * [Unique Selling Proposition Mastery 2022](https://coursemetry.com/unique-selling-proposition-mastery-2022/)
 
 * [Consulting Business Mastery 2022](https://coursemetry.com/consulting-business-mastery-2022/)
+
+* [Earn Bitcoin on Your Phone WORLDWIDE Even While You Sleep](https://coursemetry.com/earn-bitcoin-on-your-phone-worldwide-even-while-you-sleep/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
