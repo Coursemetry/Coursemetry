@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **38 Udemy free courses published on 2022-06-22**
+## **50 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -79,6 +79,30 @@
 * [150+ Questions - Job Interview - C Developer](https://coursemetry.com/150-questions-job-interview-c-developer/)
 
 * [Certified Kubernetes Security Specialist (CKS) Exams - 2022](https://coursemetry.com/certified-kubernetes-security-specialist-cks-exams-2022/)
+
+* [SQL Masterclass: SQL for Data Analytics](https://coursemetry.com/sql-masterclass-sql-for-data-analytics/)
+
+* [Deploy MEAN Stack App on Azure Cloud with CICD Pipeline](https://coursemetry.com/deploy-mean-stack-app-on-azure-cloud-with-cicd-pipeline/)
+
+* [Google Looker Masterclass: Looker & LookML A-Z 2022](https://coursemetry.com/google-looker-masterclass-looker-lookml-a-z-2022/)
+
+* [Automate ReactJs & SpringBoot CICD Pipelines on AzureDevOps](https://coursemetry.com/automate-reactjs-springboot-cicd-pipelines-on-azuredevops/)
+
+* [Scrum Fundamentals for Scrum Master and Agile Projects](https://coursemetry.com/scrum-fundamentals-for-scrum-master-and-agile-projects/)
+
+* [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
+
+* [Containerize Springboot CRUD App with Docker & DockerCompose](https://coursemetry.com/containerize-springboot-crud-app-with-docker-dockercompose/)
+
+* [Practical JavaScript & ES6 Mastery with Projects](https://coursemetry.com/practical-javascript-es6-mastery-with-projects/)
+
+* [PMP Certification Exam Prep Videos Mock Tests and Quizzes](https://coursemetry.com/pmp-certification-exam-prep-videos-mock-tests-and-quizzes/)
+
+* [Artificial Neural Networks (ANN) with Keras in Python and R](https://coursemetry.com/artificial-neural-networks-ann-with-keras-in-python-and-r/)
+
+* [Zero to Hero React JS mastery E-degree course](https://coursemetry.com/zero-to-hero-react-js-mastery-e-degree-course/)
+
+* [Practical Java-8 Mastery Course](https://coursemetry.com/practical-java-8-mastery-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
