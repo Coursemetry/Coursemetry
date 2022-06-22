@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published on 2022-06-22**
+## **74 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -103,6 +103,54 @@
 * [Zero to Hero React JS mastery E-degree course](https://coursemetry.com/zero-to-hero-react-js-mastery-e-degree-course/)
 
 * [Practical Java-8 Mastery Course](https://coursemetry.com/practical-java-8-mastery-course/)
+
+* [How To Build a Sales Funnel For Your Subscription Business](https://coursemetry.com/how-to-build-a-sales-funnel-for-your-subscription-business/)
+
+* [Image Processing with Python PIL](https://coursemetry.com/image-processing-with-python-pil/)
+
+* [Ethical Hacking: Crypto 101](https://coursemetry.com/ethical-hacking-crypto-101/)
+
+* [Traffic Driving Mastery 2022](https://coursemetry.com/traffic-driving-mastery-2022/)
+
+* [JavaScript - Learn by Practice - 100 Coding Challenges](https://coursemetry.com/javascript-learn-by-practice-100-coding-challenges/)
+
+* [Bilgi Güvenliği Farkındalık Eğitimi](https://coursemetry.com/bilgi-guvenligi-farkindalik-egitimi/)
+
+* [Microsoft SQL for Beginners](https://coursemetry.com/microsoft-sql-for-beginners/)
+
+* [SnapChat Marketing Mastery 2022 | Full Blueprint From 0 To 1](https://coursemetry.com/snapchat-marketing-mastery-2022-full-blueprint-from-0-to-1/)
+
+* [Social Media Marketing Mastery 2022](https://coursemetry.com/social-media-marketing-mastery-2022/)
+
+* [Success Mindset Mastery 2022](https://coursemetry.com/success-mindset-mastery-2022/)
+
+* [Make Your Excel Look Like a Standalone Program](https://coursemetry.com/make-your-excel-look-like-a-standalone-program/)
+
+* [Authority Marketing Mastery 2022](https://coursemetry.com/authority-marketing-mastery-2022/)
+
+* [Merch by Amazon Mastery 2022](https://coursemetry.com/merch-by-amazon-mastery-2022/)
+
+* [Dropshipping Hurdles Mastery 2022](https://coursemetry.com/dropshipping-hurdles-mastery-2022/)
+
+* [Lead Generation Mastery 2022](https://coursemetry.com/lead-generation-mastery-2022/)
+
+* [Microsoft PowerPoint  - البوربوينت من الصفر للاحتراف](https://coursemetry.com/microsoft-powerpoint-%d8%a7%d9%84%d8%a8%d9%88%d8%b1%d8%a8%d9%88%d9%8a%d9%86%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [Practice Exam - AWS Certified Cloud Practitioner](https://coursemetry.com/practice-exam-aws-certified-cloud-practitioner/)
+
+* [Practice Exam - PL-900 : Microsoft Power Platform](https://coursemetry.com/practice-exam-pl-900-microsoft-power-platform/)
+
+* [Microsoft Word - الوورد من الصفر للاحتراف](https://coursemetry.com/microsoft-word-%d8%a7%d9%84%d9%88%d9%88%d8%b1%d8%af-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Practice Exam  - AWS certified data analytics](https://coursemetry.com/practice-exam-aws-certified-data-analytics/)
+
+* [Practice Exam - Amazon AWS Certified Developer Associate](https://coursemetry.com/practice-exam-amazon-aws-certified-developer-associate/)
+
+* [Microsoft Excel - الاكسل من الصفر للاحتراف](https://coursemetry.com/microsoft-excel-%d8%a7%d9%84%d8%a7%d9%83%d8%b3%d9%84-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
