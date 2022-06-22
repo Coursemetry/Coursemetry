@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published on 2022-06-22**
+## **36 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -63,6 +63,18 @@
 * [Protection & Coordination Fundamentals - Distribution System](https://coursemetry.com/protection-coordination-fundamentals-distribution-system/)
 
 * [Implement 150 functions in Python! - Hands-on course](https://coursemetry.com/implement-150-functions-in-python-hands-on-course/)
+
+* [The Expert’s Secret to Mobile Application Testing](https://coursemetry.com/the-experts-secret-to-mobile-application-testing/)
+
+* [Algorithmic Trading with Python: Technical Analysis Strategy](https://coursemetry.com/algorithmic-trading-with-python-technical-analysis-strategy/)
+
+* [MSBI , SSIS,SSAS and SSRS Interview Questions & Answers](https://coursemetry.com/msbi-ssisssas-and-ssrs-interview-questions-answers/)
+
+* [القواعد الاساسيه لعلم النحو](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d9%86%d8%ad%d9%88/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
