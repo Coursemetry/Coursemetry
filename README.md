@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **104 Udemy free courses published on 2022-06-22**
+## **110 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -211,6 +211,18 @@
 * [7 HTML, CSS & JavaScript Challenges -  In 7 Days](https://coursemetry.com/7-html-css-javascript-challenges-in-7-days/)
 
 * [Front End Development For  Beginners](https://coursemetry.com/front-end-development-for-beginners/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [Shopify Guide: Start your own clothing brand with Shopify](https://coursemetry.com/shopify-guide-start-your-own-clothing-brand-with-shopify/)
+
+* [PL-900 Microsoft Power Platform Fundamentals Practice Test](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-practice-test/)
+
+* [Complete English Course: Master Native English for Beginners](https://coursemetry.com/complete-english-course-master-native-english-for-beginners/)
+
+* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
+
+* [Reverse Engineering .NET For Beginners (Visual Basic)](https://coursemetry.com/reverse-engineering-net-for-beginners-visual-basic/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
