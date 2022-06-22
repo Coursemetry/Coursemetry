@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published on 2022-06-22**
+## **38 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -75,6 +75,10 @@
 * [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
 
 * [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [150+ Questions - Job Interview - C Developer](https://coursemetry.com/150-questions-job-interview-c-developer/)
+
+* [Certified Kubernetes Security Specialist (CKS) Exams - 2022](https://coursemetry.com/certified-kubernetes-security-specialist-cks-exams-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
