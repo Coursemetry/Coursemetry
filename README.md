@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published on 2022-06-22**
+## **77 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -151,6 +151,12 @@
 * [Microsoft Excel - الاكسل من الصفر للاحتراف](https://coursemetry.com/microsoft-excel-%d8%a7%d9%84%d8%a7%d9%83%d8%b3%d9%84-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
 
 * [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
+
+* [Experto en Diseño de Bodegas](https://coursemetry.com/experto-en-diseno-de-bodegas/)
+
+* [Alquiler de Inmuebles Turísticos y de Larga Estancia](https://coursemetry.com/alquiler-de-inmuebles-turisticos-y-de-larga-estancia/)
+
+* [Fundamentos de la Inversión Inmobiliaria](https://coursemetry.com/fundamentos-de-la-inversion-inmobiliaria/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
