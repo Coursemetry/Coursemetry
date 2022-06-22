@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published on 2022-06-22**
+## **104 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -197,6 +197,20 @@
 * [Consulting Business Mastery 2022](https://coursemetry.com/consulting-business-mastery-2022/)
 
 * [Earn Bitcoin on Your Phone WORLDWIDE Even While You Sleep](https://coursemetry.com/earn-bitcoin-on-your-phone-worldwide-even-while-you-sleep/)
+
+* [Angular FREE Masterclass - COVID-19 Tracker App - Part 1](https://coursemetry.com/angular-free-masterclass-covid-19-tracker-app-part-1/)
+
+* [Angular FREE Masterclass - COVID-19 Tracker App - Part 2](https://coursemetry.com/angular-free-masterclass-covid-19-tracker-app-part-2/)
+
+* [Angular FREE Masterclass - COVID-19 Tracker App - Part 3](https://coursemetry.com/angular-free-masterclass-covid-19-tracker-app-part-3/)
+
+* [Python PyQt5 and Qt creator course (Language: English)](https://coursemetry.com/python-pyqt5-and-qt-creator-course-language-english/)
+
+* [Python Basics](https://coursemetry.com/python-basics/)
+
+* [7 HTML, CSS & JavaScript Challenges -  In 7 Days](https://coursemetry.com/7-html-css-javascript-challenges-in-7-days/)
+
+* [Front End Development For  Beginners](https://coursemetry.com/front-end-development-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
