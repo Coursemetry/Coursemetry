@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **26 Udemy free courses published on 2022-06-22**
+## **27 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -55,6 +55,8 @@
 * [Creating Video Lessons with Online Video Maker InVideo](https://coursemetry.com/creating-video-lessons-with-online-video-maker-invideo/)
 
 * [The 30 Days Challenge to Better Motivate Yourself and Others](https://coursemetry.com/the-30-days-challenge-to-better-motivate-yourself-and-others/)
+
+* [PRINCE2 Foundation Practice Tests 2022 (UPDATED JULY 2022)](https://coursemetry.com/prince2-foundation-practice-tests-2022-updated-july-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
