@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **77 Udemy free courses published on 2022-06-22**
+## **96 Udemy free courses published on 2022-06-22**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -157,6 +157,44 @@
 * [Alquiler de Inmuebles Turísticos y de Larga Estancia](https://coursemetry.com/alquiler-de-inmuebles-turisticos-y-de-larga-estancia/)
 
 * [Fundamentos de la Inversión Inmobiliaria](https://coursemetry.com/fundamentos-de-la-inversion-inmobiliaria/)
+
+* [Simple and Strong Forex Swing Trading Strategy in the world](https://coursemetry.com/simple-and-strong-forex-swing-trading-strategy-in-the-world/)
+
+* [Master Microsoft Power BI in 21 Days](https://coursemetry.com/master-microsoft-power-bi-in-21-days/)
+
+* [Escuela de Programación y Desarrollo Web desde cero a Master](https://coursemetry.com/escuela-de-programacion-y-desarrollo-web-desde-cero-a-master/)
+
+* [DeFi Mastery 2022](https://coursemetry.com/defi-mastery-2022/)
+
+* [Full Microsoft Word Tutorial - Basic to Advance](https://coursemetry.com/full-microsoft-word-tutorial-basic-to-advance/)
+
+* [AWS Certified Cloud Practitioner CLF-C01 | 6 Practice Exams](https://coursemetry.com/aws-certified-cloud-practitioner-clf-c01-6-practice-exams/)
+
+* [Accelerated Learning: Study Skills for Success: IT industry](https://coursemetry.com/accelerated-learning-study-skills-for-success-it-industry/)
+
+* [AWS Introduction](https://coursemetry.com/aws-introduction/)
+
+* [Passive Income Mastery 2022](https://coursemetry.com/passive-income-mastery-2022/)
+
+* [Audiobook Marketing Mastery 2022](https://coursemetry.com/audiobook-marketing-mastery-2022/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [Microsoft Azure Data Foundation DP 900 Practice](https://coursemetry.com/microsoft-azure-data-foundation-dp-900-practice/)
+
+* [Outsourcing Mastery 2022](https://coursemetry.com/outsourcing-mastery-2022/)
+
+* [Microsoft Azure DP-203 Data Engineering Practice -2022](https://coursemetry.com/microsoft-azure-dp-203-data-engineering-practice-2022/)
+
+* [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Storytelling Marketing Mastery 2022](https://coursemetry.com/storytelling-marketing-mastery-2022/)
+
+* [Unique Selling Proposition Mastery 2022](https://coursemetry.com/unique-selling-proposition-mastery-2022/)
+
+* [Consulting Business Mastery 2022](https://coursemetry.com/consulting-business-mastery-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
