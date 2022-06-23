@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published on 2022-06-23**
+## **84 Udemy free courses published on 2022-06-23**
 
 * [Agile Project Management Certification Prep+Agile Scrum+Jira](https://coursemetry.com/agile-project-management-certification-prepagile-scrumjira/)
 
@@ -133,6 +133,44 @@
 * [Ultimate Linux Guide with Interview Preparation](https://coursemetry.com/ultimate-linux-guide-with-interview-preparation/)
 
 * [Fedora Linux from Scratch](https://coursemetry.com/fedora-linux-from-scratch/)
+
+* [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
+
+* [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
+
+* [Live Project in C# Net Core & Windows Forms by SQL Database](https://coursemetry.com/live-project-in-c-net-core-windows-forms-by-sql-database/)
+
+* [Teacher Training - How to Teach Online - Remote Teaching 1Hr](https://coursemetry.com/teacher-training-how-to-teach-online-remote-teaching-1hr/)
+
+* [On-Camera Charisma for YouTube Stars - YouTube Marketing](https://coursemetry.com/on-camera-charisma-for-youtube-stars-youtube-marketing/)
+
+* [The Complete Freelancing Course-Upwork Fiverr Home Business](https://coursemetry.com/the-complete-freelancing-course-upwork-fiverr-home-business/)
+
+* [Minimalist Lifestyle - Complete Course - Decluttering Life](https://coursemetry.com/minimalist-lifestyle-complete-course-decluttering-life/)
+
+* [JavaScript - Creating Loan EMI Calculator](https://coursemetry.com/javascript-creating-loan-emi-calculator/)
+
+* [API Crash Course: How to Create, Test, & Document your APIs](https://coursemetry.com/api-crash-course-how-to-create-test-document-your-apis/)
+
+* [Agile Crash Course for Beginners](https://coursemetry.com/agile-crash-course-for-beginners/)
+
+* [Python Scripting Complete Course](https://coursemetry.com/python-scripting-complete-course/)
+
+* [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
+
+* [Facebook Page & Facebook Ads Made as Fun: 11 Days Challenge](https://coursemetry.com/facebook-page-facebook-ads-made-as-fun-11-days-challenge/)
+
+* [JavaScript - Creating Quiz Hands on Complete Course](https://coursemetry.com/javascript-creating-quiz-hands-on-complete-course/)
+
+* [Linux Security](https://coursemetry.com/linux-security/)
+
+* [Open-Source Intelligence (OSINT)](https://coursemetry.com/open-source-intelligence-osint/)
+
+* [Secure Shell (SSH)](https://coursemetry.com/secure-shell-ssh/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [Forex Trading Complete Course - "Zero Experience Required"](https://coursemetry.com/forex-trading-complete-course-zero-experience-required/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
