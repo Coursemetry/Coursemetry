@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published on 2022-06-23**
+## **65 Udemy free courses published on 2022-06-23**
 
 * [Agile Project Management Certification Prep+Agile Scrum+Jira](https://coursemetry.com/agile-project-management-certification-prepagile-scrumjira/)
 
@@ -93,6 +93,46 @@
 * [Learn Fashion Design on Adobe Illustrator: Beginner's Course](https://coursemetry.com/learn-fashion-design-on-adobe-illustrator-beginners-course/)
 
 * [Complete WiFi Hacking Course: Beginner to Advanced](https://coursemetry.com/complete-wifi-hacking-course-beginner-to-advanced/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [Automate infrastructure in AWS CDK - Building application](https://coursemetry.com/automate-infrastructure-in-aws-cdk-building-application/)
+
+* [Intelligence Quotient [ IQ ] Tests and Answers](https://coursemetry.com/intelligence-quotient-iq-tests-and-answers/)
+
+* [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
+
+* [Global Logistics in Supply Chain Management & Urban Planning](https://coursemetry.com/global-logistics-in-supply-chain-management-urban-planning/)
+
+* [Realtor Podcast Marketing For Real Estate Agents Success](https://coursemetry.com/realtor-podcast-marketing-for-real-estate-agents-success/)
+
+* [Object-Oriented Programming with Python: Code Faster in 2022](https://coursemetry.com/object-oriented-programming-with-python-code-faster-in-2022/)
+
+* [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
+
+* [AZ-900: Microsoft Azure Fundamentals 500+ Practice Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-500-practice-questions/)
+
+* [Web Analytics with Similarweb: from Basic to PRO!](https://coursemetry.com/web-analytics-with-similarweb-from-basic-to-pro/)
+
+* [Happy parents happy kids parenting course](https://coursemetry.com/happy-parents-happy-kids-parenting-course/)
+
+* [Certified Information Systems Security Professional - CISSP](https://coursemetry.com/certified-information-systems-security-professional-cissp-2/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [Unity 3D Temel C# ve Doğru Kodlama Eğitimi](https://coursemetry.com/unity-3d-temel-c-ve-dogru-kodlama-egitimi/)
+
+* [Google Certified Professional Cloud Developer Practice Exam](https://coursemetry.com/google-certified-professional-cloud-developer-practice-exam/)
+
+* [Web Hacking for Beginners](https://coursemetry.com/web-hacking-for-beginners/)
+
+* [GCP Certified Data Engineer - Practice Tests 2023](https://coursemetry.com/gcp-certified-data-engineer-practice-tests-2023/)
+
+* [Ultimate Linux Guide with Interview Preparation](https://coursemetry.com/ultimate-linux-guide-with-interview-preparation/)
+
+* [Fedora Linux from Scratch](https://coursemetry.com/fedora-linux-from-scratch/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
