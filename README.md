@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **128 Udemy free courses published on 2022-06-24**
+## **138 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -259,6 +259,26 @@
 * [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
 
 * [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
+
+* [10x Your Social Skills & Connect With People](https://coursemetry.com/10x-your-social-skills-connect-with-people/)
+
+* [Interior Design: from 3ds max to Twinmotion](https://coursemetry.com/interior-design-from-3ds-max-to-twinmotion/)
+
+* [Screenwriting 101: How to Become a Hollywood Script Reader](https://coursemetry.com/screenwriting-101-how-to-become-a-hollywood-script-reader/)
+
+* [PRINCE2 Foundation Practice Exams](https://coursemetry.com/prince2-foundation-practice-exams-2/)
+
+* [Business Economics - Learn to Evaluate Business & Projects](https://coursemetry.com/business-economics-learn-to-evaluate-business-projects/)
+
+* [SC-400 Information Protection Administrator Practice Exams](https://coursemetry.com/sc-400-information-protection-administrator-practice-exams/)
+
+* [Gestionar tu tiempo para el éxito laboral / Recursos Humanos](https://coursemetry.com/gestionar-tu-tiempo-para-el-exito-laboral-recursos-humanos/)
+
+* [ServiceNow System Administrator (CSA) Practice Exams](https://coursemetry.com/servicenow-system-administrator-csa-practice-exams/)
+
+* [Practice Exams to Prepare for RHCSA EX200 Exam](https://coursemetry.com/practice-exams-to-prepare-for-rhcsa-ex200-exam/)
+
+* [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
