@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published on 2022-06-24**
+## **52 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -103,6 +103,10 @@
 * [Certified Ethical Hacker CEH v10  Questions-2022](https://coursemetry.com/certified-ethical-hacker-ceh-v10-questions-2022/)
 
 * [Renew your intimate relationship](https://coursemetry.com/renew-your-intimate-relationship/)
+
+* [Web Hacking for Beginners](https://coursemetry.com/web-hacking-for-beginners/)
+
+* [CCSP Domain 3 - Cloud Platform and Infrastructure Security](https://coursemetry.com/ccsp-domain-3-cloud-platform-and-infrastructure-security/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
