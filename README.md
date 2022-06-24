@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published on 2022-06-24**
+## **72 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -145,6 +145,8 @@
 * [CAMS Anti-Money Laundering Specialist Practice Exams](https://coursemetry.com/cams-anti-money-laundering-specialist-practice-exams/)
 
 * [Ultimate CCNA 200-301 Practice Exams](https://coursemetry.com/ultimate-ccna-200-301-practice-exams/)
+
+* [Filmora: Complete Video Editing In Hindi/urdu - Sarfaraz](https://coursemetry.com/filmora-complete-video-editing-in-hindi-urdu-sarfaraz/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
