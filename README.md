@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published on 2022-06-24**
+## **71 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -135,6 +135,16 @@
 * [AZ-104: Azure Administrator Practice Exams](https://coursemetry.com/az-104-azure-administrator-practice-exams/)
 
 * [AWS Certified Cloud Practitioner Practice Exams](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-5/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Exams](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-exams/)
+
+* [AZ-305: Designing MS Azure Infrastructure Solutions Exams](https://coursemetry.com/az-305-designing-ms-azure-infrastructure-solutions-exams/)
+
+* [AZ-500: MS Azure Security Technologies Practice Exams](https://coursemetry.com/az-500-ms-azure-security-technologies-practice-exams/)
+
+* [CAMS Anti-Money Laundering Specialist Practice Exams](https://coursemetry.com/cams-anti-money-laundering-specialist-practice-exams/)
+
+* [Ultimate CCNA 200-301 Practice Exams](https://coursemetry.com/ultimate-ccna-200-301-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
