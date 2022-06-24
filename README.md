@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published on 2022-06-24**
+## **66 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -129,6 +129,12 @@
 * [R Programming : Data Analysis and Visualisations using R](https://coursemetry.com/r-programming-data-analysis-and-visualisations-using-r/)
 
 * [PBA Exam Prep Professional in Business Analysis-2022](https://coursemetry.com/pba-exam-prep-professional-in-business-analysis-2022-2/)
+
+* [AZ-204 Azure Developing Solutions Practice Exams](https://coursemetry.com/az-204-azure-developing-solutions-practice-exams/)
+
+* [AZ-104: Azure Administrator Practice Exams](https://coursemetry.com/az-104-azure-administrator-practice-exams/)
+
+* [AWS Certified Cloud Practitioner Practice Exams](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-5/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
