@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **114 Udemy free courses published on 2022-06-24**
+## **119 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -231,6 +231,16 @@
 * [Shamanic Channeling, Chanting & Humming | Certificate Course](https://coursemetry.com/shamanic-channeling-chanting-humming-certificate-course/)
 
 * [Freelance Content-Creator Masterclass](https://coursemetry.com/freelance-content-creator-masterclass/)
+
+* [MCIA Mulesoft Certified Integration Architect Practice Exams](https://coursemetry.com/mcia-mulesoft-certified-integration-architect-practice-exams/)
+
+* [MD-101 Managing Modern Desktops Practice Exams](https://coursemetry.com/md-101-managing-modern-desktops-practice-exams/)
+
+* [ITIL4 Foundation Practice Exams](https://coursemetry.com/itil4-foundation-practice-exams/)
+
+* [LPI 010-160 Linux Essentials Practice Exams](https://coursemetry.com/lpi-010-160-linux-essentials-practice-exams/)
+
+* [MD-100 Windows 10 Practice Exams](https://coursemetry.com/md-100-windows-10-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
