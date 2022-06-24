@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published on 2022-06-24**
+## **110 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -199,6 +199,30 @@
 * [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
 
 * [Practice Test - AWS Certified Cloud Practitioner](https://coursemetry.com/practice-test-aws-certified-cloud-practitioner/)
+
+* [Starting 6 Businesses in 2022](https://coursemetry.com/starting-6-businesses-in-2022/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [The Complete Motivation Course: Motivation for Your Success](https://coursemetry.com/the-complete-motivation-course-motivation-for-your-success/)
+
+* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
+
+* [Complete Goal Achievement Course - Personal Success Goals](https://coursemetry.com/complete-goal-achievement-course-personal-success-goals/)
+
+* [Reiki Secrets Revealed: Complete 30-Hour Certification Class](https://coursemetry.com/reiki-secrets-revealed-complete-30-hour-certification-class/)
+
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
+
+* [Where should you start your Arabic language learning?](https://coursemetry.com/where-should-you-start-your-arabic-language-learning/)
+
+* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
+
+* [Make Your Excel Look Like a Standalone Program](https://coursemetry.com/make-your-excel-look-like-a-standalone-program/)
+
+* [Cinematography Masterclass: Video Production, Videography+](https://coursemetry.com/cinematography-masterclass-video-production-videography/)
+
+* [Test -AZ-204 Developing Solutions for MS Azure - 2022](https://coursemetry.com/test-az-204-developing-solutions-for-ms-azure-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
