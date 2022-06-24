@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **138 Udemy free courses published on 2022-06-24**
+## **140 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -279,6 +279,10 @@
 * [Practice Exams to Prepare for RHCSA EX200 Exam](https://coursemetry.com/practice-exams-to-prepare-for-rhcsa-ex200-exam/)
 
 * [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
+
+* [Learn Maya 3D Modeling for Unity Mobile Game Development](https://coursemetry.com/learn-maya-3d-modeling-for-unity-mobile-game-development/)
+
+* [How to Create a Professional Presentation in PowerPoint](https://coursemetry.com/how-to-create-a-professional-presentation-in-powerpoint/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
