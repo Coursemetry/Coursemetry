@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published on 2022-06-24**
+## **114 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -223,6 +223,14 @@
 * [Cinematography Masterclass: Video Production, Videography+](https://coursemetry.com/cinematography-masterclass-video-production-videography/)
 
 * [Test -AZ-204 Developing Solutions for MS Azure - 2022](https://coursemetry.com/test-az-204-developing-solutions-for-ms-azure-2022/)
+
+* [Positive Transformation Hypnotherapy | Certificate Course](https://coursemetry.com/positive-transformation-hypnotherapy-certificate-course/)
+
+* [The Complete Dart Learning Guide [2022 Edition]](https://coursemetry.com/the-complete-dart-learning-guide-2022-edition/)
+
+* [Shamanic Channeling, Chanting & Humming | Certificate Course](https://coursemetry.com/shamanic-channeling-chanting-humming-certificate-course/)
+
+* [Freelance Content-Creator Masterclass](https://coursemetry.com/freelance-content-creator-masterclass/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
