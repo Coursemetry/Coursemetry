@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **52 Udemy free courses published on 2022-06-24**
+## **57 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -107,6 +107,16 @@
 * [Web Hacking for Beginners](https://coursemetry.com/web-hacking-for-beginners/)
 
 * [CCSP Domain 3 - Cloud Platform and Infrastructure Security](https://coursemetry.com/ccsp-domain-3-cloud-platform-and-infrastructure-security/)
+
+* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
+
+* [Complete Adobe XD Megacourse: Beginner to Expert](https://coursemetry.com/complete-adobe-xd-megacourse-beginner-to-expert/)
+
+* [Deep Learning avec Python: La Formation Complète](https://coursemetry.com/deep-learning-avec-python-la-formation-complete/)
+
+* [Cinematography Masterclass for Videographers & Film-Makers](https://coursemetry.com/cinematography-masterclass-for-videographers-film-makers/)
+
+* [PRINCE 2 Foundation Practice-Exam-2022](https://coursemetry.com/prince-2-foundation-practice-exam-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
