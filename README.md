@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published on 2022-06-24**
+## **63 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -117,6 +117,18 @@
 * [Cinematography Masterclass for Videographers & Film-Makers](https://coursemetry.com/cinematography-masterclass-for-videographers-film-makers/)
 
 * [PRINCE 2 Foundation Practice-Exam-2022](https://coursemetry.com/prince-2-foundation-practice-exam-2022/)
+
+* [UI/UX Design With Figma : 5+ Real World Projects(2022)](https://coursemetry.com/ui-ux-design-with-figma-5-real-world-projects2022/)
+
+* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
+
+* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [R Programming : Data Analysis and Visualisations using R](https://coursemetry.com/r-programming-data-analysis-and-visualisations-using-r/)
+
+* [PBA Exam Prep Professional in Business Analysis-2022](https://coursemetry.com/pba-exam-prep-professional-in-business-analysis-2022-2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
