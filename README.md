@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **29 Udemy free courses published on 2022-06-24**
+## **50 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -54,13 +54,55 @@
 
 * [Popping Dance For Beginners](https://coursemetry.com/popping-dance-for-beginners/)
 
-* [PO Academy I - Product Owner Role, Craft, Skills and Tools](https://coursemetry.com/po-academy-i-product-owner-role-craft-skills-and-tools/)
-
 * [Income Tax-Business Use of Home Deduction](https://coursemetry.com/income-tax-business-use-of-home-deduction/)
 
 * [مفاتيح سعادة المرأة](https://coursemetry.com/%d9%85%d9%81%d8%a7%d8%aa%d9%8a%d8%ad-%d8%b3%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d8%a3%d8%a9/)
 
 * [JavaScript - Sıfırdan JavaScript Programlamaya Giriş](https://coursemetry.com/javascript-sifirdan-javascript-programlamaya-giris/)
+
+* [Dünya'nın En İyi İngilizce Kaynaklarını Öğrenin!!](https://coursemetry.com/dunyanin-en-iyi-ingilizce-kaynaklarini-ogrenin/)
+
+* [Learn Certified Ethical Hacking(CEH) From Scratch](https://coursemetry.com/learn-certified-ethical-hackingceh-from-scratch/)
+
+* [See 27 Ways to Make Money Online with Your Smartphone!](https://coursemetry.com/see-27-ways-to-make-money-online-with-your-smartphone/)
+
+* [Complete Spanish Course: Learn Spanish for Beginners](https://coursemetry.com/complete-spanish-course-learn-spanish-for-beginners/)
+
+* [Simulador Professional Scrum with Kanban (PSK)](https://coursemetry.com/simulador-professional-scrum-with-kanban-psk/)
+
+* [Connect with your kids 1:1](https://coursemetry.com/connect-with-your-kids-11/)
+
+* [Microsoft Azure AI-102 Exam Practice Questions](https://coursemetry.com/microsoft-azure-ai-102-exam-practice-questions/)
+
+* [PO Academy I - Product Owner Role, Craft, Skills and Tools](https://coursemetry.com/po-academy-i-product-owner-role-craft-skills-and-tools/)
+
+* [Microsoft Excel - Advance Level MS Excel Training Course](https://coursemetry.com/microsoft-excel-advance-level-ms-excel-training-course/)
+
+* [AZ-204 Developing Solutions for MS Azure test 2022](https://coursemetry.com/az-204-developing-solutions-for-ms-azure-test-2022/)
+
+* [Learn Microsoft Outlook | Complete Microsoft Outlook Guide](https://coursemetry.com/learn-microsoft-outlook-complete-microsoft-outlook-guide/)
+
+* [Feel confident and sexy from within](https://coursemetry.com/feel-confident-and-sexy-from-within/)
+
+* [Professional Scrum Master I (PSM I) Exam Prep](https://coursemetry.com/professional-scrum-master-i-psm-i-exam-prep/)
+
+* [Microsoft OneNote Training | Master the Microsoft OneNote](https://coursemetry.com/microsoft-onenote-training-master-the-microsoft-onenote/)
+
+* [AWS Certified SysOps Administrator - Associate Practice Exam](https://coursemetry.com/aws-certified-sysops-administrator-associate-practice-exam/)
+
+* [Innovation Management - Develop Innovative Mindset](https://coursemetry.com/innovation-management-develop-innovative-mindset/)
+
+* [Disciplined Agile Scrum Master (DASM) Exam Prep](https://coursemetry.com/disciplined-agile-scrum-master-dasm-exam-prep/)
+
+* [Learn Microsoft Publisher | Complete Microsoft Publisher](https://coursemetry.com/learn-microsoft-publisher-complete-microsoft-publisher/)
+
+* [AWS Certified Security - Specialty Practice Questions](https://coursemetry.com/aws-certified-security-specialty-practice-questions/)
+
+* [Simulador Scrum Product Owner (PSPO I)](https://coursemetry.com/simulador-scrum-product-owner-pspo-i/)
+
+* [Certified Ethical Hacker CEH v10  Questions-2022](https://coursemetry.com/certified-ethical-hacker-ceh-v10-questions-2022/)
+
+* [Renew your intimate relationship](https://coursemetry.com/renew-your-intimate-relationship/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
