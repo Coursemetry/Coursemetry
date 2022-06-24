@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published on 2022-06-24**
+## **84 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -147,6 +147,30 @@
 * [Ultimate CCNA 200-301 Practice Exams](https://coursemetry.com/ultimate-ccna-200-301-practice-exams/)
 
 * [Filmora: Complete Video Editing In Hindi/urdu - Sarfaraz](https://coursemetry.com/filmora-complete-video-editing-in-hindi-urdu-sarfaraz/)
+
+* [Storytelling With Imagery For Persuasion & Personal Brand](https://coursemetry.com/storytelling-with-imagery-for-persuasion-personal-brand/)
+
+* [Agile Project Management: Agile, Scrum, Kanban & XP](https://coursemetry.com/agile-project-management-agile-scrum-kanban-xp/)
+
+* [Blogging & Content Writing Course - Start A Profitable Blog](https://coursemetry.com/blogging-content-writing-course-start-a-profitable-blog/)
+
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+
+* [Practice Test - AWS Certified Security Specialty 2022](https://coursemetry.com/practice-test-aws-certified-security-specialty-2022/)
+
+* [PL-300 Microsoft Power BI Data Analyst: Practice Exams](https://coursemetry.com/pl-300-microsoft-power-bi-data-analyst-practice-exams/)
+
+* [Practice Test - AWS certified developer associate 2022](https://coursemetry.com/practice-test-aws-certified-developer-associate-2022/)
+
+* [200+ Exercises - Programming in Python - 2022](https://coursemetry.com/200-exercises-programming-in-python-2022/)
+
+* [Check Point Certified Security Administrator Practice Exams](https://coursemetry.com/check-point-certified-security-administrator-practice-exams-5/)
+
+* [Atlassian Confluence A-Z: Confluence for New Users](https://coursemetry.com/atlassian-confluence-a-z-confluence-for-new-users/)
+
+* [Innovation & Startups: AB Testing Of KPI With Lean Startup](https://coursemetry.com/innovation-startups-ab-testing-of-kpi-with-lean-startup/)
+
+* [Docker Certified Associate Practice Exams (DCA)](https://coursemetry.com/docker-certified-associate-practice-exams-dca/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
