@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published on 2022-06-24**
+## **128 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -241,6 +241,24 @@
 * [LPI 010-160 Linux Essentials Practice Exams](https://coursemetry.com/lpi-010-160-linux-essentials-practice-exams/)
 
 * [MD-100 Windows 10 Practice Exams](https://coursemetry.com/md-100-windows-10-practice-exams/)
+
+* [Learn The Benefits White Label Digital Marketing Services](https://coursemetry.com/learn-the-benefits-white-label-digital-marketing-services/)
+
+* [Web Scraping : Scrape YouTube Data Using JavaScript and API](https://coursemetry.com/web-scraping-scrape-youtube-data-using-javascript-and-api/)
+
+* [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
+
+* [The PHP 8 Learning Guide [2022 Edition]](https://coursemetry.com/the-php-8-learning-guide-2022-edition/)
+
+* [The Java Learning Guide](https://coursemetry.com/the-java-learning-guide/)
+
+* [The Python and Django Learning Guide](https://coursemetry.com/the-python-and-django-learning-guide/)
+
+* [The C++ Learning Guide](https://coursemetry.com/the-c-learning-guide/)
+
+* [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
+
+* [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
