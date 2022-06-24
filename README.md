@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **84 Udemy free courses published on 2022-06-24**
+## **92 Udemy free courses published on 2022-06-24**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -171,6 +171,22 @@
 * [Innovation & Startups: AB Testing Of KPI With Lean Startup](https://coursemetry.com/innovation-startups-ab-testing-of-kpi-with-lean-startup/)
 
 * [Docker Certified Associate Practice Exams (DCA)](https://coursemetry.com/docker-certified-associate-practice-exams-dca/)
+
+* [Ethical Hacking Primer: From OWASP Top 10 to DVWA](https://coursemetry.com/ethical-hacking-primer-from-owasp-top-10-to-dvwa/)
+
+* [DevOps Mastery with Docker Kubernetes & Azure Kubernetes](https://coursemetry.com/devops-mastery-with-docker-kubernetes-azure-kubernetes/)
+
+* [Build & Deploy Secure API with Python FASTAPI JWT SQLAlchemy](https://coursemetry.com/build-deploy-secure-api-with-python-fastapi-jwt-sqlalchemy/)
+
+* [Simulador Examen PMI Agile Certified Practitioner (PMI-ACP)](https://coursemetry.com/simulador-examen-pmi-agile-certified-practitioner-pmi-acp/)
+
+* [Practical Junit & Mockito Test with Java SpringBoot & JPA](https://coursemetry.com/practical-junit-mockito-test-with-java-springboot-jpa/)
+
+* [Zero to Hero Java SpringBoot & JPA Mastery with Real Project](https://coursemetry.com/zero-to-hero-java-springboot-jpa-mastery-with-real-project/)
+
+* [Practical Java-8 Mastery Course](https://coursemetry.com/practical-java-8-mastery-course/)
+
+* [Docker & Kubernetes Interview Readiness Course](https://coursemetry.com/docker-kubernetes-interview-readiness-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
