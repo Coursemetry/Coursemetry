@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published on 2022-06-25**
+## **45 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -75,6 +75,24 @@
 * [Learn basic Italian in 2 hours](https://coursemetry.com/learn-basic-italian-in-2-hours/)
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [Essential Excel for Project Managers](https://coursemetry.com/essential-excel-for-project-managers/)
+
+* [2022 Excel Tips and Tricks](https://coursemetry.com/2022-excel-tips-and-tricks/)
+
+* [How to use Excel at your work place](https://coursemetry.com/how-to-use-excel-at-your-work-place/)
+
+* [Residential Rental Property Tax Preparation 2021-2022](https://coursemetry.com/residential-rental-property-tax-preparation-2021-2022/)
+
+* [نيويورك كوكيز المتنوعة](https://coursemetry.com/%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d9%83%d9%88%d9%83%d9%8a%d8%b2-%d8%a7%d9%84%d9%85%d8%aa%d9%86%d9%88%d8%b9%d8%a9/)
+
+* [The Complete Facebook Ads Course for beginners](https://coursemetry.com/the-complete-facebook-ads-course-for-beginners/)
+
+* [Design Sketching S01: Create Amazing Designs with Procreate](https://coursemetry.com/design-sketching-s01-create-amazing-designs-with-procreate/)
+
+* [Mastering Coding and System design interviews by upskilling](https://coursemetry.com/mastering-coding-and-system-design-interviews-by-upskilling/)
+
+* [Excel Data Analysis With Pivot Tables & Pivot Charts - 2022](https://coursemetry.com/excel-data-analysis-with-pivot-tables-pivot-charts-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
