@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **103 Udemy free courses published on 2022-06-25**
+## **105 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -209,6 +209,10 @@
 * [DP-900 Azure Data Fundamentals Exam : Practice Test 2022](https://coursemetry.com/dp-900-azure-data-fundamentals-exam-practice-test-2022/)
 
 * [The Complete Business Interview Course](https://coursemetry.com/the-complete-business-interview-course/)
+
+* [A Natural Hair Education - How to Boost Healthy Hair Growth](https://coursemetry.com/a-natural-hair-education-how-to-boost-healthy-hair-growth/)
+
+* [Cryptocurrency Course for Beginners 2022](https://coursemetry.com/cryptocurrency-course-for-beginners-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
