@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published on 2022-06-25**
+## **113 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -215,6 +215,20 @@
 * [Cryptocurrency Course for Beginners 2022](https://coursemetry.com/cryptocurrency-course-for-beginners-2022/)
 
 * [Cursillo Excel Básico](https://coursemetry.com/cursillo-excel-basico/)
+
+* [Learn 70 Great Websites to Get Unlimited  Royalty FreeImages](https://coursemetry.com/learn-70-great-websites-to-get-unlimited-royalty-freeimages/)
+
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
+
+* [Complete Canva Megacourse: Beginner to Expert](https://coursemetry.com/complete-canva-megacourse-beginner-to-expert/)
+
+* [SAS Base Programming Practical Pro Tests and Answers](https://coursemetry.com/sas-base-programming-practical-pro-tests-and-answers/)
+
+* [ICDL الرخصة الدولية لقيادة الحاسب الآلي](https://coursemetry.com/icdl-%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d9%84%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8-%d8%a7%d9%84%d8%a2%d9%84%d9%8a/)
+
+* [Ethical Hacking| الكورس الشامل لتصبح هكر اخلاقي معتمد](https://coursemetry.com/ethical-hacking-%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b5%d8%a8%d8%ad-%d9%87%d9%83%d8%b1-%d8%a7%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d9%85%d8%b9%d8%aa/)
+
+* [Project Management Professional [PMP] Practice Tests](https://coursemetry.com/project-management-professional-pmp-practice-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
