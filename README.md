@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published on 2022-06-25**
+## **103 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -61,8 +61,6 @@
 * [Master Transaction Management with SpringBoot and Data JPA](https://coursemetry.com/master-transaction-management-with-springboot-and-data-jpa/)
 
 * [RoboAuthor: Content Writing Automation 2022 - Part 10](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-10/)
-
-* [Introducción a la Maquetación Web](https://coursemetry.com/introduccion-a-la-maquetacion-web/)
 
 * [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python-2/)
 
@@ -203,6 +201,14 @@
 * [Video Recording and Editing with Camtasia -Beginners guide](https://coursemetry.com/video-recording-and-editing-with-camtasia-beginners-guide/)
 
 * [Basic Business Fundamentals  - Operations Management](https://coursemetry.com/basic-business-fundamentals-operations-management/)
+
+* [Introducción a la Maquetación Web](https://coursemetry.com/introduccion-a-la-maquetacion-web/)
+
+* [Business English Course: Essentials in Business World](https://coursemetry.com/business-english-course-essentials-in-business-world/)
+
+* [DP-900 Azure Data Fundamentals Exam : Practice Test 2022](https://coursemetry.com/dp-900-azure-data-fundamentals-exam-practice-test-2022/)
+
+* [The Complete Business Interview Course](https://coursemetry.com/the-complete-business-interview-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
