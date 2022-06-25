@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **35 Udemy free courses published on 2022-06-25**
+## **36 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -73,6 +73,8 @@
 * [Organize your online business for busy entrepreneurs](https://coursemetry.com/organize-your-online-business-for-busy-entrepreneurs/)
 
 * [Learn basic Italian in 2 hours](https://coursemetry.com/learn-basic-italian-in-2-hours/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
