@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published on 2022-06-25**
+## **106 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -213,6 +213,8 @@
 * [A Natural Hair Education - How to Boost Healthy Hair Growth](https://coursemetry.com/a-natural-hair-education-how-to-boost-healthy-hair-growth/)
 
 * [Cryptocurrency Course for Beginners 2022](https://coursemetry.com/cryptocurrency-course-for-beginners-2022/)
+
+* [Cursillo Excel Básico](https://coursemetry.com/cursillo-excel-basico/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
