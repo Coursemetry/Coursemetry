@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published on 2022-06-25**
+## **53 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -93,6 +93,22 @@
 * [Mastering Coding and System design interviews by upskilling](https://coursemetry.com/mastering-coding-and-system-design-interviews-by-upskilling/)
 
 * [Excel Data Analysis With Pivot Tables & Pivot Charts - 2022](https://coursemetry.com/excel-data-analysis-with-pivot-tables-pivot-charts-2022/)
+
+* [Practice Test - AWS Certified Data Analytics - Specialty](https://coursemetry.com/practice-test-aws-certified-data-analytics-specialty/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Building Android Widgets from Scratch ( Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Aprende Sketchup con Mies van der Rohe](https://coursemetry.com/aprende-sketchup-con-mies-van-der-rohe/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
