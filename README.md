@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published on 2022-06-25**
+## **72 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -133,6 +133,20 @@
 * [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
 
 * [Two QuickBooks File-Business & Personal vs One File For Both](https://coursemetry.com/two-quickbooks-file-business-personal-vs-one-file-for-both/)
+
+* [VIVADO Learn from the beginning with PCIE full project](https://coursemetry.com/vivado-learn-from-the-beginning-with-pcie-full-project/)
+
+* [Learn VHDL from the beginning for FPGA and CPLD development](https://coursemetry.com/learn-vhdl-from-the-beginning-for-fpga-and-cpld-development/)
+
+* [FPGA VHDL coding QSPI nor flash memory from zero to hero](https://coursemetry.com/fpga-vhdl-coding-qspi-nor-flash-memory-from-zero-to-hero/)
+
+* [VIVADO regular FIFO vs AXI FIFO](https://coursemetry.com/vivado-regular-fifo-vs-axi-fifo/)
+
+* [FPGA VHDL UART implementation communication protocol series](https://coursemetry.com/fpga-vhdl-uart-implementation-communication-protocol-series/)
+
+* [Arduino build your own Bionic Arm with voice recognition](https://coursemetry.com/arduino-build-your-own-bionic-arm-with-voice-recognition/)
+
+* [Norwegian Language Course A1 Part 1](https://coursemetry.com/norwegian-language-course-a1-part-1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
