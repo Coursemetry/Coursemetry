@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **113 Udemy free courses published on 2022-06-25**
+## **117 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -229,6 +229,14 @@
 * [Ethical Hacking| الكورس الشامل لتصبح هكر اخلاقي معتمد](https://coursemetry.com/ethical-hacking-%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b5%d8%a8%d8%ad-%d9%87%d9%83%d8%b1-%d8%a7%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d9%85%d8%b9%d8%aa/)
 
 * [Project Management Professional [PMP] Practice Tests](https://coursemetry.com/project-management-professional-pmp-practice-tests/)
+
+* [PMI Scheduling Professional (PMI-SP) Pro Tests Simulator](https://coursemetry.com/pmi-scheduling-professional-pmi-sp-pro-tests-simulator/)
+
+* [2022 PgMP (Program Management Professional) Exam Prep Tests](https://coursemetry.com/2022-pgmp-program-management-professional-exam-prep-tests/)
+
+* [Intelligence Quotient [ IQ ] Tests and Answers](https://coursemetry.com/intelligence-quotient-iq-tests-and-answers/)
+
+* [Certified Supply Chain Professional (CSCP) PRO Tests](https://coursemetry.com/certified-supply-chain-professional-cscp-pro-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
