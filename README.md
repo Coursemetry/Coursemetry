@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published on 2022-06-25**
+## **97 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -161,6 +161,42 @@
 * [QuickBooks Pro Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2022-2021-2020/)
 
 * [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+
+* [Java/Eclipse & Programmation Orienté-Objet](https://coursemetry.com/java-eclipse-programmation-oriente-objet/)
+
+* [Time management for busy entrepreneurs - optimize to win](https://coursemetry.com/time-management-for-busy-entrepreneurs-optimize-to-win/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+
+* [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
+
+* [Journal your way to your dream life](https://coursemetry.com/journal-your-way-to-your-dream-life/)
+
+* [Formation Complète: Création Application-Android Studio/Java](https://coursemetry.com/formation-complete-creation-application-android-studio-java/)
+
+* [HTML, CSS, & Bootstrap - Certification Course for Beginners](https://coursemetry.com/html-css-bootstrap-certification-course-for-beginners/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [R programming for beginners](https://coursemetry.com/r-programming-for-beginners/)
+
+* [Plan your best life - planning strategies that work](https://coursemetry.com/plan-your-best-life-planning-strategies-that-work/)
+
+* [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
+
+* [Web Development Masterclass - Complete Certificate Course](https://coursemetry.com/web-development-masterclass-complete-certificate-course/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [Formation complète:Apprendre à créer votre logiciel de A à Z](https://coursemetry.com/formation-completeapprendre-a-creer-votre-logiciel-de-a-a-z/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
