@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published on 2022-06-25**
+## **100 Udemy free courses published on 2022-06-25**
 
 * [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
 
@@ -197,6 +197,12 @@
 * [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
 
 * [Formation complète:Apprendre à créer votre logiciel de A à Z](https://coursemetry.com/formation-completeapprendre-a-creer-votre-logiciel-de-a-a-z/)
+
+* [Learn and master the Vim text editor](https://coursemetry.com/learn-and-master-the-vim-text-editor/)
+
+* [Video Recording and Editing with Camtasia -Beginners guide](https://coursemetry.com/video-recording-and-editing-with-camtasia-beginners-guide/)
+
+* [Basic Business Fundamentals  - Operations Management](https://coursemetry.com/basic-business-fundamentals-operations-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
