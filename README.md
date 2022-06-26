@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published on 2022-06-26**
+## **94 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -147,6 +147,50 @@
 * [The Complete Focus Mastery Course - Brain Concentration](https://coursemetry.com/the-complete-focus-mastery-course-brain-concentration/)
 
 * [The Complete Mindfulness Course - Enjoy Life In the Present](https://coursemetry.com/the-complete-mindfulness-course-enjoy-life-in-the-present/)
+
+* [Open-Source Intelligence (OSINT)](https://coursemetry.com/open-source-intelligence-osint/)
+
+* [Entrepreneurship: 60 Day Startup Launch Blueprint](https://coursemetry.com/entrepreneurship-60-day-startup-launch-blueprint/)
+
+* [Python Scripting Complete Course](https://coursemetry.com/python-scripting-complete-course/)
+
+* [Linux Security](https://coursemetry.com/linux-security/)
+
+* [JavaScript - Creating Loan EMI Calculator](https://coursemetry.com/javascript-creating-loan-emi-calculator/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [Charisma: You Can Develop Charisma](https://coursemetry.com/charisma-you-can-develop-charisma/)
+
+* [Profitable App Development Blueprint for Startups](https://coursemetry.com/profitable-app-development-blueprint-for-startups/)
+
+* [Personal Communication-Introduce Yourself With Confidence](https://coursemetry.com/personal-communication-introduce-yourself-with-confidence/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Presentation Skills -Deliver an Excellent Ceremonial Speech](https://coursemetry.com/presentation-skills-deliver-an-excellent-ceremonial-speech/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Public Speaking: You Can Speak to Large Audiences](https://coursemetry.com/public-speaking-you-can-speak-to-large-audiences/)
+
+* [Presentation Skills - Advanced: Speak Without Reading Notes](https://coursemetry.com/presentation-skills-advanced-speak-without-reading-notes/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Public Speaking for Women](https://coursemetry.com/public-speaking-for-women/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [Public Relations Firms: You Can Hire the Best PR Firm](https://coursemetry.com/public-relations-firms-you-can-hire-the-best-pr-firm/)
+
+* [Online Course Creation: Teach an Online Course](https://coursemetry.com/online-course-creation-teach-an-online-course/)
+
+* [Public Speaking Skills:  Give a Great Informational Speech](https://coursemetry.com/public-speaking-skills-give-a-great-informational-speech/)
+
+* [JavaScript - Creating Quiz Hands on Complete Course](https://coursemetry.com/javascript-creating-quiz-hands-on-complete-course/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
