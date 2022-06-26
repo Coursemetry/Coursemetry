@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published on 2022-06-26**
+## **107 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -191,6 +191,32 @@
 * [JavaScript - Creating Quiz Hands on Complete Course](https://coursemetry.com/javascript-creating-quiz-hands-on-complete-course/)
 
 * [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Car Repair | Automotive Electrician and Mechanic Training |](https://coursemetry.com/car-repair-automotive-electrician-and-mechanic-training/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
+
+* [Cyber Security and Ethical Hacking Masterclass | CSEH+ 2022](https://coursemetry.com/cyber-security-and-ethical-hacking-masterclass-cseh-2022/)
+
+* [Başlangıçtan İleri Düzeye Tam Kapsamlı Hızlı İngilizce Kursu](https://coursemetry.com/baslangictan-ileri-duzeye-tam-kapsamli-hizli-ingilizce-kursu/)
+
+* [Python Bootcamp 2021 Build 15 working Applications and Games](https://coursemetry.com/python-bootcamp-2021-build-15-working-applications-and-games/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [SEO Training 2022: Complete SEO Course & WordPress SEO Yoast](https://coursemetry.com/seo-training-2022-complete-seo-course-wordpress-seo-yoast/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [Java Network Programming - Mastering TCP/IP | CJNP+ 2022](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022/)
+
+* [Kotlin Android Training - Mastering Android App Development](https://coursemetry.com/kotlin-android-training-mastering-android-app-development/)
+
+* [Algorithmic Trading with Python: Technical Analysis Strategy](https://coursemetry.com/algorithmic-trading-with-python-technical-analysis-strategy/)
+
+* [C++ Programming for Beginners](https://coursemetry.com/c-programming-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
