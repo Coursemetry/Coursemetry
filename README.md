@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published on 2022-06-26**
+## **122 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -243,6 +243,10 @@
 * [Microsoft Excel - Learn MS EXCEL For DATA Analysis](https://coursemetry.com/microsoft-excel-learn-ms-excel-for-data-analysis/)
 
 * [Membership Site: Membership Recurring Home Business Model](https://coursemetry.com/membership-site-membership-recurring-home-business-model/)
+
+* [Envió Masivo de Correos Electrónicos con PHP, MySQL y JS](https://coursemetry.com/envio-masivo-de-correos-electronicos-con-php-mysql-y-js/)
+
+* [Intro To Computer Science With Python & Jupyter (UNIT01)](https://coursemetry.com/intro-to-computer-science-with-python-jupyter-unit01/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
