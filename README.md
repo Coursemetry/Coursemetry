@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **107 Udemy free courses published on 2022-06-26**
+## **120 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -217,6 +217,32 @@
 * [Algorithmic Trading with Python: Technical Analysis Strategy](https://coursemetry.com/algorithmic-trading-with-python-technical-analysis-strategy/)
 
 * [C++ Programming for Beginners](https://coursemetry.com/c-programming-for-beginners/)
+
+* [Trumpet for Beginners](https://coursemetry.com/trumpet-for-beginners/)
+
+* [Linux Command Line Terminal Basic for Beginners (In Hindi)](https://coursemetry.com/linux-command-line-terminal-basic-for-beginners-in-hindi/)
+
+* [Entrepreneurial Business and Economics](https://coursemetry.com/entrepreneurial-business-and-economics/)
+
+* [Real time Automation+Manual Interview Questions with Answers](https://coursemetry.com/real-time-automationmanual-interview-questions-with-answers/)
+
+* [STOP HEART ATTACKS AND STROKES IN WOMEN.](https://coursemetry.com/stop-heart-attacks-and-strokes-in-women/)
+
+* [JPMorgan- Real Time Actual Scrum Master Interview Experience](https://coursemetry.com/jpmorgan-real-time-actual-scrum-master-interview-experience/)
+
+* [Japonais pour débutants 1: l'Atelier des hiragana](https://coursemetry.com/japonais-pour-debutants-1-latelier-des-hiragana/)
+
+* [Microsoft Excel: Excel course for beginners](https://coursemetry.com/microsoft-excel-excel-course-for-beginners/)
+
+* [Basic Business Fundamentals  - Operations Management](https://coursemetry.com/basic-business-fundamentals-operations-management/)
+
+* [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
+
+* [DaVinci Resolve 17: Video editing course for beginners](https://coursemetry.com/davinci-resolve-17-video-editing-course-for-beginners/)
+
+* [Microsoft Excel - Learn MS EXCEL For DATA Analysis](https://coursemetry.com/microsoft-excel-learn-ms-excel-for-data-analysis/)
+
+* [Membership Site: Membership Recurring Home Business Model](https://coursemetry.com/membership-site-membership-recurring-home-business-model/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
