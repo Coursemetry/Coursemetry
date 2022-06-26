@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published on 2022-06-26**
+## **62 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -113,6 +113,20 @@
 * [Blockchain Development on Ethereum](https://coursemetry.com/blockchain-development-on-ethereum/)
 
 * [Certified Lean Six Sigma Yellow Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-yellow-belt-exam-prep/)
+
+* [ICDL الرخصة الدولية لقيادة الحاسب الآلي](https://coursemetry.com/icdl-%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d9%84%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8-%d8%a7%d9%84%d8%a2%d9%84%d9%8a/)
+
+* [Learn Carnatic Flute | Muthuswamy Deekshitar Krithis - Vol 1](https://coursemetry.com/learn-carnatic-flute-muthuswamy-deekshitar-krithis-vol-1/)
+
+* [Ultimate Guide to Use WordPress Gutenberg Editor (2022)](https://coursemetry.com/ultimate-guide-to-use-wordpress-gutenberg-editor-2022/)
+
+* [OBS Studio in 1-2-3](https://coursemetry.com/obs-studio-in-1-2-3/)
+
+* [Earn Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/earn-money-copywriting-make-money-writing-copy-from-home/)
+
+* [Fiverr HACKS to Become a Top-Level Freelancer with No Skills](https://coursemetry.com/fiverr-hacks-to-become-a-top-level-freelancer-with-no-skills/)
+
+* [Massaggio rilassante: Total Body](https://coursemetry.com/massaggio-rilassante-total-body/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
