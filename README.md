@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published on 2022-06-26**
+## **72 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -141,6 +141,12 @@
 * [Fire Up Creativity in Your Child](https://coursemetry.com/fire-up-creativity-in-your-child/)
 
 * [Ultimate Rust Crash Course](https://coursemetry.com/ultimate-rust-crash-course/)
+
+* [The 10 Laws for Personal Success - The Complete Course](https://coursemetry.com/the-10-laws-for-personal-success-the-complete-course/)
+
+* [The Complete Focus Mastery Course - Brain Concentration](https://coursemetry.com/the-complete-focus-mastery-course-brain-concentration/)
+
+* [The Complete Mindfulness Course - Enjoy Life In the Present](https://coursemetry.com/the-complete-mindfulness-course-enjoy-life-in-the-present/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
