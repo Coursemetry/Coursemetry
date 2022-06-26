@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **28 Udemy free courses published on 2022-06-26**
+## **36 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -59,6 +59,22 @@
 * [CSS, JavaScript,PHP And Python Programming All in One Course](https://coursemetry.com/css-javascriptphp-and-python-programming-all-in-one-course/)
 
 * [AWS Certified Machine Learning – Specialty](https://coursemetry.com/aws-certified-machine-learning-specialty/)
+
+* [SEO 2022: Complete SEO Course & SEO for WordPress Websites](https://coursemetry.com/seo-2022-complete-seo-course-seo-for-wordpress-websites/)
+
+* [Check Point Certified Security Instructor Practice Exams](https://coursemetry.com/check-point-certified-security-instructor-practice-exams/)
+
+* [A Beginner’s Guide to 3D Simulation in Cinema 4D](https://coursemetry.com/a-beginners-guide-to-3d-simulation-in-cinema-4d/)
+
+* [Introduction to DevOps, Habits and Practices](https://coursemetry.com/introduction-to-devops-habits-and-practices/)
+
+* [Ultimate Adobe Photoshop CC Masterclass Basics To Advanced](https://coursemetry.com/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/)
+
+* [Adobe Photoshop CC Fundamentals and Essentials Training](https://coursemetry.com/adobe-photoshop-cc-fundamentals-and-essentials-training/)
+
+* [Anti-Money Laundering Concepts: AML, KYC and Compliance](https://coursemetry.com/anti-money-laundering-concepts-aml-kyc-and-compliance/)
+
+* [Agile Metrics for Agile Project Management](https://coursemetry.com/agile-metrics-for-agile-project-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
