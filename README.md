@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **62 Udemy free courses published on 2022-06-26**
+## **69 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -127,6 +127,20 @@
 * [Fiverr HACKS to Become a Top-Level Freelancer with No Skills](https://coursemetry.com/fiverr-hacks-to-become-a-top-level-freelancer-with-no-skills/)
 
 * [Massaggio rilassante: Total Body](https://coursemetry.com/massaggio-rilassante-total-body/)
+
+* [[2022] AZ-303 Azure Architect Technologies 304 Practice Test](https://coursemetry.com/2022-az-303-azure-architect-technologies-304-practice-test/)
+
+* [TypeScript Basic: Type System, Interfaces, Types, Generics](https://coursemetry.com/typescript-basic-type-system-interfaces-types-generics/)
+
+* [2022 Java EE 7 Application Developer 1Z0-900 Practice Tests](https://coursemetry.com/2022-java-ee-7-application-developer-1z0-900-practice-tests/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Unleash Your Creative Mind](https://coursemetry.com/unleash-your-creative-mind/)
+
+* [Fire Up Creativity in Your Child](https://coursemetry.com/fire-up-creativity-in-your-child/)
+
+* [Ultimate Rust Crash Course](https://coursemetry.com/ultimate-rust-crash-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
