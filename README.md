@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published on 2022-06-26**
+## **55 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -93,6 +93,26 @@
 * [Foundation Framework Tutorial](https://coursemetry.com/foundation-framework-tutorial/)
 
 * [Video Game Development With Python and Pygame](https://coursemetry.com/video-game-development-with-python-and-pygame/)
+
+* [Certified Management Accountant CMA Exam Prep - Part 1](https://coursemetry.com/certified-management-accountant-cma-exam-prep-part-1/)
+
+* [İş Görüşmesi İçin Gerekli - Excel Fonksiyon ve Özellikleri](https://coursemetry.com/is-gorusmesi-icin-gerekli-excel-fonksiyon-ve-ozellikleri/)
+
+* [Certified Lean Six Sigma Black Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-black-belt-exam-prep/)
+
+* [Certified Lean Six Sigma Green Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-green-belt-exam-prep/)
+
+* [CompTIA A+ Certification (220-1001) Prep Course](https://coursemetry.com/comptia-a-certification-220-1001-prep-course/)
+
+* [Chef DevOps for the Absolute Beginners](https://coursemetry.com/chef-devops-for-the-absolute-beginners/)
+
+* [CompTIA Network+ (N10-007) Full Certification Course](https://coursemetry.com/comptia-network-n10-007-full-certification-course/)
+
+* [Certified Lean Six Sigma White Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-white-belt-exam-prep/)
+
+* [Blockchain Development on Ethereum](https://coursemetry.com/blockchain-development-on-ethereum/)
+
+* [Certified Lean Six Sigma Yellow Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-yellow-belt-exam-prep/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
