@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published on 2022-06-26**
+## **45 Udemy free courses published on 2022-06-26**
 
 * [Crea Cursos Exitosos desde Cero Sin Conocimientos y Véndelos](https://coursemetry.com/crea-cursos-exitosos-desde-cero-sin-conocimientos-y-vendelos/)
 
@@ -75,6 +75,24 @@
 * [Anti-Money Laundering Concepts: AML, KYC and Compliance](https://coursemetry.com/anti-money-laundering-concepts-aml-kyc-and-compliance/)
 
 * [Agile Metrics for Agile Project Management](https://coursemetry.com/agile-metrics-for-agile-project-management/)
+
+* [دليل المبتدئين لتعلم الرسم الرقمي على ProCreate حتى الاحتراف](https://coursemetry.com/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%a8%d8%aa%d8%af%d8%a6%d9%8a%d9%86-%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%b1%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d8%b9%d9%84%d9%89-pr/)
+
+* [Ionic Tutorials - Build Android & Web Apps with Ionic](https://coursemetry.com/ionic-tutorials-build-android-web-apps-with-ionic/)
+
+* [Agile Scrum Master Certification Exam Prep (CSM)](https://coursemetry.com/agile-scrum-master-certification-exam-prep-csm/)
+
+* [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
+
+* [IT Asset Management (ITAM) Course](https://coursemetry.com/it-asset-management-itam-course/)
+
+* [IBM Watson Beginners Training for AI](https://coursemetry.com/ibm-watson-beginners-training-for-ai/)
+
+* [Express JS - The Complete Guide](https://coursemetry.com/express-js-the-complete-guide/)
+
+* [Foundation Framework Tutorial](https://coursemetry.com/foundation-framework-tutorial/)
+
+* [Video Game Development With Python and Pygame](https://coursemetry.com/video-game-development-with-python-and-pygame/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
