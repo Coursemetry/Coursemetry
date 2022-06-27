@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **60 Udemy free courses published on 2022-06-27**
+## **63 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -123,6 +123,12 @@
 * [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
 
 * [Fundamentos da Criptografia, Esteganografia e Criptoanálise](https://coursemetry.com/fundamentos-da-criptografia-esteganografia-e-criptoanalise/)
+
+* [Google Professional Data Engineer Practice Exams](https://coursemetry.com/google-professional-data-engineer-practice-exams/)
+
+* [Creating a Website in 1 Hour - WordPress, Elementor, & UX](https://coursemetry.com/creating-a-website-in-1-hour-wordpress-elementor-ux/)
+
+* [MongoDB Tutorial for Beginners (2022)](https://coursemetry.com/mongodb-tutorial-for-beginners-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
