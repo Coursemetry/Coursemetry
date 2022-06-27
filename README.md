@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published on 2022-06-27**
+## **34 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -63,6 +63,14 @@
 * [Microsoft Excel Masterclass for Business Managers](https://coursemetry.com/microsoft-excel-masterclass-for-business-managers/)
 
 * [Check Point Certified Security Expert Practice Exams](https://coursemetry.com/check-point-certified-security-expert-practice-exams/)
+
+* [Bitcoin ve Kripto Para Uzmanlığı](https://coursemetry.com/bitcoin-ve-kripto-para-uzmanligi/)
+
+* [Arduino Robotics With Scratch Programming in TinkerCAD](https://coursemetry.com/arduino-robotics-with-scratch-programming-in-tinkercad/)
+
+* [Fundamentals of Electrical Engineering - 2022](https://coursemetry.com/fundamentals-of-electrical-engineering-2022/)
+
+* [Fundamentals of Manufacturing Materials, Processes & Systems](https://coursemetry.com/fundamentals-of-manufacturing-materials-processes-systems/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
