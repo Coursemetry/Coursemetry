@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published on 2022-06-27**
+## **96 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -87,8 +87,6 @@
 * [Machine Learning Intro for Python Developers](https://coursemetry.com/machine-learning-intro-for-python-developers/)
 
 * [Write Dreamy, Heartfelt, Soulful Poetry - Creative Writing](https://coursemetry.com/write-dreamy-heartfelt-soulful-poetry-creative-writing/)
-
-* [Deep Learning Fundamentals](https://coursemetry.com/deep-learning-fundamentals/)
 
 * [Java Programming: Complete Beginner to Advanced](https://coursemetry.com/java-programming-complete-beginner-to-advanced/)
 
@@ -187,6 +185,16 @@
 * [Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://coursemetry.com/freelancing-37-ways-to-make-money-from-home-as-a-freelancer/)
 
 * [Become an SEO Wizard Using the Google Search Console (2022)](https://coursemetry.com/become-an-seo-wizard-using-the-google-search-console-2022/)
+
+* [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
+
+* [Deep Learning Fundamentals](https://coursemetry.com/deep-learning-fundamentals/)
+
+* [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
+
+* [Curso de Adobe Photoshop cc 2021 de A-Z Principiantes](https://coursemetry.com/curso-de-adobe-photoshop-cc-2021-de-a-z-principiantes/)
+
+* [Usability Testing in UX Research & Design Evaluation (2022)](https://coursemetry.com/usability-testing-in-ux-research-design-evaluation-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
