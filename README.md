@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published on 2022-06-27**
+## **60 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -119,6 +119,10 @@
 * [Reverse Engineering 5: Reversing Visual Basic](https://coursemetry.com/reverse-engineering-5-reversing-visual-basic/)
 
 * [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [Fundamentos da Criptografia, Esteganografia e Criptoanálise](https://coursemetry.com/fundamentos-da-criptografia-esteganografia-e-criptoanalise/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
