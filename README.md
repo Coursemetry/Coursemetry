@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **34 Udemy free courses published on 2022-06-27**
+## **35 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -71,6 +71,8 @@
 * [Fundamentals of Electrical Engineering - 2022](https://coursemetry.com/fundamentals-of-electrical-engineering-2022/)
 
 * [Fundamentals of Manufacturing Materials, Processes & Systems](https://coursemetry.com/fundamentals-of-manufacturing-materials-processes-systems/)
+
+* [3ds max Corona Rendering Upgrade 1.6 Modulo 5](https://coursemetry.com/3ds-max-corona-rendering-upgrade-1-6-modulo-5/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
