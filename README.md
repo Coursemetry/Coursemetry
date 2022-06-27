@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published on 2022-06-27**
+## **68 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -135,6 +135,10 @@
 * [Instagram Chatbots 2022. Complete guide on creating chatbot](https://coursemetry.com/instagram-chatbots-2022-complete-guide-on-creating-chatbot/)
 
 * [Developing app using Flutter](https://coursemetry.com/developing-app-using-flutter/)
+
+* [Start Freelance Graphic Designing using Canva & Get Clients](https://coursemetry.com/start-freelance-graphic-designing-using-canva-get-clients/)
+
+* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
