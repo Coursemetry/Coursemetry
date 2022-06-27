@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **42 Udemy free courses published on 2022-06-27**
+## **43 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -87,6 +87,8 @@
 * [Machine Learning Intro for Python Developers](https://coursemetry.com/machine-learning-intro-for-python-developers/)
 
 * [Write Dreamy, Heartfelt, Soulful Poetry - Creative Writing](https://coursemetry.com/write-dreamy-heartfelt-soulful-poetry-creative-writing/)
+
+* [Deep Learning Fundamentals](https://coursemetry.com/deep-learning-fundamentals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
