@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **89 Udemy free courses published on 2022-06-27**
+## **92 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -181,6 +181,12 @@
 * [Design Thinking Guide for Successful Professionals](https://coursemetry.com/design-thinking-guide-for-successful-professionals/)
 
 * [Project Management PMP Certification Practice Test](https://coursemetry.com/project-management-pmp-certification-practice-test/)
+
+* [Ethical Hacking - Port Scan com Ferramentas Online e Offline](https://coursemetry.com/ethical-hacking-port-scan-com-ferramentas-online-e-offline/)
+
+* [Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://coursemetry.com/freelancing-37-ways-to-make-money-from-home-as-a-freelancer/)
+
+* [Become an SEO Wizard Using the Google Search Console (2022)](https://coursemetry.com/become-an-seo-wizard-using-the-google-search-console-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
