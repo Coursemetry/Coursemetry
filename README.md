@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **80 Udemy free courses published on 2022-06-27**
+## **87 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -163,6 +163,20 @@
 * [AWS Certified SysOps Administrator - Associate Practice Test](https://coursemetry.com/aws-certified-sysops-administrator-associate-practice-test/)
 
 * [ITIL 4 Foundation Practice Certification for 2022](https://coursemetry.com/itil-4-foundation-practice-certification-for-2022/)
+
+* [Build a Augmented Reality (AR) App and Game with Unity 2021](https://coursemetry.com/build-a-augmented-reality-ar-app-and-game-with-unity-2021/)
+
+* [Learn Basics of Adobe Photoshop CC 2022 for Beginners](https://coursemetry.com/learn-basics-of-adobe-photoshop-cc-2022-for-beginners/)
+
+* [Excel Profesional 2022– Para Empresas!](https://coursemetry.com/excel-profesional-2022-para-empresas/)
+
+* [Project Management PMP Certification Practice Test](https://coursemetry.com/project-management-pmp-certification-practice-test/)
+
+* [Video Editing with Adobe Premiere Pro CC 2022 for Beginners](https://coursemetry.com/video-editing-with-adobe-premiere-pro-cc-2022-for-beginners/)
+
+* [Practice Exam - Amazon AWS Certified Developer Associate](https://coursemetry.com/practice-exam-amazon-aws-certified-developer-associate/)
+
+* [ADIM ADIM İLERİ EXCEL](https://coursemetry.com/adim-adim-ileri-excel/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
