@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **10 Udemy free courses published on 2022-06-27**
+## **14 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -23,6 +23,14 @@
 * [Project Management: Deliver on Time + Scrum Project Delivery](https://coursemetry.com/project-management-deliver-on-time-scrum-project-delivery/)
 
 * [Python And Flask Framework Complete Course](https://coursemetry.com/python-and-flask-framework-complete-course/)
+
+* [Hands-On React. Build advanced React JS Frontend with expert](https://coursemetry.com/hands-on-react-build-advanced-react-js-frontend-with-expert/)
+
+* [Videoleap 手機剪片丨迷你教程](https://coursemetry.com/videoleap-%e6%89%8b%e6%a9%9f%e5%89%aa%e7%89%87%e4%b8%a8%e8%bf%b7%e4%bd%a0%e6%95%99%e7%a8%8b/)
+
+* [Practice Exam - AWS Certified Cloud Practitioner](https://coursemetry.com/practice-exam-aws-certified-cloud-practitioner/)
+
+* [Practice Exam | CCNP Security - SCOR 350-701](https://coursemetry.com/practice-exam-ccnp-security-scor-350-701/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
