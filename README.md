@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **68 Udemy free courses published on 2022-06-27**
+## **80 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -136,9 +136,33 @@
 
 * [Developing app using Flutter](https://coursemetry.com/developing-app-using-flutter/)
 
+* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
+
+* [How to use Google drive, Onedrive, Dropbox and Mega](https://coursemetry.com/how-to-use-google-drive-onedrive-dropbox-and-mega/)
+
+* [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
+
 * [Start Freelance Graphic Designing using Canva & Get Clients](https://coursemetry.com/start-freelance-graphic-designing-using-canva-get-clients/)
 
-* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
+* [Learn Basics Of Adobe After Effects CC 2022 for Beginners](https://coursemetry.com/learn-basics-of-adobe-after-effects-cc-2022-for-beginners/)
+
+* [Color Correction & Grading with Adobe Premiere Pro 2022](https://coursemetry.com/color-correction-grading-with-adobe-premiere-pro-2022/)
+
+* [Color Grading and Video Editing with Davinci Resolve 17](https://coursemetry.com/color-grading-and-video-editing-with-davinci-resolve-17/)
+
+* [Master all the MS Excel Macros and the basics of Excel VBA](https://coursemetry.com/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/)
+
+* [AWS Certified Big Data - Specialty Practice Questions](https://coursemetry.com/aws-certified-big-data-specialty-practice-questions/)
+
+* [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
+
+* [Practice Test for AZ-400 IT Certification Exam Preparation](https://coursemetry.com/practice-test-for-az-400-it-certification-exam-preparation/)
+
+* [Video Editing with Avid Media Composer First for Beginners](https://coursemetry.com/video-editing-with-avid-media-composer-first-for-beginners/)
+
+* [AWS Certified SysOps Administrator - Associate Practice Test](https://coursemetry.com/aws-certified-sysops-administrator-associate-practice-test/)
+
+* [ITIL 4 Foundation Practice Certification for 2022](https://coursemetry.com/itil-4-foundation-practice-certification-for-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
