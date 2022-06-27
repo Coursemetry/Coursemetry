@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published on 2022-06-27**
+## **58 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -93,6 +93,32 @@
 * [Java Programming: Complete Beginner to Advanced](https://coursemetry.com/java-programming-complete-beginner-to-advanced/)
 
 * [Learn Python Programming from Scratch](https://coursemetry.com/learn-python-programming-from-scratch/)
+
+* [Kubernetes Hands-on for the Absolute Beginners](https://coursemetry.com/kubernetes-hands-on-for-the-absolute-beginners/)
+
+* [اختبار اختراق المواقع بالعربي](https://coursemetry.com/%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [Data Visualizations with MatPlotLib for Python Developers](https://coursemetry.com/data-visualizations-with-matplotlib-for-python-developers/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [كورس الهكر الاخلاقي](https://coursemetry.com/%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d9%87%d9%83%d8%b1-%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82%d9%8a/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [Python for Data Science and Machine Learning](https://coursemetry.com/python-for-data-science-and-machine-learning-2/)
+
+* [Predictive Modeling with SAS Enterprise Miner](https://coursemetry.com/predictive-modeling-with-sas-enterprise-miner/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Android App Development using Kotlin](https://coursemetry.com/android-app-development-using-kotlin/)
+
+* [Reverse Engineering 5: Reversing Visual Basic](https://coursemetry.com/reverse-engineering-5-reversing-visual-basic/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
