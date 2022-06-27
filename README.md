@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **18 Udemy free courses published on 2022-06-27**
+## **30 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -39,6 +39,30 @@
 * [LookML A-Z: Google Looker for Developers](https://coursemetry.com/lookml-a-z-google-looker-for-developers/)
 
 * [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [Metaverse for Education Masterclass 1](https://coursemetry.com/metaverse-for-education-masterclass-1/)
+
+* [Learn the foundations of the Metaverse](https://coursemetry.com/learn-the-foundations-of-the-metaverse/)
+
+* [Cryptocurrency Course for Beginners 2022](https://coursemetry.com/cryptocurrency-course-for-beginners-2022/)
+
+* [Selenium WebDriver Coding Exercises for Interviews](https://coursemetry.com/selenium-webdriver-coding-exercises-for-interviews/)
+
+* [Java, Maven, Spring-boot, Docker Starter Course](https://coursemetry.com/java-maven-spring-boot-docker-starter-course/)
+
+* [Java and OOP concepts with interview tips.](https://coursemetry.com/java-and-oop-concepts-with-interview-tips/)
+
+* [Crash Course in HRM](https://coursemetry.com/crash-course-in-hrm/)
+
+* [Clinical Research](https://coursemetry.com/clinical-research/)
+
+* [Social Prescribing for Community Pharmacy](https://coursemetry.com/social-prescribing-for-community-pharmacy/)
+
+* [Machine Learning Basics in Hindi हिंदी - Regression Analysis](https://coursemetry.com/machine-learning-basics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-regression-analysis/)
+
+* [Microsoft Excel Masterclass for Business Managers](https://coursemetry.com/microsoft-excel-masterclass-for-business-managers/)
+
+* [Check Point Certified Security Expert Practice Exams](https://coursemetry.com/check-point-certified-security-expert-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
