@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **14 Udemy free courses published on 2022-06-27**
+## **18 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -31,6 +31,14 @@
 * [Practice Exam - AWS Certified Cloud Practitioner](https://coursemetry.com/practice-exam-aws-certified-cloud-practitioner/)
 
 * [Practice Exam | CCNP Security - SCOR 350-701](https://coursemetry.com/practice-exam-ccnp-security-scor-350-701/)
+
+* [Photoshop 美顏修圖丨必學技巧](https://coursemetry.com/photoshop-%e7%be%8e%e9%a1%8f%e4%bf%ae%e5%9c%96%e4%b8%a8%e5%bf%85%e5%ad%b8%e6%8a%80%e5%b7%a7/)
+
+* [Academic Writing Essentials: Solving Assignments](https://coursemetry.com/academic-writing-essentials-solving-assignments/)
+
+* [LookML A-Z: Google Looker for Developers](https://coursemetry.com/lookml-a-z-google-looker-for-developers/)
+
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
