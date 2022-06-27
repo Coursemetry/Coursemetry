@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **87 Udemy free courses published on 2022-06-27**
+## **89 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -126,8 +126,6 @@
 
 * [Google Professional Data Engineer Practice Exams](https://coursemetry.com/google-professional-data-engineer-practice-exams/)
 
-* [Creating a Website in 1 Hour - WordPress, Elementor, & UX](https://coursemetry.com/creating-a-website-in-1-hour-wordpress-elementor-ux/)
-
 * [MongoDB Tutorial for Beginners (2022)](https://coursemetry.com/mongodb-tutorial-for-beginners-2022/)
 
 * [Postman Crash Course | Learn API Testing in 50 minutes](https://coursemetry.com/postman-crash-course-learn-api-testing-in-50-minutes/)
@@ -170,13 +168,19 @@
 
 * [Excel Profesional 2022– Para Empresas!](https://coursemetry.com/excel-profesional-2022-para-empresas/)
 
-* [Project Management PMP Certification Practice Test](https://coursemetry.com/project-management-pmp-certification-practice-test/)
-
 * [Video Editing with Adobe Premiere Pro CC 2022 for Beginners](https://coursemetry.com/video-editing-with-adobe-premiere-pro-cc-2022-for-beginners/)
 
 * [Practice Exam - Amazon AWS Certified Developer Associate](https://coursemetry.com/practice-exam-amazon-aws-certified-developer-associate/)
 
 * [ADIM ADIM İLERİ EXCEL](https://coursemetry.com/adim-adim-ileri-excel/)
+
+* [Sacred Magic Mushrooms | Entheogenic Shamanism Certificate](https://coursemetry.com/sacred-magic-mushrooms-entheogenic-shamanism-certificate/)
+
+* [Creating a Website in 1 Hour - WordPress, Elementor, & UX](https://coursemetry.com/creating-a-website-in-1-hour-wordpress-elementor-ux/)
+
+* [Design Thinking Guide for Successful Professionals](https://coursemetry.com/design-thinking-guide-for-successful-professionals/)
+
+* [Project Management PMP Certification Practice Test](https://coursemetry.com/project-management-pmp-certification-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
