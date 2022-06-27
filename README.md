@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **35 Udemy free courses published on 2022-06-27**
+## **42 Udemy free courses published on 2022-06-27**
 
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
@@ -73,6 +73,20 @@
 * [Fundamentals of Manufacturing Materials, Processes & Systems](https://coursemetry.com/fundamentals-of-manufacturing-materials-processes-systems/)
 
 * [3ds max Corona Rendering Upgrade 1.6 Modulo 5](https://coursemetry.com/3ds-max-corona-rendering-upgrade-1-6-modulo-5/)
+
+* [Ubuntu Linux for beginners](https://coursemetry.com/ubuntu-linux-for-beginners/)
+
+* [Independent Musician Music Marketing - Part Music Business](https://coursemetry.com/independent-musician-music-marketing-part-music-business/)
+
+* [Create snake with Python PyGame](https://coursemetry.com/create-snake-with-python-pygame/)
+
+* [Linux Terminal for beginners](https://coursemetry.com/linux-terminal-for-beginners/)
+
+* [NLP Certification- BERT, GPTs, HMTL & Multimodal Large Model](https://coursemetry.com/nlp-certification-bert-gpts-hmtl-multimodal-large-model/)
+
+* [Machine Learning Intro for Python Developers](https://coursemetry.com/machine-learning-intro-for-python-developers/)
+
+* [Write Dreamy, Heartfelt, Soulful Poetry - Creative Writing](https://coursemetry.com/write-dreamy-heartfelt-soulful-poetry-creative-writing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
