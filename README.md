@@ -40,5 +40,101 @@
 
 * [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
 
+* [Metaverse for Education Masterclass 1](https://coursemetry.com/metaverse-for-education-masterclass-1/)
+
+* [Learn the foundations of the Metaverse](https://coursemetry.com/learn-the-foundations-of-the-metaverse/)
+
+* [Cryptocurrency Course for Beginners 2022](https://coursemetry.com/cryptocurrency-course-for-beginners-2022/)
+
+* [Selenium WebDriver Coding Exercises for Interviews](https://coursemetry.com/selenium-webdriver-coding-exercises-for-interviews/)
+
+* [Java, Maven, Spring-boot, Docker Starter Course](https://coursemetry.com/java-maven-spring-boot-docker-starter-course/)
+
+* [Java and OOP concepts with interview tips.](https://coursemetry.com/java-and-oop-concepts-with-interview-tips/)
+
+* [Crash Course in HRM](https://coursemetry.com/crash-course-in-hrm/)
+
+* [Clinical Research](https://coursemetry.com/clinical-research/)
+
+* [Social Prescribing for Community Pharmacy](https://coursemetry.com/social-prescribing-for-community-pharmacy/)
+
+* [Machine Learning Basics in Hindi हिंदी - Regression Analysis](https://coursemetry.com/machine-learning-basics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-regression-analysis/)
+
+* [Microsoft Excel Masterclass for Business Managers](https://coursemetry.com/microsoft-excel-masterclass-for-business-managers/)
+
+* [Check Point Certified Security Expert Practice Exams](https://coursemetry.com/check-point-certified-security-expert-practice-exams/)
+
+* [Bitcoin ve Kripto Para Uzmanlığı](https://coursemetry.com/bitcoin-ve-kripto-para-uzmanligi/)
+
+* [Arduino Robotics With Scratch Programming in TinkerCAD](https://coursemetry.com/arduino-robotics-with-scratch-programming-in-tinkercad/)
+
+* [Fundamentals of Electrical Engineering - 2022](https://coursemetry.com/fundamentals-of-electrical-engineering-2022/)
+
+* [Fundamentals of Manufacturing Materials, Processes & Systems](https://coursemetry.com/fundamentals-of-manufacturing-materials-processes-systems/)
+
+* [3ds max Corona Rendering Upgrade 1.6 Modulo 5](https://coursemetry.com/3ds-max-corona-rendering-upgrade-1-6-modulo-5/)
+
+* [Ubuntu Linux for beginners](https://coursemetry.com/ubuntu-linux-for-beginners/)
+
+* [Independent Musician Music Marketing - Part Music Business](https://coursemetry.com/independent-musician-music-marketing-part-music-business/)
+
+* [Create snake with Python PyGame](https://coursemetry.com/create-snake-with-python-pygame/)
+
+* [Linux Terminal for beginners](https://coursemetry.com/linux-terminal-for-beginners/)
+
+* [NLP Certification- BERT, GPTs, HMTL & Multimodal Large Model](https://coursemetry.com/nlp-certification-bert-gpts-hmtl-multimodal-large-model/)
+
+* [Machine Learning Intro for Python Developers](https://coursemetry.com/machine-learning-intro-for-python-developers/)
+
+* [Write Dreamy, Heartfelt, Soulful Poetry - Creative Writing](https://coursemetry.com/write-dreamy-heartfelt-soulful-poetry-creative-writing/)
+
+* [Deep Learning Fundamentals](https://coursemetry.com/deep-learning-fundamentals/)
+
+* [Java Programming: Complete Beginner to Advanced](https://coursemetry.com/java-programming-complete-beginner-to-advanced/)
+
+* [Learn Python Programming from Scratch](https://coursemetry.com/learn-python-programming-from-scratch/)
+
+* [Kubernetes Hands-on for the Absolute Beginners](https://coursemetry.com/kubernetes-hands-on-for-the-absolute-beginners/)
+
+* [اختبار اختراق المواقع بالعربي](https://coursemetry.com/%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [Data Visualizations with MatPlotLib for Python Developers](https://coursemetry.com/data-visualizations-with-matplotlib-for-python-developers/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [كورس الهكر الاخلاقي](https://coursemetry.com/%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d9%87%d9%83%d8%b1-%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82%d9%8a/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [Python for Data Science and Machine Learning](https://coursemetry.com/python-for-data-science-and-machine-learning-2/)
+
+* [Predictive Modeling with SAS Enterprise Miner](https://coursemetry.com/predictive-modeling-with-sas-enterprise-miner/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Android App Development using Kotlin](https://coursemetry.com/android-app-development-using-kotlin/)
+
+* [Reverse Engineering 5: Reversing Visual Basic](https://coursemetry.com/reverse-engineering-5-reversing-visual-basic/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [Fundamentos da Criptografia, Esteganografia e Criptoanálise](https://coursemetry.com/fundamentos-da-criptografia-esteganografia-e-criptoanalise/)
+
+* [Google Professional Data Engineer Practice Exams](https://coursemetry.com/google-professional-data-engineer-practice-exams/)
+
+* [Creating a Website in 1 Hour - WordPress, Elementor, & UX](https://coursemetry.com/creating-a-website-in-1-hour-wordpress-elementor-ux/)
+
+* [MongoDB Tutorial for Beginners (2022)](https://coursemetry.com/mongodb-tutorial-for-beginners-2022/)
+
+* [Postman Crash Course | Learn API Testing in 50 minutes](https://coursemetry.com/postman-crash-course-learn-api-testing-in-50-minutes/)
+
+* [Instagram Chatbots 2022. Complete guide on creating chatbot](https://coursemetry.com/instagram-chatbots-2022-complete-guide-on-creating-chatbot/)
+
+* [Developing app using Flutter](https://coursemetry.com/developing-app-using-flutter/)
+
 
 Join our [Telegram channel](https://t.me/coursemetry)
