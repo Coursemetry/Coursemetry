@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **48 Udemy free courses published so far on 2022-06-28**
+## **57 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -99,6 +99,24 @@
 * [C++ 2022 Complete Training Course](https://coursemetry.com/c-2022-complete-training-course/)
 
 * [Practical Next.js & React - Build a real WebApp with Next.js](https://coursemetry.com/practical-next-js-react-build-a-real-webapp-with-next-js/)
+
+* [PHP for Beginners: PDO Crash Course 2022](https://coursemetry.com/php-for-beginners-pdo-crash-course-2022/)
+
+* [WiFi Hacking using Evil Twin Attacks and Captive Portals](https://coursemetry.com/wifi-hacking-using-evil-twin-attacks-and-captive-portals/)
+
+* [Complete Wordpress Website Developer Course](https://coursemetry.com/complete-wordpress-website-developer-course/)
+
+* [Get Free Media Coverage by Collaborating with Journalists](https://coursemetry.com/get-free-media-coverage-by-collaborating-with-journalists/)
+
+* [Secure Shell (SSH)](https://coursemetry.com/secure-shell-ssh/)
+
+* [Open-Source Intelligence (OSINT)](https://coursemetry.com/open-source-intelligence-osint/)
+
+* [Como Estudar Programação de Computadores](https://coursemetry.com/como-estudar-programacao-de-computadores/)
+
+* [Linux Security](https://coursemetry.com/linux-security/)
+
+* [Learn Sketchup with the Barcelona Pavillion](https://coursemetry.com/learn-sketchup-with-the-barcelona-pavillion/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
