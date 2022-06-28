@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **16 Udemy free courses published on 2022-06-28**
+## **17 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -35,6 +35,8 @@
 * [Investment Banking Masterclass on IPO Process and Modeling](https://coursemetry.com/investment-banking-masterclass-on-ipo-process-and-modeling/)
 
 * [Freelance Content-Creator Masterclass](https://coursemetry.com/freelance-content-creator-masterclass/)
+
+* [Engineering Drawing / Graphics : Hands-on training](https://coursemetry.com/engineering-drawing-graphics-hands-on-training/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
