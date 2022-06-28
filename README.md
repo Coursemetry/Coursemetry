@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published so far on 2022-06-28**
+## **61 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -119,6 +119,12 @@
 * [Learn Sketchup with the Barcelona Pavillion](https://coursemetry.com/learn-sketchup-with-the-barcelona-pavillion/)
 
 * [AutoCAD 2D and 3D Masterclass](https://coursemetry.com/autocad-2d-and-3d-masterclass/)
+
+* [R Programming : Data Analysis and Visualisations using R](https://coursemetry.com/r-programming-data-analysis-and-visualisations-using-r/)
+
+* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+
+* [Leadership for Managers: Step Up from Manager to Leader](https://coursemetry.com/leadership-for-managers-step-up-from-manager-to-leader/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
