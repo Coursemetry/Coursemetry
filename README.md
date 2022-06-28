@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-06-28**
+## **102 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -197,6 +197,16 @@
 * [Simulator -DP 900  Microsoft Azure Data Foundation Practice-](https://coursemetry.com/simulator-dp-900-microsoft-azure-data-foundation-practice/)
 
 * [Cómo Crear una Tarjeta De Presentación con WordPress](https://coursemetry.com/como-crear-una-tarjeta-de-presentacion-con-wordpress/)
+
+* [Python Technical Interview Questions: The Ultimate Course](https://coursemetry.com/python-technical-interview-questions-the-ultimate-course/)
+
+* [The Complete Java Game Development Course 2022: Part 2](https://coursemetry.com/the-complete-java-game-development-course-2022-part-2/)
+
+* [Python API Programming with FastAPI and Flask](https://coursemetry.com/python-api-programming-with-fastapi-and-flask/)
+
+* [Practice MCSA (70-463) Implementing a Data Warehouse with MS](https://coursemetry.com/practice-mcsa-70-463-implementing-a-data-warehouse-with-ms/)
+
+* [Chart Traders: Daily Option Selling Strategy for Nifty](https://coursemetry.com/chart-traders-daily-option-selling-strategy-for-nifty/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
