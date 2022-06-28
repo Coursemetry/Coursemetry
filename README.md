@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **12 Udemy free courses published on 2022-06-28**
+## **16 Udemy free courses published on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -27,6 +27,14 @@
 * [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
+
+* [Mandala Art Workshop [ 3 videos + bonus session ]](https://coursemetry.com/mandala-art-workshop-3-videos-bonus-session/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+
+* [Investment Banking Masterclass on IPO Process and Modeling](https://coursemetry.com/investment-banking-masterclass-on-ipo-process-and-modeling/)
+
+* [Freelance Content-Creator Masterclass](https://coursemetry.com/freelance-content-creator-masterclass/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
