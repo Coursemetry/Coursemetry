@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published so far on 2022-06-28**
+## **48 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -97,6 +97,8 @@
 * [PMP Certification Exam Prep (2022) | 300 Practice Questions](https://coursemetry.com/pmp-certification-exam-prep-2022-300-practice-questions/)
 
 * [C++ 2022 Complete Training Course](https://coursemetry.com/c-2022-complete-training-course/)
+
+* [Practical Next.js & React - Build a real WebApp with Next.js](https://coursemetry.com/practical-next-js-react-build-a-real-webapp-with-next-js/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
