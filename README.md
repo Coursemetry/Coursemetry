@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **31 Udemy free courses published so far on 2022-06-28**
+## **43 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -65,6 +65,30 @@
 * [QuickBooks Payroll - QuickBooks Online](https://coursemetry.com/quickbooks-payroll-quickbooks-online/)
 
 * [Erfolgreiches Podcasting & Podcast Hosting](https://coursemetry.com/erfolgreiches-podcasting-podcast-hosting/)
+
+* [How to Start a Podcast - Podcasting Made Easy](https://coursemetry.com/how-to-start-a-podcast-podcasting-made-easy/)
+
+* [QuickBooks Enterprise-Classes-Responsibility Accounting](https://coursemetry.com/quickbooks-enterprise-classes-responsibility-accounting/)
+
+* [QuickBooks Online Not for Profit Organization](https://coursemetry.com/quickbooks-online-not-for-profit-organization/)
+
+* [Podcast Pacing For Audience Engagement](https://coursemetry.com/podcast-pacing-for-audience-engagement/)
+
+* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+
+* [Xero Job Costing – Projects](https://coursemetry.com/xero-job-costing-projects/)
+
+* [Podcast Power Breathing Masterclass](https://coursemetry.com/podcast-power-breathing-masterclass/)
+
+* [Xero Not for Profit Organization](https://coursemetry.com/xero-not-for-profit-organization/)
+
+* [QuickBooks Enterprise - Two Businesses & Personal in One](https://coursemetry.com/quickbooks-enterprise-two-businesses-personal-in-one/)
+
+* [Job Costing QuickBooks Online - Contractors](https://coursemetry.com/job-costing-quickbooks-online-contractors/)
+
+* [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
+
+* [Wave Accounting](https://coursemetry.com/wave-accounting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
