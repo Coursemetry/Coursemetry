@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published so far on 2022-06-28**
+## **113 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -25,8 +25,6 @@
 * [Filmora Complete Video Editing In Hindi/urdu - Sarfaraz 2022](https://coursemetry.com/filmora-complete-video-editing-in-hindi-urdu-sarfaraz-2022/)
 
 * [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
-
-* [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
 * [Mandala Art Workshop [ 3 videos + bonus session ]](https://coursemetry.com/mandala-art-workshop-3-videos-bonus-session/)
 
@@ -207,6 +205,30 @@
 * [Practice MCSA (70-463) Implementing a Data Warehouse with MS](https://coursemetry.com/practice-mcsa-70-463-implementing-a-data-warehouse-with-ms/)
 
 * [Chart Traders: Daily Option Selling Strategy for Nifty](https://coursemetry.com/chart-traders-daily-option-selling-strategy-for-nifty/)
+
+* [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
+
+* [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
+
+* [Modern PHP Web Development w/ MySQL, GitHub & Heroku](https://coursemetry.com/modern-php-web-development-w-mysql-github-heroku/)
+
+* [GoF Design Patterns - Complete Course with Java Examples](https://coursemetry.com/gof-design-patterns-complete-course-with-java-examples/)
+
+* [Branding For Success](https://coursemetry.com/branding-for-success/)
+
+* [Advanced Strategies to Secure Better UpWork Clients](https://coursemetry.com/advanced-strategies-to-secure-better-upwork-clients/)
+
+* [Facebook Ads Copywriting & Facebook Ads for Real Estate 2022](https://coursemetry.com/facebook-ads-copywriting-facebook-ads-for-real-estate-2022/)
+
+* [How to Get UpWork Clients (2020 And Beyond)](https://coursemetry.com/how-to-get-upwork-clients-2020-and-beyond/)
+
+* [MySQL Database Development Mastery](https://coursemetry.com/mysql-database-development-mastery/)
+
+* [Complete Linear Regression Analysis in Python](https://coursemetry.com/complete-linear-regression-analysis-in-python/)
+
+* [Java Collections Framework + Generics, Lambdas & Stream API](https://coursemetry.com/java-collections-framework-generics-lambdas-stream-api/)
+
+* [Preparation to Java SE 11 Developer Exam: 1Z0-819 & 1Z0-817](https://coursemetry.com/preparation-to-java-se-11-developer-exam-1z0-819-1z0-817/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
