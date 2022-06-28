@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published so far on 2022-06-28**
+## **97 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -161,6 +161,42 @@
 * [Data Analytics using Excel Short Course](https://coursemetry.com/data-analytics-using-excel-short-course/)
 
 * [Personal Finance 101 for Busy Moms](https://coursemetry.com/personal-finance-101-for-busy-moms/)
+
+* [Java Games Development With libGDX  | Create 5 Games](https://coursemetry.com/java-games-development-with-libgdx-create-5-games/)
+
+* [Aerospace Masterclass: Transonic Aerodynamics](https://coursemetry.com/aerospace-masterclass-transonic-aerodynamics/)
+
+* [The Complete Python Game Development Course for 2022](https://coursemetry.com/the-complete-python-game-development-course-for-2022/)
+
+* [Game Development with PyGame  | Real World Games](https://coursemetry.com/game-development-with-pygame-real-world-games/)
+
+* [The Complete Python Network Programming Course for 2022](https://coursemetry.com/the-complete-python-network-programming-course-for-2022/)
+
+* [Game Development with Java and Python](https://coursemetry.com/game-development-with-java-and-python/)
+
+* [The Complete Automation PyTest Course for 2022](https://coursemetry.com/the-complete-automation-pytest-course-for-2022/)
+
+* [Escuela de Python 2021: Aprende Python 3.9+ de cero a Master](https://coursemetry.com/escuela-de-python-2021-aprende-python-3-9-de-cero-a-master/)
+
+* [The Complete GSAP: JavaScript ,HTML and CSS Course for 2022](https://coursemetry.com/the-complete-gsap-javascript-html-and-css-course-for-2022/)
+
+* [Master Multithreading - Concurrency with Java Examples](https://coursemetry.com/master-multithreading-concurrency-with-java-examples/)
+
+* [The Complete RESTful APIs with Python Course](https://coursemetry.com/the-complete-restful-apis-with-python-course/)
+
+* [Aerospace Masterclass: Aircraft Design](https://coursemetry.com/aerospace-masterclass-aircraft-design/)
+
+* [The Complete Java Swing Course for GUI Development for 2022](https://coursemetry.com/the-complete-java-swing-course-for-gui-development-for-2022/)
+
+* [Relational Databases & SQL: Complete Guide for Developers](https://coursemetry.com/relational-databases-sql-complete-guide-for-developers/)
+
+* [The Complete Java Game Development Course for 2022](https://coursemetry.com/the-complete-java-game-development-course-for-2022/)
+
+* [Learn 4 Steps to Make Money Online with Affiliate Marketing!](https://coursemetry.com/learn-4-steps-to-make-money-online-with-affiliate-marketing/)
+
+* [Simulator -DP 900  Microsoft Azure Data Foundation Practice-](https://coursemetry.com/simulator-dp-900-microsoft-azure-data-foundation-practice/)
+
+* [Cómo Crear una Tarjeta De Presentación con WordPress](https://coursemetry.com/como-crear-una-tarjeta-de-presentacion-con-wordpress/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
