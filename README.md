@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **17 Udemy free courses published so far on 2022-06-28**
+## **19 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -37,6 +37,10 @@
 * [Freelance Content-Creator Masterclass](https://coursemetry.com/freelance-content-creator-masterclass/)
 
 * [Engineering Drawing / Graphics : Hands-on training](https://coursemetry.com/engineering-drawing-graphics-hands-on-training/)
+
+* [5 Things Every Dance Parent Should Know!](https://coursemetry.com/5-things-every-dance-parent-should-know/)
+
+* [Soundwave Healing | Heal The Mind, Body, and Soul With Sound](https://coursemetry.com/soundwave-healing-heal-the-mind-body-and-soul-with-sound/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
