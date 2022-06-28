@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **43 Udemy free courses published so far on 2022-06-28**
+## **46 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -89,6 +89,12 @@
 * [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
 
 * [Wave Accounting](https://coursemetry.com/wave-accounting/)
+
+* [CV / Resume for Experienced & Freshers](https://coursemetry.com/cv-resume-for-experienced-freshers/)
+
+* [Instagram For Beginners Who Don't Like Social Media](https://coursemetry.com/instagram-for-beginners-who-dont-like-social-media/)
+
+* [PMP Certification Exam Prep (2022) | 300 Practice Questions](https://coursemetry.com/pmp-certification-exam-prep-2022-300-practice-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
