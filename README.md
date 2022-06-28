@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published so far on 2022-06-28**
+## **31 Udemy free courses published so far on 2022-06-28**
 
 * [How to Edit Video FAST! Adobe Premiere Pro 2022 Step-by-Step](https://coursemetry.com/how-to-edit-video-fast-adobe-premiere-pro-2022-step-by-step/)
 
@@ -63,6 +63,8 @@
 * [QuickBooks Desktop Pro-Personal Tax Tracking Tricks](https://coursemetry.com/quickbooks-desktop-pro-personal-tax-tracking-tricks/)
 
 * [QuickBooks Payroll - QuickBooks Online](https://coursemetry.com/quickbooks-payroll-quickbooks-online/)
+
+* [Erfolgreiches Podcasting & Podcast Hosting](https://coursemetry.com/erfolgreiches-podcasting-podcast-hosting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
