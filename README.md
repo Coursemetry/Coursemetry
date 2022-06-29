@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **142 Udemy free courses published so far on 2022-06-29**
+## **155 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -287,6 +287,32 @@
 * [Programacion con Python](https://coursemetry.com/programacion-con-python/)
 
 * [Flask, desarrollo web con Python](https://coursemetry.com/flask-desarrollo-web-con-python/)
+
+* [Scrum Certification Course 2022 (Based on Scrum Guide 2020)](https://coursemetry.com/scrum-certification-course-2022-based-on-scrum-guide-2020/)
+
+* [Essential Non Technical Skills of Effective Data Scientists](https://coursemetry.com/essential-non-technical-skills-of-effective-data-scientists/)
+
+* [Microsoft Clarity for Web Analytics :  A-Z Complete Tutorial](https://coursemetry.com/microsoft-clarity-for-web-analytics-a-z-complete-tutorial/)
+
+* [Git &Github Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/git-github-practice-tests-interview-questions-basic-adv/)
+
+* [Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests](https://coursemetry.com/web-3-0-blockchain-smart-contracts-crypto-practice-tests/)
+
+* [Most Effective Tips to get your Dream Data Science Job](https://coursemetry.com/most-effective-tips-to-get-your-dream-data-science-job/)
+
+* [TIBCO Spotfire Development : Beginners To Advanced Course](https://coursemetry.com/tibco-spotfire-development-beginners-to-advanced-course/)
+
+* [Spotfire Interview Tech Questions Answered with Explanation](https://coursemetry.com/spotfire-interview-tech-questions-answered-with-explanation/)
+
+* [No-Code Machine Learning Using Amazon AWS SageMaker Canvas](https://coursemetry.com/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/)
+
+* [Solidity Interview Questions & Practice Tests (updated 2022)](https://coursemetry.com/solidity-interview-questions-practice-tests-updated-2022/)
+
+* [Google Data Studio Complete Beginners to Advanced Tutorial](https://coursemetry.com/google-data-studio-complete-beginners-to-advanced-tutorial/)
+
+* [Emotional Intelligence for Software Engineers and Developers](https://coursemetry.com/emotional-intelligence-for-software-engineers-and-developers/)
+
+* [Learn Java and Software Engineering with Minecraft](https://coursemetry.com/learn-java-and-software-engineering-with-minecraft/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
