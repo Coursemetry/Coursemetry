@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **89 Udemy free courses published so far on 2022-06-29**
+## **97 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -112,8 +112,6 @@
 
 * [Advanced Crypto strategies for Algorithmic trading 2022](https://coursemetry.com/advanced-crypto-strategies-for-algorithmic-trading-2022/)
 
-* [Algorithmic Trading with Python: Machine Learning strategies](https://coursemetry.com/algorithmic-trading-with-python-machine-learning-strategies/)
-
 * [Data Visualization in python using matplotlib and seaborn](https://coursemetry.com/data-visualization-in-python-using-matplotlib-and-seaborn/)
 
 * [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
@@ -181,6 +179,24 @@
 * [Ethical Hacker v10 Practice Exam](https://coursemetry.com/ethical-hacker-v10-practice-exam/)
 
 * [AZ-900: Microsoft Azure Fundamentals Practice Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-questions/)
+
+* [MCIA Mulesoft Certified Integration Architect Practice Exams](https://coursemetry.com/mcia-mulesoft-certified-integration-architect-practice-exams/)
+
+* [MD-100 Windows 10 Practice Exams - JULY UPDATE](https://coursemetry.com/md-100-windows-10-practice-exams-july-update/)
+
+* [Algorithmic Trading with Python: Machine Learning strategies](https://coursemetry.com/algorithmic-trading-with-python-machine-learning-strategies/)
+
+* [Statistique et probabilité pour la finance quantitative](https://coursemetry.com/statistique-et-probabilite-pour-la-finance-quantitative/)
+
+* [LPI 010-160 Linux Essentials Practice Exams - JULY UPDATE](https://coursemetry.com/lpi-010-160-linux-essentials-practice-exams-july-update/)
+
+* [PL-300 Microsoft Power BI Data Analyst Practice Exams - JULY](https://coursemetry.com/pl-300-microsoft-power-bi-data-analyst-practice-exams-july/)
+
+* [ITIL4 Foundation Practice Exams - JULY UPDATE](https://coursemetry.com/itil4-foundation-practice-exams-july-update/)
+
+* [Docker Certified Associate DCA Practice Exams - JULY UPDATE](https://coursemetry.com/docker-certified-associate-dca-practice-exams-july-update/)
+
+* [Algorithmic trading for beginners: from zero to hero](https://coursemetry.com/algorithmic-trading-for-beginners-from-zero-to-hero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
