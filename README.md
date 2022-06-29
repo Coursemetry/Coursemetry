@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published so far on 2022-06-29**
+## **56 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -109,6 +109,12 @@
 * [Ancient History First Civilization](https://coursemetry.com/ancient-history-first-civilization/)
 
 * [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
+
+* [Deep Learning for algorithmic trading using Python](https://coursemetry.com/deep-learning-for-algorithmic-trading-using-python/)
+
+* [Advanced Crypto strategies for Algorithmic trading 2022](https://coursemetry.com/advanced-crypto-strategies-for-algorithmic-trading-2022/)
+
+* [Algorithmic Trading with Python: Machine Learning strategies](https://coursemetry.com/algorithmic-trading-with-python-machine-learning-strategies/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
