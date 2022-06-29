@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **24 Udemy free courses published so far on 2022-06-29**
+## **29 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -51,6 +51,16 @@
 * [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
 
 * [HTML, CSS, & JavaScript - Certification Course for Beginners](https://coursemetry.com/html-css-javascript-certification-course-for-beginners/)
+
+* [Podcast with Passion and Inspiration](https://coursemetry.com/podcast-with-passion-and-inspiration/)
+
+* [Podcast Coach: Podcasting Profits](https://coursemetry.com/podcast-coach-podcasting-profits/)
+
+* [No Oil Cooking Recipes - Eat Healthy! Live Strong!](https://coursemetry.com/no-oil-cooking-recipes-eat-healthy-live-strong/)
+
+* [Podcast Covert Hypnosis Masterclass](https://coursemetry.com/podcast-covert-hypnosis-masterclass/)
+
+* [Realtor Podcast Marketing For Real Estate Agents Success](https://coursemetry.com/realtor-podcast-marketing-for-real-estate-agents-success/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
