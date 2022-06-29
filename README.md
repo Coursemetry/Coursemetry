@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **29 Udemy free courses published so far on 2022-06-29**
+## **30 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -61,6 +61,8 @@
 * [Podcast Covert Hypnosis Masterclass](https://coursemetry.com/podcast-covert-hypnosis-masterclass/)
 
 * [Realtor Podcast Marketing For Real Estate Agents Success](https://coursemetry.com/realtor-podcast-marketing-for-real-estate-agents-success/)
+
+* [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
