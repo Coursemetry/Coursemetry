@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **126 Udemy free courses published so far on 2022-06-29**
+## **135 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -255,6 +255,24 @@
 * [AI-900: Azure AI Fundamentals Practice Exams - JULY UPDATE](https://coursemetry.com/ai-900-azure-ai-fundamentals-practice-exams-july-update/)
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
+
+* [Matematicas Financieras](https://coursemetry.com/matematicas-financieras/)
+
+* [Excel paso a paso](https://coursemetry.com/excel-paso-a-paso/)
+
+* [2022 Beginner's guide to Cyber Security](https://coursemetry.com/2022-beginners-guide-to-cyber-security/)
+
+* [PL-900 Microsoft Power Platform Fundamentals Practice Exams](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-practice-exams-4/)
+
+* [Cisco CCNP Collaboration 350-801 CLCOR Practice Exams - JULY](https://coursemetry.com/cisco-ccnp-collaboration-350-801-clcor-practice-exams-july/)
+
+* [200-201 CBROPS : Cisco Cybersecurity Practice Exams - JULY](https://coursemetry.com/200-201-cbrops-cisco-cybersecurity-practice-exams-july/)
+
+* [Oracle Database SQL 1Z0-071 Practice Exams - JULY UPDATE](https://coursemetry.com/oracle-database-sql-1z0-071-practice-exams-july-update/)
+
+* [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
+
+* [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
