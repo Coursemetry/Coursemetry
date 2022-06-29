@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **135 Udemy free courses published so far on 2022-06-29**
+## **142 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -273,6 +273,20 @@
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
 * [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
+
+* [Ciencia de datos con Python](https://coursemetry.com/ciencia-de-datos-con-python/)
+
+* [Introduccion a la Contabilidad](https://coursemetry.com/introduccion-a-la-contabilidad/)
+
+* [Programacion con Scratch, programando con bloques](https://coursemetry.com/programacion-con-scratch-programando-con-bloques/)
+
+* [Crea tu propio juego con Python](https://coursemetry.com/crea-tu-propio-juego-con-python/)
+
+* [Aprende a crear tu web desde cero con HTML y CSS](https://coursemetry.com/aprende-a-crear-tu-web-desde-cero-con-html-y-css/)
+
+* [Programacion con Python](https://coursemetry.com/programacion-con-python/)
+
+* [Flask, desarrollo web con Python](https://coursemetry.com/flask-desarrollo-web-con-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
