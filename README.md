@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published so far on 2022-06-29**
+## **53 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -101,6 +101,14 @@
 * [Career Management, Life & Management Skills Assessment Tests](https://coursemetry.com/career-management-life-management-skills-assessment-tests/)
 
 * [Learn jQuery - For Beginners](https://coursemetry.com/learn-jquery-for-beginners/)
+
+* [Engineering Drawing / Graphics : Hands-on training](https://coursemetry.com/engineering-drawing-graphics-hands-on-training/)
+
+* [Web Scraping Projects for Beginners](https://coursemetry.com/web-scraping-projects-for-beginners/)
+
+* [Ancient History First Civilization](https://coursemetry.com/ancient-history-first-civilization/)
+
+* [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
