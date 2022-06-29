@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **33 Udemy free courses published so far on 2022-06-29**
+## **34 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -69,6 +69,8 @@
 * [Curso básico de SASS, CSS3, HTML5 y jQuery creando un sitio](https://coursemetry.com/curso-basico-de-sass-css3-html5-y-jquery-creando-un-sitio/)
 
 * [Crea una librería de juegos con PHP MySQL AJAX y 2 proyectos](https://coursemetry.com/crea-una-libreria-de-juegos-con-php-mysql-ajax-y-2-proyectos/)
+
+* [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
