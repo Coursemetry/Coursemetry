@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published so far on 2022-06-29**
+## **77 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -62,8 +62,6 @@
 
 * [Realtor Podcast Marketing For Real Estate Agents Success](https://coursemetry.com/realtor-podcast-marketing-for-real-estate-agents-success/)
 
-* [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
-
 * [Crea un sistema cotizador y aprende PHP Javascript y AJAX](https://coursemetry.com/crea-un-sistema-cotizador-y-aprende-php-javascript-y-ajax/)
 
 * [Curso básico de SASS, CSS3, HTML5 y jQuery creando un sitio](https://coursemetry.com/curso-basico-de-sass-css3-html5-y-jquery-creando-un-sitio/)
@@ -117,6 +115,48 @@
 * [Algorithmic Trading with Python: Machine Learning strategies](https://coursemetry.com/algorithmic-trading-with-python-machine-learning-strategies/)
 
 * [Data Visualization in python using matplotlib and seaborn](https://coursemetry.com/data-visualization-in-python-using-matplotlib-and-seaborn/)
+
+* [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [R Programming : Data Analysis and Visualisations using R](https://coursemetry.com/r-programming-data-analysis-and-visualisations-using-r/)
+
+* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+
+* [Lumion : Landscape Design & Photorealistic Rendering](https://coursemetry.com/lumion-landscape-design-photorealistic-rendering/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [The Art of Busking: Maximize Your Fun (and Your Earnings)](https://coursemetry.com/the-art-of-busking-maximize-your-fun-and-your-earnings/)
+
+* [Python Programming - From Basics to Advanced level [2021]](https://coursemetry.com/python-programming-from-basics-to-advanced-level-2021/)
+
+* [Certified Cloud Security Professional - CCSP Practice Test](https://coursemetry.com/certified-cloud-security-professional-ccsp-practice-test/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [React JS- Complete Guide for Frontend Web Development [2021]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2021/)
+
+* [AWS Services for Solutions Architect Associate [2021]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2021/)
+
+* [Google Professional Data Engineer Practice Exams](https://coursemetry.com/google-professional-data-engineer-practice-exams/)
+
+* [How to Create a NFT Collection and Sell Your NFTs on Opensea](https://coursemetry.com/how-to-create-a-nft-collection-and-sell-your-nfts-on-opensea/)
+
+* [Programação em Linguagem C para Iniciantes](https://coursemetry.com/programacao-em-linguagem-c-para-iniciantes/)
+
+* [CompTIA Cybersecurity Analyst (CySA+) Practice Test](https://coursemetry.com/comptia-cybersecurity-analyst-cysa-practice-test/)
+
+* [Filmmaking 101: How to Cast a Bankable Actor in Your Film](https://coursemetry.com/filmmaking-101-how-to-cast-a-bankable-actor-in-your-film/)
+
+* [Mastering The Complete Agile Scrum Master Workshop](https://coursemetry.com/mastering-the-complete-agile-scrum-master-workshop/)
+
+* [Practice 156-115.77  Check Point Certified Security Master](https://coursemetry.com/practice-156-115-77-check-point-certified-security-master/)
+
+* [Introduction to Common Admission Test (CAT): Strategic Plan](https://coursemetry.com/introduction-to-common-admission-test-cat-strategic-plan/)
+
+* [Filmora X Mastercourse 2022 Updated](https://coursemetry.com/filmora-x-mastercourse-2022-updated/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
