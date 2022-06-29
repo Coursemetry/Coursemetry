@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **34 Udemy free courses published so far on 2022-06-29**
+## **49 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -71,6 +71,36 @@
 * [Crea una librería de juegos con PHP MySQL AJAX y 2 proyectos](https://coursemetry.com/crea-una-libreria-de-juegos-con-php-mysql-ajax-y-2-proyectos/)
 
 * [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
+
+* [Forex Robots Masterclass [Genbox]](https://coursemetry.com/forex-robots-masterclass-genbox/)
+
+* [Build a Portfolio Website without Coding 2022 [WordPress]](https://coursemetry.com/build-a-portfolio-website-without-coding-2022-wordpress/)
+
+* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
+
+* [Java And C++ Complete Training Course 2022](https://coursemetry.com/java-and-c-complete-training-course-2022/)
+
+* [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners/)
+
+* [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
+
+* [Flutter 2.2  برنامج كامل للشركات باستعمال الفلاتر و فايربيز](https://coursemetry.com/flutter-2-2-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d9%83%d8%a7%d9%85%d9%84-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a8%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d9%81%d9%84%d8%a7/)
+
+* [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
+
+* [CSS & JavaScript - Certification Course for Beginners](https://coursemetry.com/css-javascript-certification-course-for-beginners/)
+
+* [Learn PHP - For Beginners](https://coursemetry.com/learn-php-for-beginners/)
+
+* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
+
+* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners/)
+
+* [Career Management, Life & Management Skills Assessment Tests](https://coursemetry.com/career-management-life-management-skills-assessment-tests/)
+
+* [Learn jQuery - For Beginners](https://coursemetry.com/learn-jquery-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
