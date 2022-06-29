@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **77 Udemy free courses published so far on 2022-06-29**
+## **89 Udemy free courses published so far on 2022-06-29**
 
 * [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
 
@@ -157,6 +157,30 @@
 * [Introduction to Common Admission Test (CAT): Strategic Plan](https://coursemetry.com/introduction-to-common-admission-test-cat-strategic-plan/)
 
 * [Filmora X Mastercourse 2022 Updated](https://coursemetry.com/filmora-x-mastercourse-2022-updated/)
+
+* [Learn Chinese 11000+ vocabularies in 1 HOUR](https://coursemetry.com/learn-chinese-11000-vocabularies-in-1-hour/)
+
+* [Simulador Examen PMI Agile Certified Practitioner (PMI-ACP)](https://coursemetry.com/simulador-examen-pmi-agile-certified-practitioner-pmi-acp-2/)
+
+* [Learn Carnatic Flute | Purandara Dasa Keerthanas - Vol 1](https://coursemetry.com/learn-carnatic-flute-purandara-dasa-keerthanas-vol-1/)
+
+* [ServiceNow System Administrator (CSA) Practice Exams JULY](https://coursemetry.com/servicenow-system-administrator-csa-practice-exams-july/)
+
+* [MD-101 Managing Modern Desktops Practice Exams - JULY UPDATE](https://coursemetry.com/md-101-managing-modern-desktops-practice-exams-july-update/)
+
+* [SC-400 Information Protection Administrator Practice Exams](https://coursemetry.com/sc-400-information-protection-administrator-practice-exams/)
+
+* [Practice Exams to Prepare for RHCSA EX200 Exam - JULY UPDATE](https://coursemetry.com/practice-exams-to-prepare-for-rhcsa-ex200-exam-july-update/)
+
+* [CV / Resume for Experienced & Freshers](https://coursemetry.com/cv-resume-for-experienced-freshers/)
+
+* [AWS Certified Security - Specialty Practice Test](https://coursemetry.com/aws-certified-security-specialty-practice-test/)
+
+* [Learn Carnatic Flute | Sri.Thyagaraja Krithis - Vol 1](https://coursemetry.com/learn-carnatic-flute-sri-thyagaraja-krithis-vol-1/)
+
+* [Ethical Hacker v10 Practice Exam](https://coursemetry.com/ethical-hacker-v10-practice-exam/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
