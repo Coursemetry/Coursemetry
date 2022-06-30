@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **75 Udemy free courses published so far on 2022-06-30**
+## **76 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -153,6 +153,8 @@
 * [CompTIA PenTest+ PT0-001 Practice Certification Exams](https://coursemetry.com/comptia-pentest-pt0-001-practice-certification-exams/)
 
 * [Learn Hacking Using Social Engineering](https://coursemetry.com/learn-hacking-using-social-engineering/)
+
+* [SQL Server Integration Services (SSIS) - Giriş Eğitimi](https://coursemetry.com/sql-server-integration-services-ssis-giris-egitimi/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
