@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-06-30**
+## **138 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -253,6 +253,32 @@
 * [Image Recognition for Beginners using CNN in R Studio](https://coursemetry.com/image-recognition-for-beginners-using-cnn-in-r-studio/)
 
 * [Logistic Regression in R Studio](https://coursemetry.com/logistic-regression-in-r-studio/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [Creación de WebService API REST con Laravel](https://coursemetry.com/creacion-de-webservice-api-rest-con-laravel/)
+
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+
+* [The Complete Do-It-Yourself  - Epic SEO & Content Marketing](https://coursemetry.com/the-complete-do-it-yourself-epic-seo-content-marketing/)
+
+* [Registro y Login con Redes Sociales PHP, MySQL y Firebase](https://coursemetry.com/registro-y-login-con-redes-sociales-php-mysql-y-firebase/)
+
+* [How to Create a NFT Collection and Sell Your NFTs on Opensea](https://coursemetry.com/how-to-create-a-nft-collection-and-sell-your-nfts-on-opensea/)
+
+* [Linux Operating System: A complete Linux guide for Beginners](https://coursemetry.com/linux-operating-system-a-complete-linux-guide-for-beginners/)
+
+* [ML for Business Managers: Build Regression model in R Studio](https://coursemetry.com/ml-for-business-managers-build-regression-model-in-r-studio/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [A Complete Masterclass of Virtualization from scratch](https://coursemetry.com/a-complete-masterclass-of-virtualization-from-scratch/)
+
+* [Operating System: Understanding the core](https://coursemetry.com/operating-system-understanding-the-core/)
+
+* [Creación y Consumo de Web Service SOAP WDSL con PHP y MySQL](https://coursemetry.com/creacion-y-consumo-de-web-service-soap-wdsl-con-php-y-mysql/)
+
+* [PHP y MYSQL: Convierte cualquier template HTML en una WebAPP](https://coursemetry.com/php-y-mysql-convierte-cualquier-template-html-en-una-webapp/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
