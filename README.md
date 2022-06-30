@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **147 Udemy free courses published so far on 2022-06-30**
+## **148 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -297,6 +297,8 @@
 * [Podcasting Success Strategies: Get Podcast Sponsorships ](https://coursemetry.com/podcasting-success-strategies-get-podcast-sponsorships/)
 
 * [Aprenda a fazer o melhor Podcast com Power Podcasting](https://coursemetry.com/aprenda-a-fazer-o-melhor-podcast-com-power-podcasting/)
+
+* [AWS Certified Solutions Architect - Associate Practice Test](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-test-2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
