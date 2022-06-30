@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published so far on 2022-06-30**
+## **118 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -215,6 +215,30 @@
 * [Your Path To Twitch Affiliate](https://coursemetry.com/your-path-to-twitch-affiliate/)
 
 * [Branding Bootcamp : Craft a Brand Identity & Brand Strategy](https://coursemetry.com/branding-bootcamp-craft-a-brand-identity-brand-strategy/)
+
+* [End Procrastination and Achieve Your Dream Life](https://coursemetry.com/end-procrastination-and-achieve-your-dream-life/)
+
+* [Marketing Basics for Non Marketing Professionals](https://coursemetry.com/marketing-basics-for-non-marketing-professionals/)
+
+* [Team Management Skills for Building High Performance Teams](https://coursemetry.com/team-management-skills-for-building-high-performance-teams/)
+
+* [Simulador Examen PMI Agile Certified Practitioner 2022](https://coursemetry.com/simulador-examen-pmi-agile-certified-practitioner-2022/)
+
+* [Write to Impress -Business Writing Skills for Corporates](https://coursemetry.com/write-to-impress-business-writing-skills-for-corporates/)
+
+* [Work Smarter Not Harder - Modern Productivity Hacks for Life](https://coursemetry.com/work-smarter-not-harder-modern-productivity-hacks-for-life/)
+
+* [Fundamental Sales Skills to Boost Your Growth and Success](https://coursemetry.com/fundamental-sales-skills-to-boost-your-growth-and-success/)
+
+* [Customer Service Fundamentals.](https://coursemetry.com/customer-service-fundamentals/)
+
+* [Microsoft Information Protection Administrator SC-400:-2022](https://coursemetry.com/microsoft-information-protection-administrator-sc-400-2022/)
+
+* [Figma UI/UX Web Design & Animation with 5 Projects (2022)](https://coursemetry.com/figma-ui-ux-web-design-animation-with-5-projects-2022/)
+
+* [7 Step Guide to Master Self Discipline.](https://coursemetry.com/7-step-guide-to-master-self-discipline/)
+
+* [Money Management 101-Personal Finance Skills for Millennials](https://coursemetry.com/money-management-101-personal-finance-skills-for-millennials/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
