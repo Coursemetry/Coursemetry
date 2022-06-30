@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **103 Udemy free courses published so far on 2022-06-30**
+## **106 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -209,6 +209,12 @@
 * [Learn Dart from zero to proficiency](https://coursemetry.com/learn-dart-from-zero-to-proficiency/)
 
 * [Learn OpenSSL with a real world cheatsheet](https://coursemetry.com/learn-openssl-with-a-real-world-cheatsheet/)
+
+* [Contracts & Claims Management Introduction Basic Course](https://coursemetry.com/contracts-claims-management-introduction-basic-course/)
+
+* [Your Path To Twitch Affiliate](https://coursemetry.com/your-path-to-twitch-affiliate/)
+
+* [Branding Bootcamp : Craft a Brand Identity & Brand Strategy](https://coursemetry.com/branding-bootcamp-craft-a-brand-identity-brand-strategy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
