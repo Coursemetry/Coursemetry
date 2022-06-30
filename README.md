@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published so far on 2022-06-30**
+## **54 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -97,6 +97,20 @@
 * [Basic Electrical Safety training](https://coursemetry.com/basic-electrical-safety-training/)
 
 * [Digital Electronics For Beginners](https://coursemetry.com/digital-electronics-for-beginners/)
+
+* [Become A Certified Python Programmer: Python Practice Tests](https://coursemetry.com/become-a-certified-python-programmer-python-practice-tests/)
+
+* [HTML Certification, Practice Test For Exams & Interviews](https://coursemetry.com/html-certification-practice-test-for-exams-interviews/)
+
+* [How to become a Human Calculator Faster than Abacus Method](https://coursemetry.com/how-to-become-a-human-calculator-faster-than-abacus-method/)
+
+* [Become A Certified JS Developer: JavaScript Practice Tests](https://coursemetry.com/become-a-certified-js-developer-javascript-practice-tests/)
+
+* [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
+
+* [C++ Programming: Practice Tests Beginner To Advanced Level](https://coursemetry.com/c-programming-practice-tests-beginner-to-advanced-level/)
+
+* [Become A Certified Java Developer: Java Practice Tests](https://coursemetry.com/become-a-certified-java-developer-java-practice-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
