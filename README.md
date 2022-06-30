@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published so far on 2022-06-30**
+## **103 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -191,6 +191,24 @@
 * [Agile Scrum Master Training : Case Studies and Confessions](https://coursemetry.com/agile-scrum-master-training-case-studies-and-confessions/)
 
 * [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Accessing the Mercy Court of Heaven an Introduction](https://coursemetry.com/accessing-the-mercy-court-of-heaven-an-introduction/)
+
+* [AI4ALL: Image-to-Image Model](https://coursemetry.com/ai4all-image-to-image-model/)
+
+* [Salesforce Flows Basics (Record Triggered - AFTER FLOW)](https://coursemetry.com/salesforce-flows-basics-record-triggered-after-flow/)
+
+* [AWS RDS Concepts BootCamp](https://coursemetry.com/aws-rds-concepts-bootcamp/)
+
+* [Quickstart Raspberry Pi](https://coursemetry.com/quickstart-raspberry-pi/)
+
+* [10 Passive Income Business ideas - Build an online business](https://coursemetry.com/10-passive-income-business-ideas-build-an-online-business/)
+
+* [Product Photography Masterclass](https://coursemetry.com/product-photography-masterclass/)
+
+* [Learn Dart from zero to proficiency](https://coursemetry.com/learn-dart-from-zero-to-proficiency/)
+
+* [Learn OpenSSL with a real world cheatsheet](https://coursemetry.com/learn-openssl-with-a-real-world-cheatsheet/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
