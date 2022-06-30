@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **43 Udemy free courses published so far on 2022-06-30**
+## **47 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -89,6 +89,14 @@
 * [AZ-600 Practice Tests Exam](https://coursemetry.com/az-600-practice-tests-exam/)
 
 * [AI Entrepreneurship Mastery 2022](https://coursemetry.com/ai-entrepreneurship-mastery-2022/)
+
+* [Learn Canva & Canva Pro - Easiest Graphic Design Course 2022](https://coursemetry.com/learn-canva-canva-pro-easiest-graphic-design-course-2022/)
+
+* [Bacteria-killing viruses](https://coursemetry.com/bacteria-killing-viruses/)
+
+* [Basic Electrical Safety training](https://coursemetry.com/basic-electrical-safety-training/)
+
+* [Digital Electronics For Beginners](https://coursemetry.com/digital-electronics-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
