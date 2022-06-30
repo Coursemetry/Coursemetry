@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published so far on 2022-06-30**
+## **94 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -175,6 +175,22 @@
 * [Data Visualizations with MatPlotLib for Python Developers](https://coursemetry.com/data-visualizations-with-matplotlib-for-python-developers/)
 
 * [IBM Watson Beginners Training for AI](https://coursemetry.com/ibm-watson-beginners-training-for-ai/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [NGINX Web Server from Scratch](https://coursemetry.com/nginx-web-server-from-scratch/)
+
+* [Agile Scrum Master Training : Case Studies and Confessions](https://coursemetry.com/agile-scrum-master-training-case-studies-and-confessions/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
