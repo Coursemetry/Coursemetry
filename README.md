@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **138 Udemy free courses published so far on 2022-06-30**
+## **147 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -279,6 +279,24 @@
 * [Creación y Consumo de Web Service SOAP WDSL con PHP y MySQL](https://coursemetry.com/creacion-y-consumo-de-web-service-soap-wdsl-con-php-y-mysql/)
 
 * [PHP y MYSQL: Convierte cualquier template HTML en una WebAPP](https://coursemetry.com/php-y-mysql-convierte-cualquier-template-html-en-una-webapp/)
+
+* [Voice Training and Voice Over Essentials to Work from Home](https://coursemetry.com/voice-training-and-voice-over-essentials-to-work-from-home/)
+
+* [Fundamental Question on Digital Marketing](https://coursemetry.com/fundamental-question-on-digital-marketing/)
+
+* [Practice Test for MS Azure Data Engineer (DP-203) Exam 2022](https://coursemetry.com/practice-test-for-ms-azure-data-engineer-dp-203-exam-2022/)
+
+* [Fundamental Question on Azure](https://coursemetry.com/fundamental-question-on-azure/)
+
+* [Fundamental Questions for AWS Certified Developer Associate](https://coursemetry.com/fundamental-questions-for-aws-certified-developer-associate/)
+
+* [Fundamental Question on AutoCAD](https://coursemetry.com/fundamental-question-on-autocad/)
+
+* [Fundamental Question on Robotics](https://coursemetry.com/fundamental-question-on-robotics/)
+
+* [Podcasting Success Strategies: Get Podcast Sponsorships ](https://coursemetry.com/podcasting-success-strategies-get-podcast-sponsorships/)
+
+* [Aprenda a fazer o melhor Podcast com Power Podcasting](https://coursemetry.com/aprenda-a-fazer-o-melhor-podcast-com-power-podcasting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
