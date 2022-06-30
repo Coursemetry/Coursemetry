@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **78 Udemy free courses published so far on 2022-06-30**
+## **86 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -159,6 +159,22 @@
 * [Computer Basics 2022: Basic Computer Skills And Fundamentals](https://coursemetry.com/computer-basics-2022-basic-computer-skills-and-fundamentals/)
 
 * [GCP Certified Data Engineer - Practice Tests 2023](https://coursemetry.com/gcp-certified-data-engineer-practice-tests-2023/)
+
+* [Ionic Tutorials - Build Android & Web Apps with Ionic](https://coursemetry.com/ionic-tutorials-build-android-web-apps-with-ionic/)
+
+* [Predictive Modeling with SAS Enterprise Miner](https://coursemetry.com/predictive-modeling-with-sas-enterprise-miner/)
+
+* [Video Game Development With Python and Pygame](https://coursemetry.com/video-game-development-with-python-and-pygame/)
+
+* [Android App Development using Kotlin](https://coursemetry.com/android-app-development-using-kotlin/)
+
+* [Kubernetes Hands-on for the Absolute Beginners](https://coursemetry.com/kubernetes-hands-on-for-the-absolute-beginners/)
+
+* [Python for Data Science and Machine Learning](https://coursemetry.com/python-for-data-science-and-machine-learning-2/)
+
+* [Data Visualizations with MatPlotLib for Python Developers](https://coursemetry.com/data-visualizations-with-matplotlib-for-python-developers/)
+
+* [IBM Watson Beginners Training for AI](https://coursemetry.com/ibm-watson-beginners-training-for-ai/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
