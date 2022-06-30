@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published so far on 2022-06-30**
+## **75 Udemy free courses published so far on 2022-06-30**
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
 
@@ -147,6 +147,12 @@
 * [Residential Rental Property Tax Preparation 2021-2022](https://coursemetry.com/residential-rental-property-tax-preparation-2021-2022/)
 
 * [QuickBooks Online Multiple Currencies](https://coursemetry.com/quickbooks-online-multiple-currencies/)
+
+* [PHP Mock Test Core & Advance 2022 [With FREE E-Book]](https://coursemetry.com/php-mock-test-core-advance-2022-with-free-e-book/)
+
+* [CompTIA PenTest+ PT0-001 Practice Certification Exams](https://coursemetry.com/comptia-pentest-pt0-001-practice-certification-exams/)
+
+* [Learn Hacking Using Social Engineering](https://coursemetry.com/learn-hacking-using-social-engineering/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
