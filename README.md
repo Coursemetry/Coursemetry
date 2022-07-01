@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-07-01**
+## **116 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -225,6 +225,16 @@
 * [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
 
 * [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [Workshops - systemic conception and design](https://coursemetry.com/workshops-systemic-conception-and-design/)
+
+* [Introduction to object-oriented programming with Arduino](https://coursemetry.com/introduction-to-object-oriented-programming-with-arduino/)
+
+* [Control a LED Matrix via web interface with Arduino ESP32](https://coursemetry.com/control-a-led-matrix-via-web-interface-with-arduino-esp32/)
+
+* [Stocks & Crypto: In Google Spreadsheet only with formulas](https://coursemetry.com/stocks-crypto-in-google-spreadsheet-only-with-formulas/)
+
+* [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
