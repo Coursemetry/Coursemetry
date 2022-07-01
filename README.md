@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **224 Udemy free courses published so far on 2022-07-01**
+## **226 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -451,6 +451,10 @@
 * [MLOps Certification- Basics, Deployment & Vertex AI/ Grafana](https://coursemetry.com/mlops-certification-basics-deployment-vertex-ai-grafana/)
 
 * [Learn C++ by Solving 75 Coding Challenges](https://coursemetry.com/learn-c-by-solving-75-coding-challenges/)
+
+* [Çekirdekten Uzmanlığa Egzersiz ve Projelerle Komple JAVA](https://coursemetry.com/cekirdekten-uzmanliga-egzersiz-ve-projelerle-komple-java/)
+
+* [2022 PMP Exam Simulator with 4 PMP Mock Practice Tests](https://coursemetry.com/2022-pmp-exam-simulator-with-4-pmp-mock-practice-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
