@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **39 Udemy free courses published so far on 2022-07-01**
+## **41 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -81,6 +81,10 @@
 * [Google Forms Ultimate Guide 2022](https://coursemetry.com/google-forms-ultimate-guide-2022/)
 
 * [GitHub Ultimate Guide 2022](https://coursemetry.com/github-ultimate-guide-2022/)
+
+* [When is the best time to join the cryptocurrency space](https://coursemetry.com/when-is-the-best-time-to-join-the-cryptocurrency-space/)
+
+* [Genetic Algorithms, VAEs & GANs in DNNs- An Introduction](https://coursemetry.com/genetic-algorithms-vaes-gans-in-dnns-an-introduction/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
