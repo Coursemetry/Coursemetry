@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **191 Udemy free courses published so far on 2022-07-01**
+## **205 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -385,6 +385,34 @@
 * [تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a8%d9%84%d8%ba%d8%a9-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ae%d8%b7%d9%88%d8%a9/)
 
 * [تعلم تصميم وتطوير مواقع الويب باحترافية](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d8%a8%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Power Of Your Mind (Edition 2)](https://coursemetry.com/power-of-your-mind-edition-2/)
+
+* [Interactive Inclusion_English_II](https://coursemetry.com/interactive-inclusion_english_ii/)
+
+* [RedSeal Administration](https://coursemetry.com/redseal-administration/)
+
+* [Interactive Inclusion_English_I](https://coursemetry.com/interactive-inclusion_english_i/)
+
+* [Introduction to Object Oriented Programming](https://coursemetry.com/introduction-to-object-oriented-programming/)
+
+* [Pandas Challenges](https://coursemetry.com/pandas-challenges/)
+
+* [BOOST your TOEIC speaking score!](https://coursemetry.com/boost-your-toeic-speaking-score/)
+
+* [Introduction to Data Analytics](https://coursemetry.com/introduction-to-data-analytics/)
+
+* [Learn To Build, Grow & Scale A 7-Figure Marketing Agency](https://coursemetry.com/learn-to-build-grow-scale-a-7-figure-marketing-agency/)
+
+* [Intro to HTML and CSS](https://coursemetry.com/intro-to-html-and-css/)
+
+* [Curso PSeInt algoritmos  y  lógica de  programación](https://coursemetry.com/curso-pseint-algoritmos-y-logica-de-programacion/)
+
+* [Certified Nursing Assistant [CNA] Practice Tests and answers](https://coursemetry.com/certified-nursing-assistant-cna-practice-tests-and-answers/)
+
+* [Curso Taller De Excel Desde Cero Hasta Avanzado](https://coursemetry.com/curso-taller-de-excel-desde-cero-hasta-avanzado/)
+
+* [Intelligence Quotient [ IQ ] Tests and Answers](https://coursemetry.com/intelligence-quotient-iq-tests-and-answers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
