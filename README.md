@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published so far on 2022-07-01**
+## **74 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -71,76 +71,6 @@
 * [Microsoft Word Ultimate Guide 2022](https://coursemetry.com/microsoft-word-ultimate-guide-2022/)
 
 * [Microsoft Outlook Ultimate Guide 2022](https://coursemetry.com/microsoft-outlook-ultimate-guide-2022/)
-
-* [Kali Linux para Iniciantes com NMap (hacking e pentest)](https://coursemetry.com/kali-linux-para-iniciantes-com-nmap-hacking-e-pentest/)
-
-* [JavaScript - Creating Loan EMI Calculator](https://coursemetry.com/javascript-creating-loan-emi-calculator/)
-
-* [Introduction into Facebook Marketing & Facebook Advertising](https://coursemetry.com/introduction-into-facebook-marketing-facebook-advertising/)
-
-* [Google Forms Ultimate Guide 2022](https://coursemetry.com/google-forms-ultimate-guide-2022/)
-
-* [GitHub Ultimate Guide 2022](https://coursemetry.com/github-ultimate-guide-2022/)
-
-* [When is the best time to join the cryptocurrency space](https://coursemetry.com/when-is-the-best-time-to-join-the-cryptocurrency-space/)
-
-* [Genetic Algorithms, VAEs & GANs in DNNs- An Introduction](https://coursemetry.com/genetic-algorithms-vaes-gans-in-dnns-an-introduction/)
-
-* [JDBC Basics Guide 2022](https://coursemetry.com/jdbc-basics-guide-2022/)
-
-* [Python 3 Ultimate Guide 2022](https://coursemetry.com/python-3-ultimate-guide-2022/)
-
-* [Adobe After Effects Projects 2022](https://coursemetry.com/adobe-after-effects-projects-2022/)
-
-* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
-
-* [Learn AND Generate & Select  Right Business Ideas](https://coursemetry.com/learn-and-generate-select-right-business-ideas/)
-
-* [Bootstrap 4 Ultimate Guide 2022](https://coursemetry.com/bootstrap-4-ultimate-guide-2022/)
-
-* [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
-
-* [Adobe After Effects Basics Guide 2022](https://coursemetry.com/adobe-after-effects-basics-guide-2022/)
-
-* [Adobe InDesign Ultimate Guide 2022](https://coursemetry.com/adobe-indesign-ultimate-guide-2022/)
-
-* [PowerShell Basics Guide 2022](https://coursemetry.com/powershell-basics-guide-2022/)
-
-* [Google Chrome Basics Guide 2022](https://coursemetry.com/google-chrome-basics-guide-2022/)
-
-* [Airtable Ultimate Guide 2022](https://coursemetry.com/airtable-ultimate-guide-2022/)
-
-* [WordPress for Absolute Beginners](https://coursemetry.com/wordpress-for-absolute-beginners/)
-
-* [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
-
-* [HTML5 Ultimate Guide 2022](https://coursemetry.com/html5-ultimate-guide-2022/)
-
-* [Build a Portfolio Website without Coding 2022](https://coursemetry.com/build-a-portfolio-website-without-coding-2022/)
-
-* [PHP Mock Test Core & Advance 2022 [With FREE E-Book]](https://coursemetry.com/php-mock-test-core-advance-2022-with-free-e-book/)
-
-* [Microsoft Publisher Basics Guide 2022](https://coursemetry.com/microsoft-publisher-basics-guide-2022/)
-
-* [Firefox Developer Edition Basics 2022](https://coursemetry.com/firefox-developer-edition-basics-2022/)
-
-* [Google Drive Ultimate Guide 2022](https://coursemetry.com/google-drive-ultimate-guide-2022/)
-
-* [Microsoft OneNote Ultimate Guide 2022](https://coursemetry.com/microsoft-onenote-ultimate-guide-2022/)
-
-* [Adobe After Effects Ultimate Guide 2022](https://coursemetry.com/adobe-after-effects-ultimate-guide-2022/)
-
-* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
-
-* [Learn OpenSSL with a real world cheatsheet](https://coursemetry.com/learn-openssl-with-a-real-world-cheatsheet/)
-
-* [GitLab Ultimate Guide 2022](https://coursemetry.com/gitlab-ultimate-guide-2022/)
-
-* [Sublime Text 3 Basics Guide 2022](https://coursemetry.com/sublime-text-3-basics-guide-2022/)
-
-* [Open Broadcaster Ultimate Guide 2022](https://coursemetry.com/open-broadcaster-ultimate-guide-2022/)
-
-* [Firefox Basics Guide 2022](https://coursemetry.com/firefox-basics-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
