@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **205 Udemy free courses published so far on 2022-07-01**
+## **209 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -413,6 +413,14 @@
 * [Curso Taller De Excel Desde Cero Hasta Avanzado](https://coursemetry.com/curso-taller-de-excel-desde-cero-hasta-avanzado/)
 
 * [Intelligence Quotient [ IQ ] Tests and Answers](https://coursemetry.com/intelligence-quotient-iq-tests-and-answers/)
+
+* [Make Your Excel Look Like a Standalone Program](https://coursemetry.com/make-your-excel-look-like-a-standalone-program/)
+
+* [Build Full-Stack Projects with FARM stack](https://coursemetry.com/build-full-stack-projects-with-farm-stack/)
+
+* [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
+
+* [Deploy MEAN Stack App on Azure Cloud with CICD Pipeline](https://coursemetry.com/deploy-mean-stack-app-on-azure-cloud-with-cicd-pipeline/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
