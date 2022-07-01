@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **236 Udemy free courses published so far on 2022-07-01**
+## **247 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -412,13 +412,9 @@
 
 * [Build Full-Stack Projects with FARM stack](https://coursemetry.com/build-full-stack-projects-with-farm-stack/)
 
-* [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
-
 * [Deploy MEAN Stack App on Azure Cloud with CICD Pipeline](https://coursemetry.com/deploy-mean-stack-app-on-azure-cloud-with-cicd-pipeline/)
 
 * [Simulador Amazon AWS Certified Database -Specialty Exam 2022](https://coursemetry.com/simulador-amazon-aws-certified-database-specialty-exam-2022/)
-
-* [Practical HTML5 Mastery Course](https://coursemetry.com/practical-html5-mastery-course/)
 
 * [Logistic Regression in Python](https://coursemetry.com/logistic-regression-in-python/)
 
@@ -475,6 +471,32 @@
 * [Build & Deploy Secure API with Python FASTAPI JWT SQLAlchemy](https://coursemetry.com/build-deploy-secure-api-with-python-fastapi-jwt-sqlalchemy/)
 
 * [Sistema de asistencias en C# y SQLserver desde 0](https://coursemetry.com/sistema-de-asistencias-en-c-y-sqlserver-desde-0/)
+
+* [Practical HTML5 Mastery Course](https://coursemetry.com/practical-html5-mastery-course/)
+
+* [How To Make Passive Income on Amazon KDP with Zero dollars](https://coursemetry.com/how-to-make-passive-income-on-amazon-kdp-with-zero-dollars/)
+
+* [1Z0-1093-21 Oracle Cloud Database Services Specialist](https://coursemetry.com/1z0-1093-21-oracle-cloud-database-services-specialist/)
+
+* [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
+
+* [Amazon AWS Certified Database - Specialty Exam Practice 2022](https://coursemetry.com/amazon-aws-certified-database-specialty-exam-practice-2022/)
+
+* [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
+
+* [Oracle Cloud Infrastructure Foundations 2021 Associate](https://coursemetry.com/oracle-cloud-infrastructure-foundations-2021-associate/)
+
+* [1Z0-1094-21 Oracle Cloud Database Migration and Integration.](https://coursemetry.com/1z0-1094-21-oracle-cloud-database-migration-and-integration/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Tests - May 22](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-may-22/)
+
+* [DP-900 Microsoft Azure Data Fundamentals Practice Test MAY22](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-test-may22/)
+
+* [1Z0-1067-21 Oracle OCI 2021 Cloud Operations Associate](https://coursemetry.com/1z0-1067-21-oracle-oci-2021-cloud-operations-associate/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
