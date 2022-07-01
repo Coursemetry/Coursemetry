@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **41 Udemy free courses published so far on 2022-07-01**
+## **56 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -85,6 +85,36 @@
 * [When is the best time to join the cryptocurrency space](https://coursemetry.com/when-is-the-best-time-to-join-the-cryptocurrency-space/)
 
 * [Genetic Algorithms, VAEs & GANs in DNNs- An Introduction](https://coursemetry.com/genetic-algorithms-vaes-gans-in-dnns-an-introduction/)
+
+* [JDBC Basics Guide 2022](https://coursemetry.com/jdbc-basics-guide-2022/)
+
+* [Python 3 Ultimate Guide 2022](https://coursemetry.com/python-3-ultimate-guide-2022/)
+
+* [Adobe After Effects Projects 2022](https://coursemetry.com/adobe-after-effects-projects-2022/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [Learn AND Generate & Select  Right Business Ideas](https://coursemetry.com/learn-and-generate-select-right-business-ideas/)
+
+* [Bootstrap 4 Ultimate Guide 2022](https://coursemetry.com/bootstrap-4-ultimate-guide-2022/)
+
+* [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
+
+* [Adobe After Effects Basics Guide 2022](https://coursemetry.com/adobe-after-effects-basics-guide-2022/)
+
+* [Adobe InDesign Ultimate Guide 2022](https://coursemetry.com/adobe-indesign-ultimate-guide-2022/)
+
+* [PowerShell Basics Guide 2022](https://coursemetry.com/powershell-basics-guide-2022/)
+
+* [Google Chrome Basics Guide 2022](https://coursemetry.com/google-chrome-basics-guide-2022/)
+
+* [Airtable Ultimate Guide 2022](https://coursemetry.com/airtable-ultimate-guide-2022/)
+
+* [WordPress for Absolute Beginners](https://coursemetry.com/wordpress-for-absolute-beginners/)
+
+* [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
+
+* [HTML5 Ultimate Guide 2022](https://coursemetry.com/html5-ultimate-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
