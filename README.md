@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **182 Udemy free courses published so far on 2022-07-01**
+## **186 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -367,6 +367,14 @@
 * [Assertiveness Training & Assertive Communication Improvement](https://coursemetry.com/assertiveness-training-assertive-communication-improvement/)
 
 * [Analyse de Données avec Python: Numpy, Pandas et Matplotlib](https://coursemetry.com/analyse-de-donnees-avec-python-numpy-pandas-et-matplotlib/)
+
+* [Aprende FastAPI desde cero](https://coursemetry.com/aprende-fastapi-desde-cero/)
+
+* [AZ 204  mock/dumps latest - Azure Developer Associate](https://coursemetry.com/az-204-mock-dumps-latest-azure-developer-associate/)
+
+* [Desarrollo de pruebas técnicas para desarrollador Python](https://coursemetry.com/desarrollo-de-pruebas-tecnicas-para-desarrollador-python/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
