@@ -2,13 +2,11 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published so far on 2022-07-01**
+## **150 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
 * [Shamanic Sound Healing | Certificate Course](https://coursemetry.com/shamanic-sound-healing-certificate-course/)
-
-* [Visual Studio Code Ultimate Guide 2022](https://coursemetry.com/visual-studio-code-ultimate-guide-2022/)
 
 * [Microsoft Edge Ultimate Guide 2022](https://coursemetry.com/microsoft-edge-ultimate-guide-2022/)
 
@@ -39,8 +37,6 @@
 * [Adobe XD Ultimate Guide 2022](https://coursemetry.com/adobe-xd-ultimate-guide-2022/)
 
 * [Front End Web Development Ultimate Guide 2022](https://coursemetry.com/front-end-web-development-ultimate-guide-2022/)
-
-* [Trello Ultimate Guide 2022](https://coursemetry.com/trello-ultimate-guide-2022/)
 
 * [jQuery Ultimate Guide 2022](https://coursemetry.com/jquery-ultimate-guide-2022/)
 
@@ -90,8 +86,6 @@
 
 * [Python 3 Ultimate Guide 2022](https://coursemetry.com/python-3-ultimate-guide-2022/)
 
-* [Adobe After Effects Projects 2022](https://coursemetry.com/adobe-after-effects-projects-2022/)
-
 * [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
 
 * [Learn AND Generate & Select  Right Business Ideas](https://coursemetry.com/learn-and-generate-select-right-business-ideas/)
@@ -105,8 +99,6 @@
 * [Adobe InDesign Ultimate Guide 2022](https://coursemetry.com/adobe-indesign-ultimate-guide-2022/)
 
 * [PowerShell Basics Guide 2022](https://coursemetry.com/powershell-basics-guide-2022/)
-
-* [Google Chrome Basics Guide 2022](https://coursemetry.com/google-chrome-basics-guide-2022/)
 
 * [Airtable Ultimate Guide 2022](https://coursemetry.com/airtable-ultimate-guide-2022/)
 
@@ -135,8 +127,6 @@
 * [Learn OpenSSL with a real world cheatsheet](https://coursemetry.com/learn-openssl-with-a-real-world-cheatsheet/)
 
 * [GitLab Ultimate Guide 2022](https://coursemetry.com/gitlab-ultimate-guide-2022/)
-
-* [Sublime Text 3 Basics Guide 2022](https://coursemetry.com/sublime-text-3-basics-guide-2022/)
 
 * [Open Broadcaster Ultimate Guide 2022](https://coursemetry.com/open-broadcaster-ultimate-guide-2022/)
 
@@ -235,6 +225,84 @@
 * [Stocks & Crypto: In Google Spreadsheet only with formulas](https://coursemetry.com/stocks-crypto-in-google-spreadsheet-only-with-formulas/)
 
 * [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
+
+* [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
+
+* [Certified Ethical Hacker  v11 {Un-Official}  explained Q/As](https://coursemetry.com/certified-ethical-hacker-v11-un-official-explained-q-as/)
+
+* [Google Looker Masterclass: Looker & LookML A-Z 2022](https://coursemetry.com/google-looker-masterclass-looker-lookml-a-z-2022/)
+
+* [The Complete English Idioms Course - Master English Idioms](https://coursemetry.com/the-complete-english-idioms-course-master-english-idioms/)
+
+* [Sublime Text 3 Basics Guide 2022](https://coursemetry.com/sublime-text-3-basics-guide-2022/)
+
+* [The Complete Do-It-Yourself  - Epic SEO & Content Marketing](https://coursemetry.com/the-complete-do-it-yourself-epic-seo-content-marketing/)
+
+* [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [The Comprehensive SQL Course](https://coursemetry.com/the-comprehensive-sql-course/)
+
+* [Practical Java-8 Mastery Course](https://coursemetry.com/practical-java-8-mastery-course/)
+
+* [SVG Ultimate Guide 2022](https://coursemetry.com/svg-ultimate-guide-2022/)
+
+* [Brave Basics Guide 2022](https://coursemetry.com/brave-basics-guide-2022/)
+
+* [Adobe After Effects Projects 2022](https://coursemetry.com/adobe-after-effects-projects-2022/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [The Advanced SQL Course](https://coursemetry.com/the-advanced-sql-course/)
+
+* [ATtiny Mikrocontroller Entwicklung für Arduino Programmierer](https://coursemetry.com/attiny-mikrocontroller-entwicklung-fur-arduino-programmierer/)
+
+* [Business Fundamentals & Questions to Answer Before Launching](https://coursemetry.com/business-fundamentals-questions-to-answer-before-launching/)
+
+* [Dieting - Nutrition -Weight Loss Tips for Good Healthy Life](https://coursemetry.com/dieting-nutrition-weight-loss-tips-for-good-healthy-life/)
+
+* [Microsoft Planner Ultimate Guide 2022](https://coursemetry.com/microsoft-planner-ultimate-guide-2022/)
+
+* [Google Chrome Basics Guide 2022](https://coursemetry.com/google-chrome-basics-guide-2022/)
+
+* [Artificial Intelligence in Web Design + Live Class](https://coursemetry.com/artificial-intelligence-in-web-design-live-class/)
+
+* [Opera Basics Guide 2022](https://coursemetry.com/opera-basics-guide-2022/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Linear Regression and Logistic Regression using R Studio](https://coursemetry.com/linear-regression-and-logistic-regression-using-r-studio/)
+
+* [Artificial Intelligence in Digital Marketing + Live Class](https://coursemetry.com/artificial-intelligence-in-digital-marketing-live-class/)
+
+* [Adobe Creative Cloud Ultimate Guide 2022](https://coursemetry.com/adobe-creative-cloud-ultimate-guide-2022/)
+
+* [cPanel Ultimate Guide 2022](https://coursemetry.com/cpanel-ultimate-guide-2022/)
+
+* [Adobe Premiere Pro Ultimate Guide 2022](https://coursemetry.com/adobe-premiere-pro-ultimate-guide-2022/)
+
+* [Artificial Intelligence Expert Course + Live Class](https://coursemetry.com/artificial-intelligence-expert-course-live-class/)
+
+* [Google BigQuery & PostgreSQL : Big Query for Data Analysis](https://coursemetry.com/google-bigquery-postgresql-big-query-for-data-analysis/)
+
+* [Visual Studio Code Ultimate Guide 2022](https://coursemetry.com/visual-studio-code-ultimate-guide-2022/)
+
+* [Trello Ultimate Guide 2022](https://coursemetry.com/trello-ultimate-guide-2022/)
+
+* [Microsoft Teams Ultimate Guide 2022](https://coursemetry.com/microsoft-teams-ultimate-guide-2022/)
+
+* [Enable Any Frontend App with Login using Google & SpringBoot](https://coursemetry.com/enable-any-frontend-app-with-login-using-google-springboot/)
+
+* [Web Development Ultimate Guide 2022](https://coursemetry.com/web-development-ultimate-guide-2022/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Adobe Creative Cloud Projects 2022](https://coursemetry.com/adobe-creative-cloud-projects-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
