@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **209 Udemy free courses published so far on 2022-07-01**
+## **224 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -244,8 +244,6 @@
 
 * [The Comprehensive SQL Course](https://coursemetry.com/the-comprehensive-sql-course/)
 
-* [Practical Java-8 Mastery Course](https://coursemetry.com/practical-java-8-mastery-course/)
-
 * [SVG Ultimate Guide 2022](https://coursemetry.com/svg-ultimate-guide-2022/)
 
 * [Brave Basics Guide 2022](https://coursemetry.com/brave-basics-guide-2022/)
@@ -325,8 +323,6 @@
 * [Get Job as Java SpringBoot Developer in IT industry](https://coursemetry.com/get-job-as-java-springboot-developer-in-it-industry/)
 
 * [Microservices Interview Readiness Course](https://coursemetry.com/microservices-interview-readiness-course/)
-
-* [Practical JavaScript & ES6 Mastery with Projects](https://coursemetry.com/practical-javascript-es6-mastery-with-projects/)
 
 * [Flutter SQLite Database with full project](https://coursemetry.com/flutter-sqlite-database-with-full-project/)
 
@@ -421,6 +417,40 @@
 * [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
 
 * [Deploy MEAN Stack App on Azure Cloud with CICD Pipeline](https://coursemetry.com/deploy-mean-stack-app-on-azure-cloud-with-cicd-pipeline/)
+
+* [Simulador Amazon AWS Certified Database -Specialty Exam 2022](https://coursemetry.com/simulador-amazon-aws-certified-database-specialty-exam-2022/)
+
+* [Practical HTML5 Mastery Course](https://coursemetry.com/practical-html5-mastery-course/)
+
+* [Logistic Regression in Python](https://coursemetry.com/logistic-regression-in-python/)
+
+* [Practical Java-8 Mastery Course](https://coursemetry.com/practical-java-8-mastery-course/)
+
+* [CSS, Bootstrap ,JavaScript, Web Development Course](https://coursemetry.com/css-bootstrap-javascript-web-development-course/)
+
+* [Artificial Neural Networks (ANN) with Keras in Python and R](https://coursemetry.com/artificial-neural-networks-ann-with-keras-in-python-and-r/)
+
+* [Adobe Animate Basics Guide 2022](https://coursemetry.com/adobe-animate-basics-guide-2022/)
+
+* [Marketing Analytics: Customer Value and Promotion Strategy](https://coursemetry.com/marketing-analytics-customer-value-and-promotion-strategy/)
+
+* [Graph Neural Networks: Basics, Codes and Simulations for AI](https://coursemetry.com/graph-neural-networks-basics-codes-and-simulations-for-ai/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [A Complete Guide to Indian Payroll Management](https://coursemetry.com/a-complete-guide-to-indian-payroll-management/)
+
+* [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
+
+* [Practical JavaScript & ES6 Mastery with Projects](https://coursemetry.com/practical-javascript-es6-mastery-with-projects/)
+
+* [Containerize Springboot CRUD App with Docker & DockerCompose](https://coursemetry.com/containerize-springboot-crud-app-with-docker-dockercompose/)
+
+* [Data Visualization in Excel: All Excel Charts and Graphs](https://coursemetry.com/data-visualization-in-excel-all-excel-charts-and-graphs/)
+
+* [MLOps Certification- Basics, Deployment & Vertex AI/ Grafana](https://coursemetry.com/mlops-certification-basics-deployment-vertex-ai-grafana/)
+
+* [Learn C++ by Solving 75 Coding Challenges](https://coursemetry.com/learn-c-by-solving-75-coding-challenges/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
