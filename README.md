@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **226 Udemy free courses published so far on 2022-07-01**
+## **236 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -318,8 +318,6 @@
 
 * [Zero to Hero hands-on mastery on HTML5 & CSS3](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-css3/)
 
-* [Build & Deploy Secure API with Python FASTAPI JWT SQLAlchemy](https://coursemetry.com/build-deploy-secure-api-with-python-fastapi-jwt-sqlalchemy/)
-
 * [Get Job as Java SpringBoot Developer in IT industry](https://coursemetry.com/get-job-as-java-springboot-developer-in-it-industry/)
 
 * [Microservices Interview Readiness Course](https://coursemetry.com/microservices-interview-readiness-course/)
@@ -455,6 +453,28 @@
 * [Çekirdekten Uzmanlığa Egzersiz ve Projelerle Komple JAVA](https://coursemetry.com/cekirdekten-uzmanliga-egzersiz-ve-projelerle-komple-java/)
 
 * [2022 PMP Exam Simulator with 4 PMP Mock Practice Tests](https://coursemetry.com/2022-pmp-exam-simulator-with-4-pmp-mock-practice-tests/)
+
+* [Java: Curso profesional de Java 2022 –De cero a Master](https://coursemetry.com/java-curso-profesional-de-java-2022-de-cero-a-master/)
+
+* [Crea una Api REST FULL completa con  PHP NATIVO](https://coursemetry.com/crea-una-api-rest-full-completa-con-php-nativo/)
+
+* [Cómo Crear una Tarjeta De Presentación con WordPress](https://coursemetry.com/como-crear-una-tarjeta-de-presentacion-con-wordpress/)
+
+* [DevOps Mastery with Docker Kubernetes & Azure Kubernetes](https://coursemetry.com/devops-mastery-with-docker-kubernetes-azure-kubernetes/)
+
+* [Diseño de Piscinas](https://coursemetry.com/diseno-de-piscinas/)
+
+* [Web en Wordpress para Creativos, Arquitectos e Interioristas](https://coursemetry.com/web-en-wordpress-para-creativos-arquitectos-e-interioristas/)
+
+* [Practice -Microsoft Azure de Administrator AZ-104 2022](https://coursemetry.com/practice-microsoft-azure-de-administrator-az-104-2022/)
+
+* [Excel Tips and trick : Learn MS Excel by making 7 Projects](https://coursemetry.com/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/)
+
+* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
+
+* [Build & Deploy Secure API with Python FASTAPI JWT SQLAlchemy](https://coursemetry.com/build-deploy-secure-api-with-python-fastapi-jwt-sqlalchemy/)
+
+* [Sistema de asistencias en C# y SQLserver desde 0](https://coursemetry.com/sistema-de-asistencias-en-c-y-sqlserver-desde-0/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
