@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-07-01**
+## **92 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -185,6 +185,8 @@
 * [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
 
 * [Becoming A Sales Professional](https://coursemetry.com/becoming-a-sales-professional/)
+
+* [TikTok Bootcamp: Strategy, Video Editing, Getting Followers](https://coursemetry.com/tiktok-bootcamp-strategy-video-editing-getting-followers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
