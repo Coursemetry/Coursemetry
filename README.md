@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **150 Udemy free courses published so far on 2022-07-01**
+## **169 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -303,6 +303,44 @@
 * [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
 
 * [Adobe Creative Cloud Projects 2022](https://coursemetry.com/adobe-creative-cloud-projects-2022/)
+
+* [Practical Bootcamp JWT Authentication with Java & SpringBoot](https://coursemetry.com/practical-bootcamp-jwt-authentication-with-java-springboot/)
+
+* [Develop & Deploy Java Springboot App on Kubernetes Cluster](https://coursemetry.com/develop-deploy-java-springboot-app-on-kubernetes-cluster/)
+
+* [Master React Redux via Real world analogy & Building Project](https://coursemetry.com/master-react-redux-via-real-world-analogy-building-project/)
+
+* [Containerize SpringBoot Node Express Apps & Deploy on Azure](https://coursemetry.com/containerize-springboot-node-express-apps-deploy-on-azure/)
+
+* [Apply Jobs as MERN stack developer with this course](https://coursemetry.com/apply-jobs-as-mern-stack-developer-with-this-course/)
+
+* [Zero to Hero Bootstrap5 Mastery Course](https://coursemetry.com/zero-to-hero-bootstrap5-mastery-course/)
+
+* [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
+
+* [Zero to Hero hands-on mastery on HTML5 & CSS3](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-css3/)
+
+* [Build & Deploy Secure API with Python FASTAPI JWT SQLAlchemy](https://coursemetry.com/build-deploy-secure-api-with-python-fastapi-jwt-sqlalchemy/)
+
+* [Get Job as Java SpringBoot Developer in IT industry](https://coursemetry.com/get-job-as-java-springboot-developer-in-it-industry/)
+
+* [Microservices Interview Readiness Course](https://coursemetry.com/microservices-interview-readiness-course/)
+
+* [Practical JavaScript & ES6 Mastery with Projects](https://coursemetry.com/practical-javascript-es6-mastery-with-projects/)
+
+* [Flutter SQLite Database with full project](https://coursemetry.com/flutter-sqlite-database-with-full-project/)
+
+* [Practical SpringBoot Microservices Implementation Mastery](https://coursemetry.com/practical-springboot-microservices-implementation-mastery/)
+
+* [Become a Pro Wordpress Custom Theme Developer](https://coursemetry.com/become-a-pro-wordpress-custom-theme-developer/)
+
+* [English placement test - Unofficial](https://coursemetry.com/english-placement-test-unofficial/)
+
+* [Automate ReactJs & SpringBoot CICD Pipelines on AzureDevOps](https://coursemetry.com/automate-reactjs-springboot-cicd-pipelines-on-azuredevops/)
+
+* [Docker & Kubernetes Interview Readiness Course](https://coursemetry.com/docker-kubernetes-interview-readiness-course/)
+
+* [Practical Junit & Mockito Test with Java SpringBoot & JPA](https://coursemetry.com/practical-junit-mockito-test-with-java-springboot-jpa/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
