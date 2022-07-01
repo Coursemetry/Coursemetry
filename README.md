@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-07-01**
+## **104 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -189,6 +189,28 @@
 * [TikTok Bootcamp: Strategy, Video Editing, Getting Followers](https://coursemetry.com/tiktok-bootcamp-strategy-video-editing-getting-followers/)
 
 * [Learn How To Price Your Marketing Agency Services To Scale](https://coursemetry.com/learn-how-to-price-your-marketing-agency-services-to-scale/)
+
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Marketing Analytics: Forecasting Models with Excel](https://coursemetry.com/marketing-analytics-forecasting-models-with-excel/)
+
+* [Time Series Analysis and Forecasting using Python](https://coursemetry.com/time-series-analysis-and-forecasting-using-python/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Wordpress Create Your Own Website 2022!](https://coursemetry.com/wordpress-create-your-own-website-2022/)
+
+* [Postgraduate Diploma: Digital Product & Service Owner](https://coursemetry.com/postgraduate-diploma-digital-product-service-owner/)
+
+* [P.O.W.E.R Resume System: Proven system to get job interviews](https://coursemetry.com/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/)
+
+* [Fiverr Freelancing, Online Teaching & E-Commerce Guide 2022](https://coursemetry.com/fiverr-freelancing-online-teaching-e-commerce-guide-2022/)
+
+* [Statistics and Probability using Excel - Statistics A to Z](https://coursemetry.com/statistics-and-probability-using-excel-statistics-a-to-z/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
