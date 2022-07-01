@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **104 Udemy free courses published so far on 2022-07-01**
+## **111 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -211,6 +211,20 @@
 * [Fiverr Freelancing, Online Teaching & E-Commerce Guide 2022](https://coursemetry.com/fiverr-freelancing-online-teaching-e-commerce-guide-2022/)
 
 * [Statistics and Probability using Excel - Statistics A to Z](https://coursemetry.com/statistics-and-probability-using-excel-statistics-a-to-z/)
+
+* [PHP for Beginners: PHP Crash Course 2022](https://coursemetry.com/php-for-beginners-php-crash-course-2022/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Personal Finance Bootcamp : Learnings of 2nd world tax payer](https://coursemetry.com/personal-finance-bootcamp-learnings-of-2nd-world-tax-payer/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
