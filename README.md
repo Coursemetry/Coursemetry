@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **186 Udemy free courses published so far on 2022-07-01**
+## **190 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -375,6 +375,14 @@
 * [Desarrollo de pruebas técnicas para desarrollador Python](https://coursemetry.com/desarrollo-de-pruebas-tecnicas-para-desarrollador-python/)
 
 * [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [Ethical Hacking | الهكر الأخلاقي | مقدمة ومفاهيم عملية مهمة](https://coursemetry.com/ethical-hacking-%d8%a7%d9%84%d9%87%d9%83%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d9%85%d9%82%d8%af%d9%85%d8%a9-%d9%88%d9%85%d9%81%d8%a7%d9%87%d9%8a%d9%85-%d8%b9%d9%85%d9%84%d9%8a/)
+
+* [Microsoft Project Online : Complete Ms Project Course](https://coursemetry.com/microsoft-project-online-complete-ms-project-course/)
+
+* [تعلم لغة البرمجة جافا من الصفر إلى مرحلة متقدمة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%ac%d8%a7%d9%81%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%a5%d9%84%d9%89-%d9%85%d8%b1%d8%ad%d9%84/)
+
+* [تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a8%d9%84%d8%ba%d8%a9-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ae%d8%b7%d9%88%d8%a9/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
