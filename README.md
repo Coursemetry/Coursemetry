@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **77 Udemy free courses published so far on 2022-07-01**
+## **79 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -157,6 +157,10 @@
 * [PRINCE2 Foundation Practice Tests 2022 (UPDATED JULY 2022)](https://coursemetry.com/prince2-foundation-practice-tests-2022-updated-july-2022/)
 
 * [ITIL 4 Foundation Practice Tests 2022 (6 Mock Tests)](https://coursemetry.com/itil-4-foundation-practice-tests-2022-6-mock-tests/)
+
+* [Learn Python 3 Programming from Scratch](https://coursemetry.com/learn-python-3-programming-from-scratch/)
+
+* [Quantity Surveyor's Guide for Pre-Contracts Management](https://coursemetry.com/quantity-surveyors-guide-for-pre-contracts-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
