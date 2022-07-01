@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published so far on 2022-07-01**
+## **91 Udemy free courses published so far on 2022-07-01**
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
 
@@ -161,6 +161,30 @@
 * [Learn Python 3 Programming from Scratch](https://coursemetry.com/learn-python-3-programming-from-scratch/)
 
 * [Quantity Surveyor's Guide for Pre-Contracts Management](https://coursemetry.com/quantity-surveyors-guide-for-pre-contracts-management/)
+
+* [Accelerated Learning: Study Skills for Success: IT industry](https://coursemetry.com/accelerated-learning-study-skills-for-success-it-industry/)
+
+* [Google Professional Cloud Architect - GCP PCA - Exams - 2022](https://coursemetry.com/google-professional-cloud-architect-gcp-pca-exams-2022/)
+
+* [AWS Certified Cloud Practitioner - Practice Exams - 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022-2/)
+
+* [200+ Questions - Job Interview - SQL Developer - 2022](https://coursemetry.com/200-questions-job-interview-sql-developer-2022/)
+
+* [Google Professional Cloud Developer - GCP PCD - Exams - 2022](https://coursemetry.com/google-professional-cloud-developer-gcp-pcd-exams-2022/)
+
+* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
+
+* [250+ Questions - Job Interview - Python Developer - 2022](https://coursemetry.com/250-questions-job-interview-python-developer-2022/)
+
+* [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
+
+* [200+ Questions - Job Interview - Data Scientist - 2022](https://coursemetry.com/200-questions-job-interview-data-scientist-2022/)
+
+* [Google Associate Cloud Engineer - GCP ACE - Exams - 2022](https://coursemetry.com/google-associate-cloud-engineer-gcp-ace-exams-2022/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [Becoming A Sales Professional](https://coursemetry.com/becoming-a-sales-professional/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
