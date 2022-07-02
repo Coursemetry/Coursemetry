@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **59 Udemy free courses published so far on 2022-07-02**
+## **64 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -121,6 +121,16 @@
 * [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
 
 * [Drupal For Absolute Beginners (2022)](https://coursemetry.com/drupal-for-absolute-beginners-2022/)
+
+* [Wordpress for Complete Beginners!](https://coursemetry.com/wordpress-for-complete-beginners/)
+
+* [Everything About Kali Linux OS](https://coursemetry.com/everything-about-kali-linux-os/)
+
+* [Basic Structure of Computers](https://coursemetry.com/basic-structure-of-computers/)
+
+* [Best Introduction to Information Security](https://coursemetry.com/best-introduction-to-information-security/)
+
+* [Introduction To Cybersecurity](https://coursemetry.com/introduction-to-cybersecurity/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
