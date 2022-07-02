@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **19 Udemy free courses published so far on 2022-07-02**
+## **21 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -41,6 +41,10 @@
 * [Quantum Mechanical Maps, QDeepMind &  Quantum Homoencryption](https://coursemetry.com/quantum-mechanical-maps-qdeepmind-quantum-homoencryption/)
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
+
+* [Practice Python by Solving 100 Advanced Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-advanced-coding-challenges/)
+
+* [The English Conversation Course | Learn to speak English!](https://coursemetry.com/the-english-conversation-course-learn-to-speak-english/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
