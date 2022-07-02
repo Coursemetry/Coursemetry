@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published so far on 2022-07-02**
+## **67 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -135,6 +135,8 @@
 * [Kick Out Depression -Complete Treatment 2022](https://coursemetry.com/kick-out-depression-complete-treatment-2022/)
 
 * [Everything About Blogger From Scratch](https://coursemetry.com/everything-about-blogger-from-scratch/)
+
+* [Web Developer Basics](https://coursemetry.com/web-developer-basics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
