@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-07-02**
+## **120 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -162,8 +162,6 @@
 
 * [Independent Musician Music Marketing - Part Music Business](https://coursemetry.com/independent-musician-music-marketing-part-music-business/)
 
-* [P_S4FIN_2021 | SAP S/4HANA ERP Finance Experts Exam](https://coursemetry.com/p_s4fin_2021-sap-s-4hana-erp-finance-experts-exam/)
-
 * [Become a Professional Babysitter](https://coursemetry.com/become-a-professional-babysitter/)
 
 * [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
@@ -223,6 +221,28 @@
 * [Ionic Tutorials - Build Android & Web Apps with Ionic](https://coursemetry.com/ionic-tutorials-build-android-web-apps-with-ionic/)
 
 * [Predictive Modeling with SAS Enterprise Miner](https://coursemetry.com/predictive-modeling-with-sas-enterprise-miner/)
+
+* [AWS CloudFormation - Masterclass for Beginners](https://coursemetry.com/aws-cloudformation-masterclass-for-beginners/)
+
+* [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
+
+* [Analyse de Données avec Python: Numpy, Pandas et Matplotlib](https://coursemetry.com/analyse-de-donnees-avec-python-numpy-pandas-et-matplotlib/)
+
+* [Einstieg ins Social Media Management](https://coursemetry.com/einstieg-ins-social-media-management/)
+
+* [P_S4FIN_2021 | SAP S/4HANA ERP Finance Experts Exam](https://coursemetry.com/p_s4fin_2021-sap-s-4hana-erp-finance-experts-exam/)
+
+* [Android App Development using Kotlin](https://coursemetry.com/android-app-development-using-kotlin/)
+
+* [Deploy any MERN Stack App on Azure Cloud using CICD Pipeline](https://coursemetry.com/deploy-any-mern-stack-app-on-azure-cloud-using-cicd-pipeline/)
+
+* [The Complete B2B Sales Course: Lead Generation to Closing](https://coursemetry.com/the-complete-b2b-sales-course-lead-generation-to-closing/)
+
+* [Microsoft Yammer Essential Training || GET CERTIFICATE ||](https://coursemetry.com/microsoft-yammer-essential-training-get-certificate/)
+
+* [Containerize Springboot CRUD App with Docker & DockerCompose](https://coursemetry.com/containerize-springboot-crud-app-with-docker-dockercompose/)
+
+* [Interview Essentials - Master Your Interview Essentials Now](https://coursemetry.com/interview-essentials-master-your-interview-essentials-now/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
