@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **44 Udemy free courses published so far on 2022-07-02**
+## **59 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -91,6 +91,36 @@
 * [Secure Shell (SSH)](https://coursemetry.com/secure-shell-ssh/)
 
 * [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
+
+* [Future Farms: Understanding Growlights for Hydroponics](https://coursemetry.com/future-farms-understanding-growlights-for-hydroponics/)
+
+* [Learn How to Use the Slider Revolution Plugin for Wordpress](https://coursemetry.com/learn-how-to-use-the-slider-revolution-plugin-for-wordpress/)
+
+* [Money Maker Energy Course](https://coursemetry.com/money-maker-energy-course/)
+
+* [Learn Automotive Diagnostics](https://coursemetry.com/learn-automotive-diagnostics/)
+
+* [Quality Management and Career Planning: Fortune 500 Firms](https://coursemetry.com/quality-management-and-career-planning-fortune-500-firms/)
+
+* [Interactive Sales Dashboard in Excel](https://coursemetry.com/interactive-sales-dashboard-in-excel/)
+
+* [Earn Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/earn-money-copywriting-make-money-writing-copy-from-home/)
+
+* [Fiverr HACKS to Become a Top-Level Freelancer with No Skills](https://coursemetry.com/fiverr-hacks-to-become-a-top-level-freelancer-with-no-skills/)
+
+* [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
+
+* [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
+
+* [Build your Email List on Steroids using Killer Lead Magnets](https://coursemetry.com/build-your-email-list-on-steroids-using-killer-lead-magnets/)
+
+* [सीखें Javascript Programming हिन्दी में](https://coursemetry.com/%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-javascript-programming-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82/)
+
+* [Complete Wordpress Website Developer Course](https://coursemetry.com/complete-wordpress-website-developer-course/)
+
+* [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
+
+* [Drupal For Absolute Beginners (2022)](https://coursemetry.com/drupal-for-absolute-beginners-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
