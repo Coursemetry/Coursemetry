@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **21 Udemy free courses published so far on 2022-07-02**
+## **23 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -45,6 +45,10 @@
 * [Practice Python by Solving 100 Advanced Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-advanced-coding-challenges/)
 
 * [The English Conversation Course | Learn to speak English!](https://coursemetry.com/the-english-conversation-course-learn-to-speak-english/)
+
+* [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
+
+* [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
