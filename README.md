@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-07-02**
+## **110 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -197,6 +197,32 @@
 * [C_TAW12_750 | SAP ABAP with SAP NetWeaver 7.50 Practice Exam](https://coursemetry.com/c_taw12_750-sap-abap-with-sap-netweaver-7-50-practice-exam/)
 
 * [C_TS4CO_2021 | SAP S/4HANA for Management Accounting Exam](https://coursemetry.com/c_ts4co_2021-sap-s-4hana-for-management-accounting-exam/)
+
+* [C_TS413_2020 | SAP S/4HANA Asset Management - Practice Test](https://coursemetry.com/c_ts413_2020-sap-s-4hana-asset-management-practice-test/)
+
+* [Video Game Development With Python and Pygame](https://coursemetry.com/video-game-development-with-python-and-pygame/)
+
+* [Kubernetes Hands-on for the Absolute Beginners](https://coursemetry.com/kubernetes-hands-on-for-the-absolute-beginners/)
+
+* [C_TS422_2021 | SAP Production Planning & Manufacturing Test](https://coursemetry.com/c_ts422_2021-sap-production-planning-manufacturing-test/)
+
+* [Introduction to Programming - 2 Hour Crash Course](https://coursemetry.com/introduction-to-programming-2-hour-crash-course/)
+
+* [Data Visualizations with MatPlotLib for Python Developers](https://coursemetry.com/data-visualizations-with-matplotlib-for-python-developers/)
+
+* [C_TS410_2020 | SAP Business Process Integration Test](https://coursemetry.com/c_ts410_2020-sap-business-process-integration-test/)
+
+* [C_TADM70_21 | SAP OS/DB Migration for SAP NetWeaver Exam](https://coursemetry.com/c_tadm70_21-sap-os-db-migration-for-sap-netweaver-exam/)
+
+* [Python for Data Science and Machine Learning](https://coursemetry.com/python-for-data-science-and-machine-learning-2/)
+
+* [IBM Watson Beginners Training for AI](https://coursemetry.com/ibm-watson-beginners-training-for-ai/)
+
+* [C_TB1200_10 | SAP Business One Release 10.0 Associate Exam](https://coursemetry.com/c_tb1200_10-sap-business-one-release-10-0-associate-exam/)
+
+* [Ionic Tutorials - Build Android & Web Apps with Ionic](https://coursemetry.com/ionic-tutorials-build-android-web-apps-with-ionic/)
+
+* [Predictive Modeling with SAS Enterprise Miner](https://coursemetry.com/predictive-modeling-with-sas-enterprise-miner/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
