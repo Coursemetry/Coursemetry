@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published so far on 2022-07-02**
+## **44 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -63,6 +63,34 @@
 * [C_ARCIG_2202 | SAP Ariba Integration Cloud Practice Exam](https://coursemetry.com/c_arcig_2202-sap-ariba-integration-cloud-practice-exam/)
 
 * [C_ARSCC_2202 | SAP Ariba Supply Chain Collaboration Exam](https://coursemetry.com/c_arscc_2202-sap-ariba-supply-chain-collaboration-exam/)
+
+* [Docker & Kubernetes Interview Readiness Course](https://coursemetry.com/docker-kubernetes-interview-readiness-course/)
+
+* [Zero to Hero React JS mastery E-degree course](https://coursemetry.com/zero-to-hero-react-js-mastery-e-degree-course/)
+
+* [Practical Junit & Mockito Test with Java SpringBoot & JPA](https://coursemetry.com/practical-junit-mockito-test-with-java-springboot-jpa/)
+
+* [Practical CSS3 Mastery Course](https://coursemetry.com/practical-css3-mastery-course/)
+
+* [Cryptocurrency & Bitcoin for Beginners in Plain English.](https://coursemetry.com/cryptocurrency-bitcoin-for-beginners-in-plain-english/)
+
+* [Open-Source Intelligence (OSINT)](https://coursemetry.com/open-source-intelligence-osint/)
+
+* [Build Full-Stack Projects with FARM stack](https://coursemetry.com/build-full-stack-projects-with-farm-stack/)
+
+* [Root Cause Analysis: 5 Whys Diagram](https://coursemetry.com/root-cause-analysis-5-whys-diagram/)
+
+* [Linux Security](https://coursemetry.com/linux-security/)
+
+* [تعلم الجت لإدارة البرمجيات من البداية للإحتراف](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%ac%d8%aa-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d9%8a%d8%a7%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9/)
+
+* [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
+
+* [Complete Guide to TOEFL iBT | Mastering the Skills](https://coursemetry.com/complete-guide-to-toefl-ibt-mastering-the-skills/)
+
+* [Secure Shell (SSH)](https://coursemetry.com/secure-shell-ssh/)
+
+* [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
