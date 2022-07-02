@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **25 Udemy free courses published so far on 2022-07-02**
+## **27 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -53,6 +53,10 @@
 * [Freelance Content-Creator Masterclass](https://coursemetry.com/freelance-content-creator-masterclass/)
 
 * [Build REST API using Python, Flask and Postman - 2022](https://coursemetry.com/build-rest-api-using-python-flask-and-postman-2022/)
+
+* [Microsoft Excel Ultimate Guide 2022](https://coursemetry.com/microsoft-excel-ultimate-guide-2022/)
+
+* [Font Awesome Basics Guide 2022](https://coursemetry.com/font-awesome-basics-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
