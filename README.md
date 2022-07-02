@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published so far on 2022-07-02**
+## **128 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -74,8 +74,6 @@
 
 * [Cryptocurrency & Bitcoin for Beginners in Plain English.](https://coursemetry.com/cryptocurrency-bitcoin-for-beginners-in-plain-english/)
 
-* [Open-Source Intelligence (OSINT)](https://coursemetry.com/open-source-intelligence-osint/)
-
 * [Build Full-Stack Projects with FARM stack](https://coursemetry.com/build-full-stack-projects-with-farm-stack/)
 
 * [Root Cause Analysis: 5 Whys Diagram](https://coursemetry.com/root-cause-analysis-5-whys-diagram/)
@@ -87,8 +85,6 @@
 * [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
 
 * [Complete Guide to TOEFL iBT | Mastering the Skills](https://coursemetry.com/complete-guide-to-toefl-ibt-mastering-the-skills/)
-
-* [Secure Shell (SSH)](https://coursemetry.com/secure-shell-ssh/)
 
 * [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
 
@@ -243,6 +239,26 @@
 * [Containerize Springboot CRUD App with Docker & DockerCompose](https://coursemetry.com/containerize-springboot-crud-app-with-docker-dockercompose/)
 
 * [Interview Essentials - Master Your Interview Essentials Now](https://coursemetry.com/interview-essentials-master-your-interview-essentials-now/)
+
+* [صيانة الحاسب للجميع](https://coursemetry.com/%d8%b5%d9%8a%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8-%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9/)
+
+* [Project Management Essential Training](https://coursemetry.com/project-management-essential-training/)
+
+* [دبلومة تعلم الآلة وعلوم البيانات| Machine Learning Diploma](https://coursemetry.com/%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a9-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a2%d9%84%d8%a9-%d9%88%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-machine-learning-diploma/)
+
+* [Python Programming Tutorial For The Absolute Beginner + Code](https://coursemetry.com/python-programming-tutorial-for-the-absolute-beginner-code/)
+
+* [Build A Search Engine With Python: Computer Science & Python](https://coursemetry.com/build-a-search-engine-with-python-computer-science-python/)
+
+* [Learn basic Italian in 2 hours](https://coursemetry.com/learn-basic-italian-in-2-hours/)
+
+* [Open-Source Intelligence (OSINT)](https://coursemetry.com/open-source-intelligence-osint/)
+
+* [See 27 Ways to Make Money Online with Your Smartphone!](https://coursemetry.com/see-27-ways-to-make-money-online-with-your-smartphone/)
+
+* [Secure Shell (SSH)](https://coursemetry.com/secure-shell-ssh/)
+
+* [Ultrasonic Testing Level 1 Training](https://coursemetry.com/ultrasonic-testing-level-1-training/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
