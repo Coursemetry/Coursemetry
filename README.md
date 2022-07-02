@@ -132,11 +132,11 @@
 
 * [Introduction To Cybersecurity](https://coursemetry.com/introduction-to-cybersecurity/)
 
-* [Kick Out Depression -Complete Treatment 2022](https://coursemetry.com/kick-out-depression-complete-treatment-2022/)
-
 * [Everything About Blogger From Scratch](https://coursemetry.com/everything-about-blogger-from-scratch/)
 
 * [Web Developer Basics](https://coursemetry.com/web-developer-basics/)
+
+* [Kick Out Depression -Complete Treatment 2022](https://coursemetry.com/kick-out-depression-complete-treatment-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
