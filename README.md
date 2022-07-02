@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published so far on 2022-07-02**
+## **83 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -151,6 +151,24 @@
 * [Top hidden time wasters & How to avoid wasting your time!](https://coursemetry.com/top-hidden-time-wasters-how-to-avoid-wasting-your-time/)
 
 * [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
+
+* [12 Guitar Practice Tips for FAST Improvement](https://coursemetry.com/12-guitar-practice-tips-for-fast-improvement/)
+
+* [Storytelling With Imagery For Persuasion & Personal Brand](https://coursemetry.com/storytelling-with-imagery-for-persuasion-personal-brand/)
+
+* [Active Shooter Response](https://coursemetry.com/active-shooter-response/)
+
+* [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
+
+* [Independent Musician Music Marketing - Part Music Business](https://coursemetry.com/independent-musician-music-marketing-part-music-business/)
+
+* [P_S4FIN_2021 | SAP S/4HANA ERP Finance Experts Exam](https://coursemetry.com/p_s4fin_2021-sap-s-4hana-erp-finance-experts-exam/)
+
+* [Become a Professional Babysitter](https://coursemetry.com/become-a-professional-babysitter/)
+
+* [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
+
+* [AWS Certified Solutions Architect Associate 6 Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-6-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
