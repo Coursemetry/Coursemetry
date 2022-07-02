@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **28 Udemy free courses published so far on 2022-07-02**
+## **30 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -59,6 +59,10 @@
 * [Font Awesome Basics Guide 2022](https://coursemetry.com/font-awesome-basics-guide-2022/)
 
 * [【資金調達】資金調達のいろいろ](https://coursemetry.com/%e3%80%90%e8%b3%87%e9%87%91%e8%aa%bf%e9%81%94%e3%80%91%e8%b3%87%e9%87%91%e8%aa%bf%e9%81%94%e3%81%ae%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/)
+
+* [C_ARCIG_2202 | SAP Ariba Integration Cloud Practice Exam](https://coursemetry.com/c_arcig_2202-sap-ariba-integration-cloud-practice-exam/)
+
+* [C_ARSCC_2202 | SAP Ariba Supply Chain Collaboration Exam](https://coursemetry.com/c_arscc_2202-sap-ariba-supply-chain-collaboration-exam/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
