@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **83 Udemy free courses published so far on 2022-07-02**
+## **97 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -169,6 +169,34 @@
 * [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
 
 * [AWS Certified Solutions Architect Associate 6 Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-6-practice-exams/)
+
+* [Algorithmic Bot Trading on Futures (Series 1)](https://coursemetry.com/algorithmic-bot-trading-on-futures-series-1/)
+
+* [Develop a Discord Bot in 2022](https://coursemetry.com/develop-a-discord-bot-in-2022/)
+
+* [Discord Message Deleted bot](https://coursemetry.com/discord-message-deleted-bot/)
+
+* [P_SECAUTH_21 | SAP System Security Architect Practice Exam](https://coursemetry.com/p_secauth_21-sap-system-security-architect-practice-exam/)
+
+* [C_MDG_1909 | SAP Master Data Governance Practice Test](https://coursemetry.com/c_mdg_1909-sap-master-data-governance-practice-test/)
+
+* [Tally ERP9 With GST Step By Step Guide From Basic to Advance](https://coursemetry.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/)
+
+* [C_EPMBPC_11 | SAP Business Planning Consolidation Exam](https://coursemetry.com/c_epmbpc_11-sap-business-planning-consolidation-exam/)
+
+* [C_HRHPC_2205 | SAP SuccessFactors for Employee 1H/2022 Exam](https://coursemetry.com/c_hrhpc_2205-sap-successfactors-for-employee-1h-2022-exam/)
+
+* [C_HANAIMP_18 | SAP Certified HANA 2.0 (SPS05) Exam](https://coursemetry.com/c_hanaimp_18-sap-certified-hana-2-0-sps05-exam/)
+
+* [C_S4FTR_2021 | SAP Treasury with SAP S/4HANA Practice Test](https://coursemetry.com/c_s4ftr_2021-sap-treasury-with-sap-s-4hana-practice-test/)
+
+* [C_BOBIP_42 | SAP Business Intelligence Platform Exam](https://coursemetry.com/c_bobip_42-sap-business-intelligence-platform-exam/)
+
+* [C_SAC_2208 | SAP Analytics Cloud Practice Exam](https://coursemetry.com/c_sac_2208-sap-analytics-cloud-practice-exam/)
+
+* [C_TAW12_750 | SAP ABAP with SAP NetWeaver 7.50 Practice Exam](https://coursemetry.com/c_taw12_750-sap-abap-with-sap-netweaver-7-50-practice-exam/)
+
+* [C_TS4CO_2021 | SAP S/4HANA for Management Accounting Exam](https://coursemetry.com/c_ts4co_2021-sap-s-4hana-for-management-accounting-exam/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
