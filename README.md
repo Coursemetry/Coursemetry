@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **70 Udemy free courses published so far on 2022-07-02**
+## **74 Udemy free courses published so far on 2022-07-02**
 
 * [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
 
@@ -143,6 +143,14 @@
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
 * [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
+
+* [Top Soft and hard skills valued by Employers in 2022](https://coursemetry.com/top-soft-and-hard-skills-valued-by-employers-in-2022/)
+
+* [Foreclosure Success for Real Estate Investors by Jay Conner](https://coursemetry.com/foreclosure-success-for-real-estate-investors-by-jay-conner/)
+
+* [Top hidden time wasters & How to avoid wasting your time!](https://coursemetry.com/top-hidden-time-wasters-how-to-avoid-wasting-your-time/)
+
+* [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
