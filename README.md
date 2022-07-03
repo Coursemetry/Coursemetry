@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **123 Udemy free courses published so far on 2022-07-03**
+## **136 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -249,6 +249,32 @@
 * [Predictive Analytics and Modeling for Decision Making](https://coursemetry.com/predictive-analytics-and-modeling-for-decision-making/)
 
 * [Develop Android App with Android Nougat](https://coursemetry.com/develop-android-app-with-android-nougat/)
+
+* [Java Network Programming - Mastering TCP/IP | CJNP+ 2022](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022/)
+
+* [Backbone JS Tutorial for Beginners](https://coursemetry.com/backbone-js-tutorial-for-beginners/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [AWS Certified Cloud Practitioner – 2022](https://coursemetry.com/aws-certified-cloud-practitioner-2022/)
+
+* [Car Repair | Automotive Electrician and Mechanic Training |](https://coursemetry.com/car-repair-automotive-electrician-and-mechanic-training/)
+
+* [Le Machine Learning & Deep Learning avec Python: De A à Z](https://coursemetry.com/le-machine-learning-deep-learning-avec-python-de-a-a-z/)
+
+* [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
+
+* [Kotlin Android Training - Mastering Android App Development](https://coursemetry.com/kotlin-android-training-mastering-android-app-development/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [Practical Finite Element Analysis, ABAQUS Python Scripting](https://coursemetry.com/practical-finite-element-analysis-abaqus-python-scripting/)
+
+* [Cyber Security and Ethical Hacking Masterclass | CSEH+ 2022](https://coursemetry.com/cyber-security-and-ethical-hacking-masterclass-cseh-2022/)
+
+* [C++ Programming for Beginners](https://coursemetry.com/c-programming-for-beginners/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
