@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **138 Udemy free courses published so far on 2022-07-03**
+## **144 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -279,6 +279,18 @@
 * [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
 
 * [Go Programlama Dili](https://coursemetry.com/go-programlama-dili/)
+
+* [Crea una Api REST FULL completa con  PHP NATIVO](https://coursemetry.com/crea-una-api-rest-full-completa-con-php-nativo/)
+
+* [Firebase Dynamic Links In Flutter | Flutter Course](https://coursemetry.com/firebase-dynamic-links-in-flutter-flutter-course/)
+
+* [How To Build A Marketing Agency Website That Converts](https://coursemetry.com/how-to-build-a-marketing-agency-website-that-converts/)
+
+* [The New Future with Ai Basic understanding & Ethics](https://coursemetry.com/the-new-future-with-ai-basic-understanding-ethics/)
+
+* [11 Killer Strategies to Increase Customer Life Time Value](https://coursemetry.com/11-killer-strategies-to-increase-customer-life-time-value/)
+
+* [NEW: 3 things you need to do BEFORE you can write a website.](https://coursemetry.com/new-3-things-you-need-to-do-before-you-can-write-a-website/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
