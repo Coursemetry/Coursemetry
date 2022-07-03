@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **112 Udemy free courses published so far on 2022-07-03**
+## **123 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -227,6 +227,28 @@
 * [Appium Mobile Testing Complete Guide](https://coursemetry.com/appium-mobile-testing-complete-guide/)
 
 * [Certified Lean Six Sigma White Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-white-belt-exam-prep/)
+
+* [AWS Certified SysOps Administrator – Associate](https://coursemetry.com/aws-certified-sysops-administrator-associate/)
+
+* [CompTIA Network+ (N10-007) Full Certification Course](https://coursemetry.com/comptia-network-n10-007-full-certification-course/)
+
+* [AWS Certified Solutions Architect Associate 2022](https://coursemetry.com/aws-certified-solutions-architect-associate-2022/)
+
+* [Photo Editing using Adobe Lightroom CC](https://coursemetry.com/photo-editing-using-adobe-lightroom-cc/)
+
+* [Chef DevOps for the Absolute Beginners](https://coursemetry.com/chef-devops-for-the-absolute-beginners/)
+
+* [Big Data with MapReduce - Hands-on](https://coursemetry.com/big-data-with-mapreduce-hands-on/)
+
+* [Mastering .NET Windows Applications using C# and WinForms](https://coursemetry.com/mastering-net-windows-applications-using-c-and-winforms/)
+
+* [CFA Level I Exam Prep](https://coursemetry.com/cfa-level-i-exam-prep/)
+
+* [Der große Arduino/ESP Bastelkurs](https://coursemetry.com/der-grose-arduino-esp-bastelkurs/)
+
+* [Predictive Analytics and Modeling for Decision Making](https://coursemetry.com/predictive-analytics-and-modeling-for-decision-making/)
+
+* [Develop Android App with Android Nougat](https://coursemetry.com/develop-android-app-with-android-nougat/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
