@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published so far on 2022-07-03**
+## **65 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -111,6 +111,28 @@
 * [Bug Bounty:The Ultimate Guide to Hunt Account Takeover(2022)](https://coursemetry.com/bug-bountythe-ultimate-guide-to-hunt-account-takeover2022/)
 
 * [Become Pro WordPress Freelancer & Get Web Design Clients](https://coursemetry.com/become-pro-wordpress-freelancer-get-web-design-clients/)
+
+* [Master of Business Administration [MBA] exams and questions](https://coursemetry.com/master-of-business-administration-mba-exams-and-questions/)
+
+* [AZ-800 Windows Server Hybrid Core Infrastructure : Mock Test](https://coursemetry.com/az-800-windows-server-hybrid-core-infrastructure-mock-test/)
+
+* [(AZ-220) Microsoft Azure IoT Developer Exam : Practice Test](https://coursemetry.com/az-220-microsoft-azure-iot-developer-exam-practice-test/)
+
+* [Microsoft AZ-120 Exam : Practice Test 2022](https://coursemetry.com/microsoft-az-120-exam-practice-test-2022/)
+
+* [Java Swing for GUI Development](https://coursemetry.com/java-swing-for-gui-development/)
+
+* [Servlets JDBC and JSP for Java Web Development](https://coursemetry.com/servlets-jdbc-and-jsp-for-java-web-development/)
+
+* [Adobe InDesign CC for Beginners](https://coursemetry.com/adobe-indesign-cc-for-beginners/)
+
+* [Python GUI Training Program for GUI Development](https://coursemetry.com/python-gui-training-program-for-gui-development/)
+
+* [AWS Certified Developer Associate 2022](https://coursemetry.com/aws-certified-developer-associate-2022/)
+
+* [Agile Scrum Master Certification Exam Prep (CSM)](https://coursemetry.com/agile-scrum-master-certification-exam-prep-csm/)
+
+* [AWS Certified DevOps Engineer Professional 2022](https://coursemetry.com/aws-certified-devops-engineer-professional-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
