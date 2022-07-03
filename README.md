@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **183 Udemy free courses published so far on 2022-07-03**
+## **186 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -369,6 +369,12 @@
 * [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
 
 * [Practical Java-8 Mastery Course](https://coursemetry.com/practical-java-8-mastery-course/)
+
+* [Learn Python Programming from Scratch](https://coursemetry.com/learn-python-programming-from-scratch/)
+
+* [Java Programming: Complete Beginner to Advanced](https://coursemetry.com/java-programming-complete-beginner-to-advanced/)
+
+* [Bitcoin For Beginners: How To Earn Bitcoin Online For Free](https://coursemetry.com/bitcoin-for-beginners-how-to-earn-bitcoin-online-for-free/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
