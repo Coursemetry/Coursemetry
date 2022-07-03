@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-07-03**
+## **47 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -93,6 +93,10 @@
 * [Fundamental Question on Digital Marketing](https://coursemetry.com/fundamental-question-on-digital-marketing/)
 
 * [Ethical Hacking: Hacking with Python](https://coursemetry.com/ethical-hacking-hacking-with-python/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+
+* [Become Freelance Graphic Designer using Canva & Get Clients](https://coursemetry.com/become-freelance-graphic-designer-using-canva-get-clients/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
