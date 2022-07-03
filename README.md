@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **80 Udemy free courses published so far on 2022-07-03**
+## **112 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -163,6 +163,70 @@
 * [Vue JS - The Complete Guide](https://coursemetry.com/vue-js-the-complete-guide/)
 
 * [Certified Lean Six Sigma Black Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-black-belt-exam-prep/)
+
+* [Data Integration & ETL with Talend](https://coursemetry.com/data-integration-etl-with-talend/)
+
+* [Autodesk Combustion Training Hands-on](https://coursemetry.com/autodesk-combustion-training-hands-on/)
+
+* [cPanel for Beginners](https://coursemetry.com/cpanel-for-beginners/)
+
+* [Sencha Touch Application Designing](https://coursemetry.com/sencha-touch-application-designing/)
+
+* [Practical Next.js & React - Build a real WebApp with Next.js](https://coursemetry.com/practical-next-js-react-build-a-real-webapp-with-next-js/)
+
+* [Java IO Tutorial for Beginners](https://coursemetry.com/java-io-tutorial-for-beginners/)
+
+* [CompTIA A+ Certification (220-1001) Prep Course](https://coursemetry.com/comptia-a-certification-220-1001-prep-course/)
+
+* [AWS Certified SysOps Administrator Associate Training](https://coursemetry.com/aws-certified-sysops-administrator-associate-training/)
+
+* [Express JS - The Complete Guide](https://coursemetry.com/express-js-the-complete-guide/)
+
+* [Certified Lean Six Sigma Green Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-green-belt-exam-prep/)
+
+* [Kubernetes Hands-on for the Absolute Beginners](https://coursemetry.com/kubernetes-hands-on-for-the-absolute-beginners-2/)
+
+* [Certified Management Accountant CMA Exam Prep - Part 1](https://coursemetry.com/certified-management-accountant-cma-exam-prep-part-1/)
+
+* [Color Correction and Film Looks using Magic Bullet Looks](https://coursemetry.com/color-correction-and-film-looks-using-magic-bullet-looks/)
+
+* [The Complete Dart Programming Guide for Beginners](https://coursemetry.com/the-complete-dart-programming-guide-for-beginners/)
+
+* [Mastering Apache Cassandra Developer and Admin](https://coursemetry.com/mastering-apache-cassandra-developer-and-admin/)
+
+* [Redis for Beginners - Hands on with Redis](https://coursemetry.com/redis-for-beginners-hands-on-with-redis/)
+
+* [Technical Analysis Certification Course with live trades](https://coursemetry.com/technical-analysis-certification-course-with-live-trades/)
+
+* [ADO .Net Programming and C# Windows Applications](https://coursemetry.com/ado-net-programming-and-c-windows-applications/)
+
+* [Introducción a la Maquetación Web](https://coursemetry.com/introduccion-a-la-maquetacion-web/)
+
+* [Customer Analytics Training for Beginners](https://coursemetry.com/customer-analytics-training-for-beginners/)
+
+* [Foundation Framework Tutorial](https://coursemetry.com/foundation-framework-tutorial/)
+
+* [Contracts Management in Construction Projects](https://coursemetry.com/contracts-management-in-construction-projects/)
+
+* [Apache Tomcat Training Hands-on](https://coursemetry.com/apache-tomcat-training-hands-on/)
+
+* [3ds Max - Architectural Interior Designing Masterclass](https://coursemetry.com/3ds-max-architectural-interior-designing-masterclass/)
+
+* [Certified Lean Six Sigma Yellow Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-yellow-belt-exam-prep/)
+
+* [Master Maven and Ant the easy way](https://coursemetry.com/master-maven-and-ant-the-easy-way/)
+
+* [Time Series Analysis, Forecasting, and ML with Python](https://coursemetry.com/time-series-analysis-forecasting-and-ml-with-python/)
+
+* [Apache Pig Training - Tame the Big Data](https://coursemetry.com/apache-pig-training-tame-the-big-data/)
+
+* [Apache Web Server Training Hands-on](https://coursemetry.com/apache-web-server-training-hands-on/)
+
+* [Dart Programming Guide for Beginners](https://coursemetry.com/dart-programming-guide-for-beginners/)
+
+* [Appium Mobile Testing Complete Guide](https://coursemetry.com/appium-mobile-testing-complete-guide/)
+
+* [Certified Lean Six Sigma White Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-white-belt-exam-prep/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
