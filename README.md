@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **31 Udemy free courses published so far on 2022-07-03**
+## **45 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -65,6 +65,34 @@
 * [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
 
 * [PMI-SP Certification Exams Preparation 2022 (3 New Exams)](https://coursemetry.com/pmi-sp-certification-exams-preparation-2022-3-new-exams/)
+
+* [English Grammar Course for English Language Learners](https://coursemetry.com/english-grammar-course-for-english-language-learners/)
+
+* [Fundamental Question on Microsoft Excel (Part-2)](https://coursemetry.com/fundamental-question-on-microsoft-excel-part-2/)
+
+* [Affiliate Marketing Skill Assessment : Practice Test 2022](https://coursemetry.com/affiliate-marketing-skill-assessment-practice-test-2022/)
+
+* [Fundamental Question on Microsoft Excel (Part-1)](https://coursemetry.com/fundamental-question-on-microsoft-excel-part-1/)
+
+* [Fundamental Question on Linux (Part-2)](https://coursemetry.com/fundamental-question-on-linux-part-2/)
+
+* [Ethical Hacking: Introduction to Exploits](https://coursemetry.com/ethical-hacking-introduction-to-exploits/)
+
+* [( CMMP Exam ) Brand Management :  Practice Test 2022](https://coursemetry.com/cmmp-exam-brand-management-practice-test-2022/)
+
+* [( CMMP Exam) Marketing Management : Practice Test 2022](https://coursemetry.com/cmmp-exam-marketing-management-practice-test-2022/)
+
+* [ACCA Financial Management (FM)  Exam : Practice Test 2022](https://coursemetry.com/acca-financial-management-fm-exam-practice-test-2022/)
+
+* [Fundamental Question on Linux (Part-1)](https://coursemetry.com/fundamental-question-on-linux-part-1/)
+
+* [Accounting Skills Assessment Practice Test 2022](https://coursemetry.com/accounting-skills-assessment-practice-test-2022/)
+
+* [Ethical Hacking: SQL Injection for Beginners](https://coursemetry.com/ethical-hacking-sql-injection-for-beginners/)
+
+* [Fundamental Question on Digital Marketing](https://coursemetry.com/fundamental-question-on-digital-marketing/)
+
+* [Ethical Hacking: Hacking with Python](https://coursemetry.com/ethical-hacking-hacking-with-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
