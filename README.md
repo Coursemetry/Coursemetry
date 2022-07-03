@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **136 Udemy free courses published so far on 2022-07-03**
+## **138 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -275,6 +275,10 @@
 * [C++ Programming for Beginners](https://coursemetry.com/c-programming-for-beginners/)
 
 * [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [Go Programlama Dili](https://coursemetry.com/go-programlama-dili/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
