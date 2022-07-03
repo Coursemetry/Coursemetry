@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published so far on 2022-07-03**
+## **80 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -133,6 +133,36 @@
 * [Agile Scrum Master Certification Exam Prep (CSM)](https://coursemetry.com/agile-scrum-master-certification-exam-prep-csm/)
 
 * [AWS Certified DevOps Engineer Professional 2022](https://coursemetry.com/aws-certified-devops-engineer-professional-2022/)
+
+* [PgMP (Program Management Professional) Exam Prep Training](https://coursemetry.com/pgmp-program-management-professional-exam-prep-training/)
+
+* [Apache Solr Training for Beginners](https://coursemetry.com/apache-solr-training-for-beginners/)
+
+* [3D Architecture with Maya and 3Ds Max](https://coursemetry.com/3d-architecture-with-maya-and-3ds-max/)
+
+* [AI Artificial Intelligence with Python](https://coursemetry.com/ai-artificial-intelligence-with-python/)
+
+* [Animation with Adobe Flash](https://coursemetry.com/animation-with-adobe-flash/)
+
+* [Adobe Animate Basics Guide 2022](https://coursemetry.com/adobe-animate-basics-guide-2022/)
+
+* [Android App Development using Android Lollipop](https://coursemetry.com/android-app-development-using-android-lollipop/)
+
+* [Mastering Python Data Visualization with Seaborn](https://coursemetry.com/mastering-python-data-visualization-with-seaborn/)
+
+* [JDBC Servlets and JSP for Java Web Development](https://coursemetry.com/jdbc-servlets-and-jsp-for-java-web-development/)
+
+* [Learn OpenGL Programming for Graphics and Games](https://coursemetry.com/learn-opengl-programming-for-graphics-and-games/)
+
+* [Develop Android App with Android Marshmallow](https://coursemetry.com/develop-android-app-with-android-marshmallow/)
+
+* [Predictive Modeling and Time Series Analysis with Minitab](https://coursemetry.com/predictive-modeling-and-time-series-analysis-with-minitab/)
+
+* [Build Your Own File Sharing Website](https://coursemetry.com/build-your-own-file-sharing-website/)
+
+* [Vue JS - The Complete Guide](https://coursemetry.com/vue-js-the-complete-guide/)
+
+* [Certified Lean Six Sigma Black Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-black-belt-exam-prep/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
