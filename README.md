@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **176 Udemy free courses published so far on 2022-07-03**
+## **183 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -355,6 +355,20 @@
 * [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
 
 * [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Practical CSS3 Mastery Course](https://coursemetry.com/practical-css3-mastery-course/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [Deploy MEAN Stack App on Azure Cloud with CICD Pipeline](https://coursemetry.com/deploy-mean-stack-app-on-azure-cloud-with-cicd-pipeline/)
+
+* [Zero to Hero Java SpringBoot & JPA Mastery with Real Project](https://coursemetry.com/zero-to-hero-java-springboot-jpa-mastery-with-real-project/)
+
+* [DP-900 Microsoft Azure Data Fundamentals Practice Test MAY22](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-test-may22/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [Practical Java-8 Mastery Course](https://coursemetry.com/practical-java-8-mastery-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
