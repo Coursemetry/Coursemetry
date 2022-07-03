@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **144 Udemy free courses published so far on 2022-07-03**
+## **152 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -76,8 +76,6 @@
 
 * [Fundamental Question on Linux (Part-2)](https://coursemetry.com/fundamental-question-on-linux-part-2/)
 
-* [Ethical Hacking: Introduction to Exploits](https://coursemetry.com/ethical-hacking-introduction-to-exploits/)
-
 * [( CMMP Exam ) Brand Management :  Practice Test 2022](https://coursemetry.com/cmmp-exam-brand-management-practice-test-2022/)
 
 * [( CMMP Exam) Marketing Management : Practice Test 2022](https://coursemetry.com/cmmp-exam-marketing-management-practice-test-2022/)
@@ -88,11 +86,7 @@
 
 * [Accounting Skills Assessment Practice Test 2022](https://coursemetry.com/accounting-skills-assessment-practice-test-2022/)
 
-* [Ethical Hacking: SQL Injection for Beginners](https://coursemetry.com/ethical-hacking-sql-injection-for-beginners/)
-
 * [Fundamental Question on Digital Marketing](https://coursemetry.com/fundamental-question-on-digital-marketing/)
-
-* [Ethical Hacking: Hacking with Python](https://coursemetry.com/ethical-hacking-hacking-with-python/)
 
 * [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
 
@@ -291,6 +285,28 @@
 * [11 Killer Strategies to Increase Customer Life Time Value](https://coursemetry.com/11-killer-strategies-to-increase-customer-life-time-value/)
 
 * [NEW: 3 things you need to do BEFORE you can write a website.](https://coursemetry.com/new-3-things-you-need-to-do-before-you-can-write-a-website/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
+
+* [The Complete Do-It-Yourself  - Epic SEO & Content Marketing](https://coursemetry.com/the-complete-do-it-yourself-epic-seo-content-marketing/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [The Complete HTML & CSS Course: Build Websites like a Pro](https://coursemetry.com/the-complete-html-css-course-build-websites-like-a-pro/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Sıfırdan Konuşturan İngilizce Kursu (20+ Saat)](https://coursemetry.com/sifirdan-konusturan-ingilizce-kursu-20-saat/)
+
+* [Ethical Hacking: Hacking with Python](https://coursemetry.com/ethical-hacking-hacking-with-python/)
+
+* [Ethical Hacking: SQL Injection for Beginners](https://coursemetry.com/ethical-hacking-sql-injection-for-beginners/)
+
+* [Ethical Hacking: Introduction to Exploits](https://coursemetry.com/ethical-hacking-introduction-to-exploits/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
