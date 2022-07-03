@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **167 Udemy free courses published so far on 2022-07-03**
+## **176 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -337,6 +337,24 @@
 * [Managing Citrix XenDesktop 7.6 Solutions Practice Exams](https://coursemetry.com/managing-citrix-xendesktop-7-6-solutions-practice-exams/)
 
 * [Oracle Autonomous Database 2021 Specialist (1Z0-931-21)](https://coursemetry.com/oracle-autonomous-database-2021-specialist-1z0-931-21/)
+
+* [LLQP Exam Preparation Course Preview](https://coursemetry.com/llqp-exam-preparation-course-preview/)
+
+* [Motivation for JEE / NEET Preparation](https://coursemetry.com/motivation-for-jee-neet-preparation/)
+
+* [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
+
+* [Zero to Hero React JS mastery E-degree course](https://coursemetry.com/zero-to-hero-react-js-mastery-e-degree-course/)
+
+* [DevOps Mastery with Docker Kubernetes & Azure Kubernetes](https://coursemetry.com/devops-mastery-with-docker-kubernetes-azure-kubernetes/)
+
+* [Docker & Kubernetes Interview Readiness Course](https://coursemetry.com/docker-kubernetes-interview-readiness-course/)
+
+* [XPath Fundamentals for Beginners](https://coursemetry.com/xpath-fundamentals-for-beginners/)
+
+* [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
