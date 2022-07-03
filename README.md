@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published so far on 2022-07-03**
+## **54 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -103,6 +103,14 @@
 * [350+ Exercises - Python Programming Mega Pack - Unit Tests](https://coursemetry.com/350-exercises-python-programming-mega-pack-unit-tests/)
 
 * [SQL Bootcamp - SQLite - Hands-On Exercises](https://coursemetry.com/sql-bootcamp-sqlite-hands-on-exercises/)
+
+* [Adobe Premiere Pro CC Essential Video Editing Zero To Hero](https://coursemetry.com/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/)
+
+* [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
+
+* [Bug Bounty:The Ultimate Guide to Hunt Account Takeover(2022)](https://coursemetry.com/bug-bountythe-ultimate-guide-to-hunt-account-takeover2022/)
+
+* [Become Pro WordPress Freelancer & Get Web Design Clients](https://coursemetry.com/become-pro-wordpress-freelancer-get-web-design-clients/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
