@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **162 Udemy free courses published so far on 2022-07-03**
+## **167 Udemy free courses published so far on 2022-07-03**
 
 * [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
 
@@ -327,6 +327,16 @@
 * [Git Crash Course for beginners](https://coursemetry.com/git-crash-course-for-beginners/)
 
 * [API Crash Course: How to Create, Test, & Document your APIs](https://coursemetry.com/api-crash-course-how-to-create-test-document-your-apis/)
+
+* [Microsoft Excel: Desde cero a pro](https://coursemetry.com/microsoft-excel-desde-cero-a-pro/)
+
+* [The Complete Nonverbal Communication Course - Body Language](https://coursemetry.com/the-complete-nonverbal-communication-course-body-language/)
+
+* [The Complete Growth Mindset Course - The Mindset for Success](https://coursemetry.com/the-complete-growth-mindset-course-the-mindset-for-success/)
+
+* [Managing Citrix XenDesktop 7.6 Solutions Practice Exams](https://coursemetry.com/managing-citrix-xendesktop-7-6-solutions-practice-exams/)
+
+* [Oracle Autonomous Database 2021 Specialist (1Z0-931-21)](https://coursemetry.com/oracle-autonomous-database-2021-specialist-1z0-931-21/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
