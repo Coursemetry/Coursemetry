@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **124 Udemy free courses published so far on 2022-07-04**
+## **132 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -251,6 +251,22 @@
 * [Crea una Api REST FULL completa con  PHP NATIVO](https://coursemetry.com/crea-una-api-rest-full-completa-con-php-nativo/)
 
 * [Introduction To Cybersecurity](https://coursemetry.com/introduction-to-cybersecurity/)
+
+* [Learn Microsoft Publisher | Complete Microsoft Publisher](https://coursemetry.com/learn-microsoft-publisher-complete-microsoft-publisher/)
+
+* [AWS Certified Machine Learning - Specialty Practice Exam](https://coursemetry.com/aws-certified-machine-learning-specialty-practice-exam/)
+
+* [Microsoft PowerPoint Course - Zero to Hero in MS PowerPoint](https://coursemetry.com/microsoft-powerpoint-course-zero-to-hero-in-ms-powerpoint/)
+
+* [1Z0-997-21: OCI Architect Professional Practice Questions](https://coursemetry.com/1z0-997-21-oci-architect-professional-practice-questions/)
+
+* [Engineering Drawing / Graphics : Hands-on training](https://coursemetry.com/engineering-drawing-graphics-hands-on-training/)
+
+* [Microsoft OneNote Training | Master the Microsoft OneNote](https://coursemetry.com/microsoft-onenote-training-master-the-microsoft-onenote/)
+
+* [Microsoft Excel - Advance Level MS Excel Training Course](https://coursemetry.com/microsoft-excel-advance-level-ms-excel-training-course/)
+
+* [Microsoft Access Training | Master the MS Access](https://coursemetry.com/microsoft-access-training-master-the-ms-access/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
