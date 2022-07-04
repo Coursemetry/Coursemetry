@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published so far on 2022-07-04**
+## **124 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -243,6 +243,14 @@
 * [The Email Etiquette Course - Business Writing With Class](https://coursemetry.com/the-email-etiquette-course-business-writing-with-class/)
 
 * [49 Weight Loss Tips You Can Stick To Forever - Be Thinner](https://coursemetry.com/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/)
+
+* [Copywriting & SEO for Beginners: Complete Copywriting Course](https://coursemetry.com/copywriting-seo-for-beginners-complete-copywriting-course/)
+
+* [Learn Certified Ethical Hacking(CEH) From Scratch](https://coursemetry.com/learn-certified-ethical-hackingceh-from-scratch/)
+
+* [Crea una Api REST FULL completa con  PHP NATIVO](https://coursemetry.com/crea-una-api-rest-full-completa-con-php-nativo/)
+
+* [Introduction To Cybersecurity](https://coursemetry.com/introduction-to-cybersecurity/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
