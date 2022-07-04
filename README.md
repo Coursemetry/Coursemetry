@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **37 Udemy free courses published so far on 2022-07-04**
+## **48 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -77,6 +77,28 @@
 * [Personalentwicklung für (zukünftige) Führungskräfte](https://coursemetry.com/personalentwicklung-fur-zukunftige-fuhrungskrafte/)
 
 * [Cisco CyberOps Associate CBROPS 200-201 Practice Exams 2022](https://coursemetry.com/cisco-cyberops-associate-cbrops-200-201-practice-exams-2022/)
+
+* [QuickBooks Desktop Not for Profit Organizations](https://coursemetry.com/quickbooks-desktop-not-for-profit-organizations/)
+
+* [Wave Accounting](https://coursemetry.com/wave-accounting/)
+
+* [Governmental Accounting 300 Proprietary & Fiduciary Funds](https://coursemetry.com/governmental-accounting-300-proprietary-fiduciary-funds/)
+
+* [Job Costing QuickBooks Online - Contractors](https://coursemetry.com/job-costing-quickbooks-online-contractors/)
+
+* [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
+
+* [QuickBooks Desktop Job Costing](https://coursemetry.com/quickbooks-desktop-job-costing/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+
+* [Xero Not for Profit Organization](https://coursemetry.com/xero-not-for-profit-organization/)
+
+* [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
+
+* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
