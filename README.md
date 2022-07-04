@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published so far on 2022-07-04**
+## **59 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -119,6 +119,8 @@
 * [Excel Accounting Problem](https://coursemetry.com/excel-accounting-problem/)
 
 * [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
+
+* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
