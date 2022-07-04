@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published so far on 2022-07-04**
+## **120 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -235,6 +235,14 @@
 * [AWS Certified Cloud Practitioner Practice Questions](https://coursemetry.com/aws-certified-cloud-practitioner-practice-questions/)
 
 * [Vue JS + Google Maps API: Build Location Based Web Apps Fast](https://coursemetry.com/vue-js-google-maps-api-build-location-based-web-apps-fast/)
+
+* [The Complete Self-Discipline Course - Control Your Own Life](https://coursemetry.com/the-complete-self-discipline-course-control-your-own-life/)
+
+* [Everything About Kali Linux OS](https://coursemetry.com/everything-about-kali-linux-os/)
+
+* [The Email Etiquette Course - Business Writing With Class](https://coursemetry.com/the-email-etiquette-course-business-writing-with-class/)
+
+* [49 Weight Loss Tips You Can Stick To Forever - Be Thinner](https://coursemetry.com/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
