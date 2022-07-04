@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-07-04**
+## **68 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -131,6 +131,14 @@
 * [150+ Exercises - Data Structures in Python - Hands-On - 2022](https://coursemetry.com/150-exercises-data-structures-in-python-hands-on-2022/)
 
 * [SQL Bootcamp - Hands-On Exercises - SQLite - Part II - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-ii-2022/)
+
+* [Tally ERP9 With GST Step By Step Guide From Basic to Advance](https://coursemetry.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/)
+
+* [The Complete Microsoft Excel Pivot Tables and Pivot Charts](https://coursemetry.com/the-complete-microsoft-excel-pivot-tables-and-pivot-charts/)
+
+* [QR Code Generator Using JavaScript](https://coursemetry.com/qr-code-generator-using-javascript/)
+
+* [Complete Inventory Management in Microsoft Excel &TALLY ERP9](https://coursemetry.com/complete-inventory-management-in-microsoft-excel-tally-erp9/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
