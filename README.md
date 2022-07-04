@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **135 Udemy free courses published so far on 2022-07-04**
+## **165 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -273,6 +273,66 @@
 * [Complete NFT Course (Beginner > 1000USD /Day Trading NFTs)](https://coursemetry.com/complete-nft-course-beginner-1000usd-day-trading-nfts/)
 
 * [Learn Microsoft Outlook | Complete Microsoft Outlook Guide](https://coursemetry.com/learn-microsoft-outlook-complete-microsoft-outlook-guide/)
+
+* [JavaScript: Desde cero con NodeJS](https://coursemetry.com/javascript-desde-cero-con-nodejs/)
+
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
+
+* [Python 3: Análisis y visualización de datos](https://coursemetry.com/python-3-analisis-y-visualizacion-de-datos/)
+
+* [HTML: A Crash Course for Beginners](https://coursemetry.com/html-a-crash-course-for-beginners/)
+
+* [Autodesk Revit - beginner to an intermediate level](https://coursemetry.com/autodesk-revit-beginner-to-an-intermediate-level/)
+
+* [SQL: Consultas básicas a complejas](https://coursemetry.com/sql-consultas-basicas-a-complejas/)
+
+* [Ableton 11 - The ULTIMATE Beginners Guide To Ableton Live](https://coursemetry.com/ableton-11-the-ultimate-beginners-guide-to-ableton-live/)
+
+* [Learn 4 STEPS to Make Money Online by Blogging!](https://coursemetry.com/learn-4-steps-to-make-money-online-by-blogging/)
+
+* [Autodesk AutoCAD - Beginner to an advanced level](https://coursemetry.com/autodesk-autocad-beginner-to-an-advanced-level/)
+
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
+* [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
+
+* [GOLANG: Curso profesional de Go - De cero a Master 2022](https://coursemetry.com/golang-curso-profesional-de-go-de-cero-a-master-2022/)
+
+* [Real time Automation+Manual Interview Questions with Answers](https://coursemetry.com/real-time-automationmanual-interview-questions-with-answers/)
+
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Become Pro WordPress Freelancer & Get Web Design Clients](https://coursemetry.com/become-pro-wordpress-freelancer-get-web-design-clients/)
+
+* [Systeme Sales Funnels - Free Sales Funnels Tool Guide](https://coursemetry.com/systeme-sales-funnels-free-sales-funnels-tool-guide/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
+
+* [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
+
+* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
+
+* [Become Freelance Graphic Designer using Canva & Get Clients](https://coursemetry.com/become-freelance-graphic-designer-using-canva-get-clients/)
+
+* [R Programming: Aprende a programar en R desde cero](https://coursemetry.com/r-programming-aprende-a-programar-en-r-desde-cero/)
+
+* [Power BI DAX: Aprende las funciones más avanzadas](https://coursemetry.com/power-bi-dax-aprende-las-funciones-mas-avanzadas/)
+
+* [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
+
+* [Linux Command Line Terminal Basic for Beginners (In Hindi)](https://coursemetry.com/linux-command-line-terminal-basic-for-beginners-in-hindi/)
+
+* [AWS Certified Database Specialty Practice Exams](https://coursemetry.com/aws-certified-database-specialty-practice-exams-2/)
+
+* [Everything About Blogger From Scratch](https://coursemetry.com/everything-about-blogger-from-scratch/)
+
+* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+
+* [Basic Structure of Computers](https://coursemetry.com/basic-structure-of-computers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
