@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **165 Udemy free courses published so far on 2022-07-04**
+## **176 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -168,8 +168,6 @@
 
 * [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
 
-* [Frontend Development with ReactJS and Bootstrap](https://coursemetry.com/frontend-development-with-reactjs-and-bootstrap/)
-
 * [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
 
 * [39 Travel Tips to Make Your Travel More Enjoyable - 1 Hour](https://coursemetry.com/39-travel-tips-to-make-your-travel-more-enjoyable-1-hour/)
@@ -224,11 +222,7 @@
 
 * [Zero to Hero Java SpringBoot & JPA Mastery with Real Project](https://coursemetry.com/zero-to-hero-java-springboot-jpa-mastery-with-real-project/)
 
-* [Master HTML5 Bootstrap5 & ReactJs From Scratch](https://coursemetry.com/master-html5-bootstrap5-reactjs-from-scratch/)
-
 * [DP 900: Microsoft Azure Data Fundamentals Practice Questions](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-questions/)
-
-* [Master HTML5 CSS3 Bootstrap5 by building Responsive Website](https://coursemetry.com/master-html5-css3-bootstrap5-by-building-responsive-website/)
 
 * [AZ-400: Designing and Implementing Microsoft DevOps Solution](https://coursemetry.com/az-400-designing-and-implementing-microsoft-devops-solution/)
 
@@ -333,6 +327,34 @@
 * [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
 
 * [Basic Structure of Computers](https://coursemetry.com/basic-structure-of-computers/)
+
+* [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [Frontend Development with ReactJS and Bootstrap](https://coursemetry.com/frontend-development-with-reactjs-and-bootstrap/)
+
+* [AZ-900Microsoft Azure Fundamentals Practice Test[March-2022]](https://coursemetry.com/az-900microsoft-azure-fundamentals-practice-testmarch-2022/)
+
+* [Complete English Grammar For Lower Levels](https://coursemetry.com/complete-english-grammar-for-lower-levels-2/)
+
+* [200+ Questions - Job Interview - Data Scientist - 2022](https://coursemetry.com/200-questions-job-interview-data-scientist-2022/)
+
+* [PL-900 : MS Power Platform Practice Test [Updated Feb2022]](https://coursemetry.com/pl-900-ms-power-platform-practice-test-updated-feb2022/)
+
+* [Master HTML5 Bootstrap5 & ReactJs From Scratch](https://coursemetry.com/master-html5-bootstrap5-reactjs-from-scratch/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
+
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 1](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-1/)
+
+* [Master HTML5 CSS3 Bootstrap5 by building Responsive Website](https://coursemetry.com/master-html5-css3-bootstrap5-by-building-responsive-website/)
+
+* [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
