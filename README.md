@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **59 Udemy free courses published so far on 2022-07-04**
+## **64 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -121,6 +121,16 @@
 * [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
 
 * [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part I - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-i-2022/)
+
+* [230+ Exercises - Python for Data Science - NumPy + Pandas](https://coursemetry.com/230-exercises-python-for-data-science-numpy-pandas/)
+
+* [110+ Exercises - Python + SQL (sqlite3) - SQLite Databases](https://coursemetry.com/110-exercises-python-sql-sqlite3-sqlite-databases/)
+
+* [150+ Exercises - Data Structures in Python - Hands-On - 2022](https://coursemetry.com/150-exercises-data-structures-in-python-hands-on-2022/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part II - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-ii-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
