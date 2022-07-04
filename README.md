@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **180 Udemy free courses published so far on 2022-07-04**
+## **184 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -363,6 +363,14 @@
 * [Basics of Pricing (Arabic) سلسلة التسويق: أساسيات التسعير](https://coursemetry.com/basics-of-pricing-arabic-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d9%8a%d8%b1/)
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+
+* [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
+
+* [Writing Grants Applications For Nonprofit Organizations](https://coursemetry.com/writing-grants-applications-for-nonprofit-organizations/)
+
+* [Referral System - How To Create A Successful One!](https://coursemetry.com/referral-system-how-to-create-a-successful-one/)
+
+* [Excel Profesional 2022– Para Empresas!](https://coursemetry.com/excel-profesional-2022-para-empresas/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
