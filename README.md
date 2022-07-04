@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published so far on 2022-07-04**
+## **37 Udemy free courses published so far on 2022-07-04**
 
 * [Facebook Ads & Instagram Ads 2022: Overcome Apple Apocalypto](https://coursemetry.com/facebook-ads-instagram-ads-2022-overcome-apple-apocalypto/)
 
@@ -63,6 +63,20 @@
 * [PRINCE2 Foundation Practice Certification Exams Updated 2022](https://coursemetry.com/prince2-foundation-practice-certification-exams-updated-2022/)
 
 * [Scrum Certification 2022 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2022-scrum-master-agile-scrum-training/)
+
+* [Master Public Speaking Skills Using 8Es of Public Speaking](https://coursemetry.com/master-public-speaking-skills-using-8es-of-public-speaking/)
+
+* [MuleSoft Certified Integration Architect - Practice Exams](https://coursemetry.com/mulesoft-certified-integration-architect-practice-exams-2/)
+
+* [Systemisches Coaching - der komplette Kurs!](https://coursemetry.com/systemisches-coaching-der-komplette-kurs/)
+
+* [Workshops - systemisch konzipieren und gestalten](https://coursemetry.com/workshops-systemisch-konzipieren-und-gestalten/)
+
+* [Systemische Gesprächsführung im digitalen Umfeld](https://coursemetry.com/systemische-gesprachsfuhrung-im-digitalen-umfeld/)
+
+* [Personalentwicklung für (zukünftige) Führungskräfte](https://coursemetry.com/personalentwicklung-fur-zukunftige-fuhrungskrafte/)
+
+* [Cisco CyberOps Associate CBROPS 200-201 Practice Exams 2022](https://coursemetry.com/cisco-cyberops-associate-cbrops-200-201-practice-exams-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
