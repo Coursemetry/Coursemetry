@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-07-05**
+## **119 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -223,6 +223,24 @@
 * [31 Startup Business Model: Best Course for Entrepreneurs](https://coursemetry.com/31-startup-business-model-best-course-for-entrepreneurs/)
 
 * [MBA: Supply Chain and Operation management](https://coursemetry.com/mba-supply-chain-and-operation-management/)
+
+* [الاختراق الأخلاقي بواسطة الهندسة الأجتماعية من الصفر (حصريا)](https://coursemetry.com/%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d8%a8%d9%88%d8%a7%d8%b3%d8%b7%d8%a9-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%a7%d9%84%d8%a3/)
+
+* [Yds-Yökdil ve Ydt için Gramer Öğren](https://coursemetry.com/yds-yokdil-ve-ydt-icin-gramer-ogren/)
+
+* [Arabic | Learn Arabic language | All you need in one course](https://coursemetry.com/arabic-learn-arabic-language-all-you-need-in-one-course/)
+
+* [Python Bootcamp 2021 Build 15 working Applications and Games](https://coursemetry.com/python-bootcamp-2021-build-15-working-applications-and-games/)
+
+* [Master Classes for Web Designing Course (HTML, CSS, JS, SEO)](https://coursemetry.com/master-classes-for-web-designing-course-html-css-js-seo/)
+
+* [Cisco Certification CLCOR 350-801 Practice -2022](https://coursemetry.com/cisco-certification-clcor-350-801-practice-2022/)
+
+* [Certifícate Practice AWS Certified Cloud Practitioner Exam-2](https://coursemetry.com/certificate-practice-aws-certified-cloud-practitioner-exam-2/)
+
+* [Learn JavaScript Programming in 7 Days](https://coursemetry.com/learn-javascript-programming-in-7-days/)
+
+* [300+ Python Exercises (Simple and Complex) with Algorithm](https://coursemetry.com/300-python-exercises-simple-and-complex-with-algorithm/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
