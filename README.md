@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published so far on 2022-07-05**
+## **76 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -151,6 +151,10 @@
 * [Preparación para Auditor Lider e Interno ISO/IEC 27001](https://coursemetry.com/preparacion-para-auditor-lider-e-interno-iso-iec-27001/)
 
 * [Help Desk Professional](https://coursemetry.com/help-desk-professional/)
+
+* [Learn Mindreading and Mentalism in 3 days](https://coursemetry.com/learn-mindreading-and-mentalism-in-3-days/)
+
+* [Getting Started with Blockchain Solidity and Smart Contracts](https://coursemetry.com/getting-started-with-blockchain-solidity-and-smart-contracts/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
