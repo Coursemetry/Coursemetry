@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **90 Udemy free courses published so far on 2022-07-05**
+## **92 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -183,6 +183,10 @@
 * [Find yourself and Be yourself](https://coursemetry.com/find-yourself-and-be-yourself/)
 
 * [Startup Fundraising Master course - Raise Venture Capital](https://coursemetry.com/startup-fundraising-master-course-raise-venture-capital/)
+
+* [Inventory Management and Warehousing Master class](https://coursemetry.com/inventory-management-and-warehousing-master-class/)
+
+* [ATtiny microcontroller development for Arduino programmers](https://coursemetry.com/attiny-microcontroller-development-for-arduino-programmers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
