@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-07-05**
+## **102 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -203,6 +203,10 @@
 * [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
 
 * [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [[New]  VMware Certified Professional - VCP-DTM Practice Exam](https://coursemetry.com/new-vmware-certified-professional-vcp-dtm-practice-exam/)
+
+* [C++ 2022 Complete Training Course](https://coursemetry.com/c-2022-complete-training-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
