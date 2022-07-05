@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published so far on 2022-07-05**
+## **110 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -207,6 +207,22 @@
 * [[New]  VMware Certified Professional - VCP-DTM Practice Exam](https://coursemetry.com/new-vmware-certified-professional-vcp-dtm-practice-exam/)
 
 * [C++ 2022 Complete Training Course](https://coursemetry.com/c-2022-complete-training-course/)
+
+* [The Ultimate C++ Advanced Course | 2022](https://coursemetry.com/the-ultimate-c-advanced-course-2022/)
+
+* [Simulador 156-115.77 Check Point Certified Security Master](https://coursemetry.com/simulador-156-115-77-check-point-certified-security-master/)
+
+* [MBA Course: Marketing and Business Strategy](https://coursemetry.com/mba-course-marketing-and-business-strategy/)
+
+* [MBA: Retail management, Merchandising, and E-commerce](https://coursemetry.com/mba-retail-management-merchandising-and-e-commerce/)
+
+* [Filmora Complete Video Editing In Hindi/urdu - Sarfaraz 2022](https://coursemetry.com/filmora-complete-video-editing-in-hindi-urdu-sarfaraz-2022/)
+
+* [YouTube Masterclass Training - 2019 in Hindi/Urdu - Sarfaraz](https://coursemetry.com/youtube-masterclass-training-2019-in-hindi-urdu-sarfaraz/)
+
+* [31 Startup Business Model: Best Course for Entrepreneurs](https://coursemetry.com/31-startup-business-model-best-course-for-entrepreneurs/)
+
+* [MBA: Supply Chain and Operation management](https://coursemetry.com/mba-supply-chain-and-operation-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
