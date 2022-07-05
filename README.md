@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-07-05**
+## **74 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -131,6 +131,26 @@
 * [Project Management Course: Master Project Scope Management](https://coursemetry.com/project-management-course-master-project-scope-management/)
 
 * [Technical Java Interview Prep for IT professionals](https://coursemetry.com/technical-java-interview-prep-for-it-professionals/)
+
+* [Master Time Management and Productivity (Bonus Free eBook)](https://coursemetry.com/master-time-management-and-productivity-bonus-free-ebook/)
+
+* [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
+
+* [How To Make Money With SEO](https://coursemetry.com/how-to-make-money-with-seo/)
+
+* [Extra course : Understanding multiple timeframe for trading](https://coursemetry.com/extra-course-understanding-multiple-timeframe-for-trading/)
+
+* [More than 40 Ways to Drive Traffic to Your Online Course](https://coursemetry.com/more-than-40-ways-to-drive-traffic-to-your-online-course/)
+
+* [[2022] Scrum Master Certificación](https://coursemetry.com/2022-scrum-master-certificacion/)
+
+* [Kanban Introducción basado Certificación de CertiProf](https://coursemetry.com/kanban-introduccion-basado-certificacion-de-certiprof/)
+
+* [Agile Coach Fundamentos basado en Certificacion CertiProf](https://coursemetry.com/agile-coach-fundamentos-basado-en-certificacion-certiprof/)
+
+* [Preparación para Auditor Lider e Interno ISO/IEC 27001](https://coursemetry.com/preparacion-para-auditor-lider-e-interno-iso-iec-27001/)
+
+* [Help Desk Professional](https://coursemetry.com/help-desk-professional/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
