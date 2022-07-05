@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **52 Udemy free courses published so far on 2022-07-05**
+## **60 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -107,6 +107,22 @@
 * [HTML, CSS, & Bootstrap - Certification Course for Beginners](https://coursemetry.com/html-css-bootstrap-certification-course-for-beginners/)
 
 * [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
+
+* [AI-900 Azure AI Fundamentals practice tests](https://coursemetry.com/ai-900-azure-ai-fundamentals-practice-tests/)
+
+* [Learn Azure Serverless Functions in a Weekend](https://coursemetry.com/learn-azure-serverless-functions-in-a-weekend/)
+
+* [Automating Administration with Windows PowerShell](https://coursemetry.com/automating-administration-with-windows-powershell/)
+
+* [Matlab ile Kontrol Eğitimi](https://coursemetry.com/matlab-ile-kontrol-egitimi/)
+
+* [Basic English Grammar & Structures | A1-A2 Elementary Level](https://coursemetry.com/basic-english-grammar-structures-a1-a2-elementary-level/)
+
+* [Blockchain Dünyasına Giriş](https://coursemetry.com/blockchain-dunyasina-giris/)
+
+* [C ile Programlama Eğitimi](https://coursemetry.com/c-ile-programlama-egitimi/)
+
+* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
