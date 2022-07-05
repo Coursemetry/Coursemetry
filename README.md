@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published so far on 2022-07-05**
+## **52 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -63,6 +63,50 @@
 * [Microsoft Excel Complete Course | All in one MS Excel Course](https://coursemetry.com/microsoft-excel-complete-course-all-in-one-ms-excel-course/)
 
 * [Ayurvedic Lifestyle Immersion](https://coursemetry.com/ayurvedic-lifestyle-immersion/)
+
+* [Aprende a crear tu web desde cero con HTML y CSS](https://coursemetry.com/aprende-a-crear-tu-web-desde-cero-con-html-y-css/)
+
+* [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
+
+* [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
+
+* [Excel paso a paso](https://coursemetry.com/excel-paso-a-paso/)
+
+* [Matematicas Financieras](https://coursemetry.com/matematicas-financieras/)
+
+* [Introduccion a la Contabilidad](https://coursemetry.com/introduccion-a-la-contabilidad/)
+
+* [Flask, desarrollo web con Python](https://coursemetry.com/flask-desarrollo-web-con-python/)
+
+* [Programacion con Python](https://coursemetry.com/programacion-con-python/)
+
+* [Crea tu propio juego con Python](https://coursemetry.com/crea-tu-propio-juego-con-python/)
+
+* [Ciencia de datos con Python](https://coursemetry.com/ciencia-de-datos-con-python/)
+
+* [100 Days of Code: Data Scientist Challenge 2022](https://coursemetry.com/100-days-of-code-data-scientist-challenge-2022/)
+
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [Presentaciones Profesionales - El arte de hablar en público](https://coursemetry.com/presentaciones-profesionales-el-arte-de-hablar-en-publico/)
+
+* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+
+* [Web Development Masterclass - Complete Certificate Course](https://coursemetry.com/web-development-masterclass-complete-certificate-course/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
+
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
+
+* [HTML, CSS, & Bootstrap - Certification Course for Beginners](https://coursemetry.com/html-css-bootstrap-certification-course-for-beginners/)
+
+* [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
