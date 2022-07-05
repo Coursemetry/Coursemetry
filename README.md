@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published so far on 2022-07-05**
+## **126 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -241,6 +241,20 @@
 * [Learn JavaScript Programming in 7 Days](https://coursemetry.com/learn-javascript-programming-in-7-days/)
 
 * [300+ Python Exercises (Simple and Complex) with Algorithm](https://coursemetry.com/300-python-exercises-simple-and-complex-with-algorithm/)
+
+* [Microsoft excel from beginner to expert](https://coursemetry.com/microsoft-excel-from-beginner-to-expert-2/)
+
+* [2022-Master in Core Python Programming in 99Days](https://coursemetry.com/2022-master-in-core-python-programming-in-99days/)
+
+* [AWS Certified Database Specialty Practice Exams](https://coursemetry.com/aws-certified-database-specialty-practice-exams-2/)
+
+* [Complete Course in AutoCAD Electrical 2021](https://coursemetry.com/complete-course-in-autocad-electrical-2021/)
+
+* [Complete course in AutoCAD : 2D and 3D](https://coursemetry.com/complete-course-in-autocad-2d-and-3d/)
+
+* [Learning SOLIDWORKS : For Students, Engineers, and Designers](https://coursemetry.com/learning-solidworks-for-students-engineers-and-designers/)
+
+* [WordPress for beginners: Best WordPress and marketing course](https://coursemetry.com/wordpress-for-beginners-best-wordpress-and-marketing-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
