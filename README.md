@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **134 Udemy free courses published so far on 2022-07-05**
+## **145 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -271,6 +271,28 @@
 * [MINERIA DE CRIPTOMONEDAS sin INVERTIR como  HACKER PRO](https://coursemetry.com/mineria-de-criptomonedas-sin-invertir-como-hacker-pro/)
 
 * [CURSO Completo de OSINT, DOXING para el HACKING](https://coursemetry.com/curso-completo-de-osint-doxing-para-el-hacking/)
+
+* [Growth Hacking Course](https://coursemetry.com/growth-hacking-course/)
+
+* [Ethical Hacking Primer: From OWASP Top 10 to DVWA](https://coursemetry.com/ethical-hacking-primer-from-owasp-top-10-to-dvwa/)
+
+* [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
+
+* [Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://coursemetry.com/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/)
+
+* [Shopify eCommerce Store Masterclass - Start a Business!](https://coursemetry.com/shopify-ecommerce-store-masterclass-start-a-business/)
+
+* [Complete Guide to eBay Selling as a Business](https://coursemetry.com/complete-guide-to-ebay-selling-as-a-business/)
+
+* [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
+
+* [Learn OpenSSL with a real world cheatsheet](https://coursemetry.com/learn-openssl-with-a-real-world-cheatsheet/)
+
+* [The Complete Writing Course: Develop True Writing Mastery](https://coursemetry.com/the-complete-writing-course-develop-true-writing-mastery/)
+
+* [The Complete Brain Training Course - Neuroplasticity -](https://coursemetry.com/the-complete-brain-training-course-neuroplasticity/)
+
+* [The Complete Happiness Course: Become Happier Now!](https://coursemetry.com/the-complete-happiness-course-become-happier-now/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
