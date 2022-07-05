@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **62 Udemy free courses published so far on 2022-07-05**
+## **64 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -127,6 +127,10 @@
 * [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
 
 * [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [Project Management Course: Master Project Scope Management](https://coursemetry.com/project-management-course-master-project-scope-management/)
+
+* [Technical Java Interview Prep for IT professionals](https://coursemetry.com/technical-java-interview-prep-for-it-professionals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
