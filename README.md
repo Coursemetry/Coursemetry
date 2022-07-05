@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **145 Udemy free courses published so far on 2022-07-05**
+## **149 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -293,6 +293,14 @@
 * [The Complete Brain Training Course - Neuroplasticity -](https://coursemetry.com/the-complete-brain-training-course-neuroplasticity/)
 
 * [The Complete Happiness Course: Become Happier Now!](https://coursemetry.com/the-complete-happiness-course-become-happier-now/)
+
+* [Algorithmic Trading with Python: Technical Analysis Strategy](https://coursemetry.com/algorithmic-trading-with-python-technical-analysis-strategy/)
+
+* [Algorithmic Trading with Python: Machine Learning strategies](https://coursemetry.com/algorithmic-trading-with-python-machine-learning-strategies/)
+
+* [Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://coursemetry.com/cryptocurrency-trading-for-beginners-learn-click-by-click/)
+
+* [Master Microsoft Power BI in 21 Days](https://coursemetry.com/master-microsoft-power-bi-in-21-days/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
