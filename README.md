@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **23 Udemy free courses published so far on 2022-07-05**
+## **30 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -49,6 +49,20 @@
 * [Group Dynamics: Psychology of Group Behavior](https://coursemetry.com/group-dynamics-psychology-of-group-behavior/)
 
 * [Cracking interviews: Daily Software engineering perspective](https://coursemetry.com/cracking-interviews-daily-software-engineering-perspective/)
+
+* [Pranayama (Yogic Breathwork) for Yoga Students & Teachers](https://coursemetry.com/pranayama-yogic-breathwork-for-yoga-students-teachers/)
+
+* [The Complete Digital Marketing Strategy For 2022](https://coursemetry.com/the-complete-digital-marketing-strategy-for-2022/)
+
+* [Time Management for Personal & Professional Productivity](https://coursemetry.com/time-management-for-personal-professional-productivity/)
+
+* [The Zen Methodology Secrets To Habit Formation](https://coursemetry.com/the-zen-methodology-secrets-to-habit-formation/)
+
+* [Citrix XenApp and XenDesktop 7.15 Administration Exams](https://coursemetry.com/citrix-xenapp-and-xendesktop-7-15-administration-exams/)
+
+* [Microsoft Excel Complete Course | All in one MS Excel Course](https://coursemetry.com/microsoft-excel-complete-course-all-in-one-ms-excel-course/)
+
+* [Ayurvedic Lifestyle Immersion](https://coursemetry.com/ayurvedic-lifestyle-immersion/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
