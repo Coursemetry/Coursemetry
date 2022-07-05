@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **126 Udemy free courses published so far on 2022-07-05**
+## **134 Udemy free courses published so far on 2022-07-05**
 
 * [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
 
@@ -255,6 +255,22 @@
 * [Learning SOLIDWORKS : For Students, Engineers, and Designers](https://coursemetry.com/learning-solidworks-for-students-engineers-and-designers/)
 
 * [WordPress for beginners: Best WordPress and marketing course](https://coursemetry.com/wordpress-for-beginners-best-wordpress-and-marketing-course/)
+
+* [Introduction to Hybrid Meetings](https://coursemetry.com/introduction-to-hybrid-meetings/)
+
+* [Full-Stack Web Development with React and MongoDB](https://coursemetry.com/full-stack-web-development-with-react-and-mongodb/)
+
+* [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
+
+* [Cositas que se pueden hacer con Python](https://coursemetry.com/cositas-que-se-pueden-hacer-con-python/)
+
+* [Procedimientos almacenados en PostgreSQL (PL/PgSQL)](https://coursemetry.com/procedimientos-almacenados-en-postgresql-pl-pgsql/)
+
+* [Bots para instagram usando python](https://coursemetry.com/bots-para-instagram-usando-python/)
+
+* [MINERIA DE CRIPTOMONEDAS sin INVERTIR como  HACKER PRO](https://coursemetry.com/mineria-de-criptomonedas-sin-invertir-como-hacker-pro/)
+
+* [CURSO Completo de OSINT, DOXING para el HACKING](https://coursemetry.com/curso-completo-de-osint-doxing-para-el-hacking/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
