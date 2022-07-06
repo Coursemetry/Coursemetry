@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **158 Udemy free courses published so far on 2022-07-06**
+## **159 Udemy free courses published so far on 2022-07-06**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -319,6 +319,8 @@
 * [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
 
 * [Zero to Hero hands-on mastery on HTML5 JavaScript & ES6](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-javascript-es6/)
+
+* [Get Free Media Coverage by Collaborating with Journalists](https://coursemetry.com/get-free-media-coverage-by-collaborating-with-journalists/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
