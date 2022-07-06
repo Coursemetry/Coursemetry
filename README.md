@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **60 Udemy free courses published so far on 2022-07-06**
+## **61 Udemy free courses published so far on 2022-07-06**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -123,6 +123,8 @@
 * [Microservices Interview Readiness Course](https://coursemetry.com/microservices-interview-readiness-course/)
 
 * [Get Job as Java SpringBoot Developer in IT industry](https://coursemetry.com/get-job-as-java-springboot-developer-in-it-industry/)
+
+* [Wordpress for Complete beginners](https://coursemetry.com/wordpress-for-complete-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
