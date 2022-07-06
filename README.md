@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **61 Udemy free courses published so far on 2022-07-06**
+## **82 Udemy free courses published so far on 2022-07-06**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -125,6 +125,48 @@
 * [Get Job as Java SpringBoot Developer in IT industry](https://coursemetry.com/get-job-as-java-springboot-developer-in-it-industry/)
 
 * [Wordpress for Complete beginners](https://coursemetry.com/wordpress-for-complete-beginners/)
+
+* [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Building Android Widgets from Scratch ( Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
+
+* [Automated Machine Learning for Beginners (Google & Apple)](https://coursemetry.com/automated-machine-learning-for-beginners-google-apple/)
+
+* [Python Scripting Complete Course](https://coursemetry.com/python-scripting-complete-course/)
+
+* [SQL Masterclass: SQL for Data Analytics](https://coursemetry.com/sql-masterclass-sql-for-data-analytics/)
+
+* [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
+
+* [The Complete Sales Skills Master Class - Sales Marketing B2B](https://coursemetry.com/the-complete-sales-skills-master-class-sales-marketing-b2b/)
+
+* [JavaScript - Creating Quiz Hands on Complete Course](https://coursemetry.com/javascript-creating-quiz-hands-on-complete-course/)
+
+* [ML for Business Managers: Build Regression model in R Studio](https://coursemetry.com/ml-for-business-managers-build-regression-model-in-r-studio/)
+
+* [Minimalist Lifestyle - Complete Course - Decluttering Life](https://coursemetry.com/minimalist-lifestyle-complete-course-decluttering-life/)
+
+* [JavaScript - Creating Loan EMI Calculator](https://coursemetry.com/javascript-creating-loan-emi-calculator/)
+
+* [Complete Machine Learning with R Studio - ML for 2022](https://coursemetry.com/complete-machine-learning-with-r-studio-ml-for-2022/)
+
+* [Public Speaking for Parents - Teach Your Kids to Present 1Hr](https://coursemetry.com/public-speaking-for-parents-teach-your-kids-to-present-1hr/)
+
+* [Professional Scrum with Kanban (PSK I) Certification Prep](https://coursemetry.com/professional-scrum-with-kanban-psk-i-certification-prep/)
+
+* [Google Data Studio A-Z for Data Visualization and Dashboards](https://coursemetry.com/google-data-studio-a-z-for-data-visualization-and-dashboards/)
+
+* [Image Recognition for Beginners using CNN in R Studio](https://coursemetry.com/image-recognition-for-beginners-using-cnn-in-r-studio/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
