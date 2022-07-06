@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **87 Udemy free courses published so far on 2022-07-06**
+## **90 Udemy free courses published so far on 2022-07-06**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -177,6 +177,12 @@
 * [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
 
 * [Facebook Page & Facebook Ads Made as Fun: 11 Days Challenge](https://coursemetry.com/facebook-page-facebook-ads-made-as-fun-11-days-challenge/)
+
+* [AZ- 900: Microsoft Azure Fundamentals Practice Tests 2022](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-2022/)
+
+* [PL-900 Practice Tests- Microsoft Power Platform Fundamentals](https://coursemetry.com/pl-900-practice-tests-microsoft-power-platform-fundamentals/)
+
+* [SC-900 Practice Tests - Security, Compliance, & Identity](https://coursemetry.com/sc-900-practice-tests-security-compliance-identity/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
