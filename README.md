@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **126 Udemy free courses published so far on 2022-07-06**
+## **151 Udemy free courses published so far on 2022-07-06**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -255,6 +255,56 @@
 * [7 Step Guide to Master Self Discipline.](https://coursemetry.com/7-step-guide-to-master-self-discipline/)
 
 * [Learn PHP - For Beginners](https://coursemetry.com/learn-php-for-beginners/)
+
+* [The Complete Dart Learning Guide [2022 Edition]](https://coursemetry.com/the-complete-dart-learning-guide-2022-edition/)
+
+* [Certified Ethical Hacker CEH v10  Questions-2022](https://coursemetry.com/certified-ethical-hacker-ceh-v10-questions-2022/)
+
+* [The Complete Computer Basics Guide for Beginners: 2022](https://coursemetry.com/the-complete-computer-basics-guide-for-beginners-2022/)
+
+* [Apply Jobs as MERN stack developer with this course](https://coursemetry.com/apply-jobs-as-mern-stack-developer-with-this-course/)
+
+* [Power BI: Dashboards Financieros y Análisis Exploratorio](https://coursemetry.com/power-bi-dashboards-financieros-y-analisis-exploratorio/)
+
+* [The Java Learning Guide](https://coursemetry.com/the-java-learning-guide/)
+
+* [The Ultimate SQL Interview Questions : Most Asked Q&A/MCQs](https://coursemetry.com/the-ultimate-sql-interview-questions-most-asked-qa-mcqs/)
+
+* [Master HTML5 CSS3 Bootstrap5 by building Responsive Website](https://coursemetry.com/master-html5-css3-bootstrap5-by-building-responsive-website/)
+
+* [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
+
+* [CURSO Completo de OSINT, DOXING para el HACKING](https://coursemetry.com/curso-completo-de-osint-doxing-para-el-hacking/)
+
+* [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
+
+* [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
+
+* [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
+
+* [The Python and Django Learning Guide](https://coursemetry.com/the-python-and-django-learning-guide/)
+
+* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
+
+* [Simulador Professional Scrum with Kanban (PSK) Practice](https://coursemetry.com/simulador-professional-scrum-with-kanban-psk-practice/)
+
+* [The C++ Learning Guide](https://coursemetry.com/the-c-learning-guide/)
+
+* [The PHP 8 Learning Guide [2022 Edition]](https://coursemetry.com/the-php-8-learning-guide-2022-edition/)
+
+* [Stress-free Effective Learning for Adults: Crush your goals!](https://coursemetry.com/stress-free-effective-learning-for-adults-crush-your-goals/)
+
+* [Practical SpringBoot Microservices Implementation Mastery](https://coursemetry.com/practical-springboot-microservices-implementation-mastery/)
+
+* [اختبار اختراق المواقع بالعربي](https://coursemetry.com/%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [Developing CRUD Application using FASTAPI Python & MongoDB](https://coursemetry.com/developing-crud-application-using-fastapi-python-mongodb/)
+
+* [Facebook Ads Copywriting & Facebook Ads for Real Estate 2022](https://coursemetry.com/facebook-ads-copywriting-facebook-ads-for-real-estate-2022/)
+
+* [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
+
+* [Enable Any Frontend App with Login using Google & SpringBoot](https://coursemetry.com/enable-any-frontend-app-with-login-using-google-springboot/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
