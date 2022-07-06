@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **48 Udemy free courses published so far on 2022-07-06**
+## **60 Udemy free courses published so far on 2022-07-06**
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
@@ -99,6 +99,30 @@
 * [Nutrition: The Ultimate Nutrition certification Course](https://coursemetry.com/nutrition-the-ultimate-nutrition-certification-course/)
 
 * [Neuroplasticity Life Coach Complete Certificate Course](https://coursemetry.com/neuroplasticity-life-coach-complete-certificate-course/)
+
+* [Master CSS3 and ReactJs by Developing 3 Projects](https://coursemetry.com/master-css3-and-reactjs-by-developing-3-projects/)
+
+* [Develop & Deploy Java Springboot App on Kubernetes Cluster](https://coursemetry.com/develop-deploy-java-springboot-app-on-kubernetes-cluster/)
+
+* [Practical Git & Github Bootcamp for Developers](https://coursemetry.com/practical-git-github-bootcamp-for-developers/)
+
+* [Master Transaction Management with SpringBoot and Data JPA](https://coursemetry.com/master-transaction-management-with-springboot-and-data-jpa/)
+
+* [Practical CSS3 Flexbox Media Queries & CSS Grid Mastery](https://coursemetry.com/practical-css3-flexbox-media-queries-css-grid-mastery/)
+
+* [Master React Redux via Real world analogy & Building Project](https://coursemetry.com/master-react-redux-via-real-world-analogy-building-project/)
+
+* [Zero To Hero Apache Kafka with SpringBoot mastery](https://coursemetry.com/zero-to-hero-apache-kafka-with-springboot-mastery/)
+
+* [Mega Web Dev Bootcamp with React Bootstrap5 Redux & REST API](https://coursemetry.com/mega-web-dev-bootcamp-with-react-bootstrap5-redux-rest-api/)
+
+* [Day to Day activities of an Agile Scrum team in real project](https://coursemetry.com/day-to-day-activities-of-an-agile-scrum-team-in-real-project/)
+
+* [Become a Pro Wordpress Custom Theme Developer](https://coursemetry.com/become-a-pro-wordpress-custom-theme-developer/)
+
+* [Microservices Interview Readiness Course](https://coursemetry.com/microservices-interview-readiness-course/)
+
+* [Get Job as Java SpringBoot Developer in IT industry](https://coursemetry.com/get-job-as-java-springboot-developer-in-it-industry/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
