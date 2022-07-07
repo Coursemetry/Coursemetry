@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-07-07**
+## **64 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -129,6 +129,8 @@
 * [Getting Started with Blockchain Solidity and Smart Contracts](https://coursemetry.com/getting-started-with-blockchain-solidity-and-smart-contracts/)
 
 * [Google Workspace Applications Explained (G-Suite)- NEW](https://coursemetry.com/google-workspace-applications-explained-g-suite-new/)
+
+* [ADVANCED Dynamic piping stress analysis CAESAR II & AutoPIPE](https://coursemetry.com/advanced-dynamic-piping-stress-analysis-caesar-ii-autopipe/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
