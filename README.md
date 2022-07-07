@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **170 Udemy free courses published so far on 2022-07-07**
+## **175 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -343,6 +343,16 @@
 * [Learn Python in 7 Days with Exercises and Assignments](https://coursemetry.com/learn-python-in-7-days-with-exercises-and-assignments/)
 
 * [Augmented Reality Application Development with Unity 3D 2022](https://coursemetry.com/augmented-reality-application-development-with-unity-3d-2022/)
+
+* [How to Make A Marriage Website on Wordpress](https://coursemetry.com/how-to-make-a-marriage-website-on-wordpress/)
+
+* [Fundamentals of Microbiology](https://coursemetry.com/fundamentals-of-microbiology/)
+
+* [Become a Professional Babysitter](https://coursemetry.com/become-a-professional-babysitter/)
+
+* [Improve English by Movies](https://coursemetry.com/improve-english-by-movies/)
+
+* [Complete Guide to TOEFL iBT | Mastering the Skills](https://coursemetry.com/complete-guide-to-toefl-ibt-mastering-the-skills/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
