@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **151 Udemy free courses published so far on 2022-07-07**
+## **164 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -305,6 +305,32 @@
 * [AWS Certified Database - Specialty Practice Exam](https://coursemetry.com/aws-certified-database-specialty-practice-exam/)
 
 * [Creating a Website in 1 Hour - WordPress, Elementor, & UX](https://coursemetry.com/creating-a-website-in-1-hour-wordpress-elementor-ux/)
+
+* [Curso de Hacker para Iniciantes](https://coursemetry.com/curso-de-hacker-para-iniciantes/)
+
+* [Lean Six Sigma White Belt: Certification](https://coursemetry.com/lean-six-sigma-white-belt-certification/)
+
+* [Envió Masivo de Correos Electrónicos con PHP, MySQL y JS](https://coursemetry.com/envio-masivo-de-correos-electronicos-con-php-mysql-y-js/)
+
+* [Ciberseguridad en Cisco Simulación 200-201 CBROPS -2022](https://coursemetry.com/ciberseguridad-en-cisco-simulacion-200-201-cbrops-2022/)
+
+* [PRINCE 2 Foundation Practice-Exam-2022](https://coursemetry.com/prince-2-foundation-practice-exam-2022/)
+
+* [The Complete Course on Data Analysis and Data Visualization](https://coursemetry.com/the-complete-course-on-data-analysis-and-data-visualization/)
+
+* [Lean Six Sigma Yellow Belt: Certification](https://coursemetry.com/lean-six-sigma-yellow-belt-certification/)
+
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [RCA: Root cause analysis](https://coursemetry.com/rca-root-cause-analysis/)
+
+* [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
+
+* [NLP Certification- BERT, GPTs, HMTL & Multimodal Large Model](https://coursemetry.com/nlp-certification-bert-gpts-hmtl-multimodal-large-model/)
+
+* [Komplett NFT-Kurs: Werden Sie ein NFT-Ersteller und-Investor](https://coursemetry.com/komplett-nft-kurs-werden-sie-ein-nft-ersteller-und-investor/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
