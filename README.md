@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **144 Udemy free courses published so far on 2022-07-07**
+## **145 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -291,6 +291,8 @@
 * [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
 
 * [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [Sıfırdan En ince Ayarlarına Kadar Profesyonel Wordpress Site](https://coursemetry.com/sifirdan-en-ince-ayarlarina-kadar-profesyonel-wordpress-site/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
