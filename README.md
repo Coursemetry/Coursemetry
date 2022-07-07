@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **81 Udemy free courses published so far on 2022-07-07**
+## **99 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -165,6 +165,42 @@
 * [Corporate Finance #8 Time Value of Money (PV & FV)](https://coursemetry.com/corporate-finance-8-time-value-of-money-pv-fv/)
 
 * [Corporate Finance #7 Short Term Financing](https://coursemetry.com/corporate-finance-7-short-term-financing/)
+
+* [Career Planning for students of 8th, 9th and 10th Standard](https://coursemetry.com/career-planning-for-students-of-8th-9th-and-10th-standard/)
+
+* [Excel Accounting 3 – Enter First Month of Transactions](https://coursemetry.com/excel-accounting-3-enter-first-month-of-transactions/)
+
+* [Steuerung der LED Matrix via Webinterface mit Arduino/ESP32](https://coursemetry.com/steuerung-der-led-matrix-via-webinterface-mit-arduino-esp32/)
+
+* [Erstelle einen Krypto Ticker mit Arduino ESP32/ESP8266](https://coursemetry.com/erstelle-einen-krypto-ticker-mit-arduino-esp32-esp8266/)
+
+* [Corp. Finance #14 Financing-Commons Stock & Preferred Stock](https://coursemetry.com/corp-finance-14-financing-commons-stock-preferred-stock/)
+
+* [Excel Accounting 5–Bank Reconciliations-Month 1 & 2](https://coursemetry.com/excel-accounting-5-bank-reconciliations-month-1-2/)
+
+* [Personal Finance #2–Financial Statements & Budgeting](https://coursemetry.com/personal-finance-2-financial-statements-budgeting/)
+
+* [Arduino IoT Zimmerlampe und Treppenlauflicht](https://coursemetry.com/arduino-iot-zimmerlampe-und-treppenlauflicht/)
+
+* [Excel Accounting 1–Transactions for Common Data Input Forms](https://coursemetry.com/excel-accounting-1-transactions-for-common-data-input-forms/)
+
+* [Corp Finance #17 Merger, Acquisition & Foreign Currency](https://coursemetry.com/corp-finance-17-merger-acquisition-foreign-currency/)
+
+* [Personal Finance #3–Financial Services & Bank Reconciliation](https://coursemetry.com/personal-finance-3-financial-services-bank-reconciliation/)
+
+* [Corporate Finance #15 Dividend Policy](https://coursemetry.com/corporate-finance-15-dividend-policy/)
+
+* [Corporate Finance #13 Investment Banking & Long-Term Debt](https://coursemetry.com/corporate-finance-13-investment-banking-long-term-debt/)
+
+* [Excel Accounting 6–Adjusting Entries & Financial Statements](https://coursemetry.com/excel-accounting-6-adjusting-entries-financial-statements/)
+
+* [Excel Accounting 4–Enter Data & Track Current Month & YTD](https://coursemetry.com/excel-accounting-4-enter-data-track-current-month-ytd/)
+
+* [Personal Finance #1 Goals, Planning, & Time Value of Money](https://coursemetry.com/personal-finance-1-goals-planning-time-value-of-money/)
+
+* [Excel Accounting 2–Worksheet, Opening Balances, & Subledger](https://coursemetry.com/excel-accounting-2-worksheet-opening-balances-subledger/)
+
+* [Corporate Finance #16 Convertible Bonds & Warrants](https://coursemetry.com/corporate-finance-16-convertible-bonds-warrants/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
