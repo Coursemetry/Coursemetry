@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-07-07**
+## **81 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -131,6 +131,40 @@
 * [Google Workspace Applications Explained (G-Suite)- NEW](https://coursemetry.com/google-workspace-applications-explained-g-suite-new/)
 
 * [ADVANCED Dynamic piping stress analysis CAESAR II & AutoPIPE](https://coursemetry.com/advanced-dynamic-piping-stress-analysis-caesar-ii-autopipe/)
+
+* [Corporate Finance #1 Introduction & Financial Statements](https://coursemetry.com/corporate-finance-1-introduction-financial-statements/)
+
+* [Corp Finance #10 Cost of Capital–Debt & Equity Financing](https://coursemetry.com/corp-finance-10-cost-of-capital-debt-equity-financing/)
+
+* [Corporate Finance #6 Management of Current Assets](https://coursemetry.com/corporate-finance-6-management-of-current-assets/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
+
+* [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
+
+* [C_TS450_2021 | SAP Sourcing and Procurement Practice Test](https://coursemetry.com/c_ts450_2021-sap-sourcing-and-procurement-practice-test/)
+
+* [Corporate Finance #9 Valuation-Bond, Common /Preferred Stock](https://coursemetry.com/corporate-finance-9-valuation-bond-common-preferred-stock/)
+
+* [C_ARP2P_2202 | SAP Certified Ariba Procurement Practice Exam](https://coursemetry.com/c_arp2p_2202-sap-certified-ariba-procurement-practice-exam/)
+
+* [Branding Bootcamp : Craft a Brand Identity & Brand Strategy](https://coursemetry.com/branding-bootcamp-craft-a-brand-identity-brand-strategy/)
+
+* [Corp Finance #12 Capital Budgeting & Investment Risk Tools](https://coursemetry.com/corp-finance-12-capital-budgeting-investment-risk-tools/)
+
+* [Corporate Finance #5 Financing Decisions](https://coursemetry.com/corporate-finance-5-financing-decisions/)
+
+* [Corporate Finance #3 Forecasting & Budgeting](https://coursemetry.com/corporate-finance-3-forecasting-budgeting/)
+
+* [Corporate Finance #11 Capital Budgeting](https://coursemetry.com/corporate-finance-11-capital-budgeting/)
+
+* [C_ARSOR_2202 | SAP Certified Ariba Sourcing Practice Exam](https://coursemetry.com/c_arsor_2202-sap-certified-ariba-sourcing-practice-exam/)
+
+* [Corporate Finance #4 Leverage & Break-Even Analysis](https://coursemetry.com/corporate-finance-4-leverage-break-even-analysis/)
+
+* [Corporate Finance #8 Time Value of Money (PV & FV)](https://coursemetry.com/corporate-finance-8-time-value-of-money-pv-fv/)
+
+* [Corporate Finance #7 Short Term Financing](https://coursemetry.com/corporate-finance-7-short-term-financing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
