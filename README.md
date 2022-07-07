@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **164 Udemy free courses published so far on 2022-07-07**
+## **170 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -331,6 +331,18 @@
 * [NLP Certification- BERT, GPTs, HMTL & Multimodal Large Model](https://coursemetry.com/nlp-certification-bert-gpts-hmtl-multimodal-large-model/)
 
 * [Komplett NFT-Kurs: Werden Sie ein NFT-Ersteller und-Investor](https://coursemetry.com/komplett-nft-kurs-werden-sie-ein-nft-ersteller-und-investor/)
+
+* [Software Career Bootcamp: From intern to CXO](https://coursemetry.com/software-career-bootcamp-from-intern-to-cxo/)
+
+* [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
+
+* [Master in HTML & CSS Coding for Web Design](https://coursemetry.com/master-in-html-css-coding-for-web-design/)
+
+* [2022 - The Master in Web Development (Backend & Frontend)](https://coursemetry.com/2022-the-master-in-web-development-backend-frontend/)
+
+* [Learn Python in 7 Days with Exercises and Assignments](https://coursemetry.com/learn-python-in-7-days-with-exercises-and-assignments/)
+
+* [Augmented Reality Application Development with Unity 3D 2022](https://coursemetry.com/augmented-reality-application-development-with-unity-3d-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
