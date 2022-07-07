@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **133 Udemy free courses published so far on 2022-07-07**
+## **136 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -269,6 +269,12 @@
 * [The Complete Java Game Development Course 2022: Part 2](https://coursemetry.com/the-complete-java-game-development-course-2022-part-2/)
 
 * [The Complete Mathematics Software Developer Course for 2022](https://coursemetry.com/the-complete-mathematics-software-developer-course-for-2022/)
+
+* [Web Design for Beginners: Build Websites in HTML & CSS 2022](https://coursemetry.com/web-design-for-beginners-build-websites-in-html-css-2022/)
+
+* [The Complete HTML & CSS Course: Build Websites like a Pro](https://coursemetry.com/the-complete-html-css-course-build-websites-like-a-pro/)
+
+* [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
