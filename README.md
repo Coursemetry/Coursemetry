@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **136 Udemy free courses published so far on 2022-07-07**
+## **144 Udemy free courses published so far on 2022-07-07**
 
 * [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
 
@@ -275,6 +275,22 @@
 * [The Complete HTML & CSS Course: Build Websites like a Pro](https://coursemetry.com/the-complete-html-css-course-build-websites-like-a-pro/)
 
 * [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
+
+* [Certified Supply Chain Professional (CSCP) PRO Tests](https://coursemetry.com/certified-supply-chain-professional-cscp-pro-tests/)
+
+* [A Practical Approach to Fundamental Equity Analysis](https://coursemetry.com/a-practical-approach-to-fundamental-equity-analysis/)
+
+* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
+
+* [Java Web Development /Java EE 8 (Servlet, JSP, MVC, Maven)](https://coursemetry.com/java-web-development-java-ee-8-servlet-jsp-mvc-maven/)
+
+* [When Personal Training Gets Personal](https://coursemetry.com/when-personal-training-gets-personal/)
+
+* [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
+
+* [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
