@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-07-08**
+## **65 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -129,6 +129,10 @@
 * [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
 
 * [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [1Z0-1067-21: OCI Operations Associate Practice Exam](https://coursemetry.com/1z0-1067-21-oci-operations-associate-practice-exam/)
+
+* [6 Steps To Successful Weight Loss Over 40](https://coursemetry.com/6-steps-to-successful-weight-loss-over-40/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
