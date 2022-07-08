@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published so far on 2022-07-08**
+## **74 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -145,6 +145,12 @@
 * [HTML5 Master Class for Beginners](https://coursemetry.com/html5-master-class-for-beginners/)
 
 * [Zero to Hero hands-on mastery on HTML5 JavaScript & ES6](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-javascript-es6/)
+
+* [Pixel Art  Öğren](https://coursemetry.com/pixel-art-ogren/)
+
+* [How To Make Independent Feature Film On A Budget](https://coursemetry.com/how-to-make-independent-feature-film-on-a-budget/)
+
+* [FMEA: Failure, Modes, Effects, Analysis](https://coursemetry.com/fmea-failure-modes-effects-analysis/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
