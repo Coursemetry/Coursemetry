@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published so far on 2022-07-08**
+## **88 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -151,6 +151,34 @@
 * [How To Make Independent Feature Film On A Budget](https://coursemetry.com/how-to-make-independent-feature-film-on-a-budget/)
 
 * [FMEA: Failure, Modes, Effects, Analysis](https://coursemetry.com/fmea-failure-modes-effects-analysis/)
+
+* [CSS Grid  (2022)](https://coursemetry.com/css-grid-2022/)
+
+* [Learn how to make a Photography website with html and Css](https://coursemetry.com/learn-how-to-make-a-photography-website-with-html-and-css/)
+
+* [Complete 'ZERO' Cost Start! Udemy Course Creation Unofficial](https://coursemetry.com/complete-zero-cost-start-udemy-course-creation-unofficial/)
+
+* [Javascript For All](https://coursemetry.com/javascript-for-all/)
+
+* [Startup Fundraising Master course - Raise Venture Capital](https://coursemetry.com/startup-fundraising-master-course-raise-venture-capital/)
+
+* [31 Startup Business Model: Best Course for Entrepreneurs](https://coursemetry.com/31-startup-business-model-best-course-for-entrepreneurs/)
+
+* [SaaS Masterclass: Sales, Marketing and Growth Metrics](https://coursemetry.com/saas-masterclass-sales-marketing-and-growth-metrics/)
+
+* [Complete Metaverse Course: Everything about AR, VR, and NFTs](https://coursemetry.com/complete-metaverse-course-everything-about-ar-vr-and-nfts/)
+
+* [Awesome Startup Pitch deck: Raise Capital (20+ Templates)](https://coursemetry.com/awesome-startup-pitch-deck-raise-capital-20-templates/)
+
+* [The Lean Startup: Best course on Entrepreneurship](https://coursemetry.com/the-lean-startup-best-course-on-entrepreneurship/)
+
+* [MBA: Retail management, Merchandising, and E-commerce](https://coursemetry.com/mba-retail-management-merchandising-and-e-commerce/)
+
+* [Complete Course on Blockchain and Cryptocurrency](https://coursemetry.com/complete-course-on-blockchain-and-cryptocurrency/)
+
+* [MBA: Supply Chain and Operation management](https://coursemetry.com/mba-supply-chain-and-operation-management/)
+
+* [Inventory Management and Warehousing Master class](https://coursemetry.com/inventory-management-and-warehousing-master-class/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
