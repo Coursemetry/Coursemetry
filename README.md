@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **122 Udemy free courses published so far on 2022-07-08**
+## **125 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -247,6 +247,12 @@
 * [Introduction to Software Engineering and Software Design](https://coursemetry.com/introduction-to-software-engineering-and-software-design/)
 
 * [Towards Excellence : The 25 Steps to Success](https://coursemetry.com/towards-excellence-the-25-steps-to-success/)
+
+* [The Complete Go:Golang Bootcamp](https://coursemetry.com/the-complete-gogolang-bootcamp/)
+
+* [(MEVN Stack) build a PWA & Machine Learning E-Commerce APP](https://coursemetry.com/mevn-stack-build-a-pwa-machine-learning-e-commerce-app/)
+
+* [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
