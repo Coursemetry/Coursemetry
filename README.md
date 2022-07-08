@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **101 Udemy free courses published so far on 2022-07-08**
+## **109 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -45,10 +45,6 @@
 * [Full Beginners Guide to Micrososft PowerPoint](https://coursemetry.com/full-beginners-guide-to-micrososft-powerpoint/)
 
 * [Master Persuasion & Influence: Hypnotic Communication Skills](https://coursemetry.com/master-persuasion-influence-hypnotic-communication-skills/)
-
-* [Digital Communications: From Beginner to Expert](https://coursemetry.com/digital-communications-from-beginner-to-expert/)
-
-* [5G Open RAN (O-RAN) and Private Networks for Beginners](https://coursemetry.com/5g-open-ran-o-ran-and-private-networks-for-beginners/)
 
 * [Complete Excel Megacourse: Beginner to Expert](https://coursemetry.com/complete-excel-megacourse-beginner-to-expert/)
 
@@ -205,6 +201,26 @@
 * [Git Command Line for Beginners](https://coursemetry.com/git-command-line-for-beginners/)
 
 * [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+
+* [Android Kotlin Development: From Zero to Hero 2022 [Arabic]](https://coursemetry.com/android-kotlin-development-from-zero-to-hero-2022-arabic/)
+
+* [Kotlin for Beginners: From Zero to Hero 2022 [Arabic]](https://coursemetry.com/kotlin-for-beginners-from-zero-to-hero-2022-arabic/)
+
+* [Wireless Communications: From Basics to Advanced](https://coursemetry.com/wireless-communications-from-basics-to-advanced/)
+
+* [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
+
+* [5G Open RAN (O-RAN) and Private Networks for Beginners](https://coursemetry.com/5g-open-ran-o-ran-and-private-networks-for-beginners/)
+
+* [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
+
+* [NFT Bootcamp: Trading for Beginners](https://coursemetry.com/nft-bootcamp-trading-for-beginners/)
+
+* [Digital Communications: From Beginner to Expert](https://coursemetry.com/digital-communications-from-beginner-to-expert/)
+
+* [Graphics Design With Canva - Beginner to Expert](https://coursemetry.com/graphics-design-with-canva-beginner-to-expert/)
+
+* [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
