@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published so far on 2022-07-08**
+## **56 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -105,6 +105,16 @@
 * [Improve English by Listening Movies – 1c](https://coursemetry.com/improve-english-by-listening-movies-1c/)
 
 * [Copywriting: Make Money From Home WRITING WORDS](https://coursemetry.com/copywriting-make-money-from-home-writing-words/)
+
+* [Microsoft Project Online : Complete Ms Project Course](https://coursemetry.com/microsoft-project-online-complete-ms-project-course/)
+
+* [Master of Business Administration [MBA] exams and questions](https://coursemetry.com/master-of-business-administration-mba-exams-and-questions/)
+
+* [Personal Productivity Techniques + Science](https://coursemetry.com/personal-productivity-techniques-science/)
+
+* [AZ-900: Preparación del examen Microsoft Azure Fundamentals](https://coursemetry.com/az-900-preparacion-del-examen-microsoft-azure-fundamentals/)
+
+* [FL Studio Beginners Course [Learn FL Studio 20 Basics]](https://coursemetry.com/fl-studio-beginners-course-learn-fl-studio-20-basics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
