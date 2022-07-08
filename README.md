@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **56 Udemy free courses published so far on 2022-07-08**
+## **63 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -115,6 +115,20 @@
 * [AZ-900: Preparación del examen Microsoft Azure Fundamentals](https://coursemetry.com/az-900-preparacion-del-examen-microsoft-azure-fundamentals/)
 
 * [FL Studio Beginners Course [Learn FL Studio 20 Basics]](https://coursemetry.com/fl-studio-beginners-course-learn-fl-studio-20-basics/)
+
+* [Intro to Node JS & Express](https://coursemetry.com/intro-to-node-js-express/)
+
+* [Fundamentals of Solace Administration](https://coursemetry.com/fundamentals-of-solace-administration/)
+
+* [Building a Niche Website For Beginners](https://coursemetry.com/building-a-niche-website-for-beginners/)
+
+* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+
+* [Web Analytics with Similarweb: from Basic to PRO!](https://coursemetry.com/web-analytics-with-similarweb-from-basic-to-pro/)
+
+* [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
