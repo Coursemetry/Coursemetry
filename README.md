@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published so far on 2022-07-08**
+## **90 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -179,6 +179,10 @@
 * [MBA: Supply Chain and Operation management](https://coursemetry.com/mba-supply-chain-and-operation-management/)
 
 * [Inventory Management and Warehousing Master class](https://coursemetry.com/inventory-management-and-warehousing-master-class/)
+
+* [Intelligence Quotient [ IQ ] Tests and Answers](https://coursemetry.com/intelligence-quotient-iq-tests-and-answers/)
+
+* [AZ-900 : Microsoft Azure Fundamentals Real Exam Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-real-exam-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
