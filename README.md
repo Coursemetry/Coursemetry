@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **90 Udemy free courses published so far on 2022-07-08**
+## **92 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -183,6 +183,10 @@
 * [Intelligence Quotient [ IQ ] Tests and Answers](https://coursemetry.com/intelligence-quotient-iq-tests-and-answers/)
 
 * [AZ-900 : Microsoft Azure Fundamentals Real Exam Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-real-exam-questions/)
+
+* [Complete Goal Achievement Course - Personal Success Goals](https://coursemetry.com/complete-goal-achievement-course-personal-success-goals/)
+
+* [Learn Carnatic Flute | Intermediate Level | Varnams Volume 7](https://coursemetry.com/learn-carnatic-flute-intermediate-level-varnams-volume-7/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
