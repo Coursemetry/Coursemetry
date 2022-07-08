@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published so far on 2022-07-08**
+## **71 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -133,6 +133,18 @@
 * [1Z0-1067-21: OCI Operations Associate Practice Exam](https://coursemetry.com/1z0-1067-21-oci-operations-associate-practice-exam/)
 
 * [6 Steps To Successful Weight Loss Over 40](https://coursemetry.com/6-steps-to-successful-weight-loss-over-40/)
+
+* [Master CSS3 and ReactJs by Developing 3 Projects](https://coursemetry.com/master-css3-and-reactjs-by-developing-3-projects/)
+
+* [Become a Pro Wordpress Custom Theme Developer](https://coursemetry.com/become-a-pro-wordpress-custom-theme-developer/)
+
+* [Day to Day activities of an Agile Scrum team in real project](https://coursemetry.com/day-to-day-activities-of-an-agile-scrum-team-in-real-project/)
+
+* [Master Transaction Management with SpringBoot and Data JPA](https://coursemetry.com/master-transaction-management-with-springboot-and-data-jpa/)
+
+* [HTML5 Master Class for Beginners](https://coursemetry.com/html5-master-class-for-beginners/)
+
+* [Zero to Hero hands-on mastery on HTML5 JavaScript & ES6](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-javascript-es6/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
