@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published so far on 2022-07-08**
+## **101 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -187,6 +187,24 @@
 * [Complete Goal Achievement Course - Personal Success Goals](https://coursemetry.com/complete-goal-achievement-course-personal-success-goals/)
 
 * [Learn Carnatic Flute | Intermediate Level | Varnams Volume 7](https://coursemetry.com/learn-carnatic-flute-intermediate-level-varnams-volume-7/)
+
+* [Bootstrap 5: Créer et Lancer des Sites Web Réactifs](https://coursemetry.com/bootstrap-5-creer-et-lancer-des-sites-web-reactifs/)
+
+* [Learn Carnatic Flute | Intermediate Level | Varnams Volume 8](https://coursemetry.com/learn-carnatic-flute-intermediate-level-varnams-volume-8/)
+
+* [VidIQ Masterclass - Full Guide to YouTube Keyword Tool](https://coursemetry.com/vidiq-masterclass-full-guide-to-youtube-keyword-tool/)
+
+* [Global Banking Regulations: A Practical Approach](https://coursemetry.com/global-banking-regulations-a-practical-approach/)
+
+* [The Complete Motivation Course: Motivation for Your Success](https://coursemetry.com/the-complete-motivation-course-motivation-for-your-success/)
+
+* [SAP S/4HANA Fundamentals: Understanding the Big Picture](https://coursemetry.com/sap-s-4hana-fundamentals-understanding-the-big-picture/)
+
+* [AppArmor - Linux Security](https://coursemetry.com/apparmor-linux-security/)
+
+* [Git Command Line for Beginners](https://coursemetry.com/git-command-line-for-beginners/)
+
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
