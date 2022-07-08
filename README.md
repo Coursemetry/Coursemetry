@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-07-08**
+## **129 Udemy free courses published so far on 2022-07-08**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -79,8 +79,6 @@
 * [Master in Microsoft Power BI Desktop and Service](https://coursemetry.com/master-in-microsoft-power-bi-desktop-and-service/)
 
 * [Preservation From Diseases and Future Pandemics](https://coursemetry.com/preservation-from-diseases-and-future-pandemics/)
-
-* [Python | Sıfırdan Uzmanlığa 15+ Saat Programlama Eğitim Seti](https://coursemetry.com/python-sifirdan-uzmanliga-15-saat-programlama-egitim-seti/)
 
 * [Linear Regression and Logistic Regression using R Studio](https://coursemetry.com/linear-regression-and-logistic-regression-using-r-studio/)
 
@@ -253,6 +251,16 @@
 * [(MEVN Stack) build a PWA & Machine Learning E-Commerce APP](https://coursemetry.com/mevn-stack-build-a-pwa-machine-learning-e-commerce-app/)
 
 * [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
+
+* [MERN stack complete Blog Application from scratch 2022](https://coursemetry.com/mern-stack-complete-blog-application-from-scratch-2022/)
+
+* [Python | Sıfırdan Uzmanlığa 15+ Saat Programlama Eğitim Seti](https://coursemetry.com/python-sifirdan-uzmanliga-15-saat-programlama-egitim-seti/)
+
+* [The Complete React Redux Node Express MySQL Developer Course](https://coursemetry.com/the-complete-react-redux-node-express-mysql-developer-course/)
+
+* [Product Photography Masterclass](https://coursemetry.com/product-photography-masterclass/)
+
+* [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
