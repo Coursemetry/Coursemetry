@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published so far on 2022-07-09**
+## **80 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -141,6 +141,28 @@
 * [Programming language selection almanac : Practice Tests Only](https://coursemetry.com/programming-language-selection-almanac-practice-tests-only/)
 
 * [Machine Learning and Data Science in STATA](https://coursemetry.com/machine-learning-and-data-science-in-stata/)
+
+* [Dynamic Programming for Solving Problems](https://coursemetry.com/dynamic-programming-for-solving-problems/)
+
+* [Complete course on Tree - Data Structures](https://coursemetry.com/complete-course-on-tree-data-structures/)
+
+* [Learn Python Programming from Scratch](https://coursemetry.com/learn-python-programming-from-scratch/)
+
+* [SQL For Beginners](https://coursemetry.com/sql-for-beginners/)
+
+* [Java Programming: Complete Beginner to Advanced](https://coursemetry.com/java-programming-complete-beginner-to-advanced/)
+
+* [Python And Flask  Demonstrations Practice Course](https://coursemetry.com/python-and-flask-demonstrations-practice-course/)
+
+* [C++ Programming - From Scratch to Advanced](https://coursemetry.com/c-programming-from-scratch-to-advanced/)
+
+* [Hands-On React. Build advanced React JS Frontend with expert](https://coursemetry.com/hands-on-react-build-advanced-react-js-frontend-with-expert/)
+
+* [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
+
+* [SEO & Copywriting Course as Project & Fun: 45 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-45-days-challenge/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
