@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **37 Udemy free courses published so far on 2022-07-09**
+## **42 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -77,6 +77,16 @@
 * [React + Next JS with TypeScript](https://coursemetry.com/react-next-js-with-typescript/)
 
 * [JavaScript And PHP And Python Programming Complete Course](https://coursemetry.com/javascript-and-php-and-python-programming-complete-course/)
+
+* [The Complete ReactJs Course - Basics to Advanced (2021)](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2021/)
+
+* [Modern JavaScript for React JS - ES6.](https://coursemetry.com/modern-javascript-for-react-js-es6/)
+
+* [JavaScript - Basics to Advanced [step by step (2021)]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2021/)
+
+* [CSS - Basics To Advanced for front end development (2021)](https://coursemetry.com/css-basics-to-advanced-for-front-end-development-2021/)
+
+* [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
