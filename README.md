@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **126 Udemy free courses published so far on 2022-07-09**
+## **127 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -255,6 +255,8 @@
 * [Microsoft SQL Server for Beginners | Crash Course](https://coursemetry.com/microsoft-sql-server-for-beginners-crash-course/)
 
 * [Couples Counseling | Learn to Live happy with Life Partner](https://coursemetry.com/couples-counseling-learn-to-live-happy-with-life-partner/)
+
+* [Canvaプレゼンの使い方｜業務効率を上げるためのテクニック](https://coursemetry.com/canva%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9%ef%bd%9c%e6%a5%ad%e5%8b%99%e5%8a%b9%e7%8e%87%e3%82%92%e4%b8%8a%e3%81%92%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae%e3%83%86/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
