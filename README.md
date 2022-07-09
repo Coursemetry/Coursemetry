@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **80 Udemy free courses published so far on 2022-07-09**
+## **113 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -163,6 +163,72 @@
 * [SEO & Copywriting Course as Project & Fun: 45 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-45-days-challenge/)
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [The Complete Google Forms Course - Sending & Analyzing Forms](https://coursemetry.com/the-complete-google-forms-course-sending-analyzing-forms/)
+
+* [The Complete Brain Training Course - Neuroplasticity -](https://coursemetry.com/the-complete-brain-training-course-neuroplasticity/)
+
+* [JavaScript - Creating Loan EMI Calculator](https://coursemetry.com/javascript-creating-loan-emi-calculator/)
+
+* [Python for Data Analysis & Visualization 2022](https://coursemetry.com/python-for-data-analysis-visualization-2022/)
+
+* [Microsoft Power BI 2022: The Complete Guide](https://coursemetry.com/microsoft-power-bi-2022-the-complete-guide/)
+
+* [The Complete Writing Course: Develop True Writing Mastery](https://coursemetry.com/the-complete-writing-course-develop-true-writing-mastery/)
+
+* [Project Finance Fundamentals | Infrastructure & Energy](https://coursemetry.com/project-finance-fundamentals-infrastructure-energy/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [HTML5 Master Class for Beginners](https://coursemetry.com/html5-master-class-for-beginners/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Python Scripting Complete Course](https://coursemetry.com/python-scripting-complete-course/)
+
+* [The Complete English Grammar Course - Perfect Your English](https://coursemetry.com/the-complete-english-grammar-course-perfect-your-english/)
+
+* [Complete Hypnosis Weight Loss Course - Dieting Psychology](https://coursemetry.com/complete-hypnosis-weight-loss-course-dieting-psychology/)
+
+* [Emotional Intelligence: Certification Course](https://coursemetry.com/emotional-intelligence-certification-course/)
+
+* [JavaScript - Creating Quiz Hands on Complete Course](https://coursemetry.com/javascript-creating-quiz-hands-on-complete-course/)
+
+* [Profitable App Development Blueprint for Startups](https://coursemetry.com/profitable-app-development-blueprint-for-startups/)
+
+* [Excellence in Business Strategy, Modelling & Planning](https://coursemetry.com/excellence-in-business-strategy-modelling-planning/)
+
+* [The Complete HTML & CSS Course: Build Websites like a Pro](https://coursemetry.com/the-complete-html-css-course-build-websites-like-a-pro/)
+
+* [Entrepreneurship: 60 Day Startup Launch Blueprint](https://coursemetry.com/entrepreneurship-60-day-startup-launch-blueprint/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Complete Personal Development Personal Transformation Course](https://coursemetry.com/complete-personal-development-personal-transformation-course/)
+
+* [Bilgisayar Öğretmeninden Web Geliştirme Kursu | 2021](https://coursemetry.com/bilgisayar-ogretmeninden-web-gelistirme-kursu-2021/)
+
+* [Komplett NFT-Kurs: Werden Sie ein NFT-Ersteller und-Investor](https://coursemetry.com/komplett-nft-kurs-werden-sie-ein-nft-ersteller-und-investor/)
+
+* [Copywriting & SEO for Beginners: Complete Copywriting Course](https://coursemetry.com/copywriting-seo-for-beginners-complete-copywriting-course/)
+
+* [The Complete MongoDB Course 2022](https://coursemetry.com/the-complete-mongodb-course-2022/)
+
+* [Project Management : Kickoff Your Project Manager Career](https://coursemetry.com/project-management-kickoff-your-project-manager-career/)
+
+* [Design Instagram Post in Canva 2022](https://coursemetry.com/design-instagram-post-in-canva-2022/)
+
+* [Sell on Amazon : FBA Product Research to Launching on Amazon](https://coursemetry.com/sell-on-amazon-fba-product-research-to-launching-on-amazon/)
+
+* [Sıfırdan E-Ticaret Eğitimi | Uygulamalarla Opencart  | 2022](https://coursemetry.com/sifirdan-e-ticaret-egitimi-uygulamalarla-opencart-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
