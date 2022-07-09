@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **42 Udemy free courses published so far on 2022-07-09**
+## **46 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -87,6 +87,14 @@
 * [CSS - Basics To Advanced for front end development (2021)](https://coursemetry.com/css-basics-to-advanced-for-front-end-development-2021/)
 
 * [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
+
+* [HTML5 - From Basics to Advanced level (2021)](https://coursemetry.com/html5-from-basics-to-advanced-level-2021/)
+
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+
+* [Git Command Line for Beginners](https://coursemetry.com/git-command-line-for-beginners/)
+
+* [AppArmor - Linux Security](https://coursemetry.com/apparmor-linux-security/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
