@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published so far on 2022-07-09**
+## **48 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -95,6 +95,10 @@
 * [Git Command Line for Beginners](https://coursemetry.com/git-command-line-for-beginners/)
 
 * [AppArmor - Linux Security](https://coursemetry.com/apparmor-linux-security/)
+
+* [ネットショップのファンを作る接客術マスター講座 | 信頼重視の接客でファンがどんどん増えていく！](https://coursemetry.com/%e3%83%8d%e3%83%83%e3%83%88%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%81%ae%e3%83%95%e3%82%a1%e3%83%b3%e3%82%92%e4%bd%9c%e3%82%8b%e6%8e%a5%e5%ae%a2%e8%a1%93%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e8%ac%9b/)
+
+* [Family Problems - What is the Solution?](https://coursemetry.com/family-problems-what-is-the-solution/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
