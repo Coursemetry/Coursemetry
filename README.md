@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **33 Udemy free courses published so far on 2022-07-09**
+## **36 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -69,6 +69,12 @@
 * [Healthy living with "No Oil" Recipes - Non Vegetarian](https://coursemetry.com/healthy-living-with-no-oil-recipes-non-vegetarian/)
 
 * [Top 1% Leader Development Course | Leadership Development](https://coursemetry.com/top-1-leader-development-course-leadership-development/)
+
+* [SAP S/4HANA Fundamentals: Understanding the Big Picture](https://coursemetry.com/sap-s-4hana-fundamentals-understanding-the-big-picture/)
+
+* [Car Flipping : The Art of Car Flipping](https://coursemetry.com/car-flipping-the-art-of-car-flipping/)
+
+* [React + Next JS with TypeScript](https://coursemetry.com/react-next-js-with-typescript/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
