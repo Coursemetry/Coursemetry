@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published so far on 2022-07-09**
+## **69 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -101,6 +101,46 @@
 * [Family Problems - What is the Solution?](https://coursemetry.com/family-problems-what-is-the-solution/)
 
 * [Ultimate Bug Bounty](https://coursemetry.com/ultimate-bug-bounty/)
+
+* [Android Bug Bounty Hunting: Hunt like a rat](https://coursemetry.com/android-bug-bounty-hunting-hunt-like-a-rat/)
+
+* [Penetration Testing Explained](https://coursemetry.com/penetration-testing-explained/)
+
+* [Online Reputation Management Guide Manipulate Search Results](https://coursemetry.com/online-reputation-management-guide-manipulate-search-results/)
+
+* [Watercolor Painting Course for Beginner](https://coursemetry.com/watercolor-painting-course-for-beginner/)
+
+* [未経験からウェブデザイナーに なっても大丈夫？不安をすべて解決します！](https://coursemetry.com/%e6%9c%aa%e7%b5%8c%e9%a8%93%e3%81%8b%e3%82%89%e3%82%a6%e3%82%a7%e3%83%96%e3%83%87%e3%82%b6%e3%82%a4%e3%83%8a%e3%83%bc%e3%81%ab-%e3%81%aa%e3%81%a3%e3%81%a6%e3%82%82%e5%a4%a7%e4%b8%88%e5%a4%ab%ef%bc%9f/)
+
+* [ウェブデザイナーに必要なスキルとは？基本スキルと応用スキルまで徹底解説！](https://coursemetry.com/%e3%82%a6%e3%82%a7%e3%83%96%e3%83%87%e3%82%b6%e3%82%a4%e3%83%8a%e3%83%bc%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e3%82%b9%e3%82%ad%e3%83%ab%e3%81%a8%e3%81%af%ef%bc%9f%e5%9f%ba%e6%9c%ac%e3%82%b9%e3%82%ad/)
+
+* [Learn Photoshop Well - Complete Beginners Guide to Design](https://coursemetry.com/learn-photoshop-well-complete-beginners-guide-to-design/)
+
+* [Mastering Figma For Beginner](https://coursemetry.com/mastering-figma-for-beginner/)
+
+* [An Intermediate course on Blender 3.2](https://coursemetry.com/an-intermediate-course-on-blender-3-2/)
+
+* [Make YouTube Thumbnail in Canva within 5 Minutes](https://coursemetry.com/make-youtube-thumbnail-in-canva-within-5-minutes/)
+
+* [Automation and T-shirt Design with Photoshop and Illustrator](https://coursemetry.com/automation-and-t-shirt-design-with-photoshop-and-illustrator/)
+
+* [Machine Learning Projects with Python](https://coursemetry.com/machine-learning-projects-with-python-2/)
+
+* [Create a Snow Storm VFX with Niagara in Unreal Engine 5](https://coursemetry.com/create-a-snow-storm-vfx-with-niagara-in-unreal-engine-5/)
+
+* [The only Content Marketing Course you need in 2022](https://coursemetry.com/the-only-content-marketing-course-you-need-in-2022/)
+
+* [Facebook Ads & Instagram Ads Course For E-Commerce 2022](https://coursemetry.com/facebook-ads-instagram-ads-course-for-e-commerce-2022/)
+
+* [Building AI android applications](https://coursemetry.com/building-ai-android-applications/)
+
+* [Python for Beginners - हिंदी में सीखें Python Programming](https://coursemetry.com/python-for-beginners-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-python-programming/)
+
+* [Microsoft Project : Learn Project Management with MS Project](https://coursemetry.com/microsoft-project-learn-project-management-with-ms-project/)
+
+* [Programming language selection almanac : Practice Tests Only](https://coursemetry.com/programming-language-selection-almanac-practice-tests-only/)
+
+* [Machine Learning and Data Science in STATA](https://coursemetry.com/machine-learning-and-data-science-in-stata/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
