@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **117 Udemy free courses published so far on 2022-07-09**
+## **121 Udemy free courses published so far on 2022-07-09**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -237,6 +237,14 @@
 * [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
 
 * [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+
+* [Learn 4 Steps to Make Money Online with Affiliate Marketing!](https://coursemetry.com/learn-4-steps-to-make-money-online-with-affiliate-marketing/)
+
+* [Microsoft Excel - Learn MS EXCEL For DATA Analysis](https://coursemetry.com/microsoft-excel-learn-ms-excel-for-data-analysis/)
+
+* [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
