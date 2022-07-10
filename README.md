@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **130 Udemy free courses published so far on 2022-07-10**
+## **138 Udemy free courses published so far on 2022-07-10**
 
 * [22 Ways To Make Money Online! Earn Money Online In 2022](https://coursemetry.com/22-ways-to-make-money-online-earn-money-online-in-2022/)
 
@@ -263,6 +263,22 @@
 * [Digital Communications: From Beginner to Expert](https://coursemetry.com/digital-communications-from-beginner-to-expert/)
 
 * [Wireless Communications: From Basics to Advanced](https://coursemetry.com/wireless-communications-from-basics-to-advanced/)
+
+* [Blogging & Content Writing Course - Start A Profitable Blog](https://coursemetry.com/blogging-content-writing-course-start-a-profitable-blog/)
+
+* [The 150 Most Important Irregular Verbs in English. Volume 1](https://coursemetry.com/the-150-most-important-irregular-verbs-in-english-volume-1/)
+
+* [Innovation & Startups: AB Testing Of KPI With Lean Startup](https://coursemetry.com/innovation-startups-ab-testing-of-kpi-with-lean-startup/)
+
+* [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
+
+* [Wireshark'la Siber Saldırı Analizi](https://coursemetry.com/wiresharkla-siber-saldiri-analizi/)
+
+* [QR Code Generator Using JavaScript](https://coursemetry.com/qr-code-generator-using-javascript/)
+
+* [Independent Musician Music Marketing - Part Music Business](https://coursemetry.com/independent-musician-music-marketing-part-music-business/)
+
+* [How to Deal With Tough Times | Problem Solving Skills](https://coursemetry.com/how-to-deal-with-tough-times-problem-solving-skills/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
