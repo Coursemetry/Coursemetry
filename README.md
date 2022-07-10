@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-07-10**
+## **105 Udemy free courses published so far on 2022-07-10**
 
 * [22 Ways To Make Money Online! Earn Money Online In 2022](https://coursemetry.com/22-ways-to-make-money-online-earn-money-online-in-2022/)
 
@@ -203,6 +203,16 @@
 * [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
 
 * [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
+
+* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
+
+* [VEEAM Backup & Replication V11 course / LAB & VMCE questions](https://coursemetry.com/veeam-backup-replication-v11-course-lab-vmce-questions/)
+
+* [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
+
+* [ManageEngine OPManager Plus Network Monitoring course & Lab](https://coursemetry.com/manageengine-opmanager-plus-network-monitoring-course-lab/)
+
+* [The Complete 2022 Flutter & Dart Development Course [Arabic]](https://coursemetry.com/the-complete-2022-flutter-dart-development-course-arabic/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
