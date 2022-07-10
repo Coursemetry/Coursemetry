@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **40 Udemy free courses published so far on 2022-07-10**
+## **42 Udemy free courses published so far on 2022-07-10**
 
 * [22 Ways To Make Money Online! Earn Money Online In 2022](https://coursemetry.com/22-ways-to-make-money-online-earn-money-online-in-2022/)
 
@@ -83,6 +83,10 @@
 * [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
 
 * [AWS Certified Advanced Networking - Specialty Exam 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam-2022/)
+
+* [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
+
+* [POWER  BI data Analytics Course and DASHBOARDS creation 2022](https://coursemetry.com/power-bi-data-analytics-course-and-dashboards-creation-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
