@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **42 Udemy free courses published so far on 2022-07-10**
+## **54 Udemy free courses published so far on 2022-07-10**
 
 * [22 Ways To Make Money Online! Earn Money Online In 2022](https://coursemetry.com/22-ways-to-make-money-online-earn-money-online-in-2022/)
 
@@ -87,6 +87,30 @@
 * [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
 
 * [POWER  BI data Analytics Course and DASHBOARDS creation 2022](https://coursemetry.com/power-bi-data-analytics-course-and-dashboards-creation-2022/)
+
+* [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
+
+* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners/)
+
+* [Learn PHP - For Beginners](https://coursemetry.com/learn-php-for-beginners/)
+
+* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners/)
+
+* [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
+
+* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
+
+* [Learn jQuery - For Beginners](https://coursemetry.com/learn-jquery-for-beginners/)
+
+* [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners/)
+
+* [Crea Páginas Web Profesionales, Gratis y sin saber Programar](https://coursemetry.com/crea-paginas-web-profesionales-gratis-y-sin-saber-programar/)
+
+* [CSS & JavaScript - Certification Course for Beginners](https://coursemetry.com/css-javascript-certification-course-for-beginners/)
+
+* [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
