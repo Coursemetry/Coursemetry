@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published so far on 2022-07-10**
+## **83 Udemy free courses published so far on 2022-07-10**
 
 * [22 Ways To Make Money Online! Earn Money Online In 2022](https://coursemetry.com/22-ways-to-make-money-online-earn-money-online-in-2022/)
 
@@ -111,6 +111,64 @@
 * [CSS & JavaScript - Certification Course for Beginners](https://coursemetry.com/css-javascript-certification-course-for-beginners/)
 
 * [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
+
+* [CSS And JavaScript Complete Course For Beginners](https://coursemetry.com/css-and-javascript-complete-course-for-beginners/)
+
+* [Complete Photography Masterclass: 4 Courses IN 1](https://coursemetry.com/complete-photography-masterclass-4-courses-in-1/)
+
+* [Product Photography Masterclass](https://coursemetry.com/product-photography-masterclass/)
+
+* [Car Repair | Automotive Electrician and Mechanic Training |](https://coursemetry.com/car-repair-automotive-electrician-and-mechanic-training/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [Java Network Programming - Mastering TCP/IP | CJNP+ 2022](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022/)
+
+* [Acting course - tools of acting](https://coursemetry.com/acting-course-tools-of-acting/)
+
+* [C++ Programming for Beginners](https://coursemetry.com/c-programming-for-beginners/)
+
+* [English Reading Practice Set for Advanced Level Students](https://coursemetry.com/english-reading-practice-set-for-advanced-level-students/)
+
+* [Kids English Vocabulary Set One - Nouns](https://coursemetry.com/kids-english-vocabulary-set-one-nouns/)
+
+* [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
+
+* [The C++ Learning Guide](https://coursemetry.com/the-c-learning-guide/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [Microsoft Word 2022: La Guía Completa](https://coursemetry.com/microsoft-word-2022-la-guia-completa/)
+
+* [[Dashboard Microsoft Excel] : Conception Tableau de bord](https://coursemetry.com/dashboard-microsoft-excel-conception-tableau-de-bord/)
+
+* [The Ultimate SAP S/4HANA Course 2022: From Zero to Expert](https://coursemetry.com/the-ultimate-sap-s-4hana-course-2022-from-zero-to-expert/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python-2/)
+
+* [Vue 3 Essentials](https://coursemetry.com/vue-3-essentials/)
+
+* [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
+
+* [OBS Studio in 1-2-3](https://coursemetry.com/obs-studio-in-1-2-3/)
+
+* [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
+
+* [Kotlin Android Training - Mastering Android App Development](https://coursemetry.com/kotlin-android-training-mastering-android-app-development/)
+
+* [English Reading Practice Set for Beginners](https://coursemetry.com/english-reading-practice-set-for-beginners/)
+
+* [DP-100: Designing and Implementing a Data Science Solution](https://coursemetry.com/dp-100-designing-and-implementing-a-data-science-solution/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [Java 2022 Complete Course For Beginners](https://coursemetry.com/java-2022-complete-course-for-beginners/)
+
+* [Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022](https://coursemetry.com/reverse-engineering-and-malware-analysis-x64-32-crma-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
