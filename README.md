@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-07-10**
+## **111 Udemy free courses published so far on 2022-07-10**
 
 * [22 Ways To Make Money Online! Earn Money Online In 2022](https://coursemetry.com/22-ways-to-make-money-online-earn-money-online-in-2022/)
 
@@ -213,6 +213,18 @@
 * [ManageEngine OPManager Plus Network Monitoring course & Lab](https://coursemetry.com/manageengine-opmanager-plus-network-monitoring-course-lab/)
 
 * [The Complete 2022 Flutter & Dart Development Course [Arabic]](https://coursemetry.com/the-complete-2022-flutter-dart-development-course-arabic/)
+
+* [The Complete Punctuation Course: English Writing - Grammar](https://coursemetry.com/the-complete-punctuation-course-english-writing-grammar/)
+
+* [Learn & Develop Winning Value Proposition for your business](https://coursemetry.com/learn-develop-winning-value-proposition-for-your-business/)
+
+* [Teacher Training - How to Teach Online - Remote Teaching 1Hr](https://coursemetry.com/teacher-training-how-to-teach-online-remote-teaching-1hr/)
+
+* [Socio-Political Philosophy- An Introduction](https://coursemetry.com/socio-political-philosophy-an-introduction/)
+
+* [The 10 Laws for Personal Success - The Complete Course](https://coursemetry.com/the-10-laws-for-personal-success-the-complete-course/)
+
+* [Taller de Escritura de Letras de Canciones Profundas 2022](https://coursemetry.com/taller-de-escritura-de-letras-de-canciones-profundas-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
