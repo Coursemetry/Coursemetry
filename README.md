@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-07-10**
+## **130 Udemy free courses published so far on 2022-07-10**
 
 * [22 Ways To Make Money Online! Earn Money Online In 2022](https://coursemetry.com/22-ways-to-make-money-online-earn-money-online-in-2022/)
 
@@ -225,6 +225,44 @@
 * [The 10 Laws for Personal Success - The Complete Course](https://coursemetry.com/the-10-laws-for-personal-success-the-complete-course/)
 
 * [Taller de Escritura de Letras de Canciones Profundas 2022](https://coursemetry.com/taller-de-escritura-de-letras-de-canciones-profundas-2022/)
+
+* [Google Ads 0 to hero for beginners complete AdWords course](https://coursemetry.com/google-ads-0-to-hero-for-beginners-complete-adwords-course/)
+
+* [Excel - Microsoft Excel Beginners Class](https://coursemetry.com/excel-microsoft-excel-beginners-class/)
+
+* [Ms Excel/Excel 2022 - The Complete Introduction to Excel](https://coursemetry.com/ms-excel-excel-2022-the-complete-introduction-to-excel/)
+
+* [Cyber Security: Secure Passwords on Linux](https://coursemetry.com/cyber-security-secure-passwords-on-linux/)
+
+* [How to Create & Sell Digital Products Online for Beginners!](https://coursemetry.com/how-to-create-sell-digital-products-online-for-beginners/)
+
+* [Ethical Hacking: Network Exploitation Basics](https://coursemetry.com/ethical-hacking-network-exploitation-basics/)
+
+* [TikTok Bootcamp: Strategy, Video Editing, Getting Followers](https://coursemetry.com/tiktok-bootcamp-strategy-video-editing-getting-followers/)
+
+* [Shopify Bootcamp: Increase Your Sales and Conversion rate](https://coursemetry.com/shopify-bootcamp-increase-your-sales-and-conversion-rate/)
+
+* [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
+
+* [Earn Bitcoin on Your Phone WORLDWIDE Even While You Sleep](https://coursemetry.com/earn-bitcoin-on-your-phone-worldwide-even-while-you-sleep/)
+
+* [Introduction to Telecommunications and Signal Processing](https://coursemetry.com/introduction-to-telecommunications-and-signal-processing/)
+
+* [Advanced Radio Access Network (RAN) Technologies - 5G and 6G](https://coursemetry.com/advanced-radio-access-network-ran-technologies-5g-and-6g/)
+
+* [5G Open RAN (O-RAN) and Private Networks: From Zero to Hero](https://coursemetry.com/5g-open-ran-o-ran-and-private-networks-from-zero-to-hero/)
+
+* [Wireless Security in Mobile Communication Networks - 4G & 5G](https://coursemetry.com/wireless-security-in-mobile-communication-networks-4g-5g/)
+
+* [Learn Database Management (DBMS) from Scratch](https://coursemetry.com/learn-database-management-dbms-from-scratch/)
+
+* [Orthogonal Frequency Division Multiplexing (OFDM)](https://coursemetry.com/orthogonal-frequency-division-multiplexing-ofdm/)
+
+* [Computer Networks for Beginners: From Zero to Hero](https://coursemetry.com/computer-networks-for-beginners-from-zero-to-hero/)
+
+* [Digital Communications: From Beginner to Expert](https://coursemetry.com/digital-communications-from-beginner-to-expert/)
+
+* [Wireless Communications: From Basics to Advanced](https://coursemetry.com/wireless-communications-from-basics-to-advanced/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
