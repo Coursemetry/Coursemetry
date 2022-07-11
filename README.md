@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published so far on 2022-07-11**
+## **49 Udemy free courses published so far on 2022-07-11**
 
 * [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
 
@@ -75,6 +75,32 @@
 * [Business Analyst Masterclass with Excel & Google Data Studio](https://coursemetry.com/business-analyst-masterclass-with-excel-google-data-studio/)
 
 * [JavaScript And PHP Programming Complete Course](https://coursemetry.com/javascript-and-php-programming-complete-course/)
+
+* [English Grammar tenses & structures](https://coursemetry.com/english-grammar-tenses-structures/)
+
+* [Practice Test | Salesforce Platform Developer I](https://coursemetry.com/practice-test-salesforce-platform-developer-i/)
+
+* [Financial Accounting-Adjusting Entries & Financial Statement](https://coursemetry.com/financial-accounting-adjusting-entries-financial-statement/)
+
+* [Financial Accounting – Payroll](https://coursemetry.com/financial-accounting-payroll/)
+
+* [Leaflet praxisorientierte Datenvisualisierung OpenStreetMap](https://coursemetry.com/leaflet-praxisorientierte-datenvisualisierung-openstreetmap/)
+
+* [QuickBooks Payroll - QuickBooks Pro Desktop](https://coursemetry.com/quickbooks-payroll-quickbooks-pro-desktop/)
+
+* [Systemic Coaching the complete course](https://coursemetry.com/systemic-coaching-the-complete-course/)
+
+* [Financial Accounting – Closing Process](https://coursemetry.com/financial-accounting-closing-process/)
+
+* [DIY Arduino Wetterstation mit IoT Server Erstellung](https://coursemetry.com/diy-arduino-wetterstation-mit-iot-server-erstellung/)
+
+* [Human Resource Development the complete course](https://coursemetry.com/human-resource-development-the-complete-course/)
+
+* [Bank Reconciliations & Cash Internal Controls](https://coursemetry.com/bank-reconciliations-cash-internal-controls/)
+
+* [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
+
+* [QuickBooks Pro-Business & Personal-One QuickBooks File](https://coursemetry.com/quickbooks-pro-business-personal-one-quickbooks-file/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
