@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published so far on 2022-07-11**
+## **94 Udemy free courses published so far on 2022-07-11**
 
 * [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
 
@@ -147,6 +147,50 @@
 * [【最初にやるべき】CCNP ENARSI対策 Packet Tracerで学ぶハンズオン講座](https://coursemetry.com/%e3%80%90%e6%9c%80%e5%88%9d%e3%81%ab%e3%82%84%e3%82%8b%e3%81%b9%e3%81%8d%e3%80%91ccnp-enarsi%e5%af%be%e7%ad%96-packet-tracer%e3%81%a7%e5%ad%a6%e3%81%b6%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3/)
 
 * [Practice Exam | AI-900 : Azure AI Fundamentals](https://coursemetry.com/practice-exam-ai-900-azure-ai-fundamentals/)
+
+* [Supervised Machine Learning in Python : Regression Analysis](https://coursemetry.com/supervised-machine-learning-in-python-regression-analysis/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [Start Online Business with Affiliate Marketing](https://coursemetry.com/start-online-business-with-affiliate-marketing/)
+
+* [Practice Exam - Amazon AWS Certified Developer Associate](https://coursemetry.com/practice-exam-amazon-aws-certified-developer-associate/)
+
+* [Complete Guide to eBay Selling as a Business](https://coursemetry.com/complete-guide-to-ebay-selling-as-a-business/)
+
+* [Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://coursemetry.com/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/)
+
+* [Shopify eCommerce Store Masterclass - Start a Business!](https://coursemetry.com/shopify-ecommerce-store-masterclass-start-a-business/)
+
+* [Practice Exam -  AWS Certified Machine Learning Specialty](https://coursemetry.com/practice-exam-aws-certified-machine-learning-specialty/)
+
+* [Practice Exam | AZ-500 : Microsoft Azure Security](https://coursemetry.com/practice-exam-az-500-microsoft-azure-security/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Master the Basics of Google Sheets](https://coursemetry.com/master-the-basics-of-google-sheets/)
+
+* [Practice Exam  - AWS certified data analytics](https://coursemetry.com/practice-exam-aws-certified-data-analytics/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [Software Engineering Career Bootcamp: From intern to CXO](https://coursemetry.com/software-engineering-career-bootcamp-from-intern-to-cxo/)
+
+* [NOC Technician Fundamentals](https://coursemetry.com/noc-technician-fundamentals/)
+
+* [Build a Music Player App with C# and Visual Studio](https://coursemetry.com/build-a-music-player-app-with-c-and-visual-studio/)
+
+* [Print On Demand 101: Create a New Passive Income Source](https://coursemetry.com/print-on-demand-101-create-a-new-passive-income-source/)
+
+* [Adventure Works Database Crash Course](https://coursemetry.com/adventure-works-database-crash-course/)
+
+* [Build a Word Count App with Java and NetBeans](https://coursemetry.com/build-a-word-count-app-with-java-and-netbeans/)
+
+* [Spanish Conversation Course - Super Talk](https://coursemetry.com/spanish-conversation-course-super-talk/)
+
+* [How to Create a SQL Server Database: MSSQL | SSMS](https://coursemetry.com/how-to-create-a-sql-server-database-mssql-ssms/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
