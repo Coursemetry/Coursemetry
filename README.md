@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **129 Udemy free courses published so far on 2022-07-11**
+## **163 Udemy free courses published so far on 2022-07-11**
 
 * [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
 
@@ -261,6 +261,74 @@
 * [Agile Project Management: Agile, Scrum, Kanban & XP](https://coursemetry.com/agile-project-management-agile-scrum-kanban-xp/)
 
 * [P.O.W.E.R Resume System: Proven system to get job interviews](https://coursemetry.com/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/)
+
+* [Complete Introduction into Digital Marketing for Beginners](https://coursemetry.com/complete-introduction-into-digital-marketing-for-beginners/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-2/)
+
+* [JN0-103 ~ JNCIA Certified Network Associate Practice Exam](https://coursemetry.com/jn0-103-jncia-certified-network-associate-practice-exam/)
+
+* [300-435 ~ Automating Cisco Enterprise Solution Practice Test](https://coursemetry.com/300-435-automating-cisco-enterprise-solution-practice-test/)
+
+* [Curso Excel y Power BI – Análisis y Visualización de Datos](https://coursemetry.com/curso-excel-y-power-bi-analisis-y-visualizacion-de-datos/)
+
+* [300-420 ~ Designing Cisco Enterprise Network Practice Test](https://coursemetry.com/300-420-designing-cisco-enterprise-network-practice-test/)
+
+* [300-835 ~ Automating Cisco Collaboration Practice Test](https://coursemetry.com/300-835-automating-cisco-collaboration-practice-test/)
+
+* [4A0-M05 ~ Nokia Cloud Packet Core Practice Test](https://coursemetry.com/4a0-m05-nokia-cloud-packet-core-practice-test/)
+
+* [200-901 ~ Cisco DevNet Associate Practice Test](https://coursemetry.com/200-901-cisco-devnet-associate-practice-test/)
+
+* [350-801 ~ Implementing Cisco Collaboration Practice Test](https://coursemetry.com/350-801-implementing-cisco-collaboration-practice-test/)
+
+* [300-425 ~ Designing Cisco Wireless Network Practice Exam](https://coursemetry.com/300-425-designing-cisco-wireless-network-practice-exam/)
+
+* [500-052 ~ Deploying Cisco Unified Contact Center Test](https://coursemetry.com/500-052-deploying-cisco-unified-contact-center-test/)
+
+* [300-715 ~ Implementing and Configuring SISE Practice Test](https://coursemetry.com/300-715-implementing-and-configuring-sise-practice-test/)
+
+* [300-610 ~ Designing Cisco Data Center Infrastructure Test](https://coursemetry.com/300-610-designing-cisco-data-center-infrastructure-test/)
+
+* [300-635 ~ Automating Data Center Solutions Practice Test](https://coursemetry.com/300-635-automating-data-center-solutions-practice-test/)
+
+* [500-901 ~ Cisco Data Center Unified Computing Practice Test](https://coursemetry.com/500-901-cisco-data-center-unified-computing-practice-test/)
+
+* [300-820 ~ Implementing Cisco Collaboration Cloud Edge Test](https://coursemetry.com/300-820-implementing-cisco-collaboration-cloud-edge-test/)
+
+* [300-810 ~ Implementing Cisco Collaboration Practice Test](https://coursemetry.com/300-810-implementing-cisco-collaboration-practice-test/)
+
+* [AD0-E452 ~ Adobe Audience Manager Architect Practice Test](https://coursemetry.com/ad0-e452-adobe-audience-manager-architect-practice-test/)
+
+* [500-220 ~ Cisco Meraki Solutions Specialist Practice Test](https://coursemetry.com/500-220-cisco-meraki-solutions-specialist-practice-test/)
+
+* [500-275 ~ Securing Network with SourceFire FireAMP Test](https://coursemetry.com/500-275-securing-network-with-sourcefire-fireamp-test/)
+
+* [Build a Quiz App with HTML, CSS, and JavaScript](https://coursemetry.com/build-a-quiz-app-with-html-css-and-javascript/)
+
+* [HTML and CSS For Beginners in Nigerian Pidgin](https://coursemetry.com/html-and-css-for-beginners-in-nigerian-pidgin/)
+
+* [Build a Calculator app in ReactJS](https://coursemetry.com/build-a-calculator-app-in-reactjs/)
+
+* [Cisco ~ CYBEROPS + CBRCOR + CBRFIR Practice Exam](https://coursemetry.com/cisco-cyberops-cbrcor-cbrfir-practice-exam/)
+
+* [500-440 ~ Cisco Unified Contact Center Practice Test](https://coursemetry.com/500-440-cisco-unified-contact-center-practice-test/)
+
+* [The Advanced SQL Course](https://coursemetry.com/the-advanced-sql-course/)
+
+* [300-410 ~ CCNP Enterprise ENARSI Practice Exam](https://coursemetry.com/300-410-ccnp-enterprise-enarsi-practice-exam/)
+
+* [The Comprehensive SQL Course](https://coursemetry.com/the-comprehensive-sql-course/)
+
+* [350-801 ~ Cisco Collaboration Technologies Practice Test](https://coursemetry.com/350-801-cisco-collaboration-technologies-practice-test/)
+
+* [350-401 ~ CCNP Enterprise ENCOR Core Practice Exam](https://coursemetry.com/350-401-ccnp-enterprise-encor-core-practice-exam/)
+
+* [200-301 ~ Cisco Certified Network Associate Practice Test](https://coursemetry.com/200-301-cisco-certified-network-associate-practice-test/)
+
+* [350-601 ~ Cisco DCCOR Data Center Technologies Practice Test](https://coursemetry.com/350-601-cisco-dccor-data-center-technologies-practice-test/)
+
+* [350-701 ~ CCNP Security SCOR Technologies Practice Test](https://coursemetry.com/350-701-ccnp-security-scor-technologies-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
