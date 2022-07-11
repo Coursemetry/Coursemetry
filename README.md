@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published so far on 2022-07-11**
+## **72 Udemy free courses published so far on 2022-07-11**
 
 * [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
 
@@ -101,6 +101,52 @@
 * [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
 
 * [QuickBooks Pro-Business & Personal-One QuickBooks File](https://coursemetry.com/quickbooks-pro-business-personal-one-quickbooks-file/)
+
+* [Hikaye Çevirerek Çince Öğreniyoruz  - Seviye HSK 1](https://coursemetry.com/hikaye-cevirerek-cince-ogreniyoruz-seviye-hsk-1/)
+
+* [Çince HSK 2 Kursu: Konu Anlatımı ve HSK Soru Çözümleri](https://coursemetry.com/cince-hsk-2-kursu-konu-anlatimi-ve-hsk-soru-cozumleri/)
+
+* [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
+
+* [【超絶入門】CCNA対策 Packet Tracerで学ぶ ハンズオン講座](https://coursemetry.com/%e3%80%90%e8%b6%85%e7%b5%b6%e5%85%a5%e9%96%80%e3%80%91ccna%e5%af%be%e7%ad%96-packet-tracer%e3%81%a7%e5%ad%a6%e3%81%b6-%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3%e8%ac%9b%e5%ba%a7/)
+
+* [Income Tax – Schedule C Small Business Sole Proprietor](https://coursemetry.com/income-tax-schedule-c-small-business-sole-proprietor/)
+
+* [Relevant Costs - Managerial Accounting Decisions & Scenarios](https://coursemetry.com/relevant-costs-managerial-accounting-decisions-scenarios/)
+
+* [Time Value of Money & Capital Budgeting - Present Value](https://coursemetry.com/time-value-of-money-capital-budgeting-present-value/)
+
+* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+
+* [القواعد الاساسيه لعلم النحو](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d9%86%d8%ad%d9%88/)
+
+* [Flexible Budgets, Standard Costs, & Variance Analysis](https://coursemetry.com/flexible-budgets-standard-costs-variance-analysis/)
+
+* [Moodle Security, de Cero a Experto](https://coursemetry.com/moodle-security-de-cero-a-experto/)
+
+* [QuickBooks Payroll - QuickBooks Online](https://coursemetry.com/quickbooks-payroll-quickbooks-online/)
+
+* [İleri Düzey Bilgilendirici İngilizce Metin Çevirileri](https://coursemetry.com/ileri-duzey-bilgilendirici-ingilizce-metin-cevirileri/)
+
+* [Cost Volume Profit Analysis (CVP) – Managerial Accounting](https://coursemetry.com/cost-volume-profit-analysis-cvp-managerial-accounting/)
+
+* [Tax Credits - Family & Dependent Tax Credits](https://coursemetry.com/tax-credits-family-dependent-tax-credits/)
+
+* [QuickBooks Online-Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-online-bookkeeping-business-easy-way/)
+
+* [Process Costing System-Cost Accounting-Managerial Accounting](https://coursemetry.com/process-costing-system-cost-accounting-managerial-accounting/)
+
+* [Education Tax Credits & Education Tax Benefits](https://coursemetry.com/education-tax-credits-education-tax-benefits/)
+
+* [English Reading Practice Set for Beginners-2](https://coursemetry.com/english-reading-practice-set-for-beginners-2/)
+
+* [Podcast Storytelling Masterclass](https://coursemetry.com/podcast-storytelling-masterclass/)
+
+* [Income Tax-Business Use of Home Deduction](https://coursemetry.com/income-tax-business-use-of-home-deduction/)
+
+* [【最初にやるべき】CCNP ENARSI対策 Packet Tracerで学ぶハンズオン講座](https://coursemetry.com/%e3%80%90%e6%9c%80%e5%88%9d%e3%81%ab%e3%82%84%e3%82%8b%e3%81%b9%e3%81%8d%e3%80%91ccnp-enarsi%e5%af%be%e7%ad%96-packet-tracer%e3%81%a7%e5%ad%a6%e3%81%b6%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3/)
+
+* [Practice Exam | AI-900 : Azure AI Fundamentals](https://coursemetry.com/practice-exam-ai-900-azure-ai-fundamentals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
