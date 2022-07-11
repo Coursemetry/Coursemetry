@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **107 Udemy free courses published so far on 2022-07-11**
+## **129 Udemy free courses published so far on 2022-07-11**
 
 * [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
 
@@ -53,8 +53,6 @@
 * [AWS Certified Database - Specialty Tests 2022](https://coursemetry.com/aws-certified-database-specialty-tests-2022/)
 
 * [AWS Certified Cloud Practitioner Practice Tests 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-tests-2022-2/)
-
-* [Secrets to Write a Copy that Sells like Crazy-Freelance copy](https://coursemetry.com/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/)
 
 * [Dare to Lead: How to Become a Next Generation Leader](https://coursemetry.com/dare-to-lead-how-to-become-a-next-generation-leader/)
 
@@ -217,6 +215,52 @@
 * [Bjorn App android publicitaria en Xamarin forms y Firebase](https://coursemetry.com/bjorn-app-android-publicitaria-en-xamarin-forms-y-firebase/)
 
 * [KEYNOTE, la potente herramienta para crear contenido digital](https://coursemetry.com/keynote-la-potente-herramienta-para-crear-contenido-digital/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+
+* [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
+
+* [Industrial Cyber Security Controls from IEC62443 for ICS/OT](https://coursemetry.com/industrial-cyber-security-controls-from-iec62443-for-ics-ot/)
+
+* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
+
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
+
+* [Video For Stills Photographers | Shoot Cinematic Video](https://coursemetry.com/video-for-stills-photographers-shoot-cinematic-video/)
+
+* [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
+
+* [Complete Adobe After Effects Megacourse: Beginner to Expert](https://coursemetry.com/complete-adobe-after-effects-megacourse-beginner-to-expert/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [general mycology a brief review](https://coursemetry.com/general-mycology-a-brief-review/)
+
+* [Effective Communication English](https://coursemetry.com/effective-communication-english/)
+
+* [Secrets to Write a Copy that Sells like Crazy-Freelance copy](https://coursemetry.com/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/)
+
+* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+
+* [Passive Income: 27 Ways to Earn Passive Income Online](https://coursemetry.com/passive-income-27-ways-to-earn-passive-income-online/)
+
+* [SEO Training 2022: Complete SEO Course & WordPress SEO Yoast](https://coursemetry.com/seo-training-2022-complete-seo-course-wordpress-seo-yoast/)
+
+* [DIETA KETO de Principiante a HEROE](https://coursemetry.com/dieta-keto-de-principiante-a-heroe/)
+
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
+
+* [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
+
+* [Sketchup Pro 2020: Desde cero, vuélvete un experto](https://coursemetry.com/sketchup-pro-2020-desde-cero-vuelvete-un-experto/)
+
+* [Environment and Ethics: A Basic Course](https://coursemetry.com/environment-and-ethics-a-basic-course/)
+
+* [Agile Project Management: Agile, Scrum, Kanban & XP](https://coursemetry.com/agile-project-management-agile-scrum-kanban-xp/)
+
+* [P.O.W.E.R Resume System: Proven system to get job interviews](https://coursemetry.com/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
