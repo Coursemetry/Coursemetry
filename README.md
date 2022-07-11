@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published so far on 2022-07-11**
+## **107 Udemy free courses published so far on 2022-07-11**
 
 * [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
 
@@ -199,6 +199,24 @@
 * [Consulting Business Success](https://coursemetry.com/consulting-business-success/)
 
 * [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [Process Mapping: Toolkit](https://coursemetry.com/process-mapping-toolkit/)
+
+* [Sistema de asistencias en C# y SQLserver desde 0](https://coursemetry.com/sistema-de-asistencias-en-c-y-sqlserver-desde-0/)
+
+* [القواعد الأساسيه للإملاء](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d9%84%d8%a5%d9%85%d9%84%d8%a7%d8%a1/)
+
+* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
+
+* [Master Visual Scripting in Unity by Making Advanced Games](https://coursemetry.com/master-visual-scripting-in-unity-by-making-advanced-games/)
+
+* [App android y Sistema para Karaoke en Xamarin Forms](https://coursemetry.com/app-android-y-sistema-para-karaoke-en-xamarin-forms/)
+
+* [Complete Modeling Guide: Cinema 4D S24](https://coursemetry.com/complete-modeling-guide-cinema-4d-s24/)
+
+* [Bjorn App android publicitaria en Xamarin forms y Firebase](https://coursemetry.com/bjorn-app-android-publicitaria-en-xamarin-forms-y-firebase/)
+
+* [KEYNOTE, la potente herramienta para crear contenido digital](https://coursemetry.com/keynote-la-potente-herramienta-para-crear-contenido-digital/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
