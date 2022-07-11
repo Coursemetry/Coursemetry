@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published so far on 2022-07-11**
+## **98 Udemy free courses published so far on 2022-07-11**
 
 * [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
 
@@ -191,6 +191,14 @@
 * [Spanish Conversation Course - Super Talk](https://coursemetry.com/spanish-conversation-course-super-talk/)
 
 * [How to Create a SQL Server Database: MSSQL | SSMS](https://coursemetry.com/how-to-create-a-sql-server-database-mssql-ssms/)
+
+* [AZ-204 Mock Tests - Updated May - 2022](https://coursemetry.com/az-204-mock-tests-updated-may-2022/)
+
+* [Practice Exam | ITIL 4 Foundation](https://coursemetry.com/practice-exam-itil-4-foundation/)
+
+* [Consulting Business Success](https://coursemetry.com/consulting-business-success/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
