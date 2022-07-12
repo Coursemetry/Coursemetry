@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published so far on 2022-07-12**
+## **57 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -109,6 +109,14 @@
 * [Java Collections Framework + Generics, Lambdas & Stream API](https://coursemetry.com/java-collections-framework-generics-lambdas-stream-api/)
 
 * [Das Google Ads Kompendium 2022: Von Search- bis Display-Ads](https://coursemetry.com/das-google-ads-kompendium-2022-von-search-bis-display-ads/)
+
+* [Software architecture](https://coursemetry.com/software-architecture/)
+
+* [Software Engineering: Roles, Responsibilites and Industry](https://coursemetry.com/software-engineering-roles-responsibilites-and-industry/)
+
+* [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
+
+* [Free Alternatives to Microsoft Office Suite](https://coursemetry.com/free-alternatives-to-microsoft-office-suite/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
