@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published so far on 2022-07-12**
+## **69 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -117,6 +117,30 @@
 * [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
 
 * [Free Alternatives to Microsoft Office Suite](https://coursemetry.com/free-alternatives-to-microsoft-office-suite/)
+
+* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
+
+* [Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor](https://coursemetry.com/job-cost-quickbooks-online-vs-quickbooks-desktop-contractor/)
+
+* [QuickBooks Desktop Not for Profit Organizations](https://coursemetry.com/quickbooks-desktop-not-for-profit-organizations/)
+
+* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [QuickBooks Online 2022 & 2021 Start to Finish](https://coursemetry.com/quickbooks-online-2022-2021-start-to-finish/)
+
+* [Governmental Accounting 300 Proprietary & Fiduciary Funds](https://coursemetry.com/governmental-accounting-300-proprietary-fiduciary-funds/)
+
+* [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
+
+* [QuickBooks Pro Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2022-2021-2020/)
+
+* [QuickBooks Desktop Job Costing](https://coursemetry.com/quickbooks-desktop-job-costing/)
+
+* [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
+
+* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
