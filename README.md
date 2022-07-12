@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published so far on 2022-07-12**
+## **102 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -141,6 +141,72 @@
 * [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
 
 * [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+
+* [Master your content for busy entrepreneurs](https://coursemetry.com/master-your-content-for-busy-entrepreneurs/)
+
+* [MSBI , SSIS,SSAS and SSRS Interview Questions & Answers](https://coursemetry.com/msbi-ssisssas-and-ssrs-interview-questions-answers/)
+
+* [Journal your way to your dream life](https://coursemetry.com/journal-your-way-to-your-dream-life/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [How to Build Neural Networks in Python](https://coursemetry.com/how-to-build-neural-networks-in-python/)
+
+* [Genetic Algorithms, VAE & GANs, RBM in DNNs- An Introduction](https://coursemetry.com/genetic-algorithms-vae-gans-rbm-in-dnns-an-introduction/)
+
+* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
+
+* [Mindset makeover - from distraction to action](https://coursemetry.com/mindset-makeover-from-distraction-to-action/)
+
+* [Learn Microsoft SQL Server from Scratch](https://coursemetry.com/learn-microsoft-sql-server-from-scratch/)
+
+* [Money In Excel - Income Tax Sch. C & Personal Financials](https://coursemetry.com/money-in-excel-income-tax-sch-c-personal-financials/)
+
+* [Success tips for busy entrepreneurs- live your best life now](https://coursemetry.com/success-tips-for-busy-entrepreneurs-live-your-best-life-now/)
+
+* [Unshakable self confidence for busy entrepreneurs](https://coursemetry.com/unshakable-self-confidence-for-busy-entrepreneurs/)
+
+* [Çince HSK 4 Kursu: Konu Anlatımı ve HSK Soru Çözümleri](https://coursemetry.com/cince-hsk-4-kursu-konu-anlatimi-ve-hsk-soru-cozumleri/)
+
+* [Project Management Crash Course in 60 Minutes](https://coursemetry.com/project-management-crash-course-in-60-minutes/)
+
+* [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
+
+* [Personal Finance](https://coursemetry.com/personal-finance/)
+
+* [Excel Accounting Problem](https://coursemetry.com/excel-accounting-problem/)
+
+* [Excellence in Product and Brand Management](https://coursemetry.com/excellence-in-product-and-brand-management/)
+
+* [B1-B2 Seviyesinde Hikayeler Çevirerek İngilizce Öğreniyoruz](https://coursemetry.com/b1-b2-seviyesinde-hikayeler-cevirerek-ingilizce-ogreniyoruz/)
+
+* [İngilizce kursu:  BBC Haberleri Çevirerek İngilizce Öğren](https://coursemetry.com/ingilizce-kursu-bbc-haberleri-cevirerek-ingilizce-ogren/)
+
+* [A Wholesome Course for Presentation Skills & Slide Writing](https://coursemetry.com/a-wholesome-course-for-presentation-skills-slide-writing/)
+
+* [Çince HSK 3 Kursu: Konu Anlatımı ve HSK Soru Çözümleri](https://coursemetry.com/cince-hsk-3-kursu-konu-anlatimi-ve-hsk-soru-cozumleri/)
+
+* [İlgi Çekici Hikayeler Çevirerek İngilizce Öğreniyoruz A1-A2](https://coursemetry.com/ilgi-cekici-hikayeler-cevirerek-ingilizce-ogreniyoruz-a1-a2/)
+
+* [English Grammar tenses & structures](https://coursemetry.com/english-grammar-tenses-structures/)
+
+* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
+
+* [Master Persuasion & Influence: Hypnotic Communication Skills](https://coursemetry.com/master-persuasion-influence-hypnotic-communication-skills/)
+
+* [Goal setting for success seekers - set the right goals](https://coursemetry.com/goal-setting-for-success-seekers-set-the-right-goals/)
+
+* [Plan your best life - planning strategies that work](https://coursemetry.com/plan-your-best-life-planning-strategies-that-work/)
+
+* [Personal Capital Free Financial Planner Application](https://coursemetry.com/personal-capital-free-financial-planner-application/)
+
+* [Residential Rental Property Tax Preparation 2021-2022](https://coursemetry.com/residential-rental-property-tax-preparation-2021-2022/)
+
+* [Build a Currency Converter App with Python](https://coursemetry.com/build-a-currency-converter-app-with-python/)
+
+* [Spycraft Skills](https://coursemetry.com/spycraft-skills/)
+
+* [Python  Database Connection: Connect Python App to MySQL](https://coursemetry.com/python-database-connection-connect-python-app-to-mysql/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
