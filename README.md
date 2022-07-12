@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **104 Udemy free courses published so far on 2022-07-12**
+## **134 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -211,6 +211,66 @@
 * [learn bootstrap 5 and tailwind from scratch with project](https://coursemetry.com/learn-bootstrap-5-and-tailwind-from-scratch-with-project/)
 
 * [A1 German Language Practice Test [With FREE E-Book]](https://coursemetry.com/a1-german-language-practice-test-with-free-e-book/)
+
+* [Facebook Page & Facebook Ads Made as Fun: 11 Days Challenge](https://coursemetry.com/facebook-page-facebook-ads-made-as-fun-11-days-challenge/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [Advanced Financial Accounting](https://coursemetry.com/advanced-financial-accounting/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Reality Transmuting:Past the Law of Attraction & Manifesting](https://coursemetry.com/reality-transmutingpast-the-law-of-attraction-manifesting/)
+
+* [Strategic Ways to Build a Successful Business on Youtube!](https://coursemetry.com/strategic-ways-to-build-a-successful-business-on-youtube/)
+
+* [The Art of Business Brand Storytelling](https://coursemetry.com/the-art-of-business-brand-storytelling/)
+
+* [Creating Video Lessons with Online Video Maker InVideo](https://coursemetry.com/creating-video-lessons-with-online-video-maker-invideo/)
+
+* [İleri Bilgisayar İşletmenliği Kursu | 2022 | Sertifikalı](https://coursemetry.com/ileri-bilgisayar-isletmenligi-kursu-2022-sertifikali/)
+
+* [Webinar Mastery - Sell High Ticket Products!](https://coursemetry.com/webinar-mastery-sell-high-ticket-products/)
+
+* [How to VLOG 2022 : Complete Beginners Course +YouTube](https://coursemetry.com/how-to-vlog-2022-complete-beginners-course-youtube/)
+
+* [230+ Exercises - Python for Data Science - NumPy + Pandas](https://coursemetry.com/230-exercises-python-for-data-science-numpy-pandas/)
+
+* [Master Python Programming (Arabic)](https://coursemetry.com/master-python-programming-arabic/)
+
+* [Google Professional Cloud Architect & Data Engineer Pack](https://coursemetry.com/google-professional-cloud-architect-data-engineer-pack/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [Java ile Nesne-Merkezli Programlamaya Giriş](https://coursemetry.com/java-ile-nesne-merkezli-programlamaya-giris/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [Learn to Edit Video FAST! Adobe Premiere Pro 2022 StepByStep](https://coursemetry.com/learn-to-edit-video-fast-adobe-premiere-pro-2022-stepbystep/)
+
+* [Bilgisayar Öğretmeninden, Python Kursu](https://coursemetry.com/bilgisayar-ogretmeninden-python-kursu/)
+
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
+
+* [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
+
+* [Corporate Finance](https://coursemetry.com/corporate-finance/)
+
+* [Simulador 156-115.77 Check Point Certified Security Master](https://coursemetry.com/simulador-156-115-77-check-point-certified-security-master/)
+
+* [Test SC-400: Microsoft Information Protection Administrator](https://coursemetry.com/test-sc-400-microsoft-information-protection-administrator/)
+
+* [Google Associate Cloud Engineer (GCP) Test Sets](https://coursemetry.com/google-associate-cloud-engineer-gcp-test-sets/)
+
+* [Mastering Energy and Power System Optimization in GAMS](https://coursemetry.com/mastering-energy-and-power-system-optimization-in-gams/)
+
+* [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
+
+* [Database Migration:  MySQL To Microsoft  SQL Server](https://coursemetry.com/database-migration-mysql-to-microsoft-sql-server/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
