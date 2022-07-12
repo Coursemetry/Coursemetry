@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **170 Udemy free courses published so far on 2022-07-12**
+## **172 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -343,6 +343,10 @@
 * [Facebook Ads 2022. ¡Para Principiantes y Expertos!](https://coursemetry.com/facebook-ads-2022-para-principiantes-y-expertos/)
 
 * [Human Resource Management Hands-on with Case Studies](https://coursemetry.com/human-resource-management-hands-on-with-case-studies/)
+
+* [Python: Step by Step with projects 0 to Hero for Beginners](https://coursemetry.com/python-step-by-step-with-projects-0-to-hero-for-beginners/)
+
+* [Project Management : Kickoff Your Project Manager Career](https://coursemetry.com/project-management-kickoff-your-project-manager-career/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
