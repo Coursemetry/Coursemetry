@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **134 Udemy free courses published so far on 2022-07-12**
+## **140 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -271,6 +271,18 @@
 * [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
 
 * [Database Migration:  MySQL To Microsoft  SQL Server](https://coursemetry.com/database-migration-mysql-to-microsoft-sql-server/)
+
+* [Escuela de Python 2021: Aprende Python 3.9+ de cero a Master](https://coursemetry.com/escuela-de-python-2021-aprende-python-3-9-de-cero-a-master/)
+
+* [Digital Voice Cloning using Artificial Intelligence in 2022](https://coursemetry.com/digital-voice-cloning-using-artificial-intelligence-in-2022/)
+
+* [Artificial Intelligence in Video Creation: Supreme Edition](https://coursemetry.com/artificial-intelligence-in-video-creation-supreme-edition/)
+
+* [Viral YouTube Marketing - Crash Course + Live Class](https://coursemetry.com/viral-youtube-marketing-crash-course-live-class/)
+
+* [Artificial Intelligence Music Creation (2022 New Edition)](https://coursemetry.com/artificial-intelligence-music-creation-2022-new-edition/)
+
+* [Futuristic Digital Marketing Course: 2022 Student Edition](https://coursemetry.com/futuristic-digital-marketing-course-2022-student-edition/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
