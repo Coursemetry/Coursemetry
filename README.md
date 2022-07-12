@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **140 Udemy free courses published so far on 2022-07-12**
+## **159 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -283,6 +283,44 @@
 * [Artificial Intelligence Music Creation (2022 New Edition)](https://coursemetry.com/artificial-intelligence-music-creation-2022-new-edition/)
 
 * [Futuristic Digital Marketing Course: 2022 Student Edition](https://coursemetry.com/futuristic-digital-marketing-course-2022-student-edition/)
+
+* [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
+
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
+* [Complete Japanese Course: Learn Japanese for Beginners](https://coursemetry.com/complete-japanese-course-learn-japanese-for-beginners/)
+
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
+
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 1](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-1/)
+
+* [Complete Unity 2D and C# Game Developer Megacourse](https://coursemetry.com/complete-unity-2d-and-c-game-developer-megacourse/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
+
+* [La Resiliencia: Un Recurso Potencial para tu Crecimiento](https://coursemetry.com/la-resiliencia-un-recurso-potencial-para-tu-crecimiento/)
+
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
+
+* [Critical Path Method (CPM) as don't know before](https://coursemetry.com/critical-path-method-cpm-as-dont-know-before/)
+
+* [Google Spreadsheets: Empieza desde cero](https://coursemetry.com/google-spreadsheets-empieza-desde-cero/)
+
+* [10x Your Social Skills & Connect With People](https://coursemetry.com/10x-your-social-skills-connect-with-people/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun](https://coursemetry.com/seo-training-for-beginners-learn-seo-local-seo-fast-fun/)
+
+* [The Ultimate Text-To-Video Creation Course (2022 Edition)](https://coursemetry.com/the-ultimate-text-to-video-creation-course-2022-edition/)
+
+* [Coding interview prep: Software engineering perspective](https://coursemetry.com/coding-interview-prep-software-engineering-perspective/)
+
+* [MongoDB: Aprende desde cero a experto](https://coursemetry.com/mongodb-aprende-desde-cero-a-experto/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
