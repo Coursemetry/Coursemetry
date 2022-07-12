@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published so far on 2022-07-12**
+## **104 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -207,6 +207,10 @@
 * [Spycraft Skills](https://coursemetry.com/spycraft-skills/)
 
 * [Python  Database Connection: Connect Python App to MySQL](https://coursemetry.com/python-database-connection-connect-python-app-to-mysql/)
+
+* [learn bootstrap 5 and tailwind from scratch with project](https://coursemetry.com/learn-bootstrap-5-and-tailwind-from-scratch-with-project/)
+
+* [A1 German Language Practice Test [With FREE E-Book]](https://coursemetry.com/a1-german-language-practice-test-with-free-e-book/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
