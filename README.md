@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **159 Udemy free courses published so far on 2022-07-12**
+## **170 Udemy free courses published so far on 2022-07-12**
 
 * [Certification in Gestalt Psychotherapy- Fully Accredited](https://coursemetry.com/certification-in-gestalt-psychotherapy-fully-accredited/)
 
@@ -321,6 +321,28 @@
 * [Coding interview prep: Software engineering perspective](https://coursemetry.com/coding-interview-prep-software-engineering-perspective/)
 
 * [MongoDB: Aprende desde cero a experto](https://coursemetry.com/mongodb-aprende-desde-cero-a-experto/)
+
+* [Amazon AWS-SysOps Administrator Exam Practice Questions 2022](https://coursemetry.com/amazon-aws-sysops-administrator-exam-practice-questions-2022-2/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Personality Development and Body Languages Learning](https://coursemetry.com/personality-development-and-body-languages-learning/)
+
+* [Search Engine Optimization - Introductory Course](https://coursemetry.com/search-engine-optimization-introductory-course/)
+
+* [Learn Digital Marketing Practically from Case Studies](https://coursemetry.com/learn-digital-marketing-practically-from-case-studies/)
+
+* [Learn SEO from Case Studies](https://coursemetry.com/learn-seo-from-case-studies/)
+
+* [Parallax Web Development Training](https://coursemetry.com/parallax-web-development-training/)
+
+* [Microsoft applications explained - Beginner's Guide](https://coursemetry.com/microsoft-applications-explained-beginners-guide/)
+
+* [Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course](https://coursemetry.com/facebook-instagram-dynamic-ads-dynamic-retargeting-course/)
+
+* [Facebook Ads 2022. ¡Para Principiantes y Expertos!](https://coursemetry.com/facebook-ads-2022-para-principiantes-y-expertos/)
+
+* [Human Resource Management Hands-on with Case Studies](https://coursemetry.com/human-resource-management-hands-on-with-case-studies/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
