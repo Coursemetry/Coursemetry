@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **83 Udemy free courses published so far on 2022-07-14**
+## **92 Udemy free courses published so far on 2022-07-14**
 
 * [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
@@ -169,6 +169,24 @@
 * [Winning Communication Skills for Telephone, Conference Calls](https://coursemetry.com/winning-communication-skills-for-telephone-conference-calls/)
 
 * [Persuasion in Business Communications](https://coursemetry.com/persuasion-in-business-communications/)
+
+* [Make Your Excel Look Like a Standalone Program](https://coursemetry.com/make-your-excel-look-like-a-standalone-program/)
+
+* [Personal Branding System: UNIQUE Secret for YOUR Success](https://coursemetry.com/personal-branding-system-unique-secret-for-your-success/)
+
+* [The Ultimate Voice to 3D Animation Course (2022 Edition)](https://coursemetry.com/the-ultimate-voice-to-3d-animation-course-2022-edition/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [Google Professional Cloud Architect & Data Engineer Pack](https://coursemetry.com/google-professional-cloud-architect-data-engineer-pack/)
+
+* [Certified Professional in Python Programming - Practice Test](https://coursemetry.com/certified-professional-in-python-programming-practice-test/)
+
+* [2022 Become A Certified React Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-react-developer-practice-tests/)
+
+* [2022 Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-node-js-developer-practice-tests/)
+
+* [2022 Become A Certified JavaScript Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-javascript-developer-practice-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
