@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published so far on 2022-07-14**
+## **134 Udemy free courses published so far on 2022-07-14**
 
 * [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
@@ -207,6 +207,70 @@
 * [Podcast Audience Growth - Networking with your Guests](https://coursemetry.com/podcast-audience-growth-networking-with-your-guests/)
 
 * [Ultimate Tabata Abs 3 week training](https://coursemetry.com/ultimate-tabata-abs-3-week-training/)
+
+* [Complete WiFi Hacking Course: Beginner to Advanced](https://coursemetry.com/complete-wifi-hacking-course-beginner-to-advanced/)
+
+* [AZ-800 Windows Server Hybrid Core Infrastructure : Mock Test](https://coursemetry.com/az-800-windows-server-hybrid-core-infrastructure-mock-test/)
+
+* [Google Associate Cloud Engineer - GCP ACE - Exams - 2022](https://coursemetry.com/google-associate-cloud-engineer-gcp-ace-exams-2022/)
+
+* [Poetry and music appreciation: refine your taste in music](https://coursemetry.com/poetry-and-music-appreciation-refine-your-taste-in-music/)
+
+* [Oracle or Tarot Cards? Quick Start Guide: Choosing Your Deck](https://coursemetry.com/oracle-or-tarot-cards-quick-start-guide-choosing-your-deck/)
+
+* [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
+
+* [Business Development: Grow With Strategic Relationships](https://coursemetry.com/business-development-grow-with-strategic-relationships/)
+
+* [How to use Google drive, Onedrive, Dropbox and Mega](https://coursemetry.com/how-to-use-google-drive-onedrive-dropbox-and-mega/)
+
+* [How I Got 1k Followers In 1 Day With TikTok Marketing & Ads](https://coursemetry.com/how-i-got-1k-followers-in-1-day-with-tiktok-marketing-ads/)
+
+* [Google Professional Cloud Developer - GCP PCD - Exams - 2022](https://coursemetry.com/google-professional-cloud-developer-gcp-pcd-exams-2022/)
+
+* [DJI Aerial Cinematography: A Beginner's Guide](https://coursemetry.com/dji-aerial-cinematography-a-beginners-guide/)
+
+* [Blockchain & NFTs with DataDog & Cyber Kill Chain (Incl.)](https://coursemetry.com/blockchain-nfts-with-datadog-cyber-kill-chain-incl/)
+
+* [Google Professional Data Engineer & Cloud Developer Pack](https://coursemetry.com/google-professional-data-engineer-cloud-developer-pack/)
+
+* [English grammar tenses & structures, the ultimate course](https://coursemetry.com/english-grammar-tenses-structures-the-ultimate-course/)
+
+* [Market Research: Marketing Psychology & Consumer Behavior](https://coursemetry.com/market-research-marketing-psychology-consumer-behavior/)
+
+* [PMI-ACP: Agile Certified Project Management 200 Questions](https://coursemetry.com/pmi-acp-agile-certified-project-management-200-questions/)
+
+* [PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://coursemetry.com/pspo1-practice-tests-scrum-product-owner-certification-160q/)
+
+* [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
+
+* [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
+
+* [MERN Stack with Blog Project](https://coursemetry.com/mern-stack-with-blog-project/)
+
+* [PMP Revision Course _ECO 2021](https://coursemetry.com/pmp-revision-course-_eco-2021/)
+
+* [Fedora Linux from Scratch](https://coursemetry.com/fedora-linux-from-scratch/)
+
+* [Storytelling With Imagery For Persuasion & Personal Brand](https://coursemetry.com/storytelling-with-imagery-for-persuasion-personal-brand/)
+
+* [Assertiveness Training & Assertive Communication Improvement](https://coursemetry.com/assertiveness-training-assertive-communication-improvement/)
+
+* [Deploy and Manage Citrix ADC 13 with Traffic Management Exam](https://coursemetry.com/deploy-and-manage-citrix-adc-13-with-traffic-management-exam/)
+
+* [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
+
+* [Microsoft AZ-104: Azure Administrator Exam Prep Test](https://coursemetry.com/microsoft-az-104-azure-administrator-exam-prep-test/)
+
+* [Curso Completo de Letras de Rap Freestyle de Cero a Héroe](https://coursemetry.com/curso-completo-de-letras-de-rap-freestyle-de-cero-a-heroe/)
+
+* [AWS certified Data Analytics Specialty Exam Preparation 2022](https://coursemetry.com/aws-certified-data-analytics-specialty-exam-preparation-2022/)
+
+* [Escuela de Programación y Desarrollo Web desde cero a Master](https://coursemetry.com/escuela-de-programacion-y-desarrollo-web-desde-cero-a-master/)
+
+* [Jetpack 1.0: Artificial Intelligence and Automation in HR](https://coursemetry.com/jetpack-1-0-artificial-intelligence-and-automation-in-hr/)
+
+* [MLOps Certification- Basics, Deployment & Vertex AI/ Grafana](https://coursemetry.com/mlops-certification-basics-deployment-vertex-ai-grafana/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
