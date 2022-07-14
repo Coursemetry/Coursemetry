@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **41 Udemy free courses published so far on 2022-07-14**
+## **49 Udemy free courses published so far on 2022-07-14**
 
 * [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
@@ -85,6 +85,22 @@
 * [Build a Quiz App with HTML, CSS, and JavaScript](https://coursemetry.com/build-a-quiz-app-with-html-css-and-javascript/)
 
 * [HTML and CSS For Beginners in Nigerian Pidgin](https://coursemetry.com/html-and-css-for-beginners-in-nigerian-pidgin/)
+
+* [EMDR Practitioner Toolbox - Treatment of Complex PTSD](https://coursemetry.com/emdr-practitioner-toolbox-treatment-of-complex-ptsd/)
+
+* [Schema psychotherapy for Borderline Personality Disorder BPD](https://coursemetry.com/schema-psychotherapy-for-borderline-personality-disorder-bpd/)
+
+* [Time Management & Productivity for Effective Time Management](https://coursemetry.com/time-management-productivity-for-effective-time-management/)
+
+* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/)
+
+* [OpenCV and Java: Build a Webcam Biofeedback Game](https://coursemetry.com/opencv-and-java-build-a-webcam-biofeedback-game/)
+
+* [Project Management Essential Training](https://coursemetry.com/project-management-essential-training/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [Ultrasonic Testing Level 1 Training](https://coursemetry.com/ultrasonic-testing-level-1-training/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
