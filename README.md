@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **33 Udemy free courses published so far on 2022-07-14**
+## **41 Udemy free courses published so far on 2022-07-14**
 
 * [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
@@ -69,6 +69,22 @@
 * [Build A Search Engine With Python: Computer Science & Python](https://coursemetry.com/build-a-search-engine-with-python-computer-science-python/)
 
 * [Practical MongoDB + PHP: For Absolute Beginners](https://coursemetry.com/practical-mongodb-php-for-absolute-beginners/)
+
+* [Curso básico de SASS, CSS3, HTML5 y jQuery creando un sitio](https://coursemetry.com/curso-basico-de-sass-css3-html5-y-jquery-creando-un-sitio/)
+
+* [Crea tu propio framework profesional MVC con PHP POO MySQL](https://coursemetry.com/crea-tu-propio-framework-profesional-mvc-con-php-poo-mysql/)
+
+* [Ethical Hacker v11 Exam Practice Questions](https://coursemetry.com/ethical-hacker-v11-exam-practice-questions/)
+
+* [Crea una librería de juegos con PHP MySQL AJAX y 2 proyectos](https://coursemetry.com/crea-una-libreria-de-juegos-con-php-mysql-ajax-y-2-proyectos/)
+
+* [Crea un sistema cotizador y aprende PHP Javascript y AJAX](https://coursemetry.com/crea-un-sistema-cotizador-y-aprende-php-javascript-y-ajax/)
+
+* [Build a Calculator app in ReactJS](https://coursemetry.com/build-a-calculator-app-in-reactjs/)
+
+* [Build a Quiz App with HTML, CSS, and JavaScript](https://coursemetry.com/build-a-quiz-app-with-html-css-and-javascript/)
+
+* [HTML and CSS For Beginners in Nigerian Pidgin](https://coursemetry.com/html-and-css-for-beginners-in-nigerian-pidgin/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
