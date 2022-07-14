@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published so far on 2022-07-14**
+## **102 Udemy free courses published so far on 2022-07-14**
 
 * [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
@@ -187,6 +187,26 @@
 * [2022 Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-node-js-developer-practice-tests/)
 
 * [2022 Become A Certified JavaScript Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-javascript-developer-practice-tests/)
+
+* [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [Graph Neural Networks: Basics, Codes and Simulations for AI](https://coursemetry.com/graph-neural-networks-basics-codes-and-simulations-for-ai/)
+
+* [Object Oriented php: build real world project using OOP](https://coursemetry.com/object-oriented-php-build-real-world-project-using-oop/)
+
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [Excel Basic to Advance Training Course Project Based 2022](https://coursemetry.com/excel-basic-to-advance-training-course-project-based-2022/)
+
+* [Metaverse: GANGough, NFTs, Artyfact Fi, Prometheus & Open GL](https://coursemetry.com/metaverse-gangough-nfts-artyfact-fi-prometheus-open-gl/)
+
+* [Excel VLOOKUP Functions (25+ Examples) - Crash Course 2022](https://coursemetry.com/excel-vlookup-functions-25-examples-crash-course-2022/)
+
+* [Podcast Audience Growth - Networking with your Guests](https://coursemetry.com/podcast-audience-growth-networking-with-your-guests/)
+
+* [Ultimate Tabata Abs 3 week training](https://coursemetry.com/ultimate-tabata-abs-3-week-training/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
