@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published so far on 2022-07-14**
+## **53 Udemy free courses published so far on 2022-07-14**
 
 * [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
@@ -101,6 +101,14 @@
 * [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
 
 * [Ultrasonic Testing Level 1 Training](https://coursemetry.com/ultrasonic-testing-level-1-training/)
+
+* [Sıfırdan A'dan Z'ye Amazon Dropshipping Eğitimi](https://coursemetry.com/sifirdan-adan-zye-amazon-dropshipping-egitimi/)
+
+* [Yeni Başlayanlar İçin İspanyolca Dersleri](https://coursemetry.com/yeni-baslayanlar-icin-ispanyolca-dersleri/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [Complete Blues Guitar Megacourse: Beginner to Expert](https://coursemetry.com/complete-blues-guitar-megacourse-beginner-to-expert/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
