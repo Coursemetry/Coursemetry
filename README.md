@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **60 Udemy free courses published so far on 2022-07-14**
+## **83 Udemy free courses published so far on 2022-07-14**
 
 * [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
@@ -123,6 +123,52 @@
 * [Voice of the Customer: Toolkit](https://coursemetry.com/voice-of-the-customer-toolkit/)
 
 * [AZ-900: Microsoft Azure Fundamentals + FULL Practice Exam!](https://coursemetry.com/az-900-microsoft-azure-fundamentals-full-practice-exam/)
+
+* [Public Speaking: Eliminate Verbal Tics, Uh, Um, Er, Ya Know](https://coursemetry.com/public-speaking-eliminate-verbal-tics-uh-um-er-ya-know/)
+
+* [Ethical Hacking: Network Exploitation Basics](https://coursemetry.com/ethical-hacking-network-exploitation-basics/)
+
+* [Copywriting & SEO for Beginners: Complete Copywriting Course](https://coursemetry.com/copywriting-seo-for-beginners-complete-copywriting-course/)
+
+* [C++ 2022 Complete Training Course](https://coursemetry.com/c-2022-complete-training-course/)
+
+* [JavaScript - Creating Loan EMI Calculator](https://coursemetry.com/javascript-creating-loan-emi-calculator/)
+
+* [Video Production - Inexpensive Talking Head Video - Business](https://coursemetry.com/video-production-inexpensive-talking-head-video-business/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [On-Camera Charisma for YouTube Stars - YouTube Marketing](https://coursemetry.com/on-camera-charisma-for-youtube-stars-youtube-marketing/)
+
+* [TJ Walker's 1-Hour Public Speaking Presentation Skills Class](https://coursemetry.com/tj-walkers-1-hour-public-speaking-presentation-skills-class/)
+
+* [Listening Skills - The Ultimate Workplace Soft Skills](https://coursemetry.com/listening-skills-the-ultimate-workplace-soft-skills/)
+
+* [Accounting basics, create financial statements easily](https://coursemetry.com/accounting-basics-create-financial-statements-easily/)
+
+* [End-to-End Machine Learning Projects | مشاريع تعلم الآلة](https://coursemetry.com/end-to-end-machine-learning-projects-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a2%d9%84%d8%a9/)
+
+* [Electrical Designing Using AutoCAD - 4 in 1 Projects Course](https://coursemetry.com/electrical-designing-using-autocad-4-in-1-projects-course/)
+
+* [Reality Transmuting:Past the Law of Attraction & Manifesting](https://coursemetry.com/reality-transmutingpast-the-law-of-attraction-manifesting/)
+
+* [The Guide to Freelancing in the Modern Gig Economy](https://coursemetry.com/the-guide-to-freelancing-in-the-modern-gig-economy/)
+
+* [Cyber Security: Common Attacks](https://coursemetry.com/cyber-security-common-attacks/)
+
+* [The Complete Facebook Traffic Ads (Facebook CPC) Course 2022](https://coursemetry.com/the-complete-facebook-traffic-ads-facebook-cpc-course-2022/)
+
+* [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
+
+* [Şan Dersi - Ses Eğitimi](https://coursemetry.com/san-dersi-ses-egitimi/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Winning Communication Skills for Telephone, Conference Calls](https://coursemetry.com/winning-communication-skills-for-telephone-conference-calls/)
+
+* [Persuasion in Business Communications](https://coursemetry.com/persuasion-in-business-communications/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
