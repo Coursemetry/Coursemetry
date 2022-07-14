@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published so far on 2022-07-14**
+## **60 Udemy free courses published so far on 2022-07-14**
 
 * [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
@@ -109,6 +109,20 @@
 * [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
 
 * [Complete Blues Guitar Megacourse: Beginner to Expert](https://coursemetry.com/complete-blues-guitar-megacourse-beginner-to-expert/)
+
+* [#1 Embellishments Course for Acrylic Pouring & Painting](https://coursemetry.com/1-embellishments-course-for-acrylic-pouring-painting/)
+
+* [How to Identify, Diagnose, and Fix Memory Leaks in Web Apps](https://coursemetry.com/how-to-identify-diagnose-and-fix-memory-leaks-in-web-apps/)
+
+* [Introduction to object oriented programing](https://coursemetry.com/introduction-to-object-oriented-programing/)
+
+* [Beginners Acrylic Paint Pouring & Fluid Art Training Course](https://coursemetry.com/beginners-acrylic-paint-pouring-fluid-art-training-course/)
+
+* [Sales Master Class by Dave Kennett -Close more deals!](https://coursemetry.com/sales-master-class-by-dave-kennett-close-more-deals/)
+
+* [Voice of the Customer: Toolkit](https://coursemetry.com/voice-of-the-customer-toolkit/)
+
+* [AZ-900: Microsoft Azure Fundamentals + FULL Practice Exam!](https://coursemetry.com/az-900-microsoft-azure-fundamentals-full-practice-exam/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
