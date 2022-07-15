@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published so far on 2022-07-15**
+## **109 Udemy free courses published so far on 2022-07-15**
 
 * [Sales for online entrepreneurs : smart tips for more sales](https://coursemetry.com/sales-for-online-entrepreneurs-smart-tips-for-more-sales/)
 
@@ -215,6 +215,12 @@
 * [Visual Studio 2022 Crash Course in 45 Minutes](https://coursemetry.com/visual-studio-2022-crash-course-in-45-minutes/)
 
 * [Excellence in Problem Solving](https://coursemetry.com/excellence-in-problem-solving/)
+
+* [Learn Microsoft Outlook | Complete Microsoft Outlook Guide](https://coursemetry.com/learn-microsoft-outlook-complete-microsoft-outlook-guide/)
+
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+
+* [Learn Marketing Strategy in 1 hour!](https://coursemetry.com/learn-marketing-strategy-in-1-hour/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
