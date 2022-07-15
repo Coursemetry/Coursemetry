@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **80 Udemy free courses published so far on 2022-07-15**
+## **85 Udemy free courses published so far on 2022-07-15**
 
 * [Sales for online entrepreneurs : smart tips for more sales](https://coursemetry.com/sales-for-online-entrepreneurs-smart-tips-for-more-sales/)
 
@@ -163,6 +163,16 @@
 * [Google Data Studio A-Z for Data Visualization and Dashboards](https://coursemetry.com/google-data-studio-a-z-for-data-visualization-and-dashboards/)
 
 * [Goal Setting Mastery](https://coursemetry.com/goal-setting-mastery/)
+
+* [Apache Cassandra for Data Engineers](https://coursemetry.com/apache-cassandra-for-data-engineers/)
+
+* [AZ-304: Microsoft Azure Architect Design Practice Exam](https://coursemetry.com/az-304-microsoft-azure-architect-design-practice-exam/)
+
+* [Role-Based Spoken English Course with Shadowing Technique](https://coursemetry.com/role-based-spoken-english-course-with-shadowing-technique/)
+
+* [PYTHON | Sıfırdan İleri Seviyeye Nesne Tabanlı Python Kursu](https://coursemetry.com/python-sifirdan-ileri-seviyeye-nesne-tabanli-python-kursu/)
+
+* [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
