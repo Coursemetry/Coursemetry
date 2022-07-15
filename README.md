@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **85 Udemy free courses published so far on 2022-07-15**
+## **105 Udemy free courses published so far on 2022-07-15**
 
 * [Sales for online entrepreneurs : smart tips for more sales](https://coursemetry.com/sales-for-online-entrepreneurs-smart-tips-for-more-sales/)
 
@@ -173,6 +173,46 @@
 * [PYTHON | Sıfırdan İleri Seviyeye Nesne Tabanlı Python Kursu](https://coursemetry.com/python-sifirdan-ileri-seviyeye-nesne-tabanli-python-kursu/)
 
 * [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
+
+* [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
+
+* [Microsoft PowerPoint Course - Zero to Hero in MS PowerPoint](https://coursemetry.com/microsoft-powerpoint-course-zero-to-hero-in-ms-powerpoint/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Create a traffic optimised WordPress website with Hostinger!](https://coursemetry.com/create-a-traffic-optimised-wordpress-website-with-hostinger/)
+
+* [Postgraduate Diploma: Digital Product & Service Owner](https://coursemetry.com/postgraduate-diploma-digital-product-service-owner/)
+
+* [Business Development: Lead Generation & Sales Conversion](https://coursemetry.com/business-development-lead-generation-sales-conversion/)
+
+* [Facebook Ads & Facebook Marketing Funnel Crash Course- 2022](https://coursemetry.com/facebook-ads-facebook-marketing-funnel-crash-course-2022/)
+
+* [Microsoft OneNote Training | Master the Microsoft OneNote](https://coursemetry.com/microsoft-onenote-training-master-the-microsoft-onenote/)
+
+* [Quantity Surveying With Rate Analysis And Take Off-Beginners](https://coursemetry.com/quantity-surveying-with-rate-analysis-and-take-off-beginners/)
+
+* [Master Python Programming (Arabic)](https://coursemetry.com/master-python-programming-arabic/)
+
+* [Microsoft Excel Complete Course | All in one MS Excel Course](https://coursemetry.com/microsoft-excel-complete-course-all-in-one-ms-excel-course/)
+
+* [Chart Traders: Daily Option Selling Strategy for Nifty](https://coursemetry.com/chart-traders-daily-option-selling-strategy-for-nifty/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [English Speaking Course in Hindi - English For Beginners](https://coursemetry.com/english-speaking-course-in-hindi-english-for-beginners/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Digital Marketing - The complete guided course](https://coursemetry.com/digital-marketing-the-complete-guided-course/)
+
+* [Keystone Principles of Leadership | Art to Get-Stuff-Done](https://coursemetry.com/keystone-principles-of-leadership-art-to-get-stuff-done/)
+
+* [Visual Studio 2022 Crash Course in 45 Minutes](https://coursemetry.com/visual-studio-2022-crash-course-in-45-minutes/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
