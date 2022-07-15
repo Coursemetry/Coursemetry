@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-07-15**
+## **106 Udemy free courses published so far on 2022-07-15**
 
 * [Sales for online entrepreneurs : smart tips for more sales](https://coursemetry.com/sales-for-online-entrepreneurs-smart-tips-for-more-sales/)
 
@@ -213,6 +213,8 @@
 * [Keystone Principles of Leadership | Art to Get-Stuff-Done](https://coursemetry.com/keystone-principles-of-leadership-art-to-get-stuff-done/)
 
 * [Visual Studio 2022 Crash Course in 45 Minutes](https://coursemetry.com/visual-studio-2022-crash-course-in-45-minutes/)
+
+* [Excellence in Problem Solving](https://coursemetry.com/excellence-in-problem-solving/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
