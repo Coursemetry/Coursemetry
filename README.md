@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **109 Udemy free courses published so far on 2022-07-15**
+## **126 Udemy free courses published so far on 2022-07-15**
 
 * [Sales for online entrepreneurs : smart tips for more sales](https://coursemetry.com/sales-for-online-entrepreneurs-smart-tips-for-more-sales/)
 
@@ -221,6 +221,40 @@
 * [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
 
 * [Learn Marketing Strategy in 1 hour!](https://coursemetry.com/learn-marketing-strategy-in-1-hour/)
+
+* [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
+
+* [Build an effective Business Case](https://coursemetry.com/build-an-effective-business-case/)
+
+* [Gatsby JS | Build a personal blog using gatsbyJS](https://coursemetry.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/)
+
+* [OSINT: Content Discovery](https://coursemetry.com/osint-content-discovery/)
+
+* [Complete Rhino Megacourse: Beginner to Expert](https://coursemetry.com/complete-rhino-megacourse-beginner-to-expert/)
+
+* [Google Ads Mastery~ Beginner To Pro  ~ HINDI/URDU 2022](https://coursemetry.com/google-ads-mastery-beginner-to-pro-hindi-urdu-2022/)
+
+* [Guia Completa ASP.NET Core MVC (Net 5.0) (Net 6.0)](https://coursemetry.com/guia-completa-asp-net-core-mvc-net-5-0-net-6-0/)
+
+* [Podcasting Success Strategies: Get Podcast Sponsorships ](https://coursemetry.com/podcasting-success-strategies-get-podcast-sponsorships/)
+
+* [Run Search Ad In Google Ads & Easy SEO For Beginners-2022](https://coursemetry.com/run-search-ad-in-google-ads-easy-seo-for-beginners-2022/)
+
+* [Cinematography Masterclass for Videographers & Film-Makers](https://coursemetry.com/cinematography-masterclass-for-videographers-film-makers/)
+
+* [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
+
+* [Lead Generation With Facebook Ads Marketing 2022](https://coursemetry.com/lead-generation-with-facebook-ads-marketing-2022/)
+
+* [Real Fast Podcast into Best Selling Kindle Books Easily](https://coursemetry.com/real-fast-podcast-into-best-selling-kindle-books-easily/)
+
+* [Designing, Deploying and Managing Citrix XenMobile Exams](https://coursemetry.com/designing-deploying-and-managing-citrix-xenmobile-exams/)
+
+* [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
+
+* [Implement Most In-demand JavaScript Projects for Interviews](https://coursemetry.com/implement-most-in-demand-javascript-projects-for-interviews/)
+
+* [The Complete Course on Data Analysis and Data Visualization](https://coursemetry.com/the-complete-course-on-data-analysis-and-data-visualization/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
