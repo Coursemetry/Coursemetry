@@ -2,13 +2,11 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **24 Udemy free courses published so far on 2022-07-16**
+## **35 Udemy free courses published so far on 2022-07-16**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
 * [Mathematical Optimization with GAMS and Pyomo (Python)](https://coursemetry.com/mathematical-optimization-with-gams-and-pyomo-python/)
-
-* [Certification in Couple Therapy and Counseling - Accredited](https://coursemetry.com/certification-in-couple-therapy-and-counseling-accredited/)
 
 * [Latest 2022 - PMP Real Practice Exams - Volume 1](https://coursemetry.com/latest-2022-pmp-real-practice-exams-volume-1/)
 
@@ -51,6 +49,30 @@
 * [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
 
 * [Skyrocket Your Sales Through Online Presence,10x Revenue](https://coursemetry.com/skyrocket-your-sales-through-online-presence10x-revenue/)
+
+* [Certification in Couple Therapy and Counseling - Accredited](https://coursemetry.com/certification-in-couple-therapy-and-counseling-accredited/)
+
+* [poultry farming Broiler farming crash course](https://coursemetry.com/poultry-farming-broiler-farming-crash-course/)
+
+* [Microsoft Excel Masterclass for Business Managers](https://coursemetry.com/microsoft-excel-masterclass-for-business-managers/)
+
+* [Data Analyst Skill path in Hindi - हिंदी में सीखें](https://coursemetry.com/data-analyst-skill-path-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82/)
+
+* [Filmora Complete Video Editing In Hindi/urdu - Sarfaraz 2022](https://coursemetry.com/filmora-complete-video-editing-in-hindi-urdu-sarfaraz-2022/)
+
+* [Business English Course: Essentials in Business World](https://coursemetry.com/business-english-course-essentials-in-business-world/)
+
+* [Tools for Working From Home - Google Apps, Trello & Zoom](https://coursemetry.com/tools-for-working-from-home-google-apps-trello-zoom/)
+
+* [ML for Business Managers: Build Regression model in R Studio](https://coursemetry.com/ml-for-business-managers-build-regression-model-in-r-studio/)
+
+* [Data Visualization in Excel: All Excel Charts and Graphs](https://coursemetry.com/data-visualization-in-excel-all-excel-charts-and-graphs/)
+
+* [Professional Scrum with Kanban (PSK I) Certification Prep](https://coursemetry.com/professional-scrum-with-kanban-psk-i-certification-prep/)
+
+* [Thai Language for Traveler ONLY!](https://coursemetry.com/thai-language-for-traveler-only/)
+
+* [Cryptocurrency and Blockchain Technology, Simplified!](https://coursemetry.com/cryptocurrency-and-blockchain-technology-simplified/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
