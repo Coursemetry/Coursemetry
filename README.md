@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published so far on 2022-07-16**
+## **149 Udemy free courses published so far on 2022-07-16**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -207,6 +207,100 @@
 * [Desarrolla un sistema web  POS desde cero con PHP NATIVO](https://coursemetry.com/desarrolla-un-sistema-web-pos-desde-cero-con-php-nativo/)
 
 * [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Presentation Skills - Advanced: Speak Without Reading Notes](https://coursemetry.com/presentation-skills-advanced-speak-without-reading-notes/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [Online Course Creation: Teach an Online Course](https://coursemetry.com/online-course-creation-teach-an-online-course/)
+
+* [Python Financial Analysis: Investment & Data Fundamentals](https://coursemetry.com/python-financial-analysis-investment-data-fundamentals/)
+
+* [Python for Beginners to Advance](https://coursemetry.com/python-for-beginners-to-advance/)
+
+* [Public Relations: How to Be a Government/PIO Spokesperson](https://coursemetry.com/public-relations-how-to-be-a-government-pio-spokesperson/)
+
+* [Introduction into Facebook Marketing & Facebook Advertising](https://coursemetry.com/introduction-into-facebook-marketing-facebook-advertising/)
+
+* [Java And C++ Complete Training Course 2022](https://coursemetry.com/java-and-c-complete-training-course-2022/)
+
+* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
+
+* [Certified Lean Six Sigma Yellow Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-yellow-belt-exam-prep/)
+
+* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+
+* [Java Swing for GUI Development](https://coursemetry.com/java-swing-for-gui-development/)
+
+* [QuickBooks Online Multiple Currencies](https://coursemetry.com/quickbooks-online-multiple-currencies/)
+
+* [Linux Command Line Terminal Basic for Beginners (In Hindi)](https://coursemetry.com/linux-command-line-terminal-basic-for-beginners-in-hindi/)
+
+* [Excel Data Analysis With Pivot Tables & Pivot Charts - 2022](https://coursemetry.com/excel-data-analysis-with-pivot-tables-pivot-charts-2022/)
+
+* [NFT pour les Débutants: Devenir Investisseur et Créateur NFT](https://coursemetry.com/nft-pour-les-debutants-devenir-investisseur-et-createur-nft/)
+
+* [Real time Automation+Manual Interview Questions with Answers](https://coursemetry.com/real-time-automationmanual-interview-questions-with-answers/)
+
+* [Ionic Tutorials - Build Android & Web Apps with Ionic](https://coursemetry.com/ionic-tutorials-build-android-web-apps-with-ionic/)
+
+* [IBM Watson Beginners Training for AI](https://coursemetry.com/ibm-watson-beginners-training-for-ai/)
+
+* [Blockchain Development on Ethereum](https://coursemetry.com/blockchain-development-on-ethereum/)
+
+* [Python pour le Machine Learning & le Deep Learning: A à Z](https://coursemetry.com/python-pour-le-machine-learning-le-deep-learning-a-a-z/)
+
+* [Data Visualizations with MatPlotLib for Python Developers](https://coursemetry.com/data-visualizations-with-matplotlib-for-python-developers/)
+
+* [Develop Android App with Android Nougat](https://coursemetry.com/develop-android-app-with-android-nougat/)
+
+* [Mastering .NET Windows Applications using C# and WinForms](https://coursemetry.com/mastering-net-windows-applications-using-c-and-winforms/)
+
+* [Learn OpenGL Programming for Graphics and Games](https://coursemetry.com/learn-opengl-programming-for-graphics-and-games/)
+
+* [3D Architecture with Maya and 3Ds Max](https://coursemetry.com/3d-architecture-with-maya-and-3ds-max/)
+
+* [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
+
+* [Bootstrap 5: Créer et Lancer des Sites Web Réactifs](https://coursemetry.com/bootstrap-5-creer-et-lancer-des-sites-web-reactifs/)
+
+* [Process Costing System-Cost Accounting-Managerial Accounting](https://coursemetry.com/process-costing-system-cost-accounting-managerial-accounting/)
+
+* [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
+
+* [Adobe InDesign CC for Beginners](https://coursemetry.com/adobe-indesign-cc-for-beginners/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [Financial Accounting-Adjusting Entries & Financial Statement](https://coursemetry.com/financial-accounting-adjusting-entries-financial-statement/)
+
+* [Cost Volume Profit Analysis (CVP) – Managerial Accounting](https://coursemetry.com/cost-volume-profit-analysis-cvp-managerial-accounting/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python-2/)
+
+* [How To Make Independent Feature Film On A Budget](https://coursemetry.com/how-to-make-independent-feature-film-on-a-budget/)
+
+* [AI Artificial Intelligence with Python](https://coursemetry.com/ai-artificial-intelligence-with-python/)
+
+* [Complete Inventory Management in Microsoft Excel &TALLY ERP9](https://coursemetry.com/complete-inventory-management-in-microsoft-excel-tally-erp9/)
+
+* [Android App Development using Android Lollipop](https://coursemetry.com/android-app-development-using-android-lollipop/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [Flexible Budgets, Standard Costs, & Variance Analysis](https://coursemetry.com/flexible-budgets-standard-costs-variance-analysis/)
+
+* [AWS Certified Solutions Architect Associate 2022](https://coursemetry.com/aws-certified-solutions-architect-associate-2022/)
+
+* [Vue JS - The Complete Guide](https://coursemetry.com/vue-js-the-complete-guide/)
+
+* [Bank Reconciliations & Cash Internal Controls](https://coursemetry.com/bank-reconciliations-cash-internal-controls/)
+
+* [Financial Accounting – Payroll](https://coursemetry.com/financial-accounting-payroll/)
+
+* [Certified Lean Six Sigma Green Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-green-belt-exam-prep/)
+
+* [Financial Accounting – Closing Process](https://coursemetry.com/financial-accounting-closing-process/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
