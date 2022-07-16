@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **152 Udemy free courses published so far on 2022-07-16**
+## **211 Udemy free courses published so far on 2022-07-16**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -307,6 +307,124 @@
 * [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
 
 * [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
+
+* [The Comprehensive SQL Course](https://coursemetry.com/the-comprehensive-sql-course/)
+
+* [Mastering Shopify Theme Development - Online Store 2.0 A-Z](https://coursemetry.com/mastering-shopify-theme-development-online-store-2-0-a-z/)
+
+* [The Complete MongoDB Course 2022](https://coursemetry.com/the-complete-mongodb-course-2022/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+
+* [Apache Tomcat Training Hands-on](https://coursemetry.com/apache-tomcat-training-hands-on/)
+
+* [Color Correction and Film Looks using Magic Bullet Looks](https://coursemetry.com/color-correction-and-film-looks-using-magic-bullet-looks/)
+
+* [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
+
+* [Develop Android App with Android Marshmallow](https://coursemetry.com/develop-android-app-with-android-marshmallow/)
+
+* [cPanel for Beginners](https://coursemetry.com/cpanel-for-beginners/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [Foundation Framework Tutorial](https://coursemetry.com/foundation-framework-tutorial/)
+
+* [The Complete Dart Programming Guide for Beginners](https://coursemetry.com/the-complete-dart-programming-guide-for-beginners/)
+
+* [Animation with Adobe Flash](https://coursemetry.com/animation-with-adobe-flash/)
+
+* [Predictive Modeling with SAS Enterprise Miner](https://coursemetry.com/predictive-modeling-with-sas-enterprise-miner/)
+
+* [Chef DevOps for the Absolute Beginners](https://coursemetry.com/chef-devops-for-the-absolute-beginners/)
+
+* [Sencha Touch Application Designing](https://coursemetry.com/sencha-touch-application-designing/)
+
+* [Express JS - The Complete Guide](https://coursemetry.com/express-js-the-complete-guide/)
+
+* [Photo Editing using Adobe Lightroom CC](https://coursemetry.com/photo-editing-using-adobe-lightroom-cc/)
+
+* [Apache Web Server Training Hands-on](https://coursemetry.com/apache-web-server-training-hands-on/)
+
+* [Time Series Analysis, Forecasting, and ML with Python](https://coursemetry.com/time-series-analysis-forecasting-and-ml-with-python/)
+
+* [CompTIA A+ Certification (220-1001) Prep Course](https://coursemetry.com/comptia-a-certification-220-1001-prep-course/)
+
+* [AWS Certified SysOps Administrator – Associate](https://coursemetry.com/aws-certified-sysops-administrator-associate/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [Customer Analytics Training for Beginners](https://coursemetry.com/customer-analytics-training-for-beginners/)
+
+* [3ds Max - Architectural Interior Designing Masterclass](https://coursemetry.com/3ds-max-architectural-interior-designing-masterclass/)
+
+* [Redis for Beginners - Hands on with Redis](https://coursemetry.com/redis-for-beginners-hands-on-with-redis/)
+
+* [Master Maven and Ant the easy way](https://coursemetry.com/master-maven-and-ant-the-easy-way/)
+
+* [Servlets JDBC and JSP for Java Web Development](https://coursemetry.com/servlets-jdbc-and-jsp-for-java-web-development/)
+
+* [Backbone JS Tutorial for Beginners](https://coursemetry.com/backbone-js-tutorial-for-beginners/)
+
+* [Big Data with MapReduce - Hands-on](https://coursemetry.com/big-data-with-mapreduce-hands-on/)
+
+* [Dart Programming Guide for Beginners](https://coursemetry.com/dart-programming-guide-for-beginners/)
+
+* [XPath Fundamentals for Beginners](https://coursemetry.com/xpath-fundamentals-for-beginners/)
+
+* [Predictive Analytics and Modeling for Decision Making](https://coursemetry.com/predictive-analytics-and-modeling-for-decision-making/)
+
+* [ADO .Net Programming and C# Windows Applications](https://coursemetry.com/ado-net-programming-and-c-windows-applications/)
+
+* [Flutter Development with Dart](https://coursemetry.com/flutter-development-with-dart/)
+
+* [Mastering Python Data Visualization with Seaborn](https://coursemetry.com/mastering-python-data-visualization-with-seaborn/)
+
+* [AWS Certified SysOps Administrator Associate Training](https://coursemetry.com/aws-certified-sysops-administrator-associate-training/)
+
+* [JDBC Servlets and JSP for Java Web Development](https://coursemetry.com/jdbc-servlets-and-jsp-for-java-web-development/)
+
+* [ISTQB Foundation Level Certification Prep Course](https://coursemetry.com/istqb-foundation-level-certification-prep-course/)
+
+* [Data Integration & ETL with Talend](https://coursemetry.com/data-integration-etl-with-talend/)
+
+* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
+
+* [Kubernetes Hands-on for the Absolute Beginners](https://coursemetry.com/kubernetes-hands-on-for-the-absolute-beginners-2/)
+
+* [Certified Lean Six Sigma White Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-white-belt-exam-prep/)
+
+* [CFA Level I Exam Prep](https://coursemetry.com/cfa-level-i-exam-prep/)
+
+* [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
+
+* [Mastering IntelliJ IDEA for Java](https://coursemetry.com/mastering-intellij-idea-for-java/)
+
+* [Python Programming - From Basics to Advanced level [2021]](https://coursemetry.com/python-programming-from-basics-to-advanced-level-2021/)
+
+* [Predictive Modeling and Time Series Analysis with Minitab](https://coursemetry.com/predictive-modeling-and-time-series-analysis-with-minitab/)
+
+* [Mastering Apache Cassandra Developer and Admin](https://coursemetry.com/mastering-apache-cassandra-developer-and-admin/)
+
+* [AWS Services for Solutions Architect Associate [2021]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2021/)
+
+* [Java IO Tutorial for Beginners](https://coursemetry.com/java-io-tutorial-for-beginners/)
+
+* [Autodesk Combustion Training Hands-on](https://coursemetry.com/autodesk-combustion-training-hands-on/)
+
+* [Apache Pig Training - Tame the Big Data](https://coursemetry.com/apache-pig-training-tame-the-big-data/)
+
+* [React JS- Complete Guide for Frontend Web Development [2021]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2021/)
+
+* [How to Deal With Tough Times | Problem Solving Skills](https://coursemetry.com/how-to-deal-with-tough-times-problem-solving-skills/)
+
+* [The Complete Computer Basics Guide for Beginners: 2022](https://coursemetry.com/the-complete-computer-basics-guide-for-beginners-2022/)
+
+* [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
+
+* [Microsoft SQL Server for Beginners | Crash Course](https://coursemetry.com/microsoft-sql-server-for-beginners-crash-course/)
+
+* [Amazon FBA Milliner Course Beginners to Expert in Hindi/Urdu](https://coursemetry.com/amazon-fba-milliner-course-beginners-to-expert-in-hindi-urdu/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
