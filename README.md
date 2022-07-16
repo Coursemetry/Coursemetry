@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **35 Udemy free courses published so far on 2022-07-16**
+## **51 Udemy free courses published so far on 2022-07-16**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -73,6 +73,38 @@
 * [Thai Language for Traveler ONLY!](https://coursemetry.com/thai-language-for-traveler-only/)
 
 * [Cryptocurrency and Blockchain Technology, Simplified!](https://coursemetry.com/cryptocurrency-and-blockchain-technology-simplified/)
+
+* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
+
+* [Kahve Demleme Kursu (V60, Chemex, Aeropress, Mokapot...)](https://coursemetry.com/kahve-demleme-kursu-v60-chemex-aeropress-mokapot/)
+
+* [Improve English by Listening Movies – 1b](https://coursemetry.com/improve-english-by-listening-movies-1b/)
+
+* [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
+
+* [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
+
+* [Be Full Stack Java Developer From Scratch](https://coursemetry.com/be-full-stack-java-developer-from-scratch/)
+
+* [Improve Your Conflict Management Skills](https://coursemetry.com/improve-your-conflict-management-skills/)
+
+* [DIYC Crew Training](https://coursemetry.com/diyc-crew-training/)
+
+* [Laravel E-commerce Project Beginner to Advance](https://coursemetry.com/laravel-e-commerce-project-beginner-to-advance/)
+
+* [The only course you need to watch if you want to lose weight](https://coursemetry.com/the-only-course-you-need-to-watch-if-you-want-to-lose-weight/)
+
+* [High School: Beginning your Next Chapter of Education](https://coursemetry.com/high-school-beginning-your-next-chapter-of-education/)
+
+* [Futures & Options Trading: Natural Edge to your Portfolio's](https://coursemetry.com/futures-options-trading-natural-edge-to-your-portfolios/)
+
+* [Poetry and music appreciation: refine your taste in music](https://coursemetry.com/poetry-and-music-appreciation-refine-your-taste-in-music-2/)
+
+* [Lucidata Advisor Certification](https://coursemetry.com/lucidata-advisor-certification/)
+
+* [5 Steps to Effective Communication](https://coursemetry.com/5-steps-to-effective-communication/)
+
+* [Read Thai language in 2 hours - Thai for beginners](https://coursemetry.com/read-thai-language-in-2-hours-thai-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
