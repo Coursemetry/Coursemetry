@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **18 Udemy free courses published so far on 2022-07-16**
+## **24 Udemy free courses published so far on 2022-07-16**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -39,6 +39,18 @@
 * [Effective Time Management For A Productivity Boost](https://coursemetry.com/effective-time-management-for-a-productivity-boost/)
 
 * [AWS Cloud Development Kit (CDK) Explained for Beginners](https://coursemetry.com/aws-cloud-development-kit-cdk-explained-for-beginners/)
+
+* [CSS, JavaScript And Python Complete Course](https://coursemetry.com/css-javascript-and-python-complete-course/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP](https://coursemetry.com/sap-project-essentials-implementing-sap-s-4hana-and-sap-erp/)
+
+* [Blogging & Content Writing Course - Start A Profitable Blog](https://coursemetry.com/blogging-content-writing-course-start-a-profitable-blog/)
+
+* [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
+
+* [Skyrocket Your Sales Through Online Presence,10x Revenue](https://coursemetry.com/skyrocket-your-sales-through-online-presence10x-revenue/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
