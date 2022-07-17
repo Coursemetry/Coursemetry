@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published so far on 2022-07-17**
+## **69 Udemy free courses published so far on 2022-07-17**
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
@@ -95,6 +95,52 @@
 * [Guesstimates and Case Interviews Excellence](https://coursemetry.com/guesstimates-and-case-interviews-excellence/)
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+
+* [Cyber Security and Ethical Hacking Masterclass | CSEH+ 2022](https://coursemetry.com/cyber-security-and-ethical-hacking-masterclass-cseh-2022/)
+
+* [Java Network Programming - Mastering TCP/IP | CJNP+ 2022](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022/)
+
+* [Car Repair | Automotive Electrician and Mechanic Training |](https://coursemetry.com/car-repair-automotive-electrician-and-mechanic-training/)
+
+* [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [C++ Programming for Beginners](https://coursemetry.com/c-programming-for-beginners/)
+
+* [Complete Guide to TOEFL iBT | Mastering the Skills](https://coursemetry.com/complete-guide-to-toefl-ibt-mastering-the-skills/)
+
+* [Android App Development with Kotlin - Learn Best Skill 2022+](https://coursemetry.com/android-app-development-with-kotlin-learn-best-skill-2022/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022](https://coursemetry.com/reverse-engineering-and-malware-analysis-x64-32-crma-2022/)
+
+* [CompTIA Pentest+ Practice Exam 2022](https://coursemetry.com/comptia-pentest-practice-exam-2022/)
+
+* [Wordpress Web Development for Absolute Beginner Zero to Hero](https://coursemetry.com/wordpress-web-development-for-absolute-beginner-zero-to-hero/)
+
+* [AWS Certified Data Analytics – Specialty Practice Exams 2022](https://coursemetry.com/aws-certified-data-analytics-specialty-practice-exams-2022-6/)
+
+* [PL-300 Microsoft Power BI Data Analyst Practice Exams - JULY](https://coursemetry.com/pl-300-microsoft-power-bi-data-analyst-practice-exams-july-2/)
+
+* [When Personal Training Gets Personal](https://coursemetry.com/when-personal-training-gets-personal/)
+
+* [Orta Seviyeden İleri Seviyeye İngilizce Gramer Eğitim Seti](https://coursemetry.com/orta-seviyeden-ileri-seviyeye-ingilizce-gramer-egitim-seti/)
+
+* [CAMS Anti-Money Laundering Specialist Practice Exams - JULY](https://coursemetry.com/cams-anti-money-laundering-specialist-practice-exams-july-2/)
+
+* [AI-900 : Azure AI Fundamentals Practice Exams - JULY 2022](https://coursemetry.com/ai-900-azure-ai-fundamentals-practice-exams-july-2022/)
+
+* [Oracle Database SQL 1Z0-071 Practice Exams - JULY 2022](https://coursemetry.com/oracle-database-sql-1z0-071-practice-exams-july-2022/)
+
+* [RHCSA EX200 Practice Exams - JULY 2022 UPDATE](https://coursemetry.com/rhcsa-ex200-practice-exams-july-2022-update/)
+
+* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+
+* [Best of Content Marketing, SEO & Copywriting + 23 Templates](https://coursemetry.com/best-of-content-marketing-seo-copywriting-23-templates/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
