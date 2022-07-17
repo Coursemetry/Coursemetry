@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-07-17**
+## **98 Udemy free courses published so far on 2022-07-17**
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
@@ -197,6 +197,8 @@
 * [Nutrition Certification: The Complete Nutrition Course](https://coursemetry.com/nutrition-certification-the-complete-nutrition-course/)
 
 * [Learn NoSQL Databases - Complete MongoDB Bootcamp 2022](https://coursemetry.com/learn-nosql-databases-complete-mongodb-bootcamp-2022/)
+
+* [NCLEX Anatomy & Physiology Exam Practice](https://coursemetry.com/nclex-anatomy-physiology-exam-practice/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
