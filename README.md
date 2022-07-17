@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **113 Udemy free courses published so far on 2022-07-17**
+## **119 Udemy free courses published so far on 2022-07-17**
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
@@ -229,6 +229,18 @@
 * [Complete Comic Book Creation Megacourse: Beginner to Expert](https://coursemetry.com/complete-comic-book-creation-megacourse-beginner-to-expert/)
 
 * [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [Advanced English Grammar Including English Grammar Tenses](https://coursemetry.com/advanced-english-grammar-including-english-grammar-tenses/)
+
+* [Facebook Conversion API Setup Using GTM On WordPress Site](https://coursemetry.com/facebook-conversion-api-setup-using-gtm-on-wordpress-site/)
+
+* [Object-Oriented Programming with Python: Code Faster in 2022](https://coursemetry.com/object-oriented-programming-with-python-code-faster-in-2022/)
+
+* [Managing Stress and Reducing Anxiety for a Better Life](https://coursemetry.com/managing-stress-and-reducing-anxiety-for-a-better-life/)
+
+* [Le Front-End: Formation Complète](https://coursemetry.com/le-front-end-formation-complete/)
+
+* [Industrial Instrumentation Maintenance Engineer](https://coursemetry.com/industrial-instrumentation-maintenance-engineer/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
