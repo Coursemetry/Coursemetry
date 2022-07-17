@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published so far on 2022-07-17**
+## **105 Udemy free courses published so far on 2022-07-17**
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
@@ -199,6 +199,20 @@
 * [Learn NoSQL Databases - Complete MongoDB Bootcamp 2022](https://coursemetry.com/learn-nosql-databases-complete-mongodb-bootcamp-2022/)
 
 * [NCLEX Anatomy & Physiology Exam Practice](https://coursemetry.com/nclex-anatomy-physiology-exam-practice/)
+
+* [Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://coursemetry.com/learn-audo-studio-ai-powered-noise-cancellation-tool-2022/)
+
+* [Realistic References for painting with an intuitive 3D tool](https://coursemetry.com/realistic-references-for-painting-with-an-intuitive-3d-tool/)
+
+* [How to Create Flutter Plugin and Publish Plugin in pub dev](https://coursemetry.com/how-to-create-flutter-plugin-and-publish-plugin-in-pub-dev/)
+
+* [How to Build Microservices with Node.js,Express.js,Axios](https://coursemetry.com/how-to-build-microservices-with-node-jsexpress-jsaxios/)
+
+* [How to correctly care for your dogs ears at home](https://coursemetry.com/how-to-correctly-care-for-your-dogs-ears-at-home/)
+
+* [UMAT and VUMAT subroutines in Abaqus](https://coursemetry.com/umat-and-vumat-subroutines-in-abaqus/)
+
+* [Dive into Solidity Smart Contract Development](https://coursemetry.com/dive-into-solidity-smart-contract-development/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
