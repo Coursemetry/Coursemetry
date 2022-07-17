@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **38 Udemy free courses published so far on 2022-07-17**
+## **46 Udemy free courses published so far on 2022-07-17**
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
@@ -79,6 +79,22 @@
 * [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
 
 * [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
+
+* [Web Scraping Tutorial For Beginners With Scrapy & Python](https://coursemetry.com/web-scraping-tutorial-for-beginners-with-scrapy-python/)
+
+* [Couples Counseling | Learn to Live happy with Life Partner](https://coursemetry.com/couples-counseling-learn-to-live-happy-with-life-partner/)
+
+* [Transportation Management, Logistics and Urban Planning](https://coursemetry.com/transportation-management-logistics-and-urban-planning/)
+
+* [Improve English by Listening Movies – 1c](https://coursemetry.com/improve-english-by-listening-movies-1c/)
+
+* [Create a GUI with Python](https://coursemetry.com/create-a-gui-with-python/)
+
+* [React.JS: The Complete Course for Beginners](https://coursemetry.com/react-js-the-complete-course-for-beginners/)
+
+* [Guesstimates and Case Interviews Excellence](https://coursemetry.com/guesstimates-and-case-interviews-excellence/)
+
+* [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
