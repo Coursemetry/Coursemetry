@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published so far on 2022-07-17**
+## **97 Udemy free courses published so far on 2022-07-17**
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
@@ -141,6 +141,62 @@
 * [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
 
 * [Best of Content Marketing, SEO & Copywriting + 23 Templates](https://coursemetry.com/best-of-content-marketing-seo-copywriting-23-templates/)
+
+* [Poetry and music appreciation: refine your taste in music](https://coursemetry.com/poetry-and-music-appreciation-refine-your-taste-in-music/)
+
+* [Nutrition certification: Diet and weight loss for everyone](https://coursemetry.com/nutrition-certification-diet-and-weight-loss-for-everyone/)
+
+* [Nutrition and Dieting: The Ultimate Course About Nutrition](https://coursemetry.com/nutrition-and-dieting-the-ultimate-course-about-nutrition/)
+
+* [Build Your Own File Sharing Website](https://coursemetry.com/build-your-own-file-sharing-website/)
+
+* [Climate Change explained: Causes, consequences and solutions](https://coursemetry.com/climate-change-explained-causes-consequences-and-solutions/)
+
+* [Complete JAVA Bootcamp: Go from zero to hero with Spring](https://coursemetry.com/complete-java-bootcamp-go-from-zero-to-hero-with-spring/)
+
+* [Adobe Premiere Pro CC Essential Video Editing Zero To Hero](https://coursemetry.com/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/)
+
+* [Neuroplasticity Life Coach Complete Certificate Course](https://coursemetry.com/neuroplasticity-life-coach-complete-certificate-course/)
+
+* [CBT: Complete psychotherapy Certificate Course](https://coursemetry.com/cbt-complete-psychotherapy-certificate-course/)
+
+* [Life coach and life purpose certification course](https://coursemetry.com/life-coach-and-life-purpose-certification-course/)
+
+* [Mastering Shopify Theme Development - Online Store 2.0 A-Z](https://coursemetry.com/mastering-shopify-theme-development-online-store-2-0-a-z/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [Neuroplasticity Ultimate Certification Course](https://coursemetry.com/neuroplasticity-ultimate-certification-course/)
+
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [CBT: Cognitive Behavioral Therapy For Anxiety And Depression](https://coursemetry.com/cbt-cognitive-behavioral-therapy-for-anxiety-and-depression/)
+
+* [Life Coach: The Complete Life Coach Certification Course](https://coursemetry.com/life-coach-the-complete-life-coach-certification-course/)
+
+* [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
+
+* [AZ-400 Microsoft Azure DevOps Expert Exam Practice Test 2022](https://coursemetry.com/az-400-microsoft-azure-devops-expert-exam-practice-test-2022/)
+
+* [Instagram For Beginners Who Don't Like Social Media](https://coursemetry.com/instagram-for-beginners-who-dont-like-social-media/)
+
+* [CBT for anxiety and panic](https://coursemetry.com/cbt-for-anxiety-and-panic/)
+
+* [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
+
+* [Neuroplasticity And CBT Complete Certification Course](https://coursemetry.com/neuroplasticity-and-cbt-complete-certification-course/)
+
+* [Life Coaching: ZERO TO HERO Life Coach certificate Course](https://coursemetry.com/life-coaching-zero-to-hero-life-coach-certificate-course/)
+
+* [Nutrition: The Ultimate Nutrition certification Course](https://coursemetry.com/nutrition-the-ultimate-nutrition-certification-course/)
+
+* [CBT Ultimate Certificate Course for Everyone](https://coursemetry.com/cbt-ultimate-certificate-course-for-everyone/)
+
+* [CBT and Nutrition Ultimate Certification Course](https://coursemetry.com/cbt-and-nutrition-ultimate-certification-course/)
+
+* [Nutrition Certification: The Complete Nutrition Course](https://coursemetry.com/nutrition-certification-the-complete-nutrition-course/)
+
+* [Learn NoSQL Databases - Complete MongoDB Bootcamp 2022](https://coursemetry.com/learn-nosql-databases-complete-mongodb-bootcamp-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
