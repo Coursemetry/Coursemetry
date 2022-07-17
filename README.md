@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published so far on 2022-07-17**
+## **38 Udemy free courses published so far on 2022-07-17**
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
@@ -75,6 +75,10 @@
 * [350+ Exercises - Python Programming Mega Pack - Unit Tests](https://coursemetry.com/350-exercises-python-programming-mega-pack-unit-tests/)
 
 * [AWS Certified Cloud Practitioner - Practice Exams - 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022-2/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
