@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published so far on 2022-07-17**
+## **140 Udemy free courses published so far on 2022-07-17**
 
 * [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
 
@@ -241,6 +241,48 @@
 * [Le Front-End: Formation Complète](https://coursemetry.com/le-front-end-formation-complete/)
 
 * [Industrial Instrumentation Maintenance Engineer](https://coursemetry.com/industrial-instrumentation-maintenance-engineer/)
+
+* [Máster en WordPress 2022, ¡Desde Cero Hasta Experto!](https://coursemetry.com/master-en-wordpress-2022-desde-cero-hasta-experto/)
+
+* [MEGA Pack de Excel: 3 cursos en 1, de básico e intermedio](https://coursemetry.com/mega-pack-de-excel-3-cursos-en-1-de-basico-e-intermedio/)
+
+* [Amazon FBA Milliner Course Beginners to Expert in Hindi/Urdu](https://coursemetry.com/amazon-fba-milliner-course-beginners-to-expert-in-hindi-urdu/)
+
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
+
+* [Learn Java Programming - Beginners guide 2022](https://coursemetry.com/learn-java-programming-beginners-guide-2022/)
+
+* [Facebook Ads & Instagram Ads Course 2022 (Ready for iOS 14+)](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-ready-for-ios-14/)
+
+* [Speak Confidently and be from The Elite](https://coursemetry.com/speak-confidently-and-be-from-the-elite/)
+
+* [Decision Trees, Random Forests, AdaBoost & XGBoost in Python](https://coursemetry.com/decision-trees-random-forests-adaboost-xgboost-in-python/)
+
+* [Complete Introduction into Facebook Lead Generation Ads 2022](https://coursemetry.com/complete-introduction-into-facebook-lead-generation-ads-2022/)
+
+* [MySQL Database Development Mastery](https://coursemetry.com/mysql-database-development-mastery/)
+
+* [Relational Databases & SQL: Complete Guide for Developers](https://coursemetry.com/relational-databases-sql-complete-guide-for-developers/)
+
+* [GoF Design Patterns - Complete Course with Java Examples](https://coursemetry.com/gof-design-patterns-complete-course-with-java-examples/)
+
+* [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
+
+* [Master Multithreading - Concurrency with Java Examples](https://coursemetry.com/master-multithreading-concurrency-with-java-examples/)
+
+* [Microsoft SQL Server Development for Everyone](https://coursemetry.com/microsoft-sql-server-development-for-everyone/)
+
+* [Java Collections Framework + Generics, Lambdas & Stream API](https://coursemetry.com/java-collections-framework-generics-lambdas-stream-api/)
+
+* [Modern PHP Web Development w/ MySQL, GitHub & Heroku](https://coursemetry.com/modern-php-web-development-w-mysql-github-heroku/)
+
+* [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
+
+* [Software architecture](https://coursemetry.com/software-architecture/)
+
+* [SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun](https://coursemetry.com/seo-training-for-beginners-learn-seo-local-seo-fast-fun/)
+
+* [Coso completo di massaggio rilassante: Total Body](https://coursemetry.com/coso-completo-di-massaggio-rilassante-total-body/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
