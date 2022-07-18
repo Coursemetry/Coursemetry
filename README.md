@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published so far on 2022-07-18**
+## **87 Udemy free courses published so far on 2022-07-18**
 
 * [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
 
@@ -64,8 +64,6 @@
 
 * [Wordpress Elementor Course: Develop Site Without Coding](https://coursemetry.com/wordpress-elementor-course-develop-site-without-coding/)
 
-* [Blockchain Scaling Solutions](https://coursemetry.com/blockchain-scaling-solutions/)
-
 * [Depresyonla Başa Çıkma Kursu](https://coursemetry.com/depresyonla-basa-cikma-kursu/)
 
 * [Eğitimde Rehberlik Kursu](https://coursemetry.com/egitimde-rehberlik-kursu/)
@@ -119,6 +117,66 @@
 * [Mitoloji Kursu](https://coursemetry.com/mitoloji-kursu/)
 
 * [SQL For Data Analysis](https://coursemetry.com/sql-for-data-analysis/)
+
+* [QuickBooks Desktop Multiple Currencies](https://coursemetry.com/quickbooks-desktop-multiple-currencies/)
+
+* [Water Supply System A-Z - Mechanical Engineering](https://coursemetry.com/water-supply-system-a-z-mechanical-engineering/)
+
+* [Xero Job Costing – Projects](https://coursemetry.com/xero-job-costing-projects/)
+
+* [Learn in 69 mins how to make right career choices & Make One](https://coursemetry.com/learn-in-69-mins-how-to-make-right-career-choices-make-one/)
+
+* [Blockchain Scaling Solutions](https://coursemetry.com/blockchain-scaling-solutions/)
+
+* [Job Costing QuickBooks Online - Contractors](https://coursemetry.com/job-costing-quickbooks-online-contractors/)
+
+* [QuickBooks Online Not for Profit Organization](https://coursemetry.com/quickbooks-online-not-for-profit-organization/)
+
+* [QuickBooks Payroll - QuickBooks Online](https://coursemetry.com/quickbooks-payroll-quickbooks-online/)
+
+* [The Complete Qt - QML with C++](https://coursemetry.com/the-complete-qt-qml-with-c/)
+
+* [Time Value of Money & Capital Budgeting - Present Value](https://coursemetry.com/time-value-of-money-capital-budgeting-present-value/)
+
+* [Introduction to Microsoft Word for Beginners to Intermediate](https://coursemetry.com/introduction-to-microsoft-word-for-beginners-to-intermediate/)
+
+* [Financial Statement Analysis – Ratio Analysis](https://coursemetry.com/financial-statement-analysis-ratio-analysis/)
+
+* [QuickBooks Desktop – Export Directly to Tax Software Lacerte](https://coursemetry.com/quickbooks-desktop-export-directly-to-tax-software-lacerte/)
+
+* [Эзотерический массаж Курс](https://coursemetry.com/%d1%8d%d0%b7%d0%be%d1%82%d0%b5%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%bc%d0%b0%d1%81%d1%81%d0%b0%d0%b6-%d0%ba%d1%83%d1%80%d1%81/)
+
+* [Gatsby JS | Build a personal blog using gatsbyJS](https://coursemetry.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/)
+
+* [Başarının Anahtarları Kursu](https://coursemetry.com/basarinin-anahtarlari-kursu/)
+
+* [Tıbbi İlk Yardım Kursu](https://coursemetry.com/tibbi-ilk-yardim-kursu/)
+
+* [Hacking Wifi desde Cero](https://coursemetry.com/hacking-wifi-desde-cero/)
+
+* [NFT Bootcamp: Essentials for Beginners](https://coursemetry.com/nft-bootcamp-essentials-for-beginners/)
+
+* [Kazanmak İçin Doğru Seçimler : SWOT Analizi](https://coursemetry.com/kazanmak-icin-dogru-secimler-swot-analizi/)
+
+* [Python Bootcamp 2021 Build 15 working Applications and Games](https://coursemetry.com/python-bootcamp-2021-build-15-working-applications-and-games/)
+
+* [Kapsamlı Mitoloji Kursu](https://coursemetry.com/kapsamli-mitoloji-kursu/)
+
+* [Mutlu Aile Kursu](https://coursemetry.com/mutlu-aile-kursu/)
+
+* [Altı Dil Altı İnsan - Başlangıç Seviyesi Altı Dil](https://coursemetry.com/alti-dil-alti-insan-baslangic-seviyesi-alti-dil/)
+
+* [Kapsamlı Satış - Pazarlama Kursu](https://coursemetry.com/kapsamli-satis-pazarlama-kursu/)
+
+* [Gemoloji Kursu](https://coursemetry.com/gemoloji-kursu/)
+
+* [Organizasyonel Psikoloji Kursu](https://coursemetry.com/organizasyonel-psikoloji-kursu/)
+
+* [Shopify Dropshipping From Paksitan ~ Yasir Ahmed MBA](https://coursemetry.com/shopify-dropshipping-from-paksitan-yasir-ahmed-mba/)
+
+* [Kişisel Gelişime Giriş Kursu](https://coursemetry.com/kisisel-gelisime-giris-kursu/)
+
+* [Detaylı Çakra ve Aura Kursu](https://coursemetry.com/detayli-cakra-ve-aura-kursu/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
