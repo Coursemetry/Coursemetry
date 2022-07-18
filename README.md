@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **17 Udemy free courses published so far on 2022-07-18**
+## **30 Udemy free courses published so far on 2022-07-18**
 
 * [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
 
@@ -37,6 +37,32 @@
 * [Storia del Teatro: Francia e Spagna](https://coursemetry.com/storia-del-teatro-francia-e-spagna/)
 
 * [Web Scraping Tutorial For Beginners With Scrapy & Python](https://coursemetry.com/web-scraping-tutorial-for-beginners-with-scrapy-python/)
+
+* [Self Confidence & Self Esteem: Confidence Via Self-Awareness](https://coursemetry.com/self-confidence-self-esteem-confidence-via-self-awareness/)
+
+* [LLQP Exam Preparation - Life insurance Module (Canada)](https://coursemetry.com/llqp-exam-preparation-life-insurance-module-canada/)
+
+* [Analyse de Données avec Python: Numpy, Pandas et Matplotlib](https://coursemetry.com/analyse-de-donnees-avec-python-numpy-pandas-et-matplotlib/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
+
+* [IFIC Investment Funds in Canada Exam Preparation](https://coursemetry.com/ific-investment-funds-in-canada-exam-preparation/)
+
+* [Adobe Photoshop CC Fundamentals and Essentials Training](https://coursemetry.com/adobe-photoshop-cc-fundamentals-and-essentials-training/)
+
+* [Learn Carnatic Flute | Sri.Thyagaraja Krithis - Vol 1](https://coursemetry.com/learn-carnatic-flute-sri-thyagaraja-krithis-vol-1/)
+
+* [Learn Carnatic Flute | Ramadasu Keerthanas | Volume 3](https://coursemetry.com/learn-carnatic-flute-ramadasu-keerthanas-volume-3/)
+
+* [Aromatherapy: complete beginner course for essential oils](https://coursemetry.com/aromatherapy-complete-beginner-course-for-essential-oils/)
+
+* [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
+
+* [C_HANAIMP_18 | SAP Certified HANA 2.0 (SPS05) Exam](https://coursemetry.com/c_hanaimp_18-sap-certified-hana-2-0-sps05-exam/)
+
+* [Adobe Photoshop CC Crash Course Learn Photoshop In Two Hour](https://coursemetry.com/adobe-photoshop-cc-crash-course-learn-photoshop-in-two-hour/)
+
+* [Wordpress Elementor Course: Develop Site Without Coding](https://coursemetry.com/wordpress-elementor-course-develop-site-without-coding/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
