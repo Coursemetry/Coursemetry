@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-07-18**
+## **99 Udemy free courses published so far on 2022-07-18**
 
 * [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
 
@@ -189,6 +189,18 @@
 * [Resepsiyonistlik Kursu](https://coursemetry.com/resepsiyonistlik-kursu/)
 
 * [NFT Beginner Course - Create, Sell and Invest in NFTs Today](https://coursemetry.com/nft-beginner-course-create-sell-and-invest-in-nfts-today/)
+
+* [Learn Python Scripting - Scripting Masterclass 2021](https://coursemetry.com/learn-python-scripting-scripting-masterclass-2021/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [Психология общения у детей](https://coursemetry.com/%d0%bf%d1%81%d0%b8%d1%85%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f-%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f-%d1%83-%d0%b4%d0%b5%d1%82%d0%b5%d0%b9/)
+
+* [Máster en WordPress 2022, ¡Desde Cero Hasta Experto!](https://coursemetry.com/master-en-wordpress-2022-desde-cero-hasta-experto/)
+
+* [Личностный анализ](https://coursemetry.com/%d0%bb%d0%b8%d1%87%d0%bd%d0%be%d1%81%d1%82%d0%bd%d1%8b%d0%b9-%d0%b0%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7/)
+
+* [Mindful Eating - Healthy Eating Habits for Life!](https://coursemetry.com/mindful-eating-healthy-eating-habits-for-life/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
