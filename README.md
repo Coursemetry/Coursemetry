@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **112 Udemy free courses published so far on 2022-07-18**
+## **124 Udemy free courses published so far on 2022-07-18**
 
 * [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
 
@@ -53,8 +53,6 @@
 * [Learn Carnatic Flute | Sri.Thyagaraja Krithis - Vol 1](https://coursemetry.com/learn-carnatic-flute-sri-thyagaraja-krithis-vol-1/)
 
 * [Learn Carnatic Flute | Ramadasu Keerthanas | Volume 3](https://coursemetry.com/learn-carnatic-flute-ramadasu-keerthanas-volume-3/)
-
-* [Aromatherapy: complete beginner course for essential oils](https://coursemetry.com/aromatherapy-complete-beginner-course-for-essential-oils/)
 
 * [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
 
@@ -227,6 +225,32 @@
 * [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
 
 * [Metaverse: GANGough, NFTs, Artyfact Fi, Prometheus & Open GL](https://coursemetry.com/metaverse-gangough-nfts-artyfact-fi-prometheus-open-gl/)
+
+* [DP-900 Microsoft Azure Data Fundamentals Practice Test MAY22](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-test-may22/)
+
+* [Arabic I Learn Arabic language with Mina](https://coursemetry.com/arabic-i-learn-arabic-language-with-mina/)
+
+* [Master Visual Scripting in Unity by Making Advanced Games](https://coursemetry.com/master-visual-scripting-in-unity-by-making-advanced-games/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Tests - May 22](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-may-22/)
+
+* [Aromatherapy: complete beginner course for essential oils](https://coursemetry.com/aromatherapy-complete-beginner-course-for-essential-oils/)
+
+* [Shopify eCommerce Store Masterclass - Start a Business!](https://coursemetry.com/shopify-ecommerce-store-masterclass-start-a-business/)
+
+* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
+
+* [Customer Support in The Modern World – Crash Course](https://coursemetry.com/customer-support-in-the-modern-world-crash-course/)
+
+* [How to Create a Professional Presentation in PowerPoint](https://coursemetry.com/how-to-create-a-professional-presentation-in-powerpoint/)
+
+* [Facebook Ads Marketing Targeting Strategies ~Hindi 2022](https://coursemetry.com/facebook-ads-marketing-targeting-strategies-hindi-2022/)
+
+* [Complete Guide to eBay Selling as a Business](https://coursemetry.com/complete-guide-to-ebay-selling-as-a-business/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
