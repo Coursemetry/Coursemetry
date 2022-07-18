@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **16 Udemy free courses published so far on 2022-07-18**
+## **17 Udemy free courses published so far on 2022-07-18**
 
 * [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
 
@@ -35,6 +35,8 @@
 * [Curso Introdutório de Java para Iniciantes (VERSÃO ANTIGA)](https://coursemetry.com/curso-introdutorio-de-java-para-iniciantes-versao-antiga/)
 
 * [Storia del Teatro: Francia e Spagna](https://coursemetry.com/storia-del-teatro-francia-e-spagna/)
+
+* [Web Scraping Tutorial For Beginners With Scrapy & Python](https://coursemetry.com/web-scraping-tutorial-for-beginners-with-scrapy-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
