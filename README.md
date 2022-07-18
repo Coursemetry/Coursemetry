@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **87 Udemy free courses published so far on 2022-07-18**
+## **93 Udemy free courses published so far on 2022-07-18**
 
 * [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
 
@@ -177,6 +177,18 @@
 * [Kişisel Gelişime Giriş Kursu](https://coursemetry.com/kisisel-gelisime-giris-kursu/)
 
 * [Detaylı Çakra ve Aura Kursu](https://coursemetry.com/detayli-cakra-ve-aura-kursu/)
+
+* [Adli Bilişim Kursu](https://coursemetry.com/adli-bilisim-kursu/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [Resepsiyonistlik Kursu](https://coursemetry.com/resepsiyonistlik-kursu/)
+
+* [NFT Beginner Course - Create, Sell and Invest in NFTs Today](https://coursemetry.com/nft-beginner-course-create-sell-and-invest-in-nfts-today/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
