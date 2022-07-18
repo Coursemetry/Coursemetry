@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published so far on 2022-07-18**
+## **58 Udemy free courses published so far on 2022-07-18**
 
 * [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
 
@@ -63,6 +63,62 @@
 * [Adobe Photoshop CC Crash Course Learn Photoshop In Two Hour](https://coursemetry.com/adobe-photoshop-cc-crash-course-learn-photoshop-in-two-hour/)
 
 * [Wordpress Elementor Course: Develop Site Without Coding](https://coursemetry.com/wordpress-elementor-course-develop-site-without-coding/)
+
+* [Blockchain Scaling Solutions](https://coursemetry.com/blockchain-scaling-solutions/)
+
+* [Depresyonla Başa Çıkma Kursu](https://coursemetry.com/depresyonla-basa-cikma-kursu/)
+
+* [Eğitimde Rehberlik Kursu](https://coursemetry.com/egitimde-rehberlik-kursu/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [Eğitim Psikolojisi Kursu](https://coursemetry.com/egitim-psikolojisi-kursu/)
+
+* [Kapsamlı Psikoloji Kursu](https://coursemetry.com/kapsamli-psikoloji-kursu/)
+
+* [Sosyal Bilimler - Sınav Örnekleri İle](https://coursemetry.com/sosyal-bilimler-sinav-ornekleri-ile/)
+
+* [No Oil Cooking Recipes - Eat Healthy! Live Strong!](https://coursemetry.com/no-oil-cooking-recipes-eat-healthy-live-strong/)
+
+* [Eğitimde Psikoloji Kursu](https://coursemetry.com/egitimde-psikoloji-kursu/)
+
+* [CV Hazırlama Teknikleri Kursu](https://coursemetry.com/cv-hazirlama-teknikleri-kursu/)
+
+* [Kapsamlı Türkçe Dil Bilgisi Kursu](https://coursemetry.com/kapsamli-turkce-dil-bilgisi-kursu/)
+
+* [Kapsamlı Eğitim Bilimleri Kursu](https://coursemetry.com/kapsamli-egitim-bilimleri-kursu/)
+
+* [Automated Machine Learning for Beginners (Google & Apple)](https://coursemetry.com/automated-machine-learning-for-beginners-google-apple/)
+
+* [Sıfırdan Kapsamlı Matematik Kursu (Sınav Örnekleri İle)](https://coursemetry.com/sifirdan-kapsamli-matematik-kursu-sinav-ornekleri-ile/)
+
+* [İş ve Çalışma Psikolojisi Kursu](https://coursemetry.com/is-ve-calisma-psikolojisi-kursu/)
+
+* [Genel Psikoloji Kursu](https://coursemetry.com/genel-psikoloji-kursu/)
+
+* [Lean Six Sigma: Toolkit](https://coursemetry.com/lean-six-sigma-toolkit/)
+
+* [Kapsamlı Kamu Yönetimi Kursu](https://coursemetry.com/kapsamli-kamu-yonetimi-kursu/)
+
+* [Adli Bilişim/Dijital Kursu](https://coursemetry.com/adli-bilisim-dijital-kursu/)
+
+* [Eğitim Psikolojisinde Ölçme Kursu](https://coursemetry.com/egitim-psikolojisinde-olcme-kursu/)
+
+* [Dikkat Eksikliği ve Hiperaktivite (DEHB) Bozukluğu Kursu](https://coursemetry.com/dikkat-eksikligi-ve-hiperaktivite-dehb-bozuklugu-kursu/)
+
+* [P.O.W.E.R. : Proven Interview System to crack your DREAM job](https://coursemetry.com/p-o-w-e-r-proven-interview-system-to-crack-your-dream-job/)
+
+* [Enerji ve Şifa Kursu](https://coursemetry.com/enerji-ve-sifa-kursu/)
+
+* [Öğretim Yöntemleri ve Teknikleri Kursu](https://coursemetry.com/ogretim-yontemleri-ve-teknikleri-kursu/)
+
+* [Eğitimin Temelleri Kursu](https://coursemetry.com/egitimin-temelleri-kursu/)
+
+* [Bilgisayar Programcılığı](https://coursemetry.com/bilgisayar-programciligi/)
+
+* [Mitoloji Kursu](https://coursemetry.com/mitoloji-kursu/)
+
+* [SQL For Data Analysis](https://coursemetry.com/sql-for-data-analysis/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
