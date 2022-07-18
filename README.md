@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **99 Udemy free courses published so far on 2022-07-18**
+## **112 Udemy free courses published so far on 2022-07-18**
 
 * [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
 
@@ -201,6 +201,32 @@
 * [Личностный анализ](https://coursemetry.com/%d0%bb%d0%b8%d1%87%d0%bd%d0%be%d1%81%d1%82%d0%bd%d1%8b%d0%b9-%d0%b0%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7/)
 
 * [Mindful Eating - Healthy Eating Habits for Life!](https://coursemetry.com/mindful-eating-healthy-eating-habits-for-life/)
+
+* [Sosyal Medya Bağımlılığı Kursu](https://coursemetry.com/sosyal-medya-bagimliligi-kursu/)
+
+* [введение в психологию курс](https://coursemetry.com/%d0%b2%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2-%d0%bf%d1%81%d0%b8%d1%85%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8e-%d0%ba%d1%83%d1%80%d1%81/)
+
+* [Nefes Teknikleri Kursu](https://coursemetry.com/nefes-teknikleri-kursu/)
+
+* [Universidad Excel - Básico, Intermedio y Avanzado!](https://coursemetry.com/universidad-excel-basico-intermedio-y-avanzado/)
+
+* [Refleksoloji Kursu](https://coursemetry.com/refleksoloji-kursu/)
+
+* [Stres Yönetimi ve Öfke Kontrolü Kursu](https://coursemetry.com/stres-yonetimi-ve-ofke-kontrolu-kursu/)
+
+* [Ezoterizm Kursu](https://coursemetry.com/ezoterizm-kursu/)
+
+* [Medya Psikolojisi Kursu](https://coursemetry.com/medya-psikolojisi-kursu/)
+
+* [Psikolojik Açıdan Problem Çözme Kursu](https://coursemetry.com/psikolojik-acidan-problem-cozme-kursu/)
+
+* [Uyku ve Uyku Sağlığı](https://coursemetry.com/uyku-ve-uyku-sagligi/)
+
+* [Kadın ve Çocuk Psikolojisi Kursu](https://coursemetry.com/kadin-ve-cocuk-psikolojisi-kursu/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [Metaverse: GANGough, NFTs, Artyfact Fi, Prometheus & Open GL](https://coursemetry.com/metaverse-gangough-nfts-artyfact-fi-prometheus-open-gl/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
