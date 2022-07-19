@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **24 Udemy free courses published so far on 2022-07-19**
+## **67 Udemy free courses published so far on 2022-07-19**
 
 * [Public Relations: Become a Media Star by Pitching with Video](https://coursemetry.com/public-relations-become-a-media-star-by-pitching-with-video/)
 
@@ -51,6 +51,92 @@
 * [Automation: How to automate a business process](https://coursemetry.com/automation-how-to-automate-a-business-process/)
 
 * [Practical Photography for Absolute Beginners: 9 Courses in 1](https://coursemetry.com/practical-photography-for-absolute-beginners-9-courses-in-1/)
+
+* [Başarılı Ekip Kurmak ve Yönetmek Kursu](https://coursemetry.com/basarili-ekip-kurmak-ve-yonetmek-kursu/)
+
+* [Bahçe Bitkileri Kursu](https://coursemetry.com/bahce-bitkileri-kursu/)
+
+* [Türkler İçin Yunanca - Kur - 2](https://coursemetry.com/turkler-icin-yunanca-kur-2/)
+
+* [Başarılı Lider Olmak](https://coursemetry.com/basarili-lider-olmak/)
+
+* [Yönetici Koçluğu Kursu](https://coursemetry.com/yonetici-koclugu-kursu/)
+
+* [Türkler İçin Japonca Kursu - Kur - 3](https://coursemetry.com/turkler-icin-japonca-kursu-kur-3/)
+
+* [Türkler İçin Fransızca- Seviye - 3](https://coursemetry.com/turkler-icin-fransizca-seviye-3/)
+
+* [Türkler İçin Yunanca - Kur - 3](https://coursemetry.com/turkler-icin-yunanca-kur-3/)
+
+* [Şizofreni Kursu](https://coursemetry.com/sizofreni-kursu/)
+
+* [Çocukta ve Ergenlikte Depresyon Kursu](https://coursemetry.com/cocukta-ve-ergenlikte-depresyon-kursu/)
+
+* [Zaman Yönetimi Kursu](https://coursemetry.com/zaman-yonetimi-kursu/)
+
+* [Öğrenci Koçluğu Kursu](https://coursemetry.com/ogrenci-koclugu-kursu/)
+
+* [Bilişim Teknolojileri Kursu](https://coursemetry.com/bilisim-teknolojileri-kursu/)
+
+* [Emotional Freedom Technique - Duygusal Özgürleşme EFT Kursu](https://coursemetry.com/emotional-freedom-technique-duygusal-ozgurlesme-eft-kursu/)
+
+* [Laboratuvar Analistliği](https://coursemetry.com/laboratuvar-analistligi/)
+
+* [Botanik Kursu](https://coursemetry.com/botanik-kursu/)
+
+* [Türkler İçin Yunanca - Kur - 1](https://coursemetry.com/turkler-icin-yunanca-kur-1/)
+
+* [Çocuk Hastalıkları Kursu](https://coursemetry.com/cocuk-hastaliklari-kursu/)
+
+* [Bilinçaltı Analizi](https://coursemetry.com/bilincalti-analizi/)
+
+* [Türkler İçin İtalyanca - Seviye - 5](https://coursemetry.com/turkler-icin-italyanca-seviye-5/)
+
+* [Bilişsel ve Zihinsel Yetenekler](https://coursemetry.com/bilissel-ve-zihinsel-yetenekler/)
+
+* [Türkler İçin İtalyanca - Seviye - 3](https://coursemetry.com/turkler-icin-italyanca-seviye-3/)
+
+* [Türkler İçin Fransızca- Seviye - 1](https://coursemetry.com/turkler-icin-fransizca-seviye-1/)
+
+* [Almanca Kursu](https://coursemetry.com/almanca-kursu/)
+
+* [Türkler İçin Japonca Kursu - Kur - 2](https://coursemetry.com/turkler-icin-japonca-kursu-kur-2/)
+
+* [Telefonla İletişim Kursu](https://coursemetry.com/telefonla-iletisim-kursu/)
+
+* [Türkler İçin İtalyanca - Başlangıç - Seviye - 1](https://coursemetry.com/turkler-icin-italyanca-baslangic-seviye-1/)
+
+* [Hipnoz Kursu](https://coursemetry.com/hipnoz-kursu/)
+
+* [Liderlik 2. Seviye Kursu](https://coursemetry.com/liderlik-2-seviye-kursu/)
+
+* [Beden Dili Kursu](https://coursemetry.com/beden-dili-kursu/)
+
+* [Türkler İçin Arapça Kursu - Seviye 3](https://coursemetry.com/turkler-icin-arapca-kursu-seviye-3/)
+
+* [Türkler İçin İtalyanca - Seviye - 4](https://coursemetry.com/turkler-icin-italyanca-seviye-4/)
+
+* [Diksiyon Kursu](https://coursemetry.com/diksiyon-kursu/)
+
+* [Yeme Bozuklukları Kursu](https://coursemetry.com/yeme-bozukluklari-kursu/)
+
+* [Cinsel İşlev Bozuklukları Kursu](https://coursemetry.com/cinsel-islev-bozukluklari-kursu/)
+
+* [Etkili İletişim Kursu](https://coursemetry.com/etkili-iletisim-kursu/)
+
+* [Temel Psikoloji](https://coursemetry.com/temel-psikoloji/)
+
+* [Psikolojik Sistemin İşleyişi Kursu](https://coursemetry.com/psikolojik-sistemin-isleyisi-kursu/)
+
+* [Türkler İçin Kapsamlı İtalyanca Kursu](https://coursemetry.com/turkler-icin-kapsamli-italyanca-kursu/)
+
+* [Türkler İçin İtalyanca - Seviye - 2](https://coursemetry.com/turkler-icin-italyanca-seviye-2/)
+
+* [Psikolojinin ve Zihnin Yasaları](https://coursemetry.com/psikolojinin-ve-zihnin-yasalari/)
+
+* [Balistik Kursu](https://coursemetry.com/balistik-kursu/)
+
+* [Zeka Türü Analizi Kursu](https://coursemetry.com/zeka-turu-analizi-kursu/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
