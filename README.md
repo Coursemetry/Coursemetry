@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **232 Udemy free courses published so far on 2022-07-19**
+## **244 Udemy free courses published so far on 2022-07-19**
 
 * [Public Relations: Become a Media Star by Pitching with Video](https://coursemetry.com/public-relations-become-a-media-star-by-pitching-with-video/)
 
@@ -467,6 +467,30 @@
 * [Learn Adobe XD for UI UX Design](https://coursemetry.com/learn-adobe-xd-for-ui-ux-design/)
 
 * [Complete German Course: Learn German for Beginners](https://coursemetry.com/complete-german-course-learn-german-for-beginners/)
+
+* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+
+* [Forex Scalping Strategy Course-Guide in Scalping the Forex](https://coursemetry.com/forex-scalping-strategy-course-guide-in-scalping-the-forex/)
+
+* [Curso completo de Java 2022-De cero a Master](https://coursemetry.com/curso-completo-de-java-2022-de-cero-a-master/)
+
+* [NLP Certification- BERT, GPTs, HMTL & Multimodal Large Model](https://coursemetry.com/nlp-certification-bert-gpts-hmtl-multimodal-large-model/)
+
+* [Data Science: Python for Data Analysis 2022 Full Bootcamp](https://coursemetry.com/data-science-python-for-data-analysis-2022-full-bootcamp/)
+
+* [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [Learn Coding with Java from Scratch: Essential Training 2022](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2022/)
+
+* [desbloquear y acceder a ANDROID, IPHONE y COMPUTADORAS](https://coursemetry.com/desbloquear-y-acceder-a-android-iphone-y-computadoras/)
+
+* [The R Programming For Data Science A-Z Complete Diploma 2022](https://coursemetry.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/)
+
+* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+
+* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
