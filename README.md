@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **190 Udemy free courses published so far on 2022-07-19**
+## **191 Udemy free courses published so far on 2022-07-19**
 
 * [Public Relations: Become a Media Star by Pitching with Video](https://coursemetry.com/public-relations-become-a-media-star-by-pitching-with-video/)
 
@@ -383,6 +383,8 @@
 * [Fiverr Freelancing For Absolute Beginners: Basic to Advance](https://coursemetry.com/fiverr-freelancing-for-absolute-beginners-basic-to-advance/)
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
