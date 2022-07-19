@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **174 Udemy free courses published so far on 2022-07-19**
+## **190 Udemy free courses published so far on 2022-07-19**
 
 * [Public Relations: Become a Media Star by Pitching with Video](https://coursemetry.com/public-relations-become-a-media-star-by-pitching-with-video/)
 
@@ -351,6 +351,38 @@
 * [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
 
 * [DevOps for the Absolute Beginner - Hands On - DevOps](https://coursemetry.com/devops-for-the-absolute-beginner-hands-on-devops/)
+
+* [1Z0-1093-22 Oracle Cloud Database Services Specialist](https://coursemetry.com/1z0-1093-22-oracle-cloud-database-services-specialist/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [Building Android Widgets from Scratch ( Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [1Z0-1067-22 Oracle OCI 2022 Cloud Operations Associate](https://coursemetry.com/1z0-1067-22-oracle-oci-2022-cloud-operations-associate/)
+
+* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
+
+* [Oracle Autonomous Database 2022 Specialist (1Z0-931-22)](https://coursemetry.com/oracle-autonomous-database-2022-specialist-1z0-931-22/)
+
+* [1Z0-1094-22 Oracle Cloud Database Migration and Integration.](https://coursemetry.com/1z0-1094-22-oracle-cloud-database-migration-and-integration/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [HVAC Chillers System Description A-Z](https://coursemetry.com/hvac-chillers-system-description-a-z/)
+
+* [Car Flipping : The Art of Car Flipping](https://coursemetry.com/car-flipping-the-art-of-car-flipping/)
+
+* [Fiverr Freelancing For Absolute Beginners: Basic to Advance](https://coursemetry.com/fiverr-freelancing-for-absolute-beginners-basic-to-advance/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
