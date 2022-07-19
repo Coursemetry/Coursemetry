@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-07-19**
+## **124 Udemy free courses published so far on 2022-07-19**
 
 * [Public Relations: Become a Media Star by Pitching with Video](https://coursemetry.com/public-relations-become-a-media-star-by-pitching-with-video/)
 
@@ -137,6 +137,120 @@
 * [Balistik Kursu](https://coursemetry.com/balistik-kursu/)
 
 * [Zeka Türü Analizi Kursu](https://coursemetry.com/zeka-turu-analizi-kursu/)
+
+* [Parapsikoloji Kursu](https://coursemetry.com/parapsikoloji-kursu/)
+
+* [Psikolojide Çin Ekolleri](https://coursemetry.com/psikolojide-cin-ekolleri/)
+
+* [Madde Bağımlılığı Kursu](https://coursemetry.com/madde-bagimliligi-kursu/)
+
+* [Alternatif Tıp Kursu](https://coursemetry.com/alternatif-tip-kursu/)
+
+* [Aile, Evlilik ve Çift Terapisi Kursu](https://coursemetry.com/aile-evlilik-ve-cift-terapisi-kursu/)
+
+* [Din Bilimleri Kursu](https://coursemetry.com/din-bilimleri-kursu/)
+
+* [Temel Kuantum Dersleri](https://coursemetry.com/temel-kuantum-dersleri/)
+
+* [Kalite Yönetimi Kursu](https://coursemetry.com/kalite-yonetimi-kursu/)
+
+* [Renklerin Analizi Kursu](https://coursemetry.com/renklerin-analizi-kursu/)
+
+* [Reklamcılık Kursu](https://coursemetry.com/reklamcilik-kursu/)
+
+* [Motivasyon Kursu](https://coursemetry.com/motivasyon-kursu/)
+
+* [Yabancı Dil Öğrenme Teknikleri (İngilizce İçin)](https://coursemetry.com/yabanci-dil-ogrenme-teknikleri-ingilizce-icin/)
+
+* [Основные психологические курсы](https://coursemetry.com/%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d0%bf%d1%81%d0%b8%d1%85%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%ba%d1%83%d1%80%d1%81%d1%8b/)
+
+* [Postgraduate Diploma: Digital Product & Service Owner](https://coursemetry.com/postgraduate-diploma-digital-product-service-owner/)
+
+* [TUS Histoloji ve Embriyoloji Kursu](https://coursemetry.com/tus-histoloji-ve-embriyoloji-kursu/)
+
+* [Türkler İçin Yunanca Kapsamlı Kurs](https://coursemetry.com/turkler-icin-yunanca-kapsamli-kurs/)
+
+* [Aile Koçluğu Kursu](https://coursemetry.com/aile-koclugu-kursu/)
+
+* [İnsan Biyoenerjisi Kursu](https://coursemetry.com/insan-biyoenerjisi-kursu/)
+
+* [ნაბიჯები კარიერისთვის](https://coursemetry.com/%e1%83%9c%e1%83%90%e1%83%91%e1%83%98%e1%83%af%e1%83%94%e1%83%91%e1%83%98-%e1%83%99%e1%83%90%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98%e1%83%a1%e1%83%97%e1%83%95%e1%83%98%e1%83%a1/)
+
+* [Kapsamlı Çocuk Psikolojisi, Hastalıkları ve Çocukta Beslenme](https://coursemetry.com/kapsamli-cocuk-psikolojisi-hastaliklari-ve-cocukta-beslenme/)
+
+* [Psikolojik Rahatsızlıklar Kursu](https://coursemetry.com/psikolojik-rahatsizliklar-kursu/)
+
+* [Fobilerle Başa Çıkma Yolları Kursu](https://coursemetry.com/fobilerle-basa-cikma-yollari-kursu/)
+
+* [Okul Öncesi Eğitim Mevzuatı](https://coursemetry.com/okul-oncesi-egitim-mevzuati/)
+
+* [Liderlik Kursu](https://coursemetry.com/liderlik-kursu/)
+
+* [Зигмунд Фрейд - Массовая психология курс](https://coursemetry.com/%d0%b7%d0%b8%d0%b3%d0%bc%d1%83%d0%bd%d0%b4-%d1%84%d1%80%d0%b5%d0%b9%d0%b4-%d0%bc%d0%b0%d1%81%d1%81%d0%be%d0%b2%d0%b0%d1%8f-%d0%bf%d1%81%d0%b8%d1%85%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f-%d0%ba%d1%83/)
+
+* [Psikoloji - Cinsel Terapi](https://coursemetry.com/psikoloji-cinsel-terapi/)
+
+* [Türkler İçin Çince Kursu](https://coursemetry.com/turkler-icin-cince-kursu/)
+
+* [Maden ve Mineral Bilimi Kursu](https://coursemetry.com/maden-ve-mineral-bilimi-kursu/)
+
+* [Türkler İçin Bulgarca](https://coursemetry.com/turkler-icin-bulgarca/)
+
+* [Türkler İçin Arapça Kapsamlı Kurs](https://coursemetry.com/turkler-icin-arapca-kapsamli-kurs/)
+
+* [Kişilik Psikolojisi Kursu](https://coursemetry.com/kisilik-psikolojisi-kursu/)
+
+* [Türkler İçin Sıfırdan İleri Düzey Fransızca Kursu 2. Edition](https://coursemetry.com/turkler-icin-sifirdan-ileri-duzey-fransizca-kursu-2-edition/)
+
+* [TUS Hazırlık Histoloji Kursu](https://coursemetry.com/tus-hazirlik-histoloji-kursu/)
+
+* [Современная психология](https://coursemetry.com/%d1%81%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d0%bf%d1%81%d0%b8%d1%85%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/)
+
+* [Santé du Sommeil](https://coursemetry.com/sante-du-sommeil/)
+
+* [İnsan Kaynakları](https://coursemetry.com/insan-kaynaklari/)
+
+* [Kaygı Bozuklukları](https://coursemetry.com/kaygi-bozukluklari/)
+
+* [Emlak Danışmanlığı Kursu](https://coursemetry.com/emlak-danismanligi-kursu/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [İletişim Uzmanlığı](https://coursemetry.com/iletisim-uzmanligi/)
+
+* [TUS' a Hazırlık Anatomi Kursu](https://coursemetry.com/tus-a-hazirlik-anatomi-kursu/)
+
+* [Türkler İçin Kapsamlı Farsça Kursu](https://coursemetry.com/turkler-icin-kapsamli-farsca-kursu/)
+
+* [Radyo - TV Spikeriliği Kursu](https://coursemetry.com/radyo-tv-spikeriligi-kursu/)
+
+* [Holistik Şifa Kursu](https://coursemetry.com/holistik-sifa-kursu/)
+
+* [ყოვლისმომცველი ფსიქოლოგიის კურსი](https://coursemetry.com/%e1%83%a7%e1%83%9d%e1%83%95%e1%83%9a%e1%83%98%e1%83%a1%e1%83%9b%e1%83%9d%e1%83%9b%e1%83%aa%e1%83%95%e1%83%94%e1%83%9a%e1%83%98-%e1%83%a4%e1%83%a1%e1%83%98%e1%83%a5%e1%83%9d%e1%83%9a%e1%83%9d%e1%83%92/)
+
+* [Breathing Techniques and Therapy Course](https://coursemetry.com/breathing-techniques-and-therapy-course/)
+
+* [Yönetici Asistanlığı Kursu](https://coursemetry.com/yonetici-asistanligi-kursu/)
+
+* [Psikolojik Danışmanlık Temelleri ve Teknikleri Kursu](https://coursemetry.com/psikolojik-danismanlik-temelleri-ve-teknikleri-kursu/)
+
+* [Endişe İle Başa Çıkma Yolları](https://coursemetry.com/endise-ile-basa-cikma-yollari/)
+
+* [Japonca Kursu - Seviye- 1](https://coursemetry.com/japonca-kursu-seviye-1/)
+
+* [Etkili Eğitmenlik Kursu](https://coursemetry.com/etkili-egitmenlik-kursu/)
+
+* [Osho Terapisi Kursu](https://coursemetry.com/osho-terapisi-kursu/)
+
+* [Türkler İçin Kapsamlı Polonya Dili Lehçe Kursu](https://coursemetry.com/turkler-icin-kapsamli-polonya-dili-lehce-kursu/)
+
+* [Emlak Danışmanlığı Kursu](https://coursemetry.com/emlak-danismanligi-kursu-2/)
+
+* [Learn How to Play Violin From Scratch-FREE COURSE](https://coursemetry.com/learn-how-to-play-violin-from-scratch-free-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
