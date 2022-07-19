@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **138 Udemy free courses published so far on 2022-07-19**
+## **174 Udemy free courses published so far on 2022-07-19**
 
 * [Public Relations: Become a Media Star by Pitching with Video](https://coursemetry.com/public-relations-become-a-media-star-by-pitching-with-video/)
 
@@ -279,6 +279,78 @@
 * [Learn IELTS Daily!](https://coursemetry.com/learn-ielts-daily/)
 
 * [Secrets to Write a Copy that Sells like Crazy-Freelance copy](https://coursemetry.com/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/)
+
+* [Curso Completo de Letras de Rap Freestyle de Cero a Héroe](https://coursemetry.com/curso-completo-de-letras-de-rap-freestyle-de-cero-a-heroe/)
+
+* [Electrical Designing Using AutoCAD - 4 in 1 Projects Course](https://coursemetry.com/electrical-designing-using-autocad-4-in-1-projects-course/)
+
+* [Healthy living with "No Oil" Recipes - Non Vegetarian](https://coursemetry.com/healthy-living-with-no-oil-recipes-non-vegetarian/)
+
+* [Adobe Premiere Pro CC Essential Video Editing Zero To Hero](https://coursemetry.com/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
+
+* [Amazon FBA Mastery: How to start from scratch today](https://coursemetry.com/amazon-fba-mastery-how-to-start-from-scratch-today/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
+
+* [إدارة المشاريع للجميع](https://coursemetry.com/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [Unleash Your Creative Mind](https://coursemetry.com/unleash-your-creative-mind/)
+
+* [Fire Up Creativity in Your Child](https://coursemetry.com/fire-up-creativity-in-your-child/)
+
+* [Journalism -TV Reporters, News Anchors Look Great on TV](https://coursemetry.com/journalism-tv-reporters-news-anchors-look-great-on-tv/)
+
+* [The Complete HTML & CSS Course: Build Websites like a Pro](https://coursemetry.com/the-complete-html-css-course-build-websites-like-a-pro/)
+
+* [Complete Good Sleep Habits Course - Sleep Better Tonight!](https://coursemetry.com/complete-good-sleep-habits-course-sleep-better-tonight/)
+
+* [How to Enjoy Wine More AND Spend Less Money](https://coursemetry.com/how-to-enjoy-wine-more-and-spend-less-money/)
+
+* [YouTube Marketing: Become a Digital TV Star in Your Niche](https://coursemetry.com/youtube-marketing-become-a-digital-tv-star-in-your-niche/)
+
+* [Sales Skills Training: Explode Your Sales with Online Video](https://coursemetry.com/sales-skills-training-explode-your-sales-with-online-video/)
+
+* [Clean Technology Fundamentals: Distributed Generation](https://coursemetry.com/clean-technology-fundamentals-distributed-generation/)
+
+* [Canadian Securities Course CSC PART 1 Exam Preparation](https://coursemetry.com/canadian-securities-course-csc-part-1-exam-preparation/)
+
+* [Podcasting: How to Speak Effectively on Your Own Podcast](https://coursemetry.com/podcasting-how-to-speak-effectively-on-your-own-podcast/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [C++ : Tools and Ecosystem for Beginners](https://coursemetry.com/c-tools-and-ecosystem-for-beginners/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
+
+* [Python for Beginners - हिंदी में सीखें Python Programming](https://coursemetry.com/python-for-beginners-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-python-programming/)
+
+* [Curso de TJ Walker sobre hablar en público de 1 hora](https://coursemetry.com/curso-de-tj-walker-sobre-hablar-en-publico-de-1-hora/)
+
+* [Public Relations: Media Crisis Communications](https://coursemetry.com/public-relations-media-crisis-communications/)
+
+* [RESTful API Server in Nodejs (Arabic)](https://coursemetry.com/restful-api-server-in-nodejs-arabic/)
+
+* [The Complete Law Of Attraction Course Updated for the 2020s](https://coursemetry.com/the-complete-law-of-attraction-course-updated-for-the-2020s/)
+
+* [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
+
+* [PowerPoint Presentations: Deliver a Non-Boring Presentation](https://coursemetry.com/powerpoint-presentations-deliver-a-non-boring-presentation/)
+
+* [Media Training: You Can Be a Media Trainer](https://coursemetry.com/media-training-you-can-be-a-media-trainer/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [DevOps for the Absolute Beginner - Hands On - DevOps](https://coursemetry.com/devops-for-the-absolute-beginner-hands-on-devops/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
