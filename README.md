@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **191 Udemy free courses published so far on 2022-07-19**
+## **220 Udemy free courses published so far on 2022-07-19**
 
 * [Public Relations: Become a Media Star by Pitching with Video](https://coursemetry.com/public-relations-become-a-media-star-by-pitching-with-video/)
 
@@ -385,6 +385,64 @@
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
 * [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
+
+* [PHP for Beginners with MySQL create API and real time app](https://coursemetry.com/php-for-beginners-with-mysql-create-api-and-real-time-app/)
+
+* [HACKING COMPLETO desde ANDROID](https://coursemetry.com/hacking-completo-desde-android/)
+
+* [Análisis de datos con Python](https://coursemetry.com/analisis-de-datos-con-python/)
+
+* [learn bootstrap 5 and tailwind from scratch with project](https://coursemetry.com/learn-bootstrap-5-and-tailwind-from-scratch-with-project/)
+
+* [Fundamentos de Programación: Aprende a programar desde cero](https://coursemetry.com/fundamentos-de-programacion-aprende-a-programar-desde-cero/)
+
+* [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 1](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-1/)
+
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
+
+* [Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://coursemetry.com/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/)
+
+* [Power BI de principiante a avanzado.](https://coursemetry.com/power-bi-de-principiante-a-avanzado/)
+
+* [MB-910 Microsoft Dynamics 365 Fundamentals - Tests 2022](https://coursemetry.com/mb-910-microsoft-dynamics-365-fundamentals-tests-2022/)
+
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
+
+* [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
+
+* [Análisis de datos con Power BI](https://coursemetry.com/analisis-de-datos-con-power-bi/)
+
+* [Análisis de casos reales y funciones DAX con Power BI](https://coursemetry.com/analisis-de-casos-reales-y-funciones-dax-con-power-bi/)
+
+* [Creación de WebService API REST con Laravel](https://coursemetry.com/creacion-de-webservice-api-rest-con-laravel/)
+
+* [Crea tu primer juego con Pygame](https://coursemetry.com/crea-tu-primer-juego-con-pygame/)
+
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
+* [Aprende Machine Learning desde cero con Python](https://coursemetry.com/aprende-machine-learning-desde-cero-con-python/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [The 2022 Marketing Method with Assignments & Case Study!](https://coursemetry.com/the-2022-marketing-method-with-assignments-case-study/)
+
+* [R Programming: Aprende a programar en R desde cero](https://coursemetry.com/r-programming-aprende-a-programar-en-r-desde-cero/)
+
+* [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
+
+* [Crea APIREST fácilmente con Python, PHP, Laravel o NodeJS](https://coursemetry.com/crea-apirest-facilmente-con-python-php-laravel-o-nodejs/)
+
+* [Google Spreadsheets: Empieza desde cero](https://coursemetry.com/google-spreadsheets-empieza-desde-cero/)
+
+* [MongoDB: Aprende desde cero a experto](https://coursemetry.com/mongodb-aprende-desde-cero-a-experto/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
