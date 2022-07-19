@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **124 Udemy free courses published so far on 2022-07-19**
+## **138 Udemy free courses published so far on 2022-07-19**
 
 * [Public Relations: Become a Media Star by Pitching with Video](https://coursemetry.com/public-relations-become-a-media-star-by-pitching-with-video/)
 
@@ -251,6 +251,34 @@
 * [Emlak Danışmanlığı Kursu](https://coursemetry.com/emlak-danismanligi-kursu-2/)
 
 * [Learn How to Play Violin From Scratch-FREE COURSE](https://coursemetry.com/learn-how-to-play-violin-from-scratch-free-course/)
+
+* [PCI DSS Masterclass - From Foundation to Mastery](https://coursemetry.com/pci-dss-masterclass-from-foundation-to-mastery/)
+
+* [The most important French words and expressions](https://coursemetry.com/the-most-important-french-words-and-expressions/)
+
+* [Boost your Self Confidence & achieve your dreams + Challenge](https://coursemetry.com/boost-your-self-confidence-achieve-your-dreams-challenge/)
+
+* [Zabbix Monitoring SW Implementation / Linux](https://coursemetry.com/zabbix-monitoring-sw-implementation-linux/)
+
+* [How To Coach Sports - Injury Prevention (Below The Knee)](https://coursemetry.com/how-to-coach-sports-injury-prevention-below-the-knee/)
+
+* [WordPress for beginners: Best WordPress and marketing course](https://coursemetry.com/wordpress-for-beginners-best-wordpress-and-marketing-course/)
+
+* [Cinematography Essentials for Videographers & Film-Makers](https://coursemetry.com/cinematography-essentials-for-videographers-film-makers/)
+
+* [Uygulamalı Laravel 9 Eğitimi](https://coursemetry.com/uygulamali-laravel-9-egitimi/)
+
+* [Learn Everything about Photo Editing in Adobe Photoshop](https://coursemetry.com/learn-everything-about-photo-editing-in-adobe-photoshop/)
+
+* [Generative Adversarial Networks for Data Augmentation (AI)](https://coursemetry.com/generative-adversarial-networks-for-data-augmentation-ai/)
+
+* [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
+
+* [Learning Linux Proxy Server - Squid](https://coursemetry.com/learning-linux-proxy-server-squid/)
+
+* [Learn IELTS Daily!](https://coursemetry.com/learn-ielts-daily/)
+
+* [Secrets to Write a Copy that Sells like Crazy-Freelance copy](https://coursemetry.com/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
