@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published so far on 2022-07-20**
+## **80 Udemy free courses published so far on 2022-07-20**
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
@@ -145,6 +145,24 @@
 * [Artificial Intelligence Music Creation (2022 New Edition)](https://coursemetry.com/artificial-intelligence-music-creation-2022-new-edition/)
 
 * [Whiteboard Video Creation with VideoScribe (2022 Edition)](https://coursemetry.com/whiteboard-video-creation-with-videoscribe-2022-edition/)
+
+* [TypeScript Basic: Type System, Interfaces, Types, Generics](https://coursemetry.com/typescript-basic-type-system-interfaces-types-generics/)
+
+* [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
+
+* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
+
+* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+
+* [Complete Wordpress Website Developer Course](https://coursemetry.com/complete-wordpress-website-developer-course/)
+
+* [Corporate Finance](https://coursemetry.com/corporate-finance/)
+
+* [QuickBooks Pro Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2022-2021-2020/)
+
+* [Ultimate Guide to Use WordPress Gutenberg Editor (2022)](https://coursemetry.com/ultimate-guide-to-use-wordpress-gutenberg-editor-2022/)
+
+* [Improve English by Movies](https://coursemetry.com/improve-english-by-movies/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
