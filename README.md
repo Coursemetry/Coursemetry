@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **82 Udemy free courses published so far on 2022-07-20**
+## **108 Udemy free courses published so far on 2022-07-20**
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
@@ -167,6 +167,58 @@
 * [Salesforce : Como funcionan las Certificaciones (Español)](https://coursemetry.com/salesforce-como-funcionan-las-certificaciones-espanol/)
 
 * [Essential Oils Ultimate Certification Course](https://coursemetry.com/essential-oils-ultimate-certification-course/)
+
+* [Ace your career with the Power of Artificial Intelligence](https://coursemetry.com/ace-your-career-with-the-power-of-artificial-intelligence/)
+
+* [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
+
+* [Residential Rental Property Tax Preparation 2021-2022](https://coursemetry.com/residential-rental-property-tax-preparation-2021-2022/)
+
+* [Killer ways to create and promote YouTube videos in 2022](https://coursemetry.com/killer-ways-to-create-and-promote-youtube-videos-in-2022/)
+
+* [Excel Accounting Problem](https://coursemetry.com/excel-accounting-problem/)
+
+* [Excellence in Oral Communication](https://coursemetry.com/excellence-in-oral-communication/)
+
+* [Design Beautiful Animated Websites Incredibly Fast in 2022](https://coursemetry.com/design-beautiful-animated-websites-incredibly-fast-in-2022/)
+
+* [WordPress Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/wordpress-practice-tests-interview-questions-basic-adv/)
+
+* [Debugging: Software engineering perspective](https://coursemetry.com/debugging-software-engineering-perspective/)
+
+* [Becoming A Sales Professional](https://coursemetry.com/becoming-a-sales-professional/)
+
+* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+
+* [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
+
+* [poultry farming Bacterial diseases hindering satisfying prod](https://coursemetry.com/poultry-farming-bacterial-diseases-hindering-satisfying-prod/)
+
+* [Microsoft Forms con énfasis a la Ramificación.](https://coursemetry.com/microsoft-forms-con-enfasis-a-la-ramificacion/)
+
+* [Curso completo de Python 2022-De cero a Master con Python 3](https://coursemetry.com/curso-completo-de-python-2022-de-cero-a-master-con-python-3/)
+
+* [Cómo Escribir Letras de Canciones Pop 2022 (corregido)](https://coursemetry.com/como-escribir-letras-de-canciones-pop-2022-corregido/)
+
+* [Ultra-Speed 3D Game Development using GameGuru (2022)](https://coursemetry.com/ultra-speed-3d-game-development-using-gameguru-2022/)
+
+* [Viral Marketing Masterclass (2022 Virality Edition)](https://coursemetry.com/viral-marketing-masterclass-2022-virality-edition/)
+
+* [Sosyal Mühendislik ve İnsan Manipulasyonu](https://coursemetry.com/sosyal-muhendislik-ve-insan-manipulasyonu/)
+
+* [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
+
+* [Artificial Intelligence and the Future of Work (2022)](https://coursemetry.com/artificial-intelligence-and-the-future-of-work-2022/)
+
+* [How to Deal with Porn Addiction - Quit Porn and Masturbation](https://coursemetry.com/how-to-deal-with-porn-addiction-quit-porn-and-masturbation/)
+
+* [Pequeños cambios positivos para tu vida.](https://coursemetry.com/pequenos-cambios-positivos-para-tu-vida/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [The 150 Most Important Irregular Verbs in English. Volume 1](https://coursemetry.com/the-150-most-important-irregular-verbs-in-english-volume-1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
