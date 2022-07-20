@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published so far on 2022-07-20**
+## **52 Udemy free courses published so far on 2022-07-20**
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
@@ -103,6 +103,10 @@
 * [Build a Mini Website with PHP](https://coursemetry.com/build-a-mini-website-with-php/)
 
 * [How to Find Your True-Self To Attract Your Ideal Partner](https://coursemetry.com/how-to-find-your-true-self-to-attract-your-ideal-partner/)
+
+* [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
+
+* [Wordpress Web Development for Absolute Beginner Zero to Hero](https://coursemetry.com/wordpress-web-development-for-absolute-beginner-zero-to-hero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
