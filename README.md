@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **52 Udemy free courses published so far on 2022-07-20**
+## **66 Udemy free courses published so far on 2022-07-20**
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
@@ -107,6 +107,34 @@
 * [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
 
 * [Wordpress Web Development for Absolute Beginner Zero to Hero](https://coursemetry.com/wordpress-web-development-for-absolute-beginner-zero-to-hero/)
+
+* [Tekla structures Shop drawings Steel Structure](https://coursemetry.com/tekla-structures-shop-drawings-steel-structure/)
+
+* [Robot structural design 15 stories residential buildings](https://coursemetry.com/robot-structural-design-15-stories-residential-buildings/)
+
+* [Autodesk Revit & Robot Structural Analysis + Sheets + BOQ](https://coursemetry.com/autodesk-revit-robot-structural-analysis-sheets-boq/)
+
+* [Csi Safe + AllPile foundation, slabs, beams and deflection](https://coursemetry.com/csi-safe-allpile-foundation-slabs-beams-and-deflection/)
+
+* [CSI ETABSV19 steel structure analysis and design](https://coursemetry.com/csi-etabsv19-steel-structure-analysis-and-design/)
+
+* [Advanced ETABS V2019 52 stories Tower different seismic sys](https://coursemetry.com/advanced-etabs-v2019-52-stories-tower-different-seismic-sys/)
+
+* [Csi ETABS in the Structural analysis of 15 stories+ basement](https://coursemetry.com/csi-etabs-in-the-structural-analysis-of-15-stories-basement/)
+
+* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/)
+
+* [CSI Sap2000 3D building design + all type of (Stairs+Tanks)](https://coursemetry.com/csi-sap2000-3d-building-design-all-type-of-stairstanks/)
+
+* [Robot Structural Analysis (Steel Structure)](https://coursemetry.com/robot-structural-analysis-steel-structure/)
+
+* [Revit structural drawing of 15 stories residential building](https://coursemetry.com/revit-structural-drawing-of-15-stories-residential-building/)
+
+* [Microsoft applications explained - Beginner's Guide](https://coursemetry.com/microsoft-applications-explained-beginners-guide/)
+
+* [Learn 10 Ways to Make MORE Money on YouTube!](https://coursemetry.com/learn-10-ways-to-make-more-money-on-youtube/)
+
+* [Certified MongoDB Developer & Database Administrator Pack](https://coursemetry.com/certified-mongodb-developer-database-administrator-pack/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
