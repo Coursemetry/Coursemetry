@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-07-20**
+## **130 Udemy free courses published so far on 2022-07-20**
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
@@ -219,6 +219,50 @@
 * [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
 
 * [The 150 Most Important Irregular Verbs in English. Volume 1](https://coursemetry.com/the-150-most-important-irregular-verbs-in-english-volume-1/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [Curso de Guitarra Rock y Blues de Cero a Héroe 2022](https://coursemetry.com/curso-de-guitarra-rock-y-blues-de-cero-a-heroe-2022/)
+
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [Cómo Crear una Página web con WordPress y Elementor](https://coursemetry.com/como-crear-una-pagina-web-con-wordpress-y-elementor/)
+
+* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [Microsoft Teams para el control de la Clase.](https://coursemetry.com/microsoft-teams-para-el-control-de-la-clase/)
+
+* [Selenium Automation: a complete package](https://coursemetry.com/selenium-automation-a-complete-package/)
+
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
+
+* [Two QuickBooks File-Business & Personal vs One File For Both](https://coursemetry.com/two-quickbooks-file-business-personal-vs-one-file-for-both/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [Governmental Accounting 300 Proprietary & Fiduciary Funds](https://coursemetry.com/governmental-accounting-300-proprietary-fiduciary-funds/)
+
+* [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
+
+* [Web Design Specialist Practice Exam : Practice Test 2022](https://coursemetry.com/web-design-specialist-practice-exam-practice-test-2022/)
+
+* [Java Basics Bootcamp](https://coursemetry.com/java-basics-bootcamp/)
+
+* [Win the Morning, 3 vital routines, 7 journaling methods](https://coursemetry.com/win-the-morning-3-vital-routines-7-journaling-methods/)
+
+* [Basic Bookkeeping Course 101](https://coursemetry.com/basic-bookkeeping-course-101/)
+
+* [Market Analysis & Customer Development at Digital Business](https://coursemetry.com/market-analysis-customer-development-at-digital-business/)
+
+* [Mindful Mum: A Basic Introduction to Mindfulness](https://coursemetry.com/mindful-mum-a-basic-introduction-to-mindfulness/)
+
+* [SVG Animation Project with CSS](https://coursemetry.com/svg-animation-project-with-css/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
