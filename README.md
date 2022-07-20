@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **80 Udemy free courses published so far on 2022-07-20**
+## **82 Udemy free courses published so far on 2022-07-20**
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
@@ -163,6 +163,10 @@
 * [Ultimate Guide to Use WordPress Gutenberg Editor (2022)](https://coursemetry.com/ultimate-guide-to-use-wordpress-gutenberg-editor-2022/)
 
 * [Improve English by Movies](https://coursemetry.com/improve-english-by-movies/)
+
+* [Salesforce : Como funcionan las Certificaciones (Español)](https://coursemetry.com/salesforce-como-funcionan-las-certificaciones-espanol/)
+
+* [Essential Oils Ultimate Certification Course](https://coursemetry.com/essential-oils-ultimate-certification-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
