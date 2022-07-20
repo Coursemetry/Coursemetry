@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published so far on 2022-07-20**
+## **71 Udemy free courses published so far on 2022-07-20**
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
@@ -135,6 +135,16 @@
 * [Learn 10 Ways to Make MORE Money on YouTube!](https://coursemetry.com/learn-10-ways-to-make-more-money-on-youtube/)
 
 * [Certified MongoDB Developer & Database Administrator Pack](https://coursemetry.com/certified-mongodb-developer-database-administrator-pack/)
+
+* [Python for Trading and Finance](https://coursemetry.com/python-for-trading-and-finance/)
+
+* [Personal Finance](https://coursemetry.com/personal-finance/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [Artificial Intelligence Music Creation (2022 New Edition)](https://coursemetry.com/artificial-intelligence-music-creation-2022-new-edition/)
+
+* [Whiteboard Video Creation with VideoScribe (2022 Edition)](https://coursemetry.com/whiteboard-video-creation-with-videoscribe-2022-edition/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
