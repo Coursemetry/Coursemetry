@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **130 Udemy free courses published so far on 2022-07-20**
+## **149 Udemy free courses published so far on 2022-07-20**
 
 * [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
 
@@ -263,6 +263,44 @@
 * [Mindful Mum: A Basic Introduction to Mindfulness](https://coursemetry.com/mindful-mum-a-basic-introduction-to-mindfulness/)
 
 * [SVG Animation Project with CSS](https://coursemetry.com/svg-animation-project-with-css/)
+
+* [Learn 47 Different Ways to Make Money Online!](https://coursemetry.com/learn-47-different-ways-to-make-money-online/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+
+* [Success tips for busy entrepreneurs- live your best life now](https://coursemetry.com/success-tips-for-busy-entrepreneurs-live-your-best-life-now/)
+
+* [Business Development: Lead Generation & Sales Conversion](https://coursemetry.com/business-development-lead-generation-sales-conversion/)
+
+* [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
+
+* [Become an SEO Wizard Using the Google Search Console (2022)](https://coursemetry.com/become-an-seo-wizard-using-the-google-search-console-2022/)
+
+* [Web Development Masterclass - Complete Certificate Course](https://coursemetry.com/web-development-masterclass-complete-certificate-course/)
+
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+
+* [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
+
+* [HTML, CSS, & Bootstrap - Certification Course for Beginners](https://coursemetry.com/html-css-bootstrap-certification-course-for-beginners/)
+
+* [Practical Kubernetes Guide](https://coursemetry.com/practical-kubernetes-guide/)
+
+* [AZ-900 Microsoft Azure Fundamentals Practice Exams Latest](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-exams-latest/)
+
+* [افضل كورس شامل لتعلم تطوير تطبيقات الموبايل باستخدام فلاتر](https://coursemetry.com/%d8%a7%d9%81%d8%b6%d9%84-%d9%83%d9%88%d8%b1%d8%b3-%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%85/)
+
+* [Deploy Infra in the Cloud using Terraform](https://coursemetry.com/deploy-infra-in-the-cloud-using-terraform/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
