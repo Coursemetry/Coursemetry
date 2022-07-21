@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **90 Udemy free courses published so far on 2022-07-21**
+## **102 Udemy free courses published so far on 2022-07-21**
 
 * [Perfect Your Punctuation](https://coursemetry.com/perfect-your-punctuation/)
 
@@ -183,6 +183,30 @@
 * [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
 
 * [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
+
+* [Salesforce Platform Developer 1 Practice Exams PD1 2022](https://coursemetry.com/salesforce-platform-developer-1-practice-exams-pd1-2022-3/)
+
+* [Curso de Guitarra Rock y Blues de Cero a Héroe 2022](https://coursemetry.com/curso-de-guitarra-rock-y-blues-de-cero-a-heroe-2022/)
+
+* [Apache Hive Interview Question and Answer (100+ FAQ)](https://coursemetry.com/apache-hive-interview-question-and-answer-100-faq/)
+
+* [Best Tips To Easily Remember Chinese Characters](https://coursemetry.com/best-tips-to-easily-remember-chinese-characters/)
+
+* [Solidworks particle study documentation](https://coursemetry.com/solidworks-particle-study-documentation/)
+
+* [Android Malware Analysis](https://coursemetry.com/android-malware-analysis/)
+
+* [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
+
+* [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
+
+* [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
+
+* [Microsoft AZ-104: Azure Administrator Exam Prep Test](https://coursemetry.com/microsoft-az-104-azure-administrator-exam-prep-test/)
+
+* [PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://coursemetry.com/pspo1-practice-tests-scrum-product-owner-certification-160q/)
+
+* [PMI-ACP: Agile Certified Project Management 200 Questions](https://coursemetry.com/pmi-acp-agile-certified-project-management-200-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
