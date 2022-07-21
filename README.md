@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **114 Udemy free courses published so far on 2022-07-21**
+## **125 Udemy free courses published so far on 2022-07-21**
 
 * [Perfect Your Punctuation](https://coursemetry.com/perfect-your-punctuation/)
 
@@ -231,6 +231,28 @@
 * [Adobe Premiere Pro CC Video Editing Course Beginners To Pro](https://coursemetry.com/adobe-premiere-pro-cc-video-editing-course-beginners-to-pro/)
 
 * [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
+
+* [How to VLOG 2022 : Complete Beginners Course +YouTube](https://coursemetry.com/how-to-vlog-2022-complete-beginners-course-youtube/)
+
+* [Aprenda a fazer o melhor Podcast com Power Podcasting](https://coursemetry.com/aprenda-a-fazer-o-melhor-podcast-com-power-podcasting/)
+
+* [Learn to Edit Video FAST! Adobe Premiere Pro 2022 StepByStep](https://coursemetry.com/learn-to-edit-video-fast-adobe-premiere-pro-2022-stepbystep/)
+
+* [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
+
+* [Adobe photoshop cc from a-z beginner to master](https://coursemetry.com/adobe-photoshop-cc-from-a-z-beginner-to-master/)
+
+* [LSSWB: Lean Six Sigma White Belt Practice Exams](https://coursemetry.com/lsswb-lean-six-sigma-white-belt-practice-exams/)
+
+* [Certification Scrum PSM1 / PSPO1 Practice Tests 2022](https://coursemetry.com/certification-scrum-psm1-pspo1-practice-tests-2022/)
+
+* [System Design : Programming language selection](https://coursemetry.com/system-design-programming-language-selection/)
+
+* [Clean Architecture In Flutter 3 (Arabic)](https://coursemetry.com/clean-architecture-in-flutter-3-arabic/)
+
+* [Cómo Crear una Página web con WordPress y Elementor](https://coursemetry.com/como-crear-una-pagina-web-con-wordpress-y-elementor/)
+
+* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
