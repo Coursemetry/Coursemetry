@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published so far on 2022-07-21**
+## **64 Udemy free courses published so far on 2022-07-21**
 
 * [Perfect Your Punctuation](https://coursemetry.com/perfect-your-punctuation/)
 
@@ -97,6 +97,40 @@
 * [Cisco CCNP Security SCOR 350-701 Practice Tests](https://coursemetry.com/cisco-ccnp-security-scor-350-701-practice-tests/)
 
 * [Learn SQLite For Absolute Beginners - Crash Course](https://coursemetry.com/learn-sqlite-for-absolute-beginners-crash-course/)
+
+* [Car Flipping : The Art of Car Flipping](https://coursemetry.com/car-flipping-the-art-of-car-flipping/)
+
+* [Make Your Excel Look Like a Standalone Program](https://coursemetry.com/make-your-excel-look-like-a-standalone-program/)
+
+* [The Complete Self-Discipline Course - Control Your Own Life](https://coursemetry.com/the-complete-self-discipline-course-control-your-own-life/)
+
+* [Complete Unreal Engine Megacourse: Beginner to Expert](https://coursemetry.com/complete-unreal-engine-megacourse-beginner-to-expert/)
+
+* [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
+
+* [Day Trading Ninja: 12 Hours DIY Day Trading Strategy](https://coursemetry.com/day-trading-ninja-12-hours-diy-day-trading-strategy/)
+
+* [MD-101 Managing Modern Desktops Practice Tests](https://coursemetry.com/md-101-managing-modern-desktops-practice-tests/)
+
+* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
+
+* [HTML, JavaScript, & Bootstrap - Certification Course](https://coursemetry.com/html-javascript-bootstrap-certification-course/)
+
+* [HTML, CSS, & JavaScript - Certification Course for Beginners](https://coursemetry.com/html-css-javascript-certification-course-for-beginners/)
+
+* [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
+
+* [Batur Teacher ile 10 haftada doğru telaffuzla İngilizce](https://coursemetry.com/batur-teacher-ile-10-haftada-dogru-telaffuzla-ingilizce/)
+
+* [LET’S SPEAK ENGLISH İngilizce Geliştirme Kursu](https://coursemetry.com/lets-speak-english-ingilizce-gelistirme-kursu/)
+
+* [100+ Exercises - Advanced Python Programming - 2022](https://coursemetry.com/100-exercises-advanced-python-programming-2022/)
+
+* [150+ Exercises - Object Oriented Programming in Python - OOP](https://coursemetry.com/150-exercises-object-oriented-programming-in-python-oop/)
+
+* [Google Professional Data Engineer & Cloud Developer Pack](https://coursemetry.com/google-professional-data-engineer-cloud-developer-pack/)
+
+* [Agile Scrum Advanced Software Development+Program Management](https://coursemetry.com/agile-scrum-advanced-software-developmentprogram-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
