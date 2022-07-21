@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-07-21**
+## **136 Udemy free courses published so far on 2022-07-21**
 
 * [Perfect Your Punctuation](https://coursemetry.com/perfect-your-punctuation/)
 
@@ -253,6 +253,28 @@
 * [Cómo Crear una Página web con WordPress y Elementor](https://coursemetry.com/como-crear-una-pagina-web-con-wordpress-y-elementor/)
 
 * [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
+
+* [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
+
+* [R Programming : Data Analysis and Visualisations using R](https://coursemetry.com/r-programming-data-analysis-and-visualisations-using-r/)
+
+* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
+
+* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [Curso de Guitarra Para Principiantes](https://coursemetry.com/curso-de-guitarra-para-principiantes/)
+
+* [Negocios Digitales](https://coursemetry.com/negocios-digitales/)
+
+* [Tu primer sitio web - herramienta clave para tus proyectos](https://coursemetry.com/tu-primer-sitio-web-herramienta-clave-para-tus-proyectos/)
+
+* [Desarrollando Mi Sistema Punto de Venta (C# y SQL Server)](https://coursemetry.com/desarrollando-mi-sistema-punto-de-venta-c-y-sql-server/)
+
+* [Practical Python for Dummies Beginner to Advance Course](https://coursemetry.com/practical-python-for-dummies-beginner-to-advance-course/)
+
+* [Applying Java Programming for Real World Project Development](https://coursemetry.com/applying-java-programming-for-real-world-project-development/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
