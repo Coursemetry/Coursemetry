@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **85 Udemy free courses published so far on 2022-07-21**
+## **90 Udemy free courses published so far on 2022-07-21**
 
 * [Perfect Your Punctuation](https://coursemetry.com/perfect-your-punctuation/)
 
@@ -173,6 +173,16 @@
 * [PyCharm Productivity and Debugging Techniques](https://coursemetry.com/pycharm-productivity-and-debugging-techniques/)
 
 * [The Complete Mathematics Software Developer Course for 2022](https://coursemetry.com/the-complete-mathematics-software-developer-course-for-2022/)
+
+* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
+
+* [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
