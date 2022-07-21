@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **137 Udemy free courses published so far on 2022-07-21**
+## **138 Udemy free courses published so far on 2022-07-21**
 
 * [Perfect Your Punctuation](https://coursemetry.com/perfect-your-punctuation/)
 
@@ -277,6 +277,8 @@
 * [Applying Java Programming for Real World Project Development](https://coursemetry.com/applying-java-programming-for-real-world-project-development/)
 
 * [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
+
+* [Effective Time Management For Professionals](https://coursemetry.com/effective-time-management-for-professionals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
