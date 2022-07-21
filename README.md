@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-07-21**
+## **85 Udemy free courses published so far on 2022-07-21**
 
 * [Perfect Your Punctuation](https://coursemetry.com/perfect-your-punctuation/)
 
@@ -131,6 +131,48 @@
 * [Google Professional Data Engineer & Cloud Developer Pack](https://coursemetry.com/google-professional-data-engineer-cloud-developer-pack/)
 
 * [Agile Scrum Advanced Software Development+Program Management](https://coursemetry.com/agile-scrum-advanced-software-developmentprogram-management/)
+
+* [Certified MongoDB Database Administrator - Practice Tests](https://coursemetry.com/certified-mongodb-database-administrator-practice-tests/)
+
+* [NIST Cybersecurity A-Z: NIST Cybersecurity Framework (CSF)](https://coursemetry.com/nist-cybersecurity-a-z-nist-cybersecurity-framework-csf-2/)
+
+* [Python API Programming with FastAPI and Flask](https://coursemetry.com/python-api-programming-with-fastapi-and-flask/)
+
+* [The Complete GSAP: JavaScript ,HTML and CSS Course for 2022](https://coursemetry.com/the-complete-gsap-javascript-html-and-css-course-for-2022/)
+
+* [NIST Cybersecurity A-Z: NIST Risk Management Framework (RMF)](https://coursemetry.com/nist-cybersecurity-a-z-nist-risk-management-framework-rmf/)
+
+* [The Complete Automation PyTest Course for 2022](https://coursemetry.com/the-complete-automation-pytest-course-for-2022/)
+
+* [Java Games Development With libGDX  | Create 5 Games](https://coursemetry.com/java-games-development-with-libgdx-create-5-games/)
+
+* [Game Development with Java and Python](https://coursemetry.com/game-development-with-java-and-python/)
+
+* [The Complete Python Game Development Course for 2022](https://coursemetry.com/the-complete-python-game-development-course-for-2022/)
+
+* [Aerospace Masterclass: Transonic Aerodynamics](https://coursemetry.com/aerospace-masterclass-transonic-aerodynamics/)
+
+* [The Complete Python Network Programming Course for 2022](https://coursemetry.com/the-complete-python-network-programming-course-for-2022/)
+
+* [The Complete Java Swing Course for GUI Development for 2022](https://coursemetry.com/the-complete-java-swing-course-for-gui-development-for-2022/)
+
+* [Game Development with PyGame  | Real World Games](https://coursemetry.com/game-development-with-pygame-real-world-games/)
+
+* [The Complete Java Game Development Course for 2022](https://coursemetry.com/the-complete-java-game-development-course-for-2022/)
+
+* [The Complete RESTful APIs with Python Course](https://coursemetry.com/the-complete-restful-apis-with-python-course/)
+
+* [Python Technical Interview Questions: The Ultimate Course](https://coursemetry.com/python-technical-interview-questions-the-ultimate-course/)
+
+* [Aerospace Masterclass: Aircraft Design](https://coursemetry.com/aerospace-masterclass-aircraft-design/)
+
+* [PEP8 Guidelines: Python Clean Coding](https://coursemetry.com/pep8-guidelines-python-clean-coding/)
+
+* [The Complete Java Game Development Course 2022: Part 2](https://coursemetry.com/the-complete-java-game-development-course-2022-part-2/)
+
+* [PyCharm Productivity and Debugging Techniques](https://coursemetry.com/pycharm-productivity-and-debugging-techniques/)
+
+* [The Complete Mathematics Software Developer Course for 2022](https://coursemetry.com/the-complete-mathematics-software-developer-course-for-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
