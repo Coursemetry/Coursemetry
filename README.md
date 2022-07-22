@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **44 Udemy free courses published so far on 2022-07-22**
+## **46 Udemy free courses published so far on 2022-07-22**
 
 * [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
 
@@ -91,6 +91,10 @@
 * [Manejo de fechas y horas en PHP](https://coursemetry.com/manejo-de-fechas-y-horas-en-php/)
 
 * [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [Build a full stack NFT Marketplace using Solidity & Next js](https://coursemetry.com/build-a-full-stack-nft-marketplace-using-solidity-next-js/)
+
+* [10 Power Skills para el trabajo](https://coursemetry.com/10-power-skills-para-el-trabajo/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
