@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **37 Udemy free courses published so far on 2022-07-22**
+## **44 Udemy free courses published so far on 2022-07-22**
 
 * [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
 
@@ -77,6 +77,20 @@
 * [Google Professional Cloud Developer Practice Exams - JULY](https://coursemetry.com/google-professional-cloud-developer-practice-exams-july/)
 
 * [Python For Beginners Course In-Depth](https://coursemetry.com/python-for-beginners-course-in-depth/)
+
+* [Learn Linux Daily!](https://coursemetry.com/learn-linux-daily/)
+
+* [Fundamentos y Lógica de Programación - Bootcamp 2022](https://coursemetry.com/fundamentos-y-logica-de-programacion-bootcamp-2022/)
+
+* [Despliegue de Proyecto de Node.js en Amazon Web Services AWS](https://coursemetry.com/despliegue-de-proyecto-de-node-js-en-amazon-web-services-aws/)
+
+* [English grammar tenses & structures, the ultimate course](https://coursemetry.com/english-grammar-tenses-structures-the-ultimate-course/)
+
+* [Web Analytics with Similarweb: from Basic to PRO!](https://coursemetry.com/web-analytics-with-similarweb-from-basic-to-pro/)
+
+* [Manejo de fechas y horas en PHP](https://coursemetry.com/manejo-de-fechas-y-horas-en-php/)
+
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
