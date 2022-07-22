@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published so far on 2022-07-22**
+## **81 Udemy free courses published so far on 2022-07-22**
 
 * [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
 
@@ -119,6 +119,52 @@
 * [Python pour le Deep Learning & le Machine Learning: A à Z](https://coursemetry.com/python-pour-le-deep-learning-le-machine-learning-a-a-z/)
 
 * [React.JS: The Complete Course for Beginners](https://coursemetry.com/react-js-the-complete-course-for-beginners/)
+
+* [Freelancing Mastery 2022](https://coursemetry.com/freelancing-mastery-2022/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [Public Speaking Skills: Deliver Great Technology Talks](https://coursemetry.com/public-speaking-skills-deliver-great-technology-talks/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Agile Project Management: Agile, Scrum, Kanban & XP](https://coursemetry.com/agile-project-management-agile-scrum-kanban-xp/)
+
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
+
+* [Workplace Communication: Effectively Deliver Criticism](https://coursemetry.com/workplace-communication-effectively-deliver-criticism/)
+
+* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
+
+* [EASY FRENCH-Language course for beginners](https://coursemetry.com/easy-french-language-course-for-beginners/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [Presentation Skills -Deliver an Excellent Ceremonial Speech](https://coursemetry.com/presentation-skills-deliver-an-excellent-ceremonial-speech/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Best of Content Marketing, SEO & Copywriting + 23 Templates](https://coursemetry.com/best-of-content-marketing-seo-copywriting-23-templates/)
+
+* [Automated Machine Learning for Beginners (Google & Apple)](https://coursemetry.com/automated-machine-learning-for-beginners-google-apple/)
+
+* [Improve English by Listening Movies – 1c](https://coursemetry.com/improve-english-by-listening-movies-1c/)
+
+* [Public Speaking Contests: You Can Win](https://coursemetry.com/public-speaking-contests-you-can-win/)
+
+* [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
+
+* [Communication Skills: Use a Teleprompter Effectively](https://coursemetry.com/communication-skills-use-a-teleprompter-effectively/)
+
+* [Kanban Metrics for Agile teams: Measure & Improve Flow](https://coursemetry.com/kanban-metrics-for-agile-teams-measure-improve-flow/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
