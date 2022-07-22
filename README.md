@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published so far on 2022-07-22**
+## **54 Udemy free courses published so far on 2022-07-22**
 
 * [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
 
@@ -97,6 +97,20 @@
 * [10 Power Skills para el trabajo](https://coursemetry.com/10-power-skills-para-el-trabajo/)
 
 * [CompTIA A+ Core 2 220-1002 Practice Exams - JULY](https://coursemetry.com/comptia-a-core-2-220-1002-practice-exams-july/)
+
+* [Reverse Engineering .NET For Beginners (Visual Basic)](https://coursemetry.com/reverse-engineering-net-for-beginners-visual-basic/)
+
+* [Java Tutorial for Complete Beginners](https://coursemetry.com/java-tutorial-for-complete-beginners/)
+
+* [Learn Statistics Daily!](https://coursemetry.com/learn-statistics-daily/)
+
+* [Fusion 360 Circuit Design](https://coursemetry.com/fusion-360-circuit-design/)
+
+* [Hardware for Microcontroller and Electronics](https://coursemetry.com/hardware-for-microcontroller-and-electronics/)
+
+* [Introduction To Python Programming](https://coursemetry.com/introduction-to-python-programming/)
+
+* [Program ESP32 without Coding](https://coursemetry.com/program-esp32-without-coding/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
