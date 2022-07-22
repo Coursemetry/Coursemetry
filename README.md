@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published so far on 2022-07-22**
+## **47 Udemy free courses published so far on 2022-07-22**
 
 * [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
 
@@ -95,6 +95,8 @@
 * [Build a full stack NFT Marketplace using Solidity & Next js](https://coursemetry.com/build-a-full-stack-nft-marketplace-using-solidity-next-js/)
 
 * [10 Power Skills para el trabajo](https://coursemetry.com/10-power-skills-para-el-trabajo/)
+
+* [CompTIA A+ Core 2 220-1002 Practice Exams - JULY](https://coursemetry.com/comptia-a-core-2-220-1002-practice-exams-july/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
