@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published so far on 2022-07-22**
+## **58 Udemy free courses published so far on 2022-07-22**
 
 * [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
 
@@ -111,6 +111,14 @@
 * [Introduction To Python Programming](https://coursemetry.com/introduction-to-python-programming/)
 
 * [Program ESP32 without Coding](https://coursemetry.com/program-esp32-without-coding/)
+
+* [Bootstrap 5: Créer et Lancer des Sites Web Réactifs](https://coursemetry.com/bootstrap-5-creer-et-lancer-des-sites-web-reactifs/)
+
+* [NFT pour les Débutants: Devenir Investisseur et Créateur NFT](https://coursemetry.com/nft-pour-les-debutants-devenir-investisseur-et-createur-nft/)
+
+* [Python pour le Deep Learning & le Machine Learning: A à Z](https://coursemetry.com/python-pour-le-deep-learning-le-machine-learning-a-a-z/)
+
+* [React.JS: The Complete Course for Beginners](https://coursemetry.com/react-js-the-complete-course-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
