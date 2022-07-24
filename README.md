@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **206 Udemy free courses published so far on 2022-07-24**
+## **210 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -415,6 +415,14 @@
 * [Adobe Photoshop Automate Basics Guide](https://coursemetry.com/adobe-photoshop-automate-basics-guide/)
 
 * [Leadership Essentials for Emerging Leaders](https://coursemetry.com/leadership-essentials-for-emerging-leaders/)
+
+* [Mega Microsoft Office Course | Covers Seven Office Products](https://coursemetry.com/mega-microsoft-office-course-covers-seven-office-products/)
+
+* [Create Your Own Professional Quality Affirmations At Home](https://coursemetry.com/create-your-own-professional-quality-affirmations-at-home/)
+
+* [SAP EDI IDOC Beginner to Advance Course](https://coursemetry.com/sap-edi-idoc-beginner-to-advance-course/)
+
+* [Psychedelic Integration Basics Certificate Course](https://coursemetry.com/psychedelic-integration-basics-certificate-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
