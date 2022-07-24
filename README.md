@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published so far on 2022-07-24**
+## **177 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -241,6 +241,122 @@
 * [Arabic Writing Course For Beginners](https://coursemetry.com/arabic-writing-course-for-beginners/)
 
 * [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
+
+* [Endüstriyel Tasarım](https://coursemetry.com/endustriyel-tasarim/)
+
+* [Financial Accounting-Debits & Credits-Accounting Transaction](https://coursemetry.com/financial-accounting-debits-credits-accounting-transaction/)
+
+* [Adobe Photoshop Tools Basics Guide](https://coursemetry.com/adobe-photoshop-tools-basics-guide/)
+
+* [Adobe Character Animator Basics Guide 2022](https://coursemetry.com/adobe-character-animator-basics-guide-2022/)
+
+* [Adobe Animate Projects Guide 2022](https://coursemetry.com/adobe-animate-projects-guide-2022/)
+
+* [Adobe Lightroom Web Basics Guide 2022](https://coursemetry.com/adobe-lightroom-web-basics-guide-2022/)
+
+* [Adobe Photoshop Toolbar Keyboard Shortcuts Basics Guide](https://coursemetry.com/adobe-photoshop-toolbar-keyboard-shortcuts-basics-guide/)
+
+* [Adobe Photoshop Presets Basics Guide](https://coursemetry.com/adobe-photoshop-presets-basics-guide/)
+
+* [Adobe Photoshop Project Management Basics Guide](https://coursemetry.com/adobe-photoshop-project-management-basics-guide/)
+
+* [Adobe Photoshop Projects Guide 2022](https://coursemetry.com/adobe-photoshop-projects-guide-2022/)
+
+* [Adobe Photoshop Ultimate Guide 2022](https://coursemetry.com/adobe-photoshop-ultimate-guide-2022/)
+
+* [Yeni Başlayanlar için 2 Dakika Temel İspanyolca](https://coursemetry.com/yeni-baslayanlar-icin-2-dakika-temel-ispanyolca/)
+
+* [Adobe Photoshop Art & Illustration Preset Basics Guide](https://coursemetry.com/adobe-photoshop-art-illustration-preset-basics-guide/)
+
+* [Adobe Photoshop Preferences Basics Guide](https://coursemetry.com/adobe-photoshop-preferences-basics-guide/)
+
+* [Adobe Photoshop Photo Preset Basics Guide](https://coursemetry.com/adobe-photoshop-photo-preset-basics-guide/)
+
+* [Adobe Photoshop Mobile Presets Basics Guide](https://coursemetry.com/adobe-photoshop-mobile-presets-basics-guide/)
+
+* [Adobe Photoshop Type Basics Guide](https://coursemetry.com/adobe-photoshop-type-basics-guide/)
+
+* [general mycology a brief review](https://coursemetry.com/general-mycology-a-brief-review/)
+
+* [Adobe Photoshop US Paper Presets Basics Guide](https://coursemetry.com/adobe-photoshop-us-paper-presets-basics-guide/)
+
+* [Adobe Photoshop Basics Guide 2022](https://coursemetry.com/adobe-photoshop-basics-guide-2022/)
+
+* [Adobe Photoshop Print Design Basics Guide](https://coursemetry.com/adobe-photoshop-print-design-basics-guide/)
+
+* [Adobe Photoshop Video Design Basics Guide](https://coursemetry.com/adobe-photoshop-video-design-basics-guide/)
+
+* [Adobe Photoshop Mobile Design Basics Guide](https://coursemetry.com/adobe-photoshop-mobile-design-basics-guide/)
+
+* [Adobe Photoshop Photo Editing Ultimate Guide 2022](https://coursemetry.com/adobe-photoshop-photo-editing-ultimate-guide-2022/)
+
+* [Master the Basics of Google Sheets](https://coursemetry.com/master-the-basics-of-google-sheets/)
+
+* [PRINCE2 Foundation Practice Certification Exams Updated 2022](https://coursemetry.com/prince2-foundation-practice-certification-exams-updated-2022/)
+
+* [Professional Logo Design on Canva for Etsy & Shopify Stores](https://coursemetry.com/professional-logo-design-on-canva-for-etsy-shopify-stores/)
+
+* [AZ-204 Microsoft Azure Developer – Practice Exams JULY 2022](https://coursemetry.com/az-204-microsoft-azure-developer-practice-exams-july-2022/)
+
+* [Salesforce Platform Developer 1 Practice Exams PD1 2022](https://coursemetry.com/salesforce-platform-developer-1-practice-exams-pd1-2022/)
+
+* [AWS Certified Data Analytics – Specialty Practice Exams 2022](https://coursemetry.com/aws-certified-data-analytics-specialty-practice-exams-2022-6/)
+
+* [AZ-900 Microsoft Azure Fundamentals Practice Exams JULY 2022](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-exams-july-2022/)
+
+* [Adobe Illustrator Basics Guide 2022](https://coursemetry.com/adobe-illustrator-basics-guide-2022/)
+
+* [Docker Certified Associate (DCA) Practice Exams - JULY 2022](https://coursemetry.com/docker-certified-associate-dca-practice-exams-july-2022/)
+
+* [CAMS Anti-Money Laundering Specialist Practice Exams - JULY](https://coursemetry.com/cams-anti-money-laundering-specialist-practice-exams-july-2/)
+
+* [Adobe Photoshop Graphic Design Basics Guide](https://coursemetry.com/adobe-photoshop-graphic-design-basics-guide/)
+
+* [Adobe InDesign Ultimate Guide 2022](https://coursemetry.com/adobe-indesign-ultimate-guide-2022/)
+
+* [PL-300 Microsoft Power BI Data Analyst Practice Exams - JULY](https://coursemetry.com/pl-300-microsoft-power-bi-data-analyst-practice-exams-july-2/)
+
+* [AZ-104 Microsoft Azure Administrator Practice Exams 2022](https://coursemetry.com/az-104-microsoft-azure-administrator-practice-exams-2022/)
+
+* [TOP Business Analyst Certification (PMI-PBA) Practice Exams](https://coursemetry.com/top-business-analyst-certification-pmi-pba-practice-exams/)
+
+* [AI-900 : Azure AI Fundamentals Practice Exams - JULY 2022](https://coursemetry.com/ai-900-azure-ai-fundamentals-practice-exams-july-2022/)
+
+* [AWS Certified Security Specialty – Practice Exams JULY 2022](https://coursemetry.com/aws-certified-security-specialty-practice-exams-july-2022/)
+
+* [Oracle Database SQL 1Z0-071 Practice Exams - JULY 2022](https://coursemetry.com/oracle-database-sql-1z0-071-practice-exams-july-2022/)
+
+* [RHCSA EX200 Practice Exams - JULY 2022 UPDATE](https://coursemetry.com/rhcsa-ex200-practice-exams-july-2022-update/)
+
+* [Adobe Audition Projects Guide 2022](https://coursemetry.com/adobe-audition-projects-guide-2022/)
+
+* [Adobe Photoshop Export Basics Guide](https://coursemetry.com/adobe-photoshop-export-basics-guide/)
+
+* [Cisco CCNA 200-301 Practice Exams - JULY 2022](https://coursemetry.com/cisco-ccna-200-301-practice-exams-july-2022/)
+
+* [Adobe Animate Basics Guide 2022](https://coursemetry.com/adobe-animate-basics-guide-2022/)
+
+* [The Skilled Interviewer](https://coursemetry.com/the-skilled-interviewer/)
+
+* [ITIL 4 Foundation Practice Exams - JULY 2022](https://coursemetry.com/itil-4-foundation-practice-exams-july-2022/)
+
+* [Check Point CCSA (156-215.80) Practice Exams - JULY 2022](https://coursemetry.com/check-point-ccsa-156-215-80-practice-exams-july-2022/)
+
+* [PL-900 Microsoft Power Platform Fundamentals Practice Exams](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-practice-exams/)
+
+* [Adobe Photoshop Filters Basics Guide](https://coursemetry.com/adobe-photoshop-filters-basics-guide/)
+
+* [Amazon AWS Security Specialty Practice Tests](https://coursemetry.com/amazon-aws-security-specialty-practice-tests/)
+
+* [ITIL4 Foundation Practice Tests](https://coursemetry.com/itil4-foundation-practice-tests/)
+
+* [Adobe Photoshop Menu Keyboard Shortcuts Basics Guide](https://coursemetry.com/adobe-photoshop-menu-keyboard-shortcuts-basics-guide/)
+
+* [AWS Certified Data Analytics– Specialty (DAS-C01) Test Prep](https://coursemetry.com/aws-certified-data-analytics-specialty-das-c01-test-prep/)
+
+* [Introduction to Quantum Physics](https://coursemetry.com/introduction-to-quantum-physics/)
+
+* [AZ-500 Microsoft Azure Security Technologies Practice Exams](https://coursemetry.com/az-500-microsoft-azure-security-technologies-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
