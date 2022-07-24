@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **112 Udemy free courses published so far on 2022-07-24**
+## **119 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -227,6 +227,20 @@
 * [【Python】Lightweight mmmでメディアミックスモデル(MMM)を実行](https://coursemetry.com/%e3%80%90python%e3%80%91lightweight-mmm%e3%81%a7%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%9f%e3%83%83%e3%82%af%e3%82%b9%e3%83%a2%e3%83%87%e3%83%abmmm%e3%82%92%e5%ae%9f%e8%a1%8c/)
 
 * [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [Media Training: Look Your Best-Get the Exact Quotes You Want](https://coursemetry.com/media-training-look-your-best-get-the-exact-quotes-you-want/)
+
+* [Yeni Başlayanlar İçin Elektro Gitar](https://coursemetry.com/yeni-baslayanlar-icin-elektro-gitar/)
+
+* [Bilgisayar Mimarileri ve Assembly Programlama Kursu](https://coursemetry.com/bilgisayar-mimarileri-ve-assembly-programlama-kursu/)
+
+* [Arabic Language Course: Learn to Read Arabic, Write & Listen](https://coursemetry.com/arabic-language-course-learn-to-read-arabic-write-listen/)
+
+* [Arabic Language Course For Beginners](https://coursemetry.com/arabic-language-course-for-beginners/)
+
+* [Arabic Writing Course For Beginners](https://coursemetry.com/arabic-writing-course-for-beginners/)
+
+* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
