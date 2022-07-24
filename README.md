@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **225 Udemy free courses published so far on 2022-07-24**
+## **226 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -453,6 +453,8 @@
 * [Adobe Behance Basics Guide 2022](https://coursemetry.com/adobe-behance-basics-guide-2022/)
 
 * [Adobe Bridge Basics Guide 2022](https://coursemetry.com/adobe-bridge-basics-guide-2022/)
+
+* [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
