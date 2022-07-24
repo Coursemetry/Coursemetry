@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **192 Udemy free courses published so far on 2022-07-24**
+## **206 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -387,6 +387,34 @@
 * [Introduction to Abstract Algebra: Group Theory](https://coursemetry.com/introduction-to-abstract-algebra-group-theory/)
 
 * [Introduction to Astro Physics](https://coursemetry.com/introduction-to-astro-physics/)
+
+* [Complete Digital Marketing Course for Local Businesses 2022](https://coursemetry.com/complete-digital-marketing-course-for-local-businesses-2022/)
+
+* [Fundamental Sales Skills to Boost Your Growth and Success](https://coursemetry.com/fundamental-sales-skills-to-boost-your-growth-and-success/)
+
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
+
+* [Write to Impress -Business Writing Skills for Corporates](https://coursemetry.com/write-to-impress-business-writing-skills-for-corporates/)
+
+* [7 Step Guide to Master Self Discipline.](https://coursemetry.com/7-step-guide-to-master-self-discipline/)
+
+* [Marketing Basics for Non Marketing Professionals](https://coursemetry.com/marketing-basics-for-non-marketing-professionals/)
+
+* [Team Management Skills for Building High Performance Teams](https://coursemetry.com/team-management-skills-for-building-high-performance-teams/)
+
+* [Mastering the Art of Presentation Skills](https://coursemetry.com/mastering-the-art-of-presentation-skills/)
+
+* [Money Management 101-Personal Finance Skills for Millennials](https://coursemetry.com/money-management-101-personal-finance-skills-for-millennials/)
+
+* [Master the Art of Making Actionable To Do List](https://coursemetry.com/master-the-art-of-making-actionable-to-do-list/)
+
+* [Customer Service Fundamentals.](https://coursemetry.com/customer-service-fundamentals/)
+
+* [Adobe After Effects Projects Guide 2022](https://coursemetry.com/adobe-after-effects-projects-guide-2022/)
+
+* [Adobe Photoshop Automate Basics Guide](https://coursemetry.com/adobe-photoshop-automate-basics-guide/)
+
+* [Leadership Essentials for Emerging Leaders](https://coursemetry.com/leadership-essentials-for-emerging-leaders/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
