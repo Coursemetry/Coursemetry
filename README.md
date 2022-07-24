@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **210 Udemy free courses published so far on 2022-07-24**
+## **214 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -423,6 +423,14 @@
 * [SAP EDI IDOC Beginner to Advance Course](https://coursemetry.com/sap-edi-idoc-beginner-to-advance-course/)
 
 * [Psychedelic Integration Basics Certificate Course](https://coursemetry.com/psychedelic-integration-basics-certificate-course/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [Positive Transformation Hypnotherapy | Certificate Course](https://coursemetry.com/positive-transformation-hypnotherapy-certificate-course/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [Microsoft Excel - Advance Level MS Excel Training Course](https://coursemetry.com/microsoft-excel-advance-level-ms-excel-training-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
