@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **214 Udemy free courses published so far on 2022-07-24**
+## **225 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -431,6 +431,28 @@
 * [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
 
 * [Microsoft Excel - Advance Level MS Excel Training Course](https://coursemetry.com/microsoft-excel-advance-level-ms-excel-training-course/)
+
+* [poultry farming Broiler farming crash course](https://coursemetry.com/poultry-farming-broiler-farming-crash-course/)
+
+* [Start Online Business with Affiliate Marketing](https://coursemetry.com/start-online-business-with-affiliate-marketing/)
+
+* [La Trama - Scrittura Creativa Vol. 8](https://coursemetry.com/la-trama-scrittura-creativa-vol-8/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [Adobe Photoshop International Paper Preset Basics Guide](https://coursemetry.com/adobe-photoshop-international-paper-preset-basics-guide/)
+
+* [Be an expert in English Grammar](https://coursemetry.com/be-an-expert-in-english-grammar/)
+
+* [How to work in Marketing department in a multinational](https://coursemetry.com/how-to-work-in-marketing-department-in-a-multinational/)
+
+* [Adobe Lightroom Classic Basics Guide 2022](https://coursemetry.com/adobe-lightroom-classic-basics-guide-2022/)
+
+* [Adobe Photoshop Brush Basics Guide](https://coursemetry.com/adobe-photoshop-brush-basics-guide/)
+
+* [Adobe Behance Basics Guide 2022](https://coursemetry.com/adobe-behance-basics-guide-2022/)
+
+* [Adobe Bridge Basics Guide 2022](https://coursemetry.com/adobe-bridge-basics-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
