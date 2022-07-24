@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-07-24**
+## **100 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -197,6 +197,12 @@
 * [CompTIA A+ Core 2 220-1001 Practice Exams](https://coursemetry.com/comptia-a-core-2-220-1001-practice-exams/)
 
 * [The history of the DataCenter - Mainframes to Virtualization](https://coursemetry.com/the-history-of-the-datacenter-mainframes-to-virtualization/)
+
+* [Advanced Artificial Intelligence in Digital Marketing Course](https://coursemetry.com/advanced-artificial-intelligence-in-digital-marketing-course/)
+
+* [The Ultimate Voice to 3D Animation Course (2022 Edition)](https://coursemetry.com/the-ultimate-voice-to-3d-animation-course-2022-edition/)
+
+* [Artificial Intelligence and the Future of Work (2022)](https://coursemetry.com/artificial-intelligence-and-the-future-of-work-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
