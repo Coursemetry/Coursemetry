@@ -2,125 +2,153 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **59 Udemy free courses published so far on 2022-07-23**
+## **73 Udemy free courses published so far on 2022-07-24**
 
-* [Facebook Outreach Mastery 2022](https://coursemetry.com/facebook-outreach-mastery-2022/)
+* [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
-* [Personal Finance #3–Financial Services & Bank Reconciliation](https://coursemetry.com/personal-finance-3-financial-services-bank-reconciliation/)
+* [The Importance of JV Contests in Exploding Your Business](https://coursemetry.com/the-importance-of-jv-contests-in-exploding-your-business/)
 
-* [Laser Focus Mastery 2022](https://coursemetry.com/laser-focus-mastery-2022/)
+* [Forex Trading: The Complete Guide for Beginners](https://coursemetry.com/forex-trading-the-complete-guide-for-beginners/)
 
-* [Dijital Donanım Tasarımcısı Olma Kursu (FPGA / ASIC)](https://coursemetry.com/dijital-donanim-tasarimcisi-olma-kursu-fpga-asic/)
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
 
-* [Salesforce Platform Developer 1 Practice Exams PD1 2022](https://coursemetry.com/salesforce-platform-developer-1-practice-exams-pd1-2022-3/)
+* [How To Achieve Your Personal Goals In 12 Months](https://coursemetry.com/how-to-achieve-your-personal-goals-in-12-months/)
 
-* [Podcasting Mastery 2022](https://coursemetry.com/podcasting-mastery-2022/)
+* [Facebook Marketing: Grow Your Business With Retargeting](https://coursemetry.com/facebook-marketing-grow-your-business-with-retargeting/)
 
-* [NFT Bootcamp: Essentials for Beginners](https://coursemetry.com/nft-bootcamp-essentials-for-beginners/)
+* [Apache Tomcat Basics Guide 2022](https://coursemetry.com/apache-tomcat-basics-guide-2022/)
 
-* [Management Consulting Presentation Essential Training](https://coursemetry.com/management-consulting-presentation-essential-training/)
+* [Evernote Ultimate Guide 2022](https://coursemetry.com/evernote-ultimate-guide-2022/)
 
-* [Video Editing with Avid Media Composer First for Beginners](https://coursemetry.com/video-editing-with-avid-media-composer-first-for-beginners/)
+* [Apache Web Server Basics Guide 2022](https://coursemetry.com/apache-web-server-basics-guide-2022/)
 
-* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+* [PNL en acción: "Siendo felices hoy" 2022](https://coursemetry.com/pnl-en-accion-siendo-felices-hoy-2022/)
 
-* [Traffic Driving Mastery 2022](https://coursemetry.com/traffic-driving-mastery-2022/)
+* [How To Dominate Excel Formatting & Charting](https://coursemetry.com/how-to-dominate-excel-formatting-charting/)
 
-* [Self Motivation Through Fulfillment For Sustained Motivation](https://coursemetry.com/self-motivation-through-fulfillment-for-sustained-motivation/)
+* [Git Bash Basics Guide 2022](https://coursemetry.com/git-bash-basics-guide-2022/)
 
-* [Management Consulting Essential Training](https://coursemetry.com/management-consulting-essential-training/)
+* [Wealth Attraction: ClickBank, Affiliate & NLP Masterclass](https://coursemetry.com/wealth-attraction-clickbank-affiliate-nlp-masterclass/)
 
-* [Live Video Marketing Mastery 2022](https://coursemetry.com/live-video-marketing-mastery-2022/)
+* [Secrets Exposed: Find The Most Profitable Niches of 2020](https://coursemetry.com/secrets-exposed-find-the-most-profitable-niches-of-2020/)
 
-* [Splunk Enterprise Certified Admin SPLK-1003 Practice Exams](https://coursemetry.com/splunk-enterprise-certified-admin-splk-1003-practice-exams/)
+* [Adobe XD Ultimate Guide 2022](https://coursemetry.com/adobe-xd-ultimate-guide-2022/)
 
-* [Outsourcing Mastery 2022](https://coursemetry.com/outsourcing-mastery-2022/)
+* [Adobe Photoshop Web Presets Basics Guide](https://coursemetry.com/adobe-photoshop-web-presets-basics-guide/)
 
-* [Facebook Marketing Mastery 2022](https://coursemetry.com/facebook-marketing-mastery-2022/)
+* [How To Promote Your Webinar With Facebook Ads](https://coursemetry.com/how-to-promote-your-webinar-with-facebook-ads/)
 
-* [Digishock 1.0: Experience World-Changing Technologies](https://coursemetry.com/digishock-1-0-experience-world-changing-technologies/)
+* [Marketer's Guide To Creating Facebook Ads That Convert](https://coursemetry.com/marketers-guide-to-creating-facebook-ads-that-convert/)
 
-* [Entrepreneurial Ideas Mastery 2022](https://coursemetry.com/entrepreneurial-ideas-mastery-2022/)
+* [Gmail Ultimate Guide 2022](https://coursemetry.com/gmail-ultimate-guide-2022/)
 
-* [Google Professional Cloud Developer Practice Exams - JULY](https://coursemetry.com/google-professional-cloud-developer-practice-exams-july/)
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
 
-* [Personal Finance #1 Goals, Planning, & Time Value of Money](https://coursemetry.com/personal-finance-1-goals-planning-time-value-of-money/)
+* [Facebook Marketing: How To Build A List With Lead Ads](https://coursemetry.com/facebook-marketing-how-to-build-a-list-with-lead-ads/)
 
-* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+* [Public Relations Firms: You Can Hire the Best PR Firm](https://coursemetry.com/public-relations-firms-you-can-hire-the-best-pr-firm/)
 
-* [The most important French words and expressions](https://coursemetry.com/the-most-important-french-words-and-expressions/)
+* [Facebook Marketing: Next Level List Building Strategies](https://coursemetry.com/facebook-marketing-next-level-list-building-strategies/)
 
-* [Google Professional Cloud DevOps Engineer Practice Exams](https://coursemetry.com/google-professional-cloud-devops-engineer-practice-exams/)
+* [Facebook Marketing: Next Level Traffic Generation Strategies](https://coursemetry.com/facebook-marketing-next-level-traffic-generation-strategies/)
 
-* [A-Z Modern CSS ile Etkileyici Web Siteleri Tasarlama](https://coursemetry.com/a-z-modern-css-ile-etkileyici-web-siteleri-tasarlama/)
+* [How To Promote Your Event On Facebook](https://coursemetry.com/how-to-promote-your-event-on-facebook/)
 
-* [Video Editing with Adobe Premiere Pro CC 2022 for Beginners](https://coursemetry.com/video-editing-with-adobe-premiere-pro-cc-2022-for-beginners/)
+* [Aromatherapy Complete Certification Course](https://coursemetry.com/aromatherapy-complete-certification-course/)
 
-* [Starting 6 Businesses in 2022](https://coursemetry.com/starting-6-businesses-in-2022/)
+* [Entrepreneur's Guide to Creating Facebook Fan Page Content](https://coursemetry.com/entrepreneurs-guide-to-creating-facebook-fan-page-content/)
 
-* [LSSYB : Lean Six Sigma Yellow Belt Practice Exams](https://coursemetry.com/lssyb-lean-six-sigma-yellow-belt-practice-exams/)
+* [Firefox Developer Edition Basics 2022](https://coursemetry.com/firefox-developer-edition-basics-2022/)
 
-* [Excel Data Analysis With Pivot Tables & Pivot Charts - 2022](https://coursemetry.com/excel-data-analysis-with-pivot-tables-pivot-charts-2022/)
+* [Analyse de Données avec Python: Numpy, Pandas et Matplotlib](https://coursemetry.com/analyse-de-donnees-avec-python-numpy-pandas-et-matplotlib/)
 
-* [Color Correction & Grading with Adobe Premiere Pro 2022](https://coursemetry.com/color-correction-grading-with-adobe-premiere-pro-2022/)
+* [Amazon FBA: Complete Guide To Start Your Own Home Business](https://coursemetry.com/amazon-fba-complete-guide-to-start-your-own-home-business/)
 
-* [Leadership Strategies Mastery 2022](https://coursemetry.com/leadership-strategies-mastery-2022/)
+* [Top Soft and hard skills valued by Employers in 2022](https://coursemetry.com/top-soft-and-hard-skills-valued-by-employers-in-2022/)
 
-* [تعلم لغة البرمجة جافا من الصفر إلى مرحلة متقدمة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%ac%d8%a7%d9%81%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%a5%d9%84%d9%89-%d9%85%d8%b1%d8%ad%d9%84/)
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
 
-* [Jumpstart your Project Management career](https://coursemetry.com/jumpstart-your-project-management-career/)
+* [How To Create High-Quality Blog Content That Gets Shared](https://coursemetry.com/how-to-create-high-quality-blog-content-that-gets-shared/)
 
-* [Psychedelic Integration Basics Certificate Course](https://coursemetry.com/psychedelic-integration-basics-certificate-course/)
+* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
 
-* [AZ 900 Azure fundamentals latest practice questions](https://coursemetry.com/az-900-azure-fundamentals-latest-practice-questions/)
+* [Front End Web Development Ultimate Guide 2022](https://coursemetry.com/front-end-web-development-ultimate-guide-2022/)
 
-* [QuickBooks Pro-Business & Personal-One QuickBooks File](https://coursemetry.com/quickbooks-pro-business-personal-one-quickbooks-file/)
+* [Coaching Ontológico y Superación Personal 2022](https://coursemetry.com/coaching-ontologico-y-superacion-personal-2022/)
 
-* [Product Launch Mastery 2022](https://coursemetry.com/product-launch-mastery-2022/)
+* [Facebook Marketing: How To Improve Your Fan Page Performance](https://coursemetry.com/facebook-marketing-how-to-improve-your-fan-page-performance/)
 
-* [Método 333 - Aprende y Fortalece Tu Inteligencia Emocional.](https://coursemetry.com/metodo-333-aprende-y-fortalece-tu-inteligencia-emocional/)
+* [Adobe Prelude Basics Guide 2022](https://coursemetry.com/adobe-prelude-basics-guide-2022/)
 
-* [Online Traffic Mastery 2022](https://coursemetry.com/online-traffic-mastery-2022/)
+* [JavaScript And PHP Programming Complete Course](https://coursemetry.com/javascript-and-php-programming-complete-course/)
 
-* [Complete Course 2022: Enterprise Application Development](https://coursemetry.com/complete-course-2022-enterprise-application-development/)
+* [Facebook Marketing: How To Build A Targeted Email List](https://coursemetry.com/facebook-marketing-how-to-build-a-targeted-email-list/)
 
-* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
 
-* [Get Free Media Coverage by Collaborating with Journalists](https://coursemetry.com/get-free-media-coverage-by-collaborating-with-journalists/)
+* [Adobe Premiere Rush Basics Guide 2022](https://coursemetry.com/adobe-premiere-rush-basics-guide-2022/)
 
-* [Soundwave Healing Therapy | Sound Healing Certificate Course](https://coursemetry.com/soundwave-healing-therapy-sound-healing-certificate-course/)
+* [Sales Funnel PRO: Your Step-by-Step Guide to Success](https://coursemetry.com/sales-funnel-pro-your-step-by-step-guide-to-success/)
 
-* [Sales Funnels Mastery 2022](https://coursemetry.com/sales-funnels-mastery-2022/)
+* [How To Analyze Your Market With Facebook Audience Insights](https://coursemetry.com/how-to-analyze-your-market-with-facebook-audience-insights/)
 
-* [Color Grading and Video Editing with Davinci Resolve 18](https://coursemetry.com/color-grading-and-video-editing-with-davinci-resolve-18/)
+* [Getting new Customers with Google Adwords](https://coursemetry.com/getting-new-customers-with-google-adwords/)
 
-* [تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a8%d9%84%d8%ba%d8%a9-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ae%d8%b7%d9%88%d8%a9/)
+* [Adobe XD Basics Guide 2022](https://coursemetry.com/adobe-xd-basics-guide-2022/)
 
-* [Bitcoin Mastery 2022](https://coursemetry.com/bitcoin-mastery-2022/)
+* [Facebook Marketing: Drive Highly Targeted Facebook Traffic](https://coursemetry.com/facebook-marketing-drive-highly-targeted-facebook-traffic/)
 
-* [Katakana Basics Online Course | Japanese for Beginners](https://coursemetry.com/katakana-basics-online-course-japanese-for-beginners/)
+* [How To Create An Online Course That Sells](https://coursemetry.com/how-to-create-an-online-course-that-sells/)
 
-* [Design a 2d Game Castle in Photoshop.](https://coursemetry.com/design-a-2d-game-castle-in-photoshop/)
+* [Amazon Virtual Private Cloud Basics Guide](https://coursemetry.com/amazon-virtual-private-cloud-basics-guide/)
 
-* [Hiragana Basics Online Course | Japanese for Beginners](https://coursemetry.com/hiragana-basics-online-course-japanese-for-beginners/)
+* [Amazon EC2 Basics Guide 2022](https://coursemetry.com/amazon-ec2-basics-guide-2022/)
 
-* [Shopify Guide: Start your own clothing brand with Shopify](https://coursemetry.com/shopify-guide-start-your-own-clothing-brand-with-shopify/)
+* [Java 2022 Complete Course For Beginners](https://coursemetry.com/java-2022-complete-course-for-beginners/)
 
-* [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
+* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
 
-* [Metaverse Masterclass: Verstehen, Erleben und Profitieren](https://coursemetry.com/metaverse-masterclass-verstehen-erleben-und-profitieren/)
+* [EASY FRENCH-Language course for beginners](https://coursemetry.com/easy-french-language-course-for-beginners/)
 
-* [Shopify guide: The complete shopify store creation course](https://coursemetry.com/shopify-guide-the-complete-shopify-store-creation-course/)
+* [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
 
-* [Ideation and Market Research for beginners!](https://coursemetry.com/ideation-and-market-research-for-beginners/)
+* [Adobe Premiere Pro Basics Guide 2022](https://coursemetry.com/adobe-premiere-pro-basics-guide-2022/)
 
-* [Dropshipping Mastery 2022](https://coursemetry.com/dropshipping-mastery-2022/)
+* [Adobe Portfolio Basics Guide 2022](https://coursemetry.com/adobe-portfolio-basics-guide-2022/)
 
-* [Learn UIUX Step-By-Step in Figma](https://coursemetry.com/learn-uiux-step-by-step-in-figma/)
+* [Adobe Stock Basics Guide 2022](https://coursemetry.com/adobe-stock-basics-guide-2022/)
 
-* [Desarrollando Mi Sistema Punto de Venta (C# y SQL Server)](https://coursemetry.com/desarrollando-mi-sistema-punto-de-venta-c-y-sql-server/)
+* [Build Profitable Business In a Competitive Niche Market](https://coursemetry.com/build-profitable-business-in-a-competitive-niche-market/)
 
-* [React.JS: The Complete Course for Beginners](https://coursemetry.com/react-js-the-complete-course-for-beginners/)
+* [How To Promote CPA Offers With Bing Ads](https://coursemetry.com/how-to-promote-cpa-offers-with-bing-ads/)
+
+* [How To Discover Viral Content With BuzzSumo In 2018](https://coursemetry.com/how-to-discover-viral-content-with-buzzsumo-in-2018/)
+
+* [Learn How to Make Trading Card Game Menus With Unity 3D](https://coursemetry.com/learn-how-to-make-trading-card-game-menus-with-unity-3d/)
+
+* [CPanel Mastery A Comprehensive and Complete CPanel Training](https://coursemetry.com/cpanel-mastery-a-comprehensive-and-complete-cpanel-training/)
+
+* [Adobe Premiere Pro Ultimate Guide 2022](https://coursemetry.com/adobe-premiere-pro-ultimate-guide-2022/)
+
+* [Entrepreneur's Guide to Effective Design of a Fan Page](https://coursemetry.com/entrepreneurs-guide-to-effective-design-of-a-fan-page/)
+
+* [Ethical Hacking | الهكر الأخلاقي | مقدمة ومفاهيم عملية مهمة](https://coursemetry.com/ethical-hacking-%d8%a7%d9%84%d9%87%d9%83%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d9%85%d9%82%d8%af%d9%85%d8%a9-%d9%88%d9%85%d9%81%d8%a7%d9%87%d9%8a%d9%85-%d8%b9%d9%85%d9%84%d9%8a/)
+
+* [Storytelling: You Can learn to Tell Stories Effectively](https://coursemetry.com/storytelling-you-can-learn-to-tell-stories-effectively/)
+
+* [Angular Material Basics Guide 2022](https://coursemetry.com/angular-material-basics-guide-2022/)
+
+* [How To Get Your First 10,000 Facebook Fans In 2018](https://coursemetry.com/how-to-get-your-first-10000-facebook-fans-in-2018/)
+
+* [GitLab Ultimate Guide 2022](https://coursemetry.com/gitlab-ultimate-guide-2022/)
+
+* [Drive Sales & Conversions With Facebook Ads: Complete Guide!](https://coursemetry.com/drive-sales-conversions-with-facebook-ads-complete-guide/)
+
+* [Adobe Premiere Pro Projects Guide 2022](https://coursemetry.com/adobe-premiere-pro-projects-guide-2022/)
+
+* [Der komplette Listenaufbau-Kurs im eMail Marketing](https://coursemetry.com/der-komplette-listenaufbau-kurs-im-email-marketing/)
+
+* [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
