@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-07-24**
+## **111 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -219,6 +219,12 @@
 * [Simple and Advanced Topics of Animating 2D Characters](https://coursemetry.com/simple-and-advanced-topics-of-animating-2d-characters/)
 
 * [Branding Bootcamp : Craft a Brand Identity & Brand Strategy](https://coursemetry.com/branding-bootcamp-craft-a-brand-identity-brand-strategy/)
+
+* [How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://coursemetry.com/how-to-make-money-online-for-beginners-follow-proven-steps/)
+
+* [ISO 13485:2016 Medical Devices QMS Self-Assessment Test](https://coursemetry.com/iso-134852016-medical-devices-qms-self-assessment-test/)
+
+* [【Python】Lightweight mmmでメディアミックスモデル(MMM)を実行](https://coursemetry.com/%e3%80%90python%e3%80%91lightweight-mmm%e3%81%a7%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%9f%e3%83%83%e3%82%af%e3%82%b9%e3%83%a2%e3%83%87%e3%83%abmmm%e3%82%92%e5%ae%9f%e8%a1%8c/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
