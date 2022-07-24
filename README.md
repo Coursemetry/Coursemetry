@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **101 Udemy free courses published so far on 2022-07-24**
+## **108 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -205,6 +205,20 @@
 * [Artificial Intelligence and the Future of Work (2022)](https://coursemetry.com/artificial-intelligence-and-the-future-of-work-2022/)
 
 * [YouTube Masterclass Training - 2019 in Hindi/Urdu - Sarfaraz](https://coursemetry.com/youtube-masterclass-training-2019-in-hindi-urdu-sarfaraz/)
+
+* [Amazon Redshift Basics Guide 2022](https://coursemetry.com/amazon-redshift-basics-guide-2022/)
+
+* [Amazon Sagemaker Basics Guide 2022](https://coursemetry.com/amazon-sagemaker-basics-guide-2022/)
+
+* [How to Get Your First 1,000 Facebook Fans: For Beginners](https://coursemetry.com/how-to-get-your-first-1000-facebook-fans-for-beginners/)
+
+* [Facebook Marketing: Next Level Fan Growth Strategies](https://coursemetry.com/facebook-marketing-next-level-fan-growth-strategies/)
+
+* [CSS3 Ultimate Guide 2022](https://coursemetry.com/css3-ultimate-guide-2022/)
+
+* [Simple and Advanced Topics of Animating 2D Characters](https://coursemetry.com/simple-and-advanced-topics-of-animating-2d-characters/)
+
+* [Branding Bootcamp : Craft a Brand Identity & Brand Strategy](https://coursemetry.com/branding-bootcamp-craft-a-brand-identity-brand-strategy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
