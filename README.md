@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **177 Udemy free courses published so far on 2022-07-24**
+## **187 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -357,6 +357,26 @@
 * [Introduction to Quantum Physics](https://coursemetry.com/introduction-to-quantum-physics/)
 
 * [AZ-500 Microsoft Azure Security Technologies Practice Exams](https://coursemetry.com/az-500-microsoft-azure-security-technologies-practice-exams/)
+
+* [Adobe Photoshop App Design Basics Guide](https://coursemetry.com/adobe-photoshop-app-design-basics-guide/)
+
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+
+* [Learn Calculus 1 - Become Expert on Calculus 1](https://coursemetry.com/learn-calculus-1-become-expert-on-calculus-1/)
+
+* [LSSGB : Lean Six Sigma Green Belt Practice Exams](https://coursemetry.com/lssgb-lean-six-sigma-green-belt-practice-exams/)
+
+* [Adobe Lightroom Basics Guide 2022](https://coursemetry.com/adobe-lightroom-basics-guide-2022/)
+
+* [Google Professional Cloud DevOps Engineer Practice Exams](https://coursemetry.com/google-professional-cloud-devops-engineer-practice-exams/)
+
+* [Adobe Acrobat DC Basics Guide 2022](https://coursemetry.com/adobe-acrobat-dc-basics-guide-2022/)
+
+* [Microsoft Project Online : Complete Ms Project Course](https://coursemetry.com/microsoft-project-online-complete-ms-project-course/)
+
+* [LSSBB : Lean Six Sigma Black Belt Practice Exams](https://coursemetry.com/lssbb-lean-six-sigma-black-belt-practice-exams/)
+
+* [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
