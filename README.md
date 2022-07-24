@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-07-24**
+## **97 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -149,6 +149,54 @@
 * [Der komplette Listenaufbau-Kurs im eMail Marketing](https://coursemetry.com/der-komplette-listenaufbau-kurs-im-email-marketing/)
 
 * [How To Research Your Competition With SEMrush](https://coursemetry.com/how-to-research-your-competition-with-semrush/)
+
+* [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
+
+* [Productivity Masterclass: You Can Be Twice As Good!](https://coursemetry.com/productivity-masterclass-you-can-be-twice-as-good/)
+
+* [How To Analyze Your Niche Market](https://coursemetry.com/how-to-analyze-your-niche-market/)
+
+* [How To Convert Your Facebook Fans Into Buyers](https://coursemetry.com/how-to-convert-your-facebook-fans-into-buyers/)
+
+* [Learn To Code Trading Card Game Battle System With Unity 3D](https://coursemetry.com/learn-to-code-trading-card-game-battle-system-with-unity-3d/)
+
+* [Apache Groovy Basics Guide 2022](https://coursemetry.com/apache-groovy-basics-guide-2022/)
+
+* [How To Build A Converting Landing Page From Scratch](https://coursemetry.com/how-to-build-a-converting-landing-page-from-scratch/)
+
+* [The Complete List Building Course: All Levels](https://coursemetry.com/the-complete-list-building-course-all-levels/)
+
+* [The Ultimate Weight Loss & Health Improvement Training](https://coursemetry.com/the-ultimate-weight-loss-health-improvement-training/)
+
+* [Facebook Marketing: Reveal The Power of Promoted Posts](https://coursemetry.com/facebook-marketing-reveal-the-power-of-promoted-posts/)
+
+* [Amazon Quicksight Basics Guide 2022](https://coursemetry.com/amazon-quicksight-basics-guide-2022/)
+
+* [Splunk Core Certified Power User SPLK-1002 Practice Exams](https://coursemetry.com/splunk-core-certified-power-user-splk-1002-practice-exams/)
+
+* [CompTIA Security+ SY0-601 Practice Exams](https://coursemetry.com/comptia-security-sy0-601-practice-exams/)
+
+* [WP Plugin Development - Build your own plugin!](https://coursemetry.com/wp-plugin-development-build-your-own-plugin/)
+
+* [Home Business: CPA Marketing From Scratch](https://coursemetry.com/home-business-cpa-marketing-from-scratch/)
+
+* [Get Started Online With No Investment - Newbie Friendly](https://coursemetry.com/get-started-online-with-no-investment-newbie-friendly/)
+
+* [Bootstrap 4 Ultimate Guide 2022](https://coursemetry.com/bootstrap-4-ultimate-guide-2022/)
+
+* [Amazon EKS Basics Guide 2022](https://coursemetry.com/amazon-eks-basics-guide-2022/)
+
+* [Facebook Marketing: Advanced Targeting Strategies](https://coursemetry.com/facebook-marketing-advanced-targeting-strategies/)
+
+* [10 Hacks To Increase Fan Engagement On Facebook](https://coursemetry.com/10-hacks-to-increase-fan-engagement-on-facebook/)
+
+* [Speed Up! How To Work With Photoshop Hotkeys](https://coursemetry.com/speed-up-how-to-work-with-photoshop-hotkeys/)
+
+* [Target Audience Training: Identify Your Ideal Customer](https://coursemetry.com/target-audience-training-identify-your-ideal-customer/)
+
+* [CompTIA A+ Core 2 220-1001 Practice Exams](https://coursemetry.com/comptia-a-core-2-220-1001-practice-exams/)
+
+* [The history of the DataCenter - Mainframes to Virtualization](https://coursemetry.com/the-history-of-the-datacenter-mainframes-to-virtualization/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
