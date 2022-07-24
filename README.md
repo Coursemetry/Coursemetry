@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **187 Udemy free courses published so far on 2022-07-24**
+## **192 Udemy free courses published so far on 2022-07-24**
 
 * [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
 
@@ -377,6 +377,16 @@
 * [LSSBB : Lean Six Sigma Black Belt Practice Exams](https://coursemetry.com/lssbb-lean-six-sigma-black-belt-practice-exams/)
 
 * [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
+
+* [Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course](https://coursemetry.com/facebook-instagram-dynamic-ads-dynamic-retargeting-course/)
+
+* [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
+
+* [Creating a Website in 1 Hour - WordPress, Elementor, & UX](https://coursemetry.com/creating-a-website-in-1-hour-wordpress-elementor-ux/)
+
+* [Introduction to Abstract Algebra: Group Theory](https://coursemetry.com/introduction-to-abstract-algebra-group-theory/)
+
+* [Introduction to Astro Physics](https://coursemetry.com/introduction-to-astro-physics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
