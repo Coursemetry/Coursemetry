@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published so far on 2022-07-25**
+## **57 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -101,6 +101,22 @@
 * [The Advanced SQL Course](https://coursemetry.com/the-advanced-sql-course/)
 
 * [200-301 CCNA Configure Non-Contiguous Sub-networks](https://coursemetry.com/200-301-ccna-configure-non-contiguous-sub-networks/)
+
+* [Learn Carnatic Flute | Intermediate Level | Varnams Vol - 15](https://coursemetry.com/learn-carnatic-flute-intermediate-level-varnams-vol-15/)
+
+* [2022 Python for Beginners:  A to Z Concise Hands-on Course](https://coursemetry.com/2022-python-for-beginners-a-to-z-concise-hands-on-course/)
+
+* [Learn Carnatic Flute | Intermediate Level | Varnams Vol - 14](https://coursemetry.com/learn-carnatic-flute-intermediate-level-varnams-vol-14/)
+
+* [Hands-On React. Build advanced React JS Frontend with expert](https://coursemetry.com/hands-on-react-build-advanced-react-js-frontend-with-expert/)
+
+* [Azərbaycanca Etik Hacker Olma Kursu-Kali Linux və Python](https://coursemetry.com/az%c9%99rbaycanca-etik-hacker-olma-kursu-kali-linux-v%c9%99-python/)
+
+* [Becoming a Product Owner | Role, Craft, Skills and Tools](https://coursemetry.com/becoming-a-product-owner-role-craft-skills-and-tools/)
+
+* [Arduino Simulation](https://coursemetry.com/arduino-simulation/)
+
+* [PCB Fabrication For Everyone](https://coursemetry.com/pcb-fabrication-for-everyone/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
