@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **48 Udemy free courses published so far on 2022-07-25**
+## **49 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -99,6 +99,8 @@
 * [Python for Data Analysis & Visualization 2022](https://coursemetry.com/python-for-data-analysis-visualization-2022/)
 
 * [The Advanced SQL Course](https://coursemetry.com/the-advanced-sql-course/)
+
+* [200-301 CCNA Configure Non-Contiguous Sub-networks](https://coursemetry.com/200-301-ccna-configure-non-contiguous-sub-networks/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
