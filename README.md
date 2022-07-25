@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **152 Udemy free courses published so far on 2022-07-25**
+## **173 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -307,6 +307,48 @@
 * [Salary Negotiation - How to Ask for and Receive a Pay Raise](https://coursemetry.com/salary-negotiation-how-to-ask-for-and-receive-a-pay-raise/)
 
 * [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
+
+* [Microsoft Excel Masterclass (2016/2019) - Basic to Advanced](https://coursemetry.com/microsoft-excel-masterclass-2016-2019-basic-to-advanced/)
+
+* [Facebook Page & Facebook Ads Made as Fun: 11 Days Challenge](https://coursemetry.com/facebook-page-facebook-ads-made-as-fun-11-days-challenge/)
+
+* [Adobe Dreamweaver Basics Guide 2022](https://coursemetry.com/adobe-dreamweaver-basics-guide-2022/)
+
+* [Drupal For Absolute Beginners (2022)](https://coursemetry.com/drupal-for-absolute-beginners-2022/)
+
+* [AutoCAD 2D & 3D | AutoCAD Civil & Architectural](https://coursemetry.com/autocad-2d-3d-autocad-civil-architectural/)
+
+* [WordPress for Beginners](https://coursemetry.com/wordpress-for-beginners-2/)
+
+* [Excel Dashboard Masterclass -From Zero to Hero](https://coursemetry.com/excel-dashboard-masterclass-from-zero-to-hero/)
+
+* [Adobe After Effects Ultimate Guide 2022](https://coursemetry.com/adobe-after-effects-ultimate-guide-2022/)
+
+* [Microsoft Word - Basic to Advance Level MS Word Course](https://coursemetry.com/microsoft-word-basic-to-advance-level-ms-word-course/)
+
+* [Google Cloud Digital Leader Certification Practice Exams](https://coursemetry.com/google-cloud-digital-leader-certification-practice-exams/)
+
+* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+
+* [Adobe After Effects Basics Guide 2022](https://coursemetry.com/adobe-after-effects-basics-guide-2022/)
+
+* [Adobe Live Basics Guide 2022](https://coursemetry.com/adobe-live-basics-guide-2022/)
+
+* [Adobe Creative Cloud Basics Guide 2022](https://coursemetry.com/adobe-creative-cloud-basics-guide-2022/)
+
+* [LSSMBB : Lean Six Sigma Master Black Belt Practice Exams](https://coursemetry.com/lssmbb-lean-six-sigma-master-black-belt-practice-exams/)
+
+* [Passive Income Strategies](https://coursemetry.com/passive-income-strategies/)
+
+* [The Ultimate Microsoft Excel Pivot Table MasterClass](https://coursemetry.com/the-ultimate-microsoft-excel-pivot-table-masterclass/)
+
+* [Facebook Ads Complete Course for Beginners](https://coursemetry.com/facebook-ads-complete-course-for-beginners/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [Foundations of Screenwriting: Film and TV Story Development](https://coursemetry.com/foundations-of-screenwriting-film-and-tv-story-development/)
+
+* [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
