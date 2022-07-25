@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-07-25**
+## **125 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -185,6 +185,74 @@
 * [Certified MongoDB Developer & Database Administrator Pack](https://coursemetry.com/certified-mongodb-developer-database-administrator-pack/)
 
 * [Powerful Content Creation for Social Media Marketing 2022](https://coursemetry.com/powerful-content-creation-for-social-media-marketing-2022/)
+
+* [PMI-ACP: Agile Certified Project Management 200 Questions](https://coursemetry.com/pmi-acp-agile-certified-project-management-200-questions/)
+
+* [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
+
+* [PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://coursemetry.com/pspo1-practice-tests-scrum-product-owner-certification-160q/)
+
+* [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
+
+* [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
+
+* [Microsoft AZ-104: Azure Administrator Exam Prep Test](https://coursemetry.com/microsoft-az-104-azure-administrator-exam-prep-test/)
+
+* [Shopify Dropshipping From Paksitan ~ Yasir Ahmed MBA](https://coursemetry.com/shopify-dropshipping-from-paksitan-yasir-ahmed-mba/)
+
+* [Google Analytics, GA4, GTM. How to improve your marketing?](https://coursemetry.com/google-analytics-ga4-gtm-how-to-improve-your-marketing/)
+
+* [C++ : Tools and Ecosystem for Beginners](https://coursemetry.com/c-tools-and-ecosystem-for-beginners/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [Beginners Guide to Improvisation Hollywood Film Directing](https://coursemetry.com/beginners-guide-to-improvisation-hollywood-film-directing/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+
+* [HR Analytics using MS Excel for Human Resource Management](https://coursemetry.com/hr-analytics-using-ms-excel-for-human-resource-management/)
+
+* [Data Analyst Skillpath: Zero to Hero in Excel, SQL & Python](https://coursemetry.com/data-analyst-skillpath-zero-to-hero-in-excel-sql-python/)
+
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
+
+* [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
+
+* [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
+
+* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [Lead Generation With Facebook Ads Marketing 2022](https://coursemetry.com/lead-generation-with-facebook-ads-marketing-2022/)
+
+* [Run Digital Marketing Ad Using Google Adwords Express 2022](https://coursemetry.com/run-digital-marketing-ad-using-google-adwords-express-2022/)
+
+* [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
+
+* [Facebook Ads Marketing Targeting Strategies ~Hindi 2022](https://coursemetry.com/facebook-ads-marketing-targeting-strategies-hindi-2022/)
+
+* [Run Search Ad In Google Ads & Easy SEO For Beginners-2022](https://coursemetry.com/run-search-ad-in-google-ads-easy-seo-for-beginners-2022/)
+
+* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
+
+* [Google Ads Mastery~ Beginner To Pro  ~ HINDI/URDU 2022](https://coursemetry.com/google-ads-mastery-beginner-to-pro-hindi-urdu-2022/)
+
+* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
+
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
+
+* [Python Dersleri: Sıfırdan İleri Seviyeye Temel Eğitim](https://coursemetry.com/python-dersleri-sifirdan-ileri-seviyeye-temel-egitim/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
+
+* [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
