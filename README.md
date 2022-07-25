@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **145 Udemy free courses published so far on 2022-07-25**
+## **152 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -293,6 +293,20 @@
 * [Master SQL fundamentals using SQL Server](https://coursemetry.com/master-sql-fundamentals-using-sql-server/)
 
 * [The Complete Mindfulness Course - Enjoy Life In the Present](https://coursemetry.com/the-complete-mindfulness-course-enjoy-life-in-the-present/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [PL-900 Power Platform fundamentals Practice Exam Questions](https://coursemetry.com/pl-900-power-platform-fundamentals-practice-exam-questions/)
+
+* [Body Language: Appear Confident and Poised When You Speak](https://coursemetry.com/body-language-appear-confident-and-poised-when-you-speak/)
+
+* [The Complete Public Speaking Course:  Become a Great Speaker](https://coursemetry.com/the-complete-public-speaking-course-become-a-great-speaker/)
+
+* [CSS And JavaScript Complete Course For Beginners](https://coursemetry.com/css-and-javascript-complete-course-for-beginners/)
+
+* [Salary Negotiation - How to Ask for and Receive a Pay Raise](https://coursemetry.com/salary-negotiation-how-to-ask-for-and-receive-a-pay-raise/)
+
+* [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
