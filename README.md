@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published so far on 2022-07-25**
+## **76 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -117,6 +117,44 @@
 * [Arduino Simulation](https://coursemetry.com/arduino-simulation/)
 
 * [PCB Fabrication For Everyone](https://coursemetry.com/pcb-fabrication-for-everyone/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 7](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-7/)
+
+* [Google Ads Fundamentals: Fast-Track Practice Quiz Exam](https://coursemetry.com/google-ads-fundamentals-fast-track-practice-quiz-exam/)
+
+* [Learn Calculus 1 - Become Expert on Calculus 1](https://coursemetry.com/learn-calculus-1-become-expert-on-calculus-1/)
+
+* [Microsoft Excel in Hindi - हिंदी में सीखें MS Excel A-Z](https://coursemetry.com/microsoft-excel-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-ms-excel-a-z/)
+
+* [Social Media Marketing on Autopilot with Missinglettr (2022)](https://coursemetry.com/social-media-marketing-on-autopilot-with-missinglettr-2022/)
+
+* [Zero to Hero in Microsoft Excel: Complete Excel guide 2022](https://coursemetry.com/zero-to-hero-in-microsoft-excel-complete-excel-guide-2022/)
+
+* [Support Vector Machines in Python: SVM Concepts & Code](https://coursemetry.com/support-vector-machines-in-python-svm-concepts-code/)
+
+* [Scrum Fundamentals for Scrum Master and Agile Projects](https://coursemetry.com/scrum-fundamentals-for-scrum-master-and-agile-projects/)
+
+* [Digital Marketing Course for Fitness Professionals (2022)](https://coursemetry.com/digital-marketing-course-for-fitness-professionals-2022/)
+
+* [Logistic Regression in R Studio](https://coursemetry.com/logistic-regression-in-r-studio/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
+
+* [New-Age Technologies For Fitness Trainers (2022 Edition)](https://coursemetry.com/new-age-technologies-for-fitness-trainers-2022-edition/)
+
+* [Unlimited Free Traffic Generation Course: Master Edition](https://coursemetry.com/unlimited-free-traffic-generation-course-master-edition/)
+
+* [Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://coursemetry.com/learn-audo-studio-ai-powered-noise-cancellation-tool-2022/)
+
+* [Space Render Classic Edition: Create Live Audio-Rooms (2022)](https://coursemetry.com/space-render-classic-edition-create-live-audio-rooms-2022/)
+
+* [Insight to Post Pandemic: Importance of Lean Six Sigma](https://coursemetry.com/insight-to-post-pandemic-importance-of-lean-six-sigma/)
+
+* [How To Use LazyApply To Automate Your Job Search?](https://coursemetry.com/how-to-use-lazyapply-to-automate-your-job-search/)
+
+* [Convolutional Neural Networks in Python: CNN Computer Vision](https://coursemetry.com/convolutional-neural-networks-in-python-cnn-computer-vision/)
+
+* [Excel Analytics: Linear Regression Analysis in MS Excel](https://coursemetry.com/excel-analytics-linear-regression-analysis-in-ms-excel/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
