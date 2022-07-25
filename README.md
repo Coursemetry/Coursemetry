@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-07-25**
+## **145 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -29,8 +29,6 @@
 * [ServiceNow System Administrator (CSA) Practice Tests](https://coursemetry.com/servicenow-system-administrator-csa-practice-tests/)
 
 * [Practice Tests to Prepare for RHCSA EX200](https://coursemetry.com/practice-tests-to-prepare-for-rhcsa-ex200/)
-
-* [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
 * [Oracle Database SQL 1Z0-071 Practice Tests](https://coursemetry.com/oracle-database-sql-1z0-071-practice-tests/)
 
@@ -253,6 +251,48 @@
 * [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
 
 * [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
+
+* [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
+
+* [The Complete Facebook Traffic Ads (Facebook CPC) Course 2022](https://coursemetry.com/the-complete-facebook-traffic-ads-facebook-cpc-course-2022/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Body Language in the Workplace](https://coursemetry.com/body-language-in-the-workplace/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Body Language to Help Your Business Career](https://coursemetry.com/body-language-to-help-your-business-career/)
+
+* [Entrepreneurship: 60 Day Startup Launch Blueprint](https://coursemetry.com/entrepreneurship-60-day-startup-launch-blueprint/)
+
+* [Media Training for Authors: Promote Your Book in the News](https://coursemetry.com/media-training-for-authors-promote-your-book-in-the-news/)
+
+* [28 Online Marketing Courses In 1. Online Marketing Mastery](https://coursemetry.com/28-online-marketing-courses-in-1-online-marketing-mastery/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [The Trivium: Learning how to Learn](https://coursemetry.com/the-trivium-learning-how-to-learn/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [Profitable App Development Blueprint for Startups](https://coursemetry.com/profitable-app-development-blueprint-for-startups/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [Certified Ethical Hacker v11 Practice Exams #{UNOFFICIAL}#](https://coursemetry.com/certified-ethical-hacker-v11-practice-exams-unofficial/)
+
+* [Master SQL fundamentals using SQL Server](https://coursemetry.com/master-sql-fundamentals-using-sql-server/)
+
+* [The Complete Mindfulness Course - Enjoy Life In the Present](https://coursemetry.com/the-complete-mindfulness-course-enjoy-life-in-the-present/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
