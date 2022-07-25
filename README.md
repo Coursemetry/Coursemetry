@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-07-25**
+## **48 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -93,6 +93,12 @@
 * [The Essential Trading Startkit](https://coursemetry.com/the-essential-trading-startkit/)
 
 * [How To Trade Order Blocks, Order Flow and Fair Value Gaps](https://coursemetry.com/how-to-trade-order-blocks-order-flow-and-fair-value-gaps/)
+
+* [Microsoft Power BI 2022: The Complete Guide](https://coursemetry.com/microsoft-power-bi-2022-the-complete-guide/)
+
+* [Python for Data Analysis & Visualization 2022](https://coursemetry.com/python-for-data-analysis-visualization-2022/)
+
+* [The Advanced SQL Course](https://coursemetry.com/the-advanced-sql-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
