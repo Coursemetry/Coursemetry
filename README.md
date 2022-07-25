@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-07-25**
+## **91 Udemy free courses published so far on 2022-07-25**
 
 * [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
 
@@ -155,6 +155,36 @@
 * [Convolutional Neural Networks in Python: CNN Computer Vision](https://coursemetry.com/convolutional-neural-networks-in-python-cnn-computer-vision/)
 
 * [Excel Analytics: Linear Regression Analysis in MS Excel](https://coursemetry.com/excel-analytics-linear-regression-analysis-in-ms-excel/)
+
+* [How to Create a Professional Presentation in PowerPoint](https://coursemetry.com/how-to-create-a-professional-presentation-in-powerpoint/)
+
+* [【社内インセンティブ】ストックオプションと持株会](https://coursemetry.com/%e3%80%90%e7%a4%be%e5%86%85%e3%82%a4%e3%83%b3%e3%82%bb%e3%83%b3%e3%83%86%e3%82%a3%e3%83%95%e3%82%99%e3%80%91%e3%82%b9%e3%83%88%e3%83%83%e3%82%af%e3%82%aa%e3%83%95%e3%82%9a%e3%82%b7%e3%83%a7%e3%83%b3/)
+
+* [All about NFTs (Non Fungible Tokens)](https://coursemetry.com/all-about-nfts-non-fungible-tokens/)
+
+* [AWS Certified Cloud Practitioner- CLF-C01 Practice Test 2022](https://coursemetry.com/aws-certified-cloud-practitioner-clf-c01-practice-test-2022/)
+
+* [Counselling and Negotiation Skills for Management](https://coursemetry.com/counselling-and-negotiation-skills-for-management/)
+
+* [Canva Crash Course](https://coursemetry.com/canva-crash-course/)
+
+* [10 Power Skills para el trabajo](https://coursemetry.com/10-power-skills-para-el-trabajo/)
+
+* [VMware Certified Professional 6.2 - Network Virtualization](https://coursemetry.com/vmware-certified-professional-6-2-network-virtualization/)
+
+* [100+ Exercises - Python - Data Science - scikit-learn - 2022](https://coursemetry.com/100-exercises-python-data-science-scikit-learn-2022/)
+
+* [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
+
+* [130+ Exercises - Python - Data Science - Pandas - 2022](https://coursemetry.com/130-exercises-python-data-science-pandas-2022/)
+
+* [Google Cloud Professional Data Engineer - GCP - Exams - 2022](https://coursemetry.com/google-cloud-professional-data-engineer-gcp-exams-2022/)
+
+* [210+ Exercises - Python Standard Libraries - 2022](https://coursemetry.com/210-exercises-python-standard-libraries-2022/)
+
+* [Certified MongoDB Developer & Database Administrator Pack](https://coursemetry.com/certified-mongodb-developer-database-administrator-pack/)
+
+* [Powerful Content Creation for Social Media Marketing 2022](https://coursemetry.com/powerful-content-creation-for-social-media-marketing-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
