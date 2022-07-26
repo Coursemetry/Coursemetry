@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published so far on 2022-07-26**
+## **140 Udemy free courses published so far on 2022-07-26**
 
 * [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
@@ -265,6 +265,24 @@
 * [cPanel Ultimate Guide 2022](https://coursemetry.com/cpanel-ultimate-guide-2022/)
 
 * [Essentials of Organizational Behaviour](https://coursemetry.com/essentials-of-organizational-behaviour/)
+
+* [Entrenamiento Visual FoxPro 9 - Nivel Avanzado - Módulo 01](https://coursemetry.com/entrenamiento-visual-foxpro-9-nivel-avanzado-modulo-01/)
+
+* [Entrenamiento Visual FoxPro 9 - Nivel Intermedio](https://coursemetry.com/entrenamiento-visual-foxpro-9-nivel-intermedio/)
+
+* [Entrenamiento Visual FoxPro 9 - Nivel Básico](https://coursemetry.com/entrenamiento-visual-foxpro-9-nivel-basico/)
+
+* [Tarot Paso a Paso de Aprendiz a Brujo 2022](https://coursemetry.com/tarot-paso-a-paso-de-aprendiz-a-brujo-2022/)
+
+* [Linux Operating System: A complete Linux guide for Beginners](https://coursemetry.com/linux-operating-system-a-complete-linux-guide-for-beginners/)
+
+* [Ultimate Guide to Use WordPress Gutenberg Editor (2022)](https://coursemetry.com/ultimate-guide-to-use-wordpress-gutenberg-editor-2022/)
+
+* [Sıfırdan 1 Saatte Satranç Öğrenin (Chess) [TR]](https://coursemetry.com/sifirdan-1-saatte-satranc-ogrenin-chess-tr/)
+
+* [Entrenamiento Visual FoxPro 9 y MySQL Server -Mod01](https://coursemetry.com/entrenamiento-visual-foxpro-9-y-mysql-server-mod01/)
+
+* [Transforming Your Life With a Disability](https://coursemetry.com/transforming-your-life-with-a-disability/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
