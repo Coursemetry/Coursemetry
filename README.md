@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **140 Udemy free courses published so far on 2022-07-26**
+## **144 Udemy free courses published so far on 2022-07-26**
 
 * [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
@@ -283,6 +283,14 @@
 * [Entrenamiento Visual FoxPro 9 y MySQL Server -Mod01](https://coursemetry.com/entrenamiento-visual-foxpro-9-y-mysql-server-mod01/)
 
 * [Transforming Your Life With a Disability](https://coursemetry.com/transforming-your-life-with-a-disability/)
+
+* [PNL en acción: "Siendo felices hoy" 2022](https://coursemetry.com/pnl-en-accion-siendo-felices-hoy-2022/)
+
+* [Coaching Ontológico y Superación Personal 2022](https://coursemetry.com/coaching-ontologico-y-superacion-personal-2022/)
+
+* [Curso de Guitarra Rock y Blues de Cero a Héroe 2022](https://coursemetry.com/curso-de-guitarra-rock-y-blues-de-cero-a-heroe-2022/)
+
+* [Cómo Escribir Letras de Canciones Pop 2022](https://coursemetry.com/como-escribir-letras-de-canciones-pop-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
