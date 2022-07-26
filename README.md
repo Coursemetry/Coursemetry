@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **84 Udemy free courses published so far on 2022-07-26**
+## **92 Udemy free courses published so far on 2022-07-26**
 
 * [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
@@ -171,6 +171,22 @@
 * [افضل كورس شامل لتعلم تطوير تطبيقات الموبايل باستخدام فلاتر](https://coursemetry.com/%d8%a7%d9%81%d8%b6%d9%84-%d9%83%d9%88%d8%b1%d8%b3-%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%85/)
 
 * [Mindset entwickeln mit Yoga und der 5-Minuten Meditation](https://coursemetry.com/mindset-entwickeln-mit-yoga-und-der-5-minuten-meditation/)
+
+* [Dropshipping with Shopify | Selling Online Worldwide](https://coursemetry.com/dropshipping-with-shopify-selling-online-worldwide/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Canva Graphics Design Course | Learn and Earn Online](https://coursemetry.com/canva-graphics-design-course-learn-and-earn-online/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [Start selling online on Daraz | eCommerce in Pakistan](https://coursemetry.com/start-selling-online-on-daraz-ecommerce-in-pakistan/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
