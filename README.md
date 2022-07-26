@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **103 Udemy free courses published so far on 2022-07-26**
+## **114 Udemy free courses published so far on 2022-07-26**
 
 * [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
@@ -209,6 +209,28 @@
 * [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
 
 * [Project Risk Management](https://coursemetry.com/project-risk-management/)
+
+* [7 Fortune Habits : Bio-Hack Personal Transformation](https://coursemetry.com/7-fortune-habits-bio-hack-personal-transformation/)
+
+* [Water Supply System A-Z - Mechanical Engineering](https://coursemetry.com/water-supply-system-a-z-mechanical-engineering/)
+
+* [AWS Certified Advanced Networking - Specialty 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-2022/)
+
+* [CCSP - Certified Cloud Security Professional Practice Exams](https://coursemetry.com/ccsp-certified-cloud-security-professional-practice-exams/)
+
+* [HTML5 - From Basics to Advanced level (2021)](https://coursemetry.com/html5-from-basics-to-advanced-level-2021/)
+
+* [ICYB : IASSC Lean Six Sigma Yellow Belt Practice Exams](https://coursemetry.com/icyb-iassc-lean-six-sigma-yellow-belt-practice-exams/)
+
+* [The Complete ReactJs Course - Basics to Advanced (2021)](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2021/)
+
+* [JavaScript - Basics to Advanced [step by step (2021)]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2021/)
+
+* [Entrepreneurial Business and Economics](https://coursemetry.com/entrepreneurial-business-and-economics/)
+
+* [Modern JavaScript for React JS - ES6.](https://coursemetry.com/modern-javascript-for-react-js-es6/)
+
+* [CSS - Basics To Advanced for front end development (2021)](https://coursemetry.com/css-basics-to-advanced-for-front-end-development-2021/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
