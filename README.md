@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-07-26**
+## **103 Udemy free courses published so far on 2022-07-26**
 
 * [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
@@ -189,6 +189,26 @@
 * [Start selling online on Daraz | eCommerce in Pakistan](https://coursemetry.com/start-selling-online-on-daraz-ecommerce-in-pakistan/)
 
 * [Learn how to prepare a great Resume (CV) AND Prepare Yours!](https://coursemetry.com/learn-how-to-prepare-a-great-resume-cv-and-prepare-yours/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Microsoft Excel: Desde cero para profesionales](https://coursemetry.com/microsoft-excel-desde-cero-para-profesionales/)
+
+* [Computer Hacking Forensic Investigator (CHFI) Practice Exams](https://coursemetry.com/computer-hacking-forensic-investigator-chfi-practice-exams/)
+
+* [SQL: Consultas básicas a complejas](https://coursemetry.com/sql-consultas-basicas-a-complejas/)
+
+* [Python 3: Desde cero para principiantes y no programadores](https://coursemetry.com/python-3-desde-cero-para-principiantes-y-no-programadores/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
+
+* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
+
+* [Project Risk Management](https://coursemetry.com/project-risk-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
