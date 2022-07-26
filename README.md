@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published so far on 2022-07-26**
+## **93 Udemy free courses published so far on 2022-07-26**
 
 * [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
@@ -187,6 +187,8 @@
 * [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
 
 * [Start selling online on Daraz | eCommerce in Pakistan](https://coursemetry.com/start-selling-online-on-daraz-ecommerce-in-pakistan/)
+
+* [Learn how to prepare a great Resume (CV) AND Prepare Yours!](https://coursemetry.com/learn-how-to-prepare-a-great-resume-cv-and-prepare-yours/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
