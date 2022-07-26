@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **38 Udemy free courses published so far on 2022-07-26**
+## **54 Udemy free courses published so far on 2022-07-26**
 
 * [DP-203: Azure Data Engineer Practice Exams](https://coursemetry.com/dp-203-azure-data-engineer-practice-exams/)
 
@@ -79,6 +79,38 @@
 * [Cracking Digital Marketing: All-Time Ultimate Quiz](https://coursemetry.com/cracking-digital-marketing-all-time-ultimate-quiz/)
 
 * [Artificial Intelligence in Digital Marketing + Live Class](https://coursemetry.com/artificial-intelligence-in-digital-marketing-live-class/)
+
+* [Adobe Creative Cloud Projects Guide 2022](https://coursemetry.com/adobe-creative-cloud-projects-guide-2022/)
+
+* [Bjorn App android publicitaria en Xamarin forms y Firebase](https://coursemetry.com/bjorn-app-android-publicitaria-en-xamarin-forms-y-firebase/)
+
+* [Crea tu propio framework profesional MVC con PHP POO MySQL](https://coursemetry.com/crea-tu-propio-framework-profesional-mvc-con-php-poo-mysql/)
+
+* [Visual Studio 2022 C# - Nivel Intermedio](https://coursemetry.com/visual-studio-2022-c-nivel-intermedio/)
+
+* [Airtable Ultimate Guide 2022](https://coursemetry.com/airtable-ultimate-guide-2022/)
+
+* [Crea un sistema cotizador y aprende PHP Javascript y AJAX](https://coursemetry.com/crea-un-sistema-cotizador-y-aprende-php-javascript-y-ajax/)
+
+* [Entrenamiento de Base de Datos Microsoft SQL Server](https://coursemetry.com/entrenamiento-de-base-de-datos-microsoft-sql-server/)
+
+* [Learn to Edit Video FAST! Adobe Premiere Pro 2022 StepByStep](https://coursemetry.com/learn-to-edit-video-fast-adobe-premiere-pro-2022-stepbystep/)
+
+* [Labview Core I &  Labview Core II](https://coursemetry.com/labview-core-i-labview-core-ii/)
+
+* [Visual Studio 2022 C# - Nivel Básico](https://coursemetry.com/visual-studio-2022-c-nivel-basico/)
+
+* [Sistema de asistencias en C# y SQLserver desde 0](https://coursemetry.com/sistema-de-asistencias-en-c-y-sqlserver-desde-0/)
+
+* [Crea una librería de juegos con PHP MySQL AJAX y 2 proyectos](https://coursemetry.com/crea-una-libreria-de-juegos-con-php-mysql-ajax-y-2-proyectos/)
+
+* [Curso básico de SASS, CSS3, HTML5 y jQuery creando un sitio](https://coursemetry.com/curso-basico-de-sass-css3-html5-y-jquery-creando-un-sitio/)
+
+* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
+
+* [App android y Sistema para Karaoke en Xamarin Forms](https://coursemetry.com/app-android-y-sistema-para-karaoke-en-xamarin-forms/)
+
+* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
