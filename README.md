@@ -2,9 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published so far on 2022-07-26**
-
-* [DP-203: Azure Data Engineer Practice Exams](https://coursemetry.com/dp-203-azure-data-engineer-practice-exams/)
+## **73 Udemy free courses published so far on 2022-07-26**
 
 * [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
@@ -111,6 +109,46 @@
 * [App android y Sistema para Karaoke en Xamarin Forms](https://coursemetry.com/app-android-y-sistema-para-karaoke-en-xamarin-forms/)
 
 * [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
+
+* [Fit Vücut ve Kariyer Rehberi - Visualization Method](https://coursemetry.com/fit-vucut-ve-kariyer-rehberi-visualization-method/)
+
+* [Google Cloud Digital Leader Certification Practice Exams](https://coursemetry.com/google-cloud-digital-leader-certification-practice-exams/)
+
+* [Visual Studio Code Complete Course 2022](https://coursemetry.com/visual-studio-code-complete-course-2022/)
+
+* [Image Recognition for Beginners using CNN in R Studio](https://coursemetry.com/image-recognition-for-beginners-using-cnn-in-r-studio/)
+
+* [1Z0-809 - Java SE 8 Programmer II Exam Practice Test 2022](https://coursemetry.com/1z0-809-java-se-8-programmer-ii-exam-practice-test-2022/)
+
+* [Neural Networks in Python: Deep Learning for Beginners](https://coursemetry.com/neural-networks-in-python-deep-learning-for-beginners/)
+
+* [DP-203: Azure Data Engineer Practice Exams](https://coursemetry.com/dp-203-azure-data-engineer-practice-exams/)
+
+* [SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z](https://coursemetry.com/sql-for-data-analytics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-sql-a-z/)
+
+* [Statistics and Probability using Excel - Statistics A to Z](https://coursemetry.com/statistics-and-probability-using-excel-statistics-a-to-z/)
+
+* [Data Analyst Skill path in Hindi - हिंदी में सीखें](https://coursemetry.com/data-analyst-skill-path-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82/)
+
+* [PMP Dash - The Fastest Way To Ace PMP Exams](https://coursemetry.com/pmp-dash-the-fastest-way-to-ace-pmp-exams/)
+
+* [Curso Profesional de GNU/Linux con Debian y CentOS](https://coursemetry.com/curso-profesional-de-gnu-linux-con-debian-y-centos/)
+
+* [Linear Regression and Logistic Regression using R Studio](https://coursemetry.com/linear-regression-and-logistic-regression-using-r-studio/)
+
+* [Get better at Time Management at work.](https://coursemetry.com/get-better-at-time-management-at-work/)
+
+* [Becoming a Product Owner | Role, Craft, Skills and Tools](https://coursemetry.com/becoming-a-product-owner-role-craft-skills-and-tools/)
+
+* [Tools for Working From Home - Google Apps, Trello & Zoom](https://coursemetry.com/tools-for-working-from-home-google-apps-trello-zoom/)
+
+* [Water & Electrolyte Balance -MCQ Practice Exams-Biochemistry](https://coursemetry.com/water-electrolyte-balance-mcq-practice-exams-biochemistry/)
+
+* [Creating Video Lessons with Online Video Maker InVideo](https://coursemetry.com/creating-video-lessons-with-online-video-maker-invideo/)
+
+* [Basics of Biochemistry - Multiple Choice Questions Exams](https://coursemetry.com/basics-of-biochemistry-multiple-choice-questions-exams/)
+
+* [Adobe Dreamweaver Ultimate Guide 2022](https://coursemetry.com/adobe-dreamweaver-ultimate-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
