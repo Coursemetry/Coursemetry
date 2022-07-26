@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-07-26**
+## **84 Udemy free courses published so far on 2022-07-26**
 
 * [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
@@ -149,6 +149,28 @@
 * [Basics of Biochemistry - Multiple Choice Questions Exams](https://coursemetry.com/basics-of-biochemistry-multiple-choice-questions-exams/)
 
 * [Adobe Dreamweaver Ultimate Guide 2022](https://coursemetry.com/adobe-dreamweaver-ultimate-guide-2022/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [Mental health Toolbox for everyday problems](https://coursemetry.com/mental-health-toolbox-for-everyday-problems/)
+
+* [Fiverr Freelancing For Absolute Beginners: Basic to Advance](https://coursemetry.com/fiverr-freelancing-for-absolute-beginners-basic-to-advance/)
+
+* [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
+
+* [Scientific evidences of Marcus Aurelius' philosophy](https://coursemetry.com/scientific-evidences-of-marcus-aurelius-philosophy/)
+
+* [Accounting basics, the ultimate course](https://coursemetry.com/accounting-basics-the-ultimate-course/)
+
+* [Python Bootcamp 2021 Build 15 working Applications and Games](https://coursemetry.com/python-bootcamp-2021-build-15-working-applications-and-games/)
+
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
+
+* [LookML A-Z: Google Looker for Developers](https://coursemetry.com/lookml-a-z-google-looker-for-developers/)
+
+* [افضل كورس شامل لتعلم تطوير تطبيقات الموبايل باستخدام فلاتر](https://coursemetry.com/%d8%a7%d9%81%d8%b6%d9%84-%d9%83%d9%88%d8%b1%d8%b3-%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%85/)
+
+* [Mindset entwickeln mit Yoga und der 5-Minuten Meditation](https://coursemetry.com/mindset-entwickeln-mit-yoga-und-der-5-minuten-meditation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
