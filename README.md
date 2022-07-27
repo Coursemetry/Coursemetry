@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **40 Udemy free courses published so far on 2022-07-27**
+## **46 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -83,6 +83,18 @@
 * [Complete Adobe After Effects Megacourse: Beginner to Expert](https://coursemetry.com/complete-adobe-after-effects-megacourse-beginner-to-expert/)
 
 * [How to Print on Demand - Beginners Guide to POD](https://coursemetry.com/how-to-print-on-demand-beginners-guide-to-pod/)
+
+* [Ubuntu Linux for beginners](https://coursemetry.com/ubuntu-linux-for-beginners/)
+
+* [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
+
+* [Linux Terminal for beginners](https://coursemetry.com/linux-terminal-for-beginners/)
+
+* [Excel files with Python](https://coursemetry.com/excel-files-with-python/)
+
+* [Intro to Django Python Web Apps](https://coursemetry.com/intro-to-django-python-web-apps/)
+
+* [All about NFTs (Non Fungible Tokens)](https://coursemetry.com/all-about-nfts-non-fungible-tokens/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
