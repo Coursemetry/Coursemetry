@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published so far on 2022-07-27**
+## **64 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -109,6 +109,28 @@
 * [Adobe After Effects Projects Guide 2022](https://coursemetry.com/adobe-after-effects-projects-guide-2022/)
 
 * [Insider Tips For LinkedIn Profile, Resume, Job Interview](https://coursemetry.com/insider-tips-for-linkedin-profile-resume-job-interview/)
+
+* [Kazanmak İçin Doğru Seçimler : SWOT Analizi](https://coursemetry.com/kazanmak-icin-dogru-secimler-swot-analizi/)
+
+* [QuickBooks Online Bank Reconciliation](https://coursemetry.com/quickbooks-online-bank-reconciliation/)
+
+* [QuickBooks Desktop Pro-Personal Tax Tracking Tricks](https://coursemetry.com/quickbooks-desktop-pro-personal-tax-tracking-tricks/)
+
+* [Financial Accounting – Inventory Costs](https://coursemetry.com/financial-accounting-inventory-costs/)
+
+* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
+
+* [Two QuickBooks File-Business & Personal vs One File For Both](https://coursemetry.com/two-quickbooks-file-business-personal-vs-one-file-for-both/)
+
+* [QuickBooks Desktop Job Costing](https://coursemetry.com/quickbooks-desktop-job-costing/)
+
+* [Hayatla Kontrat Yap!](https://coursemetry.com/hayatla-kontrat-yap/)
+
+* [Not-for-Profit Accounting-Charities, Colleges, & Health Care](https://coursemetry.com/not-for-profit-accounting-charities-colleges-health-care/)
+
+* [Residential Rental Property Tax Preparation 2021-2022](https://coursemetry.com/residential-rental-property-tax-preparation-2021-2022/)
+
+* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
