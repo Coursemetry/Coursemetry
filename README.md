@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **32 Udemy free courses published so far on 2022-07-27**
+## **34 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -67,6 +67,10 @@
 * [Neuroplasticity Life Coach Complete Certificate Course](https://coursemetry.com/neuroplasticity-life-coach-complete-certificate-course/)
 
 * [7 Fortune Habits : Bio-Hack Personal Transformation](https://coursemetry.com/7-fortune-habits-bio-hack-personal-transformation/)
+
+* [Strategic Ways to Build a Successful Business on Youtube!](https://coursemetry.com/strategic-ways-to-build-a-successful-business-on-youtube/)
+
+* [सीखें Javascript Programming हिन्दी में](https://coursemetry.com/%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-javascript-programming-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
