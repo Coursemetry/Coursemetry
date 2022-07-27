@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **124 Udemy free courses published so far on 2022-07-27**
+## **127 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -251,6 +251,12 @@
 * [Adobe Photoshop Fill & Adjustment Layer Basics Guide](https://coursemetry.com/adobe-photoshop-fill-adjustment-layer-basics-guide/)
 
 * [Adobe Photoshop Film & Video Preset Basics Guide](https://coursemetry.com/adobe-photoshop-film-video-preset-basics-guide/)
+
+* [Multi Family Investing for Beginners](https://coursemetry.com/multi-family-investing-for-beginners/)
+
+* [Become a Successful Online Course Instructor 2022 [Guide]](https://coursemetry.com/become-a-successful-online-course-instructor-2022-guide/)
+
+* [Build a Portfolio Website without Coding 2022](https://coursemetry.com/build-a-portfolio-website-without-coding-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
