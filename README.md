@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-07-27**
+## **76 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -131,6 +131,30 @@
 * [Residential Rental Property Tax Preparation 2021-2022](https://coursemetry.com/residential-rental-property-tax-preparation-2021-2022/)
 
 * [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
+
+* [Three.js Basics Guide 2022](https://coursemetry.com/three-js-basics-guide-2022/)
+
+* [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
+
+* [Be an expert in English Grammar](https://coursemetry.com/be-an-expert-in-english-grammar/)
+
+* [WebGL Basics Guide 2022](https://coursemetry.com/webgl-basics-guide-2022/)
+
+* [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+
+* [Microsoft Outlook Ultimate Guide 2022](https://coursemetry.com/microsoft-outlook-ultimate-guide-2022/)
+
+* [Microsoft OneNote Ultimate Guide 2022](https://coursemetry.com/microsoft-onenote-ultimate-guide-2022/)
+
+* [Amazon AWS Certified Developer Associate Practice Exams](https://coursemetry.com/amazon-aws-certified-developer-associate-practice-exams/)
+
+* [Learn in 108 mins how to Find the Right Jobs thru Networking](https://coursemetry.com/learn-in-108-mins-how-to-find-the-right-jobs-thru-networking/)
+
+* [WebVR Basics Guide 2022](https://coursemetry.com/webvr-basics-guide-2022/)
+
+* [Microsoft Kaizala Basics Guide 2022](https://coursemetry.com/microsoft-kaizala-basics-guide-2022/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
