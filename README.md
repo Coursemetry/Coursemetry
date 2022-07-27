@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **107 Udemy free courses published so far on 2022-07-27**
+## **124 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -217,6 +217,40 @@
 * [Inglés: Aprende inglés facilmente traduciendo - Nivel B1/B2](https://coursemetry.com/ingles-aprende-ingles-facilmente-traduciendo-nivel-b1-b2/)
 
 * [Complete Drawing Megacourse: Beginner to Expert](https://coursemetry.com/complete-drawing-megacourse-beginner-to-expert/)
+
+* [Open Broadcaster Basics Guide 2022](https://coursemetry.com/open-broadcaster-basics-guide-2022/)
+
+* [Adobe Premiere Pro Basics Guide 2022](https://coursemetry.com/adobe-premiere-pro-basics-guide-2022/)
+
+* [Adobe Photoshop Layer Basics Guide](https://coursemetry.com/adobe-photoshop-layer-basics-guide/)
+
+* [31 Trucos asertivos de finanzas personales](https://coursemetry.com/31-trucos-asertivos-de-finanzas-personales/)
+
+* [jQuery Basics Guide 2022](https://coursemetry.com/jquery-basics-guide-2022/)
+
+* [JavaScript Basics Guide 2022](https://coursemetry.com/javascript-basics-guide-2022/)
+
+* [Adobe Premiere Rush Basics Guide 2022](https://coursemetry.com/adobe-premiere-rush-basics-guide-2022/)
+
+* [Adobe Spark Basics Guide 2022](https://coursemetry.com/adobe-spark-basics-guide-2022/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [GitHub Basics Guide 2022](https://coursemetry.com/github-basics-guide-2022/)
+
+* [Adobe Photoshop Icon Preset Basics Guide](https://coursemetry.com/adobe-photoshop-icon-preset-basics-guide/)
+
+* [Adobe Audition Projects Guide 2022](https://coursemetry.com/adobe-audition-projects-guide-2022/)
+
+* [CSS3 Basics Guide 2022](https://coursemetry.com/css3-basics-guide-2022/)
+
+* [Adobe Photoshop Layer Style Basics Guide](https://coursemetry.com/adobe-photoshop-layer-style-basics-guide/)
+
+* [Adobe Animate Basics Guide 2022](https://coursemetry.com/adobe-animate-basics-guide-2022/)
+
+* [Adobe Photoshop Fill & Adjustment Layer Basics Guide](https://coursemetry.com/adobe-photoshop-fill-adjustment-layer-basics-guide/)
+
+* [Adobe Photoshop Film & Video Preset Basics Guide](https://coursemetry.com/adobe-photoshop-film-video-preset-basics-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
