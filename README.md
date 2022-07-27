@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **78 Udemy free courses published so far on 2022-07-27**
+## **105 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -159,6 +159,60 @@
 * [Aprende SQL usando PostgreSQL de cero](https://coursemetry.com/aprende-sql-usando-postgresql-de-cero/)
 
 * [Certified Kubernetes CKA CKAD Practice Exams](https://coursemetry.com/certified-kubernetes-cka-ckad-practice-exams/)
+
+* [Google Photo Basics Guide 2022](https://coursemetry.com/google-photo-basics-guide-2022/)
+
+* [Brave Basics Guide 2022](https://coursemetry.com/brave-basics-guide-2022/)
+
+* [Adobe Photoshop Graphic Design Basics Guide](https://coursemetry.com/adobe-photoshop-graphic-design-basics-guide/)
+
+* [JSF Basics Guide 2022](https://coursemetry.com/jsf-basics-guide-2022/)
+
+* [Google Docs Ultimate Guide 2022](https://coursemetry.com/google-docs-ultimate-guide-2022/)
+
+* [Adobe Premiere Pro Projects Guide 2022](https://coursemetry.com/adobe-premiere-pro-projects-guide-2022/)
+
+* [Web Development Ultimate Guide 2022](https://coursemetry.com/web-development-ultimate-guide-2022/)
+
+* [Google Sheet Basics Guide 2022](https://coursemetry.com/google-sheet-basics-guide-2022/)
+
+* [Full English Course: Beginners Level](https://coursemetry.com/full-english-course-beginners-level/)
+
+* [Google Workspace (G Suite) Ultimate Guide 2022](https://coursemetry.com/google-workspace-g-suite-ultimate-guide-2022/)
+
+* [A Complete Masterclass of Virtualization from scratch](https://coursemetry.com/a-complete-masterclass-of-virtualization-from-scratch/)
+
+* [Adobe XD Basics Guide 2022](https://coursemetry.com/adobe-xd-basics-guide-2022/)
+
+* [HTML5 Ultimate Guide 2022](https://coursemetry.com/html5-ultimate-guide-2022/)
+
+* [Google Keep Basics Guide 2022](https://coursemetry.com/google-keep-basics-guide-2022/)
+
+* [Google My Maps Basics Guide 2022](https://coursemetry.com/google-my-maps-basics-guide-2022/)
+
+* [Google Fonts Basics Guide 2022](https://coursemetry.com/google-fonts-basics-guide-2022/)
+
+* [Adobe Premiere Pro Ultimate Guide 2022](https://coursemetry.com/adobe-premiere-pro-ultimate-guide-2022/)
+
+* [Google Drive Ultimate Guide 2022](https://coursemetry.com/google-drive-ultimate-guide-2022/)
+
+* [Amazon Virtual Private Cloud Basics Guide](https://coursemetry.com/amazon-virtual-private-cloud-basics-guide/)
+
+* [Google Site Basics Guide 2022](https://coursemetry.com/google-site-basics-guide-2022/)
+
+* [Google Calendar Basics Guide 2022](https://coursemetry.com/google-calendar-basics-guide-2022/)
+
+* [Bootstrap 4 Basics Guide 2022](https://coursemetry.com/bootstrap-4-basics-guide-2022/)
+
+* [Google Jamboard Basics Guide 2022](https://coursemetry.com/google-jamboard-basics-guide-2022/)
+
+* [Google Forms Ultimate Guide 2022](https://coursemetry.com/google-forms-ultimate-guide-2022/)
+
+* [Bootstrap 4 Ultimate Guide 2022](https://coursemetry.com/bootstrap-4-ultimate-guide-2022/)
+
+* [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
+
+* [Helm Basics Guide 2022](https://coursemetry.com/helm-basics-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
