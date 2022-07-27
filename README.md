@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **144 Udemy free courses published so far on 2022-07-27**
+## **145 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -291,6 +291,8 @@
 * [SAP SD - S/4HANA / Fiori](https://coursemetry.com/sap-sd-s-4hana-fiori/)
 
 * [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
+
+* [Do Different Real-World Python Projects as a Beginner](https://coursemetry.com/do-different-real-world-python-projects-as-a-beginner/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
