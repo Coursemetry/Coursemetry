@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published so far on 2022-07-27**
+## **53 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -95,6 +95,20 @@
 * [Intro to Django Python Web Apps](https://coursemetry.com/intro-to-django-python-web-apps/)
 
 * [All about NFTs (Non Fungible Tokens)](https://coursemetry.com/all-about-nfts-non-fungible-tokens/)
+
+* [Windows Command Line Basics Guide 2022](https://coursemetry.com/windows-command-line-basics-guide-2022/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [QuickBooks Desktop Bank Reconciliation](https://coursemetry.com/quickbooks-desktop-bank-reconciliation/)
+
+* [Group Dynamics: Psychology of Group Behavior](https://coursemetry.com/group-dynamics-psychology-of-group-behavior/)
+
+* [Adobe Acrobat DC Basics Guide 2022](https://coursemetry.com/adobe-acrobat-dc-basics-guide-2022/)
+
+* [Adobe After Effects Projects Guide 2022](https://coursemetry.com/adobe-after-effects-projects-guide-2022/)
+
+* [Insider Tips For LinkedIn Profile, Resume, Job Interview](https://coursemetry.com/insider-tips-for-linkedin-profile-resume-job-interview/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
