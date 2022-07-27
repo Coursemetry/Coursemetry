@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **127 Udemy free courses published so far on 2022-07-27**
+## **142 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -146,8 +146,6 @@
 
 * [Microsoft OneNote Ultimate Guide 2022](https://coursemetry.com/microsoft-onenote-ultimate-guide-2022/)
 
-* [Amazon AWS Certified Developer Associate Practice Exams](https://coursemetry.com/amazon-aws-certified-developer-associate-practice-exams/)
-
 * [Learn in 108 mins how to Find the Right Jobs thru Networking](https://coursemetry.com/learn-in-108-mins-how-to-find-the-right-jobs-thru-networking/)
 
 * [WebVR Basics Guide 2022](https://coursemetry.com/webvr-basics-guide-2022/)
@@ -257,6 +255,38 @@
 * [Become a Successful Online Course Instructor 2022 [Guide]](https://coursemetry.com/become-a-successful-online-course-instructor-2022-guide/)
 
 * [Build a Portfolio Website without Coding 2022](https://coursemetry.com/build-a-portfolio-website-without-coding-2022/)
+
+* [Computer Organization: CPU Cache and the Memory Hierarchy](https://coursemetry.com/computer-organization-cpu-cache-and-the-memory-hierarchy/)
+
+* [Full Stack CRUD application with Spring Boot and React Hooks](https://coursemetry.com/full-stack-crud-application-with-spring-boot-and-react-hooks/)
+
+* [Numpy and Pandas for Beginners](https://coursemetry.com/numpy-and-pandas-for-beginners/)
+
+* [ICGB : IASSC Lean Six Sigma Green Belt Practice Exams](https://coursemetry.com/icgb-iassc-lean-six-sigma-green-belt-practice-exams/)
+
+* [Learn Game Development with JavaScript](https://coursemetry.com/learn-game-development-with-javascript/)
+
+* [Amazon AWS Certified Developer Associate Practice Exams](https://coursemetry.com/amazon-aws-certified-developer-associate-practice-exams/)
+
+* [Business Development: Lead Generation & Sales Conversion](https://coursemetry.com/business-development-lead-generation-sales-conversion/)
+
+* [Functional Programming + Lambdas, Method References, Streams](https://coursemetry.com/functional-programming-lambdas-method-references-streams/)
+
+* [GoF Design Patterns - Complete Course with Java Examples](https://coursemetry.com/gof-design-patterns-complete-course-with-java-examples/)
+
+* [Excel Profesional 2022– Para Empresas!](https://coursemetry.com/excel-profesional-2022-para-empresas/)
+
+* [Master Multithreading - Concurrency with Java Examples](https://coursemetry.com/master-multithreading-concurrency-with-java-examples/)
+
+* [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
+
+* [English placement test](https://coursemetry.com/english-placement-test/)
+
+* [Relational Databases & SQL: Complete Guide for Developers](https://coursemetry.com/relational-databases-sql-complete-guide-for-developers/)
+
+* [Sell on Amazon : FBA Product Research to Launching on Amazon](https://coursemetry.com/sell-on-amazon-fba-product-research-to-launching-on-amazon/)
+
+* [Java Collections Framework + Generics, Lambdas & Stream API](https://coursemetry.com/java-collections-framework-generics-lambdas-stream-api/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
