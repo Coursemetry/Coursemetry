@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-07-27**
+## **78 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -155,6 +155,10 @@
 * [Microsoft Kaizala Basics Guide 2022](https://coursemetry.com/microsoft-kaizala-basics-guide-2022/)
 
 * [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [Aprende SQL usando PostgreSQL de cero](https://coursemetry.com/aprende-sql-usando-postgresql-de-cero/)
+
+* [Certified Kubernetes CKA CKAD Practice Exams](https://coursemetry.com/certified-kubernetes-cka-ckad-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
