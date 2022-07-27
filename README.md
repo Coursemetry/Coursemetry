@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-07-27**
+## **107 Udemy free courses published so far on 2022-07-27**
 
 * [Learn how to name your values and create SMART Goals](https://coursemetry.com/learn-how-to-name-your-values-and-create-smart-goals/)
 
@@ -213,6 +213,10 @@
 * [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
 
 * [Helm Basics Guide 2022](https://coursemetry.com/helm-basics-guide-2022/)
+
+* [Inglés: Aprende inglés facilmente traduciendo - Nivel B1/B2](https://coursemetry.com/ingles-aprende-ingles-facilmente-traduciendo-nivel-b1-b2/)
+
+* [Complete Drawing Megacourse: Beginner to Expert](https://coursemetry.com/complete-drawing-megacourse-beginner-to-expert/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
