@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published so far on 2022-07-28**
+## **76 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -135,6 +135,26 @@
 * [HTML 5,Python,Flask Framework All In One Complete Course](https://coursemetry.com/html-5pythonflask-framework-all-in-one-complete-course/)
 
 * [Systeme io Tutorial - Grow Your Business The Right Way](https://coursemetry.com/systeme-io-tutorial-grow-your-business-the-right-way/)
+
+* [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
+
+* [Design Thinking Guide for Successful Professionals](https://coursemetry.com/design-thinking-guide-for-successful-professionals/)
+
+* [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
+
+* [English language basics for beginners & intermediate levels](https://coursemetry.com/english-language-basics-for-beginners-intermediate-levels/)
+
+* [Mathematical Optimization with GAMS and Pyomo (Python)](https://coursemetry.com/mathematical-optimization-with-gams-and-pyomo-python/)
+
+* [Complete Canva Megacourse: Beginner to Expert](https://coursemetry.com/complete-canva-megacourse-beginner-to-expert/)
+
+* [Arabic Writing Course For Beginners](https://coursemetry.com/arabic-writing-course-for-beginners/)
+
+* [Arabic Language Course: Learn to Read Arabic, Write & Listen](https://coursemetry.com/arabic-language-course-learn-to-read-arabic-write-listen/)
+
+* [Become a Successful Online Course Instructor [MasterClass]](https://coursemetry.com/become-a-successful-online-course-instructor-masterclass/)
+
+* [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
