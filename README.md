@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **89 Udemy free courses published so far on 2022-07-28**
+## **93 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -34,8 +34,6 @@
 
 * [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
 
-* [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
-
 * [Online marketing for introverts](https://coursemetry.com/online-marketing-for-introverts/)
 
 * [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
@@ -61,8 +59,6 @@
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
 * [Perfekte Webinare schnell erstellen!](https://coursemetry.com/perfekte-webinare-schnell-erstellen/)
-
-* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
 
 * [Trello Ultimate Guide 2022](https://coursemetry.com/trello-ultimate-guide-2022/)
 
@@ -181,6 +177,18 @@
 * [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
 * [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
+
+* [Grafik Tasarım Eğitimi](https://coursemetry.com/grafik-tasarim-egitimi/)
+
+* [Complete Voice Acting Megacourse: Beginner to Expert](https://coursemetry.com/complete-voice-acting-megacourse-beginner-to-expert/)
+
+* [Complete Spanish Course: Learn Spanish for Beginners](https://coursemetry.com/complete-spanish-course-learn-spanish-for-beginners/)
+
+* [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
+
+* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
+
+* [HTML, JavaScript, & Bootstrap - Certification Course](https://coursemetry.com/html-javascript-bootstrap-certification-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
