@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **121 Udemy free courses published so far on 2022-07-28**
+## **126 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -245,6 +245,16 @@
 * [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
 
 * [Leadership Skills - Learn How To Become An Effective Leader](https://coursemetry.com/leadership-skills-learn-how-to-become-an-effective-leader/)
+
+* [Usability Testing (in UX Research & Design Evaluation: 2022)](https://coursemetry.com/usability-testing-in-ux-research-design-evaluation-2022/)
+
+* [Top 5 Kickstarter Hacks for 2022 - That Actually Work!](https://coursemetry.com/top-5-kickstarter-hacks-for-2022-that-actually-work/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
+
+* [Turn Followers to Customers: Instagram Lead Generation 2022](https://coursemetry.com/turn-followers-to-customers-instagram-lead-generation-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
