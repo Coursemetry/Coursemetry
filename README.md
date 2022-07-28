@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **83 Udemy free courses published so far on 2022-07-28**
+## **86 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -169,6 +169,12 @@
 * [Python: Nifty Tools & Functions Basic Coding Beginner Course](https://coursemetry.com/python-nifty-tools-functions-basic-coding-beginner-course/)
 
 * [OpenCV and Java: Build a Webcam Biofeedback Game](https://coursemetry.com/opencv-and-java-build-a-webcam-biofeedback-game/)
+
+* [Introduction to Reverse Osmosis Desalination](https://coursemetry.com/introduction-to-reverse-osmosis-desalination/)
+
+* [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
+
+* [Build a Augmented Reality (AR) App and Game with Unity 2021](https://coursemetry.com/build-a-augmented-reality-ar-app-and-game-with-unity-2021/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
