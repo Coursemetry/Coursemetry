@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-07-28**
+## **83 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -155,6 +155,20 @@
 * [Become a Successful Online Course Instructor [MasterClass]](https://coursemetry.com/become-a-successful-online-course-instructor-masterclass/)
 
 * [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
+
+* [Excel Best Practices - mit wenig Aufwand viel erreichen!](https://coursemetry.com/excel-best-practices-mit-wenig-aufwand-viel-erreichen/)
+
+* [Political Sociology- An Introduction](https://coursemetry.com/political-sociology-an-introduction/)
+
+* [Socio-Political Philosophy- An Introduction](https://coursemetry.com/socio-political-philosophy-an-introduction/)
+
+* [Intermediate/Advanced Hip Hop Dance with Temper Tantrum](https://coursemetry.com/intermediate-advanced-hip-hop-dance-with-temper-tantrum/)
+
+* [Interpretación de Planos de Arquitectura y Construcción](https://coursemetry.com/interpretacion-de-planos-de-arquitectura-y-construccion/)
+
+* [Python: Nifty Tools & Functions Basic Coding Beginner Course](https://coursemetry.com/python-nifty-tools-functions-basic-coding-beginner-course/)
+
+* [OpenCV and Java: Build a Webcam Biofeedback Game](https://coursemetry.com/opencv-and-java-build-a-webcam-biofeedback-game/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
