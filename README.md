@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-07-28**
+## **62 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -93,6 +93,40 @@
 * [Cisco Application Centric Infrastructure (ACI) Tutorials](https://coursemetry.com/cisco-application-centric-infrastructure-aci-tutorials/)
 
 * [Work At Home Workshop](https://coursemetry.com/work-at-home-workshop/)
+
+* [Do Different Real-World Python Projects as a Beginner](https://coursemetry.com/do-different-real-world-python-projects-as-a-beginner/)
+
+* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
+
+* [Control Mental de Cero a Héroe (El método NINJA)](https://coursemetry.com/control-mental-de-cero-a-heroe-el-metodo-ninja/)
+
+* [Ableton Live 11: Mastering Music Production (Part 1, 2, & 3)](https://coursemetry.com/ableton-live-11-mastering-music-production-part-1-2-3/)
+
+* [Journal your way to your dream life](https://coursemetry.com/journal-your-way-to-your-dream-life/)
+
+* [Attract your dream client on Instagram](https://coursemetry.com/attract-your-dream-client-on-instagram/)
+
+* [Create & sell your first digital product](https://coursemetry.com/create-sell-your-first-digital-product/)
+
+* [Project Management Essential Training](https://coursemetry.com/project-management-essential-training/)
+
+* [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
+
+* [Python Programming Tutorial For The Absolute Beginner + Code](https://coursemetry.com/python-programming-tutorial-for-the-absolute-beginner-code/)
+
+* [Ultrasonic Testing Level 1 Training](https://coursemetry.com/ultrasonic-testing-level-1-training/)
+
+* [Passive income for busy entrepreneurs - part 2](https://coursemetry.com/passive-income-for-busy-entrepreneurs-part-2/)
+
+* [Unshakable self confidence for busy entrepreneurs](https://coursemetry.com/unshakable-self-confidence-for-busy-entrepreneurs/)
+
+* [Build A Search Engine With Python: Computer Science & Python](https://coursemetry.com/build-a-search-engine-with-python-computer-science-python/)
+
+* [Microsoft Stream Essential Training || GET CERTIFICATE ||](https://coursemetry.com/microsoft-stream-essential-training-get-certificate/)
+
+* [Plan your best life - planning strategies that work](https://coursemetry.com/plan-your-best-life-planning-strategies-that-work/)
+
+* [Sales mastery for busy entrepreneurs](https://coursemetry.com/sales-mastery-for-busy-entrepreneurs/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
