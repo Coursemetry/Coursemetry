@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **143 Udemy free courses published so far on 2022-07-28**
+## **154 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -289,6 +289,28 @@
 * [Independent Musician Music Marketing - Part Music Business](https://coursemetry.com/independent-musician-music-marketing-part-music-business/)
 
 * [Bank Reconciliations & Cash Internal Controls](https://coursemetry.com/bank-reconciliations-cash-internal-controls/)
+
+* [Interactive Data Analysis Report Using Microsoft Excel](https://coursemetry.com/interactive-data-analysis-report-using-microsoft-excel/)
+
+* [Google Ads 0 to hero for beginners complete AdWords course](https://coursemetry.com/google-ads-0-to-hero-for-beginners-complete-adwords-course/)
+
+* [Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://coursemetry.com/cryptocurrency-trading-for-beginners-learn-click-by-click/)
+
+* [Microsoft Project : Learn Project Management with MS Project](https://coursemetry.com/microsoft-project-learn-project-management-with-ms-project/)
+
+* [Master HTML:5 from very beginner to Pro](https://coursemetry.com/master-html5-from-very-beginner-to-pro/)
+
+* [Good Dog In A Box | Welcome Home! | Beginner Dog Training](https://coursemetry.com/good-dog-in-a-box-welcome-home-beginner-dog-training/)
+
+* [Red Hat Enterprise Linux - RHEL 9](https://coursemetry.com/red-hat-enterprise-linux-rhel-9/)
+
+* [Become a Digital Forensics Investigator with Autopsy!](https://coursemetry.com/become-a-digital-forensics-investigator-with-autopsy/)
+
+* [5 (fresh) steps to creating networking marketing success.](https://coursemetry.com/5-fresh-steps-to-creating-networking-marketing-success/)
+
+* [Method 333 To Learn & Strengthen Your Emotional Intelligence](https://coursemetry.com/method-333-to-learn-strengthen-your-emotional-intelligence/)
+
+* [Cómo tocar Hard Rock y Heavy Metal en la Guitarra Eléctrica](https://coursemetry.com/como-tocar-hard-rock-y-heavy-metal-en-la-guitarra-electrica/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
