@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **126 Udemy free courses published so far on 2022-07-28**
+## **143 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -255,6 +255,40 @@
 * [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
 
 * [Turn Followers to Customers: Instagram Lead Generation 2022](https://coursemetry.com/turn-followers-to-customers-instagram-lead-generation-2022/)
+
+* [Financial Accounting & Excel–Comprehensive Accounting Course](https://coursemetry.com/financial-accounting-excel-comprehensive-accounting-course/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
+
+* [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
+
+* [Financial Accounting-Depreciation Calculation & Fixed Assets](https://coursemetry.com/financial-accounting-depreciation-calculation-fixed-assets/)
+
+* [Work From Home Making 6 figures a Year through Real Estate](https://coursemetry.com/work-from-home-making-6-figures-a-year-through-real-estate/)
+
+* [Financial Accounting – Closing Process](https://coursemetry.com/financial-accounting-closing-process/)
+
+* [QuickBooks Online vs. Excel 2022](https://coursemetry.com/quickbooks-online-vs-excel-2022/)
+
+* [SAP Basis Essential Training](https://coursemetry.com/sap-basis-essential-training/)
+
+* [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
+
+* [Essentials of Organizational Behaviour](https://coursemetry.com/essentials-of-organizational-behaviour/)
+
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+
+* [QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-desktop-vs-excel/)
+
+* [Financial Accounting-Adjusting Entries & Financial Statement](https://coursemetry.com/financial-accounting-adjusting-entries-financial-statement/)
+
+* [Complete Financial Trading Technical Analysis 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-2022/)
+
+* [Independent Musician Music Marketing - Part Music Business](https://coursemetry.com/independent-musician-music-marketing-part-music-business/)
+
+* [Bank Reconciliations & Cash Internal Controls](https://coursemetry.com/bank-reconciliations-cash-internal-controls/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
