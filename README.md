@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **62 Udemy free courses published so far on 2022-07-28**
+## **66 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -127,6 +127,14 @@
 * [Plan your best life - planning strategies that work](https://coursemetry.com/plan-your-best-life-planning-strategies-that-work/)
 
 * [Sales mastery for busy entrepreneurs](https://coursemetry.com/sales-mastery-for-busy-entrepreneurs/)
+
+* [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
+
+* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners/)
+
+* [HTML 5,Python,Flask Framework All In One Complete Course](https://coursemetry.com/html-5pythonflask-framework-all-in-one-complete-course/)
+
+* [Systeme io Tutorial - Grow Your Business The Right Way](https://coursemetry.com/systeme-io-tutorial-grow-your-business-the-right-way/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
