@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **154 Udemy free courses published so far on 2022-07-28**
+## **155 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -311,6 +311,8 @@
 * [Method 333 To Learn & Strengthen Your Emotional Intelligence](https://coursemetry.com/method-333-to-learn-strengthen-your-emotional-intelligence/)
 
 * [Cómo tocar Hard Rock y Heavy Metal en la Guitarra Eléctrica](https://coursemetry.com/como-tocar-hard-rock-y-heavy-metal-en-la-guitarra-electrica/)
+
+* [Método 333 - Aprende y Fortalece Tu Inteligencia Emocional.](https://coursemetry.com/metodo-333-aprende-y-fortalece-tu-inteligencia-emocional/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
