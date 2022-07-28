@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-07-28**
+## **121 Udemy free courses published so far on 2022-07-28**
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
@@ -189,6 +189,62 @@
 * [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
 
 * [HTML, JavaScript, & Bootstrap - Certification Course](https://coursemetry.com/html-javascript-bootstrap-certification-course/)
+
+* [MB-800 Microsoft Dynamics 365 Business Central Functional](https://coursemetry.com/mb-800-microsoft-dynamics-365-business-central-functional/)
+
+* [Python Certification Exams - PCEP-30-01/PCEP-30-02 - 2022](https://coursemetry.com/python-certification-exams-pcep-30-01-pcep-30-02-2022/)
+
+* [50 Speaking Tests with Answers - IELTS & TOEFL](https://coursemetry.com/50-speaking-tests-with-answers-ielts-toefl/)
+
+* [Professional Presentation - صمم عرض تقديمي احترافي](https://coursemetry.com/professional-presentation-%d8%b5%d9%85%d9%85-%d8%b9%d8%b1%d8%b6-%d8%aa%d9%82%d8%af%d9%8a%d9%85%d9%8a-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%8a/)
+
+* [SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP](https://coursemetry.com/sap-project-essentials-implementing-sap-s-4hana-and-sap-erp/)
+
+* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+
+* [Website Flipping Basics Guide 2022](https://coursemetry.com/website-flipping-basics-guide-2022/)
+
+* [[NEW] Google Professional Cloud Developer Exam 2022](https://coursemetry.com/new-google-professional-cloud-developer-exam-2022/)
+
+* [2022 SQL Introduction: SQL Crash Course.](https://coursemetry.com/2022-sql-introduction-sql-crash-course/)
+
+* [The 150 Most Important Irregular Verbs in English. Volume 1](https://coursemetry.com/the-150-most-important-irregular-verbs-in-english-volume-1/)
+
+* [القواعد الأساسيه للإملاء](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d9%84%d8%a5%d9%85%d9%84%d8%a7%d8%a1/)
+
+* [القواعد الاساسيه لعلم النحو](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d9%86%d8%ad%d9%88/)
+
+* [2022 Facebook Chat Bot in Python from Scratch.](https://coursemetry.com/2022-facebook-chat-bot-in-python-from-scratch/)
+
+* [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
+
+* [Adobe Photoshop Art & Illustration Preset Basics Guide](https://coursemetry.com/adobe-photoshop-art-illustration-preset-basics-guide/)
+
+* [Introduction to Pharmaceutics and Biopharmaceutics](https://coursemetry.com/introduction-to-pharmaceutics-and-biopharmaceutics/)
+
+* [Arabic Language Course For Beginners](https://coursemetry.com/arabic-language-course-for-beginners/)
+
+* [[NEW] google cloud professional data engineer practice test](https://coursemetry.com/new-google-cloud-professional-data-engineer-practice-test/)
+
+* [Reverse Engineering .NET For Beginners (Visual Basic)](https://coursemetry.com/reverse-engineering-net-for-beginners-visual-basic/)
+
+* [[NEW] Google Cloud Digital Leader Certification exam](https://coursemetry.com/new-google-cloud-digital-leader-certification-exam/)
+
+* [Inglés: Aprende inglés facilmente traduciendo - Nivel B1/B2](https://coursemetry.com/ingles-aprende-ingles-facilmente-traduciendo-nivel-b1-b2/)
+
+* [Stop Insomnia: Sleep Habits to boost your productivity](https://coursemetry.com/stop-insomnia-sleep-habits-to-boost-your-productivity/)
+
+* [Excellence in Interpersonal Skills](https://coursemetry.com/excellence-in-interpersonal-skills/)
+
+* [Procurement & Supply Planning tools and techniques.](https://coursemetry.com/procurement-supply-planning-tools-and-techniques/)
+
+* [Master your content for busy entrepreneurs](https://coursemetry.com/master-your-content-for-busy-entrepreneurs/)
+
+* [PHP for Beginners: PDO Crash Course 2022](https://coursemetry.com/php-for-beginners-pdo-crash-course-2022/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [Leadership Skills - Learn How To Become An Effective Leader](https://coursemetry.com/leadership-skills-learn-how-to-become-an-effective-leader/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
