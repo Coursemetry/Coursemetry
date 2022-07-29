@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **28 Udemy free courses published so far on 2022-07-29**
+## **35 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -59,6 +59,20 @@
 * [Offensive C#](https://coursemetry.com/offensive-c/)
 
 * [Intro to Django Python Web Apps](https://coursemetry.com/intro-to-django-python-web-apps/)
+
+* [Solve Challenging Python Exercises](https://coursemetry.com/solve-challenging-python-exercises/)
+
+* [Python Coding Projects Build a Port Scanner](https://coursemetry.com/python-coding-projects-build-a-port-scanner/)
+
+* [Learn Python for beginners](https://coursemetry.com/learn-python-for-beginners/)
+
+* [COVID tracker application in Java Spring Boot for Beginners](https://coursemetry.com/covid-tracker-application-in-java-spring-boot-for-beginners/)
+
+* [Java and OOP concepts with interview tips.](https://coursemetry.com/java-and-oop-concepts-with-interview-tips/)
+
+* [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
+
+* [Podcast Audience Growth - Networking with your Guests](https://coursemetry.com/podcast-audience-growth-networking-with-your-guests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
