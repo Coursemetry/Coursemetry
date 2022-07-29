@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published so far on 2022-07-29**
+## **94 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -175,6 +175,22 @@
 * [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
 
 * [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
+
+* [Learn 10 Ways to Make MORE Money on YouTube!](https://coursemetry.com/learn-10-ways-to-make-more-money-on-youtube/)
+
+* [The ABCs of Asset-Backed Securities and Securitization](https://coursemetry.com/the-abcs-of-asset-backed-securities-and-securitization/)
+
+* [Real PMI-ACP Practice Tests: ALL YOU NEED TO PASS THE EXAM](https://coursemetry.com/real-pmi-acp-practice-tests-all-you-need-to-pass-the-exam/)
+
+* [Google Cloud Professional Data Engineer - Practice Test 2021](https://coursemetry.com/google-cloud-professional-data-engineer-practice-test-2021/)
+
+* [IT Operation Management (ITOM) Full Course](https://coursemetry.com/it-operation-management-itom-full-course/)
+
+* [CompTIA Security+ (SY0-601)- Practice Test Exam 2021 [New]](https://coursemetry.com/comptia-security-sy0-601-practice-test-exam-2021-new/)
+
+* [Effective Time Management For Professionals](https://coursemetry.com/effective-time-management-for-professionals/)
+
+* [A beginner guide to be a Cyber security expert in 2022](https://coursemetry.com/a-beginner-guide-to-be-a-cyber-security-expert-in-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
