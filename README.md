@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-07-29**
+## **50 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -93,6 +93,16 @@
 * [Become a Successful Online Course Instructor - Guide 2022](https://coursemetry.com/become-a-successful-online-course-instructor-guide-2022/)
 
 * [Le Guide Définitif du Développement Web HTML.](https://coursemetry.com/le-guide-definitif-du-developpement-web-html/)
+
+* [Python Fundamentals](https://coursemetry.com/python-fundamentals/)
+
+* [Java Fundamentals for Beginners](https://coursemetry.com/java-fundamentals-for-beginners/)
+
+* [The Expert’s Secret to Mobile Application Testing](https://coursemetry.com/the-experts-secret-to-mobile-application-testing/)
+
+* [Certified MongoDB Developer & Database Administrator Pack](https://coursemetry.com/certified-mongodb-developer-database-administrator-pack/)
+
+* [The Complete Guide to Android Bug Bounty Penetration Tests](https://coursemetry.com/the-complete-guide-to-android-bug-bounty-penetration-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
