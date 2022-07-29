@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published so far on 2022-07-29**
+## **96 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -191,6 +191,10 @@
 * [Effective Time Management For Professionals](https://coursemetry.com/effective-time-management-for-professionals/)
 
 * [A beginner guide to be a Cyber security expert in 2022](https://coursemetry.com/a-beginner-guide-to-be-a-cyber-security-expert-in-2022/)
+
+* [Doğal Vücut Geliştirmede Profesyonel Olun](https://coursemetry.com/dogal-vucut-gelistirmede-profesyonel-olun/)
+
+* [CompTIA Advanced Security Practitioner (CASP) Practice Exams](https://coursemetry.com/comptia-advanced-security-practitioner-casp-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
