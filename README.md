@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published so far on 2022-07-29**
+## **41 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -75,6 +75,16 @@
 * [Podcast Audience Growth - Networking with your Guests](https://coursemetry.com/podcast-audience-growth-networking-with-your-guests/)
 
 * [How To Build a Sales Funnel For Your Subscription Business](https://coursemetry.com/how-to-build-a-sales-funnel-for-your-subscription-business/)
+
+* [Aprende Cómo Hacer El Mejor Podcast y Con Hosting](https://coursemetry.com/aprende-como-hacer-el-mejor-podcast-y-con-hosting/)
+
+* [AZ-304: Microsoft Azure Architect Design Practice Questions](https://coursemetry.com/az-304-microsoft-azure-architect-design-practice-questions-3/)
+
+* [Intermediate/Advanced Hip Hop Dance with Temper Tantrum](https://coursemetry.com/intermediate-advanced-hip-hop-dance-with-temper-tantrum/)
+
+* [[2022] Python bootcamp تعلم بايثون من الصفر حتى الاحتراف](https://coursemetry.com/2022-python-bootcamp-%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [English language basics for beginners & intermediate levels](https://coursemetry.com/english-language-basics-for-beginners-intermediate-levels/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
