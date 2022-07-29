@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **35 Udemy free courses published so far on 2022-07-29**
+## **36 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -73,6 +73,8 @@
 * [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
 
 * [Podcast Audience Growth - Networking with your Guests](https://coursemetry.com/podcast-audience-growth-networking-with-your-guests/)
+
+* [How To Build a Sales Funnel For Your Subscription Business](https://coursemetry.com/how-to-build-a-sales-funnel-for-your-subscription-business/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
