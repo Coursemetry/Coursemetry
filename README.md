@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **22 Udemy free courses published so far on 2022-07-29**
+## **28 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -47,6 +47,18 @@
 * [Time Management Public Speaking - Drastically Reduce Prep](https://coursemetry.com/time-management-public-speaking-drastically-reduce-prep/)
 
 * [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
+
+* [The New Future with Ai Basic understanding & Ethics](https://coursemetry.com/the-new-future-with-ai-basic-understanding-ethics/)
+
+* [Learn Game Development with JavaScript](https://coursemetry.com/learn-game-development-with-javascript/)
+
+* [Asteroids with Python PyGame](https://coursemetry.com/asteroids-with-python-pygame/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [Offensive C#](https://coursemetry.com/offensive-c/)
+
+* [Intro to Django Python Web Apps](https://coursemetry.com/intro-to-django-python-web-apps/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
