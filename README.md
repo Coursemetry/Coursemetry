@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **103 Udemy free courses published so far on 2022-07-29**
+## **105 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -209,6 +209,10 @@
 * [ASQ Certified Quality Engineer (CQE) Practice Exams](https://coursemetry.com/asq-certified-quality-engineer-cqe-practice-exams/)
 
 * [Learn What Is Virtualization](https://coursemetry.com/learn-what-is-virtualization/)
+
+* [Human Rights : A basic course](https://coursemetry.com/human-rights-a-basic-course/)
+
+* [31 Trucos asertivos de finanzas personales](https://coursemetry.com/31-trucos-asertivos-de-finanzas-personales/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
