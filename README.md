@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-07-29**
+## **103 Udemy free courses published so far on 2022-07-29**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -195,6 +195,20 @@
 * [Doğal Vücut Geliştirmede Profesyonel Olun](https://coursemetry.com/dogal-vucut-gelistirmede-profesyonel-olun/)
 
 * [CompTIA Advanced Security Practitioner (CASP) Practice Exams](https://coursemetry.com/comptia-advanced-security-practitioner-casp-practice-exams/)
+
+* [Curso Completo Funcional de iDempiere](https://coursemetry.com/curso-completo-funcional-de-idempiere/)
+
+* [Permutation & Combination Using ANIMATION & Visual Tools](https://coursemetry.com/permutation-combination-using-animation-visual-tools/)
+
+* [P.O.W.E.R. : Proven Interview System to crack your DREAM job](https://coursemetry.com/p-o-w-e-r-proven-interview-system-to-crack-your-dream-job/)
+
+* [No Oil Cooking Recipes - Eat Healthy! Live Strong!](https://coursemetry.com/no-oil-cooking-recipes-eat-healthy-live-strong/)
+
+* [Improve English by Movies](https://coursemetry.com/improve-english-by-movies/)
+
+* [ASQ Certified Quality Engineer (CQE) Practice Exams](https://coursemetry.com/asq-certified-quality-engineer-cqe-practice-exams/)
+
+* [Learn What Is Virtualization](https://coursemetry.com/learn-what-is-virtualization/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
