@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **42 Udemy free courses published so far on 2022-07-30**
+## **61 Udemy free courses published so far on 2022-07-30**
 
 * [How to Express your Stories with Cartoons](https://coursemetry.com/how-to-express-your-stories-with-cartoons/)
 
@@ -87,6 +87,44 @@
 * [MD-101 Managing Modern Desktops Practice Exams - JULY 2022](https://coursemetry.com/md-101-managing-modern-desktops-practice-exams-july-2022/)
 
 * [Certification in Gann Square Trading (Technical Analysis)](https://coursemetry.com/certification-in-gann-square-trading-technical-analysis/)
+
+* [How to Find good trading Robot in Forex](https://coursemetry.com/how-to-find-good-trading-robot-in-forex/)
+
+* [Python for Trading and Finance](https://coursemetry.com/python-for-trading-and-finance/)
+
+* [The Ultimate Product Manager Interview Practice Course!](https://coursemetry.com/the-ultimate-product-manager-interview-practice-course/)
+
+* [AWS Systems Manager - Simplify Automation & Operations](https://coursemetry.com/aws-systems-manager-simplify-automation-operations/)
+
+* [Linear Regression and Logistic Regression in Python](https://coursemetry.com/linear-regression-and-logistic-regression-in-python/)
+
+* [Lumion'da Gerçekçi Malzeme Hazırlamak](https://coursemetry.com/lumionda-gercekci-malzeme-hazirlamak/)
+
+* [Python Fundamentals](https://coursemetry.com/python-fundamentals/)
+
+* [ATtiny Mikrocontroller Entwicklung für Arduino Programmierer](https://coursemetry.com/attiny-mikrocontroller-entwicklung-fur-arduino-programmierer/)
+
+* [BASIC OIL PAINTING BEGINNING DRAWING LESSON (LANDSCAPE STUDY](https://coursemetry.com/basic-oil-painting-beginning-drawing-lesson-landscape-study/)
+
+* [Endüstriyel Tasarım](https://coursemetry.com/endustriyel-tasarim/)
+
+* [Complete English Grammar For Lower Levels](https://coursemetry.com/complete-english-grammar-for-lower-levels-2/)
+
+* [Einstieg in die objektorientierte Programmierung mit Arduino](https://coursemetry.com/einstieg-in-die-objektorientierte-programmierung-mit-arduino/)
+
+* [AWS Certified DevOps Engineer Professional Practice Tests](https://coursemetry.com/aws-certified-devops-engineer-professional-practice-tests/)
+
+* [Java Fundamentals for Beginners](https://coursemetry.com/java-fundamentals-for-beginners/)
+
+* [Python Data Course: Python for Data Analysis & Visualization](https://coursemetry.com/python-data-course-python-for-data-analysis-visualization/)
+
+* [Python Learn by Python Projects & Python Quizzes in 2022](https://coursemetry.com/python-learn-by-python-projects-python-quizzes-in-2022/)
+
+* [Steuerung der LED Matrix via Webinterface mit Arduino/ESP32](https://coursemetry.com/steuerung-der-led-matrix-via-webinterface-mit-arduino-esp32/)
+
+* [SQL for Data Analysis and Data Science in 2022](https://coursemetry.com/sql-for-data-analysis-and-data-science-in-2022/)
+
+* [Der große Arduino/ESP Bastelkurs](https://coursemetry.com/der-grose-arduino-esp-bastelkurs/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
