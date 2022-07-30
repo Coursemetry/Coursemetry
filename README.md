@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-07-30**
+## **68 Udemy free courses published so far on 2022-07-30**
 
 * [How to Express your Stories with Cartoons](https://coursemetry.com/how-to-express-your-stories-with-cartoons/)
 
@@ -137,6 +137,8 @@
 * [100+ Power User Mac Keyboard Shortcuts - macOS 11 Big Sur](https://coursemetry.com/100-power-user-mac-keyboard-shortcuts-macos-11-big-sur/)
 
 * [Final Cut Pro Tutorial - MotionVFX Academy](https://coursemetry.com/final-cut-pro-tutorial-motionvfx-academy/)
+
+* [CCSP Domain 2 - Cloud Data Security](https://coursemetry.com/ccsp-domain-2-cloud-data-security/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
