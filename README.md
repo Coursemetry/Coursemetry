@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-07-30**
+## **115 Udemy free courses published so far on 2022-07-30**
 
 * [How to Express your Stories with Cartoons](https://coursemetry.com/how-to-express-your-stories-with-cartoons/)
 
@@ -225,6 +225,14 @@
 * [Python Fundamentals](https://coursemetry.com/python-fundamentals/)
 
 * [Java Fundamentals for Beginners](https://coursemetry.com/java-fundamentals-for-beginners/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python-2/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [C# ile Temel ve Orta Seviye Programlama](https://coursemetry.com/c-ile-temel-ve-orta-seviye-programlama/)
+
+* [Temel Seviye Etik Hacker Eğitimi](https://coursemetry.com/temel-seviye-etik-hacker-egitimi/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
