@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published so far on 2022-07-30**
+## **97 Udemy free courses published so far on 2022-07-30**
 
 * [How to Express your Stories with Cartoons](https://coursemetry.com/how-to-express-your-stories-with-cartoons/)
 
@@ -141,6 +141,62 @@
 * [CCSP Domain 2 - Cloud Data Security](https://coursemetry.com/ccsp-domain-2-cloud-data-security/)
 
 * [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [Kali Linux para Iniciantes com NMap (hacking e pentest)](https://coursemetry.com/kali-linux-para-iniciantes-com-nmap-hacking-e-pentest/)
+
+* [Professional Presentation - صمم عرض تقديمي احترافي](https://coursemetry.com/professional-presentation-%d8%b5%d9%85%d9%85-%d8%b9%d8%b1%d8%b6-%d8%aa%d9%82%d8%af%d9%8a%d9%85%d9%8a-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%8a/)
+
+* [ASQ Certified Quality Engineer (CQE) Practice Exams](https://coursemetry.com/asq-certified-quality-engineer-cqe-practice-exams/)
+
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+
+* [AWS Certified DevOps Engineer Professional Practice Exams](https://coursemetry.com/aws-certified-devops-engineer-professional-practice-exams-2/)
+
+* [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
+
+* [CompTIA Server+ Certified SK0-004 Practice Exams](https://coursemetry.com/comptia-server-certified-sk0-004-practice-exams/)
+
+* [How to Start a Podcast - Podcasting Made Easy](https://coursemetry.com/how-to-start-a-podcast-podcasting-made-easy/)
+
+* [AWS Certified Solutions Architect Professional Exam Prep](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-prep/)
+
+* [CompTIA Advanced Security Practitioner (CASP) Practice Exams](https://coursemetry.com/comptia-advanced-security-practitioner-casp-practice-exams/)
+
+* [QuickBooks Online vs. QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-vs-excel/)
+
+* [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
+
+* [Rewire your Brain through Easy Vinyasa Infinite Movements](https://coursemetry.com/rewire-your-brain-through-easy-vinyasa-infinite-movements/)
+
+* [Construct a free website using a Google Sites July 2022](https://coursemetry.com/construct-a-free-website-using-a-google-sites-july-2022/)
+
+* [Storytelling and Analytical Thinking: Fortune 500](https://coursemetry.com/storytelling-and-analytical-thinking-fortune-500/)
+
+* [A Guide to Lower Back Pain Relief (Asanas & Exercises)](https://coursemetry.com/a-guide-to-lower-back-pain-relief-asanas-exercises/)
+
+* [How to Dropship From AliExpress to eBay | Full Guide](https://coursemetry.com/how-to-dropship-from-aliexpress-to-ebay-full-guide/)
+
+* [How To Grow On Instagram From 0](https://coursemetry.com/how-to-grow-on-instagram-from-0/)
+
+* [Advanced WordPress Plugin Development - TailwindCSS, Webpack](https://coursemetry.com/advanced-wordpress-plugin-development-tailwindcss-webpack/)
+
+* [How to Live "The Real Life"](https://coursemetry.com/how-to-live-the-real-life/)
+
+* [How to Invest in Stocks by a Pro Who Managed > 1 Billion](https://coursemetry.com/how-to-invest-in-stocks-by-a-pro-who-managed-1-billion/)
+
+* [Storytelling and Stakeholder Engagement: Fortune 500](https://coursemetry.com/storytelling-and-stakeholder-engagement-fortune-500/)
+
+* [Derivatives Demystified: 2-Fundamentals of Options](https://coursemetry.com/derivatives-demystified-2-fundamentals-of-options/)
+
+* [The Playbook for Youtube Marketing](https://coursemetry.com/the-playbook-for-youtube-marketing/)
+
+* [Essential Telephone Skills and Techniques](https://coursemetry.com/essential-telephone-skills-and-techniques/)
+
+* [Excel Functions - The Essentiel To Know](https://coursemetry.com/excel-functions-the-essentiel-to-know/)
+
+* [Fundamentals of JDBC](https://coursemetry.com/fundamentals-of-jdbc/)
+
+* [Traditional  Recipes : The Most Delicious Algerian Dishes](https://coursemetry.com/traditional-recipes-the-most-delicious-algerian-dishes/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
