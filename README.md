@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **109 Udemy free courses published so far on 2022-07-30**
+## **111 Udemy free courses published so far on 2022-07-30**
 
 * [How to Express your Stories with Cartoons](https://coursemetry.com/how-to-express-your-stories-with-cartoons/)
 
@@ -100,8 +100,6 @@
 
 * [Lumion'da Gerçekçi Malzeme Hazırlamak](https://coursemetry.com/lumionda-gercekci-malzeme-hazirlamak/)
 
-* [Python Fundamentals](https://coursemetry.com/python-fundamentals/)
-
 * [ATtiny Mikrocontroller Entwicklung für Arduino Programmierer](https://coursemetry.com/attiny-mikrocontroller-entwicklung-fur-arduino-programmierer/)
 
 * [BASIC OIL PAINTING BEGINNING DRAWING LESSON (LANDSCAPE STUDY](https://coursemetry.com/basic-oil-painting-beginning-drawing-lesson-landscape-study/)
@@ -113,8 +111,6 @@
 * [Einstieg in die objektorientierte Programmierung mit Arduino](https://coursemetry.com/einstieg-in-die-objektorientierte-programmierung-mit-arduino/)
 
 * [AWS Certified DevOps Engineer Professional Practice Tests](https://coursemetry.com/aws-certified-devops-engineer-professional-practice-tests/)
-
-* [Java Fundamentals for Beginners](https://coursemetry.com/java-fundamentals-for-beginners/)
 
 * [Python Data Course: Python for Data Analysis & Visualization](https://coursemetry.com/python-data-course-python-for-data-analysis-visualization/)
 
@@ -221,6 +217,14 @@
 * [Political Science- Political Party and Politics](https://coursemetry.com/political-science-political-party-and-politics/)
 
 * [Multi Family Investing for Beginners](https://coursemetry.com/multi-family-investing-for-beginners/)
+
+* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
+
+* [SQL - Learn SQL using SQL Server](https://coursemetry.com/sql-learn-sql-using-sql-server/)
+
+* [Python Fundamentals](https://coursemetry.com/python-fundamentals/)
+
+* [Java Fundamentals for Beginners](https://coursemetry.com/java-fundamentals-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
