@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **61 Udemy free courses published so far on 2022-07-30**
+## **67 Udemy free courses published so far on 2022-07-30**
 
 * [How to Express your Stories with Cartoons](https://coursemetry.com/how-to-express-your-stories-with-cartoons/)
 
@@ -125,6 +125,18 @@
 * [SQL for Data Analysis and Data Science in 2022](https://coursemetry.com/sql-for-data-analysis-and-data-science-in-2022/)
 
 * [Der große Arduino/ESP Bastelkurs](https://coursemetry.com/der-grose-arduino-esp-bastelkurs/)
+
+* [How to Find New Funders in Your Backyard in Under 60 Minutes](https://coursemetry.com/how-to-find-new-funders-in-your-backyard-in-under-60-minutes/)
+
+* [HR Data Fundamentals](https://coursemetry.com/hr-data-fundamentals/)
+
+* [Web Hosting 101 - Setup Your Own Website And Domain](https://coursemetry.com/web-hosting-101-setup-your-own-website-and-domain/)
+
+* [iMovie Video Editing Course for Beginners on Mac OS](https://coursemetry.com/imovie-video-editing-course-for-beginners-on-mac-os/)
+
+* [100+ Power User Mac Keyboard Shortcuts - macOS 11 Big Sur](https://coursemetry.com/100-power-user-mac-keyboard-shortcuts-macos-11-big-sur/)
+
+* [Final Cut Pro Tutorial - MotionVFX Academy](https://coursemetry.com/final-cut-pro-tutorial-motionvfx-academy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
