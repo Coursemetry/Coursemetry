@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-07-30**
+## **109 Udemy free courses published so far on 2022-07-30**
 
 * [How to Express your Stories with Cartoons](https://coursemetry.com/how-to-express-your-stories-with-cartoons/)
 
@@ -197,6 +197,30 @@
 * [Fundamentals of JDBC](https://coursemetry.com/fundamentals-of-jdbc/)
 
 * [Traditional  Recipes : The Most Delicious Algerian Dishes](https://coursemetry.com/traditional-recipes-the-most-delicious-algerian-dishes/)
+
+* [Learn AND Develop Winning Prototypes](https://coursemetry.com/learn-and-develop-winning-prototypes/)
+
+* [Movavi Video Editor Guide - Video Editing for Beginners](https://coursemetry.com/movavi-video-editor-guide-video-editing-for-beginners/)
+
+* [Systeme Sales Funnels - Free Sales Funnels Tool Guide](https://coursemetry.com/systeme-sales-funnels-free-sales-funnels-tool-guide/)
+
+* [Advanced English Grammar Tests (For ALL Exams: TOEFL IELTS)](https://coursemetry.com/advanced-english-grammar-tests-for-all-exams-toefl-ielts/)
+
+* [Ethical Hacking: Command Injection](https://coursemetry.com/ethical-hacking-command-injection/)
+
+* [How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://coursemetry.com/how-to-make-money-online-for-beginners-follow-proven-steps/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [Operational Amplifiers: Linear Integrated Circuits](https://coursemetry.com/operational-amplifiers-linear-integrated-circuits/)
+
+* [DevOps : Development and Operations, Agile, and Kubernetes](https://coursemetry.com/devops-development-and-operations-agile-and-kubernetes/)
+
+* [Gender Equality and Women Empowerment](https://coursemetry.com/gender-equality-and-women-empowerment/)
+
+* [Political Science- Political Party and Politics](https://coursemetry.com/political-science-political-party-and-politics/)
+
+* [Multi Family Investing for Beginners](https://coursemetry.com/multi-family-investing-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
