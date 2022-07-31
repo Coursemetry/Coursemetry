@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-07-31**
+## **117 Udemy free courses published so far on 2022-07-31**
 
 * [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
@@ -223,6 +223,20 @@
 * [Linux Command Line](https://coursemetry.com/linux-command-line/)
 
 * [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
+
+* [Logística: Gestión de almacenes y Control de inventarios](https://coursemetry.com/logistica-gestion-de-almacenes-y-control-de-inventarios/)
+
+* [Logística: Sistemas de control de inventarios](https://coursemetry.com/logistica-sistemas-de-control-de-inventarios/)
+
+* [Graficas dinamicas en Excel y formatos condicional a tablas](https://coursemetry.com/graficas-dinamicas-en-excel-y-formatos-condicional-a-tablas/)
+
+* [Logística: Administración y Gestión de Inventarios](https://coursemetry.com/logistica-administracion-y-gestion-de-inventarios/)
+
+* [Curso Básico de Microsoft Excel  - Funciones, Atajos y Mas](https://coursemetry.com/curso-basico-de-microsoft-excel-funciones-atajos-y-mas/)
+
+* [Curso de Excel - Tablas dinámicas y gráficos interactivos](https://coursemetry.com/curso-de-excel-tablas-dinamicas-y-graficos-interactivos/)
+
+* [Administración y logística en la cadena de suministro](https://coursemetry.com/administracion-y-logistica-en-la-cadena-de-suministro/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
