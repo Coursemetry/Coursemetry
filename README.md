@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **117 Udemy free courses published so far on 2022-07-31**
+## **123 Udemy free courses published so far on 2022-07-31**
 
 * [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
@@ -237,6 +237,18 @@
 * [Curso de Excel - Tablas dinámicas y gráficos interactivos](https://coursemetry.com/curso-de-excel-tablas-dinamicas-y-graficos-interactivos/)
 
 * [Administración y logística en la cadena de suministro](https://coursemetry.com/administracion-y-logistica-en-la-cadena-de-suministro/)
+
+* [[2022] AI 900 - Azure AI Fundamentals Exam Practice Test NEW](https://coursemetry.com/2022-ai-900-azure-ai-fundamentals-exam-practice-test-new/)
+
+* [2022 Java EE 7 Application Developer 1Z0-900 Practice Tests](https://coursemetry.com/2022-java-ee-7-application-developer-1z0-900-practice-tests/)
+
+* [Shopify Guide: Start your own clothing brand with Shopify](https://coursemetry.com/shopify-guide-start-your-own-clothing-brand-with-shopify/)
+
+* [2022 Microsoft Azure Data Fundamentals DP 900 Practice Tests](https://coursemetry.com/2022-microsoft-azure-data-fundamentals-dp-900-practice-tests/)
+
+* [Java Foundations Exam 1Z0-811 Practice Tests 2022 New!!](https://coursemetry.com/java-foundations-exam-1z0-811-practice-tests-2022-new/)
+
+* [Shopify guide: The complete shopify store creation course](https://coursemetry.com/shopify-guide-the-complete-shopify-store-creation-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
