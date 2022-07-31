@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **107 Udemy free courses published so far on 2022-07-31**
+## **110 Udemy free courses published so far on 2022-07-31**
 
 * [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
@@ -217,6 +217,12 @@
 * [Cinematography Essentials for Videographers & Film-Makers](https://coursemetry.com/cinematography-essentials-for-videographers-film-makers/)
 
 * [How To Build a Sales Funnel For Your Subscription Business](https://coursemetry.com/how-to-build-a-sales-funnel-for-your-subscription-business/)
+
+* [Cyber Security: Intermediate Linux Commands](https://coursemetry.com/cyber-security-intermediate-linux-commands/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
