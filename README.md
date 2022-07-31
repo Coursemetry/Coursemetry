@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **103 Udemy free courses published so far on 2022-07-31**
+## **107 Udemy free courses published so far on 2022-07-31**
 
 * [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
@@ -209,6 +209,14 @@
 * [Climate Change explained: Causes, consequences and solutions](https://coursemetry.com/climate-change-explained-causes-consequences-and-solutions/)
 
 * [Python Coding Projects Build a Web App Directory Discovery](https://coursemetry.com/python-coding-projects-build-a-web-app-directory-discovery/)
+
+* [WordPress Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/wordpress-practice-tests-interview-questions-basic-adv/)
+
+* [poultry farming Bacterial diseases hindering satisfying prod](https://coursemetry.com/poultry-farming-bacterial-diseases-hindering-satisfying-prod/)
+
+* [Cinematography Essentials for Videographers & Film-Makers](https://coursemetry.com/cinematography-essentials-for-videographers-film-makers/)
+
+* [How To Build a Sales Funnel For Your Subscription Business](https://coursemetry.com/how-to-build-a-sales-funnel-for-your-subscription-business/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
