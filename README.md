@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published so far on 2022-07-31**
+## **63 Udemy free courses published so far on 2022-07-31**
 
 * [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
@@ -103,6 +103,32 @@
 * [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
 
 * [DP-900: Microsoft Azure Data Fundamentals Practice Tests](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-tests/)
+
+* [Systemisches Coaching - der komplette Kurs!](https://coursemetry.com/systemisches-coaching-der-komplette-kurs/)
+
+* [Workshops - systemisch konzipieren und gestalten](https://coursemetry.com/workshops-systemisch-konzipieren-und-gestalten/)
+
+* [Personal Finance: Invest, Loans, Stocks,Insurance, Inflation](https://coursemetry.com/personal-finance-invest-loans-stocksinsurance-inflation/)
+
+* [2022 Data Analyst Boot camp: Get Ready to Be a Data Analyst.](https://coursemetry.com/2022-data-analyst-boot-camp-get-ready-to-be-a-data-analyst/)
+
+* [2022 Learn Python By building Games in Python.](https://coursemetry.com/2022-learn-python-by-building-games-in-python/)
+
+* [Personalentwicklung für (zukünftige) Führungskräfte](https://coursemetry.com/personalentwicklung-fur-zukunftige-fuhrungskrafte/)
+
+* [Systemische Gesprächsführung im digitalen Umfeld](https://coursemetry.com/systemische-gesprachsfuhrung-im-digitalen-umfeld/)
+
+* [تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a8%d9%84%d8%ba%d8%a9-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ae%d8%b7%d9%88%d8%a9/)
+
+* [Complete Python & Python OOP with Exercises& Projects in2022](https://coursemetry.com/complete-python-python-oop-with-exercises-projects-in2022/)
+
+* [Business Communication Skills: Handling Clients & Customers](https://coursemetry.com/business-communication-skills-handling-clients-customers/)
+
+* [Logistic Regression in R Studio](https://coursemetry.com/logistic-regression-in-r-studio/)
+
+* [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
