@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-07-31**
+## **103 Udemy free courses published so far on 2022-07-31**
 
 * [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
@@ -189,6 +189,26 @@
 * [Ethical Hacking(V11)| الكورس الشامل لتصبح هكر اخلاقي معتمد](https://coursemetry.com/ethical-hackingv11-%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b5%d8%a8%d8%ad-%d9%87%d9%83%d8%b1-%d8%a7%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d9%85%d8%b9/)
 
 * [Azure 104 Practice Exam](https://coursemetry.com/azure-104-practice-exam/)
+
+* [Bitwise Algorithms](https://coursemetry.com/bitwise-algorithms/)
+
+* [general mycology a brief review](https://coursemetry.com/general-mycology-a-brief-review/)
+
+* [Executive Program in Data Analytics](https://coursemetry.com/executive-program-in-data-analytics/)
+
+* [Agile Development Methodology Agile Manifesto SCRUM KANBAN](https://coursemetry.com/agile-development-methodology-agile-manifesto-scrum-kanban/)
+
+* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
+
+* [Bootstrap 5: Créer et Lancer des Sites Web Réactifs](https://coursemetry.com/bootstrap-5-creer-et-lancer-des-sites-web-reactifs/)
+
+* [Analyse de Données avec Python: Numpy, Pandas et Matplotlib](https://coursemetry.com/analyse-de-donnees-avec-python-numpy-pandas-et-matplotlib/)
+
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+
+* [Climate Change explained: Causes, consequences and solutions](https://coursemetry.com/climate-change-explained-causes-consequences-and-solutions/)
+
+* [Python Coding Projects Build a Web App Directory Discovery](https://coursemetry.com/python-coding-projects-build-a-web-app-directory-discovery/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
