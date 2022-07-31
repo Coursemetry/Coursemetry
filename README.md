@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-07-31**
+## **88 Udemy free courses published so far on 2022-07-31**
 
 * [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
@@ -129,6 +129,56 @@
 * [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
 
 * [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Systeme io Tutorial - Grow Your Business The Right Way](https://coursemetry.com/systeme-io-tutorial-grow-your-business-the-right-way/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [PHP for Beginners with MySQL create API and real time app](https://coursemetry.com/php-for-beginners-with-mysql-create-api-and-real-time-app/)
+
+* [ISO 9001, ISO 14001 & ISO 45001 Internal Auditor](https://coursemetry.com/iso-9001-iso-14001-iso-45001-internal-auditor/)
+
+* [Investing in Canada : A complete guide to making Investments](https://coursemetry.com/investing-in-canada-a-complete-guide-to-making-investments/)
+
+* [How To Create Your Own Website](https://coursemetry.com/how-to-create-your-own-website/)
+
+* [Training programs and coaching](https://coursemetry.com/training-programs-and-coaching/)
+
+* [Python Practice Projects for Beginners](https://coursemetry.com/python-practice-projects-for-beginners/)
+
+* [Introduction to Localization and Project Management](https://coursemetry.com/introduction-to-localization-and-project-management/)
+
+* [Learn Ethical Haacking From Scratch](https://coursemetry.com/learn-ethical-haacking-from-scratch/)
+
+* [Design Interactive Resume using Adobe InDesign](https://coursemetry.com/design-interactive-resume-using-adobe-indesign/)
+
+* [Technical Analysis Certification Course with live trades](https://coursemetry.com/technical-analysis-certification-course-with-live-trades/)
+
+* [Become a Learning Ninja](https://coursemetry.com/become-a-learning-ninja/)
+
+* [Aquaponics Master Class, Business Tips & Growing Builds](https://coursemetry.com/aquaponics-master-class-business-tips-growing-builds/)
+
+* [Azure Files SMB with OnPrem Active Directory](https://coursemetry.com/azure-files-smb-with-onprem-active-directory/)
+
+* [How to Source Amazon FBA Products with Alibaba in 2022](https://coursemetry.com/how-to-source-amazon-fba-products-with-alibaba-in-2022/)
+
+* [CSS Animation Projects](https://coursemetry.com/css-animation-projects/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
