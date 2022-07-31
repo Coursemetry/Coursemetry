@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published so far on 2022-07-31**
+## **93 Udemy free courses published so far on 2022-07-31**
 
 * [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
 
@@ -179,6 +179,16 @@
 * [How to Source Amazon FBA Products with Alibaba in 2022](https://coursemetry.com/how-to-source-amazon-fba-products-with-alibaba-in-2022/)
 
 * [CSS Animation Projects](https://coursemetry.com/css-animation-projects/)
+
+* [[Dashboard Microsoft Excel] : Conception Tableau de bord](https://coursemetry.com/dashboard-microsoft-excel-conception-tableau-de-bord/)
+
+* [AZ-900 Microsoft Azure Fundamentals Practice Exams](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-exams/)
+
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
+
+* [Ethical Hacking(V11)| الكورس الشامل لتصبح هكر اخلاقي معتمد](https://coursemetry.com/ethical-hackingv11-%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b5%d8%a8%d8%ad-%d9%87%d9%83%d8%b1-%d8%a7%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d9%85%d8%b9/)
+
+* [Azure 104 Practice Exam](https://coursemetry.com/azure-104-practice-exam/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
