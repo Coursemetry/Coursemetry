@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published so far on 2022-08-01**
+## **127 Udemy free courses published so far on 2022-08-01**
 
 * [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
 
@@ -186,7 +186,77 @@
 
 * [OpenGL Basics Guide 2022](https://coursemetry.com/opengl-basics-guide-2022/)
 
+* [Angular Material Basics Guide 2022](https://coursemetry.com/angular-material-basics-guide-2022/)
+
+* [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
+
+* [Python İle Programlama Temelleri](https://coursemetry.com/python-ile-programlama-temelleri/)
+
+* [Master the Art Of Self-Confidence – Unshakable Confidence](https://coursemetry.com/master-the-art-of-self-confidence-unshakable-confidence/)
+
+* [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
+
+* [Microsoft Power BI DAX from Scratch](https://coursemetry.com/microsoft-power-bi-dax-from-scratch/)
+
+* [Online marketing for introverts](https://coursemetry.com/online-marketing-for-introverts/)
+
+* [Understanding HIPAA Compliance](https://coursemetry.com/understanding-hipaa-compliance/)
+
+* [Fiverr Freelancing For Absolute Beginners: Basic to Advance](https://coursemetry.com/fiverr-freelancing-for-absolute-beginners-basic-to-advance/)
+
+* [Adobe Photoshop Presets Basics Guide](https://coursemetry.com/adobe-photoshop-presets-basics-guide/)
+
+* [Sales mastery for busy entrepreneurs](https://coursemetry.com/sales-mastery-for-busy-entrepreneurs/)
+
+* [The Complete Computer Basics Guide for Beginners: 2022](https://coursemetry.com/the-complete-computer-basics-guide-for-beginners-2022/)
+
+* [Affiliate marketing success for busy entrepreneurs](https://coursemetry.com/affiliate-marketing-success-for-busy-entrepreneurs/)
+
+* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
+
+* [Data Analytics with Excel PivotTables](https://coursemetry.com/data-analytics-with-excel-pivottables/)
+
+* [Concept of Wellbeing- Dealing with Anxiety](https://coursemetry.com/concept-of-wellbeing-dealing-with-anxiety/)
+
+* [Do Different Real-World Python Projects as a Beginner](https://coursemetry.com/do-different-real-world-python-projects-as-a-beginner/)
+
+* [Everything About Blogger From Scratch](https://coursemetry.com/everything-about-blogger-from-scratch/)
+
+* [Bootstrap 4 Basics Guide 2022](https://coursemetry.com/bootstrap-4-basics-guide-2022/)
+
+* [Big Data on Amazon web services (AWS)](https://coursemetry.com/big-data-on-amazon-web-services-aws/)
+
+* [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
+
+* [Adobe InDesign Ultimate Guide 2022](https://coursemetry.com/adobe-indesign-ultimate-guide-2022/)
+
+* [Microsoft Word - Grundkurs für alle Einsteiger:innen](https://coursemetry.com/microsoft-word-grundkurs-fur-alle-einsteigerinnen/)
+
+* [Master in Microsoft Power BI Desktop and Service](https://coursemetry.com/master-in-microsoft-power-bi-desktop-and-service/)
+
+* [Basic Structure of Computers](https://coursemetry.com/basic-structure-of-computers/)
+
+* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [English placement test](https://coursemetry.com/english-placement-test/)
+
+* [Time Management for Professionals](https://coursemetry.com/time-management-for-professionals/)
+
 * [The no comfort zone challenge - live life to the fullest](https://coursemetry.com/the-no-comfort-zone-challenge-live-life-to-the-fullest/)
+
+* [Microsoft Excel Ultimate Guide 2022](https://coursemetry.com/microsoft-excel-ultimate-guide-2022/)
+
+* [Kick Out Depression -Complete Treatment 2022](https://coursemetry.com/kick-out-depression-complete-treatment-2022/)
+
+* [Google Forms Ultimate Guide 2022](https://coursemetry.com/google-forms-ultimate-guide-2022/)
+
+* [Introduction To Cybersecurity](https://coursemetry.com/introduction-to-cybersecurity/)
+
+* [Everything About Kali Linux OS](https://coursemetry.com/everything-about-kali-linux-os/)
+
+* [Towards Excellence : The 25 Steps to Success](https://coursemetry.com/towards-excellence-the-25-steps-to-success/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
