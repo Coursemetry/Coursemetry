@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **158 Udemy free courses published so far on 2022-08-01**
+## **204 Udemy free courses published so far on 2022-08-01**
 
 * [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
 
@@ -319,6 +319,98 @@
 * [Google Cloud Professional Data Engineer - GCP - Exams - 2022](https://coursemetry.com/google-cloud-professional-data-engineer-gcp-exams-2022/)
 
 * [Microsoft Teams Ultimate Guide 2022](https://coursemetry.com/microsoft-teams-ultimate-guide-2022/)
+
+* [Brain Computer Interfacing via spiking neuromorphic networks](https://coursemetry.com/brain-computer-interfacing-via-spiking-neuromorphic-networks/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 9](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-9/)
+
+* [Web Application Penetration Testing in Arabic](https://coursemetry.com/web-application-penetration-testing-in-arabic/)
+
+* [Bitwise Algorithms](https://coursemetry.com/bitwise-algorithms/)
+
+* [EMDR Practitioner Toolbox - Treatment of Complex PTSD](https://coursemetry.com/emdr-practitioner-toolbox-treatment-of-complex-ptsd/)
+
+* [React Redux and Git Mastery with Hands-on Project](https://coursemetry.com/react-redux-and-git-mastery-with-hands-on-project/)
+
+* [Adobe Character Animator Basics Guide 2022](https://coursemetry.com/adobe-character-animator-basics-guide-2022/)
+
+* [Adobe Live Basics Guide 2022](https://coursemetry.com/adobe-live-basics-guide-2022/)
+
+* [3D Painting using FlowScape: Paint Dream Worlds in 3D (2022)](https://coursemetry.com/3d-painting-using-flowscape-paint-dream-worlds-in-3d-2022/)
+
+* [Make Your Excel Look Like a Standalone Program](https://coursemetry.com/make-your-excel-look-like-a-standalone-program/)
+
+* [Ultra-Speed 3D Game Development using GameGuru (2022)](https://coursemetry.com/ultra-speed-3d-game-development-using-gameguru-2022/)
+
+* [Google Analytics, GA4, GTM. How to improve your marketing?](https://coursemetry.com/google-analytics-ga4-gtm-how-to-improve-your-marketing/)
+
+* [Adobe Dimension Basics Guide 2022](https://coursemetry.com/adobe-dimension-basics-guide-2022/)
+
+* [Graph Neural Networks: Basics, Codes and Simulations for AI](https://coursemetry.com/graph-neural-networks-basics-codes-and-simulations-for-ai/)
+
+* [Genetic, Generative & Variational Models in Machine Learning](https://coursemetry.com/genetic-generative-variational-models-in-machine-learning/)
+
+* [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
+
+* [AD’s Hacker 1.0: Growth Hacking Certification for Marketers](https://coursemetry.com/ads-hacker-1-0-growth-hacking-certification-for-marketers/)
+
+* [Mastering Project Management Principles and Techniques](https://coursemetry.com/mastering-project-management-principles-and-techniques/)
+
+* [Adobe Dreamweaver Ultimate Guide 2022](https://coursemetry.com/adobe-dreamweaver-ultimate-guide-2022/)
+
+* [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
+
+* [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
+
+* [Learn Game Development with JavaScript](https://coursemetry.com/learn-game-development-with-javascript/)
+
+* [Virtual Personal Assistant Development (2022 Edition)](https://coursemetry.com/virtual-personal-assistant-development-2022-edition/)
+
+* [Introduction to Water Management](https://coursemetry.com/introduction-to-water-management/)
+
+* [Adobe Creative Cloud Basics Guide 2022](https://coursemetry.com/adobe-creative-cloud-basics-guide-2022/)
+
+* [Essentials of Organizational Behaviour](https://coursemetry.com/essentials-of-organizational-behaviour/)
+
+* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
+
+* [Adobe Lightroom Classic Basics Guide 2022](https://coursemetry.com/adobe-lightroom-classic-basics-guide-2022/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 6](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-6/)
+
+* [Learn Java and Artificial Intelligence Programming Tools](https://coursemetry.com/learn-java-and-artificial-intelligence-programming-tools/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [Databricks Certified Associate Data Engineer Practice Exams](https://coursemetry.com/databricks-certified-associate-data-engineer-practice-exams/)
+
+* [Adobe Illustrator Basics Guide 2022](https://coursemetry.com/adobe-illustrator-basics-guide-2022/)
+
+* [The Complete 2022 Flutter & Dart Development Course [Arabic]](https://coursemetry.com/the-complete-2022-flutter-dart-development-course-arabic/)
+
+* [20 Startup failure CaseStudies:Best Course for Entrepreneurs](https://coursemetry.com/20-startup-failure-casestudiesbest-course-for-entrepreneurs/)
+
+* [A Practical Approach to Fundamental Equity Analysis](https://coursemetry.com/a-practical-approach-to-fundamental-equity-analysis/)
+
+* [Adobe Creative Cloud Ultimate Guide 2022](https://coursemetry.com/adobe-creative-cloud-ultimate-guide-2022/)
+
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
+
+* [Data Security, Recovery and Storage Hacking for Newbies](https://coursemetry.com/data-security-recovery-and-storage-hacking-for-newbies/)
+
+* [Adobe Audition Projects Guide 2022](https://coursemetry.com/adobe-audition-projects-guide-2022/)
+
+* [Adobe Dreamweaver Basics Guide 2022](https://coursemetry.com/adobe-dreamweaver-basics-guide-2022/)
+
+* [Build your own powerful super-computer on cloud in 2022](https://coursemetry.com/build-your-own-powerful-super-computer-on-cloud-in-2022/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [3D Animation Film-Making with Plotagon (2022 Edition)](https://coursemetry.com/3d-animation-film-making-with-plotagon-2022-edition/)
+
+* [Complete course on Tree - Data Structures](https://coursemetry.com/complete-course-on-tree-data-structures/)
+
+* [Become a Successful Online Course Instructor - Create & Sell](https://coursemetry.com/become-a-successful-online-course-instructor-create-sell/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
