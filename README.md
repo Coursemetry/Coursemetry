@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **43 Udemy free courses published so far on 2022-08-01**
+## **75 Udemy free courses published so far on 2022-08-01**
 
 * [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
 
@@ -89,6 +89,70 @@
 * [CLF-C01:AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/clf-c01aws-certified-cloud-practitioner-practice-exams-2022/)
 
 * [Create YouTube Thumbnails in Photoshop and Free Online Site](https://coursemetry.com/create-youtube-thumbnails-in-photoshop-and-free-online-site/)
+
+* [Digital Marketing Business Online For Free Social Media 2022](https://coursemetry.com/digital-marketing-business-online-for-free-social-media-2022/)
+
+* [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
+
+* [Run Search Ad In Google Ads & Easy SEO For Beginners-2022](https://coursemetry.com/run-search-ad-in-google-ads-easy-seo-for-beginners-2022/)
+
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
+
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
+
+* [Google Ads Mastery~ Beginner To Pro  ~ HINDI/URDU 2022](https://coursemetry.com/google-ads-mastery-beginner-to-pro-hindi-urdu-2022/)
+
+* [Facebook Ads Google My Business & Google Ads (Adwords) 2022](https://coursemetry.com/facebook-ads-google-my-business-google-ads-adwords-2022/)
+
+* [Facebook Ads & Ecommerce Mentorship ~ Yasir Ahmed, MBA ~2022](https://coursemetry.com/facebook-ads-ecommerce-mentorship-yasir-ahmed-mba-2022/)
+
+* [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
+
+* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+
+* [Facebook Ads Marketing Crash Course Traffic & leads - 2022](https://coursemetry.com/facebook-ads-marketing-crash-course-traffic-leads-2022/)
+
+* [Facebook Ads Marketing Targeting Strategies ~Hindi 2022](https://coursemetry.com/facebook-ads-marketing-targeting-strategies-hindi-2022/)
+
+* [Simple things to boost your creativity](https://coursemetry.com/simple-things-to-boost-your-creativity/)
+
+* [Instagram Ads Mastery & Mentorship ~ Yasir Ahmed MBA ~ Hindi](https://coursemetry.com/instagram-ads-mastery-mentorship-yasir-ahmed-mba-hindi/)
+
+* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
+
+* [Dropshipping Shopify Store Creation like  Boss for Ecommerce](https://coursemetry.com/dropshipping-shopify-store-creation-like-boss-for-ecommerce/)
+
+* [Facebook Ads Lead Generation Marketing for business 2022](https://coursemetry.com/facebook-ads-lead-generation-marketing-for-business-2022/)
+
+* [Facebook Ads Marketing For Events Organic & Paid Strategy](https://coursemetry.com/facebook-ads-marketing-for-events-organic-paid-strategy/)
+
+* [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
+
+* [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
+
+* [Shopify Dropshipping From Paksitan ~ Yasir Ahmed MBA](https://coursemetry.com/shopify-dropshipping-from-paksitan-yasir-ahmed-mba/)
+
+* [Certified Kubernetes Security Specialist (CKS) Exams - 2022](https://coursemetry.com/certified-kubernetes-security-specialist-cks-exams-2022/)
+
+* [Practice Python by Solving 100 Python Coding Challenges](https://coursemetry.com/practice-python-by-solving-100-python-coding-challenges/)
+
+* [Learn C++ by Solving 75 Coding Challenges](https://coursemetry.com/learn-c-by-solving-75-coding-challenges/)
+
+* [CKAD Labs - 2022](https://coursemetry.com/ckad-labs-2022/)
+
+* [JavaScript - Learn by Practice - 100 Coding Challenges](https://coursemetry.com/javascript-learn-by-practice-100-coding-challenges/)
+
+* [Microsoft SQL for Beginners](https://coursemetry.com/microsoft-sql-for-beginners/)
+
+* [Swift for Beginners – 100 Hands-On Exercises](https://coursemetry.com/swift-for-beginners-100-hands-on-exercises/)
+
+* [100 Days of Code : Python Advanced Levels 2022](https://coursemetry.com/100-days-of-code-python-advanced-levels-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
