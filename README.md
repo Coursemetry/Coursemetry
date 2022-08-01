@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **38 Udemy free courses published so far on 2022-08-01**
+## **43 Udemy free courses published so far on 2022-08-01**
 
 * [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
 
@@ -79,6 +79,16 @@
 * [Python Course - Doing PONG Game with Turtle Module](https://coursemetry.com/python-course-doing-pong-game-with-turtle-module/)
 
 * [Python Course - Learn Python Turtle Module by Doing War Game](https://coursemetry.com/python-course-learn-python-turtle-module-by-doing-war-game/)
+
+* [Practice Tests | AZ-500: Microsoft Azure Security Exam 2022](https://coursemetry.com/practice-tests-az-500-microsoft-azure-security-exam-2022/)
+
+* [[NEW 2022] AWS Solutions Architect Professional Tests](https://coursemetry.com/new-2022-aws-solutions-architect-professional-tests/)
+
+* [Learn OpenSSL with a real world cheatsheet](https://coursemetry.com/learn-openssl-with-a-real-world-cheatsheet/)
+
+* [CLF-C01:AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/clf-c01aws-certified-cloud-practitioner-practice-exams-2022/)
+
+* [Create YouTube Thumbnails in Photoshop and Free Online Site](https://coursemetry.com/create-youtube-thumbnails-in-photoshop-and-free-online-site/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
