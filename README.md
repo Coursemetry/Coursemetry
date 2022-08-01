@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **204 Udemy free courses published so far on 2022-08-01**
+## **219 Udemy free courses published so far on 2022-08-01**
 
 * [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
 
@@ -411,6 +411,36 @@
 * [Complete course on Tree - Data Structures](https://coursemetry.com/complete-course-on-tree-data-structures/)
 
 * [Become a Successful Online Course Instructor - Create & Sell](https://coursemetry.com/become-a-successful-online-course-instructor-create-sell/)
+
+* [Becoming A Sales Professional](https://coursemetry.com/becoming-a-sales-professional/)
+
+* [NFT Investing for Prudent Investors](https://coursemetry.com/nft-investing-for-prudent-investors/)
+
+* [English Grammar tenses & structures](https://coursemetry.com/english-grammar-tenses-structures/)
+
+* [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
+
+* [8D Audio Conversion Course: Convert Any Music Track To 8D](https://coursemetry.com/8d-audio-conversion-course-convert-any-music-track-to-8d/)
+
+* [Introduction to Computer Science](https://coursemetry.com/introduction-to-computer-science/)
+
+* [Accounting basics, create financial statements easily](https://coursemetry.com/accounting-basics-create-financial-statements-easily/)
+
+* [Hardening Ubuntu Server](https://coursemetry.com/hardening-ubuntu-server/)
+
+* [Python Fundamentals](https://coursemetry.com/python-fundamentals/)
+
+* [Ethical Hacking: Command Injection](https://coursemetry.com/ethical-hacking-command-injection/)
+
+* [Asteroids with Python PyGame](https://coursemetry.com/asteroids-with-python-pygame/)
+
+* [DP-900: Microsoft Azure Data Fundamentals Practice Tests](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-tests/)
+
+* [Innovation 1.0: Learn To Think Creatively Like Walt Disney](https://coursemetry.com/innovation-1-0-learn-to-think-creatively-like-walt-disney/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [Artificial Intelligence Powered Audiobook Creation Course](https://coursemetry.com/artificial-intelligence-powered-audiobook-creation-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
