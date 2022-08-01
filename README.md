@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **127 Udemy free courses published so far on 2022-08-01**
+## **158 Udemy free courses published so far on 2022-08-01**
 
 * [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
 
@@ -257,6 +257,68 @@
 * [Everything About Kali Linux OS](https://coursemetry.com/everything-about-kali-linux-os/)
 
 * [Towards Excellence : The 25 Steps to Success](https://coursemetry.com/towards-excellence-the-25-steps-to-success/)
+
+* [jQuery Ultimate Guide 2022](https://coursemetry.com/jquery-ultimate-guide-2022/)
+
+* [Visual Studio Code Ultimate Guide 2022](https://coursemetry.com/visual-studio-code-ultimate-guide-2022/)
+
+* [PowerShell Basics Guide 2022](https://coursemetry.com/powershell-basics-guide-2022/)
+
+* [Three.js Basics Guide 2022](https://coursemetry.com/three-js-basics-guide-2022/)
+
+* [Trello Ultimate Guide 2022](https://coursemetry.com/trello-ultimate-guide-2022/)
+
+* [Microsoft Word Ultimate Guide 2022](https://coursemetry.com/microsoft-word-ultimate-guide-2022/)
+
+* [GitLab Ultimate Guide 2022](https://coursemetry.com/gitlab-ultimate-guide-2022/)
+
+* [Python 3 Ultimate Guide 2022](https://coursemetry.com/python-3-ultimate-guide-2022/)
+
+* [Adobe Animate Ultimate Guide 2022](https://coursemetry.com/adobe-animate-ultimate-guide-2022/)
+
+* [Adobe Photoshop Graphic Design Basics Guide](https://coursemetry.com/adobe-photoshop-graphic-design-basics-guide/)
+
+* [Google Drive Ultimate Guide 2022](https://coursemetry.com/google-drive-ultimate-guide-2022/)
+
+* [Front End Web Development Ultimate Guide 2022](https://coursemetry.com/front-end-web-development-ultimate-guide-2022/)
+
+* [Evernote Ultimate Guide 2022](https://coursemetry.com/evernote-ultimate-guide-2022/)
+
+* [Plastic Waste Pollution: causes, impacts & solutions](https://coursemetry.com/plastic-waste-pollution-causes-impacts-solutions/)
+
+* [Adobe Photoshop Icon Design Basics Guide](https://coursemetry.com/adobe-photoshop-icon-design-basics-guide/)
+
+* [Environment and Ethics: A Basic Course](https://coursemetry.com/environment-and-ethics-a-basic-course/)
+
+* [Google Workspace (G Suite) Ultimate Guide 2022](https://coursemetry.com/google-workspace-g-suite-ultimate-guide-2022/)
+
+* [Network Monitoring Basics Guide 2022](https://coursemetry.com/network-monitoring-basics-guide-2022/)
+
+* [SVG Ultimate Guide 2022](https://coursemetry.com/svg-ultimate-guide-2022/)
+
+* [Adobe Animate Basics Guide 2022](https://coursemetry.com/adobe-animate-basics-guide-2022/)
+
+* [Career in I-O Psychology & Organizational behavior](https://coursemetry.com/career-in-i-o-psychology-organizational-behavior/)
+
+* [Microsoft OneNote Ultimate Guide 2022](https://coursemetry.com/microsoft-onenote-ultimate-guide-2022/)
+
+* [Mastering critical SKILLS for Coding Interviews C++: Part 1](https://coursemetry.com/mastering-critical-skills-for-coding-interviews-c-part-1/)
+
+* [Gmail Ultimate Guide 2022](https://coursemetry.com/gmail-ultimate-guide-2022/)
+
+* [Adobe Animate Projects Guide 2022](https://coursemetry.com/adobe-animate-projects-guide-2022/)
+
+* [Microsoft OneDrive Ultimate Guide 2022](https://coursemetry.com/microsoft-onedrive-ultimate-guide-2022/)
+
+* [Adobe Photoshop Menu Keyboard Shortcuts Basics Guide](https://coursemetry.com/adobe-photoshop-menu-keyboard-shortcuts-basics-guide/)
+
+* [Web Development Ultimate Guide 2022](https://coursemetry.com/web-development-ultimate-guide-2022/)
+
+* [Adobe Audition Ultimate Guide 2022](https://coursemetry.com/adobe-audition-ultimate-guide-2022/)
+
+* [Google Cloud Professional Data Engineer - GCP - Exams - 2022](https://coursemetry.com/google-cloud-professional-data-engineer-gcp-exams-2022/)
+
+* [Microsoft Teams Ultimate Guide 2022](https://coursemetry.com/microsoft-teams-ultimate-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
