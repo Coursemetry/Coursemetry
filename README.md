@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **75 Udemy free courses published so far on 2022-08-01**
+## **92 Udemy free courses published so far on 2022-08-01**
 
 * [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
 
@@ -153,6 +153,40 @@
 * [Swift for Beginners – 100 Hands-On Exercises](https://coursemetry.com/swift-for-beginners-100-hands-on-exercises/)
 
 * [100 Days of Code : Python Advanced Levels 2022](https://coursemetry.com/100-days-of-code-python-advanced-levels-2022/)
+
+* [Course Creation On Udemy Passive Income Monthly~Unofficial](https://coursemetry.com/course-creation-on-udemy-passive-income-monthlyunofficial/)
+
+* [Visibility strategies that work for busy entrepreneurs](https://coursemetry.com/visibility-strategies-that-work-for-busy-entrepreneurs/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [Create & sell your first digital product](https://coursemetry.com/create-sell-your-first-digital-product/)
+
+* [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
+
+* [Estrategias Pro de Targeting de Audiencia con Facebook Ads](https://coursemetry.com/estrategias-pro-de-targeting-de-audiencia-con-facebook-ads/)
+
+* [Decision Trees, Random Forests, Bagging & XGBoost: R Studio](https://coursemetry.com/decision-trees-random-forests-bagging-xgboost-r-studio/)
+
+* [Complete Machine Learning with R Studio - ML for 2022](https://coursemetry.com/complete-machine-learning-with-r-studio-ml-for-2022/)
+
+* [Configuración y Optimizacion de tu Página de Facebook 2022](https://coursemetry.com/configuracion-y-optimizacion-de-tu-pagina-de-facebook-2022/)
+
+* [Chinese HSK 1 Course - Part 5, Learn 100 Chinese Sentences](https://coursemetry.com/chinese-hsk-1-course-part-5-learn-100-chinese-sentences/)
+
+* [Support Vector Machines in Python: SVM Concepts & Code](https://coursemetry.com/support-vector-machines-in-python-svm-concepts-code/)
+
+* [Microsoft Planner Ultimate Guide 2022](https://coursemetry.com/microsoft-planner-ultimate-guide-2022/)
+
+* [WordPress Express](https://coursemetry.com/wordpress-express/)
+
+* [YouTube Thumbnail Image Design With Canva (Canva is Free)](https://coursemetry.com/youtube-thumbnail-image-design-with-canva-canva-is-free/)
+
+* [Brilliant StartUp - Liderazgo para jóvenes profesionales](https://coursemetry.com/brilliant-startup-liderazgo-para-jovenes-profesionales/)
+
+* [OpenGL Basics Guide 2022](https://coursemetry.com/opengl-basics-guide-2022/)
+
+* [The no comfort zone challenge - live life to the fullest](https://coursemetry.com/the-no-comfort-zone-challenge-live-life-to-the-fullest/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
