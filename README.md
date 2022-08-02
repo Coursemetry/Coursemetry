@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **180 Udemy free courses published so far on 2022-08-02**
+## **186 Udemy free courses published so far on 2022-08-02**
 
 * [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
 
@@ -363,6 +363,18 @@
 * [Certified MongoDB Database Administrator - Practice Tests](https://coursemetry.com/certified-mongodb-database-administrator-practice-tests/)
 
 * [How to Grow Your Fiverr Business](https://coursemetry.com/how-to-grow-your-fiverr-business/)
+
+* [Marketing Basics for Non Marketing Professionals](https://coursemetry.com/marketing-basics-for-non-marketing-professionals/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [Professional Presentation - صمم عرض تقديمي احترافي](https://coursemetry.com/professional-presentation-%d8%b5%d9%85%d9%85-%d8%b9%d8%b1%d8%b6-%d8%aa%d9%82%d8%af%d9%8a%d9%85%d9%8a-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%8a/)
+
+* [Rüyalarını Kontrol Et: Sıfırdan İleriye Lucid Rüya Eğitimi](https://coursemetry.com/ruyalarini-kontrol-et-sifirdan-ileriye-lucid-ruya-egitimi/)
+
+* [The Art of Effective Time Management - Get More Done.](https://coursemetry.com/the-art-of-effective-time-management-get-more-done/)
+
+* [Fundamental Sales Skills to Boost Your Growth and Success](https://coursemetry.com/fundamental-sales-skills-to-boost-your-growth-and-success/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
