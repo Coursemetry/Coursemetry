@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **124 Udemy free courses published so far on 2022-08-02**
+## **125 Udemy free courses published so far on 2022-08-02**
 
 * [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
 
@@ -251,6 +251,8 @@
 * [Public Speaking: A tactical approach](https://coursemetry.com/public-speaking-a-tactical-approach/)
 
 * [Certified Git Software Developer - Practice Tests - 2022](https://coursemetry.com/certified-git-software-developer-practice-tests-2022/)
+
+* [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
