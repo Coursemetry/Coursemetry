@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-08-02**
+## **180 Udemy free courses published so far on 2022-08-02**
 
 * [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
 
@@ -253,6 +253,116 @@
 * [Certified Git Software Developer - Practice Tests - 2022](https://coursemetry.com/certified-git-software-developer-practice-tests-2022/)
 
 * [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
+
+* [Python Exam PCAP-31-03/PCAP-31-02 Certification Preparation](https://coursemetry.com/python-exam-pcap-31-03-pcap-31-02-certification-preparation/)
+
+* [350+ Exercises - Python Programming Mega Pack - Unit Tests](https://coursemetry.com/350-exercises-python-programming-mega-pack-unit-tests/)
+
+* [300+ Exercises - Python Programming Mega Pack - 2022](https://coursemetry.com/300-exercises-python-programming-mega-pack-2022/)
+
+* [200+ Exercises - Programming in Python - 2022](https://coursemetry.com/200-exercises-programming-in-python-2022/)
+
+* [Google Professional Cloud Architect & Data Engineer Pack](https://coursemetry.com/google-professional-cloud-architect-data-engineer-pack/)
+
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [250+ Exercises - Data Science Bootcamp in Python - 2022](https://coursemetry.com/250-exercises-data-science-bootcamp-in-python-2022/)
+
+* [Bir İnsan Çiz Testi Eğitimi (Good Enauogh)](https://coursemetry.com/bir-insan-ciz-testi-egitimi-good-enauogh/)
+
+* [Çocuklarda Mahremiyet Eğitimine ve Cinsel Gelişime Yaklaşım](https://coursemetry.com/cocuklarda-mahremiyet-egitimine-ve-cinsel-gelisime-yaklasim/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [Learn to Edit Video FAST! Adobe Premiere Pro 2022 StepByStep](https://coursemetry.com/learn-to-edit-video-fast-adobe-premiere-pro-2022-stepbystep/)
+
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 12](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-12/)
+
+* [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
+
+* [Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://coursemetry.com/learn-audo-studio-ai-powered-noise-cancellation-tool-2022/)
+
+* [Google Professional Data Engineer & Cloud Developer Pack](https://coursemetry.com/google-professional-data-engineer-cloud-developer-pack/)
+
+* [Power BI de principiante a avanzado.](https://coursemetry.com/power-bi-de-principiante-a-avanzado/)
+
+* [100+ Exercises - Advanced Python Programming - 2022](https://coursemetry.com/100-exercises-advanced-python-programming-2022/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [150+ Exercises - Object Oriented Programming in Python - OOP](https://coursemetry.com/150-exercises-object-oriented-programming-in-python-oop/)
+
+* [Bir Ağaç ve Ev Çiz Testi -Resim Analizi-](https://coursemetry.com/bir-agac-ve-ev-ciz-testi-resim-analizi/)
+
+* [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
+
+* [Sales Page Funnel Formula - How to build a Sales Funnel](https://coursemetry.com/sales-page-funnel-formula-how-to-build-a-sales-funnel/)
+
+* [MERN Stack with Blog Project](https://coursemetry.com/mern-stack-with-blog-project/)
+
+* [100 Days of Code: Data Scientist Challenge 2022](https://coursemetry.com/100-days-of-code-data-scientist-challenge-2022/)
+
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
+
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
+
+* [Çözüm Odaklı Terapi Eğitimi](https://coursemetry.com/cozum-odakli-terapi-egitimi/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [AWS Certified Cloud Practitioner - Practice Exams - 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022-2/)
+
+* [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
+
+* [Análisis de casos reales y funciones DAX con Power BI](https://coursemetry.com/analisis-de-casos-reales-y-funciones-dax-con-power-bi/)
+
+* [Evlilik ve İlişki Terapisinde Bağlanma Stilleri Yaklaşımı](https://coursemetry.com/evlilik-ve-iliski-terapisinde-baglanma-stilleri-yaklasimi/)
+
+* [Power BI: Desde cero para principiantes](https://coursemetry.com/power-bi-desde-cero-para-principiantes/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Master the Art of Making Actionable To Do List](https://coursemetry.com/master-the-art-of-making-actionable-to-do-list/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [SQL Bootcamp - SQLite - Hands-On Exercises](https://coursemetry.com/sql-bootcamp-sqlite-hands-on-exercises/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [Power BI DAX: Aprende las funciones más avanzadas](https://coursemetry.com/power-bi-dax-aprende-las-funciones-mas-avanzadas/)
+
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [Procurement Lab](https://coursemetry.com/procurement-lab/)
+
+* [Análisis avanzado con SQL y programación en R con Power BI](https://coursemetry.com/analisis-avanzado-con-sql-y-programacion-en-r-con-power-bi/)
+
+* [Implement 150 functions in Python! - Hands-on course](https://coursemetry.com/implement-150-functions-in-python-hands-on-course/)
+
+* [Wordpress For Beginners](https://coursemetry.com/wordpress-for-beginners/)
+
+* [How to VLOG 2022 : Complete Beginners Course +YouTube](https://coursemetry.com/how-to-vlog-2022-complete-beginners-course-youtube/)
+
+* [Write to Impress -Business Writing Skills for Corporates](https://coursemetry.com/write-to-impress-business-writing-skills-for-corporates/)
+
+* [Mastering the Art of Presentation Skills](https://coursemetry.com/mastering-the-art-of-presentation-skills/)
+
+* [Find your Unique Memory Personality – Intro to Online Test](https://coursemetry.com/find-your-unique-memory-personality-intro-to-online-test/)
+
+* [The Socratic Method](https://coursemetry.com/the-socratic-method/)
+
+* [Emzirmeyi sonlandırma ve sağlıklı yeme davranışına geçiş](https://coursemetry.com/emzirmeyi-sonlandirma-ve-saglikli-yeme-davranisina-gecis/)
+
+* [End Procrastination and Achieve Your Dream Life](https://coursemetry.com/end-procrastination-and-achieve-your-dream-life/)
+
+* [Certified MongoDB Database Administrator - Practice Tests](https://coursemetry.com/certified-mongodb-database-administrator-practice-tests/)
+
+* [How to Grow Your Fiverr Business](https://coursemetry.com/how-to-grow-your-fiverr-business/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
