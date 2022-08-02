@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **60 Udemy free courses published so far on 2022-08-02**
+## **83 Udemy free courses published so far on 2022-08-02**
 
 * [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
 
@@ -123,6 +123,52 @@
 * [The Ultimate Content Marketing Quiz (2022 Edition)](https://coursemetry.com/the-ultimate-content-marketing-quiz-2022-edition/)
 
 * [Certified MongoDB Developer -  C100DEV Practice Tests - 2022](https://coursemetry.com/certified-mongodb-developer-c100dev-practice-tests-2022/)
+
+* [Instagram Photo: Make Your Instagram Look Pretty in 5 Steps](https://coursemetry.com/instagram-photo-make-your-instagram-look-pretty-in-5-steps/)
+
+* [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
+
+* [2022 Beginner's guide to Cyber Security](https://coursemetry.com/2022-beginners-guide-to-cyber-security/)
+
+* [Instagram Photography Summary: Top3 Ways To Shoot Everything](https://coursemetry.com/instagram-photography-summary-top3-ways-to-shoot-everything/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Memory: 3 Ways of Memorising Like a Spy](https://coursemetry.com/memory-3-ways-of-memorising-like-a-spy/)
+
+* [How To Use LazyApply To Automate Your Job Search?](https://coursemetry.com/how-to-use-lazyapply-to-automate-your-job-search/)
+
+* [The Webrtc Bootcamp 2021 For Beginners](https://coursemetry.com/the-webrtc-bootcamp-2021-for-beginners/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part I - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-i-2022/)
+
+* [Create awesome videos from text using Pictory](https://coursemetry.com/create-awesome-videos-from-text-using-pictory-2/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 4](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-4/)
+
+* [Google Ads Fundamentals: Fast-Track Practice Quiz Exam](https://coursemetry.com/google-ads-fundamentals-fast-track-practice-quiz-exam/)
+
+* [Top 5 Secrets for Improving Screenwriting Skills Summary](https://coursemetry.com/top-5-secrets-for-improving-screenwriting-skills-summary/)
+
+* [Social Media Marketing on Autopilot with Missinglettr (2022)](https://coursemetry.com/social-media-marketing-on-autopilot-with-missinglettr-2022/)
+
+* [Copywriting: 3 Crucial Points For Your Text To Sell Itself](https://coursemetry.com/copywriting-3-crucial-points-for-your-text-to-sell-itself/)
+
+* [Insight to Post Pandemic: Importance of Lean Six Sigma](https://coursemetry.com/insight-to-post-pandemic-importance-of-lean-six-sigma/)
+
+* [Viral Marketing Masterclass (2022 Virality Edition)](https://coursemetry.com/viral-marketing-masterclass-2022-virality-edition/)
+
+* [Competitor Analysis Masterclass (Phenomenal Edition 2022)](https://coursemetry.com/competitor-analysis-masterclass-phenomenal-edition-2022/)
+
+* [Complete Graphics Design and Video Editing Masterclass](https://coursemetry.com/complete-graphics-design-and-video-editing-masterclass/)
+
+* [How to Become a Facilitator: 7 Effective Skills](https://coursemetry.com/how-to-become-a-facilitator-7-effective-skills/)
+
+* [Automated Machine Learning for Beginners (Google & Apple)](https://coursemetry.com/automated-machine-learning-for-beginners-google-apple/)
+
+* [Neuroplasticity: Teach Your Brain  To Work 3 Times Faster](https://coursemetry.com/neuroplasticity-teach-your-brain-to-work-3-times-faster/)
+
+* [Space Render Classic Edition: Create Live Audio-Rooms (2022)](https://coursemetry.com/space-render-classic-edition-create-live-audio-rooms-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
