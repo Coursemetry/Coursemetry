@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **83 Udemy free courses published so far on 2022-08-02**
+## **103 Udemy free courses published so far on 2022-08-02**
 
 * [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
 
@@ -169,6 +169,46 @@
 * [Neuroplasticity: Teach Your Brain  To Work 3 Times Faster](https://coursemetry.com/neuroplasticity-teach-your-brain-to-work-3-times-faster/)
 
 * [Space Render Classic Edition: Create Live Audio-Rooms (2022)](https://coursemetry.com/space-render-classic-edition-create-live-audio-rooms-2022/)
+
+* [Machine Learning for Beginner](https://coursemetry.com/machine-learning-for-beginner/)
+
+* [Create a fully functional HTML contact form from Scratch](https://coursemetry.com/create-a-fully-functional-html-contact-form-from-scratch/)
+
+* [Meditation Masterclass: meditation teacher certification](https://coursemetry.com/meditation-masterclass-meditation-teacher-certification/)
+
+* [GCP Google Cloud Professional Data Engineer Certification](https://coursemetry.com/gcp-google-cloud-professional-data-engineer-certification/)
+
+* [Complete Electrical Design Engineering Course for Beginners](https://coursemetry.com/complete-electrical-design-engineering-course-for-beginners/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [İngilizce A1 Kurs: Alaaddin ve Sihirli Lamba Hikaye Çevirisi](https://coursemetry.com/ingilizce-a1-kurs-alaaddin-ve-sihirli-lamba-hikaye-cevirisi/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [AdobeXD MasterClass-Become a Professional UI/UX Designer](https://coursemetry.com/adobexd-masterclass-become-a-professional-ui-ux-designer/)
+
+* [Postgraduate Diploma: Digital Products Management](https://coursemetry.com/postgraduate-diploma-digital-products-management/)
+
+* [ATtiny Mikrocontroller Entwicklung für Arduino Programmierer](https://coursemetry.com/attiny-mikrocontroller-entwicklung-fur-arduino-programmierer/)
+
+* [İngilizce A1 Kursu: Anna ve Dövüşçü Hikaye Çevirisi](https://coursemetry.com/ingilizce-a1-kursu-anna-ve-dovuscu-hikaye-cevirisi/)
+
+* [Meditasyon Uygulayıcısı / Öğretmenliği Kursu (AIOTH ONAYLI )](https://coursemetry.com/meditasyon-uygulayicisi-ogretmenligi-kursu-aioth-onayli/)
+
+* [SC-900 Practice Test  only REAL QUESTIONS](https://coursemetry.com/sc-900-practice-test-only-real-questions/)
+
+* [Learn To Focus: Meditation & Mindfulness For ADHD](https://coursemetry.com/learn-to-focus-meditation-mindfulness-for-adhd/)
+
+* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
+
+* [Movavi ile Komple Video Düzenleme ve Kayıt Kursu](https://coursemetry.com/movavi-ile-komple-video-duzenleme-ve-kayit-kursu/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Learn Basics of Microsoft excel](https://coursemetry.com/learn-basics-of-microsoft-excel/)
+
+* [Citrix Virtual apps and Desktops 7x Fast track Course.](https://coursemetry.com/citrix-virtual-apps-and-desktops-7x-fast-track-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
