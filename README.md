@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **103 Udemy free courses published so far on 2022-08-02**
+## **108 Udemy free courses published so far on 2022-08-02**
 
 * [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
 
@@ -209,6 +209,16 @@
 * [Learn Basics of Microsoft excel](https://coursemetry.com/learn-basics-of-microsoft-excel/)
 
 * [Citrix Virtual apps and Desktops 7x Fast track Course.](https://coursemetry.com/citrix-virtual-apps-and-desktops-7x-fast-track-course/)
+
+* [The Ultimate SAP S/4HANA Course 2022: From Zero to Expert](https://coursemetry.com/the-ultimate-sap-s-4hana-course-2022-from-zero-to-expert/)
+
+* [Concept of Wellbeing- Dealing with Anxiety](https://coursemetry.com/concept-of-wellbeing-dealing-with-anxiety/)
+
+* [MLOps Certification- Basics, Deployment & Vertex AI/PyCaret](https://coursemetry.com/mlops-certification-basics-deployment-vertex-ai-pycaret/)
+
+* [Art Imitating Art: A Beginner's Guide to NFT Investment](https://coursemetry.com/art-imitating-art-a-beginners-guide-to-nft-investment/)
+
+* [Human Rights : A basic course](https://coursemetry.com/human-rights-a-basic-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
