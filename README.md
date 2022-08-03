@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-08-03**
+## **88 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -149,6 +149,36 @@
 * [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
 
 * [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [Association Rule : Unsupervised Machine Learning in Python](https://coursemetry.com/association-rule-unsupervised-machine-learning-in-python/)
+
+* [How to Earn from Photography: Absolute Beginners Guide](https://coursemetry.com/how-to-earn-from-photography-absolute-beginners-guide/)
+
+* [Portrait Photography for Absolute Beginners](https://coursemetry.com/portrait-photography-for-absolute-beginners/)
+
+* [Microsoft Forms con énfasis a la Ramificación.](https://coursemetry.com/microsoft-forms-con-enfasis-a-la-ramificacion/)
+
+* [C++ : Tools and Ecosystem for Beginners](https://coursemetry.com/c-tools-and-ecosystem-for-beginners/)
+
+* [Accounting basics, create financial statements easily](https://coursemetry.com/accounting-basics-create-financial-statements-easily/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [Python Programming - From Basics to Advanced level [2021]](https://coursemetry.com/python-programming-from-basics-to-advanced-level-2021/)
+
+* [React JS- Complete Guide for Frontend Web Development [2021]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2021/)
+
+* [Neuroplasticity Life Coach Complete Certificate Course](https://coursemetry.com/neuroplasticity-life-coach-complete-certificate-course/)
+
+* [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
+
+* [AWS Services for Solutions Architect Associate [2021]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2021/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [Neuroplasticity And CBT Complete Certification Course](https://coursemetry.com/neuroplasticity-and-cbt-complete-certification-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
