@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **195 Udemy free courses published so far on 2022-08-03**
+## **202 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -393,6 +393,20 @@
 * [Content Samurai: Super High-Speed Video Creation (2022)](https://coursemetry.com/content-samurai-super-high-speed-video-creation-2022/)
 
 * [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Develop & Deploy Java Springboot App on Kubernetes Cluster](https://coursemetry.com/develop-deploy-java-springboot-app-on-kubernetes-cluster/)
+
+* [Cost Accounting and Artificial Intelligence Tools (2022)](https://coursemetry.com/cost-accounting-and-artificial-intelligence-tools-2022/)
+
+* [Complete Unity 2D and C# Game Developer Megacourse](https://coursemetry.com/complete-unity-2d-and-c-game-developer-megacourse/)
+
+* [Arabic Language Course | Learn Arabic language with Mina](https://coursemetry.com/arabic-language-course-learn-arabic-language-with-mina/)
+
+* [Ethical Hacking: boot2root CTF](https://coursemetry.com/ethical-hacking-boot2root-ctf/)
+
+* [Learn HTML5 In-Depth - With Real-World Examples](https://coursemetry.com/learn-html5-in-depth-with-real-world-examples/)
+
+* [Old age.](https://coursemetry.com/old-age/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
