@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **139 Udemy free courses published so far on 2022-08-03**
+## **150 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -281,6 +281,28 @@
 * [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
 
 * [Blood Physiology](https://coursemetry.com/blood-physiology/)
+
+* [250+ Exercises - Data Science Bootcamp in Python - 2022](https://coursemetry.com/250-exercises-data-science-bootcamp-in-python-2022/)
+
+* [100 Days of Code: Data Scientist Challenge 2022](https://coursemetry.com/100-days-of-code-data-scientist-challenge-2022/)
+
+* [200+ Exercises - Programming in Python - 2022](https://coursemetry.com/200-exercises-programming-in-python-2022/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part I - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-i-2022/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part II - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-ii-2022/)
+
+* [100+ Exercises - Advanced Python Programming - 2022](https://coursemetry.com/100-exercises-advanced-python-programming-2022/)
+
+* [Certified Python Developer - Practice Tests - 2022](https://coursemetry.com/certified-python-developer-practice-tests-2022/)
+
+* [150+ Exercises - Data Structures in Python - Hands-On - 2022](https://coursemetry.com/150-exercises-data-structures-in-python-hands-on-2022/)
+
+* [Certified SQL Developer - Practice Tests - 2022](https://coursemetry.com/certified-sql-developer-practice-tests-2022/)
+
+* [150+ Exercises - Object Oriented Programming in Python - OOP](https://coursemetry.com/150-exercises-object-oriented-programming-in-python-oop/)
+
+* [110+ Exercises - Python + SQL (sqlite3) - SQLite Databases](https://coursemetry.com/110-exercises-python-sql-sqlite3-sqlite-databases/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
