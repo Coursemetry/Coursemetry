@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published so far on 2022-08-03**
+## **139 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -265,6 +265,22 @@
 * [Customer Service Fundamentals.](https://coursemetry.com/customer-service-fundamentals/)
 
 * [Cardiac Anatomy and Physiology](https://coursemetry.com/cardiac-anatomy-and-physiology/)
+
+* [The Lymphatic System](https://coursemetry.com/the-lymphatic-system/)
+
+* [UI/UX Design With Figma : 5+ Real World Projects(2022)](https://coursemetry.com/ui-ux-design-with-figma-5-real-world-projects2022/)
+
+* [R Programming : Data Analysis and Visualisations using R](https://coursemetry.com/r-programming-data-analysis-and-visualisations-using-r/)
+
+* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
+
+* [AWS Certified Advanced Networking – Specialty Practice Exams](https://coursemetry.com/aws-certified-advanced-networking-specialty-practice-exams-3/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+
+* [Blood Physiology](https://coursemetry.com/blood-physiology/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
