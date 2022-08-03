@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-08-03**
+## **116 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -195,6 +195,46 @@
 * [The Ultimate SAP S/4HANA Course 2022: From Zero to Expert](https://coursemetry.com/the-ultimate-sap-s-4hana-course-2022-from-zero-to-expert/)
 
 * [CBT: Cognitive Behavioral Therapy For Anxiety And Depression](https://coursemetry.com/cbt-cognitive-behavioral-therapy-for-anxiety-and-depression/)
+
+* [Mit Online Marketing Dein Business aufbauen ohne Vorwissen!](https://coursemetry.com/mit-online-marketing-dein-business-aufbauen-ohne-vorwissen/)
+
+* [7 Step Guide to Master Self Discipline.](https://coursemetry.com/7-step-guide-to-master-self-discipline/)
+
+* [Complete Italian Course: Learning Italian for Beginners 2022](https://coursemetry.com/complete-italian-course-learning-italian-for-beginners-2022/)
+
+* [NSE 4 Fortigate  7 Network Security Professional](https://coursemetry.com/nse-4-fortigate-7-network-security-professional/)
+
+* [Canva Freelancing 101: Become a Six-Figure Graphic Designer](https://coursemetry.com/canva-freelancing-101-become-a-six-figure-graphic-designer/)
+
+* [Neural Networks in Python: Deep Learning for Beginners](https://coursemetry.com/neural-networks-in-python-deep-learning-for-beginners/)
+
+* [Adobe Premiere Pro CC Video Editing Course Beginners To Pro](https://coursemetry.com/adobe-premiere-pro-cc-video-editing-course-beginners-to-pro/)
+
+* [Nutrition: The Ultimate Nutrition certification Course](https://coursemetry.com/nutrition-the-ultimate-nutrition-certification-course/)
+
+* [The 2022 Marketing Method with Assignments & Case Study!](https://coursemetry.com/the-2022-marketing-method-with-assignments-case-study/)
+
+* [Nutrition and Dieting: The Ultimate Course About Nutrition](https://coursemetry.com/nutrition-and-dieting-the-ultimate-course-about-nutrition/)
+
+* [Marketing Analytics and Retail Business Management](https://coursemetry.com/marketing-analytics-and-retail-business-management/)
+
+* [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
+
+* [Complete Linear Regression Analysis in Python](https://coursemetry.com/complete-linear-regression-analysis-in-python/)
+
+* [leadlovers: configurações, email, páginas, ead e integrações](https://coursemetry.com/leadlovers-configuracoes-email-paginas-ead-e-integracoes/)
+
+* [SEO - The Complete SEO Course Beginners to Advanced 2022](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2022/)
+
+* [Google Looker Masterclass: Looker & LookML A-Z 2022](https://coursemetry.com/google-looker-masterclass-looker-lookml-a-z-2022/)
+
+* [AZ-500: Microsoft Azure Security Technologies Practice Exam](https://coursemetry.com/az-500-microsoft-azure-security-technologies-practice-exam-4/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [Unsupervised Machine Learning | التعلم الآلي بدون إشراف](https://coursemetry.com/unsupervised-machine-learning-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a2%d9%84%d9%8a-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d8%b4%d8%b1%d8%a7%d9%81/)
+
+* [Complete Hootsuite Course in 40 Mins | HootSuite 2022 |](https://coursemetry.com/complete-hootsuite-course-in-40-mins-hootsuite-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
