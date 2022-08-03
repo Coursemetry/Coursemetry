@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **118 Udemy free courses published so far on 2022-08-03**
+## **131 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -239,6 +239,32 @@
 * [CBT Ultimate Certificate Course for Everyone](https://coursemetry.com/cbt-ultimate-certificate-course-for-everyone/)
 
 * [Effective Time Management For A Productivity Boost](https://coursemetry.com/effective-time-management-for-a-productivity-boost/)
+
+* [230+ Exercises - Python for Data Science - NumPy + Pandas](https://coursemetry.com/230-exercises-python-for-data-science-numpy-pandas/)
+
+* [Certified Associate in PMI CAPM  2022](https://coursemetry.com/certified-associate-in-pmi-capm-2022/)
+
+* [Excel Tips and trick : Learn MS Excel by making 7 Projects](https://coursemetry.com/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/)
+
+* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [React.JS: The Complete Course for Beginners](https://coursemetry.com/react-js-the-complete-course-for-beginners/)
+
+* [JavaScript for Beginners - The Complete introduction to JS](https://coursemetry.com/javascript-for-beginners-the-complete-introduction-to-js/)
+
+* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
+
+* [Rebel Without a Dime: Beginners Introduction to Investment](https://coursemetry.com/rebel-without-a-dime-beginners-introduction-to-investment/)
+
+* [The 150 Most Important Irregular Verbs in English. Volume 1](https://coursemetry.com/the-150-most-important-irregular-verbs-in-english-volume-1/)
+
+* [Practice Exams | AWS Certified Cloud Practitioner CLF-C01](https://coursemetry.com/practice-exams-aws-certified-cloud-practitioner-clf-c01/)
+
+* [Customer Service Fundamentals.](https://coursemetry.com/customer-service-fundamentals/)
+
+* [Cardiac Anatomy and Physiology](https://coursemetry.com/cardiac-anatomy-and-physiology/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
