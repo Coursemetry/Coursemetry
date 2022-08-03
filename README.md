@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **180 Udemy free courses published so far on 2022-08-03**
+## **183 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -363,6 +363,12 @@
 * [Amazon AWS SysOps Administrator Practice Exams](https://coursemetry.com/amazon-aws-sysops-administrator-practice-exams/)
 
 * [React Redux and Git Mastery with Hands-on Project](https://coursemetry.com/react-redux-and-git-mastery-with-hands-on-project/)
+
+* [Artificial Intelligence Expert Course + Live Class](https://coursemetry.com/artificial-intelligence-expert-course-live-class/)
+
+* [The Ultimate Text-To-Video Creation Course (2022 Edition)](https://coursemetry.com/the-ultimate-text-to-video-creation-course-2022-edition/)
+
+* [Crack Information Technology: All-Time Ultimate Quiz](https://coursemetry.com/crack-information-technology-all-time-ultimate-quiz/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
