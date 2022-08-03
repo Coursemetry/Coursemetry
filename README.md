@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **174 Udemy free courses published so far on 2022-08-03**
+## **180 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -351,6 +351,18 @@
 * [The Complete GSAP: JavaScript ,HTML and CSS Course for 2022](https://coursemetry.com/the-complete-gsap-javascript-html-and-css-course-for-2022/)
 
 * [The Complete Mathematics Software Developer Course for 2022](https://coursemetry.com/the-complete-mathematics-software-developer-course-for-2022/)
+
+* [Improve English by Listening Movies – 1c](https://coursemetry.com/improve-english-by-listening-movies-1c/)
+
+* [Ethical Hacking(V11)| الكورس الشامل لتصبح هكر اخلاقي معتمد](https://coursemetry.com/ethical-hackingv11-%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b5%d8%a8%d8%ad-%d9%87%d9%83%d8%b1-%d8%a7%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d9%85%d8%b9/)
+
+* [Create Ecommerce Website In WordPress (Hindi)](https://coursemetry.com/create-ecommerce-website-in-wordpress-hindi/)
+
+* [Introduction To SEO Based Content Writing (Hindi)](https://coursemetry.com/introduction-to-seo-based-content-writing-hindi/)
+
+* [Amazon AWS SysOps Administrator Practice Exams](https://coursemetry.com/amazon-aws-sysops-administrator-practice-exams/)
+
+* [React Redux and Git Mastery with Hands-on Project](https://coursemetry.com/react-redux-and-git-mastery-with-hands-on-project/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
