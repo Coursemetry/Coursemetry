@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **150 Udemy free courses published so far on 2022-08-03**
+## **174 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -21,8 +21,6 @@
 * [Python for Machine Learning with Numpy, Pandas & Matplotlib](https://coursemetry.com/python-for-machine-learning-with-numpy-pandas-matplotlib/)
 
 * [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
-
-* [Desarrolla un sistema web  POS desde cero con PHP NATIVO](https://coursemetry.com/desarrolla-un-sistema-web-pos-desde-cero-con-php-nativo/)
 
 * [Negotiation A-Z: Inside Secrets from a Master Negotiator](https://coursemetry.com/negotiation-a-z-inside-secrets-from-a-master-negotiator/)
 
@@ -303,6 +301,56 @@
 * [150+ Exercises - Object Oriented Programming in Python - OOP](https://coursemetry.com/150-exercises-object-oriented-programming-in-python-oop/)
 
 * [110+ Exercises - Python + SQL (sqlite3) - SQLite Databases](https://coursemetry.com/110-exercises-python-sql-sqlite3-sqlite-databases/)
+
+* [Python API Programming with FastAPI and Flask](https://coursemetry.com/python-api-programming-with-fastapi-and-flask/)
+
+* [Game Development with Java and Python](https://coursemetry.com/game-development-with-java-and-python/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [The Complete Java Swing Course for GUI Development for 2022](https://coursemetry.com/the-complete-java-swing-course-for-gui-development-for-2022/)
+
+* [The Complete Python Game Development Course for 2022](https://coursemetry.com/the-complete-python-game-development-course-for-2022/)
+
+* [English for Kids - Reading Exercises](https://coursemetry.com/english-for-kids-reading-exercises/)
+
+* [English Reading Practice Set for Advanced Level Students](https://coursemetry.com/english-reading-practice-set-for-advanced-level-students/)
+
+* [NIST Cybersecurity A-Z: NIST Risk Management Framework (RMF)](https://coursemetry.com/nist-cybersecurity-a-z-nist-risk-management-framework-rmf/)
+
+* [Aerospace Masterclass: Transonic Aerodynamics](https://coursemetry.com/aerospace-masterclass-transonic-aerodynamics/)
+
+* [Python Technical Interview Questions: The Ultimate Course](https://coursemetry.com/python-technical-interview-questions-the-ultimate-course/)
+
+* [PyCharm Productivity and Debugging Techniques](https://coursemetry.com/pycharm-productivity-and-debugging-techniques/)
+
+* [Game Development with PyGame  | Real World Games](https://coursemetry.com/game-development-with-pygame-real-world-games/)
+
+* [Aerospace Masterclass: Aircraft Design](https://coursemetry.com/aerospace-masterclass-aircraft-design/)
+
+* [Java Games Development With libGDX  | Create 5 Games](https://coursemetry.com/java-games-development-with-libgdx-create-5-games/)
+
+* [AWS Certified Data Analytics Specialty DAS-C01 Exam Prep](https://coursemetry.com/aws-certified-data-analytics-specialty-das-c01-exam-prep-2/)
+
+* [The Complete Python Network Programming Course for 2022](https://coursemetry.com/the-complete-python-network-programming-course-for-2022/)
+
+* [Lactancia materna - La guía completa](https://coursemetry.com/lactancia-materna-la-guia-completa/)
+
+* [The Complete Java Game Development Course 2022: Part 2](https://coursemetry.com/the-complete-java-game-development-course-2022-part-2/)
+
+* [Desarrolla un sistema web  POS desde cero con PHP NATIVO](https://coursemetry.com/desarrolla-un-sistema-web-pos-desde-cero-con-php-nativo/)
+
+* [The Complete Automation PyTest Course for 2022](https://coursemetry.com/the-complete-automation-pytest-course-for-2022/)
+
+* [The Complete RESTful APIs with Python Course](https://coursemetry.com/the-complete-restful-apis-with-python-course/)
+
+* [Earn Bitcoin on Your Phone WORLDWIDE Even While You Sleep](https://coursemetry.com/earn-bitcoin-on-your-phone-worldwide-even-while-you-sleep/)
+
+* [ReactJs CSS3 Flexbox Media Queries Bootstrap with 4 Projects](https://coursemetry.com/reactjs-css3-flexbox-media-queries-bootstrap-with-4-projects/)
+
+* [The Complete GSAP: JavaScript ,HTML and CSS Course for 2022](https://coursemetry.com/the-complete-gsap-javascript-html-and-css-course-for-2022/)
+
+* [The Complete Mathematics Software Developer Course for 2022](https://coursemetry.com/the-complete-mathematics-software-developer-course-for-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
