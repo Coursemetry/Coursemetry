@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published so far on 2022-08-03**
+## **96 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -179,6 +179,22 @@
 * [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
 
 * [Neuroplasticity And CBT Complete Certification Course](https://coursemetry.com/neuroplasticity-and-cbt-complete-certification-course/)
+
+* [CBT for anxiety and panic](https://coursemetry.com/cbt-for-anxiety-and-panic/)
+
+* [Storytelling With Imagery For Persuasion & Personal Brand](https://coursemetry.com/storytelling-with-imagery-for-persuasion-personal-brand/)
+
+* [Nutrition Certification: The Complete Nutrition Course](https://coursemetry.com/nutrition-certification-the-complete-nutrition-course/)
+
+* [Psychedelic Integration Basics Certificate Course](https://coursemetry.com/psychedelic-integration-basics-certificate-course/)
+
+* [CBT: Complete psychotherapy Certificate Course](https://coursemetry.com/cbt-complete-psychotherapy-certificate-course/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [The Ultimate SAP S/4HANA Course 2022: From Zero to Expert](https://coursemetry.com/the-ultimate-sap-s-4hana-course-2022-from-zero-to-expert/)
+
+* [CBT: Cognitive Behavioral Therapy For Anxiety And Depression](https://coursemetry.com/cbt-cognitive-behavioral-therapy-for-anxiety-and-depression/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
