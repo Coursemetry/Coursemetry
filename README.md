@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published so far on 2022-08-03**
+## **73 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -145,6 +145,10 @@
 * [Nutrition certification: Diet and weight loss for everyone](https://coursemetry.com/nutrition-certification-diet-and-weight-loss-for-everyone/)
 
 * [AZ-900: Microsoft Azure Fundamentals + FULL Practice Exam!](https://coursemetry.com/az-900-microsoft-azure-fundamentals-full-practice-exam/)
+
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
