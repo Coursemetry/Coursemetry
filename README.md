@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published so far on 2022-08-03**
+## **118 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -235,6 +235,10 @@
 * [Unsupervised Machine Learning | التعلم الآلي بدون إشراف](https://coursemetry.com/unsupervised-machine-learning-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a2%d9%84%d9%8a-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d8%b4%d8%b1%d8%a7%d9%81/)
 
 * [Complete Hootsuite Course in 40 Mins | HootSuite 2022 |](https://coursemetry.com/complete-hootsuite-course-in-40-mins-hootsuite-2022/)
+
+* [CBT Ultimate Certificate Course for Everyone](https://coursemetry.com/cbt-ultimate-certificate-course-for-everyone/)
+
+* [Effective Time Management For A Productivity Boost](https://coursemetry.com/effective-time-management-for-a-productivity-boost/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
