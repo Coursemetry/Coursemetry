@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **183 Udemy free courses published so far on 2022-08-03**
+## **195 Udemy free courses published so far on 2022-08-03**
 
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
@@ -369,6 +369,30 @@
 * [The Ultimate Text-To-Video Creation Course (2022 Edition)](https://coursemetry.com/the-ultimate-text-to-video-creation-course-2022-edition/)
 
 * [Crack Information Technology: All-Time Ultimate Quiz](https://coursemetry.com/crack-information-technology-all-time-ultimate-quiz/)
+
+* [Get 5 Million Free Images and Videos for Commercial Use](https://coursemetry.com/get-5-million-free-images-and-videos-for-commercial-use/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 11](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-11/)
+
+* [Exploring VirBELA 3D University Campus (2022 Edition)](https://coursemetry.com/exploring-virbela-3d-university-campus-2022-edition/)
+
+* [Learn Python and Artificial Intelligence (AI) Coding Tools](https://coursemetry.com/learn-python-and-artificial-intelligence-ai-coding-tools/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 2](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-2/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 3](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-3/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 8](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-8/)
+
+* [Practical JavaScript & ES6 Mastery with Projects](https://coursemetry.com/practical-javascript-es6-mastery-with-projects/)
+
+* [Essential Drawing Course For Beginner To Advanced](https://coursemetry.com/essential-drawing-course-for-beginner-to-advanced/)
+
+* [Digital Marketing Tools Taught from 3D Avatar Planet (2022)](https://coursemetry.com/digital-marketing-tools-taught-from-3d-avatar-planet-2022/)
+
+* [Content Samurai: Super High-Speed Video Creation (2022)](https://coursemetry.com/content-samurai-super-high-speed-video-creation-2022/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
