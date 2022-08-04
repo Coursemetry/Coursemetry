@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-08-04**
+## **86 Udemy free courses published so far on 2022-08-04**
 
 * [Options Masterclass-Learn how to create daily income](https://coursemetry.com/options-masterclass-learn-how-to-create-daily-income/)
 
@@ -137,6 +137,44 @@
 * [Implement 150 functions in Python! - Hands-on course](https://coursemetry.com/implement-150-functions-in-python-hands-on-course/)
 
 * [The Ultimate Microsoft Excel Pivot Table MasterClass](https://coursemetry.com/the-ultimate-microsoft-excel-pivot-table-masterclass/)
+
+* [Técnicas de Comunicación para Formadores y Docentes](https://coursemetry.com/tecnicas-de-comunicacion-para-formadores-y-docentes/)
+
+* [La fuerza de los hábitos](https://coursemetry.com/la-fuerza-de-los-habitos/)
+
+* [Motivación y Aprendizaje](https://coursemetry.com/motivacion-y-aprendizaje/)
+
+* [Complete Course 2022: Enterprise Application Development](https://coursemetry.com/complete-course-2022-enterprise-application-development/)
+
+* [Técnicas de animación grupal](https://coursemetry.com/tecnicas-de-animacion-grupal/)
+
+* [Canva Freelancing 101: Become a Six-Figure Graphic Designer](https://coursemetry.com/canva-freelancing-101-become-a-six-figure-graphic-designer/)
+
+* [Lectura crítica](https://coursemetry.com/lectura-critica/)
+
+* [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
+
+* [Anti-Money Laundering Specialist (CAMS) Practice Exams](https://coursemetry.com/anti-money-laundering-specialist-cams-practice-exams/)
+
+* [Independent Musician Music Marketing - Part Music Business](https://coursemetry.com/independent-musician-music-marketing-part-music-business/)
+
+* [Self Confidence & Self Esteem: Confidence Via Self-Awareness](https://coursemetry.com/self-confidence-self-esteem-confidence-via-self-awareness/)
+
+* [Certified Data Scientist - Practice Tests - 2022](https://coursemetry.com/certified-data-scientist-practice-tests-2022/)
+
+* [Google Professional Cloud Architect - GCP PCA - Exams - 2022](https://coursemetry.com/google-professional-cloud-architect-gcp-pca-exams-2022/)
+
+* [Google Professional Cloud Developer - GCP PCD - Exams - 2022](https://coursemetry.com/google-professional-cloud-developer-gcp-pcd-exams-2022/)
+
+* [Google Associate Cloud Engineer - GCP ACE - Exams - 2022](https://coursemetry.com/google-associate-cloud-engineer-gcp-ace-exams-2022/)
+
+* [Design Beautiful Animated Websites Incredibly Fast in 2022](https://coursemetry.com/design-beautiful-animated-websites-incredibly-fast-in-2022/)
+
+* [Reflexiones Prácticas de Riqueza](https://coursemetry.com/reflexiones-practicas-de-riqueza/)
+
+* [Cisco CCNA Cyber Ops Associate 200-201 CBROPS Practice Exams](https://coursemetry.com/cisco-ccna-cyber-ops-associate-200-201-cbrops-practice-exams/)
+
+* [Clean Architecture In Flutter 3 (Arabic)](https://coursemetry.com/clean-architecture-in-flutter-3-arabic/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
