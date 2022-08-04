@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published so far on 2022-08-04**
+## **131 Udemy free courses published so far on 2022-08-04**
 
 * [Options Masterclass-Learn how to create daily income](https://coursemetry.com/options-masterclass-learn-how-to-create-daily-income/)
 
@@ -175,6 +175,96 @@
 * [Cisco CCNA Cyber Ops Associate 200-201 CBROPS Practice Exams](https://coursemetry.com/cisco-ccna-cyber-ops-associate-200-201-cbrops-practice-exams/)
 
 * [Clean Architecture In Flutter 3 (Arabic)](https://coursemetry.com/clean-architecture-in-flutter-3-arabic/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [Business Fundamentals of Negotiation](https://coursemetry.com/business-fundamentals-of-negotiation/)
+
+* [NFT pour les Débutants: Devenir Investisseur et Créateur NFT](https://coursemetry.com/nft-pour-les-debutants-devenir-investisseur-et-createur-nft/)
+
+* [PL-900 Microsoft Power Platform Fundamentals Practice Exams](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-practice-exams-5/)
+
+* [Ultimate ITIL 4 Foundation Practice Exams](https://coursemetry.com/ultimate-itil-4-foundation-practice-exams/)
+
+* [ANGULAR - BEYOND FUNDAMENTALS](https://coursemetry.com/angular-beyond-fundamentals/)
+
+* [Financial Analysis and Financial Modeling using MS Excel](https://coursemetry.com/financial-analysis-and-financial-modeling-using-ms-excel/)
+
+* [Artificial Neural Networks for Business Managers in R Studio](https://coursemetry.com/artificial-neural-networks-for-business-managers-in-r-studio/)
+
+* [The Internet of Things (IoT): 2022 Trends and the Future](https://coursemetry.com/the-internet-of-things-iot-2022-trends-and-the-future/)
+
+* [Create Beautiful Photo and Video Slideshows with Animoto](https://coursemetry.com/create-beautiful-photo-and-video-slideshows-with-animoto/)
+
+* [The Ultimate SAP S/4HANA Course 2022: From Zero to Expert](https://coursemetry.com/the-ultimate-sap-s-4hana-course-2022-from-zero-to-expert/)
+
+* [SQL Masterclass: SQL for Data Analytics](https://coursemetry.com/sql-masterclass-sql-for-data-analytics/)
+
+* [Cracking Digital Marketing: All-Time Ultimate Quiz](https://coursemetry.com/cracking-digital-marketing-all-time-ultimate-quiz/)
+
+* [Learn AND Develop Winning Prototypes](https://coursemetry.com/learn-and-develop-winning-prototypes/)
+
+* [LookML A-Z: Google Looker for Developers](https://coursemetry.com/lookml-a-z-google-looker-for-developers/)
+
+* [The Complete Ethical Hacking Absolute Beginners Course](https://coursemetry.com/the-complete-ethical-hacking-absolute-beginners-course/)
+
+* [Soil-First Gardening: How to Grow Black Gold in the Backyard](https://coursemetry.com/soil-first-gardening-how-to-grow-black-gold-in-the-backyard/)
+
+* [Killer ways to create and promote YouTube videos in 2022](https://coursemetry.com/killer-ways-to-create-and-promote-youtube-videos-in-2022/)
+
+* [SuperMinds: The Future of Artificial Intelligence (AI)](https://coursemetry.com/superminds-the-future-of-artificial-intelligence-ai/)
+
+* [AZ-204 Azure Developing Solutions Practice Exams](https://coursemetry.com/az-204-azure-developing-solutions-practice-exams/)
+
+* [Ace your career with the Power of Artificial Intelligence](https://coursemetry.com/ace-your-career-with-the-power-of-artificial-intelligence/)
+
+* [Java Beginners Course, Learn by coding the Hangman Game](https://coursemetry.com/java-beginners-course-learn-by-coding-the-hangman-game/)
+
+* [Application development using NodeJS and Express](https://coursemetry.com/application-development-using-nodejs-and-express/)
+
+* [Instagram Marketing: How To Promote Anything On Instagram](https://coursemetry.com/instagram-marketing-how-to-promote-anything-on-instagram/)
+
+* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+
+* [Data pre-processing for Machine Learning in Python](https://coursemetry.com/data-pre-processing-for-machine-learning-in-python/)
+
+* [Business English Course: Essentials in Business World](https://coursemetry.com/business-english-course-essentials-in-business-world/)
+
+* [Get a Sales Video That CONVERTS in One Hour (or Less)!](https://coursemetry.com/get-a-sales-video-that-converts-in-one-hour-or-less/)
+
+* [English Reading Practice Set for Beginners-2](https://coursemetry.com/english-reading-practice-set-for-beginners-2/)
+
+* [Record Your Screen Like A Pro: Create Sellable HD Videos!](https://coursemetry.com/record-your-screen-like-a-pro-create-sellable-hd-videos/)
+
+* [MINERIA DE CRIPTOMONEDAS sin INVERTIR como  HACKER PRO](https://coursemetry.com/mineria-de-criptomonedas-sin-invertir-como-hacker-pro/)
+
+* [TypeScript Basic: Type System, Interfaces, Types, Generics](https://coursemetry.com/typescript-basic-type-system-interfaces-types-generics/)
+
+* [Become a Pro WordPress Freelancer & Get Web Design Clients](https://coursemetry.com/become-a-pro-wordpress-freelancer-get-web-design-clients/)
+
+* [Ethical Hacking: Vulnerability Research](https://coursemetry.com/ethical-hacking-vulnerability-research/)
+
+* [Creación de RDP/VPS Como un Profesional](https://coursemetry.com/creacion-de-rdp-vps-como-un-profesional/)
+
+* [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
+
+* [Markdown: GitHub pages, Websites and Blogs using markdown](https://coursemetry.com/markdown-github-pages-websites-and-blogs-using-markdown/)
+
+* [Fiverr HACKS to Become a Top-Level Freelancer with No Skills](https://coursemetry.com/fiverr-hacks-to-become-a-top-level-freelancer-with-no-skills/)
+
+* [Become a Six-Figure Online Course Creator - Passive Income](https://coursemetry.com/become-a-six-figure-online-course-creator-passive-income/)
+
+* [DIETA KETO y LONGEVIDAD de Principiante a HEROE](https://coursemetry.com/dieta-keto-y-longevidad-de-principiante-a-heroe/)
+
+* [Company Registration In UK~ Make paypal & Stripe Business](https://coursemetry.com/company-registration-in-uk-make-paypal-stripe-business/)
+
+* [Agile Crash Course for Beginners](https://coursemetry.com/agile-crash-course-for-beginners/)
+
+* [Git Crash Course for beginners](https://coursemetry.com/git-crash-course-for-beginners/)
+
+* [API Crash Course: How to Create, Test, & Document your APIs](https://coursemetry.com/api-crash-course-how-to-create-test-document-your-apis/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
