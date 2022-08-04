@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **37 Udemy free courses published so far on 2022-08-04**
+## **67 Udemy free courses published so far on 2022-08-04**
 
 * [Options Masterclass-Learn how to create daily income](https://coursemetry.com/options-masterclass-learn-how-to-create-daily-income/)
 
@@ -77,6 +77,66 @@
 * [Bitcoin ve Kripto Para Uzmanlığı](https://coursemetry.com/bitcoin-ve-kripto-para-uzmanligi/)
 
 * [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
+
+* [HTML, CSS, & Bootstrap - Certification Course for Beginners](https://coursemetry.com/html-css-bootstrap-certification-course-for-beginners/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [Microsoft Excel Masterclass (2016/2019) - Basic to Advanced](https://coursemetry.com/microsoft-excel-masterclass-2016-2019-basic-to-advanced/)
+
+* [Excel Infographics Masterclass for Dynamic Dashboards](https://coursemetry.com/excel-infographics-masterclass-for-dynamic-dashboards/)
+
+* [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [Android App Development with Kotlin - Learn Best Skill 2022+](https://coursemetry.com/android-app-development-with-kotlin-learn-best-skill-2022/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Effective Communication English](https://coursemetry.com/effective-communication-english/)
+
+* [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
+
+* [Google Professional Cloud Architect & Data Engineer Pack](https://coursemetry.com/google-professional-cloud-architect-data-engineer-pack/)
+
+* [Excel Dashboard Masterclass -From Zero to Hero](https://coursemetry.com/excel-dashboard-masterclass-from-zero-to-hero/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [SQL Bootcamp - SQLite - Hands-On Exercises](https://coursemetry.com/sql-bootcamp-sqlite-hands-on-exercises/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [Web Development Masterclass - Complete Certificate Course](https://coursemetry.com/web-development-masterclass-complete-certificate-course/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Python And Flask  Demonstrations Practice Course](https://coursemetry.com/python-and-flask-demonstrations-practice-course/)
+
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
+
+* [NSE 4 Fortigate  7 Network Security Professional](https://coursemetry.com/nse-4-fortigate-7-network-security-professional/)
+
+* [Python Fundamentals](https://coursemetry.com/python-fundamentals/)
+
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+
+* [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
+
+* [Check Point Firewall CCSA R80.40 Training Part1/2](https://coursemetry.com/check-point-firewall-ccsa-r80-40-training-part1-2/)
+
+* [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
+
+* [Apache Hive for Data Engineers (Hands On) with 2 Projects](https://coursemetry.com/apache-hive-for-data-engineers-hands-on-with-2-projects/)
+
+* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [Implement 150 functions in Python! - Hands-on course](https://coursemetry.com/implement-150-functions-in-python-hands-on-course/)
+
+* [The Ultimate Microsoft Excel Pivot Table MasterClass](https://coursemetry.com/the-ultimate-microsoft-excel-pivot-table-masterclass/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
