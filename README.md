@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **153 Udemy free courses published so far on 2022-08-05**
+## **160 Udemy free courses published so far on 2022-08-05**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -178,8 +178,6 @@
 
 * [Manual de bolso do jovem pesquisador](https://coursemetry.com/manual-de-bolso-do-jovem-pesquisador/)
 
-* [Master Java-8 and apply Java to Develop Real World Projects](https://coursemetry.com/master-java-8-and-apply-java-to-develop-real-world-projects/)
-
 * [Frontend Development with ReactJS and Bootstrap](https://coursemetry.com/frontend-development-with-reactjs-and-bootstrap/)
 
 * [Artificial Intelligence and the Future of Work (2022)](https://coursemetry.com/artificial-intelligence-and-the-future-of-work-2022/)
@@ -309,6 +307,22 @@
 * [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
 
 * [Complete Pixel Art Megacourse: Beginner to Expert](https://coursemetry.com/complete-pixel-art-megacourse-beginner-to-expert/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://coursemetry.com/cryptocurrency-trading-for-beginners-learn-click-by-click/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+
+* [Adobe After Effects - 2D animation](https://coursemetry.com/adobe-after-effects-2d-animation/)
+
+* [React JS Responsive Single Page Company Portfolio Website](https://coursemetry.com/react-js-responsive-single-page-company-portfolio-website/)
+
+* [Filmora Complete Video Editing In Hindi/urdu - Sarfaraz 2022](https://coursemetry.com/filmora-complete-video-editing-in-hindi-urdu-sarfaraz-2022/)
+
+* [Crack your next Microservices Docker & Kubernetes Interview](https://coursemetry.com/crack-your-next-microservices-docker-kubernetes-interview/)
+
+* [Master Java-8 and apply Java to Develop Real World Projects](https://coursemetry.com/master-java-8-and-apply-java-to-develop-real-world-projects/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
