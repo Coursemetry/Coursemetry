@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published so far on 2022-08-05**
+## **147 Udemy free courses published so far on 2022-08-05**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -191,6 +191,112 @@
 * [Practical Python for Dummies Beginner to Advance Course](https://coursemetry.com/practical-python-for-dummies-beginner-to-advance-course/)
 
 * [Master React Redux via Real world analogy & Building Project](https://coursemetry.com/master-react-redux-via-real-world-analogy-building-project/)
+
+* [Técnicas de memorización avanzadas](https://coursemetry.com/tecnicas-de-memorizacion-avanzadas/)
+
+* [Linear Regression and Logistic Regression using R Studio](https://coursemetry.com/linear-regression-and-logistic-regression-using-r-studio/)
+
+* [SC-400 Information Protection Administrator Practice Exams](https://coursemetry.com/sc-400-information-protection-administrator-practice-exams-2/)
+
+* [Alteryx Masterclass for Data Analytics, ETL and Reporting](https://coursemetry.com/alteryx-masterclass-for-data-analytics-etl-and-reporting/)
+
+* [APICS Certified Professional CSCP Practice Exams](https://coursemetry.com/apics-certified-professional-cscp-practice-exams/)
+
+* [Logistic Regression in Python](https://coursemetry.com/logistic-regression-in-python/)
+
+* [ASQ Certified Quality Engineer Practice Exams](https://coursemetry.com/asq-certified-quality-engineer-practice-exams/)
+
+* [Machine Learning & Deep Learning in Python & R](https://coursemetry.com/machine-learning-deep-learning-in-python-r/)
+
+* [Excel Accounting 2–Worksheet, Opening Balances, & Subledger](https://coursemetry.com/excel-accounting-2-worksheet-opening-balances-subledger/)
+
+* [HTML QUIZ FOR EXAM](https://coursemetry.com/html-quiz-for-exam/)
+
+* [Corporate Finance #15 Dividend Policy](https://coursemetry.com/corporate-finance-15-dividend-policy/)
+
+* [Zero to Hero hands-on mastery on HTML5 JavaScript & ES6](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-javascript-es6/)
+
+* [Excel Accounting 6–Adjusting Entries & Financial Statements](https://coursemetry.com/excel-accounting-6-adjusting-entries-financial-statements/)
+
+* [Microservices Interview Readiness Course](https://coursemetry.com/microservices-interview-readiness-course/)
+
+* [Zero to Hero hands-on mastery on HTML5 & CSS3](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-css3/)
+
+* [Excel Accounting 5–Bank Reconciliations-Month 1 & 2](https://coursemetry.com/excel-accounting-5-bank-reconciliations-month-1-2/)
+
+* [Containerize SpringBoot Node Express Apps & Deploy on Azure](https://coursemetry.com/containerize-springboot-node-express-apps-deploy-on-azure/)
+
+* [AI-900 Azure AI Fundamentals Practice Exams](https://coursemetry.com/ai-900-azure-ai-fundamentals-practice-exams/)
+
+* [Master HTML5 Bootstrap5 & ReactJs From Scratch](https://coursemetry.com/master-html5-bootstrap5-reactjs-from-scratch/)
+
+* [Personal Finance #2–Financial Statements & Budgeting](https://coursemetry.com/personal-finance-2-financial-statements-budgeting/)
+
+* [AZ-500: Microsoft Azure Security Practice Exams](https://coursemetry.com/az-500-microsoft-azure-security-practice-exams/)
+
+* [Digishock 3.0: The Future of Artificial Intelligence (AI)](https://coursemetry.com/digishock-3-0-the-future-of-artificial-intelligence-ai/)
+
+* [Personal Finance #3–Financial Services & Bank Reconciliation](https://coursemetry.com/personal-finance-3-financial-services-bank-reconciliation/)
+
+* [Professional Scrum with Kanban (PSK I) Certification Prep](https://coursemetry.com/professional-scrum-with-kanban-psk-i-certification-prep/)
+
+* [Curso de Hacker para Iniciantes](https://coursemetry.com/curso-de-hacker-para-iniciantes/)
+
+* [Personal Finance #1 Goals, Planning, & Time Value of Money](https://coursemetry.com/personal-finance-1-goals-planning-time-value-of-money/)
+
+* [Zero To Hero Apache Kafka with SpringBoot mastery](https://coursemetry.com/zero-to-hero-apache-kafka-with-springboot-mastery/)
+
+* [Corp Finance #17 Merger, Acquisition & Foreign Currency](https://coursemetry.com/corp-finance-17-merger-acquisition-foreign-currency/)
+
+* [Excel Accounting 4–Enter Data & Track Current Month & YTD](https://coursemetry.com/excel-accounting-4-enter-data-track-current-month-ytd/)
+
+* [Excel Accounting 1–Transactions for Common Data Input Forms](https://coursemetry.com/excel-accounting-1-transactions-for-common-data-input-forms/)
+
+* [Corporate Finance #16 Convertible Bonds & Warrants](https://coursemetry.com/corporate-finance-16-convertible-bonds-warrants/)
+
+* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+
+* [Corporate Finance #4 Leverage & Break-Even Analysis](https://coursemetry.com/corporate-finance-4-leverage-break-even-analysis/)
+
+* [QuickBooks Desktop Pro -Personal Bookkeeping-Accounting](https://coursemetry.com/quickbooks-desktop-pro-personal-bookkeeping-accounting/)
+
+* [Técnicas de Comprensión Lectora y Subrayado](https://coursemetry.com/tecnicas-de-comprension-lectora-y-subrayado/)
+
+* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
+
+* [Microsoft Power BI 2022: The Complete Guide](https://coursemetry.com/microsoft-power-bi-2022-the-complete-guide/)
+
+* [Aprendizaje Efectivo sin Estrés para Adultos](https://coursemetry.com/aprendizaje-efectivo-sin-estres-para-adultos/)
+
+* [Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor](https://coursemetry.com/job-cost-quickbooks-online-vs-quickbooks-desktop-contractor/)
+
+* [Check Point Certified Security Administrator 156-215.80 Exam](https://coursemetry.com/check-point-certified-security-administrator-156-215-80-exam/)
+
+* [Learn Egyptian Arabic by cartoon| Egyptian Arabic with fun](https://coursemetry.com/learn-egyptian-arabic-by-cartoon-egyptian-arabic-with-fun/)
+
+* [Bootstrap 5: Créer et Lancer des Sites Web Réactifs](https://coursemetry.com/bootstrap-5-creer-et-lancer-des-sites-web-reactifs/)
+
+* [Corporate Finance #1 Introduction & Financial Statements](https://coursemetry.com/corporate-finance-1-introduction-financial-statements/)
+
+* [DP-100: Designing and Implementing a Data Science Solution](https://coursemetry.com/dp-100-designing-and-implementing-a-data-science-solution-2/)
+
+* [Python Bootcamp 2021 Build 15 working Applications and Games](https://coursemetry.com/python-bootcamp-2021-build-15-working-applications-and-games/)
+
+* [QuickBooks Online Bank Reconciliation](https://coursemetry.com/quickbooks-online-bank-reconciliation/)
+
+* [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
+
+* [Corporate Finance #5 Financing Decisions](https://coursemetry.com/corporate-finance-5-financing-decisions/)
+
+* [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
+
+* [DP-900: Microsoft Azure Data Fundamentals Practice Questions](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-questions-2/)
+
+* [Corporate Finance #3 Forecasting & Budgeting](https://coursemetry.com/corporate-finance-3-forecasting-budgeting/)
+
+* [The Complete MongoDB Course 2022](https://coursemetry.com/the-complete-mongodb-course-2022/)
+
+* [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
