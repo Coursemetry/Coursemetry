@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **169 Udemy free courses published so far on 2022-08-05**
+## **176 Udemy free courses published so far on 2022-08-05**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
