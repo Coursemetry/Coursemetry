@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **147 Udemy free courses published so far on 2022-08-05**
+## **152 Udemy free courses published so far on 2022-08-05**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -297,6 +297,16 @@
 * [The Complete MongoDB Course 2022](https://coursemetry.com/the-complete-mongodb-course-2022/)
 
 * [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
+
+* [CompTIA Advanced Security Practitioner CASP+ Practice Exams](https://coursemetry.com/comptia-advanced-security-practitioner-casp-practice-exams-2/)
+
+* [CompTIA A+ Core 2 220-1002 Practice Exams](https://coursemetry.com/comptia-a-core-2-220-1002-practice-exams/)
+
+* [Aprende a crear tu web desde cero con HTML y CSS](https://coursemetry.com/aprende-a-crear-tu-web-desde-cero-con-html-y-css/)
+
+* [CPA & Affiliate Marketing Mastermind (Case-Study Revealed)](https://coursemetry.com/cpa-affiliate-marketing-mastermind-case-study-revealed/)
+
+* [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
