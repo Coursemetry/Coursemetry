@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **152 Udemy free courses published so far on 2022-08-05**
+## **153 Udemy free courses published so far on 2022-08-05**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -307,6 +307,8 @@
 * [CPA & Affiliate Marketing Mastermind (Case-Study Revealed)](https://coursemetry.com/cpa-affiliate-marketing-mastermind-case-study-revealed/)
 
 * [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
+
+* [Complete Pixel Art Megacourse: Beginner to Expert](https://coursemetry.com/complete-pixel-art-megacourse-beginner-to-expert/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
