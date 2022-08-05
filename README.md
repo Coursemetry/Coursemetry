@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **62 Udemy free courses published so far on 2022-08-05**
+## **94 Udemy free courses published so far on 2022-08-05**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -127,6 +127,70 @@
 * [Software Engineering Career Bootcamp: From intern to CXO](https://coursemetry.com/software-engineering-career-bootcamp-from-intern-to-cxo/)
 
 * [How To Make Passive Income on Amazon KDP with Zero dollars](https://coursemetry.com/how-to-make-passive-income-on-amazon-kdp-with-zero-dollars/)
+
+* [Leaflet praxisorientierte Datenvisualisierung OpenStreetMap](https://coursemetry.com/leaflet-praxisorientierte-datenvisualisierung-openstreetmap/)
+
+* [Systemic Coaching the complete course](https://coursemetry.com/systemic-coaching-the-complete-course/)
+
+* [Excel Data Analysis With Pivot Tables & Pivot Charts - 2022](https://coursemetry.com/excel-data-analysis-with-pivot-tables-pivot-charts-2022/)
+
+* [Video Editing with Adobe Premiere Pro - Beginner's Guide](https://coursemetry.com/video-editing-with-adobe-premiere-pro-beginners-guide/)
+
+* [Car Flipping : The Art of Car Flipping](https://coursemetry.com/car-flipping-the-art-of-car-flipping/)
+
+* [PMP Certification Exam Simulator 2022 - PMBOK7 + PMBOK6](https://coursemetry.com/pmp-certification-exam-simulator-2022-pmbok7-pmbok6/)
+
+* [2022 Complete Python Bootcamp From Zero to Hero in Python](https://coursemetry.com/2022-complete-python-bootcamp-from-zero-to-hero-in-python/)
+
+* [Der große Arduino/ESP Bastelkurs](https://coursemetry.com/der-grose-arduino-esp-bastelkurs/)
+
+* [Publish Simple Videos For a Living - Skillshare Earnings](https://coursemetry.com/publish-simple-videos-for-a-living-skillshare-earnings/)
+
+* [DIY Arduino Wetterstation mit IoT Server Erstellung](https://coursemetry.com/diy-arduino-wetterstation-mit-iot-server-erstellung/)
+
+* [Formulas and operations on Excel data Part 1/3](https://coursemetry.com/formulas-and-operations-on-excel-data-part-1-3/)
+
+* [Best Python course in Hindi for Beginners (हिन्दी)](https://coursemetry.com/best-python-course-in-hindi-for-beginners-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80/)
+
+* [AWS Cloud Practitioner Exam [100% Guarantee]](https://coursemetry.com/aws-cloud-practitioner-exam-100-guarantee/)
+
+* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+
+* [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 6](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-6/)
+
+* [Become a Pro Wordpress Custom Theme Developer](https://coursemetry.com/become-a-pro-wordpress-custom-theme-developer/)
+
+* [Master CSS3 and ReactJs by Developing 3 Projects](https://coursemetry.com/master-css3-and-reactjs-by-developing-3-projects/)
+
+* [Applying Java Programming for Real World Project Development](https://coursemetry.com/applying-java-programming-for-real-world-project-development/)
+
+* [Create lightning-fast videos with InVideo in 2022](https://coursemetry.com/create-lightning-fast-videos-with-invideo-in-2022/)
+
+* [Getting Started with Blockchain Solidity and Smart Contracts](https://coursemetry.com/getting-started-with-blockchain-solidity-and-smart-contracts/)
+
+* [350-701 SCOR Cisco Security Core Technologies Practice Exams](https://coursemetry.com/350-701-scor-cisco-security-core-technologies-practice-exams-2/)
+
+* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
+
+* [Flutter 3.0&Firebase Build a Grocery App&WEB Admin Panel](https://coursemetry.com/flutter-3-0firebase-build-a-grocery-appweb-admin-panel/)
+
+* [Manual de bolso do jovem pesquisador](https://coursemetry.com/manual-de-bolso-do-jovem-pesquisador/)
+
+* [Master Java-8 and apply Java to Develop Real World Projects](https://coursemetry.com/master-java-8-and-apply-java-to-develop-real-world-projects/)
+
+* [Frontend Development with ReactJS and Bootstrap](https://coursemetry.com/frontend-development-with-reactjs-and-bootstrap/)
+
+* [Artificial Intelligence and the Future of Work (2022)](https://coursemetry.com/artificial-intelligence-and-the-future-of-work-2022/)
+
+* [Master HTML5 CSS3 Bootstrap5 by building Responsive Website](https://coursemetry.com/master-html5-css3-bootstrap5-by-building-responsive-website/)
+
+* [Complete Accounting + Tallyprime + Tally ERP9 + GST (4 in 1)](https://coursemetry.com/complete-accounting-tallyprime-tally-erp9-gst-4-in-1/)
+
+* [Practical Python for Dummies Beginner to Advance Course](https://coursemetry.com/practical-python-for-dummies-beginner-to-advance-course/)
+
+* [Master React Redux via Real world analogy & Building Project](https://coursemetry.com/master-react-redux-via-real-world-analogy-building-project/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
