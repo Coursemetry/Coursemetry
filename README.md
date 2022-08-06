@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-08-06**
+## **120 Udemy free courses published so far on 2022-08-06**
 
 * [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
@@ -203,6 +203,46 @@
 * [İngilizce Kursu A1 Hikaye Çevirisi: Güzel Yüz](https://coursemetry.com/ingilizce-kursu-a1-hikaye-cevirisi-guzel-yuz/)
 
 * [İngilizce Kursu A1 Hikaye Çevirisi: Satılık Ada](https://coursemetry.com/ingilizce-kursu-a1-hikaye-cevirisi-satilik-ada/)
+
+* [ADIM ADIM TELEKİNEZİ](https://coursemetry.com/adim-adim-telekinezi/)
+
+* [Google Docs - مستندات جوجل من الصفر للاحتراف](https://coursemetry.com/google-docs-%d9%85%d8%b3%d8%aa%d9%86%d8%af%d8%a7%d8%aa-%d8%ac%d9%88%d8%ac%d9%84-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Php ile Profesyonelliğe giriş - A'dan Z'ye PHP Programlama](https://coursemetry.com/php-ile-profesyonellige-giris-adan-zye-php-programlama/)
+
+* [Web Design for Beginners: Build Websites in HTML & CSS 2022](https://coursemetry.com/web-design-for-beginners-build-websites-in-html-css-2022/)
+
+* [Google Sheets - جوجل شيت من الصفر للاحتراف](https://coursemetry.com/google-sheets-%d8%ac%d9%88%d8%ac%d9%84-%d8%b4%d9%8a%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [ISTQB Foundation (CTFL) Practice Exams](https://coursemetry.com/istqb-foundation-ctfl-practice-exams/)
+
+* [Google Flutter ve Dart Programlama Dili Temel Eğitimi](https://coursemetry.com/google-flutter-ve-dart-programlama-dili-temel-egitimi/)
+
+* [React.JS: The Complete Course for Beginners](https://coursemetry.com/react-js-the-complete-course-for-beginners/)
+
+* [A'dan Z'ye TELEPATİ | Spiritüeller](https://coursemetry.com/adan-zye-telepati-spiritueller/)
+
+* [Bu Kursla BOLLUK BEREKET ve PARA ENERJİSİNİ Hayatınıza Çekin](https://coursemetry.com/bu-kursla-bolluk-bereket-ve-para-enerjisini-hayatiniza-cekin/)
+
+* [Master Advance English Vocabulary: From Beginner to expert](https://coursemetry.com/master-advance-english-vocabulary-from-beginner-to-expert/)
+
+* [LPI 010-160 Linux Essentials Practice Exams](https://coursemetry.com/lpi-010-160-linux-essentials-practice-exams/)
+
+* [Java Network Programming - Mastering TCP/IP | CJNP+ 2022PRO](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022pro/)
+
+* [Cryptocurrency & Bitcoin for Beginners in Plain English.](https://coursemetry.com/cryptocurrency-bitcoin-for-beginners-in-plain-english/)
+
+* [Advanced-Recon Course](https://coursemetry.com/advanced-recon-course/)
+
+* [PSD TO HTML & Bootstrap 4 ile web sitesi yapımı](https://coursemetry.com/psd-to-html-bootstrap-4-ile-web-sitesi-yapimi/)
+
+* [Uygulama Örneği Üzerinden Orta Seviye Flutter Eğitimi (BETA)](https://coursemetry.com/uygulama-ornegi-uzerinden-orta-seviye-flutter-egitimi-beta/)
+
+* [Temel Git ve GitHub Eğtimi](https://coursemetry.com/temel-git-ve-github-egtimi/)
+
+* [Machine Learning Full Course with 4 LIVE SOFWARE Project](https://coursemetry.com/machine-learning-full-course-with-4-live-sofware-project/)
+
+* [Blockchain in Python](https://coursemetry.com/blockchain-in-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
