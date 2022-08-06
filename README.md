@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **139 Udemy free courses published so far on 2022-08-06**
+## **143 Udemy free courses published so far on 2022-08-06**
 
 * [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
@@ -281,6 +281,14 @@
 * [Cybersecurity: Security Operations Center (SOC) Analyst NOW!](https://coursemetry.com/cybersecurity-security-operations-center-soc-analyst-now/)
 
 * [Create awesome videos from text using Pictory](https://coursemetry.com/create-awesome-videos-from-text-using-pictory-2/)
+
+* [Learn Frontend Web development from scratch](https://coursemetry.com/learn-frontend-web-development-from-scratch/)
+
+* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
+
+* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
+
+* [How To Increase Your Credit Score](https://coursemetry.com/how-to-increase-your-credit-score/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
