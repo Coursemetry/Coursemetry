@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-08-06**
+## **98 Udemy free courses published so far on 2022-08-06**
 
 * [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
@@ -185,6 +185,20 @@
 * [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
 
 * [Aplos Not for Profit Accounting Software](https://coursemetry.com/aplos-not-for-profit-accounting-software/)
+
+* [QuickBooks Desktop – Export Directly to Tax Software Lacerte](https://coursemetry.com/quickbooks-desktop-export-directly-to-tax-software-lacerte/)
+
+* [Xero Not for Profit Organization](https://coursemetry.com/xero-not-for-profit-organization/)
+
+* [Yeni Başlayanlar için Terminal Kullanımı ve Temel Komutlar](https://coursemetry.com/yeni-baslayanlar-icin-terminal-kullanimi-ve-temel-komutlar/)
+
+* [Financial Statement Analysis – Ratio Analysis](https://coursemetry.com/financial-statement-analysis-ratio-analysis/)
+
+* [8 Günde Flutter ve Dart ile Yazılım Geliştirmeye Giriş](https://coursemetry.com/8-gunde-flutter-ve-dart-ile-yazilim-gelistirmeye-giris/)
+
+* [Time Value of Money & Capital Budgeting - Present Value](https://coursemetry.com/time-value-of-money-capital-budgeting-present-value/)
+
+* [Understanding Python (Input-Process-Output)](https://coursemetry.com/understanding-python-input-process-output/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
