@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **143 Udemy free courses published so far on 2022-08-06**
+## **145 Udemy free courses published so far on 2022-08-06**
 
 * [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
@@ -289,6 +289,10 @@
 * [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
 
 * [How To Increase Your Credit Score](https://coursemetry.com/how-to-increase-your-credit-score/)
+
+* [Visual Studio 2022 C# - Nivel Básico](https://coursemetry.com/visual-studio-2022-c-nivel-basico/)
+
+* [Improve English by Listening Movies – 1b](https://coursemetry.com/improve-english-by-listening-movies-1b/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
