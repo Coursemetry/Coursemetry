@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-08-06**
+## **69 Udemy free courses published so far on 2022-08-06**
 
 * [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
@@ -131,6 +131,16 @@
 * [Do Different Real-World Python Projects as a Beginner](https://coursemetry.com/do-different-real-world-python-projects-as-a-beginner/)
 
 * [Security Awareness Training - Information Security](https://coursemetry.com/security-awareness-training-information-security/)
+
+* [Python | Sıfırdan Uzmanlığa 30+ Saat Programlama A-Z](https://coursemetry.com/python-sifirdan-uzmanliga-30-saat-programlama-a-z/)
+
+* [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
+
+* [QuickBooks Online Multiple Currencies](https://coursemetry.com/quickbooks-online-multiple-currencies/)
+
+* [Sıfırdan Kalite Kontrol Mühendisliği Sertifika Programı A-Z](https://coursemetry.com/sifirdan-kalite-kontrol-muhendisligi-sertifika-programi-a-z/)
+
+* [Sıfırdan Kalite Mühendisliği Sertifika Programı A-Z](https://coursemetry.com/sifirdan-kalite-muhendisligi-sertifika-programi-a-z/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
