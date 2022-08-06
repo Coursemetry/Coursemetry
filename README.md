@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published so far on 2022-08-06**
+## **100 Udemy free courses published so far on 2022-08-06**
 
 * [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
@@ -199,6 +199,10 @@
 * [Time Value of Money & Capital Budgeting - Present Value](https://coursemetry.com/time-value-of-money-capital-budgeting-present-value/)
 
 * [Understanding Python (Input-Process-Output)](https://coursemetry.com/understanding-python-input-process-output/)
+
+* [İngilizce Kursu A1 Hikaye Çevirisi: Güzel Yüz](https://coursemetry.com/ingilizce-kursu-a1-hikaye-cevirisi-guzel-yuz/)
+
+* [İngilizce Kursu A1 Hikaye Çevirisi: Satılık Ada](https://coursemetry.com/ingilizce-kursu-a1-hikaye-cevirisi-satilik-ada/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
