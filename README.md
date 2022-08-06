@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published so far on 2022-08-06**
+## **91 Udemy free courses published so far on 2022-08-06**
 
 * [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
@@ -141,6 +141,50 @@
 * [Sıfırdan Kalite Kontrol Mühendisliği Sertifika Programı A-Z](https://coursemetry.com/sifirdan-kalite-kontrol-muhendisligi-sertifika-programi-a-z/)
 
 * [Sıfırdan Kalite Mühendisliği Sertifika Programı A-Z](https://coursemetry.com/sifirdan-kalite-muhendisligi-sertifika-programi-a-z/)
+
+* [QuickBooks Online Not for Profit Organization](https://coursemetry.com/quickbooks-online-not-for-profit-organization/)
+
+* [Responsibility Accounting & Performance Measurement](https://coursemetry.com/responsibility-accounting-performance-measurement/)
+
+* [Hands-On React. Build advanced React JS Frontend with expert](https://coursemetry.com/hands-on-react-build-advanced-react-js-frontend-with-expert/)
+
+* [Financial Accounting-Depreciation Calculation & Fixed Assets](https://coursemetry.com/financial-accounting-depreciation-calculation-fixed-assets/)
+
+* [Partnership Accounting](https://coursemetry.com/partnership-accounting/)
+
+* [Cost Volume Profit Analysis (CVP) – Managerial Accounting](https://coursemetry.com/cost-volume-profit-analysis-cvp-managerial-accounting/)
+
+* [Relevant Costs - Managerial Accounting Decisions & Scenarios](https://coursemetry.com/relevant-costs-managerial-accounting-decisions-scenarios/)
+
+* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+
+* [QuickBooks Enterprise - Two Businesses & Personal in One](https://coursemetry.com/quickbooks-enterprise-two-businesses-personal-in-one/)
+
+* [Flexible Budgets, Standard Costs, & Variance Analysis](https://coursemetry.com/flexible-budgets-standard-costs-variance-analysis/)
+
+* [Contented Career Mom](https://coursemetry.com/contented-career-mom/)
+
+* [Wave Accounting](https://coursemetry.com/wave-accounting/)
+
+* [Financial Accounting – Inventory Costs](https://coursemetry.com/financial-accounting-inventory-costs/)
+
+* [Practical Next.js & React - Build a real WebApp with Next.js](https://coursemetry.com/practical-next-js-react-build-a-real-webapp-with-next-js/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [Accounting-Bonds Payable, Notes Payable, Liabilities](https://coursemetry.com/accounting-bonds-payable-notes-payable-liabilities/)
+
+* [QuickBooks Pro Desktop -Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-business-easy-way/)
+
+* [QuickBooks Desktop Multiple Currencies](https://coursemetry.com/quickbooks-desktop-multiple-currencies/)
+
+* [QuickBooks Online (QBO) Bookkeeping With Bank Feeds 2022](https://coursemetry.com/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2022/)
+
+* [QuickBooks Pro Desktop Bookkeeping With Bank Feeds 2022 2021](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-with-bank-feeds-2022-2021/)
+
+* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+
+* [Aplos Not for Profit Accounting Software](https://coursemetry.com/aplos-not-for-profit-accounting-software/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
