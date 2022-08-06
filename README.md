@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published so far on 2022-08-06**
+## **64 Udemy free courses published so far on 2022-08-06**
 
 * [CSS, JavaScript And PHP Complete Course For Beginners](https://coursemetry.com/css-javascript-and-php-complete-course-for-beginners/)
 
@@ -113,6 +113,24 @@
 * [CSS - Basics To Advanced for front end development (2021)](https://coursemetry.com/css-basics-to-advanced-for-front-end-development-2021/)
 
 * [Executive Program in Data Analytics](https://coursemetry.com/executive-program-in-data-analytics/)
+
+* [IT Service Management Training Course (Updated 2022)](https://coursemetry.com/it-service-management-training-course-updated-2022/)
+
+* [The Complete AP and College Physics Course](https://coursemetry.com/the-complete-ap-and-college-physics-course/)
+
+* [ISO 9001:2015-Quality Management System Implementation&Audit](https://coursemetry.com/iso-90012015-quality-management-system-implementationaudit/)
+
+* [IIBA Certified Business Analysis Professional CBAP Exam Prep](https://coursemetry.com/iiba-certified-business-analysis-professional-cbap-exam-prep/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [Aerospace Engineering: Rocket Science and Engineering](https://coursemetry.com/aerospace-engineering-rocket-science-and-engineering/)
+
+* [The Complete HTML5 Course: From Beginning to Expert](https://coursemetry.com/the-complete-html5-course-from-beginning-to-expert/)
+
+* [Do Different Real-World Python Projects as a Beginner](https://coursemetry.com/do-different-real-world-python-projects-as-a-beginner/)
+
+* [Security Awareness Training - Information Security](https://coursemetry.com/security-awareness-training-information-security/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
