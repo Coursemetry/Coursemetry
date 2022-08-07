@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **62 Udemy free courses published so far on 2022-08-07**
+## **93 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -127,6 +127,68 @@
 * [Best of SEO: #1 SEO Training & Content Marketing Course 2022](https://coursemetry.com/best-of-seo-1-seo-training-content-marketing-course-2022/)
 
 * [Master Microsoft Power BI in 21 Days](https://coursemetry.com/master-microsoft-power-bi-in-21-days/)
+
+* [Linux for Data Engineers (Hands On)](https://coursemetry.com/linux-for-data-engineers-hands-on/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+
+* [Build Shopify store & Run Facebook Page Likes Ad In 2022](https://coursemetry.com/build-shopify-store-run-facebook-page-likes-ad-in-2022/)
+
+* [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
+
+* [QuickBooks Online vs. Excel 2022](https://coursemetry.com/quickbooks-online-vs-excel-2022/)
+
+* [Trading options is WAY BETTER than trading stocks!](https://coursemetry.com/trading-options-is-way-better-than-trading-stocks/)
+
+* [QuickBooks Online-Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-online-bookkeeping-business-easy-way/)
+
+* [Emotional Navigation for New Age Managers](https://coursemetry.com/emotional-navigation-for-new-age-managers/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
+
+* [Digital Marketing Business Online For Free Social Media 2022](https://coursemetry.com/digital-marketing-business-online-for-free-social-media-2022/)
+
+* [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [QuickBooks Payroll - QuickBooks Online](https://coursemetry.com/quickbooks-payroll-quickbooks-online/)
+
+* [Run Search Ad In Google Ads & Easy SEO For Beginners-2022](https://coursemetry.com/run-search-ad-in-google-ads-easy-seo-for-beginners-2022/)
+
+* [Facebook Ads Lead Generation Marketing for business 2022](https://coursemetry.com/facebook-ads-lead-generation-marketing-for-business-2022/)
+
+* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
+
+* [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
+
+* [DevSecOps with Azure DevOps: Secure CI/CD with Azure DevOps](https://coursemetry.com/devsecops-with-azure-devops-secure-ci-cd-with-azure-devops/)
+
+* [Stress Management: SECRETS To Remove Stress & Anxiety TODAY!](https://coursemetry.com/stress-management-secrets-to-remove-stress-anxiety-today/)
+
+* [Essentials of Data Transmission](https://coursemetry.com/essentials-of-data-transmission/)
+
+* [Learning Google Meet from Scratch](https://coursemetry.com/learning-google-meet-from-scratch/)
+
+* [Self-care and Resilience](https://coursemetry.com/self-care-and-resilience/)
+
+* [how to make social media post design in photoshop](https://coursemetry.com/how-to-make-social-media-post-design-in-photoshop/)
+
+* [Agile and Decision Making: Fortune 500 Leaders](https://coursemetry.com/agile-and-decision-making-fortune-500-leaders/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
