@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-08-07**
+## **118 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -223,6 +223,22 @@
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
 * [EasyPy3: Python for Beginners](https://coursemetry.com/easypy3-python-for-beginners/)
+
+* [Complete Digital Marketing Course for Local Businesses 2022](https://coursemetry.com/complete-digital-marketing-course-for-local-businesses-2022/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [AutoCAD 2D & 3D | AutoCAD Civil & Architectural](https://coursemetry.com/autocad-2d-3d-autocad-civil-architectural/)
+
+* [Complete Photography : 21 Courses in 1 [Beginner to Expert]](https://coursemetry.com/complete-photography-21-courses-in-1-beginner-to-expert/)
+
+* [Watercolor Painting Course for Beginner](https://coursemetry.com/watercolor-painting-course-for-beginner/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [Fundamental of Embedded Operating Systems](https://coursemetry.com/fundamental-of-embedded-operating-systems/)
+
+* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
