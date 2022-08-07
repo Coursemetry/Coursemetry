@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **99 Udemy free courses published so far on 2022-08-07**
+## **110 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -201,6 +201,28 @@
 * [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
 
 * [Leadership in Kata Style](https://coursemetry.com/leadership-in-kata-style/)
+
+* [Cybersecurity: Security Operations Center (SOC) Analyst NOW!](https://coursemetry.com/cybersecurity-security-operations-center-soc-analyst-now/)
+
+* [Learn in 69 mins how to make right career choices & Make One](https://coursemetry.com/learn-in-69-mins-how-to-make-right-career-choices-make-one/)
+
+* [How to setup a new export firm in India and get orders?](https://coursemetry.com/how-to-setup-a-new-export-firm-in-india-and-get-orders/)
+
+* [PRINCE2 Foundation Practice Exams](https://coursemetry.com/prince2-foundation-practice-exams-2/)
+
+* [Python Complete Course For Beginners](https://coursemetry.com/python-complete-course-for-beginners/)
+
+* [How to Print on Demand - Beginners Guide to POD](https://coursemetry.com/how-to-print-on-demand-beginners-guide-to-pod/)
+
+* [Secrets to Write a Copy that Sells like Crazy-Freelance copy](https://coursemetry.com/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/)
+
+* [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+
+* [HVAC Ductwork Quantity Take off for Quantity Surveyors](https://coursemetry.com/hvac-ductwork-quantity-take-off-for-quantity-surveyors/)
+
+* [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
+
+* [EasyPy3: Python for Beginners](https://coursemetry.com/easypy3-python-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
