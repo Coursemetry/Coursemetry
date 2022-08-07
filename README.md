@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **60 Udemy free courses published so far on 2022-08-07**
+## **62 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -123,6 +123,10 @@
 * [Angel Reiki - Certified Master course](https://coursemetry.com/angel-reiki-certified-master-course/)
 
 * [(25+Saat) C |Sıfırdan İleri Seviyeye Uygulamalı Programlama](https://coursemetry.com/25saat-c-sifirdan-ileri-seviyeye-uygulamali-programlama/)
+
+* [Best of SEO: #1 SEO Training & Content Marketing Course 2022](https://coursemetry.com/best-of-seo-1-seo-training-content-marketing-course-2022/)
+
+* [Master Microsoft Power BI in 21 Days](https://coursemetry.com/master-microsoft-power-bi-in-21-days/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
