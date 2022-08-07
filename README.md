@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published so far on 2022-08-07**
+## **60 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -109,6 +109,20 @@
 * [القواعد الأساسيه للإملاء](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d9%84%d8%a5%d9%85%d9%84%d8%a7%d8%a1/)
 
 * [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
+
+* [Ableton Live 11: Mastering Music Production (Part 1, 2, & 3)](https://coursemetry.com/ableton-live-11-mastering-music-production-part-1-2-3/)
+
+* [poultry farming Bacterial diseases hindering satisfying prod](https://coursemetry.com/poultry-farming-bacterial-diseases-hindering-satisfying-prod/)
+
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
+
+* [Guardian Angel Reiki- Certified Master course](https://coursemetry.com/guardian-angel-reiki-certified-master-course/)
+
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
+
+* [Angel Reiki - Certified Master course](https://coursemetry.com/angel-reiki-certified-master-course/)
+
+* [(25+Saat) C |Sıfırdan İleri Seviyeye Uygulamalı Programlama](https://coursemetry.com/25saat-c-sifirdan-ileri-seviyeye-uygulamali-programlama/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
