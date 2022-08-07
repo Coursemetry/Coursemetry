@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **39 Udemy free courses published so far on 2022-08-07**
+## **48 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -81,6 +81,24 @@
 * [Python for Object-Oriented Programming: The A-to-Z Course](https://coursemetry.com/python-for-object-oriented-programming-the-a-to-z-course/)
 
 * [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
+
+* [Breaking Bad Habits-take control & smash the ties that bind!](https://coursemetry.com/breaking-bad-habits-take-control-smash-the-ties-that-bind/)
+
+* [Applying Emotional Intelligence - Going Beyond the Basics](https://coursemetry.com/applying-emotional-intelligence-going-beyond-the-basics/)
+
+* [Re-New You - How to Renew, Regenerate and Redesign your life](https://coursemetry.com/re-new-you-how-to-renew-regenerate-and-redesign-your-life/)
+
+* [How to LOVE your day job and supercharge your LIFE](https://coursemetry.com/how-to-love-your-day-job-and-supercharge-your-life/)
+
+* [Adobe Premiere Pro CC Video Editing Course Beginners To Pro](https://coursemetry.com/adobe-premiere-pro-cc-video-editing-course-beginners-to-pro/)
+
+* [Excel Data Analysis With Pivot Tables & Pivot Charts - 2022](https://coursemetry.com/excel-data-analysis-with-pivot-tables-pivot-charts-2022/)
+
+* [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
+
+* [Tally ERP9 With GST Step By Step Guide From Basic to Advance](https://coursemetry.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/)
+
+* [C# ile Temel ve Orta Seviye Programlama](https://coursemetry.com/c-ile-temel-ve-orta-seviye-programlama/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
