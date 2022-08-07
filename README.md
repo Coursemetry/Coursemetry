@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **31 Udemy free courses published so far on 2022-08-07**
+## **39 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -65,6 +65,22 @@
 * [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
 
 * [Process Costing System-Cost Accounting-Managerial Accounting](https://coursemetry.com/process-costing-system-cost-accounting-managerial-accounting/)
+
+* [Machine Learning for Beginner](https://coursemetry.com/machine-learning-for-beginner/)
+
+* [Como crear y configurar tu canal de Youtube desde cero 2022](https://coursemetry.com/como-crear-y-configurar-tu-canal-de-youtube-desde-cero-2022/)
+
+* [Configuración y Optimizacion de tu Página de Facebook 2022](https://coursemetry.com/configuracion-y-optimizacion-de-tu-pagina-de-facebook-2022/)
+
+* [Estrategias Pro de Targeting de Audiencia con Facebook Ads](https://coursemetry.com/estrategias-pro-de-targeting-de-audiencia-con-facebook-ads/)
+
+* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+
+* [Ableton Workflow Masterclass - How To Make A Track A Day.](https://coursemetry.com/ableton-workflow-masterclass-how-to-make-a-track-a-day/)
+
+* [Python for Object-Oriented Programming: The A-to-Z Course](https://coursemetry.com/python-for-object-oriented-programming-the-a-to-z-course/)
+
+* [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
