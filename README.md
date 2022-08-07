@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **118 Udemy free courses published so far on 2022-08-07**
+## **144 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -239,6 +239,58 @@
 * [Fundamental of Embedded Operating Systems](https://coursemetry.com/fundamental-of-embedded-operating-systems/)
 
 * [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
+
+* [Crea una Api REST FULL completa con  PHP NATIVO](https://coursemetry.com/crea-una-api-rest-full-completa-con-php-nativo/)
+
+* [Python for Data Science - NumPy, Pandas & Scikit-Learn](https://coursemetry.com/python-for-data-science-numpy-pandas-scikit-learn/)
+
+* [350+ Exercises - Python Programming Mega Pack - Unit Tests](https://coursemetry.com/350-exercises-python-programming-mega-pack-unit-tests/)
+
+* [300+ Exercises - Python Programming Mega Pack - 2022](https://coursemetry.com/300-exercises-python-programming-mega-pack-2022/)
+
+* [Arabic language  full course : 'Byna yadek ' book](https://coursemetry.com/arabic-language-full-course-byna-yadek-book/)
+
+* [HTML and CSS Fundamentals For Absolute Beginners](https://coursemetry.com/html-and-css-fundamentals-for-absolute-beginners/)
+
+* [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
+
+* [Automate ReactJs & SpringBoot CICD Pipelines on AzureDevOps](https://coursemetry.com/automate-reactjs-springboot-cicd-pipelines-on-azuredevops/)
+
+* [AWS Certified Cloud Practitioner - Practice Exams - 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022-2/)
+
+* [350+ Exercises - Python Programming Mega Pack - OOP - 2022](https://coursemetry.com/350-exercises-python-programming-mega-pack-oop-2022/)
+
+* [HTML5 & CSS3 For Beginners](https://coursemetry.com/html5-css3-for-beginners/)
+
+* [Certified SQL Developer - Practice Tests - 2022](https://coursemetry.com/certified-sql-developer-practice-tests-2022/)
+
+* [Practical HTML5 Mastery Course](https://coursemetry.com/practical-html5-mastery-course/)
+
+* [Enable Any Frontend App with Login using Google & SpringBoot](https://coursemetry.com/enable-any-frontend-app-with-login-using-google-springboot/)
+
+* [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
+
+* [380+ Exercises - Python Programming Mega Pack - Built-in](https://coursemetry.com/380-exercises-python-programming-mega-pack-built-in/)
+
+* [English Grammar tenses & structures](https://coursemetry.com/english-grammar-tenses-structures/)
+
+* [Introducción a la Maquetación Web](https://coursemetry.com/introduccion-a-la-maquetacion-web/)
+
+* [CSS And JavaScript Complete Course For Beginners](https://coursemetry.com/css-and-javascript-complete-course-for-beginners/)
+
+* [Certified Data Scientist - Practice Tests - 2022](https://coursemetry.com/certified-data-scientist-practice-tests-2022/)
+
+* [SQL Bootcamp - SQLite - Hands-On Exercises](https://coursemetry.com/sql-bootcamp-sqlite-hands-on-exercises/)
+
+* [HTML5 & CSS3 for Beginners | The Ultimate Guide](https://coursemetry.com/html5-css3-for-beginners-the-ultimate-guide/)
+
+* [Deploy any MERN Stack App on Azure Cloud using CICD Pipeline](https://coursemetry.com/deploy-any-mern-stack-app-on-azure-cloud-using-cicd-pipeline/)
+
+* [SUPPLY CHAIN SKILLS : Logistics Optimization Tools](https://coursemetry.com/supply-chain-skills-logistics-optimization-tools/)
+
+* [Certified Git Software Developer - Practice Tests - 2022](https://coursemetry.com/certified-git-software-developer-practice-tests-2022/)
+
+* [Certified MongoDB Developer & Database Administrator Pack](https://coursemetry.com/certified-mongodb-developer-database-administrator-pack/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
