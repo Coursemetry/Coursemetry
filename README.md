@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-08-07**
+## **99 Udemy free courses published so far on 2022-08-07**
 
 * [The Complete Business Process Re-engineering Master Class](https://coursemetry.com/the-complete-business-process-re-engineering-master-class/)
 
@@ -189,6 +189,18 @@
 * [how to make social media post design in photoshop](https://coursemetry.com/how-to-make-social-media-post-design-in-photoshop/)
 
 * [Agile and Decision Making: Fortune 500 Leaders](https://coursemetry.com/agile-and-decision-making-fortune-500-leaders/)
+
+* [ICDL الرخصة الدولية لقيادة الحاسب الآلي](https://coursemetry.com/icdl-%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d9%84%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8-%d8%a7%d9%84%d8%a2%d9%84%d9%8a/)
+
+* [Make Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/make-money-copywriting-make-money-writing-copy-from-home/)
+
+* [PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://coursemetry.com/pspo1-practice-tests-scrum-product-owner-certification-160q/)
+
+* [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
+
+* [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
+
+* [Leadership in Kata Style](https://coursemetry.com/leadership-in-kata-style/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
