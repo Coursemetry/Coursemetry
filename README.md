@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-08-08**
+## **151 Udemy free courses published so far on 2022-08-08**
 
 * [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
@@ -253,6 +253,58 @@
 * [Complete Positive Thinking Course  -  Happiness Psychology](https://coursemetry.com/complete-positive-thinking-course-happiness-psychology/)
 
 * [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [Microsoft Power BI 2022: The Complete Guide](https://coursemetry.com/microsoft-power-bi-2022-the-complete-guide/)
+
+* [Leading SAFe 5.1 (SA)  Original new questions](https://coursemetry.com/leading-safe-5-1-sa-original-new-questions/)
+
+* [Power BI - Data Analytics Essentials with Power BI](https://coursemetry.com/power-bi-data-analytics-essentials-with-power-bi/)
+
+* [The Complete Google Sheets Course - Google Spreadsheet Tips](https://coursemetry.com/the-complete-google-sheets-course-google-spreadsheet-tips/)
+
+* [Make Your Excel Look Like a Standalone Program](https://coursemetry.com/make-your-excel-look-like-a-standalone-program/)
+
+* [The Complete Google Forms Course - Sending & Analyzing Forms](https://coursemetry.com/the-complete-google-forms-course-sending-analyzing-forms/)
+
+* [Curso de Guitarra para Zurdos. Nivel Básico](https://coursemetry.com/curso-de-guitarra-para-zurdos-nivel-basico/)
+
+* [Turn Followers to Customers: Instagram Marketing 2022](https://coursemetry.com/turn-followers-to-customers-instagram-marketing-2022/)
+
+* [The Comprehensive SQL Course](https://coursemetry.com/the-comprehensive-sql-course/)
+
+* [Hardening Ubuntu Server](https://coursemetry.com/hardening-ubuntu-server/)
+
+* [Ethical Hacking: boot2root CTF](https://coursemetry.com/ethical-hacking-boot2root-ctf/)
+
+* [Microsoft Teams para el control de la Clase.](https://coursemetry.com/microsoft-teams-para-el-control-de-la-clase/)
+
+* [Escritura de Guiones 101: Escritura de Grandes Personajes](https://coursemetry.com/escritura-de-guiones-101-escritura-de-grandes-personajes/)
+
+* [Autodesk Revit - beginner to an intermediate level](https://coursemetry.com/autodesk-revit-beginner-to-an-intermediate-level/)
+
+* [Become an Instagram Manager, from Beginner to Master, 2022](https://coursemetry.com/become-an-instagram-manager-from-beginner-to-master-2022/)
+
+* [Excel Accounting Problem](https://coursemetry.com/excel-accounting-problem/)
+
+* [Autodesk AutoCAD - Beginner to an advanced level](https://coursemetry.com/autodesk-autocad-beginner-to-an-advanced-level/)
+
+* [Ethical Hacking: File Inclusion](https://coursemetry.com/ethical-hacking-file-inclusion/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [AZ-900: Microsoft Azure Fundamentals Exam Certification 2022](https://coursemetry.com/az-900-microsoft-azure-fundamentals-exam-certification-2022/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Wordpress For Beginners](https://coursemetry.com/wordpress-for-beginners/)
+
+* [DP-203 : Data Engineering on Microsoft Azure Exams 2022](https://coursemetry.com/dp-203-data-engineering-on-microsoft-azure-exams-2022/)
+
+* [How to Create & Sell Digital Products Online for Beginners!](https://coursemetry.com/how-to-create-sell-digital-products-online-for-beginners/)
+
+* [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
+
+* [HTML Certification, Practice Test For Exams & Interviews](https://coursemetry.com/html-certification-practice-test-for-exams-interviews/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
