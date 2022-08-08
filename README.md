@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **68 Udemy free courses published so far on 2022-08-08**
+## **76 Udemy free courses published so far on 2022-08-08**
 
 * [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
@@ -139,6 +139,22 @@
 * [Microsoft AZ-104: Azure Administrator Exam Prep Test](https://coursemetry.com/microsoft-az-104-azure-administrator-exam-prep-test/)
 
 * [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
+
+* [Windows 11 : New Windows 11 Operating System by Microsoft](https://coursemetry.com/windows-11-new-windows-11-operating-system-by-microsoft/)
+
+* [QuickBooks Pro Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2022-2021-2020/)
+
+* [Tax Credits - Family & Dependent Tax Credits](https://coursemetry.com/tax-credits-family-dependent-tax-credits/)
+
+* [QuickBooks Desktop Pro-Personal Tax Tracking Tricks](https://coursemetry.com/quickbooks-desktop-pro-personal-tax-tracking-tricks/)
+
+* [Financial Accounting & Excel–Comprehensive Accounting Course](https://coursemetry.com/financial-accounting-excel-comprehensive-accounting-course/)
+
+* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+
+* [QuickBooks Online 2022 & 2021 Start to Finish](https://coursemetry.com/quickbooks-online-2022-2021-start-to-finish/)
+
+* [Office 2021 : New Microsoft Office 2021](https://coursemetry.com/office-2021-new-microsoft-office-2021/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
