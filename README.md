@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-08-08**
+## **104 Udemy free courses published so far on 2022-08-08**
 
 * [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
@@ -155,6 +155,62 @@
 * [QuickBooks Online 2022 & 2021 Start to Finish](https://coursemetry.com/quickbooks-online-2022-2021-start-to-finish/)
 
 * [Office 2021 : New Microsoft Office 2021](https://coursemetry.com/office-2021-new-microsoft-office-2021/)
+
+* [Frontend Development with ReactJS and Bootstrap](https://coursemetry.com/frontend-development-with-reactjs-and-bootstrap/)
+
+* [210+ Exercises - Python Standard Libraries - 2022](https://coursemetry.com/210-exercises-python-standard-libraries-2022/)
+
+* [100+ Exercises - Python - Data Science - scikit-learn - 2022](https://coursemetry.com/100-exercises-python-data-science-scikit-learn-2022/)
+
+* [100+ Exercises - Python - Data Science - NumPy - 2022](https://coursemetry.com/100-exercises-python-data-science-numpy-2022/)
+
+* [150+ Exercises - Data Structures in Python - Hands-On - 2022](https://coursemetry.com/150-exercises-data-structures-in-python-hands-on-2022/)
+
+* [Getting Started with Blockchain Solidity and Smart Contracts](https://coursemetry.com/getting-started-with-blockchain-solidity-and-smart-contracts/)
+
+* [Master HTML5 CSS3 Bootstrap5 by building Responsive Website](https://coursemetry.com/master-html5-css3-bootstrap5-by-building-responsive-website/)
+
+* [Learn Git without coding skills in 2022](https://coursemetry.com/learn-git-without-coding-skills-in-2022/)
+
+* [150+ Exercises - Object Oriented Programming in Python - OOP](https://coursemetry.com/150-exercises-object-oriented-programming-in-python-oop/)
+
+* [GCP Google Cloud Professional Data Engineer Certification](https://coursemetry.com/gcp-google-cloud-professional-data-engineer-certification/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part II - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-ii-2022/)
+
+* [Build a Google Meet Clone from Scratch: WebRTC & Socket io](https://coursemetry.com/build-a-google-meet-clone-from-scratch-webrtc-socket-io/)
+
+* [100+ Exercises - Advanced Python Programming - 2022](https://coursemetry.com/100-exercises-advanced-python-programming-2022/)
+
+* [PHP for Beginners: PHP Crash Course 2022](https://coursemetry.com/php-for-beginners-php-crash-course-2022/)
+
+* [200+ Exercises - Programming in Python - 2022](https://coursemetry.com/200-exercises-programming-in-python-2022/)
+
+* [A-Z | Sıfırdan İleri Seviyeye Python Programlama](https://coursemetry.com/a-z-sifirdan-ileri-seviyeye-python-programlama/)
+
+* [130+ Exercises - Python - Data Science - Pandas - 2022](https://coursemetry.com/130-exercises-python-data-science-pandas-2022/)
+
+* [SQL Bootcamp - Hands-On Exercises - SQLite - Part I - 2022](https://coursemetry.com/sql-bootcamp-hands-on-exercises-sqlite-part-i-2022/)
+
+* [Modern GUI Development with Python Flask & HTML](https://coursemetry.com/modern-gui-development-with-python-flask-html/)
+
+* [CSS Grid  (2022)](https://coursemetry.com/css-grid-2022/)
+
+* [Deploy any MERN Stack App on Azure Cloud using CICD Pipeline](https://coursemetry.com/deploy-any-mern-stack-app-on-azure-cloud-using-cicd-pipeline/)
+
+* [Enable Any Frontend App with Login using Google & SpringBoot](https://coursemetry.com/enable-any-frontend-app-with-login-using-google-springboot/)
+
+* [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
+
+* [A Complete Masterclass of Virtualization from scratch](https://coursemetry.com/a-complete-masterclass-of-virtualization-from-scratch/)
+
+* [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
+
+* [Automate ReactJs & SpringBoot CICD Pipelines on AzureDevOps](https://coursemetry.com/automate-reactjs-springboot-cicd-pipelines-on-azuredevops/)
+
+* [Practical JavaScript & ES6 Mastery with Projects](https://coursemetry.com/practical-javascript-es6-mastery-with-projects/)
+
+* [Practical HTML5 Mastery Course](https://coursemetry.com/practical-html5-mastery-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
