@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **170 Udemy free courses published so far on 2022-08-08**
+## **175 Udemy free courses published so far on 2022-08-08**
 
 * [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
@@ -343,6 +343,16 @@
 * [Rusça Günlük Konuşma Kılavuzu](https://coursemetry.com/rusca-gunluk-konusma-kilavuzu/)
 
 * [Cambridge English C1 (CAE) - Speaking - The Ultimate Guide](https://coursemetry.com/cambridge-english-c1-cae-speaking-the-ultimate-guide/)
+
+* [Unity C# 2d- Memory Matching Game](https://coursemetry.com/unity-c-2d-memory-matching-game/)
+
+* [Audiobook Marketing Mastery 2022](https://coursemetry.com/audiobook-marketing-mastery-2022/)
+
+* [Okta, Blockchain, NFTs & Cyber Kill Chain- 4 in 1 course](https://coursemetry.com/okta-blockchain-nfts-cyber-kill-chain-4-in-1-course/)
+
+* [Cyberchef, Cyber AI, QRadar & Quantum Computing- Basics](https://coursemetry.com/cyberchef-cyber-ai-qradar-quantum-computing-basics/)
+
+* [Brain Computer Interfacing using Neuromorphic Computing](https://coursemetry.com/brain-computer-interfacing-using-neuromorphic-computing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
