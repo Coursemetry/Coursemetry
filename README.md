@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **175 Udemy free courses published so far on 2022-08-08**
+## **187 Udemy free courses published so far on 2022-08-08**
 
 * [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
@@ -353,6 +353,30 @@
 * [Cyberchef, Cyber AI, QRadar & Quantum Computing- Basics](https://coursemetry.com/cyberchef-cyber-ai-qradar-quantum-computing-basics/)
 
 * [Brain Computer Interfacing using Neuromorphic Computing](https://coursemetry.com/brain-computer-interfacing-using-neuromorphic-computing/)
+
+* [Learn SQL for Beginners :  SQL Basics](https://coursemetry.com/learn-sql-for-beginners-sql-basics/)
+
+* [C++ |Sıfırdan Komple Uygulamalı Nesneye Yönelik Programlama](https://coursemetry.com/c-sifirdan-komple-uygulamali-nesneye-yonelik-programlama/)
+
+* [Unity C# | 2D Oyun Geliştirme Eğitimi](https://coursemetry.com/unity-c-2d-oyun-gelistirme-egitimi/)
+
+* [Arduino Simulation](https://coursemetry.com/arduino-simulation/)
+
+* [Universidad Python con Frameworks Django, Flask, etc. +71hrs](https://coursemetry.com/universidad-python-con-frameworks-django-flask-etc-71hrs/)
+
+* [Universidad Spring - Spring Framework y Spring Boot!](https://coursemetry.com/universidad-spring-spring-framework-y-spring-boot/)
+
+* [Universidad Excel - Básico, Intermedio y Avanzado!](https://coursemetry.com/universidad-excel-basico-intermedio-y-avanzado/)
+
+* [Universidad HTML - Aprende HTML desde Cero hasta Experto](https://coursemetry.com/universidad-html-aprende-html-desde-cero-hasta-experto/)
+
+* [Universidad JavaScript - De Cero a Experto JavaScript!](https://coursemetry.com/universidad-javascript-de-cero-a-experto-javascript/)
+
+* [Universidad Angular - De Cero a Experto en Angular!](https://coursemetry.com/universidad-angular-de-cero-a-experto-en-angular/)
+
+* [Universidad Desarrollo Web - FrontEnd Web Developer!](https://coursemetry.com/universidad-desarrollo-web-frontend-web-developer/)
+
+* [Universidad CSS - Aprende CSS desde Cero hasta Experto!](https://coursemetry.com/universidad-css-aprende-css-desde-cero-hasta-experto/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
