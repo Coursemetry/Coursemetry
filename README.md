@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **161 Udemy free courses published so far on 2022-08-08**
+## **170 Udemy free courses published so far on 2022-08-08**
 
 * [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
@@ -325,6 +325,24 @@
 * [Oracle 21c  Express  Setup with TOAD and SQL Developer](https://coursemetry.com/oracle-21c-express-setup-with-toad-and-sql-developer/)
 
 * [IPv4 Tutorial](https://coursemetry.com/ipv4-tutorial/)
+
+* [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
+
+* [İngilizce Kursu A1 Hikaye Çevirisi: Blue Moon Beach](https://coursemetry.com/ingilizce-kursu-a1-hikaye-cevirisi-blue-moon-beach/)
+
+* [Amazon FBA Mastery 2022](https://coursemetry.com/amazon-fba-mastery-2022/)
+
+* [Bitcoin - Blockchain - Temel ve Teknik Analiz Eğitimi](https://coursemetry.com/bitcoin-blockchain-temel-ve-teknik-analiz-egitimi/)
+
+* [İngilizce Kursu A1 Hikaye Çevirisi: Sister Love](https://coursemetry.com/ingilizce-kursu-a1-hikaye-cevirisi-sister-love/)
+
+* [Fundamental of Embedded Systems](https://coursemetry.com/fundamental-of-embedded-systems/)
+
+* [English Grammar tenses & structures](https://coursemetry.com/english-grammar-tenses-structures/)
+
+* [Rusça Günlük Konuşma Kılavuzu](https://coursemetry.com/rusca-gunluk-konusma-kilavuzu/)
+
+* [Cambridge English C1 (CAE) - Speaking - The Ultimate Guide](https://coursemetry.com/cambridge-english-c1-cae-speaking-the-ultimate-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
