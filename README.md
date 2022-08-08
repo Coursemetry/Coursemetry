@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **151 Udemy free courses published so far on 2022-08-08**
+## **161 Udemy free courses published so far on 2022-08-08**
 
 * [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
@@ -305,6 +305,26 @@
 * [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
 
 * [HTML Certification, Practice Test For Exams & Interviews](https://coursemetry.com/html-certification-practice-test-for-exams-interviews/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Python Performance Optimization](https://coursemetry.com/python-performance-optimization/)
+
+* [[NEW] Oracle Cloud Infrastructure Foundations 2022 Associate](https://coursemetry.com/new-oracle-cloud-infrastructure-foundations-2022-associate/)
+
+* [Asteroids with Python PyGame](https://coursemetry.com/asteroids-with-python-pygame/)
+
+* [Cyber Security: Intermediate Linux Commands](https://coursemetry.com/cyber-security-intermediate-linux-commands/)
+
+* [Amazon AWS Certified Database - Specialty Exam Practice 2022](https://coursemetry.com/amazon-aws-certified-database-specialty-exam-practice-2022/)
+
+* [MySQL Database Backup and Restore for beginners](https://coursemetry.com/mysql-database-backup-and-restore-for-beginners/)
+
+* [Microsoft SQL Server Backup and Recovery for beginners](https://coursemetry.com/microsoft-sql-server-backup-and-recovery-for-beginners/)
+
+* [Oracle 21c  Express  Setup with TOAD and SQL Developer](https://coursemetry.com/oracle-21c-express-setup-with-toad-and-sql-developer/)
+
+* [IPv4 Tutorial](https://coursemetry.com/ipv4-tutorial/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
