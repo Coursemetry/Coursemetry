@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published so far on 2022-08-09**
+## **123 Udemy free courses published so far on 2022-08-09**
 
 * [Affiliate Networking Mastery 2022](https://coursemetry.com/affiliate-networking-mastery-2022/)
 
@@ -241,6 +241,14 @@
 * [Convolutional Neural Networks in Python: CNN Computer Vision](https://coursemetry.com/convolutional-neural-networks-in-python-cnn-computer-vision/)
 
 * [Le Guide Définitif du Développement Web HTML.](https://coursemetry.com/le-guide-definitif-du-developpement-web-html/)
+
+* [Learn in 108 mins how to Find the Right Jobs thru Networking](https://coursemetry.com/learn-in-108-mins-how-to-find-the-right-jobs-thru-networking/)
+
+* [Drupal For Absolute Beginners (2022)](https://coursemetry.com/drupal-for-absolute-beginners-2022/)
+
+* [Complete Wordpress Website Developer Course](https://coursemetry.com/complete-wordpress-website-developer-course/)
+
+* [सीखें Javascript Programming हिन्दी में](https://coursemetry.com/%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-javascript-programming-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
