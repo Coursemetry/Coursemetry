@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published so far on 2022-08-09**
+## **119 Udemy free courses published so far on 2022-08-09**
 
 * [Affiliate Networking Mastery 2022](https://coursemetry.com/affiliate-networking-mastery-2022/)
 
@@ -199,6 +199,48 @@
 * [YouTube Thumbnail Masterclass / Ultimate Guide to Thumbnails](https://coursemetry.com/youtube-thumbnail-masterclass-ultimate-guide-to-thumbnails/)
 
 * [Water & Electrolyte Balance -MCQ Practice Exams-Biochemistry](https://coursemetry.com/water-electrolyte-balance-mcq-practice-exams-biochemistry/)
+
+* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
+
+* [Create a WordPress website with Hostinger!](https://coursemetry.com/create-a-wordpress-website-with-hostinger/)
+
+* [Statistics for Business Analytics using MS Excel](https://coursemetry.com/statistics-for-business-analytics-using-ms-excel/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Atlassian Confluence A-Z: Confluence for New Users](https://coursemetry.com/atlassian-confluence-a-z-confluence-for-new-users/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [RESİM KURSU YAĞLIBOYA BAŞLANGIÇ DERSİ (MANZARA ÇALIŞMASI)](https://coursemetry.com/resim-kursu-yagliboya-baslangic-dersi-manzara-calismasi/)
+
+* [Aprendizaje Efectivo sin Estrés para Adultos](https://coursemetry.com/aprendizaje-efectivo-sin-estres-para-adultos/)
+
+* [Time Series Analysis and Forecasting using Python](https://coursemetry.com/time-series-analysis-and-forecasting-using-python/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Fiverr HACKS to Become a Top-Level Freelancer with No Skills](https://coursemetry.com/fiverr-hacks-to-become-a-top-level-freelancer-with-no-skills/)
+
+* [Microsoft Excel Masterclass for Business Managers](https://coursemetry.com/microsoft-excel-masterclass-for-business-managers/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z](https://coursemetry.com/sql-for-data-analytics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-sql-a-z/)
+
+* [Content Marketing Masterclass](https://coursemetry.com/content-marketing-masterclass/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [Convolutional Neural Networks in Python: CNN Computer Vision](https://coursemetry.com/convolutional-neural-networks-in-python-cnn-computer-vision/)
+
+* [Le Guide Définitif du Développement Web HTML.](https://coursemetry.com/le-guide-definitif-du-developpement-web-html/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
