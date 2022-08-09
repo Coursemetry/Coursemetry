@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-08-09**
+## **98 Udemy free courses published so far on 2022-08-09**
 
 * [Affiliate Networking Mastery 2022](https://coursemetry.com/affiliate-networking-mastery-2022/)
 
@@ -197,6 +197,8 @@
 * [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
 
 * [YouTube Thumbnail Masterclass / Ultimate Guide to Thumbnails](https://coursemetry.com/youtube-thumbnail-masterclass-ultimate-guide-to-thumbnails/)
+
+* [Water & Electrolyte Balance -MCQ Practice Exams-Biochemistry](https://coursemetry.com/water-electrolyte-balance-mcq-practice-exams-biochemistry/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
