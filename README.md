@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **123 Udemy free courses published so far on 2022-08-09**
+## **176 Udemy free courses published so far on 2022-08-09**
 
 * [Affiliate Networking Mastery 2022](https://coursemetry.com/affiliate-networking-mastery-2022/)
 
@@ -249,6 +249,112 @@
 * [Complete Wordpress Website Developer Course](https://coursemetry.com/complete-wordpress-website-developer-course/)
 
 * [सीखें Javascript Programming हिन्दी में](https://coursemetry.com/%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-javascript-programming-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [AZ-305 : Designing Microsoft Azure Infrastructure Solution](https://coursemetry.com/az-305-designing-microsoft-azure-infrastructure-solution/)
+
+* [Improve English by Movies](https://coursemetry.com/improve-english-by-movies/)
+
+* [Android Penetration Testing 101](https://coursemetry.com/android-penetration-testing-101/)
+
+* [Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://coursemetry.com/freelancing-37-ways-to-make-money-from-home-as-a-freelancer/)
+
+* [Curso de Automatización en Python](https://coursemetry.com/curso-de-automatizacion-en-python/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [Master the College Essay: The Core Four of Academic Writing](https://coursemetry.com/master-the-college-essay-the-core-four-of-academic-writing/)
+
+* [Machine Learning con Python](https://coursemetry.com/machine-learning-con-python/)
+
+* [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
+
+* [Linux Security](https://coursemetry.com/linux-security/)
+
+* [Ethical Hacking: Linux Privilege Escalation](https://coursemetry.com/ethical-hacking-linux-privilege-escalation/)
+
+* [Análisis de datos con Google Data Studio](https://coursemetry.com/analisis-de-datos-con-google-data-studio/)
+
+* [DP-900 Practice Test only REAL QUESTIONS Microsoft Certified](https://coursemetry.com/dp-900-practice-test-only-real-questions-microsoft-certified/)
+
+* [Cómo vivir de la Internet y no fallar en el intento](https://coursemetry.com/como-vivir-de-la-internet-y-no-fallar-en-el-intento/)
+
+* [AZ-500 : Microsoft Azure Security Technologies Exams 2022](https://coursemetry.com/az-500-microsoft-azure-security-technologies-exams-2022/)
+
+* [Open-Source Intelligence (OSINT)](https://coursemetry.com/open-source-intelligence-osint/)
+
+* [Personal Capital Free Financial Planner Application](https://coursemetry.com/personal-capital-free-financial-planner-application/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Tests - AUG 22](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-aug-22/)
+
+* [AZ-204 : Developing Solutions for Microsoft Azure Exams 2022](https://coursemetry.com/az-204-developing-solutions-for-microsoft-azure-exams-2022/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [Unrevealed Secret Dos commands for Ethical Hackers in 2022](https://coursemetry.com/unrevealed-secret-dos-commands-for-ethical-hackers-in-2022/)
+
+* [Oracle Autonomous Database 2022 Specialist (1Z0-931-22)](https://coursemetry.com/oracle-autonomous-database-2022-specialist-1z0-931-22/)
+
+* [Create Ecommerce Website In WordPress (Hindi)](https://coursemetry.com/create-ecommerce-website-in-wordpress-hindi/)
+
+* [WebDevelopment in HINDI using HTML and CSS for Beginner 2021](https://coursemetry.com/webdevelopment-in-hindi-using-html-and-css-for-beginner-2021/)
+
+* [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
+
+* [Money In Excel - Income Tax Sch. C & Personal Financials](https://coursemetry.com/money-in-excel-income-tax-sch-c-personal-financials/)
+
+* [Technical Java Interview Prep for IT professionals](https://coursemetry.com/technical-java-interview-prep-for-it-professionals/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
+
+* [Introduction To SEO Based Content Writing (Hindi)](https://coursemetry.com/introduction-to-seo-based-content-writing-hindi/)
+
+* [Python 3: Análisis y visualización de datos](https://coursemetry.com/python-3-analisis-y-visualizacion-de-datos/)
+
+* [JavaScript: Desde cero con NodeJS](https://coursemetry.com/javascript-desde-cero-con-nodejs/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
+
+* [Python 3: Desde cero para principiantes](https://coursemetry.com/python-3-desde-cero-para-principiantes/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Residential Rental Property Tax Preparation 2021-2022](https://coursemetry.com/residential-rental-property-tax-preparation-2021-2022/)
+
+* [Microsoft Excel: Desde cero para profesionales](https://coursemetry.com/microsoft-excel-desde-cero-para-profesionales/)
+
+* [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
+
+* [Crea tu primer juego con Pygame](https://coursemetry.com/crea-tu-primer-juego-con-pygame/)
+
+* [Cyber Security: Phishing](https://coursemetry.com/cyber-security-phishing/)
+
+* [1Z0-1067-22 Oracle OCI 2022 Cloud Operations Associate](https://coursemetry.com/1z0-1067-22-oracle-oci-2022-cloud-operations-associate/)
+
+* [Crea una Api REST FULL completa con  PHP NATIVO](https://coursemetry.com/crea-una-api-rest-full-completa-con-php-nativo/)
+
+* [Excel VBA Advanced - Weniger Fehler durch schlaue Abläufe](https://coursemetry.com/excel-vba-advanced-weniger-fehler-durch-schlaue-ablaufe/)
+
+* [DP-900 Microsoft Azure Data Fundamentals Practice Test AUG22](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-test-aug22/)
+
+* [MongoDB: Aprende desde cero a experto](https://coursemetry.com/mongodb-aprende-desde-cero-a-experto/)
+
+* [Virtualization Fundamentals With VMware vSphere Example](https://coursemetry.com/virtualization-fundamentals-with-vmware-vsphere-example/)
+
+* [Data Analysis Project in Python](https://coursemetry.com/data-analysis-project-in-python/)
+
+* [How to Get a Literary Agent For Your Book](https://coursemetry.com/how-to-get-a-literary-agent-for-your-book/)
+
+* [Creating a Website in 1 Hour - WordPress, Elementor, & UX](https://coursemetry.com/creating-a-website-in-1-hour-wordpress-elementor-ux/)
+
+* [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
