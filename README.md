@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published so far on 2022-08-09**
+## **97 Udemy free courses published so far on 2022-08-09**
 
 * [Affiliate Networking Mastery 2022](https://coursemetry.com/affiliate-networking-mastery-2022/)
 
@@ -191,6 +191,12 @@
 * [Fundamentals of PN Junction Diode](https://coursemetry.com/fundamentals-of-pn-junction-diode/)
 
 * [Basics of Database Design & Development](https://coursemetry.com/basics-of-database-design-development/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+
+* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
+
+* [YouTube Thumbnail Masterclass / Ultimate Guide to Thumbnails](https://coursemetry.com/youtube-thumbnail-masterclass-ultimate-guide-to-thumbnails/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
