@@ -2,93 +2,73 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **194 Udemy free courses published so far on 2022-08-11**
+## **33 Udemy free courses published so far on 2022-08-12**
 
-* [The Complete Java Game Development Course for 2022](https://coursemetry.com/the-complete-java-game-development-course-for-2022/)
+* [Work Smarter Not Harder - Modern Productivity Hacks for Life](https://coursemetry.com/work-smarter-not-harder-modern-productivity-hacks-for-life/)
 
-* [Investing 101 Made Super Easy for Beginners](https://coursemetry.com/investing-101-made-super-easy-for-beginners/)
+* [Introducción a la Maquetación Web](https://coursemetry.com/introduccion-a-la-maquetacion-web/)
 
-* [Podcasting Success Strategies: Get Podcast Sponsorships ](https://coursemetry.com/podcasting-success-strategies-get-podcast-sponsorships/)
+* [Python And Flask  Demonstrations Practice Course](https://coursemetry.com/python-and-flask-demonstrations-practice-course/)
 
-* [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
+* [Python for Object-Oriented Programming: The A-to-Z Course](https://coursemetry.com/python-for-object-oriented-programming-the-a-to-z-course/)
 
-* [Learn E-Way Bill on Govt Portal 2021 - Certificate Course](https://coursemetry.com/learn-e-way-bill-on-govt-portal-2021-certificate-course/)
+* [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
-* [Adobe Illustrator Basics Guide 2022](https://coursemetry.com/adobe-illustrator-basics-guide-2022/)
+* [End Procrastination and Achieve Your Dream Life](https://coursemetry.com/end-procrastination-and-achieve-your-dream-life/)
 
-* [Adobe Creative Cloud Ultimate Guide 2022](https://coursemetry.com/adobe-creative-cloud-ultimate-guide-2022/)
+* [Money Management 101-Personal Finance Skills for Millennials](https://coursemetry.com/money-management-101-personal-finance-skills-for-millennials/)
 
-* [Media Training: Look Your Best-Get the Exact Quotes You Want](https://coursemetry.com/media-training-look-your-best-get-the-exact-quotes-you-want/)
+* [Adobe Audition Basics Guide 2022](https://coursemetry.com/adobe-audition-basics-guide-2022/)
 
-* [Corp Finance #12 Capital Budgeting & Investment Risk Tools](https://coursemetry.com/corp-finance-12-capital-budgeting-investment-risk-tools/)
+* [تعلم لغة البرمجة جافا من الصفر إلى مرحلة متقدمة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%ac%d8%a7%d9%81%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%a5%d9%84%d9%89-%d9%85%d8%b1%d8%ad%d9%84/)
 
-* [Bilgisayar Mühendisliğinde Sayısal Yöntemler(Nümerik Analiz)](https://coursemetry.com/bilgisayar-muhendisliginde-sayisal-yontemlernumerik-analiz/)
+* [Introduction to Domain Names and Web Hosting - Quick Guide](https://coursemetry.com/introduction-to-domain-names-and-web-hosting-quick-guide/)
 
-* [Media Training: You Can Be a Media Trainer](https://coursemetry.com/media-training-you-can-be-a-media-trainer/)
+* [NGINX, Apache, SSL Encryption - Certification Course](https://coursemetry.com/nginx-apache-ssl-encryption-certification-course/)
 
-* [Income Tax – Schedule C Small Business Sole Proprietor](https://coursemetry.com/income-tax-schedule-c-small-business-sole-proprietor/)
+* [Complete Excel Megacourse: Beginner to Expert](https://coursemetry.com/complete-excel-megacourse-beginner-to-expert/)
 
-* [Website Flipping Basics Guide 2022](https://coursemetry.com/website-flipping-basics-guide-2022/)
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
 
-* [Adobe InDesign Ultimate Guide 2022](https://coursemetry.com/adobe-indesign-ultimate-guide-2022/)
+* [Team Management Skills for Building High Performance Teams](https://coursemetry.com/team-management-skills-for-building-high-performance-teams/)
 
-* [Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor](https://coursemetry.com/job-cost-quickbooks-online-vs-quickbooks-desktop-contractor/)
+* [Gmail Ultimate Guide 2022](https://coursemetry.com/gmail-ultimate-guide-2022/)
 
-* [Biçimsel Diller ve Otomata Teorisi](https://coursemetry.com/bicimsel-diller-ve-otomata-teorisi/)
+* [Real Fast Podcast into Best Selling Kindle Books Easily](https://coursemetry.com/real-fast-podcast-into-best-selling-kindle-books-easily/)
 
-* [Matematicas Financieras](https://coursemetry.com/matematicas-financieras/)
+* [Git Bash Basics Guide 2022](https://coursemetry.com/git-bash-basics-guide-2022/)
 
-* [SAP SD - S/4HANA / Fiori](https://coursemetry.com/sap-sd-s-4hana-fiori/)
+* [Learn to Edit Video FAST! Adobe Premiere Pro 2022 StepByStep](https://coursemetry.com/learn-to-edit-video-fast-adobe-premiere-pro-2022-stepbystep/)
 
-* [Power BI - Data Analytics Essentials with Power BI](https://coursemetry.com/power-bi-data-analytics-essentials-with-power-bi/)
+* [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
 
-* [Adobe Color Basics Guide 2022](https://coursemetry.com/adobe-color-basics-guide-2022/)
+* [How to VLOG 2022 : Complete Beginners Course +YouTube](https://coursemetry.com/how-to-vlog-2022-complete-beginners-course-youtube/)
 
-* [Corporate Finance #8 Time Value of Money (PV & FV)](https://coursemetry.com/corporate-finance-8-time-value-of-money-pv-fv/)
+* [Create a Members Only Blog using PHP, MySQL, & AJAX](https://coursemetry.com/create-a-members-only-blog-using-php-mysql-ajax/)
 
-* [Get a Sales Video That CONVERTS in One Hour (or Less)!](https://coursemetry.com/get-a-sales-video-that-converts-in-one-hour-or-less/)
+* [Become a Pro WordPress Freelancer & Get Web Design Clients](https://coursemetry.com/become-a-pro-wordpress-freelancer-get-web-design-clients/)
 
-* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+* [Adobe Animate Basics Guide 2022](https://coursemetry.com/adobe-animate-basics-guide-2022/)
 
-* [SANAL PİLOTLUĞA GİRİŞ ve "Boeing 737-800 TİP EĞİTİMİ"](https://coursemetry.com/sanal-pilotluga-giris-ve-boeing-737-800-tip-egitimi/)
+* [GitHub Basics Guide 2022](https://coursemetry.com/github-basics-guide-2022/)
 
-* [[Master Class] : Les Secrets de La Vente - Techniques et KPI](https://coursemetry.com/master-class-les-secrets-de-la-vente-techniques-et-kpi/)
+* [Setup a Virtual Web Server using Linode or Digital Ocean](https://coursemetry.com/setup-a-virtual-web-server-using-linode-or-digital-ocean/)
 
-* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+* [تعلم تصميم وتطوير مواقع الويب باحترافية](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d8%a8%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
 
-* [Web Development Ultimate Guide 2022](https://coursemetry.com/web-development-ultimate-guide-2022/)
+* [The Complete Angular Course 2022 [Arabic]](https://coursemetry.com/the-complete-angular-course-2022-arabic/)
 
-* [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
+* [Create & Sell In-Demand Online Courses - Complete Roadmap](https://coursemetry.com/create-sell-in-demand-online-courses-complete-roadmap/)
 
-* [Corp. Finance #14 Financing-Commons Stock & Preferred Stock](https://coursemetry.com/corp-finance-14-financing-commons-stock-preferred-stock/)
+* [CSS, JavaScript And Python Complete Course](https://coursemetry.com/css-javascript-and-python-complete-course/)
 
-* [Tally Erp 9 + Tally Prime + GST  2022 - Certificate Course](https://coursemetry.com/tally-erp-9-tally-prime-gst-2022-certificate-course/)
+* [Microsoft SQL Server 2016 Certification (70-764) Advance](https://coursemetry.com/microsoft-sql-server-2016-certification-70-764-advance/)
 
-* [Corp Finance #17 Merger, Acquisition & Foreign Currency](https://coursemetry.com/corp-finance-17-merger-acquisition-foreign-currency/)
+* [Erfolgreiches Podcasting & Podcast Hosting](https://coursemetry.com/erfolgreiches-podcasting-podcast-hosting/)
 
-* [Trading options is WAY BETTER than trading stocks!](https://coursemetry.com/trading-options-is-way-better-than-trading-stocks/)
+* [Complete Cubase Megacourse: Beginner to Expert](https://coursemetry.com/complete-cubase-megacourse-beginner-to-expert/)
 
-* [Containerize SpringBoot Node Express Apps & Deploy on Azure](https://coursemetry.com/containerize-springboot-node-express-apps-deploy-on-azure/)
-
-* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
-
-* [Learn 10 Ways to Make MORE Money on YouTube!](https://coursemetry.com/learn-10-ways-to-make-more-money-on-youtube/)
-
-* [Adobe Character Animator Basics Guide 2022](https://coursemetry.com/adobe-character-animator-basics-guide-2022/)
-
-* [Anti-Money Laundering Concepts: AML, KYC and Compliance](https://coursemetry.com/anti-money-laundering-concepts-aml-kyc-and-compliance/)
-
-* [Ortaçağ Patristik (Kilise) Felsefesi](https://coursemetry.com/ortacag-patristik-kilise-felsefesi/)
-
-* [Python 3 Ultimate Guide 2022](https://coursemetry.com/python-3-ultimate-guide-2022/)
-
-* [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
-
-* [Introduccion a la Contabilidad](https://coursemetry.com/introduccion-a-la-contabilidad/)
-
-* [Adobe Behance Basics Guide 2022](https://coursemetry.com/adobe-behance-basics-guide-2022/)
-
-* [Visual Studio Code Ultimate Guide 2022](https://coursemetry.com/visual-studio-code-ultimate-guide-2022/)
+* [Make YouTube Thumbnails & Get More Views (Photoshop +Online)](https://coursemetry.com/make-youtube-thumbnails-get-more-views-photoshop-online/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
