@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **140 Udemy free courses published so far on 2022-08-12**
+## **150 Udemy free courses published so far on 2022-08-12**
 
 * [Work Smarter Not Harder - Modern Productivity Hacks for Life](https://coursemetry.com/work-smarter-not-harder-modern-productivity-hacks-for-life/)
 
@@ -283,6 +283,26 @@
 * [How to Pitch Your Filmmaking Projects to Investors & Netflix](https://coursemetry.com/how-to-pitch-your-filmmaking-projects-to-investors-netflix/)
 
 * [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Adobe Lightroom For Beginners : Complete Photo/Image Editing](https://coursemetry.com/adobe-lightroom-for-beginners-complete-photo-image-editing/)
+
+* [SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1](https://coursemetry.com/sql-bootcamp-with-mysql-php-python-5-courses-in-1/)
+
+* [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
+
+* [Beginner To Pro Mobile Video Editing Complete Course](https://coursemetry.com/beginner-to-pro-mobile-video-editing-complete-course/)
+
+* [Metaverse: GANGough, NFTs, Artyfact Fi, XKiosks & Open GL](https://coursemetry.com/metaverse-gangough-nfts-artyfact-fi-xkiosks-open-gl/)
+
+* [Launch your own Digital Product](https://coursemetry.com/launch-your-own-digital-product/)
+
+* [DP-900: Microsoft Azure Data Fundamentals Practice Tests](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-tests/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [Google Cloud Workshop for Semiconductor  Workloads](https://coursemetry.com/google-cloud-workshop-for-semiconductor-workloads/)
+
+* [تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a8%d9%84%d8%ba%d8%a9-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ae%d8%b7%d9%88%d8%a9/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
