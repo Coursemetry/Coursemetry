@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **33 Udemy free courses published so far on 2022-08-12**
+## **52 Udemy free courses published so far on 2022-08-12**
 
 * [Work Smarter Not Harder - Modern Productivity Hacks for Life](https://coursemetry.com/work-smarter-not-harder-modern-productivity-hacks-for-life/)
 
@@ -69,6 +69,44 @@
 * [Complete Cubase Megacourse: Beginner to Expert](https://coursemetry.com/complete-cubase-megacourse-beginner-to-expert/)
 
 * [Make YouTube Thumbnails & Get More Views (Photoshop +Online)](https://coursemetry.com/make-youtube-thumbnails-get-more-views-photoshop-online/)
+
+* [Fundraising: 10+ Fundraising Ideas For Raising Capital](https://coursemetry.com/fundraising-10-fundraising-ideas-for-raising-capital/)
+
+* [Master Persuasion & Influence: Hypnotic Communication Skills](https://coursemetry.com/master-persuasion-influence-hypnotic-communication-skills/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [HTML, CSS, & JavaScript - Certification Course for Beginners](https://coursemetry.com/html-css-javascript-certification-course-for-beginners/)
+
+* [Write Dreamy, Heartfelt, Soulful Poetry - Creative Writing](https://coursemetry.com/write-dreamy-heartfelt-soulful-poetry-creative-writing/)
+
+* [Solidity Interview Questions & Practice Tests (updated 2022)](https://coursemetry.com/solidity-interview-questions-practice-tests-updated-2022/)
+
+* [Python Practice Tests & Interview Questions (Basic/Advanced)](https://coursemetry.com/python-practice-tests-interview-questions-basic-advanced/)
+
+* [Poetry and music appreciation: refine your taste in music](https://coursemetry.com/poetry-and-music-appreciation-refine-your-taste-in-music/)
+
+* [Ubuntu Linux Desktop Basics](https://coursemetry.com/ubuntu-linux-desktop-basics/)
+
+* [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
+
+* [HTML, JavaScript, & Bootstrap - Certification Course](https://coursemetry.com/html-javascript-bootstrap-certification-course/)
+
+* [Leadership Essentials for Emerging Leaders](https://coursemetry.com/leadership-essentials-for-emerging-leaders/)
+
+* [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
+
+* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
+
+* [Git &Github Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/git-github-practice-tests-interview-questions-basic-adv/)
+
+* [Shopify guide: The complete shopify store creation course](https://coursemetry.com/shopify-guide-the-complete-shopify-store-creation-course/)
+
+* [Quantum Computing Fundamentals with Microsoft Azure Quantum](https://coursemetry.com/quantum-computing-fundamentals-with-microsoft-azure-quantum/)
+
+* [Emotional Intelligence for Software Engineers and Developers](https://coursemetry.com/emotional-intelligence-for-software-engineers-and-developers/)
+
+* [Self Confidence & Self Esteem: Confidence Via Self-Awareness](https://coursemetry.com/self-confidence-self-esteem-confidence-via-self-awareness/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
