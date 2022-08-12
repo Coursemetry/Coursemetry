@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published so far on 2022-08-12**
+## **99 Udemy free courses published so far on 2022-08-12**
 
 * [Work Smarter Not Harder - Modern Productivity Hacks for Life](https://coursemetry.com/work-smarter-not-harder-modern-productivity-hacks-for-life/)
 
@@ -175,6 +175,32 @@
 * [Adobe Bridge Basics Guide 2022](https://coursemetry.com/adobe-bridge-basics-guide-2022/)
 
 * [Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests](https://coursemetry.com/web-3-0-blockchain-smart-contracts-crypto-practice-tests/)
+
+* [Create & sell your first digital product](https://coursemetry.com/create-sell-your-first-digital-product/)
+
+* [Master your content for busy entrepreneurs](https://coursemetry.com/master-your-content-for-busy-entrepreneurs/)
+
+* [SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP](https://coursemetry.com/sap-project-essentials-implementing-sap-s-4hana-and-sap-erp/)
+
+* [Affiliate marketing success for busy entrepreneurs](https://coursemetry.com/affiliate-marketing-success-for-busy-entrepreneurs/)
+
+* [MCIA-MuleSoft Certified Integration Architect Practice Exams](https://coursemetry.com/mcia-mulesoft-certified-integration-architect-practice-exams-2/)
+
+* [Goal setting for success seekers - set the right goals](https://coursemetry.com/goal-setting-for-success-seekers-set-the-right-goals/)
+
+* [Python Programming Complete Beginners Course Bootcamp 2022](https://coursemetry.com/python-programming-complete-beginners-course-bootcamp-2022/)
+
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
+
+* [Microsoft SC-900 Exam Preparation - NEW](https://coursemetry.com/microsoft-sc-900-exam-preparation-new/)
+
+* [Journal your way to your dream life](https://coursemetry.com/journal-your-way-to-your-dream-life/)
+
+* [Online marketing for introverts](https://coursemetry.com/online-marketing-for-introverts/)
+
+* [Mindset makeover - from distraction to action](https://coursemetry.com/mindset-makeover-from-distraction-to-action/)
+
+* [poultry farming Bacterial diseases hindering satisfying prod](https://coursemetry.com/poultry-farming-bacterial-diseases-hindering-satisfying-prod/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
