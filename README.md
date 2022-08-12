@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **99 Udemy free courses published so far on 2022-08-12**
+## **119 Udemy free courses published so far on 2022-08-12**
 
 * [Work Smarter Not Harder - Modern Productivity Hacks for Life](https://coursemetry.com/work-smarter-not-harder-modern-productivity-hacks-for-life/)
 
@@ -201,6 +201,46 @@
 * [Mindset makeover - from distraction to action](https://coursemetry.com/mindset-makeover-from-distraction-to-action/)
 
 * [poultry farming Bacterial diseases hindering satisfying prod](https://coursemetry.com/poultry-farming-bacterial-diseases-hindering-satisfying-prod/)
+
+* [How To Make Passive Income on Amazon KDP with Zero dollars](https://coursemetry.com/how-to-make-passive-income-on-amazon-kdp-with-zero-dollars/)
+
+* [Management Consulting Skills Mastery](https://coursemetry.com/management-consulting-skills-mastery/)
+
+* [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
+
+* [Psychological Mind Experiments](https://coursemetry.com/psychological-mind-experiments/)
+
+* [Business English Course: Essentials in Business World](https://coursemetry.com/business-english-course-essentials-in-business-world/)
+
+* [Deep Learning for Computer Vision](https://coursemetry.com/deep-learning-for-computer-vision/)
+
+* [SEO - The Complete SEO Course Beginners to Advanced 2022](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2022/)
+
+* [Data Mesh - A Modern Decentralized Data Management Concept](https://coursemetry.com/data-mesh-a-modern-decentralized-data-management-concept/)
+
+* [Management Consulting Essential Training](https://coursemetry.com/management-consulting-essential-training/)
+
+* [No-Code Machine Learning with Qlik AutoML](https://coursemetry.com/no-code-machine-learning-with-qlik-automl/)
+
+* [Data Sonification using Two Tone- Convert your Data to Music](https://coursemetry.com/data-sonification-using-two-tone-convert-your-data-to-music/)
+
+* [Microsoft Word : New Microsoft Word 2021 For Windows Users](https://coursemetry.com/microsoft-word-new-microsoft-word-2021-for-windows-users/)
+
+* [The Art of Business Communication - Excel at Your Work Place](https://coursemetry.com/the-art-of-business-communication-excel-at-your-work-place/)
+
+* [DP-900 Practice Test only REAL QUESTIONS Microsoft Certified](https://coursemetry.com/dp-900-practice-test-only-real-questions-microsoft-certified/)
+
+* [Aprende SQL usando PostgreSQL de cero](https://coursemetry.com/aprende-sql-usando-postgresql-de-cero/)
+
+* [Shopify for Newbies: Basic Guide to Drop Shipping on Shopify](https://coursemetry.com/shopify-for-newbies-basic-guide-to-drop-shipping-on-shopify/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [(August 2022) Practical,  Economic Analysis/Discussion](https://coursemetry.com/august-2022-practical-economic-analysis-discussion/)
+
+* [Old age.](https://coursemetry.com/old-age/)
+
+* [Curso Básico de Canva 2022: Crea Diseños Gráficos Desde Cero](https://coursemetry.com/curso-basico-de-canva-2022-crea-disenos-graficos-desde-cero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
