@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **139 Udemy free courses published so far on 2022-08-12**
+## **140 Udemy free courses published so far on 2022-08-12**
 
 * [Work Smarter Not Harder - Modern Productivity Hacks for Life](https://coursemetry.com/work-smarter-not-harder-modern-productivity-hacks-for-life/)
 
@@ -281,6 +281,8 @@
 * [Accounting for Corporations](https://coursemetry.com/accounting-for-corporations/)
 
 * [How to Pitch Your Filmmaking Projects to Investors & Netflix](https://coursemetry.com/how-to-pitch-your-filmmaking-projects-to-investors-netflix/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
