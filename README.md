@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published so far on 2022-08-12**
+## **139 Udemy free courses published so far on 2022-08-12**
 
 * [Work Smarter Not Harder - Modern Productivity Hacks for Life](https://coursemetry.com/work-smarter-not-harder-modern-productivity-hacks-for-life/)
 
@@ -241,6 +241,46 @@
 * [Old age.](https://coursemetry.com/old-age/)
 
 * [Curso Básico de Canva 2022: Crea Diseños Gráficos Desde Cero](https://coursemetry.com/curso-basico-de-canva-2022-crea-disenos-graficos-desde-cero/)
+
+* [CSS, JavaScript,PHP And Python Programming All in One Course](https://coursemetry.com/css-javascriptphp-and-python-programming-all-in-one-course/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [QuickBooks Pro Desktop -Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-business-easy-way/)
+
+* [Partnership Accounting](https://coursemetry.com/partnership-accounting/)
+
+* [Management Consulting Presentation Essential Training](https://coursemetry.com/management-consulting-presentation-essential-training/)
+
+* [SAP Basis Essential Training](https://coursemetry.com/sap-basis-essential-training/)
+
+* [Songwriting Craft: 6 Tools to Make Your Melodies Stand Out](https://coursemetry.com/songwriting-craft-6-tools-to-make-your-melodies-stand-out/)
+
+* [Tax & Adjusting Entry Year-End Accounting Excel Worksheet](https://coursemetry.com/tax-adjusting-entry-year-end-accounting-excel-worksheet/)
+
+* [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
+
+* [Financial Accounting-Debits & Credits-Accounting Transaction](https://coursemetry.com/financial-accounting-debits-credits-accounting-transaction/)
+
+* [QuickBooks Payroll - QuickBooks Pro Desktop](https://coursemetry.com/quickbooks-payroll-quickbooks-pro-desktop/)
+
+* [Financial Accounting-Adjusting Entries & Financial Statement](https://coursemetry.com/financial-accounting-adjusting-entries-financial-statement/)
+
+* [Creative Infographics in PowerPoint](https://coursemetry.com/creative-infographics-in-powerpoint/)
+
+* [Financial Accounting – Payroll](https://coursemetry.com/financial-accounting-payroll/)
+
+* [Accounting-Statement of Cash Flows](https://coursemetry.com/accounting-statement-of-cash-flows/)
+
+* [Job Order Costing System – Managerial Accounting](https://coursemetry.com/job-order-costing-system-managerial-accounting/)
+
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+
+* [QuickBooks Pro-Business & Personal-One QuickBooks File](https://coursemetry.com/quickbooks-pro-business-personal-one-quickbooks-file/)
+
+* [Accounting for Corporations](https://coursemetry.com/accounting-for-corporations/)
+
+* [How to Pitch Your Filmmaking Projects to Investors & Netflix](https://coursemetry.com/how-to-pitch-your-filmmaking-projects-to-investors-netflix/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
