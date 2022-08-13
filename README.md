@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-08-13**
+## **65 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -129,6 +129,10 @@
 * [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
 
 * [Canva Crash Course](https://coursemetry.com/canva-crash-course/)
+
+* [The Energy Based Practice](https://coursemetry.com/the-energy-based-practice/)
+
+* [All about NFTs (Non Fungible Tokens)](https://coursemetry.com/all-about-nfts-non-fungible-tokens/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
