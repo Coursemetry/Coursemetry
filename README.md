@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **33 Udemy free courses published so far on 2022-08-13**
+## **56 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -69,6 +69,52 @@
 * [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
 
 * [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
+
+* [Salesforce JavaScript Developer 1 Practice Test](https://coursemetry.com/salesforce-javascript-developer-1-practice-test/)
+
+* [Video Editing with Avid Media Composer First for Beginners](https://coursemetry.com/video-editing-with-avid-media-composer-first-for-beginners/)
+
+* [Color Grading and Video Editing with Davinci Resolve 18](https://coursemetry.com/color-grading-and-video-editing-with-davinci-resolve-18/)
+
+* [Salesforce Marketing Cloud Email Specialist Practice Test](https://coursemetry.com/salesforce-marketing-cloud-email-specialist-practice-test/)
+
+* [Salesforce Marketing Cloud Consultant Practice Test](https://coursemetry.com/salesforce-marketing-cloud-consultant-practice-test/)
+
+* [Learn Basics of Adobe Photoshop CC 2022 for Beginners](https://coursemetry.com/learn-basics-of-adobe-photoshop-cc-2022-for-beginners/)
+
+* [Salesforce CPQ Specialist Practice Test](https://coursemetry.com/salesforce-cpq-specialist-practice-test/)
+
+* [Sıfırdan Uzmanlığa 3D NFT Koleksiyonu ve Metaverse Tasarımı](https://coursemetry.com/sifirdan-uzmanliga-3d-nft-koleksiyonu-ve-metaverse-tasarimi/)
+
+* [Salesforce Platform App Builder Practice Test](https://coursemetry.com/salesforce-platform-app-builder-practice-test/)
+
+* [Learn Basics Of Adobe After Effects CC 2022 for Beginners](https://coursemetry.com/learn-basics-of-adobe-after-effects-cc-2022-for-beginners/)
+
+* [Color Correction & Grading with Adobe Premiere Pro 2022](https://coursemetry.com/color-correction-grading-with-adobe-premiere-pro-2022/)
+
+* [A'dan Z'ye Borsa & Hisse Senedi Eğitimi](https://coursemetry.com/adan-zye-borsa-hisse-senedi-egitimi/)
+
+* [OSINT: Content Discovery](https://coursemetry.com/osint-content-discovery/)
+
+* [Salesforce Certified Pardot Specialist Practice Test](https://coursemetry.com/salesforce-certified-pardot-specialist-practice-test/)
+
+* [Create Awesome QR Designs in Photoshop : 6 Projects Included](https://coursemetry.com/create-awesome-qr-designs-in-photoshop-6-projects-included/)
+
+* [Salesforce Platform Developer 2 Practice Test](https://coursemetry.com/salesforce-platform-developer-2-practice-test/)
+
+* [Salesforce OmniStudio Consultant Practice Test](https://coursemetry.com/salesforce-omnistudio-consultant-practice-test/)
+
+* [Digital Marketing For Entrepreneurs - A Complete Course](https://coursemetry.com/digital-marketing-for-entrepreneurs-a-complete-course/)
+
+* [Adobe Premiere Pro CC Video Editing Course Beginners To Pro](https://coursemetry.com/adobe-premiere-pro-cc-video-editing-course-beginners-to-pro/)
+
+* [Facebook Ads For Small Business From Very Basic To Advance](https://coursemetry.com/facebook-ads-for-small-business-from-very-basic-to-advance/)
+
+* [Video Editing with Adobe Premiere Pro CC 2022 for Beginners](https://coursemetry.com/video-editing-with-adobe-premiere-pro-cc-2022-for-beginners/)
+
+* [HTML and CSS for Beginners From Basic to Advance](https://coursemetry.com/html-and-css-for-beginners-from-basic-to-advance/)
+
+* [Ultimate Adobe Photoshop CC Masterclass Basics To Advanced](https://coursemetry.com/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
