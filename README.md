@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **68 Udemy free courses published so far on 2022-08-13**
+## **70 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -139,6 +139,10 @@
 * [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
 
 * [Cyber Security: Awareness Training For Everyone (2022)](https://coursemetry.com/cyber-security-awareness-training-for-everyone-2022/)
+
+* [PMP Dash - The Fastest Way To Ace PMP Exams](https://coursemetry.com/pmp-dash-the-fastest-way-to-ace-pmp-exams/)
+
+* [Introduction to Computer Science](https://coursemetry.com/introduction-to-computer-science/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
