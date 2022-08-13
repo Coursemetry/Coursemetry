@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **135 Udemy free courses published so far on 2022-08-13**
+## **137 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -273,6 +273,10 @@
 * [Systemisches Coaching - der komplette Kurs!](https://coursemetry.com/systemisches-coaching-der-komplette-kurs/)
 
 * [Workshops - systemisch konzipieren und gestalten](https://coursemetry.com/workshops-systemisch-konzipieren-und-gestalten/)
+
+* [Microsoft Word : M.S. Word 2019 with Confidence](https://coursemetry.com/microsoft-word-m-s-word-2019-with-confidence/)
+
+* [Process Improvement: Lean out your operation](https://coursemetry.com/process-improvement-lean-out-your-operation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
