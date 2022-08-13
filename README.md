@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **160 Udemy free courses published so far on 2022-08-13**
+## **166 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -323,6 +323,18 @@
 * [Cisco CCNA 200-301 Certification Exam Simulator 2022](https://coursemetry.com/cisco-ccna-200-301-certification-exam-simulator-2022/)
 
 * [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Content-Creator Masterclass for Freelancers](https://coursemetry.com/content-creator-masterclass-for-freelancers/)
+
+* [Flutter ile Android  & IOS Uygulama Geliştirme Kursu](https://coursemetry.com/flutter-ile-android-ios-uygulama-gelistirme-kursu/)
+
+* [Improve English by Listening Movies – 1c](https://coursemetry.com/improve-english-by-listening-movies-1c/)
+
+* [İnsanları Okuma Ve Etkileme Sanatı. Nasıl Çıkarım Yapılır ?](https://coursemetry.com/insanlari-okuma-ve-etkileme-sanati-nasil-cikarim-yapilir/)
+
+* [NFT Bootcamp: Essentials for Beginners](https://coursemetry.com/nft-bootcamp-essentials-for-beginners/)
+
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
