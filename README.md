@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **70 Udemy free courses published so far on 2022-08-13**
+## **76 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -143,6 +143,18 @@
 * [PMP Dash - The Fastest Way To Ace PMP Exams](https://coursemetry.com/pmp-dash-the-fastest-way-to-ace-pmp-exams/)
 
 * [Introduction to Computer Science](https://coursemetry.com/introduction-to-computer-science/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [33 Most Useful Websites or Apps for College Students](https://coursemetry.com/33-most-useful-websites-or-apps-for-college-students/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [Am I a Good Boss? (Three Things to Think About)](https://coursemetry.com/am-i-a-good-boss-three-things-to-think-about/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
