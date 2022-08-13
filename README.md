@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **132 Udemy free courses published so far on 2022-08-13**
+## **135 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -267,6 +267,12 @@
 * [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
 
 * [The Complete MongoDB Course 2022](https://coursemetry.com/the-complete-mongodb-course-2022/)
+
+* [Personalentwicklung für (zukünftige) Führungskräfte](https://coursemetry.com/personalentwicklung-fur-zukunftige-fuhrungskrafte/)
+
+* [Systemisches Coaching - der komplette Kurs!](https://coursemetry.com/systemisches-coaching-der-komplette-kurs/)
+
+* [Workshops - systemisch konzipieren und gestalten](https://coursemetry.com/workshops-systemisch-konzipieren-und-gestalten/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
