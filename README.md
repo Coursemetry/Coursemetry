@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **153 Udemy free courses published so far on 2022-08-13**
+## **160 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -309,6 +309,20 @@
 * [Máster en WordPress 2022, ¡Desde Cero Hasta Experto!](https://coursemetry.com/master-en-wordpress-2022-desde-cero-hasta-experto/)
 
 * [Solid Principles of OOP for Software Architecture & Design](https://coursemetry.com/solid-principles-of-oop-for-software-architecture-design/)
+
+* [Building Android Widgets from scratch (Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [Python for Beginners to Advance](https://coursemetry.com/python-for-beginners-to-advance/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Cisco CCNA 200-301 Certification Exam Simulator 2022](https://coursemetry.com/cisco-ccna-200-301-certification-exam-simulator-2022/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
