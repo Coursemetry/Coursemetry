@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **56 Udemy free courses published so far on 2022-08-13**
+## **63 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -115,6 +115,20 @@
 * [HTML and CSS for Beginners From Basic to Advance](https://coursemetry.com/html-and-css-for-beginners-from-basic-to-advance/)
 
 * [Ultimate Adobe Photoshop CC Masterclass Basics To Advanced](https://coursemetry.com/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/)
+
+* [Professional Training for Managing Upset Customers](https://coursemetry.com/professional-training-for-managing-upset-customers/)
+
+* [Engineering Drawing / Graphics : Hands-on training](https://coursemetry.com/engineering-drawing-graphics-hands-on-training/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [Excel Tips and trick : Learn MS Excel by making 7 Projects](https://coursemetry.com/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/)
+
+* [Crypto Asset-Allocation and Portfolio Strategy](https://coursemetry.com/crypto-asset-allocation-and-portfolio-strategy/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Canva Crash Course](https://coursemetry.com/canva-crash-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
