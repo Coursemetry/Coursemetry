@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **142 Udemy free courses published so far on 2022-08-13**
+## **153 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -287,6 +287,28 @@
 * [Project Management: Cost & Schedule Monitoring using EVM](https://coursemetry.com/project-management-cost-schedule-monitoring-using-evm/)
 
 * [SQL- The Complete Introduction to SQL programming](https://coursemetry.com/sql-the-complete-introduction-to-sql-programming/)
+
+* [Fotografía digital  | Aprende a usar tu cámara como un PRO](https://coursemetry.com/fotografia-digital-aprende-a-usar-tu-camara-como-un-pro/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [SEO Training: Complete SEO Course & SEO Copywriting Mastery](https://coursemetry.com/seo-training-complete-seo-course-seo-copywriting-mastery/)
+
+* [Operating system concepts-1](https://coursemetry.com/operating-system-concepts-1/)
+
+* [Wireshark Packet Analysis Training || GET CERTIFICATE ||](https://coursemetry.com/wireshark-packet-analysis-training-get-certificate-2/)
+
+* [ISTQB Foundation Level Essential Training || Exam Prep ||](https://coursemetry.com/istqb-foundation-level-essential-training-exam-prep-2/)
+
+* [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
+
+* [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
+
+* [Adobe Photoshop Lightroom | retoque fotográfico avanzado](https://coursemetry.com/adobe-photoshop-lightroom-retoque-fotografico-avanzado/)
+
+* [Máster en WordPress 2022, ¡Desde Cero Hasta Experto!](https://coursemetry.com/master-en-wordpress-2022-desde-cero-hasta-experto/)
+
+* [Solid Principles of OOP for Software Architecture & Design](https://coursemetry.com/solid-principles-of-oop-for-software-architecture-design/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
