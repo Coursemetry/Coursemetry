@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **137 Udemy free courses published so far on 2022-08-13**
+## **142 Udemy free courses published so far on 2022-08-13**
 
 * [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
 
@@ -277,6 +277,16 @@
 * [Microsoft Word : M.S. Word 2019 with Confidence](https://coursemetry.com/microsoft-word-m-s-word-2019-with-confidence/)
 
 * [Process Improvement: Lean out your operation](https://coursemetry.com/process-improvement-lean-out-your-operation/)
+
+* [Best of Content Marketing, SEO & Copywriting + 23 Templates](https://coursemetry.com/best-of-content-marketing-seo-copywriting-23-templates/)
+
+* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+
+* [JavaScript for Beginners - The Complete introduction to JS](https://coursemetry.com/javascript-for-beginners-the-complete-introduction-to-js/)
+
+* [Project Management: Cost & Schedule Monitoring using EVM](https://coursemetry.com/project-management-cost-schedule-monitoring-using-evm/)
+
+* [SQL- The Complete Introduction to SQL programming](https://coursemetry.com/sql-the-complete-introduction-to-sql-programming/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
