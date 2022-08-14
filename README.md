@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **52 Udemy free courses published so far on 2022-08-14**
+## **66 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -107,6 +107,34 @@
 * [Overcome Shyness & Social Phobia: Unlock Your Full Potential](https://coursemetry.com/overcome-shyness-social-phobia-unlock-your-full-potential/)
 
 * [How to Make a Freelance Portfolio WordPress Website 2022](https://coursemetry.com/how-to-make-a-freelance-portfolio-wordpress-website-2022/)
+
+* [Menulis Puisi](https://coursemetry.com/menulis-puisi/)
+
+* [Belajar Menulis Cerpen](https://coursemetry.com/belajar-menulis-cerpen/)
+
+* [Menata Ulang Hidup Anda](https://coursemetry.com/menata-ulang-hidup-anda/)
+
+* [Belajar Menulis Artikel, Esai, Opini](https://coursemetry.com/belajar-menulis-artikel-esai-opini/)
+
+* [CREATIVE WRITING](https://coursemetry.com/creative-writing/)
+
+* [Kelas Blogger](https://coursemetry.com/kelas-blogger/)
+
+* [From Blog To Book](https://coursemetry.com/from-blog-to-book/)
+
+* [Writing Fiction](https://coursemetry.com/writing-fiction/)
+
+* [Publikasi dan Penerbitan](https://coursemetry.com/publikasi-dan-penerbitan/)
+
+* [Kelas Blogging Bloggerpreneur](https://coursemetry.com/kelas-blogging-bloggerpreneur/)
+
+* [Belajar Menulis Novel](https://coursemetry.com/belajar-menulis-novel/)
+
+* [Historia de la Decoración, Interiorismo y la Arquitectura](https://coursemetry.com/historia-de-la-decoracion-interiorismo-y-la-arquitectura/)
+
+* [Interpretación de Planos de Arquitectura y Construcción](https://coursemetry.com/interpretacion-de-planos-de-arquitectura-y-construccion/)
+
+* [Content Writing](https://coursemetry.com/content-writing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
