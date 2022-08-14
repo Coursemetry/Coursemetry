@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-08-14**
+## **107 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -189,6 +189,34 @@
 * [Becoming Your Beautiful Authentic Self](https://coursemetry.com/becoming-your-beautiful-authentic-self/)
 
 * [Information Theory](https://coursemetry.com/information-theory/)
+
+* [Learn E-Way Bill on Govt Portal 2021 - Certificate Course](https://coursemetry.com/learn-e-way-bill-on-govt-portal-2021-certificate-course/)
+
+* [Introduction to Reverse Osmosis Desalination](https://coursemetry.com/introduction-to-reverse-osmosis-desalination/)
+
+* [Cyber Security: OS Security](https://coursemetry.com/cyber-security-os-security/)
+
+* [Twitter Chat Bot in Python 2022 from Scratch.](https://coursemetry.com/twitter-chat-bot-in-python-2022-from-scratch/)
+
+* [Shamanic Sound Healing | Certificate Course [ACCREDITED]](https://coursemetry.com/shamanic-sound-healing-certificate-course-accredited/)
+
+* [Java And C++ Programming Crash Course 2022](https://coursemetry.com/java-and-c-programming-crash-course-2022/)
+
+* [Ethical Hacking: Hack by Uploading](https://coursemetry.com/ethical-hacking-hack-by-uploading/)
+
+* [SQL Introduction Course 2022: SQL Crash Course.](https://coursemetry.com/sql-introduction-course-2022-sql-crash-course/)
+
+* [Numpy Pandas in Python 2022 from Scratch by  Doing.](https://coursemetry.com/numpy-pandas-in-python-2022-from-scratch-by-doing/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Canva 2022 - Latest Course by Best Seller (Version 3)](https://coursemetry.com/canva-2022-latest-course-by-best-seller-version-3/)
+
+* [The Ultimate Guide to Job Interviews](https://coursemetry.com/the-ultimate-guide-to-job-interviews/)
+
+* [How Websites Work](https://coursemetry.com/how-websites-work/)
+
+* [Microsoft data analytics for beginners](https://coursemetry.com/microsoft-data-analytics-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
