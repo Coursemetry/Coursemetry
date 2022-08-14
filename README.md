@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **48 Udemy free courses published so far on 2022-08-14**
+## **52 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -99,6 +99,14 @@
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
 * [Tally Erp 9 + Tally Prime + GST  2022 - Certificate Course](https://coursemetry.com/tally-erp-9-tally-prime-gst-2022-certificate-course/)
+
+* [Real Time Chat With Laravel Broadcast, Pusher and Vuejs](https://coursemetry.com/real-time-chat-with-laravel-broadcast-pusher-and-vuejs/)
+
+* [Photography: Build a Portfolio on Unsplash](https://coursemetry.com/photography-build-a-portfolio-on-unsplash/)
+
+* [Overcome Shyness & Social Phobia: Unlock Your Full Potential](https://coursemetry.com/overcome-shyness-social-phobia-unlock-your-full-potential/)
+
+* [How to Make a Freelance Portfolio WordPress Website 2022](https://coursemetry.com/how-to-make-a-freelance-portfolio-wordpress-website-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
