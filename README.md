@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **75 Udemy free courses published so far on 2022-08-14**
+## **82 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -153,6 +153,20 @@
 * [Kursus Menulis Buku](https://coursemetry.com/kursus-menulis-buku/)
 
 * [Kelas Bisnis dan Enterpreneurship](https://coursemetry.com/kelas-bisnis-dan-enterpreneurship/)
+
+* [Podcasting Mastery 2022](https://coursemetry.com/podcasting-mastery-2022/)
+
+* [Online Traffic Mastery 2022](https://coursemetry.com/online-traffic-mastery-2022/)
+
+* [Water Supply System A-Z - Mechanical Engineering](https://coursemetry.com/water-supply-system-a-z-mechanical-engineering/)
+
+* [Outsourcing Mastery 2022](https://coursemetry.com/outsourcing-mastery-2022/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [Facebook Messenger Mastery 2022](https://coursemetry.com/facebook-messenger-mastery-2022/)
+
+* [Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022](https://coursemetry.com/reverse-engineering-and-malware-analysis-x64-32-crma-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
