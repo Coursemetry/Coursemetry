@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **107 Udemy free courses published so far on 2022-08-14**
+## **115 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -217,6 +217,22 @@
 * [How Websites Work](https://coursemetry.com/how-websites-work/)
 
 * [Microsoft data analytics for beginners](https://coursemetry.com/microsoft-data-analytics-for-beginners/)
+
+* [Forex Trading Like Banks – Step by Step with Live Examples](https://coursemetry.com/forex-trading-like-banks-step-by-step-with-live-examples/)
+
+* [Followers to Clients: Instagram Marketing + Lead Generation](https://coursemetry.com/followers-to-clients-instagram-marketing-lead-generation/)
+
+* [Adobe Premiere Pro CC Essential Video Editing Zero To Hero](https://coursemetry.com/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/)
+
+* [Information Security Fundamentals](https://coursemetry.com/information-security-fundamentals/)
+
+* [The Complete Introduction to C++ Programming](https://coursemetry.com/the-complete-introduction-to-c-programming/)
+
+* [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
+
+* [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
+
+* [Learn Integers with Payal Nayak](https://coursemetry.com/learn-integers-with-payal-nayak/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
