@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **115 Udemy free courses published so far on 2022-08-14**
+## **140 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -233,6 +233,56 @@
 * [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
 
 * [Learn Integers with Payal Nayak](https://coursemetry.com/learn-integers-with-payal-nayak/)
+
+* [Wireshark Crash Course For Ethical Hackers](https://coursemetry.com/wireshark-crash-course-for-ethical-hackers/)
+
+* [SOC (Cyber Security) Analyst Interview Question/Answers](https://coursemetry.com/soc-cyber-security-analyst-interview-question-answers/)
+
+* [Bootstrap 4 Ultimate Guide 2022](https://coursemetry.com/bootstrap-4-ultimate-guide-2022/)
+
+* [AWS Certified Solutions Architect - Associate Exam 2022](https://coursemetry.com/aws-certified-solutions-architect-associate-exam-2022/)
+
+* [Develop and Deploy MEAN Stack Project on Azure Cloud](https://coursemetry.com/develop-and-deploy-mean-stack-project-on-azure-cloud/)
+
+* [How to Create a Professional Presentation in PowerPoint](https://coursemetry.com/how-to-create-a-professional-presentation-in-powerpoint/)
+
+* [Adobe Animate Ultimate Guide 2022](https://coursemetry.com/adobe-animate-ultimate-guide-2022/)
+
+* [Flutter Clean  Architecture [2022] [Flutter 3] (In Arabic)](https://coursemetry.com/flutter-clean-architecture-2022-flutter-3-in-arabic/)
+
+* [Master Visual Scripting in Unity by Making Advanced Games](https://coursemetry.com/master-visual-scripting-in-unity-by-making-advanced-games/)
+
+* [PL-900: Microsoft Power Platform Fundamentals Prep - NEW](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-prep-new/)
+
+* [Mit Online Marketing Dein Business aufbauen ohne Vorwissen!](https://coursemetry.com/mit-online-marketing-dein-business-aufbauen-ohne-vorwissen/)
+
+* [Introduction to Financial Goal Setting in Business](https://coursemetry.com/introduction-to-financial-goal-setting-in-business/)
+
+* [Crypto trading from A to Z](https://coursemetry.com/crypto-trading-from-a-to-z/)
+
+* [Full Stack Development Bootcamp( Web, Desktop & Mobile App )](https://coursemetry.com/full-stack-development-bootcamp-web-desktop-mobile-app/)
+
+* [Digital Marketing: Target Audience, STP & Brand Storytelling](https://coursemetry.com/digital-marketing-target-audience-stp-brand-storytelling/)
+
+* [Modulation Guitar Pedals - Flanger, Chorus, Phaser and more](https://coursemetry.com/modulation-guitar-pedals-flanger-chorus-phaser-and-more/)
+
+* [Selling on Walmart Guide: Start making Money with Walmart!](https://coursemetry.com/selling-on-walmart-guide-start-making-money-with-walmart/)
+
+* [Build Photo Gallery App in SwiftUI 4, iOS 16 & PhotosPicker](https://coursemetry.com/build-photo-gallery-app-in-swiftui-4-ios-16-photospicker/)
+
+* [Business Model Innovation For Brand Growth](https://coursemetry.com/business-model-innovation-for-brand-growth/)
+
+* [Virtual Communication Masterclass](https://coursemetry.com/virtual-communication-masterclass/)
+
+* [Customer Experience & Service: Gain Devoted Customers](https://coursemetry.com/customer-experience-service-gain-devoted-customers/)
+
+* [Customer Service: 6 Keys To Exceptional Customer Service](https://coursemetry.com/customer-service-6-keys-to-exceptional-customer-service/)
+
+* [Become a Coffee Expert: How to Make the Perfect Cup](https://coursemetry.com/become-a-coffee-expert-how-to-make-the-perfect-cup/)
+
+* [Sales Skills: Maximizing Sales In A Bad Economy](https://coursemetry.com/sales-skills-maximizing-sales-in-a-bad-economy/)
+
+* [Emotional Intelligence: Boost Your Emotional Intelligence](https://coursemetry.com/emotional-intelligence-boost-your-emotional-intelligence/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
