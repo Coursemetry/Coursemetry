@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **82 Udemy free courses published so far on 2022-08-14**
+## **93 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -167,6 +167,28 @@
 * [Facebook Messenger Mastery 2022](https://coursemetry.com/facebook-messenger-mastery-2022/)
 
 * [Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022](https://coursemetry.com/reverse-engineering-and-malware-analysis-x64-32-crma-2022/)
+
+* [Entrepreneurship Development 101: Startup your New Venture](https://coursemetry.com/entrepreneurship-development-101-startup-your-new-venture/)
+
+* [Create Your Own Professional Quality Affirmations At Home](https://coursemetry.com/create-your-own-professional-quality-affirmations-at-home/)
+
+* [The Art of Facing a Job Interview. How to face an interview?](https://coursemetry.com/the-art-of-facing-a-job-interview-how-to-face-an-interview/)
+
+* [Process Costing System-Cost Accounting-Managerial Accounting](https://coursemetry.com/process-costing-system-cost-accounting-managerial-accounting/)
+
+* [Email Monetization Mastery 2022](https://coursemetry.com/email-monetization-mastery-2022/)
+
+* [İngilizce Mülakat Teknikleri ve Pratikleri 2](https://coursemetry.com/ingilizce-mulakat-teknikleri-ve-pratikleri-2/)
+
+* [Consulting Business Mastery 2022](https://coursemetry.com/consulting-business-mastery-2022/)
+
+* [Stress management - Masterclass Mindfulness](https://coursemetry.com/stress-management-masterclass-mindfulness/)
+
+* [Master Journaling Habit For Better Thinking and Self-mastery](https://coursemetry.com/master-journaling-habit-for-better-thinking-and-self-mastery/)
+
+* [Becoming Your Beautiful Authentic Self](https://coursemetry.com/becoming-your-beautiful-authentic-self/)
+
+* [Information Theory](https://coursemetry.com/information-theory/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
