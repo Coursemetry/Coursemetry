@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **141 Udemy free courses published so far on 2022-08-14**
+## **142 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -285,6 +285,8 @@
 * [Emotional Intelligence: Boost Your Emotional Intelligence](https://coursemetry.com/emotional-intelligence-boost-your-emotional-intelligence/)
 
 * [NLP Certification- BERT, GPTs, HMTL & Multimodal Large Model](https://coursemetry.com/nlp-certification-bert-gpts-hmtl-multimodal-large-model/)
+
+* [Build an FBA EMPIRE](https://coursemetry.com/build-an-fba-empire/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
