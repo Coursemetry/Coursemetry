@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published so far on 2022-08-14**
+## **48 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -95,6 +95,10 @@
 * [Graph Theory and it's Algorithms](https://coursemetry.com/graph-theory-and-its-algorithms/)
 
 * [Accounting-Bonds Payable, Notes Payable, Liabilities](https://coursemetry.com/accounting-bonds-payable-notes-payable-liabilities/)
+
+* [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
+
+* [Tally Erp 9 + Tally Prime + GST  2022 - Certificate Course](https://coursemetry.com/tally-erp-9-tally-prime-gst-2022-certificate-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
