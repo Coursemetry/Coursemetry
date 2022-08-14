@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published so far on 2022-08-14**
+## **75 Udemy free courses published so far on 2022-08-14**
 
 * [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
 
@@ -135,6 +135,24 @@
 * [Interpretación de Planos de Arquitectura y Construcción](https://coursemetry.com/interpretacion-de-planos-de-arquitectura-y-construccion/)
 
 * [Content Writing](https://coursemetry.com/content-writing/)
+
+* [writerpreneurship](https://coursemetry.com/writerpreneurship/)
+
+* [Editing](https://coursemetry.com/editing/)
+
+* [Digital Marketing](https://coursemetry.com/digital-marketing/)
+
+* [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
+
+* [Copy Writing](https://coursemetry.com/copy-writing/)
+
+* [Belajar Menulis Memoir dan Biografi](https://coursemetry.com/belajar-menulis-memoir-dan-biografi/)
+
+* [Menulis Script Film](https://coursemetry.com/menulis-script-film/)
+
+* [Kursus Menulis Buku](https://coursemetry.com/kursus-menulis-buku/)
+
+* [Kelas Bisnis dan Enterpreneurship](https://coursemetry.com/kelas-bisnis-dan-enterpreneurship/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
