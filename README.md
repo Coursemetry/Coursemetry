@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-08-15**
+## **154 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -253,6 +253,64 @@
 * [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
 
 * [MLOps Cert- Basics, Deployment, Vertex AI & Feature Store](https://coursemetry.com/mlops-cert-basics-deployment-vertex-ai-feature-store/)
+
+* [AZ-800 Exclusive Exam Preparation - NEW](https://coursemetry.com/az-800-exclusive-exam-preparation-new/)
+
+* [The Complete Dart Learning Guide [2022 Edition]](https://coursemetry.com/the-complete-dart-learning-guide-2022-edition/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
+
+* [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
+
+* [Google Spreadsheets: Empieza desde cero](https://coursemetry.com/google-spreadsheets-empieza-desde-cero/)
+
+* [Análisis avanzado con SQL y programación en R con Power BI](https://coursemetry.com/analisis-avanzado-con-sql-y-programacion-en-r-con-power-bi/)
+
+* [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
+
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
+* [Power BI DAX: Aprende las funciones más avanzadas](https://coursemetry.com/power-bi-dax-aprende-las-funciones-mas-avanzadas/)
+
+* [SQL: Consultas básicas a complejas](https://coursemetry.com/sql-consultas-basicas-a-complejas/)
+
+* [JavaScript: Desde cero con NodeJS](https://coursemetry.com/javascript-desde-cero-con-nodejs/)
+
+* [R Programming: Aprende a programar en R desde cero](https://coursemetry.com/r-programming-aprende-a-programar-en-r-desde-cero/)
+
+* [Crea tu primer juego con Pygame](https://coursemetry.com/crea-tu-primer-juego-con-pygame/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [Análisis de datos con Python](https://coursemetry.com/analisis-de-datos-con-python/)
+
+* [R Programming: Desde cero para Data Science](https://coursemetry.com/r-programming-desde-cero-para-data-science-2/)
+
+* [Python 3: Análisis y visualización de datos](https://coursemetry.com/python-3-analisis-y-visualizacion-de-datos/)
+
+* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 1](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-1/)
+
+* [Pakistani Cooking - Master the art of Asian Cultural Cooking](https://coursemetry.com/pakistani-cooking-master-the-art-of-asian-cultural-cooking/)
+
+* [Análisis de casos reales y funciones DAX con Power BI](https://coursemetry.com/analisis-de-casos-reales-y-funciones-dax-con-power-bi/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
+
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
+
+* [MongoDB: Aprende desde cero a experto](https://coursemetry.com/mongodb-aprende-desde-cero-a-experto/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
