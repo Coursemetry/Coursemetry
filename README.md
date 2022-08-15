@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published so far on 2022-08-15**
+## **78 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -151,6 +151,14 @@
 * [Car Repair | Automotive Electrician and Mechanic Training |](https://coursemetry.com/car-repair-automotive-electrician-and-mechanic-training/)
 
 * [Introduction to Economics: Micro and Macro](https://coursemetry.com/introduction-to-economics-micro-and-macro/)
+
+* [Leadership & Management Skills: 10 Leadership Courses In 1](https://coursemetry.com/leadership-management-skills-10-leadership-courses-in-1/)
+
+* [The Ultimate Lead Generation System](https://coursemetry.com/the-ultimate-lead-generation-system/)
+
+* [Ekşi Maya Yapımı](https://coursemetry.com/eksi-maya-yapimi/)
+
+* [Become a Coffee Expert: How to Make the Perfect Cup](https://coursemetry.com/become-a-coffee-expert-how-to-make-the-perfect-cup/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
