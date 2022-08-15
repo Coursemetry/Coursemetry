@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **87 Udemy free courses published so far on 2022-08-15**
+## **91 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -177,6 +177,14 @@
 * [Python with NumPy For Absolute Beginners](https://coursemetry.com/python-with-numpy-for-absolute-beginners/)
 
 * [Public Speaking Masterclass: 10x Your Impact](https://coursemetry.com/public-speaking-masterclass-10x-your-impact/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [Time Management for Personal & Professional Productivity](https://coursemetry.com/time-management-for-personal-professional-productivity/)
+
+* [The Complete Digital Marketing Strategy For 2022](https://coursemetry.com/the-complete-digital-marketing-strategy-for-2022/)
+
+* [Data Visualization in python using seaborn library](https://coursemetry.com/data-visualization-in-python-using-seaborn-library/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
