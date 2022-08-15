@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **196 Udemy free courses published so far on 2022-08-15**
+## **204 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -395,6 +395,22 @@
 * [Start Streaming With OBS Studio In 2022](https://coursemetry.com/start-streaming-with-obs-studio-in-2022/)
 
 * [HTML5 et CSS3 : La Formation Complète](https://coursemetry.com/html5-et-css3-la-formation-complete/)
+
+* [Graph Neural Networks: Basics, Codes and Simulations for AI](https://coursemetry.com/graph-neural-networks-basics-codes-and-simulations-for-ai/)
+
+* [2022 Python Bootcamp for Data Science Numpy Pandas & Seaborn](https://coursemetry.com/2022-python-bootcamp-for-data-science-numpy-pandas-seaborn/)
+
+* [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
+
+* [Fundamental Question For ETHICAL HACKEING.](https://coursemetry.com/fundamental-question-for-ethical-hackeing/)
+
+* [Fundamental Question on Robotics](https://coursemetry.com/fundamental-question-on-robotics/)
+
+* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
+
+* [Fundamental Question on Ethical Hacking](https://coursemetry.com/fundamental-question-on-ethical-hacking/)
+
+* [Fundamental Question on RPA (Robotic Process Automation)](https://coursemetry.com/fundamental-question-on-rpa-robotic-process-automation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
