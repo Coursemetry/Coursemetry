@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **154 Udemy free courses published so far on 2022-08-15**
+## **161 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -311,6 +311,20 @@
 * [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
 
 * [MongoDB: Aprende desde cero a experto](https://coursemetry.com/mongodb-aprende-desde-cero-a-experto/)
+
+* [Análisis de datos con Google Data Studio](https://coursemetry.com/analisis-de-datos-con-google-data-studio/)
+
+* [Fundamentos de Programación: Aprende a programar desde cero](https://coursemetry.com/fundamentos-de-programacion-aprende-a-programar-desde-cero/)
+
+* [Machine Learning con Python](https://coursemetry.com/machine-learning-con-python/)
+
+* [Power BI de principiante a avanzado.](https://coursemetry.com/power-bi-de-principiante-a-avanzado/)
+
+* [Python 3: Desde cero para principiantes](https://coursemetry.com/python-3-desde-cero-para-principiantes/)
+
+* [Power BI: Desde cero para principiantes](https://coursemetry.com/power-bi-desde-cero-para-principiantes/)
+
+* [Microsoft Excel: Desde cero para profesionales](https://coursemetry.com/microsoft-excel-desde-cero-para-profesionales/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
