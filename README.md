@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **113 Udemy free courses published so far on 2022-08-15**
+## **125 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -229,6 +229,30 @@
 * [Basic Course To GST (Goods And Service Tax)](https://coursemetry.com/basic-course-to-gst-goods-and-service-tax/)
 
 * [Microsoft Office: Word, Excel, PowerPoint  من الصفر للاحتراف](https://coursemetry.com/microsoft-office-word-excel-powerpoint-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [GOLANG: Curso profesional de Go - De cero a Master 2022](https://coursemetry.com/golang-curso-profesional-de-go-de-cero-a-master-2022/)
+
+* [Escuela de Programación y Desarrollo Web desde cero a Master](https://coursemetry.com/escuela-de-programacion-y-desarrollo-web-desde-cero-a-master/)
+
+* [Escuela de Python 2021: Aprende Python 3.9+ de cero a Master](https://coursemetry.com/escuela-de-python-2021-aprende-python-3-9-de-cero-a-master/)
+
+* [Curso completo de Java 2022-De cero a Master](https://coursemetry.com/curso-completo-de-java-2022-de-cero-a-master/)
+
+* [Essential Drawing Course For Beginner To Advanced](https://coursemetry.com/essential-drawing-course-for-beginner-to-advanced/)
+
+* [Java: Curso profesional de Java 2022 –De cero a Master](https://coursemetry.com/java-curso-profesional-de-java-2022-de-cero-a-master/)
+
+* [Okta, Blockchain, NFTs & Cyber Kill Chain- 4 in 1 course](https://coursemetry.com/okta-blockchain-nfts-cyber-kill-chain-4-in-1-course/)
+
+* [Curso completo de Python 2022-De cero a Master con Python 3](https://coursemetry.com/curso-completo-de-python-2022-de-cero-a-master-con-python-3/)
+
+* [MuleSoft Certified Platform Architect level 1 MCPA Exam Prep](https://coursemetry.com/mulesoft-certified-platform-architect-level-1-mcpa-exam-prep/)
+
+* [Google Cloud Professional Data Engineer Practice Exam](https://coursemetry.com/google-cloud-professional-data-engineer-practice-exam/)
+
+* [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
+
+* [MLOps Cert- Basics, Deployment, Vertex AI & Feature Store](https://coursemetry.com/mlops-cert-basics-deployment-vertex-ai-feature-store/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
