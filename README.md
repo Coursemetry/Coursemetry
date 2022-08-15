@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-08-15**
+## **111 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -185,6 +185,46 @@
 * [The Complete Digital Marketing Strategy For 2022](https://coursemetry.com/the-complete-digital-marketing-strategy-for-2022/)
 
 * [Data Visualization in python using seaborn library](https://coursemetry.com/data-visualization-in-python-using-seaborn-library/)
+
+* [Brain Hacking Presentations Skills](https://coursemetry.com/brain-hacking-presentations-skills/)
+
+* [Body Language to Help Your Business Career](https://coursemetry.com/body-language-to-help-your-business-career/)
+
+* [Two QuickBooks File-Business & Personal vs One File For Both](https://coursemetry.com/two-quickbooks-file-business-personal-vs-one-file-for-both/)
+
+* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
+
+* [Public Speaking for Beginners](https://coursemetry.com/public-speaking-for-beginners/)
+
+* [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
+
+* [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
+
+* [Not-for-Profit Accounting-Charities, Colleges, & Health Care](https://coursemetry.com/not-for-profit-accounting-charities-colleges-health-care/)
+
+* [Corporate Finance](https://coursemetry.com/corporate-finance/)
+
+* [The Complete Storytelling Course for Speaking & Presenting](https://coursemetry.com/the-complete-storytelling-course-for-speaking-presenting/)
+
+* [QuickBooks Desktop Not for Profit Organizations](https://coursemetry.com/quickbooks-desktop-not-for-profit-organizations/)
+
+* [Personal Finance](https://coursemetry.com/personal-finance/)
+
+* [Arabic language: Arabic beginner full course 'Bayna Yadayk'](https://coursemetry.com/arabic-language-arabic-beginner-full-course-bayna-yadayk/)
+
+* [Quantity Surveying With Rate Analysis And Take Off-Beginners](https://coursemetry.com/quantity-surveying-with-rate-analysis-and-take-off-beginners/)
+
+* [Entrepreneurship: 60 Day Startup Launch Blueprint](https://coursemetry.com/entrepreneurship-60-day-startup-launch-blueprint/)
+
+* [Governmental Accounting 300 Proprietary & Fiduciary Funds](https://coursemetry.com/governmental-accounting-300-proprietary-fiduciary-funds/)
+
+* [Advanced Financial Accounting](https://coursemetry.com/advanced-financial-accounting/)
+
+* [Presentation Skills for Beginners](https://coursemetry.com/presentation-skills-for-beginners/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [Copywriting & SEO for Beginners: Complete Copywriting Course](https://coursemetry.com/copywriting-seo-for-beginners-complete-copywriting-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
