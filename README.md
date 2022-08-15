@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **161 Udemy free courses published so far on 2022-08-15**
+## **183 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -325,6 +325,50 @@
 * [Power BI: Desde cero para principiantes](https://coursemetry.com/power-bi-desde-cero-para-principiantes/)
 
 * [Microsoft Excel: Desde cero para profesionales](https://coursemetry.com/microsoft-excel-desde-cero-para-profesionales/)
+
+* [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
+
+* [Hack Windows](https://coursemetry.com/hack-windows/)
+
+* [Nueva App móvil para clientes en sistema de Restaurante](https://coursemetry.com/nueva-app-movil-para-clientes-en-sistema-de-restaurante/)
+
+* [The Python and Django Learning Guide](https://coursemetry.com/the-python-and-django-learning-guide/)
+
+* [Python para no matemáticos: De 0 hasta reconocimiento facial](https://coursemetry.com/python-para-no-matematicos-de-0-hasta-reconocimiento-facial/)
+
+* [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
+
+* [Sistema de asistencias en C# y SQLserver desde 0](https://coursemetry.com/sistema-de-asistencias-en-c-y-sqlserver-desde-0/)
+
+* [C# desde 0: Inicia tu carrera como programador](https://coursemetry.com/c-desde-0-inicia-tu-carrera-como-programador/)
+
+* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
+
+* [The Java Learning Guide](https://coursemetry.com/the-java-learning-guide/)
+
+* [الاختراق الأخلاقي بواسطة الهندسة الأجتماعية من الصفر (حصريا)](https://coursemetry.com/%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d8%a8%d9%88%d8%a7%d8%b3%d8%b7%d8%a9-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%a7%d9%84%d8%a3/)
+
+* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
+
+* [Linux Beginner Commands](https://coursemetry.com/linux-beginner-commands/)
+
+* [The PHP 8 Learning Guide [2022 Edition]](https://coursemetry.com/the-php-8-learning-guide-2022-edition/)
+
+* [Ethical Hacking: Linux Backdoor](https://coursemetry.com/ethical-hacking-linux-backdoor/)
+
+* [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
+
+* [Bjorn App android publicitaria en Xamarin forms y Firebase](https://coursemetry.com/bjorn-app-android-publicitaria-en-xamarin-forms-y-firebase/)
+
+* [Inversión para lograr control, dominio y libertad financiera](https://coursemetry.com/inversion-para-lograr-control-dominio-y-libertad-financiera/)
+
+* [App android + Sistema para Karaoke en Xamarin Forms (2021)](https://coursemetry.com/app-android-sistema-para-karaoke-en-xamarin-forms-2021/)
+
+* [The C++ Learning Guide](https://coursemetry.com/the-c-learning-guide/)
+
+* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
+
+* [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
