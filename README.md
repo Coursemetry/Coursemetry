@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **23 Udemy free courses published so far on 2022-08-15**
+## **29 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -49,6 +49,18 @@
 * [التجارة الإلكترونية والتسويق الإلكتروني 24 محاضرة للمبتدئين](https://coursemetry.com/%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa/)
 
 * [Adobe Audition Projects Guide 2022](https://coursemetry.com/adobe-audition-projects-guide-2022/)
+
+* [Mastering Architectural, Night & HDR Photography](https://coursemetry.com/mastering-architectural-night-hdr-photography/)
+
+* [The Comprehensive SQL Course](https://coursemetry.com/the-comprehensive-sql-course/)
+
+* [Python Complete Course For Python Beginners](https://coursemetry.com/python-complete-course-for-python-beginners/)
+
+* [Introduction to Data Wrangling with Trifacta [2022 Edition]](https://coursemetry.com/introduction-to-data-wrangling-with-trifacta-2022-edition/)
+
+* [HTML5 - Do Zero ao Avançado (2022)](https://coursemetry.com/html5-do-zero-ao-avancado-2022/)
+
+* [Group Dynamics: Psychology of Group Behavior](https://coursemetry.com/group-dynamics-psychology-of-group-behavior/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
