@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-08-15**
+## **113 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -225,6 +225,10 @@
 * [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
 
 * [Copywriting & SEO for Beginners: Complete Copywriting Course](https://coursemetry.com/copywriting-seo-for-beginners-complete-copywriting-course/)
+
+* [Basic Course To GST (Goods And Service Tax)](https://coursemetry.com/basic-course-to-gst-goods-and-service-tax/)
+
+* [Microsoft Office: Word, Excel, PowerPoint  من الصفر للاحتراف](https://coursemetry.com/microsoft-office-word-excel-powerpoint-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
