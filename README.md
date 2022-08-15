@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **183 Udemy free courses published so far on 2022-08-15**
+## **196 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -369,6 +369,32 @@
 * [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
 
 * [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
+
+* [Facebook & Instagram Ads For Beginners 2022](https://coursemetry.com/facebook-instagram-ads-for-beginners-2022/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [Improve Your Communication with These 9 Simple Rules](https://coursemetry.com/improve-your-communication-with-these-9-simple-rules/)
+
+* [Universidad Excel - Básico, Intermedio y Avanzado!](https://coursemetry.com/universidad-excel-basico-intermedio-y-avanzado/)
+
+* [Universidad Java - De Cero a Experto - Más Completo +106 hrs](https://coursemetry.com/universidad-java-de-cero-a-experto-mas-completo-106-hrs/)
+
+* [Universidad Angular - De Cero a Experto en Angular!](https://coursemetry.com/universidad-angular-de-cero-a-experto-en-angular/)
+
+* [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
+
+* [Universidad CSS - Aprende CSS desde Cero hasta Experto!](https://coursemetry.com/universidad-css-aprende-css-desde-cero-hasta-experto/)
+
+* [Universidad Desarrollo Web - FrontEnd Web Developer!](https://coursemetry.com/universidad-desarrollo-web-frontend-web-developer/)
+
+* [Universidad HTML - Aprende HTML desde Cero hasta Experto](https://coursemetry.com/universidad-html-aprende-html-desde-cero-hasta-experto/)
+
+* [Universidad Spring - Spring Framework y Spring Boot!](https://coursemetry.com/universidad-spring-spring-framework-y-spring-boot/)
+
+* [Start Streaming With OBS Studio In 2022](https://coursemetry.com/start-streaming-with-obs-studio-in-2022/)
+
+* [HTML5 et CSS3 : La Formation Complète](https://coursemetry.com/html5-et-css3-la-formation-complete/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
