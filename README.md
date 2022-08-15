@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **78 Udemy free courses published so far on 2022-08-15**
+## **87 Udemy free courses published so far on 2022-08-15**
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
@@ -159,6 +159,24 @@
 * [Ekşi Maya Yapımı](https://coursemetry.com/eksi-maya-yapimi/)
 
 * [Become a Coffee Expert: How to Make the Perfect Cup](https://coursemetry.com/become-a-coffee-expert-how-to-make-the-perfect-cup/)
+
+* [Sage Business Cloud Accounting Ultimate Training](https://coursemetry.com/sage-business-cloud-accounting-ultimate-training/)
+
+* [Excel descomplicado para entrevista de emprego](https://coursemetry.com/excel-descomplicado-para-entrevista-de-emprego/)
+
+* [Sales Training: Become A Sales Superstar](https://coursemetry.com/sales-training-become-a-sales-superstar/)
+
+* [CRM: Customer Relationship Management](https://coursemetry.com/crm-customer-relationship-management/)
+
+* [Body Language & Lie Detection: Read Body Language, Spot Lies](https://coursemetry.com/body-language-lie-detection-read-body-language-spot-lies/)
+
+* [Shortcut to Guitar: Beginner Guitar Course](https://coursemetry.com/shortcut-to-guitar-beginner-guitar-course/)
+
+* [Master Machine Learning and Data Science with Python](https://coursemetry.com/master-machine-learning-and-data-science-with-python/)
+
+* [Python with NumPy For Absolute Beginners](https://coursemetry.com/python-with-numpy-for-absolute-beginners/)
+
+* [Public Speaking Masterclass: 10x Your Impact](https://coursemetry.com/public-speaking-masterclass-10x-your-impact/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
