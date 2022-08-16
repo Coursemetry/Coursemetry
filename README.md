@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **90 Udemy free courses published so far on 2022-08-16**
+## **99 Udemy free courses published so far on 2022-08-16**
 
 * [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
 
