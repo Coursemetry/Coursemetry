@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published so far on 2022-08-17**
+## **131 Udemy free courses published so far on 2022-08-17**
 
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
@@ -235,6 +235,36 @@
 * [Lightroom CC Master Class Essentials](https://coursemetry.com/lightroom-cc-master-class-essentials/)
 
 * [Premiere Pro Essentials - Beginning to Pro in No Time!](https://coursemetry.com/premiere-pro-essentials-beginning-to-pro-in-no-time/)
+
+* [Ethical Hacking: Exploit Linux Server](https://coursemetry.com/ethical-hacking-exploit-linux-server/)
+
+* [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
+
+* [Webinar Mastery - Sell High Ticket Products!](https://coursemetry.com/webinar-mastery-sell-high-ticket-products/)
+
+* [Artificial Intelligence in Video Creation: Supreme Edition](https://coursemetry.com/artificial-intelligence-in-video-creation-supreme-edition/)
+
+* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
+
+* [Publish Simple Videos For a Living - Skillshare Earnings](https://coursemetry.com/publish-simple-videos-for-a-living-skillshare-earnings/)
+
+* [Wordpress For Beginners](https://coursemetry.com/wordpress-for-beginners/)
+
+* [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
+
+* [Marketing Articles For Entrepreneurs: Drive Sales & Traffic](https://coursemetry.com/marketing-articles-for-entrepreneurs-drive-sales-traffic/)
+
+* [The 2022 Marketing Method with Assignments & Case Study!](https://coursemetry.com/the-2022-marketing-method-with-assignments-case-study/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 10](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-10/)
+
+* [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
+
+* [SAP BusinessObjects Interview Preparation](https://coursemetry.com/sap-businessobjects-interview-preparation/)
+
+* [Live Video Marketing Mastery 2022](https://coursemetry.com/live-video-marketing-mastery-2022/)
+
+* [Make Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/make-money-copywriting-make-money-writing-copy-from-home/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
