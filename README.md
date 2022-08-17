@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **149 Udemy free courses published so far on 2022-08-17**
+## **152 Udemy free courses published so far on 2022-08-17**
 
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
@@ -301,6 +301,12 @@
 * [Corporate Finance #9 Valuation-Bond, Common /Preferred Stock](https://coursemetry.com/corporate-finance-9-valuation-bond-common-preferred-stock/)
 
 * [Dropshipping Mastery 2022](https://coursemetry.com/dropshipping-mastery-2022/)
+
+* [Learn TypeScript Decorators in depth](https://coursemetry.com/learn-typescript-decorators-in-depth/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [Desarrollo de pruebas técnicas para desarrollador Python](https://coursemetry.com/desarrollo-de-pruebas-tecnicas-para-desarrollador-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
