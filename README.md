@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published so far on 2022-08-17**
+## **149 Udemy free courses published so far on 2022-08-17**
 
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
@@ -265,6 +265,42 @@
 * [Live Video Marketing Mastery 2022](https://coursemetry.com/live-video-marketing-mastery-2022/)
 
 * [Make Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/make-money-copywriting-make-money-writing-copy-from-home/)
+
+* [Modern Reinforcement-learning using Deep Learning](https://coursemetry.com/modern-reinforcement-learning-using-deep-learning/)
+
+* [Get Agency Clients Using a Free Digital Report Strategy](https://coursemetry.com/get-agency-clients-using-a-free-digital-report-strategy/)
+
+* [For Women -Dear Future Lover & Soulmate](https://coursemetry.com/for-women-dear-future-lover-soulmate/)
+
+* [Relations in Discrete Mathematics](https://coursemetry.com/relations-in-discrete-mathematics/)
+
+* [SAT Math Section Solutions With Concept Reviews](https://coursemetry.com/sat-math-section-solutions-with-concept-reviews/)
+
+* [Mobile Application Development using Android](https://coursemetry.com/mobile-application-development-using-android/)
+
+* [Vectors in Physics ( IB Physics 1.3 )](https://coursemetry.com/vectors-in-physics-ib-physics-1-3/)
+
+* [Stocks Algorithmic Trading Masterclass [Tradestation]](https://coursemetry.com/stocks-algorithmic-trading-masterclass-tradestation/)
+
+* [On-Page SEO Tutorial | Search Engine Optimization](https://coursemetry.com/on-page-seo-tutorial-search-engine-optimization/)
+
+* [Energy Engineering _ V](https://coursemetry.com/energy-engineering-_-v/)
+
+* [Electrical Design: Interdisciplinary Coordination](https://coursemetry.com/electrical-design-interdisciplinary-coordination/)
+
+* [High Vibe Chakra Activation](https://coursemetry.com/high-vibe-chakra-activation/)
+
+* [Product Launch Mastery 2022](https://coursemetry.com/product-launch-mastery-2022/)
+
+* [How To Make Passive Income on Amazon KDP with Zero dollars](https://coursemetry.com/how-to-make-passive-income-on-amazon-kdp-with-zero-dollars/)
+
+* [MB-300 : Microsoft Dynamics 365: Core Finance and Operations](https://coursemetry.com/mb-300-microsoft-dynamics-365-core-finance-and-operations/)
+
+* [Facebook Outreach Mastery 2022](https://coursemetry.com/facebook-outreach-mastery-2022/)
+
+* [Corporate Finance #9 Valuation-Bond, Common /Preferred Stock](https://coursemetry.com/corporate-finance-9-valuation-bond-common-preferred-stock/)
+
+* [Dropshipping Mastery 2022](https://coursemetry.com/dropshipping-mastery-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
