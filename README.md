@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-08-17**
+## **108 Udemy free courses published so far on 2022-08-17**
 
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
@@ -144,8 +144,6 @@
 
 * [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
 
-* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
-
 * [Software Testing: Learn with Interview Questions & Answers](https://coursemetry.com/software-testing-learn-with-interview-questions-answers/)
 
 * [Python for OOP: The A-to-Z OOP Python Programming Course](https://coursemetry.com/python-for-oop-the-a-to-z-oop-python-programming-course/)
@@ -197,6 +195,30 @@
 * [AZ-900: Microsoft Azure Fundamentals + FULL Practice Exam!](https://coursemetry.com/az-900-microsoft-azure-fundamentals-full-practice-exam/)
 
 * [Microsoft PowerPoint Kursu | Sertifikalı | 2021](https://coursemetry.com/microsoft-powerpoint-kursu-sertifikali-2021/)
+
+* [SC-300 Microsoft Identity and Access Administrator Exam Prep](https://coursemetry.com/sc-300-microsoft-identity-and-access-administrator-exam-prep/)
+
+* [PHP for Beginners: PHP Crash Course 2022](https://coursemetry.com/php-for-beginners-php-crash-course-2022/)
+
+* [AI-900: Microsoft Azure AI Fundamentals Practice Questions](https://coursemetry.com/ai-900-microsoft-azure-ai-fundamentals-practice-questions-2/)
+
+* [CheckPoint-NGFW Security : Basic Introduction](https://coursemetry.com/checkpoint-ngfw-security-basic-introduction/)
+
+* [Hack Network PCs](https://coursemetry.com/hack-network-pcs/)
+
+* [React Guide - Build a TicTacToe App using React Native!](https://coursemetry.com/react-guide-build-a-tictactoe-app-using-react-native/)
+
+* [Agile Development Methodology Agile Manifesto SCRUM KANBAN](https://coursemetry.com/agile-development-methodology-agile-manifesto-scrum-kanban/)
+
+* [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
+
+* [Construction Tendering and Cost Estimation  ( Pre-contract )](https://coursemetry.com/construction-tendering-and-cost-estimation-pre-contract/)
+
+* [Cyber Security: Anti-Virus](https://coursemetry.com/cyber-security-anti-virus/)
+
+* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
+
+* [The Ultimate NFT Course: Buy, Sell NFTs & Create collections](https://coursemetry.com/the-ultimate-nft-course-buy-sell-nfts-create-collections/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
