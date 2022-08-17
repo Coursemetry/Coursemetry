@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **152 Udemy free courses published so far on 2022-08-17**
+## **159 Udemy free courses published so far on 2022-08-17**
 
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
@@ -307,6 +307,20 @@
 * [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
 
 * [Desarrollo de pruebas técnicas para desarrollador Python](https://coursemetry.com/desarrollo-de-pruebas-tecnicas-para-desarrollador-python/)
+
+* [Conversion Rate Optimization Management](https://coursemetry.com/conversion-rate-optimization-management/)
+
+* [Brain Computer Interfacing using Neuromorphic Computing](https://coursemetry.com/brain-computer-interfacing-using-neuromorphic-computing/)
+
+* [Podcast Audience Growth - Networking with your Guests](https://coursemetry.com/podcast-audience-growth-networking-with-your-guests/)
+
+* [Learn basic Italian in 2 hours](https://coursemetry.com/learn-basic-italian-in-2-hours/)
+
+* [Sales Master Class by Dave Kennett -Close more deals!](https://coursemetry.com/sales-master-class-by-dave-kennett-close-more-deals/)
+
+* [Build A TodoList Fast with Ruby on Rails and Svelte](https://coursemetry.com/build-a-todolist-fast-with-ruby-on-rails-and-svelte/)
+
+* [الكورس الشامل لكيفية إنشاء برنامج تدريبي تفـاعلي ناجح](https://coursemetry.com/%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%aa%d8%af%d8%b1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
