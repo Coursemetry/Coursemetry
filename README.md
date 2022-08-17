@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-08-17**
+## **116 Udemy free courses published so far on 2022-08-17**
 
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
@@ -223,6 +223,18 @@
 * [Corp Finance #10 Cost of Capital–Debt & Equity Financing](https://coursemetry.com/corp-finance-10-cost-of-capital-debt-equity-financing/)
 
 * [Corporate Finance #11 Capital Budgeting](https://coursemetry.com/corporate-finance-11-capital-budgeting/)
+
+* [Photoshop Essentials & Beyond - Beginning & Advance combined](https://coursemetry.com/photoshop-essentials-beyond-beginning-advance-combined/)
+
+* [Curso profesional de Trading intradia](https://coursemetry.com/curso-profesional-de-trading-intradia/)
+
+* [InDesign Essentials & Beyond - Beginning & Advance combined](https://coursemetry.com/indesign-essentials-beyond-beginning-advance-combined/)
+
+* [Illustrator Essentials & Beyond - Beginning/Advance combined](https://coursemetry.com/illustrator-essentials-beyond-beginning-advance-combined/)
+
+* [Lightroom CC Master Class Essentials](https://coursemetry.com/lightroom-cc-master-class-essentials/)
+
+* [Premiere Pro Essentials - Beginning to Pro in No Time!](https://coursemetry.com/premiere-pro-essentials-beginning-to-pro-in-no-time/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
