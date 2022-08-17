@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-08-17**
+## **110 Udemy free courses published so far on 2022-08-17**
 
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
@@ -219,6 +219,10 @@
 * [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
 
 * [The Ultimate NFT Course: Buy, Sell NFTs & Create collections](https://coursemetry.com/the-ultimate-nft-course-buy-sell-nfts-create-collections/)
+
+* [Corp Finance #10 Cost of Capital–Debt & Equity Financing](https://coursemetry.com/corp-finance-10-cost-of-capital-debt-equity-financing/)
+
+* [Corporate Finance #11 Capital Budgeting](https://coursemetry.com/corporate-finance-11-capital-budgeting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
