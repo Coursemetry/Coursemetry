@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-08-17**
+## **97 Udemy free courses published so far on 2022-08-17**
 
 * [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
 
@@ -114,8 +114,6 @@
 
 * [HTML, CSS, & JavaScript - Certification Course for Beginners](https://coursemetry.com/html-css-javascript-certification-course-for-beginners/)
 
-* [Ethical Hacking and Cyber Security Masterclass | CSEH+ 2022](https://coursemetry.com/ethical-hacking-and-cyber-security-masterclass-cseh-2022/)
-
 * [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
 
 * [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
@@ -185,6 +183,20 @@
 * [Video Production - Inexpensive Talking Head Video - Business](https://coursemetry.com/video-production-inexpensive-talking-head-video-business/)
 
 * [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
+
+* [Splunk the Complete course from Zero to Hero 2022](https://coursemetry.com/splunk-the-complete-course-from-zero-to-hero-2022/)
+
+* [Ethical Hacking and Cyber Security Masterclass | CSEH+ 2022](https://coursemetry.com/ethical-hacking-and-cyber-security-masterclass-cseh-2022/)
+
+* [Create a Members Only Blog using PHP, MySQL, & AJAX](https://coursemetry.com/create-a-members-only-blog-using-php-mysql-ajax/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [AZ-900: Microsoft Azure Fundamentals + FULL Practice Exam!](https://coursemetry.com/az-900-microsoft-azure-fundamentals-full-practice-exam/)
+
+* [Microsoft PowerPoint Kursu | Sertifikalı | 2021](https://coursemetry.com/microsoft-powerpoint-kursu-sertifikali-2021/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
