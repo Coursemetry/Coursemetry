@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **129 Udemy free courses published so far on 2022-08-18**
+## **131 Udemy free courses published so far on 2022-08-18**
 
 * [Scrum Certification 2022 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2022-scrum-master-agile-scrum-training/)
 
@@ -261,6 +261,10 @@
 * [Curso Completo de Música Electrónica con Ableton Live 10](https://coursemetry.com/curso-completo-de-musica-electronica-con-ableton-live-10/)
 
 * [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+
+* [Financial Accounting-Debits & Credits-Accounting Transaction](https://coursemetry.com/financial-accounting-debits-credits-accounting-transaction/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
