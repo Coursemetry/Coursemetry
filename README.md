@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **23 Udemy free courses published so far on 2022-08-18**
+## **102 Udemy free courses published so far on 2022-08-18**
 
 * [Scrum Certification 2022 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2022-scrum-master-agile-scrum-training/)
 
@@ -49,6 +49,164 @@
 * [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
+
+* [How To Become a Paranormal Investigator](https://coursemetry.com/how-to-become-a-paranormal-investigator/)
+
+* [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
+
+* [Crea un sistema cotizador y aprende PHP Javascript y AJAX](https://coursemetry.com/crea-un-sistema-cotizador-y-aprende-php-javascript-y-ajax/)
+
+* [Microsoft Power BI - Curso de Power BI Desktop](https://coursemetry.com/microsoft-power-bi-curso-de-power-bi-desktop/)
+
+* [Crea tu propio framework profesional MVC con PHP POO MySQL](https://coursemetry.com/crea-tu-propio-framework-profesional-mvc-con-php-poo-mysql/)
+
+* [Crea una librería de juegos con PHP MySQL AJAX y 2 proyectos](https://coursemetry.com/crea-una-libreria-de-juegos-con-php-mysql-ajax-y-2-proyectos/)
+
+* [Curso básico de SASS, CSS3, HTML5 y jQuery creando un sitio](https://coursemetry.com/curso-basico-de-sass-css3-html5-y-jquery-creando-un-sitio/)
+
+* [Crea un sistema de Autenticación de 2 factores con SMS](https://coursemetry.com/crea-un-sistema-de-autenticacion-de-2-factores-con-sms/)
+
+* [Application development using NodeJS and Express- Jul 2022](https://coursemetry.com/application-development-using-nodejs-and-express-jul-2022/)
+
+* [Desenvolvedor Megazord - Bootcamp completo 2022 + Projetos](https://coursemetry.com/desenvolvedor-megazord-bootcamp-completo-2022-projetos/)
+
+* [Mastering The Complete Agile Scrum Master Workshop](https://coursemetry.com/mastering-the-complete-agile-scrum-master-workshop/)
+
+* [Ethical Hacking: Network Exploitation Basics](https://coursemetry.com/ethical-hacking-network-exploitation-basics/)
+
+* [Master Visual Scripting in Unity by Making Advanced Games](https://coursemetry.com/master-visual-scripting-in-unity-by-making-advanced-games/)
+
+* [Self-Discipline: Build Habits & Develop a Growth Mindset](https://coursemetry.com/self-discipline-build-habits-develop-a-growth-mindset/)
+
+* [Fundamental Question on Data Visualization](https://coursemetry.com/fundamental-question-on-data-visualization/)
+
+* [Aprenda a fazer o melhor Podcast com Power Podcasting](https://coursemetry.com/aprenda-a-fazer-o-melhor-podcast-com-power-podcasting/)
+
+* [Complete Unreal Engine Megacourse: Beginner to Expert](https://coursemetry.com/complete-unreal-engine-megacourse-beginner-to-expert/)
+
+* [Instagram Marketing 2022. How to Promote Your Business!](https://coursemetry.com/instagram-marketing-2022-how-to-promote-your-business/)
+
+* [Top Soft and hard skills valued by Employers in 2022](https://coursemetry.com/top-soft-and-hard-skills-valued-by-employers-in-2022/)
+
+* [Ukulele Complete Course for Beginners](https://coursemetry.com/ukulele-complete-course-for-beginners/)
+
+* [Complete Filipino Course: Learn Filipino for Beginners](https://coursemetry.com/complete-filipino-course-learn-filipino-for-beginners/)
+
+* [Cyber Security: OS Security](https://coursemetry.com/cyber-security-os-security/)
+
+* [Time Management And Goal Planning: The Productivity Combo](https://coursemetry.com/time-management-and-goal-planning-the-productivity-combo/)
+
+* [Information Security Fundamentals](https://coursemetry.com/information-security-fundamentals/)
+
+* [Cisco BGP TSHOOT Labs for CCNA, CCNP and CCIE Students](https://coursemetry.com/cisco-bgp-tshoot-labs-for-ccna-ccnp-and-ccie-students/)
+
+* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/)
+
+* [Make Money Online: Mindset Training + Real-Life Examples](https://coursemetry.com/make-money-online-mindset-training-real-life-examples/)
+
+* [BIM Conceptual y BIM para la Administración Pública](https://coursemetry.com/bim-conceptual-y-bim-para-la-administracion-publica/)
+
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
+
+* [Gestión Del Tiempo: Productividad y Planificación Objetivos](https://coursemetry.com/gestion-del-tiempo-productividad-y-planificacion-objetivos/)
+
+* [Alimentos y Estaciones](https://coursemetry.com/alimentos-y-estaciones/)
+
+* [Experto en Diseño y Ejecución de Escaleras](https://coursemetry.com/experto-en-diseno-y-ejecucion-de-escaleras/)
+
+* [Aprendizaje Efectivo sin Estrés para Adultos](https://coursemetry.com/aprendizaje-efectivo-sin-estres-para-adultos/)
+
+* [Fundamental Question on Business Intelligence](https://coursemetry.com/fundamental-question-on-business-intelligence/)
+
+* [Candlestick Trading Ninja: 10 Hour Glossary & DIY Strategy](https://coursemetry.com/candlestick-trading-ninja-10-hour-glossary-diy-strategy/)
+
+* [Fundamental Question on Data Analysis](https://coursemetry.com/fundamental-question-on-data-analysis/)
+
+* [Theory of Time Series Analysis/Forecasting](https://coursemetry.com/theory-of-time-series-analysis-forecasting/)
+
+* [Higher Rankings and High Quality Traffic with SEO](https://coursemetry.com/higher-rankings-and-high-quality-traffic-with-seo/)
+
+* [The Post-Pandemic Workshop](https://coursemetry.com/the-post-pandemic-workshop/)
+
+* [Writing the Methodology Chapter of Your Dissertation/Thesis](https://coursemetry.com/writing-the-methodology-chapter-of-your-dissertation-thesis/)
+
+* [3 Wooden Planter Projects - Woodworking for Beginner](https://coursemetry.com/3-wooden-planter-projects-woodworking-for-beginner/)
+
+* [Strength For Parkour](https://coursemetry.com/strength-for-parkour/)
+
+* [QuickBooks Pro-Business & Personal-One QuickBooks File](https://coursemetry.com/quickbooks-pro-business-personal-one-quickbooks-file/)
+
+* [The Art of Doing:  Python Network Applications with Sockets!](https://coursemetry.com/the-art-of-doing-python-network-applications-with-sockets/)
+
+* [QuickBooks Pro Desktop -Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-business-easy-way/)
+
+* [QuickBooks Payroll - QuickBooks Online](https://coursemetry.com/quickbooks-payroll-quickbooks-online/)
+
+* [Process Costing System-Cost Accounting-Managerial Accounting](https://coursemetry.com/process-costing-system-cost-accounting-managerial-accounting/)
+
+* [Fundamental Question on Deep Learning](https://coursemetry.com/fundamental-question-on-deep-learning/)
+
+* [Full-time Content Creator: Launch your Career as a Creative](https://coursemetry.com/full-time-content-creator-launch-your-career-as-a-creative/)
+
+* [QuickBooks Online Multiple Currencies](https://coursemetry.com/quickbooks-online-multiple-currencies/)
+
+* [Financial Accounting – Payroll](https://coursemetry.com/financial-accounting-payroll/)
+
+* [B1-B2 Orta Seviye İngilizce Kursu | Tüm Konular ve Yapılar](https://coursemetry.com/b1-b2-orta-seviye-ingilizce-kursu-tum-konular-ve-yapilar/)
+
+* [QuickBooks Online Not for Profit Organization](https://coursemetry.com/quickbooks-online-not-for-profit-organization/)
+
+* [Fundamental Question on Machine Learning](https://coursemetry.com/fundamental-question-on-machine-learning/)
+
+* [QuickBooks Online (QBO) Bookkeeping With Bank Feeds 2022](https://coursemetry.com/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2022/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [Product Photography Masterclass](https://coursemetry.com/product-photography-masterclass/)
+
+* [Partnership Accounting](https://coursemetry.com/partnership-accounting/)
+
+* [Bitcoin ve Kripto Para Uzmanlığı](https://coursemetry.com/bitcoin-ve-kripto-para-uzmanligi/)
+
+* [QuickBooks Enterprise - Two Businesses & Personal in One](https://coursemetry.com/quickbooks-enterprise-two-businesses-personal-in-one/)
+
+* [QuickBooks Pro Desktop Bookkeeping With Bank Feeds 2022 2021](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-with-bank-feeds-2022-2021/)
+
+* [Xero Not for Profit Organization](https://coursemetry.com/xero-not-for-profit-organization/)
+
+* [QuickBooks Online-Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-online-bookkeeping-business-easy-way/)
+
+* [Relevant Costs - Managerial Accounting Decisions & Scenarios](https://coursemetry.com/relevant-costs-managerial-accounting-decisions-scenarios/)
+
+* [Flutter Bloc pattern from zero to hero in Arabic | بالعربي](https://coursemetry.com/flutter-bloc-pattern-from-zero-to-hero-in-arabic-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [Podcasting für Online-Unternehmer leicht gemacht mit Anchor](https://coursemetry.com/podcasting-fur-online-unternehmer-leicht-gemacht-mit-anchor/)
+
+* [Tax Credits - Family & Dependent Tax Credits](https://coursemetry.com/tax-credits-family-dependent-tax-credits/)
+
+* [QuickBooks Desktop Multiple Currencies](https://coursemetry.com/quickbooks-desktop-multiple-currencies/)
+
+* [QuickBooks Online vs. QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-vs-excel/)
+
+* [Responsibility Accounting & Performance Measurement](https://coursemetry.com/responsibility-accounting-performance-measurement/)
+
+* [Fundamental Question on Data Mining](https://coursemetry.com/fundamental-question-on-data-mining/)
+
+* [QuickBooks Payroll - QuickBooks Pro Desktop](https://coursemetry.com/quickbooks-payroll-quickbooks-pro-desktop/)
+
+* [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
+
+* [Tax & Adjusting Entry Year-End Accounting Excel Worksheet](https://coursemetry.com/tax-adjusting-entry-year-end-accounting-excel-worksheet/)
+
+* [Xero Job Costing – Projects](https://coursemetry.com/xero-job-costing-projects/)
+
+* [QuickBooks Enterprise-Classes-Responsibility Accounting](https://coursemetry.com/quickbooks-enterprise-classes-responsibility-accounting/)
+
+* [Practical Photography for Absolute Beginners: 9 Courses in 1](https://coursemetry.com/practical-photography-for-absolute-beginners-9-courses-in-1/)
+
+* [Time Value of Money & Capital Budgeting - Present Value](https://coursemetry.com/time-value-of-money-capital-budgeting-present-value/)
+
+* [Wave Accounting](https://coursemetry.com/wave-accounting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
