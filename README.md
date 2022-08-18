@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published so far on 2022-08-18**
+## **134 Udemy free courses published so far on 2022-08-18**
 
 * [Scrum Certification 2022 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2022-scrum-master-agile-scrum-training/)
 
@@ -178,8 +178,6 @@
 
 * [Relevant Costs - Managerial Accounting Decisions & Scenarios](https://coursemetry.com/relevant-costs-managerial-accounting-decisions-scenarios/)
 
-* [Flutter Bloc pattern from zero to hero in Arabic | بالعربي](https://coursemetry.com/flutter-bloc-pattern-from-zero-to-hero-in-arabic-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
-
 * [Podcasting für Online-Unternehmer leicht gemacht mit Anchor](https://coursemetry.com/podcasting-fur-online-unternehmer-leicht-gemacht-mit-anchor/)
 
 * [Tax Credits - Family & Dependent Tax Credits](https://coursemetry.com/tax-credits-family-dependent-tax-credits/)
@@ -265,6 +263,14 @@
 * [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
 
 * [Financial Accounting-Debits & Credits-Accounting Transaction](https://coursemetry.com/financial-accounting-debits-credits-accounting-transaction/)
+
+* [Complete Guide To Forex Trading : Profitable Forex Strategy](https://coursemetry.com/complete-guide-to-forex-trading-profitable-forex-strategy/)
+
+* [Flutter Bloc pattern from zero to hero in Arabic | بالعربي](https://coursemetry.com/flutter-bloc-pattern-from-zero-to-hero-in-arabic-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://coursemetry.com/how-to-make-money-online-for-beginners-follow-proven-steps/)
+
+* [AZ-304: Microsoft Azure Architect Design Practice Questions](https://coursemetry.com/az-304-microsoft-azure-architect-design-practice-questions-3/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
