@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published so far on 2022-08-18**
+## **108 Udemy free courses published so far on 2022-08-18**
 
 * [Scrum Certification 2022 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2022-scrum-master-agile-scrum-training/)
 
@@ -207,6 +207,18 @@
 * [Time Value of Money & Capital Budgeting - Present Value](https://coursemetry.com/time-value-of-money-capital-budgeting-present-value/)
 
 * [Wave Accounting](https://coursemetry.com/wave-accounting/)
+
+* [Build your Email List on Steroids using Killer Lead Magnets](https://coursemetry.com/build-your-email-list-on-steroids-using-killer-lead-magnets/)
+
+* [mBlock İle Arduino](https://coursemetry.com/mblock-ile-arduino/)
+
+* [Microsoft Project Online : Complete Ms Project Course](https://coursemetry.com/microsoft-project-online-complete-ms-project-course/)
+
+* [The Complete 2022 Epic 3D Metaverse and NFT Designing](https://coursemetry.com/the-complete-2022-epic-3d-metaverse-and-nft-designing/)
+
+* [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
+
+* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
