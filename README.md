@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-08-18**
+## **129 Udemy free courses published so far on 2022-08-18**
 
 * [Scrum Certification 2022 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2022-scrum-master-agile-scrum-training/)
 
@@ -219,6 +219,48 @@
 * [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
 
 * [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+
+* [How to make a Business Website in WordPress 2022](https://coursemetry.com/how-to-make-a-business-website-in-wordpress-2022/)
+
+* [How to Make a Personal Portfolio WordPress Website 2022](https://coursemetry.com/how-to-make-a-personal-portfolio-wordpress-website-2022/)
+
+* [How To Install WordPress on Local host For Free](https://coursemetry.com/how-to-install-wordpress-on-local-host-for-free/)
+
+* [Complete Blender Course for Beginners - Creating a Knife Set](https://coursemetry.com/complete-blender-course-for-beginners-creating-a-knife-set/)
+
+* [Complete Blender Course for Beginners - Modeling a Hotel](https://coursemetry.com/complete-blender-course-for-beginners-modeling-a-hotel/)
+
+* [Complete Goal Setting Course - Become Your Own Life Coach](https://coursemetry.com/complete-goal-setting-course-become-your-own-life-coach/)
+
+* [Real Estate Underwriting Training- Full Loan Review Process](https://coursemetry.com/real-estate-underwriting-training-full-loan-review-process/)
+
+* [Practice Exams | AWS Certified Cloud Practitioner CLF-C01](https://coursemetry.com/practice-exams-aws-certified-cloud-practitioner-clf-c01-2/)
+
+* [Complete Electronic Music Production Ableton Live 10 Course](https://coursemetry.com/complete-electronic-music-production-ableton-live-10-course/)
+
+* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
+
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+
+* [Climate Change explained: Causes, consequences and solutions](https://coursemetry.com/climate-change-explained-causes-consequences-and-solutions/)
+
+* [Eliminate Your Insomnia Now  Build Strong Sleep Habits](https://coursemetry.com/eliminate-your-insomnia-now-build-strong-sleep-habits/)
+
+* [Mindset for Success and Happiness - Complete Mindset Course](https://coursemetry.com/mindset-for-success-and-happiness-complete-mindset-course/)
+
+* [Financial Accounting-Adjusting Entries & Financial Statement](https://coursemetry.com/financial-accounting-adjusting-entries-financial-statement/)
+
+* [Curso Básico de Canva 2022: Crea Diseños Gráficos Desde Cero](https://coursemetry.com/curso-basico-de-canva-2022-crea-disenos-graficos-desde-cero/)
+
+* [Financial Accounting – Closing Process](https://coursemetry.com/financial-accounting-closing-process/)
+
+* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
+
+* [Introduction to Music Symbols (Grade 1, Level 1)](https://coursemetry.com/introduction-to-music-symbols-grade-1-level-1/)
+
+* [Curso Completo de Música Electrónica con Ableton Live 10](https://coursemetry.com/curso-completo-de-musica-electronica-con-ableton-live-10/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
