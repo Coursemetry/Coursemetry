@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-08-19**
+## **153 Udemy free courses published so far on 2022-08-19**
 
 * [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
@@ -185,6 +185,130 @@
 * [A Hands-on Guide to PowerApps & The Power Platform](https://coursemetry.com/a-hands-on-guide-to-powerapps-the-power-platform/)
 
 * [Lead Generation Mastery 2022](https://coursemetry.com/lead-generation-mastery-2022/)
+
+* [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
+
+* [Smart Content Marketing Mastery 2022](https://coursemetry.com/smart-content-marketing-mastery-2022/)
+
+* [Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://coursemetry.com/freelancing-37-ways-to-make-money-from-home-as-a-freelancer/)
+
+* [Microsoft Excel - Learn MS EXCEL For DATA Analysis](https://coursemetry.com/microsoft-excel-learn-ms-excel-for-data-analysis/)
+
+* [Media Training for Authors: Promote Your Book in the News](https://coursemetry.com/media-training-for-authors-promote-your-book-in-the-news/)
+
+* [Google Office: Docs, Sheets, Slides  من الصفر للاحتراف](https://coursemetry.com/google-office-docs-sheets-slides-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Personal Branding: You Deliver a Great Elevator Pitch](https://coursemetry.com/personal-branding-you-deliver-a-great-elevator-pitch/)
+
+* [How to Enjoy Wine More AND Spend Less Money](https://coursemetry.com/how-to-enjoy-wine-more-and-spend-less-money/)
+
+* [CheckPoint Firewall Administration R80](https://coursemetry.com/checkpoint-firewall-administration-r80/)
+
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [Cómo Crear una Página web con WordPress y Elementor 2022](https://coursemetry.com/como-crear-una-pagina-web-con-wordpress-y-elementor-2022/)
+
+* [Mobile Marketing Mastery 2022](https://coursemetry.com/mobile-marketing-mastery-2022/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+
+* [Functional Programming + Lambdas, Method References, Streams](https://coursemetry.com/functional-programming-lambdas-method-references-streams/)
+
+* [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
+
+* [Relational Databases & SQL: Complete Guide for Developers](https://coursemetry.com/relational-databases-sql-complete-guide-for-developers/)
+
+* [GoF Design Patterns - Complete Course with Java Examples](https://coursemetry.com/gof-design-patterns-complete-course-with-java-examples/)
+
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
+
+* [Time Management Mastery 2022](https://coursemetry.com/time-management-mastery-2022/)
+
+* [Master Multithreading - Concurrency with Java Examples](https://coursemetry.com/master-multithreading-concurrency-with-java-examples/)
+
+* [Public Speaking Mastery 2022](https://coursemetry.com/public-speaking-mastery-2022/)
+
+* [Java Collections Framework + Generics, Lambdas & Stream API](https://coursemetry.com/java-collections-framework-generics-lambdas-stream-api/)
+
+* [QuickBooks Desktop – Export Directly to Tax Software Lacerte](https://coursemetry.com/quickbooks-desktop-export-directly-to-tax-software-lacerte/)
+
+* [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
+
+* [PowerPoint 365 New Features](https://coursemetry.com/powerpoint-365-new-features/)
+
+* [Best of SEO: #1 SEO Training & Content Marketing Course 2022](https://coursemetry.com/best-of-seo-1-seo-training-content-marketing-course-2022/)
+
+* [C# Console and Windows Forms Development w/ Entity Framework](https://coursemetry.com/c-console-and-windows-forms-development-w-entity-framework/)
+
+* [Learn ASP.NET MVC and Entity Framework (Database First)](https://coursemetry.com/learn-asp-net-mvc-and-entity-framework-database-first/)
+
+* [Introduction To Website Development Technologies](https://coursemetry.com/introduction-to-website-development-technologies/)
+
+* [Modern PHP Web Development w/ MySQL, GitHub & Heroku](https://coursemetry.com/modern-php-web-development-w-mysql-github-heroku/)
+
+* [MySQL Database Development Mastery](https://coursemetry.com/mysql-database-development-mastery/)
+
+* [Microsoft SQL Server Development for Everyone](https://coursemetry.com/microsoft-sql-server-development-for-everyone/)
+
+* [Content Marketing Mastery 2022](https://coursemetry.com/content-marketing-mastery-2022/)
+
+* [Startup Bootstrapping Mastery 2022](https://coursemetry.com/startup-bootstrapping-mastery-2022/)
+
+* [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
+
+* [Software architecture](https://coursemetry.com/software-architecture/)
+
+* [Grade 10 Maths: Transformations and Symmetry (Taster Course)](https://coursemetry.com/grade-10-maths-transformations-and-symmetry-taster-course/)
+
+* [Blackjack](https://coursemetry.com/blackjack/)
+
+* [PHP for Beginners: Become a PHP Master | Course 2022 PART-2](https://coursemetry.com/php-for-beginners-become-a-php-master-course-2022-part-2/)
+
+* [PHP for Beginners: Become a PHP Master | Course 2022 PART-3](https://coursemetry.com/php-for-beginners-become-a-php-master-course-2022-part-3/)
+
+* [PHP for Beginners: Become a PHP Master | Course 2022 PART-1](https://coursemetry.com/php-for-beginners-become-a-php-master-course-2022-part-1/)
+
+* [Dual Momentum Investing](https://coursemetry.com/dual-momentum-investing/)
+
+* [Machine Learning Practice Tests and Interview Questions](https://coursemetry.com/machine-learning-practice-tests-and-interview-questions/)
+
+* [Python Practice Tests & Interview Questions (Basic/Advanced)](https://coursemetry.com/python-practice-tests-interview-questions-basic-advanced/)
+
+* [No-Code Machine Learning with Qlik AutoML](https://coursemetry.com/no-code-machine-learning-with-qlik-automl/)
+
+* [Data Sonification using Two Tone- Convert your Data to Music](https://coursemetry.com/data-sonification-using-two-tone-convert-your-data-to-music/)
+
+* [PyScript Fundamentals 101- Run Python in your Browser's HTML](https://coursemetry.com/pyscript-fundamentals-101-run-python-in-your-browsers-html/)
+
+* [Solidity Interview Questions & Practice Tests (updated 2022)](https://coursemetry.com/solidity-interview-questions-practice-tests-updated-2022/)
+
+* [Data Mesh - A Modern Decentralized Data Management Concept](https://coursemetry.com/data-mesh-a-modern-decentralized-data-management-concept/)
+
+* [Quantum Computing Fundamentals with Microsoft Azure Quantum](https://coursemetry.com/quantum-computing-fundamentals-with-microsoft-azure-quantum/)
+
+* [Agile, Scrum & Kanban Practice Tests & Interview Questions](https://coursemetry.com/agile-scrum-kanban-practice-tests-interview-questions/)
+
+* [Web5 Fundamentals - A New Evolution of Web & Data Ownership](https://coursemetry.com/web5-fundamentals-a-new-evolution-of-web-data-ownership/)
+
+* [Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests](https://coursemetry.com/web-3-0-blockchain-smart-contracts-crypto-practice-tests/)
+
+* [Power Pages - A Complete Guide to Microsoft Power Pages](https://coursemetry.com/power-pages-a-complete-guide-to-microsoft-power-pages/)
+
+* [Project/ Product Management Frameworks & Methods MasterClass](https://coursemetry.com/project-product-management-frameworks-methods-masterclass/)
+
+* [Git &Github Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/git-github-practice-tests-interview-questions-basic-adv/)
+
+* [Microsoft Power BI Practice Tests and Interview Questions](https://coursemetry.com/microsoft-power-bi-practice-tests-and-interview-questions/)
+
+* [WordPress Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/wordpress-practice-tests-interview-questions-basic-adv/)
+
+* [Complete Cyber Security Practice Tests & Interview Questions](https://coursemetry.com/complete-cyber-security-practice-tests-interview-questions/)
+
+* [Flourish Studio Masterclass : Create Animated Visualizations](https://coursemetry.com/flourish-studio-masterclass-create-animated-visualizations/)
+
+* [Web3 / Blockchain Project Manager Certification Course](https://coursemetry.com/web3-blockchain-project-manager-certification-course/)
+
+* [MongoDB, Express, React, Node, Angular (MEAN/MERN) - 5 in 1](https://coursemetry.com/mongodb-express-react-node-angular-mean-mern-5-in-1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
