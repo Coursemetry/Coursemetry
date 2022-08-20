@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-08-20**
+## **106 Udemy free courses published so far on 2022-08-20**
 
 * [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
 
@@ -213,6 +213,8 @@
 * [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
 
 * [Aromatherapy: complete beginner course for essential oils](https://coursemetry.com/aromatherapy-complete-beginner-course-for-essential-oils/)
+
+* [Branding Bootcamp : Craft a Brand Identity & Brand Strategy](https://coursemetry.com/branding-bootcamp-craft-a-brand-identity-brand-strategy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
