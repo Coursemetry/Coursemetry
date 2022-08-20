@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **107 Udemy free courses published so far on 2022-08-20**
+## **120 Udemy free courses published so far on 2022-08-20**
 
 * [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
 
@@ -217,6 +217,32 @@
 * [Branding Bootcamp : Craft a Brand Identity & Brand Strategy](https://coursemetry.com/branding-bootcamp-craft-a-brand-identity-brand-strategy/)
 
 * [Kotlin Programming Masterclass [2022]: From Zero To Hero!](https://coursemetry.com/kotlin-programming-masterclass-2022-from-zero-to-hero/)
+
+* [Life Coach: The Complete Life Coach Certification Course](https://coursemetry.com/life-coach-the-complete-life-coach-certification-course/)
+
+* [Yeni Başlayanlar için 2 Dakika Temel İspanyolca](https://coursemetry.com/yeni-baslayanlar-icin-2-dakika-temel-ispanyolca/)
+
+* [CBT for anxiety and panic](https://coursemetry.com/cbt-for-anxiety-and-panic/)
+
+* [CBT and Nutrition Ultimate Certification Course](https://coursemetry.com/cbt-and-nutrition-ultimate-certification-course/)
+
+* [Cisco CCNA: Understanding OSPF LSA Types](https://coursemetry.com/cisco-ccna-understanding-ospf-lsa-types/)
+
+* [Essential Oils Ultimate Certification Course](https://coursemetry.com/essential-oils-ultimate-certification-course/)
+
+* [Python with NumPy For Absolute Beginners](https://coursemetry.com/python-with-numpy-for-absolute-beginners/)
+
+* [CBT: Complete psychotherapy Certificate Course](https://coursemetry.com/cbt-complete-psychotherapy-certificate-course/)
+
+* [Life Coaching: ZERO TO HERO Life Coach certificate Course](https://coursemetry.com/life-coaching-zero-to-hero-life-coach-certificate-course/)
+
+* [CBT: Cognitive Behavioral Therapy For Anxiety And Depression](https://coursemetry.com/cbt-cognitive-behavioral-therapy-for-anxiety-and-depression/)
+
+* [Neuroplasticity And CBT Complete Certification Course](https://coursemetry.com/neuroplasticity-and-cbt-complete-certification-course/)
+
+* [CBT Ultimate Certificate Course for Everyone](https://coursemetry.com/cbt-ultimate-certificate-course-for-everyone/)
+
+* [Life coach and life purpose certification course](https://coursemetry.com/life-coach-and-life-purpose-certification-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
