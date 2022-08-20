@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published so far on 2022-08-20**
+## **125 Udemy free courses published so far on 2022-08-20**
 
 * [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
 
@@ -243,6 +243,16 @@
 * [CBT Ultimate Certificate Course for Everyone](https://coursemetry.com/cbt-ultimate-certificate-course-for-everyone/)
 
 * [Life coach and life purpose certification course](https://coursemetry.com/life-coach-and-life-purpose-certification-course/)
+
+* [Best Course for Beginners; SAP SD: SAP Order to Cash by MFAB](https://coursemetry.com/best-course-for-beginners-sap-sd-sap-order-to-cash-by-mfab/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Learn Web Application Security For Beginners- OWASP Top 10](https://coursemetry.com/learn-web-application-security-for-beginners-owasp-top-10/)
+
+* [Full web bundle 2022 Build 2 websites Learn dart for flutter](https://coursemetry.com/full-web-bundle-2022-build-2-websites-learn-dart-for-flutter/)
+
+* [Angular/Python - Recommender system](https://coursemetry.com/angular-python-recommender-system/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
