@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **35 Udemy free courses published so far on 2022-08-20**
+## **42 Udemy free courses published so far on 2022-08-20**
 
 * [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
 
@@ -73,6 +73,20 @@
 * [Introduction to Computer Organization](https://coursemetry.com/introduction-to-computer-organization/)
 
 * [The Cloud Course](https://coursemetry.com/the-cloud-course/)
+
+* [Color Correction & Grading with Adobe Premiere Pro 2022](https://coursemetry.com/color-correction-grading-with-adobe-premiere-pro-2022/)
+
+* [Learn Basics Of Adobe After Effects CC 2022 for Beginners](https://coursemetry.com/learn-basics-of-adobe-after-effects-cc-2022-for-beginners/)
+
+* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
+
+* [Color Grading and Video Editing with Davinci Resolve 18](https://coursemetry.com/color-grading-and-video-editing-with-davinci-resolve-18/)
+
+* [Video Editing with Adobe Premiere Pro CC 2022 for Beginners](https://coursemetry.com/video-editing-with-adobe-premiere-pro-cc-2022-for-beginners/)
+
+* [Video Editing with Avid Media Composer First for Beginners](https://coursemetry.com/video-editing-with-avid-media-composer-first-for-beginners/)
+
+* [Learn Basics of Adobe Photoshop CC 2022 for Beginners](https://coursemetry.com/learn-basics-of-adobe-photoshop-cc-2022-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
