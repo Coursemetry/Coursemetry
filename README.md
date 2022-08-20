@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published so far on 2022-08-20**
+## **95 Udemy free courses published so far on 2022-08-20**
 
 * [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
 
@@ -175,6 +175,24 @@
 * [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
 
 * [AWS Services for Solutions Architect Associate [2022]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2022/)
+
+* [Hack Network PCs](https://coursemetry.com/hack-network-pcs/)
+
+* [Podcast Storytelling Masterclass](https://coursemetry.com/podcast-storytelling-masterclass/)
+
+* [Ethical Hacking: Exploit Linux Server](https://coursemetry.com/ethical-hacking-exploit-linux-server/)
+
+* [Realtor Podcast Marketing For Real Estate Agents Success](https://coursemetry.com/realtor-podcast-marketing-for-real-estate-agents-success/)
+
+* [Excel files with Python](https://coursemetry.com/excel-files-with-python/)
+
+* [Create Space Invaders with Python PyGame](https://coursemetry.com/create-space-invaders-with-python-pygame/)
+
+* [How Websites Work](https://coursemetry.com/how-websites-work/)
+
+* [Cyber Security: Secure Passwords on Linux](https://coursemetry.com/cyber-security-secure-passwords-on-linux/)
+
+* [Ubuntu Linux for beginners](https://coursemetry.com/ubuntu-linux-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
