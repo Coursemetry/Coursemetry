@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **95 Udemy free courses published so far on 2022-08-20**
+## **105 Udemy free courses published so far on 2022-08-20**
 
 * [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
 
@@ -193,6 +193,26 @@
 * [Cyber Security: Secure Passwords on Linux](https://coursemetry.com/cyber-security-secure-passwords-on-linux/)
 
 * [Ubuntu Linux for beginners](https://coursemetry.com/ubuntu-linux-for-beginners/)
+
+* [Hashicorp vault on Kubernetes cluster](https://coursemetry.com/hashicorp-vault-on-kubernetes-cluster/)
+
+* [Fundamentos da Criptografia, Esteganografia e Criptoanálise](https://coursemetry.com/fundamentos-da-criptografia-esteganografia-e-criptoanalise/)
+
+* [Continuous Delivery/Integration with Github Actions Workflow](https://coursemetry.com/continuous-delivery-integration-with-github-actions-workflow/)
+
+* [Learn Azure DevOps - Boards,Pipeline,YAML based Deployment.](https://coursemetry.com/learn-azure-devops-boardspipelineyaml-based-deployment/)
+
+* [De Cero a Experto en Criptomonedas.](https://coursemetry.com/de-cero-a-experto-en-criptomonedas/)
+
+* [Microsoft Word Certification - Master Word Basics](https://coursemetry.com/microsoft-word-certification-master-word-basics/)
+
+* [Linux Red Hat Certified Engineer (RHCE - EX294)](https://coursemetry.com/linux-red-hat-certified-engineer-rhce-ex294/)
+
+* [Aromatherapy Complete Certification Course](https://coursemetry.com/aromatherapy-complete-certification-course/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [Aromatherapy: complete beginner course for essential oils](https://coursemetry.com/aromatherapy-complete-beginner-course-for-essential-oils/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
