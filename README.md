@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **41 Udemy free courses published so far on 2022-08-21**
+## **62 Udemy free courses published so far on 2022-08-21**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -85,6 +85,48 @@
 * [Facebook Ads For Small Business From Very Basic To Advance](https://coursemetry.com/facebook-ads-for-small-business-from-very-basic-to-advance/)
 
 * [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [Build A TodoList with Kotlin, Spring Boot and Svelte](https://coursemetry.com/build-a-todolist-with-kotlin-spring-boot-and-svelte/)
+
+* [Análisis de Marketing: Estrategias y Análisis de Precios](https://coursemetry.com/analisis-de-marketing-estrategias-y-analisis-de-precios/)
+
+* [Microsoft Excel - MS Excel Formulas & Functions in just 3hrs](https://coursemetry.com/microsoft-excel-ms-excel-formulas-functions-in-just-3hrs/)
+
+* [Image Recognition for Beginners using CNN in R Studio](https://coursemetry.com/image-recognition-for-beginners-using-cnn-in-r-studio/)
+
+* [Zero to Hero in Microsoft Excel: Complete Excel guide 2022](https://coursemetry.com/zero-to-hero-in-microsoft-excel-complete-excel-guide-2022/)
+
+* [SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z](https://coursemetry.com/sql-for-data-analytics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-sql-a-z/)
+
+* [Quantum Physics For Beginners To Newton Law Kung Fu Physics](https://coursemetry.com/quantum-physics-for-beginners-to-newton-law-kung-fu-physics/)
+
+* [Holistic Approach to Live Healthy and Happy Life](https://coursemetry.com/holistic-approach-to-live-healthy-and-happy-life/)
+
+* [Getting Started with Onshape](https://coursemetry.com/getting-started-with-onshape/)
+
+* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
+
+* [Make Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/make-money-copywriting-make-money-writing-copy-from-home/)
+
+* [Secrets to Write a Copwriting that Sells like HOT Cakes!](https://coursemetry.com/secrets-to-write-a-copwriting-that-sells-like-hot-cakes/)
+
+* [Learn 5 Professional Mind Reading & Card Magic Routines](https://coursemetry.com/learn-5-professional-mind-reading-card-magic-routines/)
+
+* [The Simple Secrets to Make Things Happen](https://coursemetry.com/the-simple-secrets-to-make-things-happen/)
+
+* [CPanel Mastery A Comprehensive and Complete CPanel Training](https://coursemetry.com/cpanel-mastery-a-comprehensive-and-complete-cpanel-training/)
+
+* [Build A TodoList Fast with Elixir, Phoenix and Svelte](https://coursemetry.com/build-a-todolist-fast-with-elixir-phoenix-and-svelte/)
+
+* [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
+
+* [Build A TodoList Fast with Laravel, PHP and Svelte](https://coursemetry.com/build-a-todolist-fast-with-laravel-php-and-svelte/)
+
+* [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
+
+* [PEGA PRPC Tutorials for Beginners](https://coursemetry.com/pega-prpc-tutorials-for-beginners/)
+
+* [History of Herbal Medicine](https://coursemetry.com/history-of-herbal-medicine/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
