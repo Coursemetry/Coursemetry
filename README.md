@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-08-21**
+## **72 Udemy free courses published so far on 2022-08-21**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -137,6 +137,16 @@
 * [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
 
 * [Career Management, Life & Management Skills Assessment Tests](https://coursemetry.com/career-management-life-management-skills-assessment-tests/)
+
+* [Nmap Crash Course For Ethical Hackers](https://coursemetry.com/nmap-crash-course-for-ethical-hackers/)
+
+* [Podcasting Professional Course: Everything about podcasts](https://coursemetry.com/podcasting-professional-course-everything-about-podcasts/)
+
+* [CCNA to CCNP Transition: Miscellaneous Topics](https://coursemetry.com/ccna-to-ccnp-transition-miscellaneous-topics/)
+
+* [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
