@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published so far on 2022-08-21**
+## **83 Udemy free courses published so far on 2022-08-21**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -147,6 +147,28 @@
 * [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
 
 * [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [Learn NoSQL Databases - Complete MongoDB Bootcamp 2022](https://coursemetry.com/learn-nosql-databases-complete-mongodb-bootcamp-2022/)
+
+* [The most important French words and expressions](https://coursemetry.com/the-most-important-french-words-and-expressions/)
+
+* [French for complete Beginners - A1](https://coursemetry.com/french-for-complete-beginners-a1/)
+
+* [How to make sales on Shopify.](https://coursemetry.com/how-to-make-sales-on-shopify/)
+
+* [Best Kept Secrets to Affiliate Marketing Excellence](https://coursemetry.com/best-kept-secrets-to-affiliate-marketing-excellence/)
+
+* [Youtube Marketing 101 Grow Your Brand On Youtube Doing Dream](https://coursemetry.com/youtube-marketing-101-grow-your-brand-on-youtube-doing-dream/)
+
+* [5 Essential TIPS for Starting a YouTube Channel](https://coursemetry.com/5-essential-tips-for-starting-a-youtube-channel/)
+
+* [Learn to design Stunning YouTube thumbnail](https://coursemetry.com/learn-to-design-stunning-youtube-thumbnail/)
+
+* [Complete Accounting + Tallyprime + Tally ERP9 + GST (4 in 1)](https://coursemetry.com/complete-accounting-tallyprime-tally-erp9-gst-4-in-1/)
+
+* [Ethics of Research-A Basic Course](https://coursemetry.com/ethics-of-research-a-basic-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
