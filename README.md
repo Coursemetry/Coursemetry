@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **38 Udemy free courses published so far on 2022-08-21**
+## **41 Udemy free courses published so far on 2022-08-21**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -79,6 +79,12 @@
 * [Strategic Marketing: 5 steps to boost your business growth](https://coursemetry.com/strategic-marketing-5-steps-to-boost-your-business-growth/)
 
 * [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
+
+* [HTML and CSS for Beginners From Basic to Advance](https://coursemetry.com/html-and-css-for-beginners-from-basic-to-advance/)
+
+* [Facebook Ads For Small Business From Very Basic To Advance](https://coursemetry.com/facebook-ads-for-small-business-from-very-basic-to-advance/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
