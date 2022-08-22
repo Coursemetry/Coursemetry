@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-08-22**
+## **128 Udemy free courses published so far on 2022-08-22**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -223,6 +223,42 @@
 * [Computer Vision with Python](https://coursemetry.com/computer-vision-with-python/)
 
 * [Intro to Programming](https://coursemetry.com/intro-to-programming/)
+
+* [Python Course From Basic to Advanced](https://coursemetry.com/python-course-from-basic-to-advanced/)
+
+* [Pricing Strategies Mastery 2022](https://coursemetry.com/pricing-strategies-mastery-2022/)
+
+* [Futures Trading Mastery 2022 | FREE Top 45 Trading Signals!](https://coursemetry.com/futures-trading-mastery-2022-free-top-45-trading-signals/)
+
+* [Universidad HTML - Aprende HTML desde Cero hasta Experto](https://coursemetry.com/universidad-html-aprende-html-desde-cero-hasta-experto/)
+
+* [Computer Organization: CPU Cache and the Memory Hierarchy](https://coursemetry.com/computer-organization-cpu-cache-and-the-memory-hierarchy/)
+
+* [Universidad Java - De Cero a Experto - Más Completo +106 hrs](https://coursemetry.com/universidad-java-de-cero-a-experto-mas-completo-106-hrs/)
+
+* [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
+
+* [Universidad Desarrollo Web - FrontEnd Web Developer!](https://coursemetry.com/universidad-desarrollo-web-frontend-web-developer/)
+
+* [TikTok Marketing Mastery 2022](https://coursemetry.com/tiktok-marketing-mastery-2022/)
+
+* [Learn SCADA Automation: Design, Program, Project & Interface](https://coursemetry.com/learn-scada-automation-design-program-project-interface/)
+
+* [Universidad JavaScript - De Cero a Experto JavaScript!](https://coursemetry.com/universidad-javascript-de-cero-a-experto-javascript/)
+
+* [Universidad CSS - Aprende CSS desde Cero hasta Experto!](https://coursemetry.com/universidad-css-aprende-css-desde-cero-hasta-experto/)
+
+* [Universidad Excel - Básico, Intermedio y Avanzado!](https://coursemetry.com/universidad-excel-basico-intermedio-y-avanzado/)
+
+* [T-Shirt Business Mastery 2022  | Full Blueprint From 0 to 1](https://coursemetry.com/t-shirt-business-mastery-2022-full-blueprint-from-0-to-1/)
+
+* [Universidad Spring - Spring Framework y Spring Boot!](https://coursemetry.com/universidad-spring-spring-framework-y-spring-boot/)
+
+* [Universidad Angular - De Cero a Experto en Angular!](https://coursemetry.com/universidad-angular-de-cero-a-experto-en-angular/)
+
+* [Learn NoSQL Databases - Complete MongoDB Bootcamp 2022](https://coursemetry.com/learn-nosql-databases-complete-mongodb-bootcamp-2022/)
+
+* [Metasverse Mastery 2022 | Start A Business in Web 3.0 World!](https://coursemetry.com/metasverse-mastery-2022-start-a-business-in-web-3-0-world/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
