@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published so far on 2022-08-22**
+## **98 Udemy free courses published so far on 2022-08-22**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -191,6 +191,14 @@
 * [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
 
 * [This Is Your Definitive Content Marketing Blueprint](https://coursemetry.com/this-is-your-definitive-content-marketing-blueprint/)
+
+* [Webpack 5 in 2022: Optimizing For Production](https://coursemetry.com/webpack-5-in-2022-optimizing-for-production/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Complete Georgian Course: Learn Georgian for Beginners](https://coursemetry.com/complete-georgian-course-learn-georgian-for-beginners/)
+
+* [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
