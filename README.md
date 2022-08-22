@@ -2,173 +2,93 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **83 Udemy free courses published so far on 2022-08-21**
+## **43 Udemy free courses published so far on 2022-08-22**
 
-* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+* [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
-* [Fundamentals of Electrical and Electronics](https://coursemetry.com/fundamentals-of-electrical-and-electronics/)
+* [AWS Certified Advanced Networking - Specialty Exam 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam-2022-2/)
 
-* [Learn C++ Programming From Scratch](https://coursemetry.com/learn-c-programming-from-scratch/)
+* [Shopify Guide: Start your own clothing brand with Shopify](https://coursemetry.com/shopify-guide-start-your-own-clothing-brand-with-shopify/)
+
+* [Passive Income: 27 Ways to Earn Passive Income Online](https://coursemetry.com/passive-income-27-ways-to-earn-passive-income-online/)
 
 * [Complete Guide to Azure Kubernetes Service - Elastic & K8S](https://coursemetry.com/complete-guide-to-azure-kubernetes-service-elastic-k8s/)
 
-* [Fundamental Question on Microsoft Excel (Part-2)](https://coursemetry.com/fundamental-question-on-microsoft-excel-part-2/)
+* [AWS Certified Advanced Networking Specialty - Pactice Exam](https://coursemetry.com/aws-certified-advanced-networking-specialty-pactice-exam/)
 
-* [Fundamental Question on Microsoft Excel (Part-1)](https://coursemetry.com/fundamental-question-on-microsoft-excel-part-1/)
+* [Antike Astrologie 2](https://coursemetry.com/antike-astrologie-2/)
 
-* [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
+* [Curso de Python - Aprende desde cero](https://coursemetry.com/curso-de-python-aprende-desde-cero/)
 
-* [Fundamentals of IoT (Internet of Things)](https://coursemetry.com/fundamentals-of-iot-internet-of-things/)
+* [Antike Astrologie 1](https://coursemetry.com/antike-astrologie-1/)
 
-* [Fundamentals of PN Junction Diode](https://coursemetry.com/fundamentals-of-pn-junction-diode/)
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
-* [Ethical Hacking - Port Scan com Ferramentas Online e Offline](https://coursemetry.com/ethical-hacking-port-scan-com-ferramentas-online-e-offline/)
+* [Deutsch - Klare Kommunikation  A2-C1](https://coursemetry.com/deutsch-klare-kommunikation-a2-c1/)
 
-* [Python And Flask Framework Complete Course](https://coursemetry.com/python-and-flask-framework-complete-course/)
+* [Copywriting: Make Money From Home WRITING WORDS](https://coursemetry.com/copywriting-make-money-from-home-writing-words/)
 
-* [Hashicorp vault on Kubernetes cluster](https://coursemetry.com/hashicorp-vault-on-kubernetes-cluster/)
+* [Course Creation, YouTube, Tutorials, Zoom, and More with OBS](https://coursemetry.com/course-creation-youtube-tutorials-zoom-and-more-with-obs/)
 
-* [Kali Linux para Iniciantes com NMap (hacking e pentest)](https://coursemetry.com/kali-linux-para-iniciantes-com-nmap-hacking-e-pentest/)
+* [CSS, Bootstrap, JavaScript And PHP Stack Complete Course](https://coursemetry.com/css-bootstrap-javascript-and-php-stack-complete-course/)
 
-* [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
+* [Java 2022 Complete Course For Beginners](https://coursemetry.com/java-2022-complete-course-for-beginners/)
 
-* [Fundamental of Embedded Operating Systems](https://coursemetry.com/fundamental-of-embedded-operating-systems/)
+* [MS-700 : Managing Microsoft Teams Exam Prep](https://coursemetry.com/ms-700-managing-microsoft-teams-exam-prep/)
 
-* [Fundamental Question on Digital Marketing](https://coursemetry.com/fundamental-question-on-digital-marketing/)
+* [Plastic Waste Pollution: causes, impacts & solutions](https://coursemetry.com/plastic-waste-pollution-causes-impacts-solutions/)
 
-* [Fundamental Question on Linux (Part-2)](https://coursemetry.com/fundamental-question-on-linux-part-2/)
+* [Shopify guide: The complete shopify store creation course](https://coursemetry.com/shopify-guide-the-complete-shopify-store-creation-course/)
 
-* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+* [AWS Certified Cloud Practitioner - Practice Exam](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exam-2/)
 
-* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+* [Podcast Covert Hypnosis Masterclass](https://coursemetry.com/podcast-covert-hypnosis-masterclass/)
 
-* [Fundamental of Embedded Systems](https://coursemetry.com/fundamental-of-embedded-systems/)
+* [Python Complete Course For Beginners](https://coursemetry.com/python-complete-course-for-beginners/)
 
-* [İngilizce Kursu A1 Hikaye Çevirisi: Girl Meets Boy](https://coursemetry.com/ingilizce-kursu-a1-hikaye-cevirisi-girl-meets-boy/)
+* [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
 
-* [Fundamentals of Industry 4.0](https://coursemetry.com/fundamentals-of-industry-4-0/)
+* [Women and Digital Inclusion](https://coursemetry.com/women-and-digital-inclusion/)
 
-* [CSS, Bootstrap And JavaScript And Python Stack Course](https://coursemetry.com/css-bootstrap-and-javascript-and-python-stack-course/)
+* [Bulk Emails | Outlook automation using Excel VBA](https://coursemetry.com/bulk-emails-outlook-automation-using-excel-vba/)
 
-* [Learn Azure DevOps - Boards,Pipeline,YAML based Deployment.](https://coursemetry.com/learn-azure-devops-boardspipelineyaml-based-deployment/)
+* [LaTeX Simplified : A Quick LaTeX Tutorial](https://coursemetry.com/latex-simplified-a-quick-latex-tutorial/)
 
-* [Continuous Delivery/Integration with Github Actions Workflow](https://coursemetry.com/continuous-delivery-integration-with-github-actions-workflow/)
+* [Practical Business Process Management Notation (BPMN 2.0)](https://coursemetry.com/practical-business-process-management-notation-bpmn-2-0/)
 
-* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners-2/)
+* [SQL for Newcomers - A Crash Course](https://coursemetry.com/sql-for-newcomers-a-crash-course/)
 
-* [Fundamental Question on Linux (Part-1)](https://coursemetry.com/fundamental-question-on-linux-part-1/)
+* [Wordpress Elementor Course: Develop Site Without Coding](https://coursemetry.com/wordpress-elementor-course-develop-site-without-coding/)
 
-* [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners-2/)
+* [Python | Sıfırdan Uzmanlığa 30+ Saat Programlama A-Z](https://coursemetry.com/python-sifirdan-uzmanliga-30-saat-programlama-a-z/)
 
-* [Start a Profitable Coaching & Tutoring Home Business](https://coursemetry.com/start-a-profitable-coaching-tutoring-home-business/)
+* [Employee Attrition Prediction in Apache Spark (ML) Project](https://coursemetry.com/employee-attrition-prediction-in-apache-spark-ml-project/)
 
-* [Fundamental of PN Junction Diode - Application Point of View](https://coursemetry.com/fundamental-of-pn-junction-diode-application-point-of-view/)
+* [C++ STL Algorithms [Practice Test]](https://coursemetry.com/c-stl-algorithms-practice-test/)
 
-* [MTA - Networking Fundamentals: LANs, Addressing, Media Types](https://coursemetry.com/mta-networking-fundamentals-lans-addressing-media-types/)
+* [Apache Hive Interview Question and Answer (100+ FAQ)](https://coursemetry.com/apache-hive-interview-question-and-answer-100-faq/)
 
-* [Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022](https://coursemetry.com/reverse-engineering-and-malware-analysis-x64-32-crma-2022/)
+* [Adobe Premiere Pro CC Essential Video Editing Zero To Hero](https://coursemetry.com/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/)
 
-* [Cleromancia, a previsão com Dados](https://coursemetry.com/cleromancia-a-previsao-com-dados/)
+* [Glücksformel IV: Das ist deine persönliche Glücksformel](https://coursemetry.com/glucksformel-iv-das-ist-deine-personliche-glucksformel/)
 
-* [English placement test](https://coursemetry.com/english-placement-test/)
+* [KDSPY SEO: Amazon Self-publishing/Self-publish w/KDSPY SEO](https://coursemetry.com/kdspy-seo-amazon-self-publishing-self-publish-w-kdspy-seo/)
 
-* [Launch your Minimum Viable Product in 3 Easy Steps](https://coursemetry.com/launch-your-minimum-viable-product-in-3-easy-steps/)
+* [pfSense for a Small Office Home Office](https://coursemetry.com/pfsense-for-a-small-office-home-office/)
 
-* [Write Article Content for SEO and Affiliate Marketing Course](https://coursemetry.com/write-article-content-for-seo-and-affiliate-marketing-course/)
+* [Primavera P6 Complete Course of Project Planning 2021](https://coursemetry.com/primavera-p6-complete-course-of-project-planning-2021/)
 
-* [Strategic Marketing: 5 steps to boost your business growth](https://coursemetry.com/strategic-marketing-5-steps-to-boost-your-business-growth/)
+* [Openrocket | Roket Yarışmaları için Tasarım & Analiz Rehberi](https://coursemetry.com/openrocket-roket-yarismalari-icin-tasarim-analiz-rehberi/)
 
-* [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
+* [Yunan Felsefesi (Sokrates- Platon- Aristoteles)](https://coursemetry.com/yunan-felsefesi-sokrates-platon-aristoteles/)
 
-* [HTML and CSS for Beginners From Basic to Advance](https://coursemetry.com/html-and-css-for-beginners-from-basic-to-advance/)
+* [Ortaçağ Patristik (Kilise) Felsefesi](https://coursemetry.com/ortacag-patristik-kilise-felsefesi/)
 
-* [Facebook Ads For Small Business From Very Basic To Advance](https://coursemetry.com/facebook-ads-for-small-business-from-very-basic-to-advance/)
+* [Helenistik-Roma Felsefesi](https://coursemetry.com/helenistik-roma-felsefesi/)
 
-* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+* [Trigonometry 1 Using Animation & Visual Tools](https://coursemetry.com/trigonometry-1-using-animation-visual-tools/)
 
-* [Build A TodoList with Kotlin, Spring Boot and Svelte](https://coursemetry.com/build-a-todolist-with-kotlin-spring-boot-and-svelte/)
-
-* [Análisis de Marketing: Estrategias y Análisis de Precios](https://coursemetry.com/analisis-de-marketing-estrategias-y-analisis-de-precios/)
-
-* [Microsoft Excel - MS Excel Formulas & Functions in just 3hrs](https://coursemetry.com/microsoft-excel-ms-excel-formulas-functions-in-just-3hrs/)
-
-* [Image Recognition for Beginners using CNN in R Studio](https://coursemetry.com/image-recognition-for-beginners-using-cnn-in-r-studio/)
-
-* [Zero to Hero in Microsoft Excel: Complete Excel guide 2022](https://coursemetry.com/zero-to-hero-in-microsoft-excel-complete-excel-guide-2022/)
-
-* [SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z](https://coursemetry.com/sql-for-data-analytics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-sql-a-z/)
-
-* [Quantum Physics For Beginners To Newton Law Kung Fu Physics](https://coursemetry.com/quantum-physics-for-beginners-to-newton-law-kung-fu-physics/)
-
-* [Holistic Approach to Live Healthy and Happy Life](https://coursemetry.com/holistic-approach-to-live-healthy-and-happy-life/)
-
-* [Getting Started with Onshape](https://coursemetry.com/getting-started-with-onshape/)
-
-* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
-
-* [Make Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/make-money-copywriting-make-money-writing-copy-from-home/)
-
-* [Secrets to Write a Copwriting that Sells like HOT Cakes!](https://coursemetry.com/secrets-to-write-a-copwriting-that-sells-like-hot-cakes/)
-
-* [Learn 5 Professional Mind Reading & Card Magic Routines](https://coursemetry.com/learn-5-professional-mind-reading-card-magic-routines/)
-
-* [The Simple Secrets to Make Things Happen](https://coursemetry.com/the-simple-secrets-to-make-things-happen/)
-
-* [CPanel Mastery A Comprehensive and Complete CPanel Training](https://coursemetry.com/cpanel-mastery-a-comprehensive-and-complete-cpanel-training/)
-
-* [Build A TodoList Fast with Elixir, Phoenix and Svelte](https://coursemetry.com/build-a-todolist-fast-with-elixir-phoenix-and-svelte/)
-
-* [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
-
-* [Build A TodoList Fast with Laravel, PHP and Svelte](https://coursemetry.com/build-a-todolist-fast-with-laravel-php-and-svelte/)
-
-* [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
-
-* [PEGA PRPC Tutorials for Beginners](https://coursemetry.com/pega-prpc-tutorials-for-beginners/)
-
-* [History of Herbal Medicine](https://coursemetry.com/history-of-herbal-medicine/)
-
-* [[Dashboard Microsoft Excel] : Conception Tableau de bord](https://coursemetry.com/dashboard-microsoft-excel-conception-tableau-de-bord/)
-
-* [تعلم لغة البرمجة جافا من الصفر إلى مرحلة متقدمة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%ac%d8%a7%d9%81%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%a5%d9%84%d9%89-%d9%85%d8%b1%d8%ad%d9%84/)
-
-* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
-
-* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
-
-* [Career Management, Life & Management Skills Assessment Tests](https://coursemetry.com/career-management-life-management-skills-assessment-tests/)
-
-* [Nmap Crash Course For Ethical Hackers](https://coursemetry.com/nmap-crash-course-for-ethical-hackers/)
-
-* [Podcasting Professional Course: Everything about podcasts](https://coursemetry.com/podcasting-professional-course-everything-about-podcasts/)
-
-* [CCNA to CCNP Transition: Miscellaneous Topics](https://coursemetry.com/ccna-to-ccnp-transition-miscellaneous-topics/)
-
-* [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
-
-* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
-
-* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
-
-* [Learn NoSQL Databases - Complete MongoDB Bootcamp 2022](https://coursemetry.com/learn-nosql-databases-complete-mongodb-bootcamp-2022/)
-
-* [The most important French words and expressions](https://coursemetry.com/the-most-important-french-words-and-expressions/)
-
-* [French for complete Beginners - A1](https://coursemetry.com/french-for-complete-beginners-a1/)
-
-* [How to make sales on Shopify.](https://coursemetry.com/how-to-make-sales-on-shopify/)
-
-* [Best Kept Secrets to Affiliate Marketing Excellence](https://coursemetry.com/best-kept-secrets-to-affiliate-marketing-excellence/)
-
-* [Youtube Marketing 101 Grow Your Brand On Youtube Doing Dream](https://coursemetry.com/youtube-marketing-101-grow-your-brand-on-youtube-doing-dream/)
-
-* [5 Essential TIPS for Starting a YouTube Channel](https://coursemetry.com/5-essential-tips-for-starting-a-youtube-channel/)
-
-* [Learn to design Stunning YouTube thumbnail](https://coursemetry.com/learn-to-design-stunning-youtube-thumbnail/)
-
-* [Complete Accounting + Tallyprime + Tally ERP9 + GST (4 in 1)](https://coursemetry.com/complete-accounting-tallyprime-tally-erp9-gst-4-in-1/)
-
-* [Ethics of Research-A Basic Course](https://coursemetry.com/ethics-of-research-a-basic-course/)
+* [Node.js & TypeScript Tutorial: Build an Email Validation API](https://coursemetry.com/node-js-typescript-tutorial-build-an-email-validation-api/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
