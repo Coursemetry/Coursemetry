@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published so far on 2022-08-22**
+## **110 Udemy free courses published so far on 2022-08-22**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -199,6 +199,30 @@
 * [Complete Georgian Course: Learn Georgian for Beginners](https://coursemetry.com/complete-georgian-course-learn-georgian-for-beginners/)
 
 * [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
+
+* [Aprende a programar desde cero con C#, Microsoft .NET y WPF](https://coursemetry.com/aprende-a-programar-desde-cero-con-c-microsoft-net-y-wpf/)
+
+* [Learn Flutter and Dart to create Android and IOS apps](https://coursemetry.com/learn-flutter-and-dart-to-create-android-and-ios-apps/)
+
+* [WP Rocket 2022: Mejora la Velocidad de Carga en WordPress](https://coursemetry.com/wp-rocket-2022-mejora-la-velocidad-de-carga-en-wordpress/)
+
+* [5 Real-Time Use Cases using Machine Learning](https://coursemetry.com/5-real-time-use-cases-using-machine-learning/)
+
+* [Learn Machine Learning in 21 Days](https://coursemetry.com/learn-machine-learning-in-21-days/)
+
+* [NLP Course for Beginner](https://coursemetry.com/nlp-course-for-beginner/)
+
+* [Python for Machine Learning with Numpy, Pandas & Matplotlib](https://coursemetry.com/python-for-machine-learning-with-numpy-pandas-matplotlib/)
+
+* [Machine Learning From Basic to Advanced](https://coursemetry.com/machine-learning-from-basic-to-advanced/)
+
+* [Bitcoin For Beginners: How To Earn Bitcoin Online For Free](https://coursemetry.com/bitcoin-for-beginners-how-to-earn-bitcoin-online-for-free/)
+
+* [The Complete MySQL- All In One](https://coursemetry.com/the-complete-mysql-all-in-one/)
+
+* [Computer Vision with Python](https://coursemetry.com/computer-vision-with-python/)
+
+* [Intro to Programming](https://coursemetry.com/intro-to-programming/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
