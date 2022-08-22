@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-08-22**
+## **87 Udemy free courses published so far on 2022-08-22**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -149,6 +149,34 @@
 * [Cyber Security: Anti-Virus](https://coursemetry.com/cyber-security-anti-virus/)
 
 * [C Programming the Basics](https://coursemetry.com/c-programming-the-basics/)
+
+* [The Complete Business Etiquette Course - Biz Social Skills](https://coursemetry.com/the-complete-business-etiquette-course-biz-social-skills/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Hacking Wifi desde Cero](https://coursemetry.com/hacking-wifi-desde-cero/)
+
+* [Technical Analysis Mastery Stock Trading,Forex , Investing](https://coursemetry.com/technical-analysis-mastery-stock-tradingforex-investing/)
+
+* [Learn how to prepare a great Resume (CV) AND Prepare Yours!](https://coursemetry.com/learn-how-to-prepare-a-great-resume-cv-and-prepare-yours/)
+
+* [Technical Analysis: Harmonic Chart Patterns & Stock Trading](https://coursemetry.com/technical-analysis-harmonic-chart-patterns-stock-trading/)
+
+* [GetGoing: Introduction to Golang](https://coursemetry.com/getgoing-introduction-to-golang/)
+
+* [Learn Programming in Go (golang): Fun Project "Hangman" Game](https://coursemetry.com/learn-programming-in-go-golang-fun-project-hangman-game/)
+
+* [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
+
+* [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
+
+* [Kotlin Programming -  A Basic Introduction](https://coursemetry.com/kotlin-programming-a-basic-introduction/)
+
+* [RxJava | RxAndroid - I](https://coursemetry.com/rxjava-rxandroid-i/)
+
+* [RxJava | RxAndroid - II](https://coursemetry.com/rxjava-rxandroid-ii/)
+
+* [RxJava | RxAndroid - III](https://coursemetry.com/rxjava-rxandroid-iii/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
