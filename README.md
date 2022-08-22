@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **52 Udemy free courses published so far on 2022-08-22**
+## **73 Udemy free courses published so far on 2022-08-22**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -107,6 +107,48 @@
 * [LLQP Life Insurance - Segregated Funds & Annuity (Canada)](https://coursemetry.com/llqp-life-insurance-segregated-funds-annuity-canada/)
 
 * [Fundamentals of Music Theory: Notes, Scales and Chords](https://coursemetry.com/fundamentals-of-music-theory-notes-scales-and-chords/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Ethical Hacking: Hack by Uploading](https://coursemetry.com/ethical-hacking-hack-by-uploading/)
+
+* [Brain Hacking Presentations Skills](https://coursemetry.com/brain-hacking-presentations-skills/)
+
+* [How to Be Happy: Powerful Mindset Shifts for Success](https://coursemetry.com/how-to-be-happy-powerful-mindset-shifts-for-success/)
+
+* [The Optimal Introduction to Ethical Hacking](https://coursemetry.com/the-optimal-introduction-to-ethical-hacking/)
+
+* [Building Android Widgets from scratch (Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [MS-720 : Microsoft Teams Voice Engineer Exam Prep](https://coursemetry.com/ms-720-microsoft-teams-voice-engineer-exam-prep/)
+
+* [Excel - Formulas & Functions Beginner to Expert Course 2022](https://coursemetry.com/excel-formulas-functions-beginner-to-expert-course-2022/)
+
+* [PL-300 : Microsoft Power BI Data Analyst Exam Certification](https://coursemetry.com/pl-300-microsoft-power-bi-data-analyst-exam-certification/)
+
+* [LLQP Life Insurance Exam Preparation- Ethics (Canada)](https://coursemetry.com/llqp-life-insurance-exam-preparation-ethics-canada/)
+
+* [Cyber Security: OS Security](https://coursemetry.com/cyber-security-os-security/)
+
+* [The Complete Computer Basics Guide for Beginners: 2022](https://coursemetry.com/the-complete-computer-basics-guide-for-beginners-2022/)
+
+* [Professional Logo Design on Canva for Etsy & Shopify Stores](https://coursemetry.com/professional-logo-design-on-canva-for-etsy-shopify-stores/)
+
+* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
+
+* [Ethical Hacking: Linux Privilege Escalation](https://coursemetry.com/ethical-hacking-linux-privilege-escalation/)
+
+* [TikTok for Business: Video Templates for Brand Marketing](https://coursemetry.com/tiktok-for-business-video-templates-for-brand-marketing/)
+
+* [Branding Bootcamp : Craft a Brand Identity & Brand Strategy](https://coursemetry.com/branding-bootcamp-craft-a-brand-identity-brand-strategy/)
+
+* [Excel files with Python](https://coursemetry.com/excel-files-with-python/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [Cyber Security: Anti-Virus](https://coursemetry.com/cyber-security-anti-virus/)
+
+* [C Programming the Basics](https://coursemetry.com/c-programming-the-basics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
