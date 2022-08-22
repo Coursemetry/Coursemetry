@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **87 Udemy free courses published so far on 2022-08-22**
+## **94 Udemy free courses published so far on 2022-08-22**
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
 
@@ -177,6 +177,20 @@
 * [RxJava | RxAndroid - II](https://coursemetry.com/rxjava-rxandroid-ii/)
 
 * [RxJava | RxAndroid - III](https://coursemetry.com/rxjava-rxandroid-iii/)
+
+* [AWS Certified Cloud Practitioner(CLF-C01) Practice Test 2022](https://coursemetry.com/aws-certified-cloud-practitionerclf-c01-practice-test-2022/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [AWS Certified Solutions Architect - Associate Practice Test](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-test-2/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [This Is Your Definitive Content Marketing Blueprint](https://coursemetry.com/this-is-your-definitive-content-marketing-blueprint/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
