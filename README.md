@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-08-23**
+## **115 Udemy free courses published so far on 2022-08-23**
 
 * [HVAC Engineer & Tech Career Planner: HVAC Market Insights](https://coursemetry.com/hvac-engineer-tech-career-planner-hvac-market-insights/)
 
@@ -225,6 +225,14 @@
 * [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
 
 * [The Complete MongoDB Course 2022](https://coursemetry.com/the-complete-mongodb-course-2022/)
+
+* [Project Management Essentials for Non-Project Managers](https://coursemetry.com/project-management-essentials-for-non-project-managers/)
+
+* [The R Programming For Data Science A-Z Complete Diploma 2022](https://coursemetry.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/)
+
+* [Ultimate Adobe Photoshop CC Masterclass Basics To Advanced](https://coursemetry.com/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/)
+
+* [Accelerated Learning: Study Skills for Success: IT industry](https://coursemetry.com/accelerated-learning-study-skills-for-success-it-industry/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
