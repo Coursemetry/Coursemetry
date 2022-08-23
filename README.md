@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **140 Udemy free courses published so far on 2022-08-23**
+## **144 Udemy free courses published so far on 2022-08-23**
 
 * [HVAC Engineer & Tech Career Planner: HVAC Market Insights](https://coursemetry.com/hvac-engineer-tech-career-planner-hvac-market-insights/)
 
@@ -283,6 +283,14 @@
 * [Environment and Ethics: A Basic Course](https://coursemetry.com/environment-and-ethics-a-basic-course/)
 
 * [Counterintelligence 101 Certification Crash Course](https://coursemetry.com/counterintelligence-101-certification-crash-course/)
+
+* [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
+
+* [AWS Certified Advanced Networking Specialty - Pactice Exam](https://coursemetry.com/aws-certified-advanced-networking-specialty-pactice-exam/)
+
+* [AWS Certified Advanced Networking - Specialty Exam 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam-2022-2/)
+
+* [Introduccion a la Contabilidad](https://coursemetry.com/introduccion-a-la-contabilidad/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
