@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **126 Udemy free courses published so far on 2022-08-23**
+## **140 Udemy free courses published so far on 2022-08-23**
 
 * [HVAC Engineer & Tech Career Planner: HVAC Market Insights](https://coursemetry.com/hvac-engineer-tech-career-planner-hvac-market-insights/)
 
@@ -255,6 +255,34 @@
 * [Curso completo de Python 2022-De cero a Master con Python 3](https://coursemetry.com/curso-completo-de-python-2022-de-cero-a-master-con-python-3/)
 
 * [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Creative Advertising & Graphic Design Theories for Beginners](https://coursemetry.com/creative-advertising-graphic-design-theories-for-beginners/)
+
+* [Google professional cloud architect Exam 2022](https://coursemetry.com/google-professional-cloud-architect-exam-2022/)
+
+* [Linux Desktop Automation](https://coursemetry.com/linux-desktop-automation/)
+
+* [Google Professional Cloud DevOps Engineer Exam 2022](https://coursemetry.com/google-professional-cloud-devops-engineer-exam-2022/)
+
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+
+* [Englisch - Deutsch Übersetzungskurs](https://coursemetry.com/englisch-deutsch-ubersetzungskurs/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Cursillo Excel Básico](https://coursemetry.com/cursillo-excel-basico/)
+
+* [Excel Profesional 2022– Para Empresas!](https://coursemetry.com/excel-profesional-2022-para-empresas/)
+
+* [Complete Spanish Course: Learn Spanish for Beginners](https://coursemetry.com/complete-spanish-course-learn-spanish-for-beginners/)
+
+* [The Complete Recruiting Masterclass - HR Resources - Hiring](https://coursemetry.com/the-complete-recruiting-masterclass-hr-resources-hiring/)
+
+* [Environment and Ethics: A Basic Course](https://coursemetry.com/environment-and-ethics-a-basic-course/)
+
+* [Counterintelligence 101 Certification Crash Course](https://coursemetry.com/counterintelligence-101-certification-crash-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
