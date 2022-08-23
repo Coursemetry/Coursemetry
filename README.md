@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **115 Udemy free courses published so far on 2022-08-23**
+## **121 Udemy free courses published so far on 2022-08-23**
 
 * [HVAC Engineer & Tech Career Planner: HVAC Market Insights](https://coursemetry.com/hvac-engineer-tech-career-planner-hvac-market-insights/)
 
@@ -233,6 +233,18 @@
 * [Ultimate Adobe Photoshop CC Masterclass Basics To Advanced](https://coursemetry.com/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/)
 
 * [Accelerated Learning: Study Skills for Success: IT industry](https://coursemetry.com/accelerated-learning-study-skills-for-success-it-industry/)
+
+* [Python Pandas Data Crash Course 2022 Learn by Doing.](https://coursemetry.com/python-pandas-data-crash-course-2022-learn-by-doing/)
+
+* [File Processing with Python](https://coursemetry.com/file-processing-with-python/)
+
+* [Facebook Chat Bot in Python 2022 from Scratch.](https://coursemetry.com/facebook-chat-bot-in-python-2022-from-scratch/)
+
+* [Create Space Invaders with Python PyGame](https://coursemetry.com/create-space-invaders-with-python-pygame/)
+
+* [Matematicas Financieras](https://coursemetry.com/matematicas-financieras/)
+
+* [JavaScript Crash Course 2022: Learn by Doing Exs & Projects.](https://coursemetry.com/javascript-crash-course-2022-learn-by-doing-exs-projects/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
