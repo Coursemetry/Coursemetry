@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **121 Udemy free courses published so far on 2022-08-23**
+## **126 Udemy free courses published so far on 2022-08-23**
 
 * [HVAC Engineer & Tech Career Planner: HVAC Market Insights](https://coursemetry.com/hvac-engineer-tech-career-planner-hvac-market-insights/)
 
@@ -245,6 +245,16 @@
 * [Matematicas Financieras](https://coursemetry.com/matematicas-financieras/)
 
 * [JavaScript Crash Course 2022: Learn by Doing Exs & Projects.](https://coursemetry.com/javascript-crash-course-2022-learn-by-doing-exs-projects/)
+
+* [Curso de Photoshop cc (diseño de calzado / zapatilla de depo](https://coursemetry.com/curso-de-photoshop-cc-diseno-de-calzado-zapatilla-de-depo/)
+
+* [Crypto App: How to Buy, Sell & Transfer Cryptocurrencies](https://coursemetry.com/crypto-app-how-to-buy-sell-transfer-cryptocurrencies/)
+
+* [Escuela de Python 2021: Aprende Python 3.9+ de cero a Master](https://coursemetry.com/escuela-de-python-2021-aprende-python-3-9-de-cero-a-master/)
+
+* [Curso completo de Python 2022-De cero a Master con Python 3](https://coursemetry.com/curso-completo-de-python-2022-de-cero-a-master-con-python-3/)
+
+* [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
