@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **83 Udemy free courses published so far on 2022-08-24**
+## **100 Udemy free courses published so far on 2022-08-24**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -169,6 +169,40 @@
 * [Elementor A-dan Z-ye Öğren | Elementorla Web Sitesi Tasarla](https://coursemetry.com/elementor-a-dan-z-ye-ogren-elementorla-web-sitesi-tasarla/)
 
 * [Mouse ‘n Cheese - Learning to 3D Model in Blender](https://coursemetry.com/mouse-n-cheese-learning-to-3d-model-in-blender/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Tests - AUG 22](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-aug-22/)
+
+* [Oracle Autonomous Database 2022 Specialist (1Z0-931-22)](https://coursemetry.com/oracle-autonomous-database-2022-specialist-1z0-931-22/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [AWS DevOps Engineer Professional - Pratice test 2022](https://coursemetry.com/aws-devops-engineer-professional-pratice-test-2022/)
+
+* [Python Video Processing](https://coursemetry.com/python-video-processing/)
+
+* [Google Professional Cloud DevOps Engineer Exam 2022](https://coursemetry.com/google-professional-cloud-devops-engineer-exam-2022/)
+
+* [صيانة الحاسب للجميع](https://coursemetry.com/%d8%b5%d9%8a%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8-%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9/)
+
+* [1Z0-1093-22 Oracle Cloud Database Services Specialist](https://coursemetry.com/1z0-1093-22-oracle-cloud-database-services-specialist/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [DP-900 Microsoft Azure Data Fundamentals Practice Test AUG22](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-test-aug22/)
+
+* [[NEW] Oracle Cloud Infrastructure Foundations 2022 Associate](https://coursemetry.com/new-oracle-cloud-infrastructure-foundations-2022-associate/)
+
+* [TypeScript Basic: Type System, Interfaces, Types, Generics](https://coursemetry.com/typescript-basic-type-system-interfaces-types-generics/)
+
+* [Ethical Hacking: Hack Linux Systems](https://coursemetry.com/ethical-hacking-hack-linux-systems/)
+
+* [Jumpstart your Project Management career](https://coursemetry.com/jumpstart-your-project-management-career/)
+
+* [1Z0-1067-22 Oracle OCI 2022 Cloud Operations Associate](https://coursemetry.com/1z0-1067-22-oracle-oci-2022-cloud-operations-associate/)
+
+* [1Z0-1094-22 Oracle Cloud Database Migration and Integration.](https://coursemetry.com/1z0-1094-22-oracle-cloud-database-migration-and-integration/)
+
+* [تعلم تصميم وتطوير مواقع الويب باحترافية](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d8%a8%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
