@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-08-24**
+## **70 Udemy free courses published so far on 2022-08-24**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -131,6 +131,18 @@
 * [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
 
 * [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [learn grammar easily - قواعد اللغة الإنجليزية بطريقة سهلة](https://coursemetry.com/learn-grammar-easily-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d8%a9-%d8%a8%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%b3%d9%87/)
+
+* [Excellence in Business Strategy, Modelling & Planning](https://coursemetry.com/excellence-in-business-strategy-modelling-planning/)
+
+* [The Ultimate Amazon PPC Mastery Course](https://coursemetry.com/the-ultimate-amazon-ppc-mastery-course/)
+
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
+
+* [Get Ready to Build a Website For Your Business](https://coursemetry.com/get-ready-to-build-a-website-for-your-business/)
+
+* [Agile Crash Course for Beginners](https://coursemetry.com/agile-crash-course-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
