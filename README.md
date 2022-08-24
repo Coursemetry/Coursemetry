@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **70 Udemy free courses published so far on 2022-08-24**
+## **83 Udemy free courses published so far on 2022-08-24**
 
 * [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
 
@@ -143,6 +143,32 @@
 * [Get Ready to Build a Website For Your Business](https://coursemetry.com/get-ready-to-build-a-website-for-your-business/)
 
 * [Agile Crash Course for Beginners](https://coursemetry.com/agile-crash-course-for-beginners/)
+
+* [AWS Certified Security - Specialty Exam 2022](https://coursemetry.com/aws-certified-security-specialty-exam-2022/)
+
+* [AWS Certified Cloud Practitioner Exam 2022](https://coursemetry.com/aws-certified-cloud-practitioner-exam-2022-2/)
+
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [Make Money From Home: 45 Work From Home Opportunities](https://coursemetry.com/make-money-from-home-45-work-from-home-opportunities/)
+
+* [AWS Certified Developer - Associate Exam 2022](https://coursemetry.com/aws-certified-developer-associate-exam-2022/)
+
+* [Software Engineering Career Bootcamp: From intern to CXO](https://coursemetry.com/software-engineering-career-bootcamp-from-intern-to-cxo/)
+
+* [The Complete B2B Sales Course: Lead Generation to Closing](https://coursemetry.com/the-complete-b2b-sales-course-lead-generation-to-closing/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [The Complete NFT (Non-Fungible Tokens) Course: Art and Tech](https://coursemetry.com/the-complete-nft-non-fungible-tokens-course-art-and-tech/)
+
+* [Complete Sourdough Bread Baking - Levels 1, 2, 3 and 4!](https://coursemetry.com/complete-sourdough-bread-baking-levels-1-2-3-and-4/)
+
+* [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
+
+* [Elementor A-dan Z-ye Öğren | Elementorla Web Sitesi Tasarla](https://coursemetry.com/elementor-a-dan-z-ye-ogren-elementorla-web-sitesi-tasarla/)
+
+* [Mouse ‘n Cheese - Learning to 3D Model in Blender](https://coursemetry.com/mouse-n-cheese-learning-to-3d-model-in-blender/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
