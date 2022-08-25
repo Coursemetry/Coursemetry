@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-08-25**
+## **95 Udemy free courses published so far on 2022-08-25**
 
 * [Core Java bootcamp program with Hands on practice: Java SE](https://coursemetry.com/core-java-bootcamp-program-with-hands-on-practice-java-se/)
 
@@ -149,6 +149,50 @@
 * [How to Become Financially Free](https://coursemetry.com/how-to-become-financially-free/)
 
 * [Complete Google Slides Course - Create Stunning Slides](https://coursemetry.com/complete-google-slides-course-create-stunning-slides/)
+
+* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
+
+* [User Stories for Agile Scrum+Product Owner+Business Analysis](https://coursemetry.com/user-stories-for-agile-scrumproduct-ownerbusiness-analysis/)
+
+* [Python Scripting Complete Course](https://coursemetry.com/python-scripting-complete-course/)
+
+* [Complete Cubase Megacourse: Beginner to Expert](https://coursemetry.com/complete-cubase-megacourse-beginner-to-expert/)
+
+* [Facebook Page & Facebook Ads Made as Fun: 11 Days Challenge](https://coursemetry.com/facebook-page-facebook-ads-made-as-fun-11-days-challenge/)
+
+* [Yds-Yökdil ve Ydt için Gramer Öğren](https://coursemetry.com/yds-yokdil-ve-ydt-icin-gramer-ogren/)
+
+* [Build An NFT Marketplace From Scratch - Blockchain DApp](https://coursemetry.com/build-an-nft-marketplace-from-scratch-blockchain-dapp/)
+
+* [JavaScript - Creating Loan EMI Calculator](https://coursemetry.com/javascript-creating-loan-emi-calculator/)
+
+* [Learn AND Generate & Select  Right Business Ideas](https://coursemetry.com/learn-and-generate-select-right-business-ideas/)
+
+* [How to Create a Profitable Online Course that SELL Fast](https://coursemetry.com/how-to-create-a-profitable-online-course-that-sell-fast/)
+
+* [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
+
+* [Learn 47 Different Ways to Make Money Online!](https://coursemetry.com/learn-47-different-ways-to-make-money-online/)
+
+* [Ho'oponopono Öğretisi ve Uygulamaları (Tüm Boyutlarıyla)](https://coursemetry.com/hooponopono-ogretisi-ve-uygulamalari-tum-boyutlariyla/)
+
+* [DBT Radical Acceptance - The Complete Course](https://coursemetry.com/dbt-radical-acceptance-the-complete-course/)
+
+* [JavaScript - Creating Quiz Hands on Complete Course](https://coursemetry.com/javascript-creating-quiz-hands-on-complete-course/)
+
+* [The Complete Resilience Course - Master Emotional Resiliency](https://coursemetry.com/the-complete-resilience-course-master-emotional-resiliency/)
+
+* [Sales Skills and Soft Skills For Marketing  & Negotiation](https://coursemetry.com/sales-skills-and-soft-skills-for-marketing-negotiation/)
+
+* [Basic Business Fundamentals  - Operations Management](https://coursemetry.com/basic-business-fundamentals-operations-management/)
+
+* [Make Amazing Pictures: Photo Editing for Photographers](https://coursemetry.com/make-amazing-pictures-photo-editing-for-photographers/)
+
+* [Fotografía Profesional Arquitectura Inmobiliaria Real Estate](https://coursemetry.com/fotografia-profesional-arquitectura-inmobiliaria-real-estate/)
+
+* [AirTable for Beginners: Learn the Basics & Essentials](https://coursemetry.com/airtable-for-beginners-learn-the-basics-essentials/)
+
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
