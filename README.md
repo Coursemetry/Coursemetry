@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-08-25**
+## **73 Udemy free courses published so far on 2022-08-25**
 
 * [Core Java bootcamp program with Hands on practice: Java SE](https://coursemetry.com/core-java-bootcamp-program-with-hands-on-practice-java-se/)
 
@@ -137,6 +137,18 @@
 * [C_DS_42 | SAP Data Integration with SAP Data Services Exam](https://coursemetry.com/c_ds_42-sap-data-integration-with-sap-data-services-exam/)
 
 * [The Automation Guide for the Company](https://coursemetry.com/the-automation-guide-for-the-company/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [Complete Google Certified Educator Level 1 and 2 Masterclass](https://coursemetry.com/complete-google-certified-educator-level-1-and-2-masterclass/)
+
+* [The Complete Google Docs Course - Google Docs Tricks & Tips](https://coursemetry.com/the-complete-google-docs-course-google-docs-tricks-tips/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [How to Become Financially Free](https://coursemetry.com/how-to-become-financially-free/)
+
+* [Complete Google Slides Course - Create Stunning Slides](https://coursemetry.com/complete-google-slides-course-create-stunning-slides/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
