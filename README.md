@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-08-26**
+## **91 Udemy free courses published so far on 2022-08-26**
 
 * [Create a Profitable Sales Funnels. No Experience and FREE!](https://coursemetry.com/create-a-profitable-sales-funnels-no-experience-and-free/)
 
@@ -129,6 +129,62 @@
 * [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
 
 * [Easy Step by Step Guide to New Product/Brand Development](https://coursemetry.com/easy-step-by-step-guide-to-new-product-brand-development/)
+
+* [اساسيات اختبار اختراق اجهزة الاندرويد](https://coursemetry.com/%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%a7%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%af%d8%b1%d9%88%d9%8a/)
+
+* [Complete TikTok Marketing Course for Business TikTok Habits](https://coursemetry.com/complete-tiktok-marketing-course-for-business-tiktok-habits/)
+
+* [Marketing Fundamentals: Introduction into Digital Marketing](https://coursemetry.com/marketing-fundamentals-introduction-into-digital-marketing/)
+
+* [The Complete 2022 Web Development Bootcamp](https://coursemetry.com/the-complete-2022-web-development-bootcamp/)
+
+* [Python 3.7 - Programming Language Basics](https://coursemetry.com/python-3-7-programming-language-basics/)
+
+* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+
+* [AirTable for Beginners: Learn the Basics & Essentials](https://coursemetry.com/airtable-for-beginners-learn-the-basics-essentials/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [Complete Google Certified Educator Level 1 and 2 Masterclass](https://coursemetry.com/complete-google-certified-educator-level-1-and-2-masterclass/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [Git Command Line for Beginners](https://coursemetry.com/git-command-line-for-beginners/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [SAFe product owner/project management CAPM 2022](https://coursemetry.com/safe-product-owner-project-management-capm-2022/)
+
+* [Passive Income - 35+ Tools/Websites to Earn Money](https://coursemetry.com/passive-income-35-tools-websites-to-earn-money/)
+
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+
+* [Project Management: Best Practices From 15 Years Consulting](https://coursemetry.com/project-management-best-practices-from-15-years-consulting/)
+
+* [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
+
+* [Linux Desktop Automation](https://coursemetry.com/linux-desktop-automation/)
+
+* [Complete Digital Marketing Course for Local Businesses 2022](https://coursemetry.com/complete-digital-marketing-course-for-local-businesses-2022/)
+
+* [Create Animations from Photos: Learn After Effects Hands-on](https://coursemetry.com/create-animations-from-photos-learn-after-effects-hands-on/)
+
+* [Crystal Magic Made Easy](https://coursemetry.com/crystal-magic-made-easy/)
+
+* [Encoding 2](https://coursemetry.com/encoding-2/)
+
+* [Master JavaScript Array](https://coursemetry.com/master-javascript-array/)
+
+* [How to Use Canva Basic Tutorial For Beginners](https://coursemetry.com/how-to-use-canva-basic-tutorial-for-beginners/)
+
+* [Mindset Shift](https://coursemetry.com/mindset-shift/)
+
+* [A Beginner's Guide to The Special Theory of Relativity](https://coursemetry.com/a-beginners-guide-to-the-special-theory-of-relativity/)
+
+* [How to use 3d models for drawing - Clip studio paint](https://coursemetry.com/how-to-use-3d-models-for-drawing-clip-studio-paint/)
+
+* [JavaScript - Intermediate & Advanced](https://coursemetry.com/javascript-intermediate-advanced/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
