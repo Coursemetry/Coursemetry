@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-08-26**
+## **100 Udemy free courses published so far on 2022-08-26**
 
 * [Create a Profitable Sales Funnels. No Experience and FREE!](https://coursemetry.com/create-a-profitable-sales-funnels-no-experience-and-free/)
 
@@ -185,6 +185,24 @@
 * [How to use 3d models for drawing - Clip studio paint](https://coursemetry.com/how-to-use-3d-models-for-drawing-clip-studio-paint/)
 
 * [JavaScript - Intermediate & Advanced](https://coursemetry.com/javascript-intermediate-advanced/)
+
+* [The Skilled Interviewer](https://coursemetry.com/the-skilled-interviewer/)
+
+* [The Complete ReactJs Course - Basics to Advanced [2022]](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2022/)
+
+* [Modern JavaScript for React JS - ES6 [2022]](https://coursemetry.com/modern-javascript-for-react-js-es6-2022/)
+
+* [JavaScript - Basics to Advanced step by step [2022]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2022/)
+
+* [HTML5 - From Basics to Advanced level [2022]](https://coursemetry.com/html5-from-basics-to-advanced-level-2022/)
+
+* [SEO Training: Complete SEO Course & SEO Copywriting Mastery](https://coursemetry.com/seo-training-complete-seo-course-seo-copywriting-mastery/)
+
+* [The Ultimate NFT Course: Buy, Sell NFTs & Create collections](https://coursemetry.com/the-ultimate-nft-course-buy-sell-nfts-create-collections/)
+
+* [CSS - Basics to Adv for front end development [2022]](https://coursemetry.com/css-basics-to-adv-for-front-end-development-2022/)
+
+* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
