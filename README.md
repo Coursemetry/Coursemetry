@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-08-26**
+## **119 Udemy free courses published so far on 2022-08-26**
 
 * [Create a Profitable Sales Funnels. No Experience and FREE!](https://coursemetry.com/create-a-profitable-sales-funnels-no-experience-and-free/)
 
@@ -219,6 +219,28 @@
 * [Python Programming Tutorial For The Absolute Beginner + Code](https://coursemetry.com/python-programming-tutorial-for-the-absolute-beginner-code/)
 
 * [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
+
+* [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
+
+* [How to set Goals you achieve: The WOOP Way](https://coursemetry.com/how-to-set-goals-you-achieve-the-woop-way/)
+
+* [Computer Architecture and Computer Organization Masterclass](https://coursemetry.com/computer-architecture-and-computer-organization-masterclass/)
+
+* [Productivity Masterclass: How to be more efficient!](https://coursemetry.com/productivity-masterclass-how-to-be-more-efficient/)
+
+* [Digital Art Fundamentals: Mini Bootcamp!](https://coursemetry.com/digital-art-fundamentals-mini-bootcamp/)
+
+* [AWS SysOps Administrator Associate (SOA-C02) Exam 2022](https://coursemetry.com/aws-sysops-administrator-associate-soa-c02-exam-2022/)
+
+* [Political Sociology- An Introduction](https://coursemetry.com/political-sociology-an-introduction/)
+
+* [AWS Certified Database – Specialty Exam 2022](https://coursemetry.com/aws-certified-database-specialty-exam-2022/)
+
+* [Exemplary Leader: Master Outstanding Leadership Qualities](https://coursemetry.com/exemplary-leader-master-outstanding-leadership-qualities/)
+
+* [DP-100 Microsoft Azure Data Scientist Complete Exam Prep](https://coursemetry.com/dp-100-microsoft-azure-data-scientist-complete-exam-prep/)
+
+* [Curso  De  Algoritmos](https://coursemetry.com/curso-de-algoritmos/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
