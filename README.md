@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-08-26**
+## **108 Udemy free courses published so far on 2022-08-26**
 
 * [Create a Profitable Sales Funnels. No Experience and FREE!](https://coursemetry.com/create-a-profitable-sales-funnels-no-experience-and-free/)
 
@@ -203,6 +203,22 @@
 * [CSS - Basics to Adv for front end development [2022]](https://coursemetry.com/css-basics-to-adv-for-front-end-development-2022/)
 
 * [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+
+* [Introduction to Burp Suite](https://coursemetry.com/introduction-to-burp-suite/)
+
+* [Make Money From Home: 12 EASY Options to Make Money Now](https://coursemetry.com/make-money-from-home-12-easy-options-to-make-money-now/)
+
+* [Project Management Essential Training](https://coursemetry.com/project-management-essential-training/)
+
+* [Ultrasonic Testing Level 1 Training](https://coursemetry.com/ultrasonic-testing-level-1-training/)
+
+* [Build A Search Engine With Python: Computer Science & Python](https://coursemetry.com/build-a-search-engine-with-python-computer-science-python/)
+
+* [Complete Voice Acting Megacourse: Beginner to Expert](https://coursemetry.com/complete-voice-acting-megacourse-beginner-to-expert/)
+
+* [Python Programming Tutorial For The Absolute Beginner + Code](https://coursemetry.com/python-programming-tutorial-for-the-absolute-beginner-code/)
+
+* [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
