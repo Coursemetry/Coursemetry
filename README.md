@@ -2,197 +2,133 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **95 Udemy free courses published so far on 2022-08-25**
+## **63 Udemy free courses published so far on 2022-08-26**
 
-* [Core Java bootcamp program with Hands on practice: Java SE](https://coursemetry.com/core-java-bootcamp-program-with-hands-on-practice-java-se/)
+* [Create a Profitable Sales Funnels. No Experience and FREE!](https://coursemetry.com/create-a-profitable-sales-funnels-no-experience-and-free/)
 
-* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+* [6 Exams Prep |  AWS Certified DevOps Engineer –Pro (DOP-C01)](https://coursemetry.com/6-exams-prep-aws-certified-devops-engineer-pro-dop-c01/)
 
-* [Ortaçağ Skolastik Felsefe](https://coursemetry.com/ortacag-skolastik-felsefe/)
+* [Formation complète sur RapidMiner pour la Data Science](https://coursemetry.com/formation-complete-sur-rapidminer-pour-la-data-science/)
 
-* [Learn 4 STEPS to Make Money Online by Blogging!](https://coursemetry.com/learn-4-steps-to-make-money-online-by-blogging/)
+* [Exam Prep |  AWS Certified Alexa Skill Builder – Specialty](https://coursemetry.com/exam-prep-aws-certified-alexa-skill-builder-specialty/)
 
-* [Microsoft SC-400 Exam : Practice Test 2022](https://coursemetry.com/microsoft-sc-400-exam-practice-test-2022/)
+* [Fundamentals of Industry 4.0](https://coursemetry.com/fundamentals-of-industry-4-0/)
 
-* [C_THR89_2205 | SAP SuccessFactors Workforce Analytics Exam](https://coursemetry.com/c_thr89_2205-sap-successfactors-workforce-analytics-exam/)
+* [Fundamentals of Electrical and Electronics](https://coursemetry.com/fundamentals-of-electrical-and-electronics/)
 
-* [Creative Infographics in PowerPoint](https://coursemetry.com/creative-infographics-in-powerpoint/)
+* [Microsoft AZ-104: Azure Administrator Exam Prep Test](https://coursemetry.com/microsoft-az-104-azure-administrator-exam-prep-test/)
 
-* [Google Professional Cloud DevOps Engineer Test 2022](https://coursemetry.com/google-professional-cloud-devops-engineer-test-2022/)
+* [L'essentiel du Python](https://coursemetry.com/lessentiel-du-python/)
 
-* [C_THR95_2205 | SAP SuccessFactors Career Development Exam](https://coursemetry.com/c_thr95_2205-sap-successfactors-career-development-exam/)
+* [6 Exams Prep |  AWS Certified Database – Specialty (DBS-C01)](https://coursemetry.com/6-exams-prep-aws-certified-database-specialty-dbs-c01/)
 
-* [C_THR92_2205 | SAP SuccessFactors People Analytics Exam](https://coursemetry.com/c_thr92_2205-sap-successfactors-people-analytics-exam/)
+* [See 27 Ways to Make Money Online with Your Smartphone!](https://coursemetry.com/see-27-ways-to-make-money-online-with-your-smartphone/)
 
-* [The Complete Introduction to C++ Programming](https://coursemetry.com/the-complete-introduction-to-c-programming/)
+* [Basic Portrait Drawing Techniques- Beginners and Advanced](https://coursemetry.com/basic-portrait-drawing-techniques-beginners-and-advanced/)
 
-* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
+* [Business Networking for Success and Company Growth: Part 4](https://coursemetry.com/business-networking-for-success-and-company-growth-part-4/)
 
-* [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
+* [6 Exams Prep |  AWS Certified Developer Associate (DVA-C01)](https://coursemetry.com/6-exams-prep-aws-certified-developer-associate-dva-c01/)
 
-* [Write Better Email: Technics for Clever communication](https://coursemetry.com/write-better-email-technics-for-clever-communication/)
+* [Business Networking for Success and Company Growth: Part Two](https://coursemetry.com/business-networking-for-success-and-company-growth-part-two/)
 
-* [CSS, JavaScript,PHP And Python Programming All in One Course](https://coursemetry.com/css-javascriptphp-and-python-programming-all-in-one-course/)
+* [Sıfırdan Uygulamalı Fotoğraf Kursu - Erdem Zengin](https://coursemetry.com/sifirdan-uygulamali-fotograf-kursu-erdem-zengin/)
 
-* [Python For Beginners Course In-Depth](https://coursemetry.com/python-for-beginners-course-in-depth/)
+* [Master all the MS Excel Macros and the basics of Excel VBA](https://coursemetry.com/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/)
 
-* [Programacion con Python](https://coursemetry.com/programacion-con-python/)
+* [Business Networking Part 9 - Attracting Your Ideal Client](https://coursemetry.com/business-networking-part-9-attracting-your-ideal-client/)
 
-* [Okuduğunu Anlama](https://coursemetry.com/okudugunu-anlama/)
+* [PMI-ACP: Agile Certified Project Management 200 Questions](https://coursemetry.com/pmi-acp-agile-certified-project-management-200-questions/)
 
-* [2022 Unity الدورة الشاملة لصناعة الألعاب](https://coursemetry.com/2022-unity-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8/)
+* [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
 
-* [SAP Basis Essential Training](https://coursemetry.com/sap-basis-essential-training/)
+* [CSS And JavaScript Complete Course For Beginners](https://coursemetry.com/css-and-javascript-complete-course-for-beginners/)
 
-* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+* [Business Networking for Success and Company Growth: Part 3](https://coursemetry.com/business-networking-for-success-and-company-growth-part-3/)
 
-* [C_THR94_2205 | SAP SuccessFactors Time Management 1H/20 Exam](https://coursemetry.com/c_thr94_2205-sap-successfactors-time-management-1h-20-exam/)
+* [Psikolojik Danışmanlık Eğitimi](https://coursemetry.com/psikolojik-danismanlik-egitimi/)
 
-* [C_THR88_2205 | SAP SuccessFactors Learning Management Exam](https://coursemetry.com/c_thr88_2205-sap-successfactors-learning-management-exam/)
+* [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
 
-* [C_THR97_2205 | SAP SuccessFactors Onboarding 1H/2022 Exam](https://coursemetry.com/c_thr97_2205-sap-successfactors-onboarding-1h-2022-exam/)
+* [Counterintelligence 101 Certification Crash Course](https://coursemetry.com/counterintelligence-101-certification-crash-course/)
 
-* [C_THR86_2205 | SAP SuccessFactors Compensation 1H/2022 Exam](https://coursemetry.com/c_thr86_2205-sap-successfactors-compensation-1h-2022-exam/)
+* [Overcoming Biggest Challenges to Business Success Fast](https://coursemetry.com/overcoming-biggest-challenges-to-business-success-fast/)
 
-* [AWS-SysOps Administrator Exam 2022](https://coursemetry.com/aws-sysops-administrator-exam-2022/)
+* [Fundamentals of IoT (Internet of Things)](https://coursemetry.com/fundamentals-of-iot-internet-of-things/)
 
-* [C_THR91_1811 | SAP SuccessFactors Onboarding 1.0 Q4/201 Exam](https://coursemetry.com/c_thr91_1811-sap-successfactors-onboarding-1-0-q4-201-exam/)
+* [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
 
-* [Earn Bitcoin on Your Phone WORLDWIDE Even While You Sleep](https://coursemetry.com/earn-bitcoin-on-your-phone-worldwide-even-while-you-sleep/)
+* [التجارة الإلكترونية والتسويق الإلكتروني 24 محاضرة للمبتدئين](https://coursemetry.com/%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa/)
 
-* [Data Science with Python Complete Course](https://coursemetry.com/data-science-with-python-complete-course/)
+* [Temel Numeroloji Uygulayıcı Eğitimi](https://coursemetry.com/temel-numeroloji-uygulayici-egitimi/)
 
-* [C_THR87_2205 | SAP SuccessFactors Variable Pay 1H/2022 Exam](https://coursemetry.com/c_thr87_2205-sap-successfactors-variable-pay-1h-2022-exam/)
+* [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
 
-* [C_THR96_2205 | SAP SuccessFactors Workforce Analytics Exam](https://coursemetry.com/c_thr96_2205-sap-successfactors-workforce-analytics-exam/)
+* [Instagram Marketing 2021: Growth and Promotion on Instagram](https://coursemetry.com/instagram-marketing-2021-growth-and-promotion-on-instagram/)
 
-* [Introdução à Psicologia Jurídica](https://coursemetry.com/introducao-a-psicologia-juridica/)
+* [Reverse Engineering .NET For Beginners (Visual Basic)](https://coursemetry.com/reverse-engineering-net-for-beginners-visual-basic/)
 
-* [Melting Math - Year 1 and 2 Math Practice Tests](https://coursemetry.com/melting-math-year-1-and-2-math-practice-tests/)
+* [The Complete 3D Monster Modelling Series for NFT & Metaverse](https://coursemetry.com/the-complete-3d-monster-modelling-series-for-nft-metaverse/)
 
-* [Learn jQuery - For Beginners](https://coursemetry.com/learn-jquery-for-beginners/)
+* [AWS Certified Cloud Practitioner - Practice Exam](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exam-2/)
 
-* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
+* [AWS DevOps Engineer Professional - Pratice test 2022](https://coursemetry.com/aws-devops-engineer-professional-pratice-test-2022/)
 
-* [Learn PHP - For Beginners](https://coursemetry.com/learn-php-for-beginners/)
+* [Google Professional Cloud DevOps Engineer Exam 2022](https://coursemetry.com/google-professional-cloud-devops-engineer-exam-2022/)
 
-* [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
+* [AWS Certified Advanced Networking Specialty - Pactice Exam](https://coursemetry.com/aws-certified-advanced-networking-specialty-pactice-exam/)
 
-* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
+* [Google professional cloud architect Exam 2022](https://coursemetry.com/google-professional-cloud-architect-exam-2022/)
 
-* [Reverse Engineering and Malware Analysis x64/32: CRMA+ 2022](https://coursemetry.com/reverse-engineering-and-malware-analysis-x64-32-crma-2022/)
+* [AWS Certified Solutions Architect - Professional Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-3/)
 
-* [AI-900 Azure AI Fundamentals practice tests](https://coursemetry.com/ai-900-azure-ai-fundamentals-practice-tests/)
+* [How to Create YouTube Channel and set All Settings in it](https://coursemetry.com/how-to-create-youtube-channel-and-set-all-settings-in-it/)
 
-* [Tenable .sc "Security Center" Training Course,From 0 to Hero](https://coursemetry.com/tenable-sc-security-center-training-coursefrom-0-to-hero/)
+* [Financial Accounting – Inventory Costs](https://coursemetry.com/financial-accounting-inventory-costs/)
 
-* [Beaver Builder | Page Builder Course](https://coursemetry.com/beaver-builder-page-builder-course/)
+* [S Corporation Income Tax - Form 1120S](https://coursemetry.com/s-corporation-income-tax-form-1120s/)
 
-* [E_C4HYCP_12 | SAP Product Specialist Commerce Cloud Exam](https://coursemetry.com/e_c4hycp_12-sap-product-specialist-commerce-cloud-exam/)
+* [Partnership Income Tax (Form 1065)](https://coursemetry.com/partnership-income-tax-form-1065/)
 
-* [Facebook Ads For Small Business From Very Basic To Advance](https://coursemetry.com/facebook-ads-for-small-business-from-very-basic-to-advance/)
+* [QuickBooks Online vs. Excel 2022](https://coursemetry.com/quickbooks-online-vs-excel-2022/)
 
-* [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
+* [Two QuickBooks File-Business & Personal vs One File For Both](https://coursemetry.com/two-quickbooks-file-business-personal-vs-one-file-for-both/)
 
-* [C_THR82_2205 - SAP SuccessFactors Performance and Goal Exam](https://coursemetry.com/c_thr82_2205-sap-successfactors-performance-and-goal-exam/)
+* [QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-desktop-vs-excel/)
 
-* [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners/)
+* [C Corporation Income Tax (Form 1120)](https://coursemetry.com/c-corporation-income-tax-form-1120/)
 
-* [HTML and CSS for Beginners From Basic to Advance](https://coursemetry.com/html-and-css-for-beginners-from-basic-to-advance/)
+* [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
 
-* [Microsoft SharePoint Online for Administrators & Power Users](https://coursemetry.com/microsoft-sharepoint-online-for-administrators-power-users/)
+* [QuickBooks Desktop – Export Directly to Tax Software Lacerte](https://coursemetry.com/quickbooks-desktop-export-directly-to-tax-software-lacerte/)
 
-* [C_TS413_2020 | SAP S/4HANA Asset Management - Practice Test](https://coursemetry.com/c_ts413_2020-sap-s-4hana-asset-management-practice-test/)
+* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
 
-* [C_THR81_2205 | SAP SuccessFactors Employee Central Exam](https://coursemetry.com/c_thr81_2205-sap-successfactors-employee-central-exam/)
+* [Hands-On React. Build advanced React JS Frontend with expert](https://coursemetry.com/hands-on-react-build-advanced-react-js-frontend-with-expert/)
 
-* [Passive Income - 35+ Tools/Websites to Earn Money](https://coursemetry.com/passive-income-35-tools-websites-to-earn-money/)
+* [Jira Crash Course | Jira Fundamentals for Agile Projects](https://coursemetry.com/jira-crash-course-jira-fundamentals-for-agile-projects/)
 
-* [CSS & JavaScript - Certification Course for Beginners](https://coursemetry.com/css-javascript-certification-course-for-beginners/)
+* [Ágil: Curso Express de Ágil | Gestión de Proyectos Ágil](https://coursemetry.com/agil-curso-express-de-agil-gestion-de-proyectos-agil/)
 
-* [C_FIORDEV_22 | SAP Certified Fiori Application Develope Exam](https://coursemetry.com/c_fiordev_22-sap-certified-fiori-application-develope-exam/)
+* [Introducción al diseño web: HTML y CSS](https://coursemetry.com/introduccion-al-diseno-web-html-y-css/)
 
-* [C_HRHPC_2205 | SAP SuccessFactors for Employee 1H/2022 Exam](https://coursemetry.com/c_hrhpc_2205-sap-successfactors-for-employee-1h-2022-exam/)
+* [Marketing Automation & Email Marketing for Beginners](https://coursemetry.com/marketing-automation-email-marketing-for-beginners/)
 
-* [C_THR85_2205 - SAP SuccessFactors Succession Management Exam](https://coursemetry.com/c_thr85_2205-sap-successfactors-succession-management-exam/)
+* [CV / Resume for Experienced & Freshers](https://coursemetry.com/cv-resume-for-experienced-freshers/)
 
-* [C_THR84_2205 - SAP SuccessFactors Recruiting: Candidate Exam](https://coursemetry.com/c_thr84_2205-sap-successfactors-recruiting-candidate-exam/)
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
 
-* [P_S4FIN_2021 | SAP S/4HANA ERP Finance Experts Exam](https://coursemetry.com/p_s4fin_2021-sap-s-4hana-erp-finance-experts-exam/)
+* [Information Security Fundamentals](https://coursemetry.com/information-security-fundamentals/)
 
-* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners/)
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
 
-* [C_ARSUM_2202 | SAP Ariba Supplier Management Practice Exam](https://coursemetry.com/c_arsum_2202-sap-ariba-supplier-management-practice-exam/)
+* [Sales Master Class by Dave Kennett -Close more deals!](https://coursemetry.com/sales-master-class-by-dave-kennett-close-more-deals/)
 
-* [【不確実性の増大とDX時代に再構築を迫られる】理論と事例から学ぶSCM](https://coursemetry.com/%e3%80%90%e4%b8%8d%e7%a2%ba%e5%ae%9f%e6%80%a7%e3%81%ae%e5%a2%97%e5%a4%a7%e3%81%a8dx%e6%99%82%e4%bb%a3%e3%81%ab%e5%86%8d%e6%a7%8b%e7%af%89%e3%82%92%e8%bf%ab%e3%82%89%e3%82%8c%e3%82%8b%e3%80%91%e7%90%86/)
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
 
-* [C_THR83_2205 - SAP SuccessFactors Recruiting: Recruiter Exam](https://coursemetry.com/c_thr83_2205-sap-successfactors-recruiting-recruiter-exam/)
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
 
-* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners/)
-
-* [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
-
-* [C_TS450_2021 | SAP Sourcing and Procurement Practice Test](https://coursemetry.com/c_ts450_2021-sap-sourcing-and-procurement-practice-test/)
-
-* [C_DS_42 | SAP Data Integration with SAP Data Services Exam](https://coursemetry.com/c_ds_42-sap-data-integration-with-sap-data-services-exam/)
-
-* [The Automation Guide for the Company](https://coursemetry.com/the-automation-guide-for-the-company/)
-
-* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
-
-* [Complete Google Certified Educator Level 1 and 2 Masterclass](https://coursemetry.com/complete-google-certified-educator-level-1-and-2-masterclass/)
-
-* [The Complete Google Docs Course - Google Docs Tricks & Tips](https://coursemetry.com/the-complete-google-docs-course-google-docs-tricks-tips/)
-
-* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
-
-* [How to Become Financially Free](https://coursemetry.com/how-to-become-financially-free/)
-
-* [Complete Google Slides Course - Create Stunning Slides](https://coursemetry.com/complete-google-slides-course-create-stunning-slides/)
-
-* [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
-
-* [User Stories for Agile Scrum+Product Owner+Business Analysis](https://coursemetry.com/user-stories-for-agile-scrumproduct-ownerbusiness-analysis/)
-
-* [Python Scripting Complete Course](https://coursemetry.com/python-scripting-complete-course/)
-
-* [Complete Cubase Megacourse: Beginner to Expert](https://coursemetry.com/complete-cubase-megacourse-beginner-to-expert/)
-
-* [Facebook Page & Facebook Ads Made as Fun: 11 Days Challenge](https://coursemetry.com/facebook-page-facebook-ads-made-as-fun-11-days-challenge/)
-
-* [Yds-Yökdil ve Ydt için Gramer Öğren](https://coursemetry.com/yds-yokdil-ve-ydt-icin-gramer-ogren/)
-
-* [Build An NFT Marketplace From Scratch - Blockchain DApp](https://coursemetry.com/build-an-nft-marketplace-from-scratch-blockchain-dapp/)
-
-* [JavaScript - Creating Loan EMI Calculator](https://coursemetry.com/javascript-creating-loan-emi-calculator/)
-
-* [Learn AND Generate & Select  Right Business Ideas](https://coursemetry.com/learn-and-generate-select-right-business-ideas/)
-
-* [How to Create a Profitable Online Course that SELL Fast](https://coursemetry.com/how-to-create-a-profitable-online-course-that-sell-fast/)
-
-* [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
-
-* [Learn 47 Different Ways to Make Money Online!](https://coursemetry.com/learn-47-different-ways-to-make-money-online/)
-
-* [Ho'oponopono Öğretisi ve Uygulamaları (Tüm Boyutlarıyla)](https://coursemetry.com/hooponopono-ogretisi-ve-uygulamalari-tum-boyutlariyla/)
-
-* [DBT Radical Acceptance - The Complete Course](https://coursemetry.com/dbt-radical-acceptance-the-complete-course/)
-
-* [JavaScript - Creating Quiz Hands on Complete Course](https://coursemetry.com/javascript-creating-quiz-hands-on-complete-course/)
-
-* [The Complete Resilience Course - Master Emotional Resiliency](https://coursemetry.com/the-complete-resilience-course-master-emotional-resiliency/)
-
-* [Sales Skills and Soft Skills For Marketing  & Negotiation](https://coursemetry.com/sales-skills-and-soft-skills-for-marketing-negotiation/)
-
-* [Basic Business Fundamentals  - Operations Management](https://coursemetry.com/basic-business-fundamentals-operations-management/)
-
-* [Make Amazing Pictures: Photo Editing for Photographers](https://coursemetry.com/make-amazing-pictures-photo-editing-for-photographers/)
-
-* [Fotografía Profesional Arquitectura Inmobiliaria Real Estate](https://coursemetry.com/fotografia-profesional-arquitectura-inmobiliaria-real-estate/)
-
-* [AirTable for Beginners: Learn the Basics & Essentials](https://coursemetry.com/airtable-for-beginners-learn-the-basics-essentials/)
-
-* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
+* [Easy Step by Step Guide to New Product/Brand Development](https://coursemetry.com/easy-step-by-step-guide-to-new-product-brand-development/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
