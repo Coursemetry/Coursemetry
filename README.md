@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published so far on 2022-08-28**
+## **59 Udemy free courses published so far on 2022-08-28**
 
 * [Marketing Fundamentals: Introduction into Digital Marketing](https://coursemetry.com/marketing-fundamentals-introduction-into-digital-marketing/)
 
@@ -102,9 +102,25 @@
 
 * [Curso completo de Python 2022-De cero a Master con Python 3](https://coursemetry.com/curso-completo-de-python-2022-de-cero-a-master-con-python-3/)
 
+* [HVAC Chillers System Description A-Z](https://coursemetry.com/hvac-chillers-system-description-a-z/)
+
+* [Learn To Focus: Meditation & Mindfulness For ADHD](https://coursemetry.com/learn-to-focus-meditation-mindfulness-for-adhd/)
+
+* [Meditation Masterclass: meditation teacher certification](https://coursemetry.com/meditation-masterclass-meditation-teacher-certification/)
+
+* [Complete Inventory Management in Microsoft Excel &TALLY ERP9](https://coursemetry.com/complete-inventory-management-in-microsoft-excel-tally-erp9/)
+
 * [Certificate in Professional Palmistry - Masterclass](https://coursemetry.com/certificate-in-professional-palmistry-masterclass/)
 
-* [HVAC Chillers System Description A-Z](https://coursemetry.com/hvac-chillers-system-description-a-z/)
+* [Learn AND Generate & Select  Right Business Ideas](https://coursemetry.com/learn-and-generate-select-right-business-ideas/)
+
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
+
+* [Tally ERP9 With GST Step By Step Guide From Basic to Advance](https://coursemetry.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/)
+
+* [SC-200 Microsoft Identity and Access Administrator Exam Prep](https://coursemetry.com/sc-200-microsoft-identity-and-access-administrator-exam-prep/)
+
+* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
