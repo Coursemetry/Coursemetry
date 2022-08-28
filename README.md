@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published so far on 2022-08-28**
+## **51 Udemy free courses published so far on 2022-08-28**
 
 * [Marketing Fundamentals: Introduction into Digital Marketing](https://coursemetry.com/marketing-fundamentals-introduction-into-digital-marketing/)
 
@@ -103,6 +103,8 @@
 * [Curso completo de Python 2022-De cero a Master con Python 3](https://coursemetry.com/curso-completo-de-python-2022-de-cero-a-master-con-python-3/)
 
 * [Certificate in Professional Palmistry - Masterclass](https://coursemetry.com/certificate-in-professional-palmistry-masterclass/)
+
+* [HVAC Chillers System Description A-Z](https://coursemetry.com/hvac-chillers-system-description-a-z/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
