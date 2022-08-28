@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **59 Udemy free courses published so far on 2022-08-28**
+## **65 Udemy free courses published so far on 2022-08-28**
 
 * [Marketing Fundamentals: Introduction into Digital Marketing](https://coursemetry.com/marketing-fundamentals-introduction-into-digital-marketing/)
 
@@ -121,6 +121,18 @@
 * [SC-200 Microsoft Identity and Access Administrator Exam Prep](https://coursemetry.com/sc-200-microsoft-identity-and-access-administrator-exam-prep/)
 
 * [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
+
+* [Complete Java Web Service Bootcamp: From Beginner To Pro](https://coursemetry.com/complete-java-web-service-bootcamp-from-beginner-to-pro/)
+
+* [Learn Web Application Security For Beginners- OWASP Top 10](https://coursemetry.com/learn-web-application-security-for-beginners-owasp-top-10/)
+
+* [TRINITY- BODY MIND AND SOUL WELLNESS](https://coursemetry.com/trinity-body-mind-and-soul-wellness/)
+
+* [How to discover hot new crypto projects before they launch](https://coursemetry.com/how-to-discover-hot-new-crypto-projects-before-they-launch/)
+
+* [Project Management for Beginners: A Comprehensive Guide](https://coursemetry.com/project-management-for-beginners-a-comprehensive-guide/)
+
+* [Master in Automated Invoice Maker In Microsoft Excel](https://coursemetry.com/master-in-automated-invoice-maker-in-microsoft-excel/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
