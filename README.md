@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-08-29**
+## **74 Udemy free courses published so far on 2022-08-29**
 
 * [AZ-900: Microsoft Azure Fundamentals  Practice Tests](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-2/)
 
@@ -129,6 +129,28 @@
 * [German B1 Oral Exam Preparation with a Song](https://coursemetry.com/german-b1-oral-exam-preparation-with-a-song/)
 
 * [PCAP - Certified Associate in Python Programming - Exams](https://coursemetry.com/pcap-certified-associate-in-python-programming-exams/)
+
+* [ServiceNow Certified System Administrator Exam](https://coursemetry.com/servicenow-certified-system-administrator-exam/)
+
+* [AWS Certified Solutions Architect - Professional Exam 22](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-22/)
+
+* [Google Cloud Professional Cloud Security Engineer  Exam 2022](https://coursemetry.com/google-cloud-professional-cloud-security-engineer-exam-2022/)
+
+* [ITIL 4 Foundation Exam](https://coursemetry.com/itil-4-foundation-exam/)
+
+* [AWS Certified Solutions Architect - Associate Exam 2022](https://coursemetry.com/aws-certified-solutions-architect-associate-exam-2022-2/)
+
+* [AWS Certified Developer - Associate Exam 2022](https://coursemetry.com/aws-certified-developer-associate-exam-2022/)
+
+* [AWS Certified Database Specialty Practice Exams 2022](https://coursemetry.com/aws-certified-database-specialty-practice-exams-2022/)
+
+* [AWS-SysOps Administrator Exam 2022](https://coursemetry.com/aws-sysops-administrator-exam-2022/)
+
+* [PRINCE 2 Foundation Exam 2022](https://coursemetry.com/prince-2-foundation-exam-2022-2/)
+
+* [AWS Certified Solutions Architect - Professional Exam 2022](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-2022-2/)
+
+* [Google Professional Cloud Developer Practice Test 2022](https://coursemetry.com/google-professional-cloud-developer-practice-test-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
