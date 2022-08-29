@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published so far on 2022-08-29**
+## **130 Udemy free courses published so far on 2022-08-29**
 
 * [AZ-900: Microsoft Azure Fundamentals  Practice Tests](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-2/)
 
@@ -151,6 +151,118 @@
 * [AWS Certified Solutions Architect - Professional Exam 2022](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-2022-2/)
 
 * [Google Professional Cloud Developer Practice Test 2022](https://coursemetry.com/google-professional-cloud-developer-practice-test-2022/)
+
+* [Microsoft SC-300 Exclusive Exam Preparation - NEW](https://coursemetry.com/microsoft-sc-300-exclusive-exam-preparation-new/)
+
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
+
+* [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
+
+* [Upscale Your Coaching Business: A Simple 5-Step Action Plan](https://coursemetry.com/upscale-your-coaching-business-a-simple-5-step-action-plan/)
+
+* [R Programming: Desde cero para Data Science](https://coursemetry.com/r-programming-desde-cero-para-data-science-2/)
+
+* [Python 3: Desde cero para principiantes](https://coursemetry.com/python-3-desde-cero-para-principiantes/)
+
+* [Análisis avanzado con SQL y programación en R con Power BI](https://coursemetry.com/analisis-avanzado-con-sql-y-programacion-en-r-con-power-bi/)
+
+* [Análisis de casos reales y funciones DAX con Power BI](https://coursemetry.com/analisis-de-casos-reales-y-funciones-dax-con-power-bi/)
+
+* [Microsoft Excel: Desde cero para profesionales](https://coursemetry.com/microsoft-excel-desde-cero-para-profesionales/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Análisis de datos con Python](https://coursemetry.com/analisis-de-datos-con-python/)
+
+* [Análisis de datos con Google Data Studio](https://coursemetry.com/analisis-de-datos-con-google-data-studio/)
+
+* [Power BI de principiante a avanzado.](https://coursemetry.com/power-bi-de-principiante-a-avanzado/)
+
+* [R Programming: Aprende a programar en R desde cero](https://coursemetry.com/r-programming-aprende-a-programar-en-r-desde-cero/)
+
+* [Machine Learning con Python](https://coursemetry.com/machine-learning-con-python/)
+
+* [Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://coursemetry.com/cryptocurrency-trading-for-beginners-learn-click-by-click/)
+
+* [Porto Visual Composer CSS Woocommerce Zero to Hero  2020](https://coursemetry.com/porto-visual-composer-css-woocommerce-zero-to-hero-2020/)
+
+* [Email Marketing Masterclass For Beginners](https://coursemetry.com/email-marketing-masterclass-for-beginners/)
+
+* [DevOps Fundamentals: Build Azure Infra with Terraform](https://coursemetry.com/devops-fundamentals-build-azure-infra-with-terraform/)
+
+* [Microsoft PowerPoint  - البوربوينت من الصفر للاحتراف](https://coursemetry.com/microsoft-powerpoint-%d8%a7%d9%84%d8%a8%d9%88%d8%b1%d8%a8%d9%88%d9%8a%d9%86%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [La mecánica de las creencias: el proceso de la creación](https://coursemetry.com/la-mecanica-de-las-creencias-el-proceso-de-la-creacion/)
+
+* [Programming with Scratch | تعلم البرمجة من الصفر للمبتدئين](https://coursemetry.com/programming-with-scratch-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d9%85%d8%a8%d8%aa%d8%af%d8%a6%d9%8a%d9%86/)
+
+* [JavaScript: Desde cero con NodeJS](https://coursemetry.com/javascript-desde-cero-con-nodejs/)
+
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
+
+* [SQL: Consultas básicas a complejas](https://coursemetry.com/sql-consultas-basicas-a-complejas/)
+
+* [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
+
+* [Power BI DAX: Aprende las funciones más avanzadas](https://coursemetry.com/power-bi-dax-aprende-las-funciones-mas-avanzadas/)
+
+* [Google Slides - جوجل سلايدز من الصفر للاحتراف](https://coursemetry.com/google-slides-%d8%ac%d9%88%d8%ac%d9%84-%d8%b3%d9%84%d8%a7%d9%8a%d8%af%d8%b2-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
+* [Google Spreadsheets: Empieza desde cero](https://coursemetry.com/google-spreadsheets-empieza-desde-cero/)
+
+* [Python 3: Análisis y visualización de datos](https://coursemetry.com/python-3-analisis-y-visualizacion-de-datos/)
+
+* [Fundamentos de Programación: Aprende a programar desde cero](https://coursemetry.com/fundamentos-de-programacion-aprende-a-programar-desde-cero/)
+
+* [Crea tu primer juego con Pygame](https://coursemetry.com/crea-tu-primer-juego-con-pygame/)
+
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [MongoDB: Aprende desde cero a experto](https://coursemetry.com/mongodb-aprende-desde-cero-a-experto/)
+
+* [Master the secrets of effective communication with your kids](https://coursemetry.com/master-the-secrets-of-effective-communication-with-your-kids/)
+
+* [Business Networking for Success and Company Growth: Part 3](https://coursemetry.com/business-networking-for-success-and-company-growth-part-3/)
+
+* [ISTQB Mobile Application Tester Mock Exams -2022 Updated](https://coursemetry.com/istqb-mobile-application-tester-mock-exams-2022-updated/)
+
+* [Complete DaVinci Resolve 17 Megacourse: Beginner to Expert](https://coursemetry.com/complete-davinci-resolve-17-megacourse-beginner-to-expert/)
+
+* [C# ile Temel ve Orta Seviye Programlama](https://coursemetry.com/c-ile-temel-ve-orta-seviye-programlama/)
+
+* [Scrum Master Certification Exam Simulation - Latest 2022 !!](https://coursemetry.com/scrum-master-certification-exam-simulation-latest-2022/)
+
+* [Google Cloud Professional Cloud Security Engineer Exam 2022](https://coursemetry.com/google-cloud-professional-cloud-security-engineer-exam-2022-2/)
+
+* [The Expert’s Secret to Mobile Application Testing](https://coursemetry.com/the-experts-secret-to-mobile-application-testing/)
+
+* [Learn basic Italian in 2 hours](https://coursemetry.com/learn-basic-italian-in-2-hours/)
+
+* [Google Professional Cloud Developer Exam 2022](https://coursemetry.com/google-professional-cloud-developer-exam-2022/)
+
+* [Análisis de datos con Microsoft Excel](https://coursemetry.com/analisis-de-datos-con-microsoft-excel/)
+
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
+
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
+
+* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+
+* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [Python Video Processing](https://coursemetry.com/python-video-processing/)
+
+* [Enable Any Frontend App with Login using Google & SpringBoot](https://coursemetry.com/enable-any-frontend-app-with-login-using-google-springboot/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
