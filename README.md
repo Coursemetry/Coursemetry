@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **141 Udemy free courses published so far on 2022-08-30**
+## **144 Udemy free courses published so far on 2022-08-30**
 
 * [Wordpress Affiliate System and WP Engagement Boost](https://coursemetry.com/wordpress-affiliate-system-and-wp-engagement-boost/)
 
@@ -234,8 +234,6 @@
 
 * [PRINCE 2 Foundation - Exam 2022](https://coursemetry.com/prince-2-foundation-exam-2022-3/)
 
-* [Learn Calculus 1 - Become Expert on Calculus 1](https://coursemetry.com/learn-calculus-1-become-expert-on-calculus-1/)
-
 * [Cyber Security: Secure Passwords on Linux](https://coursemetry.com/cyber-security-secure-passwords-on-linux/)
 
 * [React JS- Complete Guide for Frontend Web Development [2022]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2022/)
@@ -285,6 +283,14 @@
 * [Java Beginners Course, Learn by coding the Hangman Game](https://coursemetry.com/java-beginners-course-learn-by-coding-the-hangman-game/)
 
 * [Curso profesional de JavaScript, de cero a experto en 2022!](https://coursemetry.com/curso-profesional-de-javascript-de-cero-a-experto-en-2022/)
+
+* [Certified Professional in C# Programming - Practice Test](https://coursemetry.com/certified-professional-in-c-programming-practice-test/)
+
+* [Learn Calculus 1 - Become Expert on Calculus 1](https://coursemetry.com/learn-calculus-1-become-expert-on-calculus-1/)
+
+* [Tally Prime Erp +GST 2022 : Certificate Course](https://coursemetry.com/tally-prime-erp-gst-2022-certificate-course/)
+
+* [Certified Professional in PHP Language - Practice Test](https://coursemetry.com/certified-professional-in-php-language-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
