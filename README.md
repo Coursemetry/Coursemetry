@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **147 Udemy free courses published so far on 2022-08-30**
+## **148 Udemy free courses published so far on 2022-08-30**
 
 * [Wordpress Affiliate System and WP Engagement Boost](https://coursemetry.com/wordpress-affiliate-system-and-wp-engagement-boost/)
 
@@ -297,6 +297,8 @@
 * [Curso de Canva en Español | De Principiante a Emprendedor](https://coursemetry.com/curso-de-canva-en-espanol-de-principiante-a-emprendedor/)
 
 * [Excel Profesional 2022– Para Empresas!](https://coursemetry.com/excel-profesional-2022-para-empresas/)
+
+* [Tally ERP9 With GST Step By Step Guide From Basic to Advance](https://coursemetry.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
