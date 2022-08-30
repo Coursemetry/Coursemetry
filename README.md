@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **133 Udemy free courses published so far on 2022-08-30**
+## **141 Udemy free courses published so far on 2022-08-30**
 
 * [Wordpress Affiliate System and WP Engagement Boost](https://coursemetry.com/wordpress-affiliate-system-and-wp-engagement-boost/)
 
@@ -269,6 +269,22 @@
 * [Masters Self Hypnosis For Real People](https://coursemetry.com/masters-self-hypnosis-for-real-people/)
 
 * [How to Sell Your Google Ads Service](https://coursemetry.com/how-to-sell-your-google-ads-service/)
+
+* [Cinematography Essentials for Videographers & Film-Makers](https://coursemetry.com/cinematography-essentials-for-videographers-film-makers/)
+
+* [P.O.W.E.R. : Proven Interview System to crack your DREAM job](https://coursemetry.com/p-o-w-e-r-proven-interview-system-to-crack-your-dream-job/)
+
+* [Certified Professional in Data Science - Practice Test](https://coursemetry.com/certified-professional-in-data-science-practice-test/)
+
+* [Healthy living with "No Oil" Recipes - Non Vegetarian](https://coursemetry.com/healthy-living-with-no-oil-recipes-non-vegetarian/)
+
+* [Doğrusal Denklemler - 8.Sınıf Matematik - LGS](https://coursemetry.com/dogrusal-denklemler-8-sinif-matematik-lgs/)
+
+* [ANGULAR - BEYOND FUNDAMENTALS](https://coursemetry.com/angular-beyond-fundamentals/)
+
+* [Java Beginners Course, Learn by coding the Hangman Game](https://coursemetry.com/java-beginners-course-learn-by-coding-the-hangman-game/)
+
+* [Curso profesional de JavaScript, de cero a experto en 2022!](https://coursemetry.com/curso-profesional-de-javascript-de-cero-a-experto-en-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
