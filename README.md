@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **173 Udemy free courses published so far on 2022-08-31**
+## **191 Udemy free courses published so far on 2022-08-31**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -349,6 +349,42 @@
 * [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
 
 * [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [5 Real-Time Use Cases using Machine Learning](https://coursemetry.com/5-real-time-use-cases-using-machine-learning/)
+
+* [Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://coursemetry.com/freelancing-37-ways-to-make-money-from-home-as-a-freelancer/)
+
+* [Adobe Photoshop Type Basics Guide](https://coursemetry.com/adobe-photoshop-type-basics-guide/)
+
+* [Power of Quora : A to Z of Earning from Quora  & Ads (HINDI)](https://coursemetry.com/power-of-quora-a-to-z-of-earning-from-quora-ads-hindi/)
+
+* [Complete JavaScript, XML, AJAX and React Bootcamp - Hands-On](https://coursemetry.com/complete-javascript-xml-ajax-and-react-bootcamp-hands-on/)
+
+* [Adobe Photoshop Ultimate Guide 2022](https://coursemetry.com/adobe-photoshop-ultimate-guide-2022/)
+
+* [Adobe XD Basics Guide 2022](https://coursemetry.com/adobe-xd-basics-guide-2022/)
+
+* [Operating System: Understanding the core](https://coursemetry.com/operating-system-understanding-the-core/)
+
+* [Adobe Photoshop Print Design Basics Guide](https://coursemetry.com/adobe-photoshop-print-design-basics-guide/)
+
+* [Adobe Photoshop Toolbar Keyboard Shortcuts Basics Guide](https://coursemetry.com/adobe-photoshop-toolbar-keyboard-shortcuts-basics-guide/)
+
+* [Complete Bootstrap & React Bootcamp with Hands-On Projects](https://coursemetry.com/complete-bootstrap-react-bootcamp-with-hands-on-projects/)
+
+* [Create FREE E-Commerce Store in minutes Using Vanijya App](https://coursemetry.com/create-free-e-commerce-store-in-minutes-using-vanijya-app/)
+
+* [Power of Quora : A to Z of Earning from Quora  & Quora Ads](https://coursemetry.com/power-of-quora-a-to-z-of-earning-from-quora-quora-ads/)
+
+* [Complete JavaScript, jQuery and React Bootcamp - Hands-On](https://coursemetry.com/complete-javascript-jquery-and-react-bootcamp-hands-on/)
+
+* [Adobe Premiere Pro Basics Guide 2022](https://coursemetry.com/adobe-premiere-pro-basics-guide-2022/)
+
+* [HTML, CSS, React - Certification Course for Beginners](https://coursemetry.com/html-css-react-certification-course-for-beginners/)
+
+* [Curso Completo Funcional de iDempiere](https://coursemetry.com/curso-completo-funcional-de-idempiere/)
+
+* [Alemão em 5 palavras | Curso A2 completo - Básico superior](https://coursemetry.com/alemao-em-5-palavras-curso-a2-completo-basico-superior/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
