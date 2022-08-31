@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-08-31**
+## **120 Udemy free courses published so far on 2022-08-31**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -15,8 +15,6 @@
 * [Sublime Text 3 Basics Guide 2022](https://coursemetry.com/sublime-text-3-basics-guide-2022/)
 
 * [Trello Ultimate Guide 2022](https://coursemetry.com/trello-ultimate-guide-2022/)
-
-* [Windows Command Line Basics Guide 2022](https://coursemetry.com/windows-command-line-basics-guide-2022/)
 
 * [Visual Studio Code Ultimate Guide 2022](https://coursemetry.com/visual-studio-code-ultimate-guide-2022/)
 
@@ -78,15 +76,11 @@
 
 * [Microsoft Stream Basics Guide 2022](https://coursemetry.com/microsoft-stream-basics-guide-2022/)
 
-* [Zabbix Basics Guide 2022](https://coursemetry.com/zabbix-basics-guide-2022/)
-
 * [WebGL Basics Guide 2022](https://coursemetry.com/webgl-basics-guide-2022/)
 
 * [JavaScript Ultimate Guide 2022](https://coursemetry.com/javascript-ultimate-guide-2022/)
 
 * [Open Broadcaster Basics Guide 2022](https://coursemetry.com/open-broadcaster-basics-guide-2022/)
-
-* [Swagger Tools Basics Guide 2022](https://coursemetry.com/swagger-tools-basics-guide-2022/)
 
 * [SVG Basics Guide 2022](https://coursemetry.com/svg-basics-guide-2022/)
 
@@ -111,8 +105,6 @@
 * [Passive Income: 27 Ways to Earn Passive Income Online](https://coursemetry.com/passive-income-27-ways-to-earn-passive-income-online/)
 
 * [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
-
-* [Network Monitoring Basics Guide 2022](https://coursemetry.com/network-monitoring-basics-guide-2022/)
 
 * [HTML5 Ultimate Guide 2022](https://coursemetry.com/html5-ultimate-guide-2022/)
 
@@ -223,6 +215,34 @@
 * [Adobe Photoshop Automate Basics Guide](https://coursemetry.com/adobe-photoshop-automate-basics-guide/)
 
 * [Adobe Photoshop Icon Design Basics Guide](https://coursemetry.com/adobe-photoshop-icon-design-basics-guide/)
+
+* [Google Keep Basics Guide 2022](https://coursemetry.com/google-keep-basics-guide-2022/)
+
+* [SQL Server Veritabanı Programlama: Temel, Orta, İleri Seviye](https://coursemetry.com/sql-server-veritabani-programlama-temel-orta-ileri-seviye/)
+
+* [Swagger Tools Basics Guide 2022](https://coursemetry.com/swagger-tools-basics-guide-2022/)
+
+* [Network Monitoring Basics Guide 2022](https://coursemetry.com/network-monitoring-basics-guide-2022/)
+
+* [Zabbix Basics Guide 2022](https://coursemetry.com/zabbix-basics-guide-2022/)
+
+* [API Security Testing Guide by The XSS Rat](https://coursemetry.com/api-security-testing-guide-by-the-xss-rat/)
+
+* [Windows Command Line Basics Guide 2022](https://coursemetry.com/windows-command-line-basics-guide-2022/)
+
+* [PCAP - Certified Associate in Python Programming - Exams](https://coursemetry.com/pcap-certified-associate-in-python-programming-exams/)
+
+* [Microsoft To Do Basics Guide 2022](https://coursemetry.com/microsoft-to-do-basics-guide-2022/)
+
+* [The Complete Cinematic Underwater City for Metaverse and NFT](https://coursemetry.com/the-complete-cinematic-underwater-city-for-metaverse-and-nft/)
+
+* [Certified MongoDB Developer -  C100DEV Practice Tests - 2022](https://coursemetry.com/certified-mongodb-developer-c100dev-practice-tests-2022/)
+
+* [CSS Flexbox Course](https://coursemetry.com/css-flexbox-course/)
+
+* [Cisco ASA Basics](https://coursemetry.com/cisco-asa-basics/)
+
+* [TypeScript Crash Course](https://coursemetry.com/typescript-crash-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
