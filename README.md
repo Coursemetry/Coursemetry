@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **161 Udemy free courses published so far on 2022-08-31**
+## **173 Udemy free courses published so far on 2022-08-31**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -190,8 +190,6 @@
 
 * [Adobe Premiere Pro Ultimate Guide 2022](https://coursemetry.com/adobe-premiere-pro-ultimate-guide-2022/)
 
-* [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
-
 * [Partnership Income Tax (Form 1065)](https://coursemetry.com/partnership-income-tax-form-1065/)
 
 * [C Corporation Income Tax (Form 1120)](https://coursemetry.com/c-corporation-income-tax-form-1120/)
@@ -325,6 +323,32 @@
 * [Systematic Guide to Generate Amazon Affiliate Profits](https://coursemetry.com/systematic-guide-to-generate-amazon-affiliate-profits/)
 
 * [Object Oriented Programming with Java: Complete beginners](https://coursemetry.com/object-oriented-programming-with-java-complete-beginners/)
+
+* [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
+
+* [SEO Mastery - Rank #1 on Google with SEO ( Hindi)](https://coursemetry.com/seo-mastery-rank-1-on-google-with-seo-hindi/)
+
+* [Adobe Photoshop App Design Basics Guide](https://coursemetry.com/adobe-photoshop-app-design-basics-guide/)
+
+* [Ultimate Python Bootcamp For Data Science & Machine Learning](https://coursemetry.com/ultimate-python-bootcamp-for-data-science-machine-learning/)
+
+* [Adobe Photoshop Preferences Basics Guide](https://coursemetry.com/adobe-photoshop-preferences-basics-guide/)
+
+* [Adobe Photoshop Project Management Basics Guide](https://coursemetry.com/adobe-photoshop-project-management-basics-guide/)
+
+* [CSS3 Basics Guide 2022](https://coursemetry.com/css3-basics-guide-2022/)
+
+* [Introduction to Frictionless Sales Process](https://coursemetry.com/introduction-to-frictionless-sales-process/)
+
+* [Git & GitHub A Practical Course: Beginner To Advanced Level](https://coursemetry.com/git-github-a-practical-course-beginner-to-advanced-level/)
+
+* [Adobe Creative Cloud Ultimate Guide 2022](https://coursemetry.com/adobe-creative-cloud-ultimate-guide-2022/)
+
+* [Blogging & Affiliate Mastery in 2022 [ HINDI ]](https://coursemetry.com/blogging-affiliate-mastery-in-2022-hindi/)
+
+* [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
