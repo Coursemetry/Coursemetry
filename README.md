@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **156 Udemy free courses published so far on 2022-08-31**
+## **161 Udemy free courses published so far on 2022-08-31**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -315,6 +315,16 @@
 * [Discover True Yoga to Achieve Optimum Health & Mindfulness](https://coursemetry.com/discover-true-yoga-to-achieve-optimum-health-mindfulness/)
 
 * [Learn How To Be Successful With Alibaba](https://coursemetry.com/learn-how-to-be-successful-with-alibaba/)
+
+* [Microsoft MyAnalytics Basics Guide 2022](https://coursemetry.com/microsoft-myanalytics-basics-guide-2022/)
+
+* [Java Programming for Beginners | IntelliJ Tutorial | 2022](https://coursemetry.com/java-programming-for-beginners-intellij-tutorial-2022/)
+
+* [Host Files with Amazon S3 Without Wading Through Complexity](https://coursemetry.com/host-files-with-amazon-s3-without-wading-through-complexity/)
+
+* [Systematic Guide to Generate Amazon Affiliate Profits](https://coursemetry.com/systematic-guide-to-generate-amazon-affiliate-profits/)
+
+* [Object Oriented Programming with Java: Complete beginners](https://coursemetry.com/object-oriented-programming-with-java-complete-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
