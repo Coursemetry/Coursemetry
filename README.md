@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published so far on 2022-08-31**
+## **156 Udemy free courses published so far on 2022-08-31**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -33,8 +33,6 @@
 * [Alemão em 5 palavras | Curso A1 completo para iniciantes](https://coursemetry.com/alemao-em-5-palavras-curso-a1-completo-para-iniciantes/)
 
 * [WebVR Basics Guide 2022](https://coursemetry.com/webvr-basics-guide-2022/)
-
-* [Three.js Basics Guide 2022](https://coursemetry.com/three-js-basics-guide-2022/)
 
 * [OpenGL Basics Guide 2022](https://coursemetry.com/opengl-basics-guide-2022/)
 
@@ -243,6 +241,80 @@
 * [Cisco ASA Basics](https://coursemetry.com/cisco-asa-basics/)
 
 * [TypeScript Crash Course](https://coursemetry.com/typescript-crash-course/)
+
+* [Complete Wordpress Website Developer Course](https://coursemetry.com/complete-wordpress-website-developer-course/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [Google Cloud Professional Cloud Security Engineer Tests 2022](https://coursemetry.com/google-cloud-professional-cloud-security-engineer-tests-2022/)
+
+* [AWS Certified Developer Associate Exams 2022](https://coursemetry.com/aws-certified-developer-associate-exams-2022/)
+
+* [PHP for Beginners: PDO Crash Course 2022](https://coursemetry.com/php-for-beginners-pdo-crash-course-2022/)
+
+* [CompTIA Pentest+ Practice Exam 2022](https://coursemetry.com/comptia-pentest-practice-exam-2022/)
+
+* [CompTIA A+ 220-1002 Exam 2022](https://coursemetry.com/comptia-a-220-1002-exam-2022/)
+
+* [AWS Certified Security - Specialty Tests 2022](https://coursemetry.com/aws-certified-security-specialty-tests-2022/)
+
+* [Capture the Flag (CTF) - intermediate Level Training](https://coursemetry.com/capture-the-flag-ctf-intermediate-level-training/)
+
+* [Microsoft AZ-303 Exam 2022  ( Including pics )](https://coursemetry.com/microsoft-az-303-exam-2022-including-pics/)
+
+* [Mindfulness for Educators](https://coursemetry.com/mindfulness-for-educators/)
+
+* [Intro to Healthcare Imaging: XRAYS, Plain & Simple](https://coursemetry.com/intro-to-healthcare-imaging-xrays-plain-simple/)
+
+* [FinTech Fundamentals](https://coursemetry.com/fintech-fundamentals/)
+
+* [Certificate in Professional Dowsing - Accredited Masterclass](https://coursemetry.com/certificate-in-professional-dowsing-accredited-masterclass/)
+
+* [Speaking on the Telephone: Confidently Speak on the Phone](https://coursemetry.com/speaking-on-the-telephone-confidently-speak-on-the-phone/)
+
+* [Guesstimates and Case Interviews Excellence](https://coursemetry.com/guesstimates-and-case-interviews-excellence/)
+
+* [Cracking the Quality Assurance Engineer Interview](https://coursemetry.com/cracking-the-quality-assurance-engineer-interview/)
+
+* [Fundraising: Ask and Raise Contributions for Your Charity](https://coursemetry.com/fundraising-ask-and-raise-contributions-for-your-charity/)
+
+* [Effective Communication English](https://coursemetry.com/effective-communication-english/)
+
+* [Google Forms Ultimate Guide 2022](https://coursemetry.com/google-forms-ultimate-guide-2022/)
+
+* [Matplotlib Intro with Python](https://coursemetry.com/matplotlib-intro-with-python/)
+
+* [Java Web Services Basics Guide 2022](https://coursemetry.com/java-web-services-basics-guide-2022/)
+
+* [Ethical Hacking: Pentesting Tools](https://coursemetry.com/ethical-hacking-pentesting-tools/)
+
+* [Body Language: Appear Confident and Poised When You Speak](https://coursemetry.com/body-language-appear-confident-and-poised-when-you-speak/)
+
+* [Create a GUI with Python](https://coursemetry.com/create-a-gui-with-python/)
+
+* [Three.js Basics Guide 2022](https://coursemetry.com/three-js-basics-guide-2022/)
+
+* [Media Training Public Speaking Training for Candidates](https://coursemetry.com/media-training-public-speaking-training-for-candidates/)
+
+* [Smart Tips To Dominate Social Media #1](https://coursemetry.com/smart-tips-to-dominate-social-media-1/)
+
+* [İş Görüşmesi İçin Gerekli - Excel Fonksiyon ve Özellikleri](https://coursemetry.com/is-gorusmesi-icin-gerekli-excel-fonksiyon-ve-ozellikleri/)
+
+* [Blazor Basics Guide 2022](https://coursemetry.com/blazor-basics-guide-2022/)
+
+* [Career Management, Life & Management Skills Assessment Tests](https://coursemetry.com/career-management-life-management-skills-assessment-tests/)
+
+* [Women and Digital Inclusion](https://coursemetry.com/women-and-digital-inclusion/)
+
+* [HOME Bartending: Make Exquisite Cocktails for Your Guests](https://coursemetry.com/home-bartending-make-exquisite-cocktails-for-your-guests/)
+
+* [Create Successful Authority Blog in Any Niche That Converts](https://coursemetry.com/create-successful-authority-blog-in-any-niche-that-converts/)
+
+* [Modern E-Mail Marketing and Segmentation Techniques](https://coursemetry.com/modern-e-mail-marketing-and-segmentation-techniques/)
+
+* [Discover True Yoga to Achieve Optimum Health & Mindfulness](https://coursemetry.com/discover-true-yoga-to-achieve-optimum-health-mindfulness/)
+
+* [Learn How To Be Successful With Alibaba](https://coursemetry.com/learn-how-to-be-successful-with-alibaba/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
