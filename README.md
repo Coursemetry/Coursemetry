@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **104 Udemy free courses published so far on 2022-08-31**
+## **110 Udemy free courses published so far on 2022-08-31**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -211,6 +211,18 @@
 * [Certified Kubernetes Administrator Basics Guide 2022](https://coursemetry.com/certified-kubernetes-administrator-basics-guide-2022/)
 
 * [Certified MongoDB Database Administrator - Practice Tests](https://coursemetry.com/certified-mongodb-database-administrator-practice-tests/)
+
+* [Adobe Photoshop Art & Illustration Preset Basics Guide](https://coursemetry.com/adobe-photoshop-art-illustration-preset-basics-guide/)
+
+* [Chrome Developer Tool Basics Guide 2022](https://coursemetry.com/chrome-developer-tool-basics-guide-2022/)
+
+* [Amazon EC2 Basics Guide 2022](https://coursemetry.com/amazon-ec2-basics-guide-2022/)
+
+* [Helm Basics Guide 2022](https://coursemetry.com/helm-basics-guide-2022/)
+
+* [Adobe Photoshop Automate Basics Guide](https://coursemetry.com/adobe-photoshop-automate-basics-guide/)
+
+* [Adobe Photoshop Icon Design Basics Guide](https://coursemetry.com/adobe-photoshop-icon-design-basics-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
