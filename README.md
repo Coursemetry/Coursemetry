@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **191 Udemy free courses published so far on 2022-08-31**
+## **199 Udemy free courses published so far on 2022-08-31**
 
 * [How to Create a Marketing Video for Your Business or Product](https://coursemetry.com/how-to-create-a-marketing-video-for-your-business-or-product/)
 
@@ -91,8 +91,6 @@
 * [Microsoft Planner Ultimate Guide 2022](https://coursemetry.com/microsoft-planner-ultimate-guide-2022/)
 
 * [Adobe Photoshop Photo Editing Ultimate Guide 2022](https://coursemetry.com/adobe-photoshop-photo-editing-ultimate-guide-2022/)
-
-* [AZ-900 : Microsoft Azure Fundamentals Real Exam Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-real-exam-questions/)
 
 * [Deno Basics Guide 2022](https://coursemetry.com/deno-basics-guide-2022/)
 
@@ -385,6 +383,24 @@
 * [Curso Completo Funcional de iDempiere](https://coursemetry.com/curso-completo-funcional-de-idempiere/)
 
 * [Alemão em 5 palavras | Curso A2 completo - Básico superior](https://coursemetry.com/alemao-em-5-palavras-curso-a2-completo-basico-superior/)
+
+* [AZ-900 : Microsoft Azure Fundamentals Real Exam Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-real-exam-questions/)
+
+* [NLP Course for Beginner](https://coursemetry.com/nlp-course-for-beginner/)
+
+* [Learn Flutter and Dart to create Android and IOS apps](https://coursemetry.com/learn-flutter-and-dart-to-create-android-and-ios-apps/)
+
+* [Microsoft PowerPoint Course - Zero to Hero in MS PowerPoint](https://coursemetry.com/microsoft-powerpoint-course-zero-to-hero-in-ms-powerpoint/)
+
+* [AutoCAD 2D & 3D | AutoCAD Civil & Architectural](https://coursemetry.com/autocad-2d-3d-autocad-civil-architectural/)
+
+* [Machine Learning From Basic to Advanced](https://coursemetry.com/machine-learning-from-basic-to-advanced/)
+
+* [Learn Machine Learning in 21 Days](https://coursemetry.com/learn-machine-learning-in-21-days/)
+
+* [Python for Machine Learning with Numpy, Pandas & Matplotlib](https://coursemetry.com/python-for-machine-learning-with-numpy-pandas-matplotlib/)
+
+* [Learn Microsoft Publisher | Complete Microsoft Publisher](https://coursemetry.com/learn-microsoft-publisher-complete-microsoft-publisher/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
