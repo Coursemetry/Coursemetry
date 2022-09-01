@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-09-01**
+## **127 Udemy free courses published so far on 2022-09-01**
 
 * [Business Networking for Success: Part 5 Influence](https://coursemetry.com/business-networking-for-success-part-5-influence/)
 
@@ -213,6 +213,50 @@
 * [How To Become a Pilot](https://coursemetry.com/how-to-become-a-pilot/)
 
 * [How To Get Started As A Personal Trainer](https://coursemetry.com/how-to-get-started-as-a-personal-trainer/)
+
+* [Prepare (CLF-C01) AWS Certified Cloud Practitioner -2022 JUN](https://coursemetry.com/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/)
+
+* [1Z0-1094-22 Oracle Cloud Database Migration and Integration.](https://coursemetry.com/1z0-1094-22-oracle-cloud-database-migration-and-integration/)
+
+* [Numpy Pandas in Python 2022 from Scratch by  Doing.](https://coursemetry.com/numpy-pandas-in-python-2022-from-scratch-by-doing/)
+
+* [1Z0-1093-22 Oracle Cloud Database Services Specialist](https://coursemetry.com/1z0-1093-22-oracle-cloud-database-services-specialist/)
+
+* [Alemão em 5 palavras | Curso A1 completo para iniciantes](https://coursemetry.com/alemao-em-5-palavras-curso-a1-completo-para-iniciantes/)
+
+* [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
+
+* [C# Adım Adım Katmanlı Mimari: OOP,EntityFramework,WinForms](https://coursemetry.com/c-adim-adim-katmanli-mimari-oopentityframeworkwinforms/)
+
+* [Practice Exams - Amazon AWS Certified Solutions Architect](https://coursemetry.com/practice-exams-amazon-aws-certified-solutions-architect/)
+
+* [Oracle Autonomous Database 2022 Specialist (1Z0-931-22)](https://coursemetry.com/oracle-autonomous-database-2022-specialist-1z0-931-22/)
+
+* [Spark Structured Streaming 3.0 : All You Need to Know](https://coursemetry.com/spark-structured-streaming-3-0-all-you-need-to-know/)
+
+* [DP-900 Microsoft Azure Data Fundamentals Practice Test AUG22](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-test-aug22/)
+
+* [1Z0-1067-22 Oracle OCI 2022 Cloud Operations Associate](https://coursemetry.com/1z0-1067-22-oracle-oci-2022-cloud-operations-associate/)
+
+* [[NEW] Oracle Cloud Infrastructure Foundations 2022 Associate](https://coursemetry.com/new-oracle-cloud-infrastructure-foundations-2022-associate/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Tests - AUG 22](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-aug-22/)
+
+* [Learn AND Generate & Select  Right Business Ideas](https://coursemetry.com/learn-and-generate-select-right-business-ideas/)
+
+* [Amazon AWS Certified Database - Specialty Exam Practice 2022](https://coursemetry.com/amazon-aws-certified-database-specialty-exam-practice-2022/)
+
+* [Google Analytics Individual Qualification - Practice Tests](https://coursemetry.com/google-analytics-individual-qualification-practice-tests/)
+
+* [3ds max Populate Architettura Corso Completo](https://coursemetry.com/3ds-max-populate-architettura-corso-completo/)
+
+* [AWS Certified Developer Associate Practice Exams 2022 - June](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022-june/)
+
+* [Learn & Develop Winning Value Proposition for your business](https://coursemetry.com/learn-develop-winning-value-proposition-for-your-business/)
+
+* [Introduction to Data Mesh](https://coursemetry.com/introduction-to-data-mesh/)
+
+* [Twitter Chat Bot in Python 2022 from Scratch.](https://coursemetry.com/twitter-chat-bot-in-python-2022-from-scratch/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
