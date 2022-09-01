@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published so far on 2022-09-01**
+## **105 Udemy free courses published so far on 2022-09-01**
 
 * [Business Networking for Success: Part 5 Influence](https://coursemetry.com/business-networking-for-success-part-5-influence/)
 
@@ -145,6 +145,74 @@
 * [Power System 100 MCQ - Series 1](https://coursemetry.com/power-system-100-mcq-series-1/)
 
 * [Android App Development with Kotlin - Learn Best Skill 2022+](https://coursemetry.com/android-app-development-with-kotlin-learn-best-skill-2022/)
+
+* [Becoming A Sales Professional](https://coursemetry.com/becoming-a-sales-professional/)
+
+* [Certified Entry-Level & Associate in Python Programming Pack](https://coursemetry.com/certified-entry-level-associate-in-python-programming-pack/)
+
+* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
+
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
+
+* [Kundengewinnung und Kundenbindung mit Wowing](https://coursemetry.com/kundengewinnung-und-kundenbindung-mit-wowing/)
+
+* [Company Registration In UK~ Make paypal & Stripe Business](https://coursemetry.com/company-registration-in-uk-make-paypal-stripe-business/)
+
+* [Workshops - systemisch konzipieren und gestalten](https://coursemetry.com/workshops-systemisch-konzipieren-und-gestalten/)
+
+* [Estrategias Pro de Targeting de Audiencia con Facebook Ads](https://coursemetry.com/estrategias-pro-de-targeting-de-audiencia-con-facebook-ads/)
+
+* [Shopify Dropshipping From Paksitan ~ Yasir Ahmed MBA](https://coursemetry.com/shopify-dropshipping-from-paksitan-yasir-ahmed-mba/)
+
+* [Facebook Ads Lead Generation Marketing for business](https://coursemetry.com/facebook-ads-lead-generation-marketing-for-business/)
+
+* [How to Write a Fitness Book](https://coursemetry.com/how-to-write-a-fitness-book/)
+
+* [Management Consulting Presentation Essential Training](https://coursemetry.com/management-consulting-presentation-essential-training/)
+
+* [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
+
+* [English placement test](https://coursemetry.com/english-placement-test/)
+
+* [Introduction to Frictionless Sales Process](https://coursemetry.com/introduction-to-frictionless-sales-process/)
+
+* [Analyse de Données avec Python: Numpy, Pandas et Matplotlib](https://coursemetry.com/analyse-de-donnees-avec-python-numpy-pandas-et-matplotlib/)
+
+* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+
+* [SAP Business Analytics Essential Training](https://coursemetry.com/sap-business-analytics-essential-training/)
+
+* [Stress-free Effective Learning for Adults: Crush your goals!](https://coursemetry.com/stress-free-effective-learning-for-adults-crush-your-goals/)
+
+* [Dropshipping Shopify Store Creation like  Boss for Ecommerce](https://coursemetry.com/dropshipping-shopify-store-creation-like-boss-for-ecommerce/)
+
+* [When Personal Training Gets Personal](https://coursemetry.com/when-personal-training-gets-personal/)
+
+* [Facebook Ads + Whatsapp Ads Marketing (CASE STUDY) HIndi](https://coursemetry.com/facebook-ads-whatsapp-ads-marketing-case-study-hindi/)
+
+* [Facebook Ads Marketing Targeting Strategies ~Hindi 2022](https://coursemetry.com/facebook-ads-marketing-targeting-strategies-hindi-2022/)
+
+* [Industrial ICS/OT Cybersecurity A to Z as per NIST 800-82](https://coursemetry.com/industrial-ics-ot-cybersecurity-a-to-z-as-per-nist-800-82/)
+
+* [Personalentwicklung für (zukünftige) Führungskräfte](https://coursemetry.com/personalentwicklung-fur-zukunftige-fuhrungskrafte/)
+
+* [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
+
+* [Salesforce ADM-211 Practice Test 2022](https://coursemetry.com/salesforce-adm-211-practice-test-2022/)
+
+* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/)
+
+* [Web application using Ruby On Rails - Aug 2022](https://coursemetry.com/web-application-using-ruby-on-rails-aug-2022/)
+
+* [Basics of In-Home Personal Training](https://coursemetry.com/basics-of-in-home-personal-training/)
+
+* [Learn Google Data Studio Business Intelligence in 30 minutes](https://coursemetry.com/learn-google-data-studio-business-intelligence-in-30-minutes/)
+
+* [Overview - PfMP, PgMP, and PMP](https://coursemetry.com/overview-pfmp-pgmp-and-pmp/)
+
+* [How To Become a Pilot](https://coursemetry.com/how-to-become-a-pilot/)
+
+* [How To Get Started As A Personal Trainer](https://coursemetry.com/how-to-get-started-as-a-personal-trainer/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
