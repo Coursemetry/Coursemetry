@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published so far on 2022-09-01**
+## **64 Udemy free courses published so far on 2022-09-01**
 
 * [Business Networking for Success: Part 5 Influence](https://coursemetry.com/business-networking-for-success-part-5-influence/)
 
@@ -109,6 +109,28 @@
 * [Build Shopify store & Run Facebook Page Likes Ad In 2022](https://coursemetry.com/build-shopify-store-run-facebook-page-likes-ad-in-2022/)
 
 * [Business Networking Part 6: Persuasion Strategies](https://coursemetry.com/business-networking-part-6-persuasion-strategies/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [Importance of Power Quality in Power System](https://coursemetry.com/importance-of-power-quality-in-power-system/)
+
+* [IEEE 1584-2018 | Guide for Performing Arc Flash Calculations](https://coursemetry.com/ieee-1584-2018-guide-for-performing-arc-flash-calculations/)
+
+* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
+
+* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [Power System Protection Fundamentals - Series1](https://coursemetry.com/power-system-protection-fundamentals-series1/)
+
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [Power Systems Engineering - Vlog1](https://coursemetry.com/power-systems-engineering-vlog1-2/)
+
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
