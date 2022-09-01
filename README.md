@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-09-01**
+## **71 Udemy free courses published so far on 2022-09-01**
 
 * [Business Networking for Success: Part 5 Influence](https://coursemetry.com/business-networking-for-success-part-5-influence/)
 
@@ -131,6 +131,20 @@
 * [Power Systems Engineering - Vlog1](https://coursemetry.com/power-systems-engineering-vlog1-2/)
 
 * [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+
+* [Power Transformer Fundamentals](https://coursemetry.com/power-transformer-fundamentals/)
+
+* [PHP for Beginners - Food Order Website Project](https://coursemetry.com/php-for-beginners-food-order-website-project/)
+
+* [Protection & Coordination Fundamentals - Distribution System](https://coursemetry.com/protection-coordination-fundamentals-distribution-system/)
+
+* [Power System Analysis Fundamentals](https://coursemetry.com/power-system-analysis-fundamentals/)
+
+* [Current Transformer Fundamentals](https://coursemetry.com/current-transformer-fundamentals/)
+
+* [Power System 100 MCQ - Series 1](https://coursemetry.com/power-system-100-mcq-series-1/)
+
+* [Android App Development with Kotlin - Learn Best Skill 2022+](https://coursemetry.com/android-app-development-with-kotlin-learn-best-skill-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
