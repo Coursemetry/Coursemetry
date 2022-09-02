@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published so far on 2022-09-02**
+## **64 Udemy free courses published so far on 2022-09-02**
 
 * [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
 
@@ -95,6 +95,42 @@
 * [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
 
 * [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [Android ethical hacking basics | Arabic](https://coursemetry.com/android-ethical-hacking-basics-arabic/)
+
+* [Money In Excel - Income Tax Sch. C & Personal Financials](https://coursemetry.com/money-in-excel-income-tax-sch-c-personal-financials/)
+
+* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+
+* [Containerize Springboot CRUD App with Docker & DockerCompose](https://coursemetry.com/containerize-springboot-crud-app-with-docker-dockercompose/)
+
+* [Automate ReactJs & SpringBoot CICD Pipelines on AzureDevOps](https://coursemetry.com/automate-reactjs-springboot-cicd-pipelines-on-azuredevops/)
+
+* [Best Introduction to Information Security](https://coursemetry.com/best-introduction-to-information-security/)
+
+* [Basic Structure of Computers](https://coursemetry.com/basic-structure-of-computers/)
+
+* [Everything About Kali Linux OS](https://coursemetry.com/everything-about-kali-linux-os/)
+
+* [Day Trading Forex - simple forex day trading strategy WORK](https://coursemetry.com/day-trading-forex-simple-forex-day-trading-strategy-work/)
+
+* [Zero To Hero Apache Kafka with SpringBoot mastery](https://coursemetry.com/zero-to-hero-apache-kafka-with-springboot-mastery/)
+
+* [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
+
+* [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
+
+* [Introduction To Cybersecurity](https://coursemetry.com/introduction-to-cybersecurity/)
+
+* [Learn Python](https://coursemetry.com/learn-python/)
+
+* [Docker & Kubernetes Interview Readiness Course](https://coursemetry.com/docker-kubernetes-interview-readiness-course/)
+
+* [Practical CSS3 Mastery Course](https://coursemetry.com/practical-css3-mastery-course/)
+
+* [Towards Excellence : The 25 Steps to Success](https://coursemetry.com/towards-excellence-the-25-steps-to-success/)
+
+* [Reverse Engineering: Frida for Beginners](https://coursemetry.com/reverse-engineering-frida-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
