@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-09-02**
+## **128 Udemy free courses published so far on 2022-09-02**
 
 * [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
 
@@ -19,8 +19,6 @@
 * [Passive Income - 35+ Tools/Websites to Earn Money](https://coursemetry.com/passive-income-35-tools-websites-to-earn-money/)
 
 * [Build Full-Stack Projects with FARM stack](https://coursemetry.com/build-full-stack-projects-with-farm-stack/)
-
-* [Python 3.7 - Programming Language Basics](https://coursemetry.com/python-3-7-programming-language-basics/)
 
 * [Google Cloud Professional Cloud Security Engineer Exam 2022](https://coursemetry.com/google-cloud-professional-cloud-security-engineer-exam-2022-2/)
 
@@ -85,8 +83,6 @@
 * [Zero to Hero hands-on mastery on HTML5 JavaScript & ES6](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-javascript-es6/)
 
 * [Learn 47 Different Ways to Make Money Online!](https://coursemetry.com/learn-47-different-ways-to-make-money-online/)
-
-* [Power BI - Data Analytics Essentials with Power BI](https://coursemetry.com/power-bi-data-analytics-essentials-with-power-bi/)
 
 * [How To Make Independent Feature Film On A Budget](https://coursemetry.com/how-to-make-independent-feature-film-on-a-budget/)
 
@@ -178,8 +174,6 @@
 
 * [Essential Drawing Course For Beginner To Advanced](https://coursemetry.com/essential-drawing-course-for-beginner-to-advanced/)
 
-* [Zero to Hero in SASS & SCSS with integration in React JS App](https://coursemetry.com/zero-to-hero-in-sass-scss-with-integration-in-react-js-app/)
-
 * [Public Speaking: Speak Like a High-Powered Executive](https://coursemetry.com/public-speaking-speak-like-a-high-powered-executive/)
 
 * [Journalism: Be a Great Talk Show Host](https://coursemetry.com/journalism-be-a-great-talk-show-host/)
@@ -253,6 +247,18 @@
 * [QuickBooks Pro Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2022-2021-2020/)
 
 * [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
+
+* [Python 3.7 - Programming Language Basics](https://coursemetry.com/python-3-7-programming-language-basics/)
+
+* [Cybersecurity: Security Operations Center (SOC) Analyst NOW!](https://coursemetry.com/cybersecurity-security-operations-center-soc-analyst-now/)
+
+* [The Art of Doing:  Python Network Applications with Sockets!](https://coursemetry.com/the-art-of-doing-python-network-applications-with-sockets/)
+
+* [Power BI - Data Analytics Essentials with Power BI](https://coursemetry.com/power-bi-data-analytics-essentials-with-power-bi/)
+
+* [Zero to Hero in SASS & SCSS with integration in React JS App](https://coursemetry.com/zero-to-hero-in-sass-scss-with-integration-in-react-js-app/)
+
+* [The Complete 2022 Flutter & Dart Development Course [Arabic]](https://coursemetry.com/the-complete-2022-flutter-dart-development-course-arabic/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
