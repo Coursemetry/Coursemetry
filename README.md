@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-09-02**
+## **92 Udemy free courses published so far on 2022-09-02**
 
 * [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
 
@@ -131,6 +131,62 @@
 * [Towards Excellence : The 25 Steps to Success](https://coursemetry.com/towards-excellence-the-25-steps-to-success/)
 
 * [Reverse Engineering: Frida for Beginners](https://coursemetry.com/reverse-engineering-frida-for-beginners/)
+
+* [Everything About Blogger From Scratch](https://coursemetry.com/everything-about-blogger-from-scratch/)
+
+* [Postgraduate Diploma: Digital Products Management](https://coursemetry.com/postgraduate-diploma-digital-products-management/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Google Data Studio-Visualización de Datos y Cuadros de Mando](https://coursemetry.com/google-data-studio-visualizacion-de-datos-y-cuadros-de-mando/)
+
+* [Data Analyst Skill path in Hindi - हिंदी में Data analytics](https://coursemetry.com/data-analyst-skill-path-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-data-analytics/)
+
+* [Análisis de Marketing: Estrategias y Análisis de Precios](https://coursemetry.com/analisis-de-marketing-estrategias-y-analisis-de-precios/)
+
+* [Digital Marketing: Internet/ Artificial Intelligence/S.M](https://coursemetry.com/digital-marketing-internet-artificial-intelligence-s-m/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Practical HTML5 Mastery Course](https://coursemetry.com/practical-html5-mastery-course/)
+
+* [Alteryx Masterclass for Data Analytics, ETL and Reporting](https://coursemetry.com/alteryx-masterclass-for-data-analytics-etl-and-reporting/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Assertiveness: You Can Speak Up for Yourself!](https://coursemetry.com/assertiveness-you-can-speak-up-for-yourself/)
+
+* [Practical MEAN stack Mastery course](https://coursemetry.com/practical-mean-stack-mastery-course/)
+
+* [Residential Rental Property Tax Preparation 2021-2022](https://coursemetry.com/residential-rental-property-tax-preparation-2021-2022/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Excel Accounting Problem](https://coursemetry.com/excel-accounting-problem/)
+
+* [Journalism: Conduct Great Media Interviews](https://coursemetry.com/journalism-conduct-great-media-interviews/)
+
+* [How To - WordPress Plugins](https://coursemetry.com/how-to-wordpress-plugins/)
+
+* [Zero to Hero in Microsoft Excel: Complete Excel guide 2022](https://coursemetry.com/zero-to-hero-in-microsoft-excel-complete-excel-guide-2022/)
+
+* [Personal Finance](https://coursemetry.com/personal-finance/)
+
+* [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
+
+* [PCEP 30-02 - Python Certification Exam Practice Tests](https://coursemetry.com/pcep-30-02-python-certification-exam-practice-tests/)
+
+* [Essential Drawing Course For Beginner To Advanced](https://coursemetry.com/essential-drawing-course-for-beginner-to-advanced/)
+
+* [Zero to Hero in SASS & SCSS with integration in React JS App](https://coursemetry.com/zero-to-hero-in-sass-scss-with-integration-in-react-js-app/)
+
+* [Public Speaking: Speak Like a High-Powered Executive](https://coursemetry.com/public-speaking-speak-like-a-high-powered-executive/)
+
+* [Journalism: Be a Great Talk Show Host](https://coursemetry.com/journalism-be-a-great-talk-show-host/)
+
+* [Agile Metrics for Agile Project Management](https://coursemetry.com/agile-metrics-for-agile-project-management/)
+
+* [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
