@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **128 Udemy free courses published so far on 2022-09-02**
+## **147 Udemy free courses published so far on 2022-09-02**
 
 * [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
 
@@ -117,8 +117,6 @@
 * [All about Blockchain & SmartContract Development on Solidity](https://coursemetry.com/all-about-blockchain-smartcontract-development-on-solidity/)
 
 * [Introduction To Cybersecurity](https://coursemetry.com/introduction-to-cybersecurity/)
-
-* [Learn Python](https://coursemetry.com/learn-python/)
 
 * [Docker & Kubernetes Interview Readiness Course](https://coursemetry.com/docker-kubernetes-interview-readiness-course/)
 
@@ -259,6 +257,46 @@
 * [Zero to Hero in SASS & SCSS with integration in React JS App](https://coursemetry.com/zero-to-hero-in-sass-scss-with-integration-in-react-js-app/)
 
 * [The Complete 2022 Flutter & Dart Development Course [Arabic]](https://coursemetry.com/the-complete-2022-flutter-dart-development-course-arabic/)
+
+* [How to VLOG 2022 : Complete Beginners Course +YouTube](https://coursemetry.com/how-to-vlog-2022-complete-beginners-course-youtube/)
+
+* [The Complete Drums Course From Scratch - For All Ages](https://coursemetry.com/the-complete-drums-course-from-scratch-for-all-ages/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [دبلومة تعلم الآلة وعلوم البيانات | Machine Learning Diploma](https://coursemetry.com/%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a9-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a2%d9%84%d8%a9-%d9%88%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-machine-learning-diploma/)
+
+* [How Websites Work](https://coursemetry.com/how-websites-work/)
+
+* [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
+
+* [Curso Taller De Excel Desde Cero Hasta Avanzado](https://coursemetry.com/curso-taller-de-excel-desde-cero-hasta-avanzado/)
+
+* [Técnicas para la creación de elementos 3D para Videojuegos](https://coursemetry.com/tecnicas-para-la-creacion-de-elementos-3d-para-videojuegos/)
+
+* [Hack Windows](https://coursemetry.com/hack-windows/)
+
+* [Unsupervised Machine Learning | التعلم الآلي بدون إشراف](https://coursemetry.com/unsupervised-machine-learning-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a2%d9%84%d9%8a-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d8%b4%d8%b1%d8%a7%d9%81/)
+
+* [Learn to Edit Video FAST! Adobe Premiere Pro 2022 StepByStep](https://coursemetry.com/learn-to-edit-video-fast-adobe-premiere-pro-2022-stepbystep/)
+
+* [Make YouTube Thumbnails & Get More Views (Photoshop +Online)](https://coursemetry.com/make-youtube-thumbnails-get-more-views-photoshop-online/)
+
+* [Python Performance Optimization](https://coursemetry.com/python-performance-optimization/)
+
+* [The Complete Job Interviewing Skills Masterclass](https://coursemetry.com/the-complete-job-interviewing-skills-masterclass/)
+
+* [Learn Python](https://coursemetry.com/learn-python/)
+
+* [Autodesk NAVISWORKS. Planificación y Colaboración BIM](https://coursemetry.com/autodesk-navisworks-planificacion-y-colaboracion-bim/)
+
+* [Flutter Clean  Architecture [2022] [Flutter 3] (In Arabic)](https://coursemetry.com/flutter-clean-architecture-2022-flutter-3-in-arabic/)
+
+* [احتراف التفكير التصميمي](https://coursemetry.com/%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d8%aa%d9%81%d9%83%d9%8a%d8%b1-%d8%a7%d9%84%d8%aa%d8%b5%d9%85%d9%8a%d9%85%d9%8a/)
+
+* [Asteroids with Python PyGame](https://coursemetry.com/asteroids-with-python-pygame/)
+
+* [ServiceNow Certified System Administrator - Exam 2022](https://coursemetry.com/servicenow-certified-system-administrator-exam-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
