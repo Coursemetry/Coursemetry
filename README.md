@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published so far on 2022-09-02**
+## **125 Udemy free courses published so far on 2022-09-02**
 
 * [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
 
@@ -187,6 +187,72 @@
 * [Agile Metrics for Agile Project Management](https://coursemetry.com/agile-metrics-for-agile-project-management/)
 
 * [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [The Ultimate Guide to Python Programming With Python 3.10](https://coursemetry.com/the-ultimate-guide-to-python-programming-with-python-3-10/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [AWS Certified Developer - Associate Exam 2022](https://coursemetry.com/aws-certified-developer-associate-exam-2022/)
+
+* [Master Transaction Management with SpringBoot and Data JPA](https://coursemetry.com/master-transaction-management-with-springboot-and-data-jpa/)
+
+* [Learn in 108 mins how to Find the Right Jobs thru Networking](https://coursemetry.com/learn-in-108-mins-how-to-find-the-right-jobs-thru-networking/)
+
+* [Deploy any MERN Stack App on Azure Cloud using CICD Pipeline](https://coursemetry.com/deploy-any-mern-stack-app-on-azure-cloud-using-cicd-pipeline/)
+
+* [Link building 2022. Build links that boost the site traffic!](https://coursemetry.com/link-building-2022-build-links-that-boost-the-site-traffic/)
+
+* [Postman Crash Course | Learn API Testing in 50 minutes](https://coursemetry.com/postman-crash-course-learn-api-testing-in-50-minutes/)
+
+* [Deploy MEAN Stack App on Azure Cloud with CICD Pipeline](https://coursemetry.com/deploy-mean-stack-app-on-azure-cloud-with-cicd-pipeline/)
+
+* [PHP for Beginners: PHP Crash Course 2022](https://coursemetry.com/php-for-beginners-php-crash-course-2022/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Temelden Uzmana Komple Python Eğitimi 2022](https://coursemetry.com/temelden-uzmana-komple-python-egitimi-2022/)
+
+* [Certified Git Software Developer - Practice Tests - 2022](https://coursemetry.com/certified-git-software-developer-practice-tests-2022/)
+
+* [Certified Data Scientist - Practice Tests - 2022](https://coursemetry.com/certified-data-scientist-practice-tests-2022/)
+
+* [5-Day Guided Meditation Challenge - Stress & Anxiety Relief](https://coursemetry.com/5-day-guided-meditation-challenge-stress-anxiety-relief/)
+
+* [PCAP - Certified Associate in Python Programming - Exams](https://coursemetry.com/pcap-certified-associate-in-python-programming-exams/)
+
+* [Intro To Wicca](https://coursemetry.com/intro-to-wicca/)
+
+* [Certified SQL Developer - Practice Tests - 2022](https://coursemetry.com/certified-sql-developer-practice-tests-2022/)
+
+* [The 5 Habits For A Growth Mindset](https://coursemetry.com/the-5-habits-for-a-growth-mindset/)
+
+* [Certified MongoDB Developer & Database Administrator Pack](https://coursemetry.com/certified-mongodb-developer-database-administrator-pack/)
+
+* [How to make a Portfolio Website using WordPress & Elementor](https://coursemetry.com/how-to-make-a-portfolio-website-using-wordpress-elementor/)
+
+* [Google Professional Data Engineer & Cloud Developer Pack](https://coursemetry.com/google-professional-data-engineer-cloud-developer-pack/)
+
+* [Google Professional Cloud Architect & Data Engineer Pack](https://coursemetry.com/google-professional-cloud-architect-data-engineer-pack/)
+
+* [Google Professional Cloud Architect & Developer Mega Pack](https://coursemetry.com/google-professional-cloud-architect-developer-mega-pack/)
+
+* [Certified Python Developer - Practice Tests - 2022](https://coursemetry.com/certified-python-developer-practice-tests-2022/)
+
+* [PCEP - Certified Entry-Level Python Programmer - Exams](https://coursemetry.com/pcep-certified-entry-level-python-programmer-exams/)
+
+* [AI-900: Microsoft Azure AI Fundamentals Practice Questions](https://coursemetry.com/ai-900-microsoft-azure-ai-fundamentals-practice-questions-2/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-questions-2/)
+
+* [QuickBooks Pro Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2022-2021-2020/)
+
+* [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
