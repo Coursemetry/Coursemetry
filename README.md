@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published so far on 2022-09-03**
+## **86 Udemy free courses published so far on 2022-09-03**
 
 * [[Tips & Technics] : Customer Service Skills Next Level 2022](https://coursemetry.com/tips-technics-customer-service-skills-next-level-2022/)
 
@@ -161,6 +161,20 @@
 * [Practical Git & Github Bootcamp for Developers](https://coursemetry.com/practical-git-github-bootcamp-for-developers/)
 
 * [Practical CSS3 Flexbox Media Queries & CSS Grid Mastery](https://coursemetry.com/practical-css3-flexbox-media-queries-css-grid-mastery/)
+
+* [Bitcoin ve Kripto Para Uzmanlığı](https://coursemetry.com/bitcoin-ve-kripto-para-uzmanligi/)
+
+* [Linear Regression and Logistic Regression using R Studio](https://coursemetry.com/linear-regression-and-logistic-regression-using-r-studio/)
+
+* [Kanban Metrics for Agile teams: Measure & Improve Flow](https://coursemetry.com/kanban-metrics-for-agile-teams-measure-improve-flow/)
+
+* [Zero to Hero hands-on mastery on HTML5 & CSS3](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-css3/)
+
+* [Zero to Hero hands-on mastery on HTML5 JavaScript & ES6](https://coursemetry.com/zero-to-hero-hands-on-mastery-on-html5-javascript-es6/)
+
+* [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
+
+* [Statistics for Business Analytics using MS Excel](https://coursemetry.com/statistics-for-business-analytics-using-ms-excel/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
