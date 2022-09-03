@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published so far on 2022-09-03**
+## **114 Udemy free courses published so far on 2022-09-03**
 
 * [[Tips & Technics] : Customer Service Skills Next Level 2022](https://coursemetry.com/tips-technics-customer-service-skills-next-level-2022/)
 
@@ -175,6 +175,62 @@
 * [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
 
 * [Statistics for Business Analytics using MS Excel](https://coursemetry.com/statistics-for-business-analytics-using-ms-excel/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Mit Online Marketing Dein Business aufbauen ohne Vorwissen!](https://coursemetry.com/mit-online-marketing-dein-business-aufbauen-ohne-vorwissen/)
+
+* [Complete Machine Learning with R Studio - ML for 2022](https://coursemetry.com/complete-machine-learning-with-r-studio-ml-for-2022/)
+
+* [Google professional cloud architect Exam 2022](https://coursemetry.com/google-professional-cloud-architect-exam-2022/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [ITIL 4 Foundation Practice Exam 2022](https://coursemetry.com/itil-4-foundation-practice-exam-2022/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Pentaho for ETL & Data Integration Masterclass 2022 - PDI 9](https://coursemetry.com/pentaho-for-etl-data-integration-masterclass-2022-pdi-9/)
+
+* [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
+
+* [Building Android Widgets from scratch (Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [Vedic Maths Multiplication Tricks To Become Human Calculator](https://coursemetry.com/vedic-maths-multiplication-tricks-to-become-human-calculator/)
+
+* [AWS SysOps Administrator Associate (SOA-C02) Exam 2022](https://coursemetry.com/aws-sysops-administrator-associate-soa-c02-exam-2022/)
+
+* [English Vocabulary GRE | TOEFL |GMAT | CAT](https://coursemetry.com/english-vocabulary-gre-toefl-gmat-cat/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [IELTS Band 8: IELTS Listening Mastery | IELTS Tenses](https://coursemetry.com/ielts-band-8-ielts-listening-mastery-ielts-tenses/)
+
+* [Sıfırdan İleri Seviyeye Etik Hacker Olma Kursu](https://coursemetry.com/sifirdan-ileri-seviyeye-etik-hacker-olma-kursu/)
+
+* [AWS Certified Database – Specialty Exam 2022](https://coursemetry.com/aws-certified-database-specialty-exam-2022/)
+
+* [Excellence in Problem Solving](https://coursemetry.com/excellence-in-problem-solving/)
+
+* [AWS DevOps Engineer Professional - Pratice test 2022](https://coursemetry.com/aws-devops-engineer-professional-pratice-test-2022/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Google Professional Cloud DevOps Engineer Exam 2022](https://coursemetry.com/google-professional-cloud-devops-engineer-exam-2022/)
+
+* [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
+
+* [PRINCE 2 Foundation - Exam 2022](https://coursemetry.com/prince-2-foundation-exam-2022-3/)
+
+* [2 Way Radio Communications Guide](https://coursemetry.com/2-way-radio-communications-guide/)
+
+* [The Ultimate Beginners Guide to Python Programming](https://coursemetry.com/the-ultimate-beginners-guide-to-python-programming/)
+
+* [Writing a Winning Scholarship Application - DAAD Scholarship](https://coursemetry.com/writing-a-winning-scholarship-application-daad-scholarship/)
+
+* [Eating Disorders: Therapies  and Predisposing Factors](https://coursemetry.com/eating-disorders-therapies-and-predisposing-factors/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
