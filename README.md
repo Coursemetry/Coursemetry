@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published so far on 2022-09-03**
+## **68 Udemy free courses published so far on 2022-09-03**
 
 * [[Tips & Technics] : Customer Service Skills Next Level 2022](https://coursemetry.com/tips-technics-customer-service-skills-next-level-2022/)
 
@@ -133,6 +133,12 @@
 * [Técnicas para la creación de elementos 3D para Videojuegos](https://coursemetry.com/tecnicas-para-la-creacion-de-elementos-3d-para-videojuegos/)
 
 * [Myyshop- How to sell DHgate products on Amazon FBA](https://coursemetry.com/myyshop-how-to-sell-dhgate-products-on-amazon-fba/)
+
+* [Esercizi Fisica: corso universitario/superiori](https://coursemetry.com/esercizi-fisica-corso-universitario-superiori/)
+
+* [Certificate in Professional Dowsing - Accredited Masterclass](https://coursemetry.com/certificate-in-professional-dowsing-accredited-masterclass/)
+
+* [Business English Campus: Supply Chain Successful Skills](https://coursemetry.com/business-english-campus-supply-chain-successful-skills/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
