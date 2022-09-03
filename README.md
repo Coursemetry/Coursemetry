@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **31 Udemy free courses published so far on 2022-09-03**
+## **65 Udemy free courses published so far on 2022-09-03**
 
 * [[Tips & Technics] : Customer Service Skills Next Level 2022](https://coursemetry.com/tips-technics-customer-service-skills-next-level-2022/)
 
@@ -65,6 +65,74 @@
 * [2022-Master in Core Python Programming in 99Days](https://coursemetry.com/2022-master-in-core-python-programming-in-99days/)
 
 * [The Skilled Interviewer](https://coursemetry.com/the-skilled-interviewer/)
+
+* [Presentation Skills: Insurance Your Next Speech Will be Good](https://coursemetry.com/presentation-skills-insurance-your-next-speech-will-be-good/)
+
+* [Master Classes for Web Designing Course (HTML, CSS, JS, SEO)](https://coursemetry.com/master-classes-for-web-designing-course-html-css-js-seo/)
+
+* [Micro-Frontend: Arquitectura de Aplicaciones Web Escalables](https://coursemetry.com/micro-frontend-arquitectura-de-aplicaciones-web-escalables/)
+
+* [Sales Excellence](https://coursemetry.com/sales-excellence/)
+
+* [Public Speaking: Eulogy-Give a Great Eulogy For Loved Ones](https://coursemetry.com/public-speaking-eulogy-give-a-great-eulogy-for-loved-ones/)
+
+* [Implement 150 functions in Python! - Hands-on course](https://coursemetry.com/implement-150-functions-in-python-hands-on-course/)
+
+* [SQL Bootcamp - SQLite - Hands-On Exercises](https://coursemetry.com/sql-bootcamp-sqlite-hands-on-exercises/)
+
+* [InDesign Essentials & Beyond - Beginning & Advance combined](https://coursemetry.com/indesign-essentials-beyond-beginning-advance-combined/)
+
+* [Complete Wordpress Website Developer Course](https://coursemetry.com/complete-wordpress-website-developer-course/)
+
+* [مهارات التخطيط الاستراتيجي من البداية الى الاحتراف](https://coursemetry.com/%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%ae%d8%b7%d9%8a%d8%b7-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a/)
+
+* [Mind Power -10 Tips To Overcome The Habit Of Procrastination](https://coursemetry.com/mind-power-10-tips-to-overcome-the-habit-of-procrastination/)
+
+* [Concept of Wellbeing- Dealing with Anxiety](https://coursemetry.com/concept-of-wellbeing-dealing-with-anxiety/)
+
+* [Voice Training: You Can Speak With Confidence](https://coursemetry.com/voice-training-you-can-speak-with-confidence/)
+
+* [Master in HTML & CSS Coding for Web Design](https://coursemetry.com/master-in-html-css-coding-for-web-design/)
+
+* [100 Days of Code: Python Developer Challenge 2022](https://coursemetry.com/100-days-of-code-python-developer-challenge-2022/)
+
+* [Python Pandas Data Crash Course 2022 Learn by Doing.](https://coursemetry.com/python-pandas-data-crash-course-2022-learn-by-doing/)
+
+* [Complete Python & Python OOP with Exercises& Projects in2022](https://coursemetry.com/complete-python-python-oop-with-exercises-projects-in2022/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [Learn Python in 7 Days with Exercises and Assignments](https://coursemetry.com/learn-python-in-7-days-with-exercises-and-assignments/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python-2/)
+
+* [10x Your Social Skills & Connect With People](https://coursemetry.com/10x-your-social-skills-connect-with-people/)
+
+* [Facebook Chat Bot in Python 2022 from Scratch.](https://coursemetry.com/facebook-chat-bot-in-python-2022-from-scratch/)
+
+* [250+ Exercises - Data Science Bootcamp in Python - 2022](https://coursemetry.com/250-exercises-data-science-bootcamp-in-python-2022/)
+
+* [Python Course:Learn Python By building Games 2022 in Python.](https://coursemetry.com/python-courselearn-python-by-building-games-2022-in-python/)
+
+* [100 Days of Code: Data Scientist Challenge 2022](https://coursemetry.com/100-days-of-code-data-scientist-challenge-2022/)
+
+* [200+ Exercises - Programming in Python - 2022](https://coursemetry.com/200-exercises-programming-in-python-2022/)
+
+* [Curso Completo Dev Blockchain Solana: Do Zero ao Expert!](https://coursemetry.com/curso-completo-dev-blockchain-solana-do-zero-ao-expert/)
+
+* [How to Earn from Photography: Absolute Beginners Guide](https://coursemetry.com/how-to-earn-from-photography-absolute-beginners-guide/)
+
+* [Myyshop-How to do dropshipping without store](https://coursemetry.com/myyshop-how-to-do-dropshipping-without-store/)
+
+* [Excellence in Solutions Design](https://coursemetry.com/excellence-in-solutions-design/)
+
+* [Zero to Hero in SASS & SCSS with integration in React JS App](https://coursemetry.com/zero-to-hero-in-sass-scss-with-integration-in-react-js-app/)
+
+* [Myyshop - Howto sell on Tiktok 0 investment](https://coursemetry.com/myyshop-howto-sell-on-tiktok-0-investment/)
+
+* [Técnicas para la creación de elementos 3D para Videojuegos](https://coursemetry.com/tecnicas-para-la-creacion-de-elementos-3d-para-videojuegos/)
+
+* [Myyshop- How to sell DHgate products on Amazon FBA](https://coursemetry.com/myyshop-how-to-sell-dhgate-products-on-amazon-fba/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
