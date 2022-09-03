@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-09-03**
+## **135 Udemy free courses published so far on 2022-09-03**
 
 * [[Tips & Technics] : Customer Service Skills Next Level 2022](https://coursemetry.com/tips-technics-customer-service-skills-next-level-2022/)
 
@@ -253,6 +253,26 @@
 * [Information Security Fundamentals](https://coursemetry.com/information-security-fundamentals/)
 
 * [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
+
+* [Build A Search Engine With Python: Computer Science & Python](https://coursemetry.com/build-a-search-engine-with-python-computer-science-python/)
+
+* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
+
+* [curso de javascript de 0 a heroe](https://coursemetry.com/curso-de-javascript-de-0-a-heroe/)
+
+* [Desarrolla un sistema web  POS desde cero con PHP NATIVO](https://coursemetry.com/desarrolla-un-sistema-web-pos-desde-cero-con-php-nativo/)
+
+* [Run Digital Marketing Ad Using Google Adwords Express 2022](https://coursemetry.com/run-digital-marketing-ad-using-google-adwords-express-2022/)
+
+* [Python Programming Tutorial For The Absolute Beginner + Code](https://coursemetry.com/python-programming-tutorial-for-the-absolute-beginner-code/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [مدخل في عالم أختبار الأختراق-penetration testing](https://coursemetry.com/%d9%85%d8%af%d8%ae%d9%84-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a3%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-penetration-testing/)
+
+* [VTEX IO: A complete guide to the platform (Part1)](https://coursemetry.com/vtex-io-a-complete-guide-to-the-platform-part1/)
+
+* [VTEX IO: A complete guide to the platform (Part2)](https://coursemetry.com/vtex-io-a-complete-guide-to-the-platform-part2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
