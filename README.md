@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **114 Udemy free courses published so far on 2022-09-03**
+## **125 Udemy free courses published so far on 2022-09-03**
 
 * [[Tips & Technics] : Customer Service Skills Next Level 2022](https://coursemetry.com/tips-technics-customer-service-skills-next-level-2022/)
 
@@ -231,6 +231,28 @@
 * [Writing a Winning Scholarship Application - DAAD Scholarship](https://coursemetry.com/writing-a-winning-scholarship-application-daad-scholarship/)
 
 * [Eating Disorders: Therapies  and Predisposing Factors](https://coursemetry.com/eating-disorders-therapies-and-predisposing-factors/)
+
+* [How to Be Happy: Everyday Strategies for More Happiness](https://coursemetry.com/how-to-be-happy-everyday-strategies-for-more-happiness/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
+
+* [Ethical Hacking: Exploit Linux Server](https://coursemetry.com/ethical-hacking-exploit-linux-server/)
+
+* [Ethical Hacking: Hack by Uploading](https://coursemetry.com/ethical-hacking-hack-by-uploading/)
+
+* [BUG BOUNTY HUNTING WITH BURP SUITE](https://coursemetry.com/bug-bounty-hunting-with-burp-suite/)
+
+* [Excellence in Interpersonal Skills](https://coursemetry.com/excellence-in-interpersonal-skills/)
+
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
+
+* [Hack Network PCs](https://coursemetry.com/hack-network-pcs/)
+
+* [Information Security Fundamentals](https://coursemetry.com/information-security-fundamentals/)
+
+* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
