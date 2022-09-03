@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **68 Udemy free courses published so far on 2022-09-03**
+## **79 Udemy free courses published so far on 2022-09-03**
 
 * [[Tips & Technics] : Customer Service Skills Next Level 2022](https://coursemetry.com/tips-technics-customer-service-skills-next-level-2022/)
 
@@ -139,6 +139,28 @@
 * [Certificate in Professional Dowsing - Accredited Masterclass](https://coursemetry.com/certificate-in-professional-dowsing-accredited-masterclass/)
 
 * [Business English Campus: Supply Chain Successful Skills](https://coursemetry.com/business-english-campus-supply-chain-successful-skills/)
+
+* [Applying Java Programming for Real World Project Development](https://coursemetry.com/applying-java-programming-for-real-world-project-development/)
+
+* [Master CSS3 and ReactJs by Developing 3 Projects](https://coursemetry.com/master-css3-and-reactjs-by-developing-3-projects/)
+
+* [Master React Redux via Real world analogy & Building Project](https://coursemetry.com/master-react-redux-via-real-world-analogy-building-project/)
+
+* [Microservices Interview Readiness Course](https://coursemetry.com/microservices-interview-readiness-course/)
+
+* [Amazing Jellyfish Under the Sea Acrylic Painting Course](https://coursemetry.com/amazing-jellyfish-under-the-sea-acrylic-painting-course/)
+
+* [Day to Day activities of an Agile Scrum team in real project](https://coursemetry.com/day-to-day-activities-of-an-agile-scrum-team-in-real-project/)
+
+* [Get Job as Java SpringBoot Developer in IT industry](https://coursemetry.com/get-job-as-java-springboot-developer-in-it-industry/)
+
+* [Apply Jobs as MERN stack developer with this course](https://coursemetry.com/apply-jobs-as-mern-stack-developer-with-this-course/)
+
+* [Zero To Hero Apache Kafka with SpringBoot mastery](https://coursemetry.com/zero-to-hero-apache-kafka-with-springboot-mastery/)
+
+* [Practical Git & Github Bootcamp for Developers](https://coursemetry.com/practical-git-github-bootcamp-for-developers/)
+
+* [Practical CSS3 Flexbox Media Queries & CSS Grid Mastery](https://coursemetry.com/practical-css3-flexbox-media-queries-css-grid-mastery/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
