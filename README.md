@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published so far on 2022-09-04**
+## **82 Udemy free courses published so far on 2022-09-04**
 
 * [Good Communication Skills are the key to Success](https://coursemetry.com/good-communication-skills-are-the-key-to-success/)
 
@@ -105,6 +105,68 @@
 * [Linux Command Line Terminal Basic for Beginners (In Hindi)](https://coursemetry.com/linux-command-line-terminal-basic-for-beginners-in-hindi/)
 
 * [Beginning Jazz Improvisation](https://coursemetry.com/beginning-jazz-improvisation/)
+
+* [E-Mail Marketing mit Klick-Tipp: Werde Profi in 4 Stunden!](https://coursemetry.com/e-mail-marketing-mit-klick-tipp-werde-profi-in-4-stunden/)
+
+* [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
+
+* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+
+* [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
+
+* [Lightroom CC Master Class Essentials](https://coursemetry.com/lightroom-cc-master-class-essentials/)
+
+* [Prestashop 1.7: Crea tu propia tienda online desde cero](https://coursemetry.com/prestashop-1-7-crea-tu-propia-tienda-online-desde-cero/)
+
+* [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
+
+* [100 Days of Code: The Complete Python Pro Course](https://coursemetry.com/100-days-of-code-the-complete-python-pro-course/)
+
+* [Instagram Marketing 2021: Growth and Promotion on Instagram](https://coursemetry.com/instagram-marketing-2021-growth-and-promotion-on-instagram/)
+
+* [Passive Income - 35+ Tools/Websites to Earn Money](https://coursemetry.com/passive-income-35-tools-websites-to-earn-money/)
+
+* [Copywriting: Make Money From Home WRITING WORDS](https://coursemetry.com/copywriting-make-money-from-home-writing-words/)
+
+* [Linux Terminal for beginners](https://coursemetry.com/linux-terminal-for-beginners/)
+
+* [تعلم لغة البرمجة جافا من الصفر إلى مرحلة متقدمة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%ac%d8%a7%d9%81%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%a5%d9%84%d9%89-%d9%85%d8%b1%d8%ad%d9%84/)
+
+* [Media Training: The Media Interview Protection Plan](https://coursemetry.com/media-training-the-media-interview-protection-plan/)
+
+* [Desarrolla un sistema web  POS desde cero con PHP NATIVO](https://coursemetry.com/desarrolla-un-sistema-web-pos-desde-cero-con-php-nativo/)
+
+* [The Ultimate Hands-On JSP Bootcamp - JSP Masterclass](https://coursemetry.com/the-ultimate-hands-on-jsp-bootcamp-jsp-masterclass/)
+
+* [Redis Database Tutorial](https://coursemetry.com/redis-database-tutorial/)
+
+* [curso de javascript de 0 a heroe](https://coursemetry.com/curso-de-javascript-de-0-a-heroe/)
+
+* [awk tutorial](https://coursemetry.com/awk-tutorial/)
+
+* [Public Speaking: C-Level Executive Public Speaking Skills](https://coursemetry.com/public-speaking-c-level-executive-public-speaking-skills/)
+
+* [تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a8%d9%84%d8%ba%d8%a9-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ae%d8%b7%d9%88%d8%a9/)
+
+* [Personal Presentation Training](https://coursemetry.com/personal-presentation-training/)
+
+* [Presentation Skills: Give Great Skype Video Presentations](https://coursemetry.com/presentation-skills-give-great-skype-video-presentations/)
+
+* [Photoshop Essentials & Beyond - Beginning & Advance combined](https://coursemetry.com/photoshop-essentials-beyond-beginning-advance-combined/)
+
+* [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
+
+* [أساسيات ووظائف التجارة الإلكترونية والتسويق الإلكتروني](https://coursemetry.com/%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d9%88%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%88/)
+
+* [Desarrollando Mi Sistema Punto de Venta (C# y SQL Server)](https://coursemetry.com/desarrollando-mi-sistema-punto-de-venta-c-y-sql-server/)
+
+* [شرح 25 مشروع عبر الإنترنت و50 وظيفة أونلاين](https://coursemetry.com/%d8%b4%d8%b1%d8%ad-25-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa-%d9%8850-%d9%88%d8%b8%d9%8a%d9%81%d8%a9-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a/)
+
+* [التجارة الإلكترونية والتسويق الإلكتروني 24 محاضرة للمبتدئين](https://coursemetry.com/%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa/)
+
+* [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
+
+* [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
