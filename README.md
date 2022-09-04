@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published so far on 2022-09-04**
+## **51 Udemy free courses published so far on 2022-09-04**
 
 * [Good Communication Skills are the key to Success](https://coursemetry.com/good-communication-skills-are-the-key-to-success/)
 
@@ -101,6 +101,10 @@
 * [HTML and CSS for Beginners From Basic to Advance](https://coursemetry.com/html-and-css-for-beginners-from-basic-to-advance/)
 
 * [Complete Python Challenges, Python MCQ& Python Recap in 2022](https://coursemetry.com/complete-python-challenges-python-mcq-python-recap-in-2022/)
+
+* [Linux Command Line Terminal Basic for Beginners (In Hindi)](https://coursemetry.com/linux-command-line-terminal-basic-for-beginners-in-hindi/)
+
+* [Beginning Jazz Improvisation](https://coursemetry.com/beginning-jazz-improvisation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
