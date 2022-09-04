@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **28 Udemy free courses published so far on 2022-09-04**
+## **37 Udemy free courses published so far on 2022-09-04**
 
 * [Good Communication Skills are the key to Success](https://coursemetry.com/good-communication-skills-are-the-key-to-success/)
 
@@ -59,6 +59,24 @@
 * [Curso Básico de Canva 2022: Crea Diseños Gráficos Desde Cero](https://coursemetry.com/curso-basico-de-canva-2022-crea-disenos-graficos-desde-cero/)
 
 * [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
+
+* [Matematik Sorularına Taktiklerle 10 saniyelik çözümler](https://coursemetry.com/matematik-sorularina-taktiklerle-10-saniyelik-cozumler/)
+
+* [Complete Italian Course: Learning Italian for Beginners 2022](https://coursemetry.com/complete-italian-course-learning-italian-for-beginners-2022/)
+
+* [Learn To Play Piano: Free Crash Course](https://coursemetry.com/learn-to-play-piano-free-crash-course/)
+
+* [How To Play Guitar: Free Crash Course](https://coursemetry.com/how-to-play-guitar-free-crash-course/)
+
+* [Handson E-Degree CSS3 SASS & SCSS Mega Course](https://coursemetry.com/handson-e-degree-css3-sass-scss-mega-course/)
+
+* [Quantity Surveyor's Guide for Pre-Contracts Management](https://coursemetry.com/quantity-surveyors-guide-for-pre-contracts-management/)
+
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
+
+* [Write Article Content for SEO and Affiliate Marketing Course](https://coursemetry.com/write-article-content-for-seo-and-affiliate-marketing-course/)
+
+* [Become a SolidWorks Pro User](https://coursemetry.com/become-a-solidworks-pro-user/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
