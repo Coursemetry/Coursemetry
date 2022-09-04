@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **37 Udemy free courses published so far on 2022-09-04**
+## **49 Udemy free courses published so far on 2022-09-04**
 
 * [Good Communication Skills are the key to Success](https://coursemetry.com/good-communication-skills-are-the-key-to-success/)
 
@@ -77,6 +77,30 @@
 * [Write Article Content for SEO and Affiliate Marketing Course](https://coursemetry.com/write-article-content-for-seo-and-affiliate-marketing-course/)
 
 * [Become a SolidWorks Pro User](https://coursemetry.com/become-a-solidworks-pro-user/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
+
+* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
+
+* [Real time Automation+Manual Interview Questions with Answers](https://coursemetry.com/real-time-automationmanual-interview-questions-with-answers/)
+
+* [T-Shirt Design Masterclass In Photoshop | Sell Your T-Shirt](https://coursemetry.com/t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt/)
+
+* [Basics of Pricing (Arabic) سلسلة التسويق: أساسيات التسعير](https://coursemetry.com/basics-of-pricing-arabic-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d9%8a%d8%b1/)
+
+* [Getting Started with Blockchain Solidity and Smart Contracts](https://coursemetry.com/getting-started-with-blockchain-solidity-and-smart-contracts/)
+
+* [Data Analyst Boot camp 2022: Get Ready to Be a Data Analyst.](https://coursemetry.com/data-analyst-boot-camp-2022-get-ready-to-be-a-data-analyst/)
+
+* [SQL Boot Camp 2022: Complete SQL Course](https://coursemetry.com/sql-boot-camp-2022-complete-sql-course/)
+
+* [SQL Course 2022: SQL for Data Analysis and Data Science.](https://coursemetry.com/sql-course-2022-sql-for-data-analysis-and-data-science/)
+
+* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
+
+* [HTML and CSS for Beginners From Basic to Advance](https://coursemetry.com/html-and-css-for-beginners-from-basic-to-advance/)
+
+* [Complete Python Challenges, Python MCQ& Python Recap in 2022](https://coursemetry.com/complete-python-challenges-python-mcq-python-recap-in-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
