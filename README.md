@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **77 Udemy free courses published so far on 2022-09-05**
+## **89 Udemy free courses published so far on 2022-09-05**
 
 * [Ethical Hacking | Practical Password cracking - Office files](https://coursemetry.com/ethical-hacking-practical-password-cracking-office-files/)
 
@@ -157,6 +157,30 @@
 * [Robot Structural Analysis (Steel Structure)](https://coursemetry.com/robot-structural-analysis-steel-structure/)
 
 * [STAAD Pro V8 Industrial Steel Warehouse Design from A to Z](https://coursemetry.com/staad-pro-v8-industrial-steel-warehouse-design-from-a-to-z/)
+
+* [Architectural Shop Drawing Plans in AutoCAD 2020](https://coursemetry.com/architectural-shop-drawing-plans-in-autocad-2020/)
+
+* [Tekla Structures shop drawing R.C.C Building](https://coursemetry.com/tekla-structures-shop-drawing-r-c-c-building/)
+
+* [Prokon Analysis and Design of 3 Stories R.C.C Building](https://coursemetry.com/prokon-analysis-and-design-of-3-stories-r-c-c-building/)
+
+* [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+
+* [Car Repair | Automotive Electrician and Mechanic Training |](https://coursemetry.com/car-repair-automotive-electrician-and-mechanic-training/)
+
+* [Myyshop-China sourcing course for you to set up online biz](https://coursemetry.com/myyshop-china-sourcing-course-for-you-to-set-up-online-biz/)
+
+* [STAAD Pro V8 Structural design of R.C building from A to Z](https://coursemetry.com/staad-pro-v8-structural-design-of-r-c-building-from-a-to-z/)
+
+* [Financial Accounting-Debits & Credits-Accounting Transaction](https://coursemetry.com/financial-accounting-debits-credits-accounting-transaction/)
+
+* [Tekla structures Shop drawings Steel Structure](https://coursemetry.com/tekla-structures-shop-drawings-steel-structure/)
+
+* [Modern control and state space representation](https://coursemetry.com/modern-control-and-state-space-representation/)
+
+* [Myyshop - 90% margin dropshipping strategy and program](https://coursemetry.com/myyshop-90-margin-dropshipping-strategy-and-program/)
+
+* [Financial Accounting & Excel–Comprehensive Accounting Course](https://coursemetry.com/financial-accounting-excel-comprehensive-accounting-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
