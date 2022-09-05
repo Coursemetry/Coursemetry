@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-09-05**
+## **77 Udemy free courses published so far on 2022-09-05**
 
 * [Ethical Hacking | Practical Password cracking - Office files](https://coursemetry.com/ethical-hacking-practical-password-cracking-office-files/)
 
@@ -93,6 +93,70 @@
 * [Active Shooter Response and Survival](https://coursemetry.com/active-shooter-response-and-survival/)
 
 * [Intro to Embedded Systems with AVR ATMEGA32](https://coursemetry.com/intro-to-embedded-systems-with-avr-atmega32/)
+
+* [Partnership Accounting](https://coursemetry.com/partnership-accounting/)
+
+* [Job Order Costing System – Managerial Accounting](https://coursemetry.com/job-order-costing-system-managerial-accounting/)
+
+* [Fear of Public Speaking: Never Fear Public Speaking Again](https://coursemetry.com/fear-of-public-speaking-never-fear-public-speaking-again/)
+
+* [Cism Certification Practice Test With 145 Questions](https://coursemetry.com/cism-certification-practice-test-with-145-questions/)
+
+* [Public Speaking: You Can be a Great Speaker within 24 Hours](https://coursemetry.com/public-speaking-you-can-be-a-great-speaker-within-24-hours/)
+
+* [Complete Graphics Design and Video Editing Masterclass](https://coursemetry.com/complete-graphics-design-and-video-editing-masterclass/)
+
+* [Career Change: Become a Paid Expert in What You Love](https://coursemetry.com/career-change-become-a-paid-expert-in-what-you-love/)
+
+* [Automated Machine Learning for Beginners (Google & Apple)](https://coursemetry.com/automated-machine-learning-for-beginners-google-apple/)
+
+* [Create a WordPress website with Hostinger!](https://coursemetry.com/create-a-wordpress-website-with-hostinger/)
+
+* [REVIT MEP-2022 VERSION](https://coursemetry.com/revit-mep-2022-version/)
+
+* [Fire Fighting System Design Basics](https://coursemetry.com/fire-fighting-system-design-basics/)
+
+* [Klavier für KIDS (kostenloser Schnupperkurs)](https://coursemetry.com/klavier-fur-kids-kostenloser-schnupperkurs/)
+
+* [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
+
+* [CSI ETABSV19 steel structure analysis and design](https://coursemetry.com/csi-etabsv19-steel-structure-analysis-and-design/)
+
+* [Instagram Marketing 2022. How to Promote Your Business!](https://coursemetry.com/instagram-marketing-2022-how-to-promote-your-business/)
+
+* [AutoCAD2020 2D Basics & Advanced(Full Projects Civil + Arch)](https://coursemetry.com/autocad2020-2d-basics-advancedfull-projects-civil-arch/)
+
+* [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
+
+* [Advanced ETABS V2019 52 stories Tower different seismic sys](https://coursemetry.com/advanced-etabs-v2019-52-stories-tower-different-seismic-sys/)
+
+* [Digital Marketing Tools Taught from 3D Avatar Planet (2022)](https://coursemetry.com/digital-marketing-tools-taught-from-3d-avatar-planet-2022/)
+
+* [Google Analytics, GA4, GTM. How to improve your marketing?](https://coursemetry.com/google-analytics-ga4-gtm-how-to-improve-your-marketing/)
+
+* [Csi Safe + AllPile foundation, slabs, beams and deflection](https://coursemetry.com/csi-safe-allpile-foundation-slabs-beams-and-deflection/)
+
+* [Learn ETABS & SAFE in the Structural Design of 15 Stories RC](https://coursemetry.com/learn-etabs-safe-in-the-structural-design-of-15-stories-rc/)
+
+* [Civil Engineering Structural Shop Drawing in AutoCAD](https://coursemetry.com/civil-engineering-structural-shop-drawing-in-autocad/)
+
+* [Autodesk Structural Robot R.C.C Villa Design in UAE](https://coursemetry.com/autodesk-structural-robot-r-c-c-villa-design-in-uae/)
+
+* [Revit structural drawing of 15 stories residential building](https://coursemetry.com/revit-structural-drawing-of-15-stories-residential-building/)
+
+* [CSI Sap2000 3D building design + all type of (Stairs+Tanks)](https://coursemetry.com/csi-sap2000-3d-building-design-all-type-of-stairstanks/)
+
+* [Csi ETABS in the Structural analysis of 15 stories+ basement](https://coursemetry.com/csi-etabs-in-the-structural-analysis-of-15-stories-basement/)
+
+* [Prokon Civil Engineering Structural Design R.C.C Element](https://coursemetry.com/prokon-civil-engineering-structural-design-r-c-c-element/)
+
+* [Robot structural design 15 stories residential buildings](https://coursemetry.com/robot-structural-design-15-stories-residential-buildings/)
+
+* [ETABS v19 & SAFE v16 in Villa Structural Design in UAE+CAD](https://coursemetry.com/etabs-v19-safe-v16-in-villa-structural-design-in-uaecad/)
+
+* [Robot Structural Analysis (Steel Structure)](https://coursemetry.com/robot-structural-analysis-steel-structure/)
+
+* [STAAD Pro V8 Industrial Steel Warehouse Design from A to Z](https://coursemetry.com/staad-pro-v8-industrial-steel-warehouse-design-from-a-to-z/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
