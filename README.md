@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **61 Udemy free courses published so far on 2022-09-06**
+## **113 Udemy free courses published so far on 2022-09-06**
 
 * [Emotional Navigation for New Age Managers](https://coursemetry.com/emotional-navigation-for-new-age-managers/)
 
@@ -125,6 +125,110 @@
 * [Airbnb: How to be a Successful Host](https://coursemetry.com/airbnb-how-to-be-a-successful-host/)
 
 * [HTML Certification, Practice Test For Exams & Interviews](https://coursemetry.com/html-certification-practice-test-for-exams-interviews/)
+
+* [JavaScript - Basics to Advanced step by step [2022]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2022/)
+
+* [Social Media Marketing on Autopilot with Missinglettr (2022)](https://coursemetry.com/social-media-marketing-on-autopilot-with-missinglettr-2022/)
+
+* [Complete NFT Course (Beginner > 1000USD /Day Trading NFTs)](https://coursemetry.com/complete-nft-course-beginner-1000usd-day-trading-nfts/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [New-Age Technologies For Fitness Trainers (2022 Edition)](https://coursemetry.com/new-age-technologies-for-fitness-trainers-2022-edition/)
+
+* [Modern JavaScript for React JS - ES6 [2022]](https://coursemetry.com/modern-javascript-for-react-js-es6-2022/)
+
+* [The Ultimate Hands-On JSP Bootcamp - JSP Masterclass](https://coursemetry.com/the-ultimate-hands-on-jsp-bootcamp-jsp-masterclass/)
+
+* [The Complete ReactJs Course - Basics to Advanced [2022]](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2022/)
+
+* [Bitcoin For Beginners: How To Earn Bitcoin Online For Free](https://coursemetry.com/bitcoin-for-beginners-how-to-earn-bitcoin-online-for-free/)
+
+* [HTML5 - From Basics to Advanced level [2022]](https://coursemetry.com/html5-from-basics-to-advanced-level-2022/)
+
+* [The Complete Intuition Development Masterclass - Accredited](https://coursemetry.com/the-complete-intuition-development-masterclass-accredited/)
+
+* [AWS-SysOps Administrator Exam 2022](https://coursemetry.com/aws-sysops-administrator-exam-2022/)
+
+* [Aprendizaje Efectivo sin Estrés para Adultos](https://coursemetry.com/aprendizaje-efectivo-sin-estres-para-adultos/)
+
+* [Business English Course: Essentials in Business World](https://coursemetry.com/business-english-course-essentials-in-business-world/)
+
+* [MS-600  Building Applications and Solutions Exam Prep](https://coursemetry.com/ms-600-building-applications-and-solutions-exam-prep/)
+
+* [English Reading Practice Set for Beginners-2](https://coursemetry.com/english-reading-practice-set-for-beginners-2/)
+
+* [CSS - Basics to Adv for front end development [2022]](https://coursemetry.com/css-basics-to-adv-for-front-end-development-2022/)
+
+* [Learn Java Programming: Classes and Objects (2022 Edition)](https://coursemetry.com/learn-java-programming-classes-and-objects-2022-edition/)
+
+* [Digital Marketing B2B: Ultimate Digital Marketing Course](https://coursemetry.com/digital-marketing-b2b-ultimate-digital-marketing-course/)
+
+* [DP-203: Data Engineering on Microsoft Azure Practice Exam](https://coursemetry.com/dp-203-data-engineering-on-microsoft-azure-practice-exam/)
+
+* [Accordion For Beginners: Learn, Practice & Play Songs By Ear](https://coursemetry.com/accordion-for-beginners-learn-practice-play-songs-by-ear/)
+
+* [Organizational Behavior: Awarded Professor](https://coursemetry.com/organizational-behavior-awarded-professor/)
+
+* [Gaining Unstoppable High Self-Esteem](https://coursemetry.com/gaining-unstoppable-high-self-esteem/)
+
+* [Get Set, Goal](https://coursemetry.com/get-set-goal/)
+
+* [Jira Software for Lightweight Agile](https://coursemetry.com/jira-software-for-lightweight-agile/)
+
+* [Space Render 2.0: Transform your podcast into videos in 2022](https://coursemetry.com/space-render-2-0-transform-your-podcast-into-videos-in-2022/)
+
+* [Transformational Leadership: Leadership Development Training](https://coursemetry.com/transformational-leadership-leadership-development-training/)
+
+* [Graphic Design Certification + Live Class](https://coursemetry.com/graphic-design-certification-live-class/)
+
+* [Viral YouTube Marketing - Crash Course + Live Class](https://coursemetry.com/viral-youtube-marketing-crash-course-live-class/)
+
+* [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
+
+* [Hidden Secrets Of Selling - Part 4](https://coursemetry.com/hidden-secrets-of-selling-part-4/)
+
+* [Outstanding Customer Service - The Ultimate Guide!](https://coursemetry.com/outstanding-customer-service-the-ultimate-guide/)
+
+* [Mental Freedom: From PAIN To POWER](https://coursemetry.com/mental-freedom-from-pain-to-power/)
+
+* [Winning With Communication - Master Communication Skills](https://coursemetry.com/winning-with-communication-master-communication-skills/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [Secrets Of Psychology - Why People Do The Things They Do](https://coursemetry.com/secrets-of-psychology-why-people-do-the-things-they-do/)
+
+* [Artificial Intelligence in Web Design + Live Class](https://coursemetry.com/artificial-intelligence-in-web-design-live-class/)
+
+* [Advanced Parenting Skills - BEST Parenting Course Ever!](https://coursemetry.com/advanced-parenting-skills-best-parenting-course-ever/)
+
+* [Networking for Real Estate Investors For Profits & Funds](https://coursemetry.com/networking-for-real-estate-investors-for-profits-funds/)
+
+* [Stress Management - For Relief From Stress of Life & Work](https://coursemetry.com/stress-management-for-relief-from-stress-of-life-work/)
+
+* [Coping Skills: For A Better Life!](https://coursemetry.com/coping-skills-for-a-better-life/)
+
+* [Ultimate Persuasion Strategies! - Influence Tools & Skills](https://coursemetry.com/ultimate-persuasion-strategies-influence-tools-skills/)
+
+* [ZEN: For Personal Development - Zen Teachings](https://coursemetry.com/zen-for-personal-development-zen-teachings/)
+
+* [GCP ACE - Google Associate Cloud Engineer Certification](https://coursemetry.com/gcp-ace-google-associate-cloud-engineer-certification/)
+
+* [Hidden Secrets Of Selling - Part 2](https://coursemetry.com/hidden-secrets-of-selling-part-2/)
+
+* [Hidden Secrets Of Selling - Part 3](https://coursemetry.com/hidden-secrets-of-selling-part-3/)
+
+* [Artificial Intelligence in Digital Marketing + Live Class](https://coursemetry.com/artificial-intelligence-in-digital-marketing-live-class/)
+
+* [Ultra-Fast Web Design using Carrd (2022 Edition)](https://coursemetry.com/ultra-fast-web-design-using-carrd-2022-edition/)
+
+* [Killer ways to create and promote YouTube videos in 2022](https://coursemetry.com/killer-ways-to-create-and-promote-youtube-videos-in-2022/)
+
+* [Digishock 3.0: The Future of Artificial Intelligence (AI)](https://coursemetry.com/digishock-3-0-the-future-of-artificial-intelligence-ai/)
+
+* [Hidden Secrets Of Selling - Part 1](https://coursemetry.com/hidden-secrets-of-selling-part-1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
