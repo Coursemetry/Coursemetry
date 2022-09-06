@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **53 Udemy free courses published so far on 2022-09-06**
+## **61 Udemy free courses published so far on 2022-09-06**
 
 * [Emotional Navigation for New Age Managers](https://coursemetry.com/emotional-navigation-for-new-age-managers/)
 
@@ -109,6 +109,22 @@
 * [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
 
 * [Agile Kanban: Kanban for Software Development Teams](https://coursemetry.com/agile-kanban-kanban-for-software-development-teams/)
+
+* [The Complete Enterprise Risk Management (ERM) Master Class!](https://coursemetry.com/the-complete-enterprise-risk-management-erm-master-class/)
+
+* [How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://coursemetry.com/how-to-make-money-online-for-beginners-follow-proven-steps/)
+
+* [The Complete Company Valuation Master Class, Ace the deal!](https://coursemetry.com/the-complete-company-valuation-master-class-ace-the-deal/)
+
+* [The Complete ISO 31000 Master Class, Safeguard the Business!](https://coursemetry.com/the-complete-iso-31000-master-class-safeguard-the-business/)
+
+* [The Complete Mergers & Acquisitions Master Class!](https://coursemetry.com/the-complete-mergers-acquisitions-master-class/)
+
+* [The Complete Accounting Principles in one Hour!](https://coursemetry.com/the-complete-accounting-principles-in-one-hour/)
+
+* [Airbnb: How to be a Successful Host](https://coursemetry.com/airbnb-how-to-be-a-successful-host/)
+
+* [HTML Certification, Practice Test For Exams & Interviews](https://coursemetry.com/html-certification-practice-test-for-exams-interviews/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
