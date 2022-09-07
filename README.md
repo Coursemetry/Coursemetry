@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **117 Udemy free courses published so far on 2022-09-07**
+## **127 Udemy free courses published so far on 2022-09-07**
 
 * [Baştan Sona Bir Web Sitesi UI Tasarımı ve HTML/CSS Eğitimi.](https://coursemetry.com/bastan-sona-bir-web-sitesi-ui-tasarimi-ve-html-css-egitimi/)
 
@@ -237,6 +237,26 @@
 * [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [Creative Infographics in PowerPoint](https://coursemetry.com/creative-infographics-in-powerpoint/)
+
+* [Information Security Fundamentals](https://coursemetry.com/information-security-fundamentals/)
+
+* [Write Article Content for SEO and Affiliate Marketing Course](https://coursemetry.com/write-article-content-for-seo-and-affiliate-marketing-course/)
+
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
+
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
+
+* [Publish Simple Videos For a Living - Skillshare Earnings](https://coursemetry.com/publish-simple-videos-for-a-living-skillshare-earnings/)
+
+* [Webinar Mastery - Sell High Ticket Products!](https://coursemetry.com/webinar-mastery-sell-high-ticket-products/)
+
+* [The 2022 Marketing Method with Assignments & Case Study!](https://coursemetry.com/the-2022-marketing-method-with-assignments-case-study/)
+
+* [ServiceNow Human Resources (HRSD) [CIS-HR 2022]](https://coursemetry.com/servicenow-human-resources-hrsd-cis-hr-2022/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
