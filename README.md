@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **121 Udemy free courses published so far on 2022-09-08**
+## **127 Udemy free courses published so far on 2022-09-08**
 
 * [Sales Master Class by Dave Kennett -Close more deals!](https://coursemetry.com/sales-master-class-by-dave-kennett-close-more-deals/)
 
@@ -245,6 +245,18 @@
 * [Guerrilla Marketing Secrets For Personal Trainers](https://coursemetry.com/guerrilla-marketing-secrets-for-personal-trainers/)
 
 * [Exceed Expectations: Best Personal Training Client Intake](https://coursemetry.com/exceed-expectations-best-personal-training-client-intake/)
+
+* [Focus Mastery: Focus 100% On Your Goals & Kill Distractions](https://coursemetry.com/focus-mastery-focus-100-on-your-goals-kill-distractions/)
+
+* [Do Different Real-World Python Projects as a Beginner](https://coursemetry.com/do-different-real-world-python-projects-as-a-beginner/)
+
+* [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
+
+* [Self-Discipline: Build Habits & Develop a Growth Mindset](https://coursemetry.com/self-discipline-build-habits-develop-a-growth-mindset/)
+
+* [Best SAP FICO Tutorial For Beginners & Freshers](https://coursemetry.com/best-sap-fico-tutorial-for-beginners-freshers/)
+
+* [How to setup a new export firm in India and get orders?](https://coursemetry.com/how-to-setup-a-new-export-firm-in-india-and-get-orders/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
