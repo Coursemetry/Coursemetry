@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **127 Udemy free courses published so far on 2022-09-08**
+## **132 Udemy free courses published so far on 2022-09-08**
 
 * [Sales Master Class by Dave Kennett -Close more deals!](https://coursemetry.com/sales-master-class-by-dave-kennett-close-more-deals/)
 
@@ -257,6 +257,16 @@
 * [Best SAP FICO Tutorial For Beginners & Freshers](https://coursemetry.com/best-sap-fico-tutorial-for-beginners-freshers/)
 
 * [How to setup a new export firm in India and get orders?](https://coursemetry.com/how-to-setup-a-new-export-firm-in-india-and-get-orders/)
+
+* [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
+
+* [Gestión Del Tiempo: Productividad y Planificación Objetivos](https://coursemetry.com/gestion-del-tiempo-productividad-y-planificacion-objetivos/)
+
+* [Tantra Reiki Certification - Master / Teacher Program](https://coursemetry.com/tantra-reiki-certification-master-teacher-program/)
+
+* [Proceso CRUD (C Sharp y MySQL)](https://coursemetry.com/proceso-crud-c-sharp-y-mysql/)
+
+* [Time Management And Goal Planning: The Productivity Combo](https://coursemetry.com/time-management-and-goal-planning-the-productivity-combo/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
