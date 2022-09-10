@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **114 Udemy free courses published so far on 2022-09-10**
+## **119 Udemy free courses published so far on 2022-09-10**
 
 * [Complete Photography Masterclass: 4 Courses IN 1](https://coursemetry.com/complete-photography-masterclass-4-courses-in-1/)
 
@@ -26,15 +26,11 @@
 
 * [Basics of Pricing (Arabic) سلسلة التسويق: أساسيات التسعير](https://coursemetry.com/basics-of-pricing-arabic-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d9%8a%d8%b1/)
 
-* [Fully Accredited Certification in ADHD Management](https://coursemetry.com/fully-accredited-certification-in-adhd-management/)
-
 * [Accelerated Learning: Study Skills for Success: IT industry](https://coursemetry.com/accelerated-learning-study-skills-for-success-it-industry/)
 
 * [Corp Finance #17 Merger, Acquisition & Foreign Currency](https://coursemetry.com/corp-finance-17-merger-acquisition-foreign-currency/)
 
 * [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
-
-* [Fully Accredited Animal Reiki Practitioner Certification](https://coursemetry.com/fully-accredited-animal-reiki-practitioner-certification/)
 
 * [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
 
@@ -231,6 +227,20 @@
 * [Make Money From Home: 12 EASY Options to Make Money Now](https://coursemetry.com/make-money-from-home-12-easy-options-to-make-money-now/)
 
 * [Practical Password cracking - Office files | Ethical Hacking](https://coursemetry.com/practical-password-cracking-office-files-ethical-hacking/)
+
+* [Microsoft MB-300 Exam : Practice Test 2022](https://coursemetry.com/microsoft-mb-300-exam-practice-test-2022/)
+
+* [Certification in Emotional Intelligence - EQ Practitioner](https://coursemetry.com/certification-in-emotional-intelligence-eq-practitioner/)
+
+* [(MS-740) Troubleshooting Microsoft Teams: Practice Test 2022](https://coursemetry.com/ms-740-troubleshooting-microsoft-teams-practice-test-2022/)
+
+* [Microsoft SC-400 Exam : Practice Test 2022](https://coursemetry.com/microsoft-sc-400-exam-practice-test-2022/)
+
+* [Microsoft SC-300 Exam : Practice Test 2022](https://coursemetry.com/microsoft-sc-300-exam-practice-test-2022/)
+
+* [Fully Accredited Certification in ADHD Management](https://coursemetry.com/fully-accredited-certification-in-adhd-management/)
+
+* [Fully Accredited Animal Reiki Practitioner Certification](https://coursemetry.com/fully-accredited-animal-reiki-practitioner-certification/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
