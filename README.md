@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-09-10**
+## **114 Udemy free courses published so far on 2022-09-10**
 
 * [Complete Photography Masterclass: 4 Courses IN 1](https://coursemetry.com/complete-photography-masterclass-4-courses-in-1/)
 
@@ -204,8 +204,6 @@
 
 * [The Complete Digital Advertising Course for Local Businesses](https://coursemetry.com/the-complete-digital-advertising-course-for-local-businesses/)
 
-* [Practical Password cracking - Office files | Ethical Hacking](https://coursemetry.com/practical-password-cracking-office-files-ethical-hacking/)
-
 * [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
 
 * [Accredited Professional Lenormand Card Reading Certification](https://coursemetry.com/accredited-professional-lenormand-card-reading-certification/)
@@ -219,6 +217,20 @@
 * [A Complete Pet Training Masterclass: Accredited Certificate](https://coursemetry.com/a-complete-pet-training-masterclass-accredited-certificate/)
 
 * [Learn Microsoft SQL Server from Scratch](https://coursemetry.com/learn-microsoft-sql-server-from-scratch/)
+
+* [Docker Certified Associate (DCA) Exam : Practice Test 2022](https://coursemetry.com/docker-certified-associate-dca-exam-practice-test-2022/)
+
+* [( Microsoft MD-100) Modern Desktop Exam : Practice Test 2022](https://coursemetry.com/microsoft-md-100-modern-desktop-exam-practice-test-2022/)
+
+* [Excel VBA / Makros Programmierung. Automatisierung mit Excel](https://coursemetry.com/excel-vba-makros-programmierung-automatisierung-mit-excel/)
+
+* [Taller literario: Cómo escribir poesía, cuento y novela 2022](https://coursemetry.com/taller-literario-como-escribir-poesia-cuento-y-novela-2022/)
+
+* [AI-900 : Microsoft Azure AI Fundamentals Exam Practice Test](https://coursemetry.com/ai-900-microsoft-azure-ai-fundamentals-exam-practice-test-2/)
+
+* [Make Money From Home: 12 EASY Options to Make Money Now](https://coursemetry.com/make-money-from-home-12-easy-options-to-make-money-now/)
+
+* [Practical Password cracking - Office files | Ethical Hacking](https://coursemetry.com/practical-password-cracking-office-files-ethical-hacking/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
