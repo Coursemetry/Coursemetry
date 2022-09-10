@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-09-10**
+## **108 Udemy free courses published so far on 2022-09-10**
 
 * [Complete Photography Masterclass: 4 Courses IN 1](https://coursemetry.com/complete-photography-masterclass-4-courses-in-1/)
 
@@ -39,8 +39,6 @@
 * [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
 
 * [Arsa Arazi Yatırımında Katlayan Yöntem](https://coursemetry.com/arsa-arazi-yatiriminda-katlayan-yontem/)
-
-* [Accredited Professional Lenormand Card Reading Certification](https://coursemetry.com/accredited-professional-lenormand-card-reading-certification/)
 
 * [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
 
@@ -203,6 +201,24 @@
 * [React JS- Complete Guide for Frontend Web Development [2022]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2022/)
 
 * [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
+
+* [The Complete Digital Advertising Course for Local Businesses](https://coursemetry.com/the-complete-digital-advertising-course-for-local-businesses/)
+
+* [Practical Password cracking - Office files | Ethical Hacking](https://coursemetry.com/practical-password-cracking-office-files-ethical-hacking/)
+
+* [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
+
+* [Accredited Professional Lenormand Card Reading Certification](https://coursemetry.com/accredited-professional-lenormand-card-reading-certification/)
+
+* [AWS Certified DevOps Engineer Professional : Practice Test](https://coursemetry.com/aws-certified-devops-engineer-professional-practice-test-3/)
+
+* [(MD-101) Managing Modern Desktops Exam : Practice Test 2022](https://coursemetry.com/md-101-managing-modern-desktops-exam-practice-test-2022/)
+
+* [Basics of Agile & Scrum](https://coursemetry.com/basics-of-agile-scrum/)
+
+* [A Complete Pet Training Masterclass: Accredited Certificate](https://coursemetry.com/a-complete-pet-training-masterclass-accredited-certificate/)
+
+* [Learn Microsoft SQL Server from Scratch](https://coursemetry.com/learn-microsoft-sql-server-from-scratch/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
