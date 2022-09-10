@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **99 Udemy free courses published so far on 2022-09-10**
+## **100 Udemy free courses published so far on 2022-09-10**
 
 * [Complete Photography Masterclass: 4 Courses IN 1](https://coursemetry.com/complete-photography-masterclass-4-courses-in-1/)
 
@@ -201,6 +201,8 @@
 * [IELTS Band 8: IELTS Listening Mastery | IELTS Tenses](https://coursemetry.com/ielts-band-8-ielts-listening-mastery-ielts-tenses/)
 
 * [React JS- Complete Guide for Frontend Web Development [2022]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2022/)
+
+* [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
