@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **89 Udemy free courses published so far on 2022-09-11**
+## **92 Udemy free courses published so far on 2022-09-11**
 
 * [Learn Spanish Now: All-in-One Knowledge Course](https://coursemetry.com/learn-spanish-now-all-in-one-knowledge-course/)
 
@@ -181,6 +181,12 @@
 * [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
 
 * [Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://coursemetry.com/learn-audo-studio-ai-powered-noise-cancellation-tool-2022/)
+
+* [Fundraising: Ask and Raise Contributions for Your Charity](https://coursemetry.com/fundraising-ask-and-raise-contributions-for-your-charity/)
+
+* [English placement test](https://coursemetry.com/english-placement-test/)
+
+* [All about Polycystic Ovary Syndrome](https://coursemetry.com/all-about-polycystic-ovary-syndrome/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
