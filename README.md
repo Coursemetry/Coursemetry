@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published so far on 2022-09-11**
+## **101 Udemy free courses published so far on 2022-09-11**
 
 * [Learn Spanish Now: All-in-One Knowledge Course](https://coursemetry.com/learn-spanish-now-all-in-one-knowledge-course/)
 
@@ -187,6 +187,24 @@
 * [English placement test](https://coursemetry.com/english-placement-test/)
 
 * [All about Polycystic Ovary Syndrome](https://coursemetry.com/all-about-polycystic-ovary-syndrome/)
+
+* [Curso WordPress 2022:  Cómo Crear una Página Web Desde Cero](https://coursemetry.com/curso-wordpress-2022-como-crear-una-pagina-web-desde-cero/)
+
+* [How To Create Online Courses - the Ultimate Starting Guide](https://coursemetry.com/how-to-create-online-courses-the-ultimate-starting-guide/)
+
+* [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
+
+* [The Complete 3D Cinematic City Of Dragon for Metaverse & NFT](https://coursemetry.com/the-complete-3d-cinematic-city-of-dragon-for-metaverse-nft/)
+
+* [SQL- The Complete Introduction to SQL programming](https://coursemetry.com/sql-the-complete-introduction-to-sql-programming/)
+
+* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
+
+* [Make Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/make-money-copywriting-make-money-writing-copy-from-home/)
+
+* [JavaScript for Beginners - The Complete introduction to JS](https://coursemetry.com/javascript-for-beginners-the-complete-introduction-to-js/)
+
+* [CBT and Nutrition Ultimate Certification Course](https://coursemetry.com/cbt-and-nutrition-ultimate-certification-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
