@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **82 Udemy free courses published so far on 2022-09-11**
+## **89 Udemy free courses published so far on 2022-09-11**
 
 * [Learn Spanish Now: All-in-One Knowledge Course](https://coursemetry.com/learn-spanish-now-all-in-one-knowledge-course/)
 
@@ -167,6 +167,20 @@
 * [Money Management System for Traders](https://coursemetry.com/money-management-system-for-traders/)
 
 * [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [How To Use LazyApply To Automate Your Job Search?](https://coursemetry.com/how-to-use-lazyapply-to-automate-your-job-search/)
+
+* [Reversing Diabetes Mellitus With Lifestyle Changes](https://coursemetry.com/reversing-diabetes-mellitus-with-lifestyle-changes/)
+
+* [Fast Track - Adobe Photoshop](https://coursemetry.com/fast-track-adobe-photoshop/)
+
+* [ABA CRCM : Certified Regulatory Compliance Manager Exam Prep](https://coursemetry.com/aba-crcm-certified-regulatory-compliance-manager-exam-prep/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://coursemetry.com/learn-audo-studio-ai-powered-noise-cancellation-tool-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
