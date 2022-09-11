@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-09-11**
+## **82 Udemy free courses published so far on 2022-09-11**
 
 * [Learn Spanish Now: All-in-One Knowledge Course](https://coursemetry.com/learn-spanish-now-all-in-one-knowledge-course/)
 
@@ -51,8 +51,6 @@
 * [EARN BITCOIN ON YOUR PHONE, Even While You Sleep](https://coursemetry.com/earn-bitcoin-on-your-phone-even-while-you-sleep/)
 
 * [Career Masterclass: Get Promoted Faster, Salary Negotiation](https://coursemetry.com/career-masterclass-get-promoted-faster-salary-negotiation/)
-
-* [How To Build a Sales Funnel For Your Subscription Business](https://coursemetry.com/how-to-build-a-sales-funnel-for-your-subscription-business/)
 
 * [Sentiment Analysis with NLP using Python and Flask](https://coursemetry.com/sentiment-analysis-with-nlp-using-python-and-flask/)
 
@@ -155,6 +153,20 @@
 * [THE EWI Start Up Mini-Course](https://coursemetry.com/the-ewi-start-up-mini-course/)
 
 * [Complete GST Course with Latest Notifications and Updates](https://coursemetry.com/complete-gst-course-with-latest-notifications-and-updates/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [How To Build a Sales Funnel For Your Subscription Business](https://coursemetry.com/how-to-build-a-sales-funnel-for-your-subscription-business/)
+
+* [Traditional Chinese Medicine to Enhance Your Body’s Defenses](https://coursemetry.com/traditional-chinese-medicine-to-enhance-your-bodys-defenses/)
+
+* [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
+
+* [Environment and Ethics: A Basic Course](https://coursemetry.com/environment-and-ethics-a-basic-course/)
+
+* [Money Management System for Traders](https://coursemetry.com/money-management-system-for-traders/)
+
+* [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
