@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published so far on 2022-09-11**
+## **76 Udemy free courses published so far on 2022-09-11**
 
 * [Learn Spanish Now: All-in-One Knowledge Course](https://coursemetry.com/learn-spanish-now-all-in-one-knowledge-course/)
 
@@ -133,6 +133,28 @@
 * [Certified Entry-Level & Associate in Python Programming Pack](https://coursemetry.com/certified-entry-level-associate-in-python-programming-pack/)
 
 * [Marketing Analytics: Customer Value and Promotion Strategy](https://coursemetry.com/marketing-analytics-customer-value-and-promotion-strategy/)
+
+* [XSS Survival Guide](https://coursemetry.com/xss-survival-guide/)
+
+* [Life coach and life purpose certification course](https://coursemetry.com/life-coach-and-life-purpose-certification-course/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Tests (2022)](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-2022-2/)
+
+* [Couples Counseling | Learn to Live happy with Life Partner](https://coursemetry.com/couples-counseling-learn-to-live-happy-with-life-partner/)
+
+* [CBT: Cognitive Behavioral Therapy For Anxiety And Depression](https://coursemetry.com/cbt-cognitive-behavioral-therapy-for-anxiety-and-depression/)
+
+* [Life Coach: The Complete Life Coach Certification Course](https://coursemetry.com/life-coach-the-complete-life-coach-certification-course/)
+
+* [CBT: Complete psychotherapy Certificate Course](https://coursemetry.com/cbt-complete-psychotherapy-certificate-course/)
+
+* [Data Analyst Skill path in Hindi - हिंदी में Data analytics](https://coursemetry.com/data-analyst-skill-path-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-data-analytics/)
+
+* [Kanban Metrics for Agile teams: Measure & Improve Flow](https://coursemetry.com/kanban-metrics-for-agile-teams-measure-improve-flow/)
+
+* [THE EWI Start Up Mini-Course](https://coursemetry.com/the-ewi-start-up-mini-course/)
+
+* [Complete GST Course with Latest Notifications and Updates](https://coursemetry.com/complete-gst-course-with-latest-notifications-and-updates/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
