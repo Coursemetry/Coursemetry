@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **95 Udemy free courses published so far on 2022-09-12**
+## **116 Udemy free courses published so far on 2022-09-12**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -193,6 +193,48 @@
 * [DP-300 Administering Relational Databases on Microsoft Azure](https://coursemetry.com/dp-300-administering-relational-databases-on-microsoft-azure/)
 
 * [AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://coursemetry.com/az-305-designing-microsoft-azure-infrastructure-solutions/)
+
+* [Circuitos Eléctricos en Corriente Alterna](https://coursemetry.com/circuitos-electricos-en-corriente-alterna/)
+
+* [Aprendizaje Efectivo sin Estrés para Adultos](https://coursemetry.com/aprendizaje-efectivo-sin-estres-para-adultos/)
+
+* [Python para no matemáticos: De 0 hasta reconocimiento facial](https://coursemetry.com/python-para-no-matematicos-de-0-hasta-reconocimiento-facial/)
+
+* [C# desde 0: Inicia tu carrera como programador](https://coursemetry.com/c-desde-0-inicia-tu-carrera-como-programador/)
+
+* [Sistema de asistencias en C# y SQLserver desde 0](https://coursemetry.com/sistema-de-asistencias-en-c-y-sqlserver-desde-0/)
+
+* [App android + Sistema para Karaoke en Xamarin Forms (2021)](https://coursemetry.com/app-android-sistema-para-karaoke-en-xamarin-forms-2021/)
+
+* [Buman 1.0 - App android + sistema para Restaurante en C#](https://coursemetry.com/buman-1-0-app-android-sistema-para-restaurante-en-c/)
+
+* [Bjorn App android publicitaria en Xamarin forms y Firebase](https://coursemetry.com/bjorn-app-android-publicitaria-en-xamarin-forms-y-firebase/)
+
+* [EMDR Practitioner Toolbox - Treatment of Complex PTSD](https://coursemetry.com/emdr-practitioner-toolbox-treatment-of-complex-ptsd/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [A+ Core2 Practice Test](https://coursemetry.com/a-core2-practice-test/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [How to treat Borderline Personality Disorder: Schema Therapy](https://coursemetry.com/how-to-treat-borderline-personality-disorder-schema-therapy/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [OBS Studio - Ultimate Livestreaming Guide to OBS Studio](https://coursemetry.com/obs-studio-ultimate-livestreaming-guide-to-obs-studio/)
+
+* [Network + Practice Test](https://coursemetry.com/network-practice-test/)
+
+* [Improve English by Movies](https://coursemetry.com/improve-english-by-movies/)
+
+* [Team Building for Business Success](https://coursemetry.com/team-building-for-business-success/)
+
+* [Career in I-O Psychology & Organizational behavior](https://coursemetry.com/career-in-i-o-psychology-organizational-behavior/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Complete Guide to Punctuation: Improve Your English Writing!](https://coursemetry.com/complete-guide-to-punctuation-improve-your-english-writing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
