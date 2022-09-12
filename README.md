@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published so far on 2022-09-12**
+## **142 Udemy free courses published so far on 2022-09-12**
 
 * [The Art Of Drawing The Face | Beginner's Course (NEW) 2022](https://coursemetry.com/the-art-of-drawing-the-face-beginners-course-new-2022/)
 
@@ -265,6 +265,28 @@
 * [Universidad Java - De Cero a Experto - Más Completo +106 hrs](https://coursemetry.com/universidad-java-de-cero-a-experto-mas-completo-106-hrs/)
 
 * [Oracle 1Z0-071 Practice Tests | Oracle Database 12C | SQL](https://coursemetry.com/oracle-1z0-071-practice-tests-oracle-database-12c-sql/)
+
+* [Microsoft Excel - Beginner to Advance with Example](https://coursemetry.com/microsoft-excel-beginner-to-advance-with-example/)
+
+* [Computer Architecture and Computer Organization Masterclass](https://coursemetry.com/computer-architecture-and-computer-organization-masterclass/)
+
+* [LookML A-Z: Google Looker for Developers](https://coursemetry.com/lookml-a-z-google-looker-for-developers/)
+
+* [Cómo vivir de la Internet y no fallar en el intento](https://coursemetry.com/como-vivir-de-la-internet-y-no-fallar-en-el-intento/)
+
+* [Alteryx Masterclass for Data Analytics, ETL and Reporting](https://coursemetry.com/alteryx-masterclass-for-data-analytics-etl-and-reporting/)
+
+* [Machine Learning using Python](https://coursemetry.com/machine-learning-using-python/)
+
+* [3ds max Iray + MDL Material Layer Modulo 3](https://coursemetry.com/3ds-max-iray-mdl-material-layer-modulo-3/)
+
+* [Decision Trees, Random Forests, AdaBoost & XGBoost in Python](https://coursemetry.com/decision-trees-random-forests-adaboost-xgboost-in-python/)
+
+* [Professional Scrum with Kanban (PSK I) Certification Prep](https://coursemetry.com/professional-scrum-with-kanban-psk-i-certification-prep/)
+
+* [Machine Learning Basics in Hindi हिंदी - Regression Analysis](https://coursemetry.com/machine-learning-basics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-regression-analysis/)
+
+* [Microsoft Excel - MS Excel Formulas & Functions in just 3hrs](https://coursemetry.com/microsoft-excel-ms-excel-formulas-functions-in-just-3hrs/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
