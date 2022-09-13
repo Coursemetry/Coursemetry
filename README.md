@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **92 Udemy free courses published so far on 2022-09-13**
+## **130 Udemy free courses published so far on 2022-09-13**
 
 * [Java Network Programming - Mastering TCP/IP | CJNP+ 2022PRO](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022pro/)
 
@@ -187,6 +187,82 @@
 * [Microsoft Power BI DAX from Scratch](https://coursemetry.com/microsoft-power-bi-dax-from-scratch/)
 
 * [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [Crypto Asset-Allocation and Portfolio Strategy](https://coursemetry.com/crypto-asset-allocation-and-portfolio-strategy/)
+
+* [Programacion con Python](https://coursemetry.com/programacion-con-python/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [CAMS : Certified Anti-Money Laundering Specialist Exam Prep](https://coursemetry.com/cams-certified-anti-money-laundering-specialist-exam-prep/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [Curso completo de Python 2022-De cero a Master con Python 3](https://coursemetry.com/curso-completo-de-python-2022-de-cero-a-master-con-python-3/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Indian Stock Market](https://coursemetry.com/indian-stock-market/)
+
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
+
+* [Web Development Masterclass - Online Certification Course](https://coursemetry.com/web-development-masterclass-online-certification-course/)
+
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+
+* [Learn Python in 7 Days with Exercises and Assignments](https://coursemetry.com/learn-python-in-7-days-with-exercises-and-assignments/)
+
+* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+
+* [Executive Program in Data Visualization](https://coursemetry.com/executive-program-in-data-visualization/)
+
+* [Ethical Hacking: Linux Backdoor](https://coursemetry.com/ethical-hacking-linux-backdoor/)
+
+* [Master in HTML & CSS Coding for Web Design](https://coursemetry.com/master-in-html-css-coding-for-web-design/)
+
+* [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners/)
+
+* [Microsoft Power BI - Formation Complète - Débutant à Expert](https://coursemetry.com/microsoft-power-bi-formation-complete-debutant-a-expert/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [USFDA Regulations - NEW Drug Development Certificate Course](https://coursemetry.com/usfda-regulations-new-drug-development-certificate-course/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [Beginner To Pro Mobile Video Editing Complete Course](https://coursemetry.com/beginner-to-pro-mobile-video-editing-complete-course/)
+
+* [System Design: Programming languages](https://coursemetry.com/system-design-programming-languages/)
+
+* [Hack Network PCs](https://coursemetry.com/hack-network-pcs/)
+
+* [Curso de desarrollo de Videojuegos NFT de la A a la Z](https://coursemetry.com/curso-de-desarrollo-de-videojuegos-nft-de-la-a-a-la-z/)
+
+* [Escuela de Programación y Desarrollo Web desde cero a Master](https://coursemetry.com/escuela-de-programacion-y-desarrollo-web-desde-cero-a-master/)
+
+* [GOLANG: Curso profesional de Go - De cero a Master 2022](https://coursemetry.com/golang-curso-profesional-de-go-de-cero-a-master-2022/)
+
+* [Redis Database Tutorial](https://coursemetry.com/redis-database-tutorial/)
+
+* [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
+
+* [Hack Windows](https://coursemetry.com/hack-windows/)
+
+* [Modern Job Interview Preparation, Tips & Tricks Masterclass](https://coursemetry.com/modern-job-interview-preparation-tips-tricks-masterclass/)
+
+* [Adobe Photoshop 2022: A Beginner’s Guide to Photoshop Tools](https://coursemetry.com/adobe-photoshop-2022-a-beginners-guide-to-photoshop-tools/)
+
+* [Introduction to Reverse Osmosis Desalination](https://coursemetry.com/introduction-to-reverse-osmosis-desalination/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
