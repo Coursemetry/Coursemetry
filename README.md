@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **130 Udemy free courses published so far on 2022-09-13**
+## **132 Udemy free courses published so far on 2022-09-13**
 
 * [Java Network Programming - Mastering TCP/IP | CJNP+ 2022PRO](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022pro/)
 
@@ -263,6 +263,10 @@
 * [Adobe Photoshop 2022: A Beginner’s Guide to Photoshop Tools](https://coursemetry.com/adobe-photoshop-2022-a-beginners-guide-to-photoshop-tools/)
 
 * [Introduction to Reverse Osmosis Desalination](https://coursemetry.com/introduction-to-reverse-osmosis-desalination/)
+
+* [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
+
+* [Best of Copywriting: Copywriting 4 Ecommerce + 46 Templates](https://coursemetry.com/best-of-copywriting-copywriting-4-ecommerce-46-templates/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
