@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **78 Udemy free courses published so far on 2022-09-13**
+## **92 Udemy free courses published so far on 2022-09-13**
 
 * [Java Network Programming - Mastering TCP/IP | CJNP+ 2022PRO](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022pro/)
 
@@ -159,6 +159,34 @@
 * [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
 
 * [Certified Solutions Architect – Associate Practice Test](https://coursemetry.com/certified-solutions-architect-associate-practice-test/)
+
+* [Time Management for Professionals](https://coursemetry.com/time-management-for-professionals/)
+
+* [Data Analytics with Excel PivotTables](https://coursemetry.com/data-analytics-with-excel-pivottables/)
+
+* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+
+* [Master in Microsoft Power BI Desktop and Service](https://coursemetry.com/master-in-microsoft-power-bi-desktop-and-service/)
+
+* [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [Understanding HIPAA Compliance](https://coursemetry.com/understanding-hipaa-compliance/)
+
+* [Big Data on Amazon web services (AWS)](https://coursemetry.com/big-data-on-amazon-web-services-aws/)
+
+* [JavaScript Fundamentals: A Course for Absolute Beginners](https://coursemetry.com/javascript-fundamentals-a-course-for-absolute-beginners/)
+
+* [Photoshop CC MasterClass (Uygulamalı Eğitim)](https://coursemetry.com/photoshop-cc-masterclass-uygulamali-egitim/)
+
+* [A Practical Approach to Fundamental Equity Analysis](https://coursemetry.com/a-practical-approach-to-fundamental-equity-analysis/)
+
+* [Microsoft Power BI DAX from Scratch](https://coursemetry.com/microsoft-power-bi-dax-from-scratch/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
