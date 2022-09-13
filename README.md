@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published so far on 2022-09-13**
+## **78 Udemy free courses published so far on 2022-09-13**
 
 * [Java Network Programming - Mastering TCP/IP | CJNP+ 2022PRO](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022pro/)
 
@@ -117,6 +117,48 @@
 * [Brain Exercises to Boost Memory and Prevent Dementia](https://coursemetry.com/brain-exercises-to-boost-memory-and-prevent-dementia/)
 
 * [Crypto Condensed: Guide To Decentralized Finance (2022)](https://coursemetry.com/crypto-condensed-guide-to-decentralized-finance-2022/)
+
+* [AWS DevOps Engineer Professional Practice Exam 2022](https://coursemetry.com/aws-devops-engineer-professional-practice-exam-2022/)
+
+* [PRINCE 2 Foundation Exam 2022](https://coursemetry.com/prince-2-foundation-exam-2022-2/)
+
+* [Experto en Diseño y Ejecución de Escaleras](https://coursemetry.com/experto-en-diseno-y-ejecucion-de-escaleras/)
+
+* [الذكاء العاطفي للوالدين في التعامل مع الأطفال](https://coursemetry.com/%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%a7%d8%b7%d9%81%d9%8a-%d9%84%d9%84%d9%88%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%85%d9%84-%d9%85%d8%b9/)
+
+* [AWS Certified Cloud Practitioner (CLF-C01) - Exam 2022](https://coursemetry.com/aws-certified-cloud-practitioner-clf-c01-exam-2022/)
+
+* [Algorithmic Trading with Python: Machine Learning strategies](https://coursemetry.com/algorithmic-trading-with-python-machine-learning-strategies/)
+
+* [Java Programming: Complete Beginner to Advanced](https://coursemetry.com/java-programming-complete-beginner-to-advanced/)
+
+* [Learn Python Programming from Scratch](https://coursemetry.com/learn-python-programming-from-scratch/)
+
+* [Decluttering. Organización de Espacios y Ambientes Interior](https://coursemetry.com/decluttering-organizacion-de-espacios-y-ambientes-interior/)
+
+* [Car Repair : Certificated Auto Mechanic Training CAMT+ |2022](https://coursemetry.com/car-repair-certificated-auto-mechanic-training-camt-2022/)
+
+* [Condensed Note of FRM Part 1 - Valuation & Risk Models 2022](https://coursemetry.com/condensed-note-of-frm-part-1-valuation-risk-models-2022/)
+
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
+
+* [Introduction to MATLAB for Complete Beginners](https://coursemetry.com/introduction-to-matlab-for-complete-beginners/)
+
+* [PHP for Beginners: Become a PHP Master | Course 2022 PART-1](https://coursemetry.com/php-for-beginners-become-a-php-master-course-2022-part-1/)
+
+* [PHP for Beginners: Become a PHP Master | Course 2022 PART-2](https://coursemetry.com/php-for-beginners-become-a-php-master-course-2022-part-2/)
+
+* [PHP for Beginners: Become a PHP Master | Course 2022 PART-3](https://coursemetry.com/php-for-beginners-become-a-php-master-course-2022-part-3/)
+
+* [PHP for Beginners: OOP Concepts for Beginners-PART-4](https://coursemetry.com/php-for-beginners-oop-concepts-for-beginners-part-4/)
+
+* [Fotografía Profesional Arquitectura Inmobiliaria Real Estate](https://coursemetry.com/fotografia-profesional-arquitectura-inmobiliaria-real-estate/)
+
+* [Azure AI Fundamentals Practice Test](https://coursemetry.com/azure-ai-fundamentals-practice-test/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [Certified Solutions Architect – Associate Practice Test](https://coursemetry.com/certified-solutions-architect-associate-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
