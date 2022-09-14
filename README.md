@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **85 Udemy free courses published so far on 2022-09-14**
+## **93 Udemy free courses published so far on 2022-09-14**
 
 * [GCP Certified Data Engineer - Practice Tests 2023](https://coursemetry.com/gcp-certified-data-engineer-practice-tests-2023/)
 
@@ -173,6 +173,22 @@
 * [CRUD CON [PHP, MVC, POO, MYSQL]](https://coursemetry.com/crud-con-php-mvc-poo-mysql/)
 
 * [Canva For Beginners : Level Up Your Content Creation Skill](https://coursemetry.com/canva-for-beginners-level-up-your-content-creation-skill/)
+
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
+
+* [Excellence in Sales Management](https://coursemetry.com/excellence-in-sales-management/)
+
+* [Inteligencia Emocional - Una guía practica y completa](https://coursemetry.com/inteligencia-emocional-una-guia-practica-y-completa/)
+
+* [API REST con PHP  y MYSQL](https://coursemetry.com/api-rest-con-php-y-mysql/)
+
+* [Artificial Intelligence (AI) Logo Design Tools: 2022 Edition](https://coursemetry.com/artificial-intelligence-ai-logo-design-tools-2022-edition/)
+
+* [eCommerce Marketing Course (2022 Grand Edition)](https://coursemetry.com/ecommerce-marketing-course-2022-grand-edition/)
+
+* [Artificial Intelligence (AI) Tools For Job Seekers (2022)](https://coursemetry.com/artificial-intelligence-ai-tools-for-job-seekers-2022/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 9](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-9/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
