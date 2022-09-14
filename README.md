@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-09-14**
+## **122 Udemy free courses published so far on 2022-09-14**
 
 * [GCP Certified Data Engineer - Practice Tests 2023](https://coursemetry.com/gcp-certified-data-engineer-practice-tests-2023/)
 
@@ -189,6 +189,64 @@
 * [Artificial Intelligence (AI) Tools For Job Seekers (2022)](https://coursemetry.com/artificial-intelligence-ai-tools-for-job-seekers-2022/)
 
 * [RoboAuthor: Content Writing Automation 2022 - Part 9](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-9/)
+
+* [Medium for beginners - How to succeed on Medium platform ?](https://coursemetry.com/medium-for-beginners-how-to-succeed-on-medium-platform/)
+
+* [Data Science: Python for Data Analysis 2022 Full Bootcamp](https://coursemetry.com/data-science-python-for-data-analysis-2022-full-bootcamp/)
+
+* [Learn Coding with Java from Scratch: Essential Training 2022](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2022/)
+
+* [Burnout 101!](https://coursemetry.com/burnout-101/)
+
+* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [SAP Basis Essential Training](https://coursemetry.com/sap-basis-essential-training/)
+
+* [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+
+* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+
+* [Object-Oriented Programming with Python: Code Faster in 2022](https://coursemetry.com/object-oriented-programming-with-python-code-faster-in-2022/)
+
+* [The R Programming For Data Science A-Z Complete Diploma 2022](https://coursemetry.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/)
+
+* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
+
+* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+
+* [Dare to Lead: How to Become a Next Generation Leader](https://coursemetry.com/dare-to-lead-how-to-become-a-next-generation-leader/)
+
+* [Machine Learning | Solução completa end-to-end (Python)](https://coursemetry.com/machine-learning-solucao-completa-end-to-end-python/)
+
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
+
+* [Arabic Language Course: Learn to Read Arabic, Write & Listen](https://coursemetry.com/arabic-language-course-learn-to-read-arabic-write-listen/)
+
+* [Negotiation A-Z: Inside Secrets from a Master Negotiator](https://coursemetry.com/negotiation-a-z-inside-secrets-from-a-master-negotiator/)
+
+* [YouTube Marketing: Become a Digital TV Star in Your Niche](https://coursemetry.com/youtube-marketing-become-a-digital-tv-star-in-your-niche/)
+
+* [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
+
+* [( Swift , SwiftUI ) باستخدام IOS دورة تعلم برمجة تطبيقات](https://coursemetry.com/swift-swiftui-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-ios-%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa/)
+
+* [Fear of Public Speaking: Never Fear Public Speaking Again](https://coursemetry.com/fear-of-public-speaking-never-fear-public-speaking-again/)
+
+* [Python Financial Analysis: Investment & Data Fundamentals](https://coursemetry.com/python-financial-analysis-investment-data-fundamentals/)
+
+* [Apprendre AutoCAD 2023 en 1h: Maîtrisez les Bases Rapidement](https://coursemetry.com/apprendre-autocad-2023-en-1h-maitrisez-les-bases-rapidement/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [Project Finance Fundamentals | Infrastructure & Energy](https://coursemetry.com/project-finance-fundamentals-infrastructure-energy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
