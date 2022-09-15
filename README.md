@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **99 Udemy free courses published so far on 2022-09-15**
+## **113 Udemy free courses published so far on 2022-09-15**
 
 * [Altcoins - Investing In Altcoins & ICOs!](https://coursemetry.com/altcoins-investing-in-altcoins-icos/)
 
@@ -201,6 +201,34 @@
 * [Complete course in AutoCAD : 2D and 3D](https://coursemetry.com/complete-course-in-autocad-2d-and-3d/)
 
 * [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [Ethical Hacking - Port Scan com Ferramentas Online e Offline](https://coursemetry.com/ethical-hacking-port-scan-com-ferramentas-online-e-offline/)
+
+* [YouTube Podcast Marketing For Natural Health Practitioners](https://coursemetry.com/youtube-podcast-marketing-for-natural-health-practitioners/)
+
+* [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
+
+* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners/)
+
+* [Linux Command Line Terminal Basic for Beginners (In Hindi)](https://coursemetry.com/linux-command-line-terminal-basic-for-beginners-in-hindi/)
+
+* [Disciplined Agile Senior Scrum Master (DASSM) Exam Prep](https://coursemetry.com/disciplined-agile-senior-scrum-master-dassm-exam-prep/)
+
+* [Real time Automation+Manual Interview Questions with Answers](https://coursemetry.com/real-time-automationmanual-interview-questions-with-answers/)
+
+* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
+
+* [AWS Certified SysOps Administrator Practice Tests [New 2022]](https://coursemetry.com/aws-certified-sysops-administrator-practice-tests-new-2022/)
+
+* [PL-300: Microsoft Power BI Data Analyst Practice Tests 2022](https://coursemetry.com/pl-300-microsoft-power-bi-data-analyst-practice-tests-2022/)
+
+* [Técnicas para la creación de elementos 3D para Videojuegos](https://coursemetry.com/tecnicas-para-la-creacion-de-elementos-3d-para-videojuegos/)
+
+* [React Guide - Build a TicTacToe App using React Native!](https://coursemetry.com/react-guide-build-a-tictactoe-app-using-react-native/)
+
+* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
+
+* [Launch Your Live Show!](https://coursemetry.com/launch-your-live-show/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
