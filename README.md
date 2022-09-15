@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-09-15**
+## **99 Udemy free courses published so far on 2022-09-15**
 
 * [Altcoins - Investing In Altcoins & ICOs!](https://coursemetry.com/altcoins-investing-in-altcoins-icos/)
 
@@ -155,6 +155,52 @@
 * [Artificial Intelligence in industry & business - Basic level](https://coursemetry.com/artificial-intelligence-in-industry-business-basic-level/)
 
 * [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
+
+* [How to Make an Ecommerce Website with WordPress Part 1](https://coursemetry.com/how-to-make-an-ecommerce-website-with-wordpress-part-1/)
+
+* [Work and Mechanical Energy](https://coursemetry.com/work-and-mechanical-energy/)
+
+* [Getting Started with RPA](https://coursemetry.com/getting-started-with-rpa/)
+
+* [Aussie Time Sheets - Lite Software with DIY Face Scan Clock](https://coursemetry.com/aussie-time-sheets-lite-software-with-diy-face-scan-clock/)
+
+* [Photoshopの色調補正と画像補正に必要な基本知識を学ぼう](https://coursemetry.com/photoshop%e3%81%ae%e8%89%b2%e8%aa%bf%e8%a3%9c%e6%ad%a3%e3%81%a8%e7%94%bb%e5%83%8f%e8%a3%9c%e6%ad%a3%e3%81%ab%e5%bf%85%e8%a6%81%e3%81%aa%e5%9f%ba%e6%9c%ac%e7%9f%a5%e8%ad%98%e3%82%92%e5%ad%a6%e3%81%bc/)
+
+* [Basic Localization Terms And Acronyms Explained](https://coursemetry.com/basic-localization-terms-and-acronyms-explained/)
+
+* [Analysis of DC Electrical Circuits](https://coursemetry.com/analysis-of-dc-electrical-circuits/)
+
+* [How to Make an Ecommerce Website with WordPress Part 2](https://coursemetry.com/how-to-make-an-ecommerce-website-with-wordpress-part-2/)
+
+* [CSS & JavaScript - Certification Course for Beginners](https://coursemetry.com/css-javascript-certification-course-for-beginners/)
+
+* [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
+
+* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+
+* [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
+
+* [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners/)
+
+* [Bootcamp de Data Science com Python [+250 Exercícios][A-Z]](https://coursemetry.com/bootcamp-de-data-science-com-python-250-exerciciosa-z/)
+
+* [Komplett NFT-Kurs: Werden Sie ein NFT-Ersteller und-Investor](https://coursemetry.com/komplett-nft-kurs-werden-sie-ein-nft-ersteller-und-investor/)
+
+* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
+
+* [Web Development Masterclass - Online Certification Course](https://coursemetry.com/web-development-masterclass-online-certification-course/)
+
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
+
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+
+* [Learn XML-AJAX - For Beginners](https://coursemetry.com/learn-xml-ajax-for-beginners/)
+
+* [Complete course in AutoCAD : 2D and 3D](https://coursemetry.com/complete-course-in-autocad-2d-and-3d/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
