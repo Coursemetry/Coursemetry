@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published so far on 2022-09-15**
+## **120 Udemy free courses published so far on 2022-09-15**
 
 * [Altcoins - Investing In Altcoins & ICOs!](https://coursemetry.com/altcoins-investing-in-altcoins-icos/)
 
@@ -241,6 +241,8 @@
 * [Stop Waiting, Start Earning!  Set Up Your Fitness Business](https://coursemetry.com/stop-waiting-start-earning-set-up-your-fitness-business/)
 
 * [Secrets to Write a Copwriting that Sells like HOT Cakes!](https://coursemetry.com/secrets-to-write-a-copwriting-that-sells-like-hot-cakes/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
