@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **109 Udemy free courses published so far on 2022-09-17**
+## **115 Udemy free courses published so far on 2022-09-17**
 
 * [CSS, Bootstrap ,JavaScript, Web Development Course](https://coursemetry.com/css-bootstrap-javascript-web-development-course/)
 
@@ -221,6 +221,18 @@
 * [SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun](https://coursemetry.com/seo-training-for-beginners-learn-seo-local-seo-fast-fun/)
 
 * [AD’s Hacker 1.0: Growth Hacking Certification for Marketers](https://coursemetry.com/ads-hacker-1-0-growth-hacking-certification-for-marketers/)
+
+* [Diseñador Gráfico Digital nivel Pro! con Photoshop](https://coursemetry.com/disenador-grafico-digital-nivel-pro-con-photoshop/)
+
+* [The Ultimate Text-To-Video Creation Course (2022 Edition)](https://coursemetry.com/the-ultimate-text-to-video-creation-course-2022-edition/)
+
+* [[Dashboard Microsoft Excel] : Conception Tableau de bord](https://coursemetry.com/dashboard-microsoft-excel-conception-tableau-de-bord/)
+
+* [Killer ways to create and promote YouTube videos in 2022](https://coursemetry.com/killer-ways-to-create-and-promote-youtube-videos-in-2022/)
+
+* [The 150 Most Important Irregular Verbs in English. Volume 1](https://coursemetry.com/the-150-most-important-irregular-verbs-in-english-volume-1/)
+
+* [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
