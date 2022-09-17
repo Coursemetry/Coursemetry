@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **124 Udemy free courses published so far on 2022-09-17**
+## **142 Udemy free courses published so far on 2022-09-17**
 
 * [CSS, Bootstrap ,JavaScript, Web Development Course](https://coursemetry.com/css-bootstrap-javascript-web-development-course/)
 
@@ -251,6 +251,42 @@
 * [EXCEL para principiantes enfocado a los  negocios](https://coursemetry.com/excel-para-principiantes-enfocado-a-los-negocios/)
 
 * [English Vocabulary GRE | TOEFL |GMAT | CAT](https://coursemetry.com/english-vocabulary-gre-toefl-gmat-cat/)
+
+* [Explode Your Personal Training Business TODAY!](https://coursemetry.com/explode-your-personal-training-business-today/)
+
+* [Network + Practice Test](https://coursemetry.com/network-practice-test/)
+
+* [Learn 4 Steps to Make Money Online with Affiliate Marketing!](https://coursemetry.com/learn-4-steps-to-make-money-online-with-affiliate-marketing/)
+
+* [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [القواعد الأساسيه للإملاء](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d9%84%d8%a5%d9%85%d9%84%d8%a7%d8%a1/)
+
+* [Marketing Fundamentals: Introduction into Digital Marketing](https://coursemetry.com/marketing-fundamentals-introduction-into-digital-marketing/)
+
+* [1Z0-809 - Java SE 8 Programmer II Exam Practice Test 2022](https://coursemetry.com/1z0-809-java-se-8-programmer-ii-exam-practice-test-2022/)
+
+* [Mobile Device Management Expert Course (Special Edition)](https://coursemetry.com/mobile-device-management-expert-course-special-edition/)
+
+* [Complete FL Studio Megacourse: Beginner to Expert](https://coursemetry.com/complete-fl-studio-megacourse-beginner-to-expert/)
+
+* [Extreme Automation in Digital Marketing (2022 Edition)](https://coursemetry.com/extreme-automation-in-digital-marketing-2022-edition/)
+
+* [[2022] ACP-100 JIRA Server Administrator Exam Practice Tests](https://coursemetry.com/2022-acp-100-jira-server-administrator-exam-practice-tests/)
+
+* [Comic Creation for Entrepreneurs (2022 Edition)](https://coursemetry.com/comic-creation-for-entrepreneurs-2022-edition/)
+
+* [Learn Laravel RestFull api with React js using axios](https://coursemetry.com/learn-laravel-restfull-api-with-react-js-using-axios/)
+
+* [Kickoff Your Personal Trainer Business Today](https://coursemetry.com/kickoff-your-personal-trainer-business-today/)
+
+* [Absolute Beginners Guide to CFD simulation in ANSYS](https://coursemetry.com/absolute-beginners-guide-to-cfd-simulation-in-ansys/)
+
+* [Learn Java and Artificial Intelligence Programming Tools](https://coursemetry.com/learn-java-and-artificial-intelligence-programming-tools/)
+
+* [Sales Training: Ultimate Sales Training Program](https://coursemetry.com/sales-training-ultimate-sales-training-program/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
