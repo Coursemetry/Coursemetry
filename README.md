@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-09-17**
+## **109 Udemy free courses published so far on 2022-09-17**
 
 * [CSS, Bootstrap ,JavaScript, Web Development Course](https://coursemetry.com/css-bootstrap-javascript-web-development-course/)
 
@@ -198,11 +198,29 @@
 
 * [Google Sheets - جوجل شيت من الصفر للاحتراف](https://coursemetry.com/google-sheets-%d8%ac%d9%88%d8%ac%d9%84-%d8%b4%d9%8a%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
 
-* [Space Render 2.0: Transform your podcast into videos in 2022](https://coursemetry.com/space-render-2-0-transform-your-podcast-into-videos-in-2022/)
-
 * [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
 
 * [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
+
+* [Space Render 2.0: Transform your podcast into videos in 2022](https://coursemetry.com/space-render-2-0-transform-your-podcast-into-videos-in-2022/)
+
+* [Video Oasis: The Ultimate Live-Streaming Course (2022)](https://coursemetry.com/video-oasis-the-ultimate-live-streaming-course-2022/)
+
+* [Space Render 1.0: Artificial Intelligence in 3D Animation](https://coursemetry.com/space-render-1-0-artificial-intelligence-in-3d-animation/)
+
+* [Design Beautiful Animated Websites Incredibly Fast in 2022](https://coursemetry.com/design-beautiful-animated-websites-incredibly-fast-in-2022/)
+
+* [IELTS Band 8: IELTS Listening Mastery | IELTS Tenses](https://coursemetry.com/ielts-band-8-ielts-listening-mastery-ielts-tenses/)
+
+* [Artificial Intelligence Expert Course + Live Class](https://coursemetry.com/artificial-intelligence-expert-course-live-class/)
+
+* [Invade Your Classroom with Digital Robot Teachers in 2022](https://coursemetry.com/invade-your-classroom-with-digital-robot-teachers-in-2022/)
+
+* [Learn Python and Artificial Intelligence (AI) Coding Tools](https://coursemetry.com/learn-python-and-artificial-intelligence-ai-coding-tools/)
+
+* [SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun](https://coursemetry.com/seo-training-for-beginners-learn-seo-local-seo-fast-fun/)
+
+* [AD’s Hacker 1.0: Growth Hacking Certification for Marketers](https://coursemetry.com/ads-hacker-1-0-growth-hacking-certification-for-marketers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
