@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published so far on 2022-09-18**
+## **81 Udemy free courses published so far on 2022-09-18**
 
 * [16+ Saate Hızlandırılmış Sıfırdan C Kodlama Eğitimi](https://coursemetry.com/16-saate-hizlandirilmis-sifirdan-c-kodlama-egitimi/)
 
@@ -133,6 +133,38 @@
 * [Financial Accounting-Adjusting Entries & Financial Statement](https://coursemetry.com/financial-accounting-adjusting-entries-financial-statement/)
 
 * [Creative Writing Course for Ecommerce & Ecommerce SEO Course](https://coursemetry.com/creative-writing-course-for-ecommerce-ecommerce-seo-course/)
+
+* [Microsoft AZ-104: Azure Administrator Exam Prep Test](https://coursemetry.com/microsoft-az-104-azure-administrator-exam-prep-test/)
+
+* [Ethical Hacking: boot2root CTF](https://coursemetry.com/ethical-hacking-boot2root-ctf/)
+
+* [Project Management for Beginners](https://coursemetry.com/project-management-for-beginners/)
+
+* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
+
+* [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
+
+* [Administrative and Office Assistant](https://coursemetry.com/administrative-and-office-assistant/)
+
+* [Ethical Hacking: Hacking with Python](https://coursemetry.com/ethical-hacking-hacking-with-python/)
+
+* [Learn Java and Python in One Course](https://coursemetry.com/learn-java-and-python-in-one-course/)
+
+* [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [Cyber Security: Master osquery](https://coursemetry.com/cyber-security-master-osquery/)
+
+* [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
+
+* [PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://coursemetry.com/pspo1-practice-tests-scrum-product-owner-certification-160q/)
+
+* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+
+* [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
+
+* [PMI-ACP: Agile Certified Project Management 200 Questions](https://coursemetry.com/pmi-acp-agile-certified-project-management-200-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
