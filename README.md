@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **81 Udemy free courses published so far on 2022-09-18**
+## **86 Udemy free courses published so far on 2022-09-18**
 
 * [16+ Saate Hızlandırılmış Sıfırdan C Kodlama Eğitimi](https://coursemetry.com/16-saate-hizlandirilmis-sifirdan-c-kodlama-egitimi/)
 
@@ -165,6 +165,16 @@
 * [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
 
 * [PMI-ACP: Agile Certified Project Management 200 Questions](https://coursemetry.com/pmi-acp-agile-certified-project-management-200-questions/)
+
+* [Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2022](https://coursemetry.com/write-2-sell-28-copywriting-templates-ecommerce-seo-2022/)
+
+* [OSINT: Content Discovery](https://coursemetry.com/osint-content-discovery/)
+
+* [Digistore 24 Provisionen erhöhen mit Cross Device Tracking](https://coursemetry.com/digistore-24-provisionen-erhohen-mit-cross-device-tracking/)
+
+* [Learn & Develop Winning Value Proposition for your business](https://coursemetry.com/learn-develop-winning-value-proposition-for-your-business/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
