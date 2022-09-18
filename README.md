@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **42 Udemy free courses published so far on 2022-09-18**
+## **44 Udemy free courses published so far on 2022-09-18**
 
 * [16+ Saate Hızlandırılmış Sıfırdan C Kodlama Eğitimi](https://coursemetry.com/16-saate-hizlandirilmis-sifirdan-c-kodlama-egitimi/)
 
@@ -87,6 +87,10 @@
 * [English for beginners - Master 'to be' to speak good English](https://coursemetry.com/english-for-beginners-master-to-be-to-speak-good-english/)
 
 * [StaticAndDefault-StaticRoutingOnCiscoRouters](https://coursemetry.com/staticanddefault-staticroutingonciscorouters/)
+
+* [QuickBooks Enterprise - Two Businesses & Personal in One](https://coursemetry.com/quickbooks-enterprise-two-businesses-personal-in-one/)
+
+* [Learn Python Scripting - Scripting Masterclass 2021](https://coursemetry.com/learn-python-scripting-scripting-masterclass-2021/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
