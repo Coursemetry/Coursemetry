@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published so far on 2022-09-18**
+## **110 Udemy free courses published so far on 2022-09-18**
 
 * [16+ Saate Hızlandırılmış Sıfırdan C Kodlama Eğitimi](https://coursemetry.com/16-saate-hizlandirilmis-sifirdan-c-kodlama-egitimi/)
 
@@ -215,6 +215,14 @@
 * [Learn JavaScript Programming in 7 Days](https://coursemetry.com/learn-javascript-programming-in-7-days/)
 
 * [Facebook Ads & Instagram Ads Course 2022 (Ready for iOS 14+)](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-ready-for-ios-14/)
+
+* [Learn CLO3D Fashion: Masterclass (Intermediate to Advanced)](https://coursemetry.com/learn-clo3d-fashion-masterclass-intermediate-to-advanced/)
+
+* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
+
+* [صيانة الحاسب للجميع](https://coursemetry.com/%d8%b5%d9%8a%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8-%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9/)
+
+* [Learning Programming  from Zero ( بالعربى )](https://coursemetry.com/learning-programming-from-zero-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%89/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
