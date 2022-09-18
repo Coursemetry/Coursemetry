@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published so far on 2022-09-18**
+## **106 Udemy free courses published so far on 2022-09-18**
 
 * [16+ Saate Hızlandırılmış Sıfırdan C Kodlama Eğitimi](https://coursemetry.com/16-saate-hizlandirilmis-sifirdan-c-kodlama-egitimi/)
 
@@ -175,6 +175,46 @@
 * [Learn & Develop Winning Value Proposition for your business](https://coursemetry.com/learn-develop-winning-value-proposition-for-your-business/)
 
 * [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [Curso WordPress 2022:  Cómo Crear una Página Web Desde Cero](https://coursemetry.com/curso-wordpress-2022-como-crear-una-pagina-web-desde-cero/)
+
+* [Azure AI Fundamentals Practice Test](https://coursemetry.com/azure-ai-fundamentals-practice-test/)
+
+* [SEO - The Complete SEO Course Beginners to Advanced 2022](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2022/)
+
+* [Certified Solutions Architect – Associate Practice Test](https://coursemetry.com/certified-solutions-architect-associate-practice-test/)
+
+* [Learn Python in 7 Days with Exercises and Assignments](https://coursemetry.com/learn-python-in-7-days-with-exercises-and-assignments/)
+
+* [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
+
+* [Car Flipping : The Art of Running Car Business - OCSALY 2022](https://coursemetry.com/car-flipping-the-art-of-running-car-business-ocsaly-2022/)
+
+* [Linear Algebra for Machine Learning](https://coursemetry.com/linear-algebra-for-machine-learning/)
+
+* [5 Projects In 5 Days - HTML, CSS, and JavaScript For Kids](https://coursemetry.com/5-projects-in-5-days-html-css-and-javascript-for-kids/)
+
+* [CSS Flexbox](https://coursemetry.com/css-flexbox/)
+
+* [Introduction to Unit Testing in Java](https://coursemetry.com/introduction-to-unit-testing-in-java/)
+
+* [How to build a smart chatbot](https://coursemetry.com/how-to-build-a-smart-chatbot/)
+
+* [Autodesk Revit Complete House design Steps](https://coursemetry.com/autodesk-revit-complete-house-design-steps/)
+
+* [Learn C++](https://coursemetry.com/learn-c/)
+
+* [Introduction to Drinking Water Treatment](https://coursemetry.com/introduction-to-drinking-water-treatment/)
+
+* [Learn 4 STEPS to Make Money Online by Blogging!](https://coursemetry.com/learn-4-steps-to-make-money-online-by-blogging/)
+
+* [Effective Time Management For Professionals](https://coursemetry.com/effective-time-management-for-professionals/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [Learn JavaScript Programming in 7 Days](https://coursemetry.com/learn-javascript-programming-in-7-days/)
+
+* [Facebook Ads & Instagram Ads Course 2022 (Ready for iOS 14+)](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-ready-for-ios-14/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
