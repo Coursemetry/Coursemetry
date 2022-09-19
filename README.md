@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **43 Udemy free courses published so far on 2022-09-19**
+## **65 Udemy free courses published so far on 2022-09-19**
 
 * [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
 
@@ -89,6 +89,50 @@
 * [Artificial Intelligence in Video Creation: Supreme Edition](https://coursemetry.com/artificial-intelligence-in-video-creation-supreme-edition/)
 
 * [Solidworks 2022; Sıfırdan Zirveye Bol Uygulamalı Eğitim Seti](https://coursemetry.com/solidworks-2022-sifirdan-zirveye-bol-uygulamali-egitim-seti/)
+
+* [Excel Accounting Problem](https://coursemetry.com/excel-accounting-problem/)
+
+* [Individual Retirement Accounts (IRAs) & Taxes](https://coursemetry.com/individual-retirement-accounts-iras-taxes/)
+
+* [Education Tax Credits & Education Tax Benefits](https://coursemetry.com/education-tax-credits-education-tax-benefits/)
+
+* [Artificial Neural Networks (ANN) with Keras in Python and R](https://coursemetry.com/artificial-neural-networks-ann-with-keras-in-python-and-r/)
+
+* [Tax & Adjusting Entry Year-End Accounting Excel Worksheet](https://coursemetry.com/tax-adjusting-entry-year-end-accounting-excel-worksheet/)
+
+* [QuickBooks Desktop Job Costing](https://coursemetry.com/quickbooks-desktop-job-costing/)
+
+* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
+
+* [Marketing Analytics: Forecasting Models with Excel](https://coursemetry.com/marketing-analytics-forecasting-models-with-excel/)
+
+* [Two QuickBooks File-Business & Personal vs One File For Both](https://coursemetry.com/two-quickbooks-file-business-personal-vs-one-file-for-both/)
+
+* [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
+
+* [Time Series Analysis and Forecasting using Python](https://coursemetry.com/time-series-analysis-and-forecasting-using-python/)
+
+* [Decision Trees, Random Forests, Bagging & XGBoost: R Studio](https://coursemetry.com/decision-trees-random-forests-bagging-xgboost-r-studio/)
+
+* [QuickBooks Desktop Not for Profit Organizations](https://coursemetry.com/quickbooks-desktop-not-for-profit-organizations/)
+
+* [Not-for-Profit Accounting-Charities, Colleges, & Health Care](https://coursemetry.com/not-for-profit-accounting-charities-colleges-health-care/)
+
+* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
+
+* [Build Complete 2022 CMS Blog in PHP MySQL Bootstrap & PDO](https://coursemetry.com/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/)
+
+* [QuickBooks Online Bank Reconciliation](https://coursemetry.com/quickbooks-online-bank-reconciliation/)
+
+* [Public Speaking: A tactical approach](https://coursemetry.com/public-speaking-a-tactical-approach/)
+
+* [QuickBooks Desktop Bank Reconciliation](https://coursemetry.com/quickbooks-desktop-bank-reconciliation/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [Instagram Marketing Course: Fastest ways to grow your page](https://coursemetry.com/instagram-marketing-course-fastest-ways-to-grow-your-page/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
