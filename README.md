@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **141 Udemy free courses published so far on 2022-09-19**
+## **160 Udemy free courses published so far on 2022-09-19**
 
 * [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
 
@@ -285,6 +285,44 @@
 * [Stock, Bond and Mutual Fund Investing](https://coursemetry.com/stock-bond-and-mutual-fund-investing/)
 
 * [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Shopify Guide: Start your own clothing brand with Shopify](https://coursemetry.com/shopify-guide-start-your-own-clothing-brand-with-shopify/)
+
+* [C Corporation Income Tax (Form 1120)](https://coursemetry.com/c-corporation-income-tax-form-1120/)
+
+* [Business Networking Part 9 - Attracting Your Ideal Client](https://coursemetry.com/business-networking-part-9-attracting-your-ideal-client/)
+
+* [Shopify guide: The complete shopify store creation course](https://coursemetry.com/shopify-guide-the-complete-shopify-store-creation-course/)
+
+* [Create Incredible Visual Graphics with Canva (2022 Edition)](https://coursemetry.com/create-incredible-visual-graphics-with-canva-2022-edition/)
+
+* [Complete Rhino Megacourse: Beginner to Expert](https://coursemetry.com/complete-rhino-megacourse-beginner-to-expert/)
+
+* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+
+* [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
+
+* [Improve English Vocabulary: Learn 3 Unique Methods](https://coursemetry.com/improve-english-vocabulary-learn-3-unique-methods/)
+
+* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+
+* [Learn Coding with Java from Scratch: Essential Training 2022](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2022/)
+
+* [Sellos de Salomón: 7 Pentáculos de Júpiter - Kabalá Práctica](https://coursemetry.com/sellos-de-salomon-7-pentaculos-de-jupiter-kabala-practica/)
+
+* [Learn English Grammar: Simplified Quick Grammarly concepts](https://coursemetry.com/learn-english-grammar-simplified-quick-grammarly-concepts/)
+
+* [Object-Oriented Programming with Python: Code Faster in 2022](https://coursemetry.com/object-oriented-programming-with-python-code-faster-in-2022/)
+
+* [Alibaba Product Sourcing For Amazon FBA in 2022](https://coursemetry.com/alibaba-product-sourcing-for-amazon-fba-in-2022/)
+
+* [Learn Communication Skills with Spoken English Proficiency](https://coursemetry.com/learn-communication-skills-with-spoken-english-proficiency/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [Engineering Drawing / Graphics : Hands-on training](https://coursemetry.com/engineering-drawing-graphics-hands-on-training/)
+
+* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
