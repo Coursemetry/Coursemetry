@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published so far on 2022-09-19**
+## **105 Udemy free courses published so far on 2022-09-19**
 
 * [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
 
@@ -133,6 +133,86 @@
 * [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
 
 * [Instagram Marketing Course: Fastest ways to grow your page](https://coursemetry.com/instagram-marketing-course-fastest-ways-to-grow-your-page/)
+
+* [How to Dress for a Successful Interview - WOMEN](https://coursemetry.com/how-to-dress-for-a-successful-interview-women/)
+
+* [Cryptomonnaie : Tutoriel complet exchange crypto FTX](https://coursemetry.com/cryptomonnaie-tutoriel-complet-exchange-crypto-ftx/)
+
+* [How to Dress for a Successful Interview - MEN](https://coursemetry.com/how-to-dress-for-a-successful-interview-men/)
+
+* [Career Planning Best Practices of Fortune 500 Leaders](https://coursemetry.com/career-planning-best-practices-of-fortune-500-leaders/)
+
+* [The Assertiveness and Negotiation Guide for Project Managers](https://coursemetry.com/the-assertiveness-and-negotiation-guide-for-project-managers/)
+
+* [Getting Started with Water Resources Management Using WEAP](https://coursemetry.com/getting-started-with-water-resources-management-using-weap/)
+
+* [Video Marketing | An Introduction](https://coursemetry.com/video-marketing-an-introduction/)
+
+* [Complete Inventory Management in Microsoft Excel &TALLY ERP9](https://coursemetry.com/complete-inventory-management-in-microsoft-excel-tally-erp9/)
+
+* [Financial Accounting-Debits & Credits-Accounting Transaction](https://coursemetry.com/financial-accounting-debits-credits-accounting-transaction/)
+
+* [Accounting-Bonds Payable, Notes Payable, Liabilities](https://coursemetry.com/accounting-bonds-payable-notes-payable-liabilities/)
+
+* [English placement test](https://coursemetry.com/english-placement-test/)
+
+* [Most Essential & Popular Excel Formulas And Functions - 2022](https://coursemetry.com/most-essential-popular-excel-formulas-and-functions-2022/)
+
+* [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
+
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+
+* [Complete Java Course Hindi - 2023](https://coursemetry.com/complete-java-course-hindi-2023/)
+
+* [Product Management :Agile Requirements using Product Backlog](https://coursemetry.com/product-management-agile-requirements-using-product-backlog/)
+
+* [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
+
+* [QuickBooks Online Not for Profit Organization](https://coursemetry.com/quickbooks-online-not-for-profit-organization/)
+
+* [Arabic Language Course: Learn to Read Arabic, Write & Listen](https://coursemetry.com/arabic-language-course-learn-to-read-arabic-write-listen/)
+
+* [Make YouTube Thumbnails & Get More Views (Photoshop +Online)](https://coursemetry.com/make-youtube-thumbnails-get-more-views-photoshop-online/)
+
+* [Build Your Own File Sharing Website](https://coursemetry.com/build-your-own-file-sharing-website/)
+
+* [Partnership Income Tax (Form 1065)](https://coursemetry.com/partnership-income-tax-form-1065/)
+
+* [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
+
+* [Futuristic Digital Marketing Course: 2022 Student Edition](https://coursemetry.com/futuristic-digital-marketing-course-2022-student-edition/)
+
+* [QuickBooks Payroll - QuickBooks Pro Desktop](https://coursemetry.com/quickbooks-payroll-quickbooks-pro-desktop/)
+
+* [Python Quiz - Interview Test in Data Science](https://coursemetry.com/python-quiz-interview-test-in-data-science/)
+
+* [Job Costing QuickBooks Online - Contractors](https://coursemetry.com/job-costing-quickbooks-online-contractors/)
+
+* [UX Design Masterclass by Erick](https://coursemetry.com/ux-design-masterclass-by-erick/)
+
+* [leadlovers: configurações, email, páginas, ead e integrações](https://coursemetry.com/leadlovers-configuracoes-email-paginas-ead-e-integracoes/)
+
+* [Personal Finance](https://coursemetry.com/personal-finance/)
+
+* [QuickBooks Pro Desktop -Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-business-easy-way/)
+
+* [Microsoft Office: Word, Excel, PowerPoint  من الصفر للاحتراف](https://coursemetry.com/microsoft-office-word-excel-powerpoint-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [YouTube Masterclass - Start your channel the Right Way](https://coursemetry.com/youtube-masterclass-start-your-channel-the-right-way/)
+
+* [S Corporation Income Tax - Form 1120S](https://coursemetry.com/s-corporation-income-tax-form-1120s/)
+
+* [Wave Accounting](https://coursemetry.com/wave-accounting/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [DP-100: Designing and Implementing a Data Science Solution](https://coursemetry.com/dp-100-designing-and-implementing-a-data-science-solution-2/)
+
+* [Personal Capital Free Financial Planner Application](https://coursemetry.com/personal-capital-free-financial-planner-application/)
+
+* [Job Order Costing System – Managerial Accounting](https://coursemetry.com/job-order-costing-system-managerial-accounting/)
+
+* [Ubuntu 22.04 HestiaCP Tutorial - Run WordPress on a VPS](https://coursemetry.com/ubuntu-22-04-hestiacp-tutorial-run-wordpress-on-a-vps/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
