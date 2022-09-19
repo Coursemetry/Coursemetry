@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **35 Udemy free courses published so far on 2022-09-19**
+## **43 Udemy free courses published so far on 2022-09-19**
 
 * [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
 
@@ -73,6 +73,22 @@
 * [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
 
 * [Probability for Machine Learning](https://coursemetry.com/probability-for-machine-learning/)
+
+* [Advanced Financial Accounting](https://coursemetry.com/advanced-financial-accounting/)
+
+* [Financial Accounting & Excel–Comprehensive Accounting Course](https://coursemetry.com/financial-accounting-excel-comprehensive-accounting-course/)
+
+* [HTML and CSS ( 2 in 1 ) course from zero for beginners 2022.](https://coursemetry.com/html-and-css-2-in-1-course-from-zero-for-beginners-2022/)
+
+* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+
+* [Income Tax – Schedule C Small Business Sole Proprietor](https://coursemetry.com/income-tax-schedule-c-small-business-sole-proprietor/)
+
+* [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
+
+* [Artificial Intelligence in Video Creation: Supreme Edition](https://coursemetry.com/artificial-intelligence-in-video-creation-supreme-edition/)
+
+* [Solidworks 2022; Sıfırdan Zirveye Bol Uygulamalı Eğitim Seti](https://coursemetry.com/solidworks-2022-sifirdan-zirveye-bol-uygulamali-egitim-seti/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
