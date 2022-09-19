@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-09-19**
+## **120 Udemy free courses published so far on 2022-09-19**
 
 * [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
 
@@ -213,6 +213,36 @@
 * [Job Order Costing System – Managerial Accounting](https://coursemetry.com/job-order-costing-system-managerial-accounting/)
 
 * [Ubuntu 22.04 HestiaCP Tutorial - Run WordPress on a VPS](https://coursemetry.com/ubuntu-22-04-hestiacp-tutorial-run-wordpress-on-a-vps/)
+
+* [The basics of Machine Learning](https://coursemetry.com/the-basics-of-machine-learning/)
+
+* [Complete Wordpress course for beginners in 2022](https://coursemetry.com/complete-wordpress-course-for-beginners-in-2022/)
+
+* [How to VLOG 2022 : Complete Beginners Course +YouTube](https://coursemetry.com/how-to-vlog-2022-complete-beginners-course-youtube/)
+
+* [Learn 'The Ultimate Sales Skills': Sales Training Course](https://coursemetry.com/learn-the-ultimate-sales-skills-sales-training-course/)
+
+* [The 150 Most Important Irregular Verbs in English. Volume 1](https://coursemetry.com/the-150-most-important-irregular-verbs-in-english-volume-1/)
+
+* [AZ-304: Microsoft Azure Architect Design Practice Questions](https://coursemetry.com/az-304-microsoft-azure-architect-design-practice-questions-3/)
+
+* [Graphic Design for Marketing - Brand Marketing Campaigns](https://coursemetry.com/graphic-design-for-marketing-brand-marketing-campaigns/)
+
+* [DP-900: Microsoft Azure Data Fundamentals Practice Questions](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-questions-2/)
+
+* [Learn to Edit Video FAST! Adobe Premiere Pro 2022 StepByStep](https://coursemetry.com/learn-to-edit-video-fast-adobe-premiere-pro-2022-stepbystep/)
+
+* [The Internet of Things (IoT): 2022 Trends and the Future](https://coursemetry.com/the-internet-of-things-iot-2022-trends-and-the-future/)
+
+* [Vue JS + Google Maps API: Ultimate Beginner's Friendly Guide](https://coursemetry.com/vue-js-google-maps-api-ultimate-beginners-friendly-guide/)
+
+* [Artificial Intelligence in SEO (2022 Extreme Edition)](https://coursemetry.com/artificial-intelligence-in-seo-2022-extreme-edition/)
+
+* [Mechanical Engineering - Sanitary Drainage System from A-Z](https://coursemetry.com/mechanical-engineering-sanitary-drainage-system-from-a-z/)
+
+* [Master in HTML & CSS Coding for Web Design](https://coursemetry.com/master-in-html-css-coding-for-web-design/)
+
+* [ICDL الرخصة الدولية لقيادة الحاسب الآلي](https://coursemetry.com/icdl-%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d9%84%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8-%d8%a7%d9%84%d8%a2%d9%84%d9%8a/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
