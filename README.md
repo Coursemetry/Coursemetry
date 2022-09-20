@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published so far on 2022-09-20**
+## **57 Udemy free courses published so far on 2022-09-20**
 
 * [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
 
@@ -111,6 +111,12 @@
 * [Effective Time Management Skills - Time Management Skills](https://coursemetry.com/effective-time-management-skills-time-management-skills/)
 
 * [DevOps & DevSecOps with Terraform, Kubernetes, Jenkins & AWS](https://coursemetry.com/devops-devsecops-with-terraform-kubernetes-jenkins-aws/)
+
+* [શીખો પાયથન પ્રોગ્રામિંગ ગુજરાતીમાં](https://coursemetry.com/%e0%aa%b6%e0%ab%80%e0%aa%96%e0%ab%8b-%e0%aa%aa%e0%aa%be%e0%aa%af%e0%aa%a5%e0%aa%a8-%e0%aa%aa%e0%ab%8d%e0%aa%b0%e0%ab%8b%e0%aa%97%e0%ab%8d%e0%aa%b0%e0%aa%be%e0%aa%ae%e0%aa%bf%e0%aa%82%e0%aa%97/)
+
+* [Il Massaggio nell'ultimo trimestre di gravidanza](https://coursemetry.com/il-massaggio-nellultimo-trimestre-di-gravidanza/)
+
+* [GSET Exam Mock Test](https://coursemetry.com/gset-exam-mock-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
