@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published so far on 2022-09-20**
+## **98 Udemy free courses published so far on 2022-09-20**
 
 * [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
 
@@ -117,6 +117,88 @@
 * [Il Massaggio nell'ultimo trimestre di gravidanza](https://coursemetry.com/il-massaggio-nellultimo-trimestre-di-gravidanza/)
 
 * [GSET Exam Mock Test](https://coursemetry.com/gset-exam-mock-test/)
+
+* [excel التعامل مع برنامج ميكروسوفت ايكسيل](https://coursemetry.com/excel-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%85%d9%84-%d9%85%d8%b9-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d9%85%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa-%d8%a7%d9%8a%d9%83%d8%b3%d9%8a%d9%84/)
+
+* [Copywriting: Persuasive Writing Ft. Two Forbes Writers](https://coursemetry.com/copywriting-persuasive-writing-ft-two-forbes-writers/)
+
+* [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
+
+* [Setup a Virtual Web Server using Linode or Digital Ocean](https://coursemetry.com/setup-a-virtual-web-server-using-linode-or-digital-ocean/)
+
+* [HTML, JavaScript, & Bootstrap - Certification Course](https://coursemetry.com/html-javascript-bootstrap-certification-course/)
+
+* [Google Looker Masterclass: Looker & LookML A-Z 2022](https://coursemetry.com/google-looker-masterclass-looker-lookml-a-z-2022/)
+
+* [ZEN: For Personal Development - Zen Teachings](https://coursemetry.com/zen-for-personal-development-zen-teachings/)
+
+* [Outstanding Customer Service - The Ultimate Guide!](https://coursemetry.com/outstanding-customer-service-the-ultimate-guide/)
+
+* [Microsoft Excel Masterclass (2016/2019) - Basic to Advanced](https://coursemetry.com/microsoft-excel-masterclass-2016-2019-basic-to-advanced/)
+
+* [Create a Members Only Blog using PHP, MySQL, & AJAX](https://coursemetry.com/create-a-members-only-blog-using-php-mysql-ajax/)
+
+* [Personal / Business Networking Skills For Maximum Success!](https://coursemetry.com/personal-business-networking-skills-for-maximum-success/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [NLP - Neuro Linguistic Programming - The COMPLETE NLP Course](https://coursemetry.com/nlp-neuro-linguistic-programming-the-complete-nlp-course/)
+
+* [Designing a Full Solar System (تصميم نظام شمسي متكامل)](https://coursemetry.com/designing-a-full-solar-system-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%86%d8%b8%d8%a7%d9%85-%d8%b4%d9%85%d8%b3%d9%8a-%d9%85%d8%aa%d9%83%d8%a7%d9%85%d9%84/)
+
+* [Practice Tests | AZ-500: Microsoft Azure Security Exam 2022](https://coursemetry.com/practice-tests-az-500-microsoft-azure-security-exam-2022/)
+
+* [Machine Learning & Deep Learning in Python & R](https://coursemetry.com/machine-learning-deep-learning-in-python-r/)
+
+* [Advanced Parenting Skills - BEST Parenting Course Ever!](https://coursemetry.com/advanced-parenting-skills-best-parenting-course-ever/)
+
+* [Artificial Intelligence Photo Colorisation Tools (2022)](https://coursemetry.com/artificial-intelligence-photo-colorisation-tools-2022/)
+
+* [Linux Tmux](https://coursemetry.com/linux-tmux/)
+
+* [Motivation - Motivating Yourself & Others (Self Motivation)](https://coursemetry.com/motivation-motivating-yourself-others-self-motivation/)
+
+* [Whiteboard Video Creation with VideoScribe (2022 Edition)](https://coursemetry.com/whiteboard-video-creation-with-videoscribe-2022-edition/)
+
+* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
+
+* [SEO Strategy 2022. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2022-seo-training-to-top-rank-your-website/)
+
+* [REBT - The Science Of Programming Your Mind! (REBT Therapy)](https://coursemetry.com/rebt-the-science-of-programming-your-mind-rebt-therapy/)
+
+* [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
+
+* [Digishock 2.0: Learn Machine Learning in 2022 (No Coding)](https://coursemetry.com/digishock-2-0-learn-machine-learning-in-2022-no-coding/)
+
+* [Practical Git: for Absolute Beginners](https://coursemetry.com/practical-git-for-absolute-beginners/)
+
+* [Digishock 1.0: Experience World-Changing Technologies](https://coursemetry.com/digishock-1-0-experience-world-changing-technologies/)
+
+* [Artificial Intelligence and the Future of Work (2022)](https://coursemetry.com/artificial-intelligence-and-the-future-of-work-2022/)
+
+* [Artificial Intelligence Powered Audiobook Creation Course](https://coursemetry.com/artificial-intelligence-powered-audiobook-creation-course/)
+
+* [Business Analyst Masterclass with Excel & Google Data Studio](https://coursemetry.com/business-analyst-masterclass-with-excel-google-data-studio/)
+
+* [Dealing With Difficult People In Life & Work - Powerful!](https://coursemetry.com/dealing-with-difficult-people-in-life-work-powerful/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [Machine Learning using Python](https://coursemetry.com/machine-learning-using-python/)
+
+* [Ultimate Persuasion Strategies! - Influence Tools & Skills](https://coursemetry.com/ultimate-persuasion-strategies-influence-tools-skills/)
+
+* [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
+
+* [Marketing Analytics: Customer Value and Promotion Strategy](https://coursemetry.com/marketing-analytics-customer-value-and-promotion-strategy/)
+
+* [MERN Stack with Blog Project](https://coursemetry.com/mern-stack-with-blog-project/)
+
+* [HTML, CSS, & JavaScript - Certification Course for Beginners](https://coursemetry.com/html-css-javascript-certification-course-for-beginners/)
+
+* [NGINX, Apache, SSL Encryption - Certification Course](https://coursemetry.com/nginx-apache-ssl-encryption-certification-course/)
+
+* [Introduction to Domain Names and Web Hosting - Quick Guide](https://coursemetry.com/introduction-to-domain-names-and-web-hosting-quick-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
