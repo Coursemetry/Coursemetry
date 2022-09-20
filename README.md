@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published so far on 2022-09-20**
+## **106 Udemy free courses published so far on 2022-09-20**
 
 * [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
 
@@ -199,6 +199,22 @@
 * [NGINX, Apache, SSL Encryption - Certification Course](https://coursemetry.com/nginx-apache-ssl-encryption-certification-course/)
 
 * [Introduction to Domain Names and Web Hosting - Quick Guide](https://coursemetry.com/introduction-to-domain-names-and-web-hosting-quick-guide/)
+
+* [Learn how to Install ERPNext on Ubuntu Server](https://coursemetry.com/learn-how-to-install-erpnext-on-ubuntu-server/)
+
+* [Marketing Analysis](https://coursemetry.com/marketing-analysis/)
+
+* [Laptop repair course: Master Laptop Motherboard Repairing](https://coursemetry.com/laptop-repair-course-master-laptop-motherboard-repairing/)
+
+* [4 in 1 Portuguese vocabulary course](https://coursemetry.com/4-in-1-portuguese-vocabulary-course/)
+
+* [Create After Effects templates for Adobe Premiere Pro](https://coursemetry.com/create-after-effects-templates-for-adobe-premiere-pro/)
+
+* [Adobe After Effects CC Máster de Cero a Experto v2022](https://coursemetry.com/adobe-after-effects-cc-master-de-cero-a-experto-v2022/)
+
+* [How to Build a WordPress Website (2022)](https://coursemetry.com/how-to-build-a-wordpress-website-2022/)
+
+* [Creating Paginated Reports from scratch](https://coursemetry.com/creating-paginated-reports-from-scratch/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
