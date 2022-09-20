@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **115 Udemy free courses published so far on 2022-09-20**
+## **123 Udemy free courses published so far on 2022-09-20**
 
 * [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
 
@@ -233,6 +233,22 @@
 * [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
 
 * [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [Aerospace Masterclass: Transonic Aerodynamics](https://coursemetry.com/aerospace-masterclass-transonic-aerodynamics/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Temel Farkındalık Eğitimi](https://coursemetry.com/temel-farkindalik-egitimi/)
+
+* [ISTQB Mobile Application Tester Mock Exams -2022 Updated](https://coursemetry.com/istqb-mobile-application-tester-mock-exams-2022-updated/)
+
+* [Aerospace Masterclass: Aircraft Design](https://coursemetry.com/aerospace-masterclass-aircraft-design/)
+
+* [The Complete Automation PyTest Course for 2022](https://coursemetry.com/the-complete-automation-pytest-course-for-2022/)
+
+* [Scrum Master Certification Exam Simulation - Latest 2022 !!](https://coursemetry.com/scrum-master-certification-exam-simulation-latest-2022/)
+
+* [The Expert’s Secret to Mobile Application Testing](https://coursemetry.com/the-experts-secret-to-mobile-application-testing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
