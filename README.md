@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-09-20**
+## **115 Udemy free courses published so far on 2022-09-20**
 
 * [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
 
@@ -219,6 +219,20 @@
 * [CSS And JavaScript Complete Course For Beginners](https://coursemetry.com/css-and-javascript-complete-course-for-beginners/)
 
 * [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
+
+* [Make Money From Home: 45 Work From Home Opportunities](https://coursemetry.com/make-money-from-home-45-work-from-home-opportunities/)
+
+* [Complete English Course: Master Native English for Beginners](https://coursemetry.com/complete-english-course-master-native-english-for-beginners/)
+
+* [Complete Cubase Megacourse: Beginner to Expert](https://coursemetry.com/complete-cubase-megacourse-beginner-to-expert/)
+
+* [Cursillo Excel Básico](https://coursemetry.com/cursillo-excel-basico/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
