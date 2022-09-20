@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **123 Udemy free courses published so far on 2022-09-20**
+## **134 Udemy free courses published so far on 2022-09-20**
 
 * [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
 
@@ -249,6 +249,28 @@
 * [Scrum Master Certification Exam Simulation - Latest 2022 !!](https://coursemetry.com/scrum-master-certification-exam-simulation-latest-2022/)
 
 * [The Expert’s Secret to Mobile Application Testing](https://coursemetry.com/the-experts-secret-to-mobile-application-testing/)
+
+* [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [Sales Funnel Masterclass: Master Sales Funnels in Marketing](https://coursemetry.com/sales-funnel-masterclass-master-sales-funnels-in-marketing/)
+
+* [JavaScript pour les débutants : Cours complet pour débutants](https://coursemetry.com/javascript-pour-les-debutants-cours-complet-pour-debutants/)
+
+* [Cinsel Terapi Cinsel Danışmanlık Koçluk Eğitimi Testleri](https://coursemetry.com/cinsel-terapi-cinsel-danismanlik-kocluk-egitimi-testleri/)
+
+* [Advanced Amazon KDP: SEO Keyword Research to Rank Number ONE](https://coursemetry.com/advanced-amazon-kdp-seo-keyword-research-to-rank-number-one/)
+
+* [Cost Accounting and Artificial Intelligence Tools (2022)](https://coursemetry.com/cost-accounting-and-artificial-intelligence-tools-2022/)
+
+* [Improve English by Listening Movies – 1c](https://coursemetry.com/improve-english-by-listening-movies-1c/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Ultra-Speed 3D Game Development using GameGuru (2022)](https://coursemetry.com/ultra-speed-3d-game-development-using-gameguru-2022/)
+
+* [Solar Specialist Certification Interview Practice Test 2022](https://coursemetry.com/solar-specialist-certification-interview-practice-test-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
