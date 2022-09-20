@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published so far on 2022-09-20**
+## **108 Udemy free courses published so far on 2022-09-20**
 
 * [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
 
@@ -215,6 +215,10 @@
 * [How to Build a WordPress Website (2022)](https://coursemetry.com/how-to-build-a-wordpress-website-2022/)
 
 * [Creating Paginated Reports from scratch](https://coursemetry.com/creating-paginated-reports-from-scratch/)
+
+* [CSS And JavaScript Complete Course For Beginners](https://coursemetry.com/css-and-javascript-complete-course-for-beginners/)
+
+* [Adobe Photoshop CC 2022 For Absolute Beginner to Advanced](https://coursemetry.com/adobe-photoshop-cc-2022-for-absolute-beginner-to-advanced/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
