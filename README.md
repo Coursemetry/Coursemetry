@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published so far on 2022-09-21**
+## **84 Udemy free courses published so far on 2022-09-21**
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
 
@@ -161,6 +161,16 @@
 * [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
 
 * [AWS Services for Solutions Architect Associate [2022]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2022/)
+
+* [Corporate Finance #7 Short Term Financing](https://coursemetry.com/corporate-finance-7-short-term-financing/)
+
+* [Corporate Finance #15 Dividend Policy](https://coursemetry.com/corporate-finance-15-dividend-policy/)
+
+* [Corp Finance #10 Cost of Capital–Debt & Equity Financing](https://coursemetry.com/corp-finance-10-cost-of-capital-debt-equity-financing/)
+
+* [Corporate Finance #5 Financing Decisions](https://coursemetry.com/corporate-finance-5-financing-decisions/)
+
+* [Corporate Finance #6 Management of Current Assets](https://coursemetry.com/corporate-finance-6-management-of-current-assets/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
