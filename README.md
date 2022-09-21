@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-09-21**
+## **119 Udemy free courses published so far on 2022-09-21**
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
 
@@ -219,6 +219,28 @@
 * [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
 
 * [Design Beautiful Animated Websites Incredibly Fast in 2022](https://coursemetry.com/design-beautiful-animated-websites-incredibly-fast-in-2022/)
+
+* [Corporate Finance #9 Valuation-Bond, Common /Preferred Stock](https://coursemetry.com/corporate-finance-9-valuation-bond-common-preferred-stock/)
+
+* [Corporate Finance #8 Time Value of Money (PV & FV)](https://coursemetry.com/corporate-finance-8-time-value-of-money-pv-fv/)
+
+* [Artificial Intelligence Photo Colorisation Tools (2022)](https://coursemetry.com/artificial-intelligence-photo-colorisation-tools-2022/)
+
+* [New-Age Technologies For Fitness Trainers (2022 Edition)](https://coursemetry.com/new-age-technologies-for-fitness-trainers-2022-edition/)
+
+* [Personal Finance #1 Goals, Planning, & Time Value of Money](https://coursemetry.com/personal-finance-1-goals-planning-time-value-of-money/)
+
+* [The Ultimate Content Marketing Quiz (2022 Edition)](https://coursemetry.com/the-ultimate-content-marketing-quiz-2022-edition/)
+
+* [Artificial Intelligence in App Creation: Beginners Edition](https://coursemetry.com/artificial-intelligence-in-app-creation-beginners-edition/)
+
+* [Advanced Artificial Intelligence in App Creation (2022)](https://coursemetry.com/advanced-artificial-intelligence-in-app-creation-2022/)
+
+* [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
+
+* [Ace your career with the Power of Artificial Intelligence](https://coursemetry.com/ace-your-career-with-the-power-of-artificial-intelligence/)
+
+* [Digital Marketing Course for Fitness Professionals (2022)](https://coursemetry.com/digital-marketing-course-for-fitness-professionals-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
