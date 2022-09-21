@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **84 Udemy free courses published so far on 2022-09-21**
+## **90 Udemy free courses published so far on 2022-09-21**
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
 
@@ -171,6 +171,18 @@
 * [Corporate Finance #5 Financing Decisions](https://coursemetry.com/corporate-finance-5-financing-decisions/)
 
 * [Corporate Finance #6 Management of Current Assets](https://coursemetry.com/corporate-finance-6-management-of-current-assets/)
+
+* [Python pour le Deep Learning & le Machine Learning: A à Z](https://coursemetry.com/python-pour-le-deep-learning-le-machine-learning-a-a-z/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
+
+* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
+
+* [SketchUp & Unreal "Modela en SketchUp y Renderiza en Unreal"](https://coursemetry.com/sketchup-unreal-modela-en-sketchup-y-renderiza-en-unreal/)
+
+* [Telegram Marketing Beginner to Advanced: Start+Grow+Monetize](https://coursemetry.com/telegram-marketing-beginner-to-advanced-startgrowmonetize/)
+
+* [American English Pronunciation for Beginners](https://coursemetry.com/american-english-pronunciation-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
