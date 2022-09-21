@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published so far on 2022-09-21**
+## **131 Udemy free courses published so far on 2022-09-21**
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
 
@@ -241,6 +241,30 @@
 * [Ace your career with the Power of Artificial Intelligence](https://coursemetry.com/ace-your-career-with-the-power-of-artificial-intelligence/)
 
 * [Digital Marketing Course for Fitness Professionals (2022)](https://coursemetry.com/digital-marketing-course-for-fitness-professionals-2022/)
+
+* [Cisco Certified Network Associate (CCNA) Exam 2022](https://coursemetry.com/cisco-certified-network-associate-ccna-exam-2022/)
+
+* [AWS Certified Cloud Practitioner Exam 2022](https://coursemetry.com/aws-certified-cloud-practitioner-exam-2022-2/)
+
+* [ETABS v19 & SAFE v16 in Villa Structural Design in UAE+CAD](https://coursemetry.com/etabs-v19-safe-v16-in-villa-structural-design-in-uaecad/)
+
+* [Etsy Printables Business Success - Step-By-Step Guide](https://coursemetry.com/etsy-printables-business-success-step-by-step-guide/)
+
+* [AWS Certified Solutions Architect - Professional Exam 2022](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-2022-2/)
+
+* [310-012 :  ACI Dealing Certificate Practice Test](https://coursemetry.com/310-012-aci-dealing-certificate-practice-test/)
+
+* [Chrome OS - Der Komplettkurs zum Thema Google Chromebooks!](https://coursemetry.com/chrome-os-der-komplettkurs-zum-thema-google-chromebooks/)
+
+* [Wordpress For Beginners](https://coursemetry.com/wordpress-for-beginners/)
+
+* [Flutter Bloc Pattern From Zero To Hero in Arabic | بالعربي](https://coursemetry.com/flutter-bloc-pattern-from-zero-to-hero-in-arabic-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [AWS Certified Developer - Associate Exam 2022](https://coursemetry.com/aws-certified-developer-associate-exam-2022/)
+
+* [Webinar Mastery - Sell High Ticket Products!](https://coursemetry.com/webinar-mastery-sell-high-ticket-products/)
+
+* [Strategic Ways to Build a Successful Business on Youtube!](https://coursemetry.com/strategic-ways-to-build-a-successful-business-on-youtube/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
