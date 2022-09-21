@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **145 Udemy free courses published so far on 2022-09-21**
+## **152 Udemy free courses published so far on 2022-09-21**
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
 
@@ -293,6 +293,20 @@
 * [Ciencia de datos con Python](https://coursemetry.com/ciencia-de-datos-con-python/)
 
 * [Uncle Rat's Web Application Hacking And Bug Bounty Guide](https://coursemetry.com/uncle-rats-web-application-hacking-and-bug-bounty-guide/)
+
+* [Aprende a crear tu web desde cero con HTML y CSS](https://coursemetry.com/aprende-a-crear-tu-web-desde-cero-con-html-y-css/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [The RedTeam Blueprint - A Unique Guide To Ethical Hacking](https://coursemetry.com/the-redteam-blueprint-a-unique-guide-to-ethical-hacking/)
+
+* [Hacking the Windows API with Python - Real Ethical Hacking](https://coursemetry.com/hacking-the-windows-api-with-python-real-ethical-hacking/)
+
+* [Breaching The Perimeter With Enterprise Phishing](https://coursemetry.com/breaching-the-perimeter-with-enterprise-phishing/)
+
+* [Master the English Irregular Verbs Once and For All](https://coursemetry.com/master-the-english-irregular-verbs-once-and-for-all/)
+
+* [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
