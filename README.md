@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **90 Udemy free courses published so far on 2022-09-21**
+## **108 Udemy free courses published so far on 2022-09-21**
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
 
@@ -183,6 +183,42 @@
 * [Telegram Marketing Beginner to Advanced: Start+Grow+Monetize](https://coursemetry.com/telegram-marketing-beginner-to-advanced-startgrowmonetize/)
 
 * [American English Pronunciation for Beginners](https://coursemetry.com/american-english-pronunciation-for-beginners/)
+
+* [Architectural Shop Drawing Plans in AutoCAD 2020](https://coursemetry.com/architectural-shop-drawing-plans-in-autocad-2020/)
+
+* [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
+
+* [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
+
+* [The PHP 8 Learning Guide [2022 Edition]](https://coursemetry.com/the-php-8-learning-guide-2022-edition/)
+
+* [SuperMinds: The Future of Artificial Intelligence (AI)](https://coursemetry.com/superminds-the-future-of-artificial-intelligence-ai/)
+
+* [The C++ Learning Guide](https://coursemetry.com/the-c-learning-guide/)
+
+* [AZ-104: Microsoft Azure Administrator Practice Tests (2022)](https://coursemetry.com/az-104-microsoft-azure-administrator-practice-tests-2022/)
+
+* [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
+
+* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [The Python and Django Learning Guide](https://coursemetry.com/the-python-and-django-learning-guide/)
+
+* [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
+
+* [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
+
+* [The Java Learning Guide](https://coursemetry.com/the-java-learning-guide/)
+
+* [The Complete Dart Learning Guide [2022 Edition]](https://coursemetry.com/the-complete-dart-learning-guide-2022-edition/)
+
+* [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
+
+* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+
+* [Design Beautiful Animated Websites Incredibly Fast in 2022](https://coursemetry.com/design-beautiful-animated-websites-incredibly-fast-in-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
