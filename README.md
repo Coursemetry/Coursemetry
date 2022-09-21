@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published so far on 2022-09-21**
+## **145 Udemy free courses published so far on 2022-09-21**
 
 * [Podcast Outsourcing](https://coursemetry.com/podcast-outsourcing/)
 
@@ -265,6 +265,34 @@
 * [Webinar Mastery - Sell High Ticket Products!](https://coursemetry.com/webinar-mastery-sell-high-ticket-products/)
 
 * [Strategic Ways to Build a Successful Business on Youtube!](https://coursemetry.com/strategic-ways-to-build-a-successful-business-on-youtube/)
+
+* [Git para desarrolladores](https://coursemetry.com/git-para-desarrolladores/)
+
+* [Numpy, libreria de Python para ciencia de datos](https://coursemetry.com/numpy-libreria-de-python-para-ciencia-de-datos/)
+
+* [Mechanical Engineering - Sanitary Drainage System from A-Z](https://coursemetry.com/mechanical-engineering-sanitary-drainage-system-from-a-z/)
+
+* [Introduccion a la Contabilidad](https://coursemetry.com/introduccion-a-la-contabilidad/)
+
+* [Crea tu propio juego con Python](https://coursemetry.com/crea-tu-propio-juego-con-python/)
+
+* [Make Money Online: Mindset Training + Real-Life Examples](https://coursemetry.com/make-money-online-mindset-training-real-life-examples/)
+
+* [Excel paso a paso](https://coursemetry.com/excel-paso-a-paso/)
+
+* [Programacion con Python](https://coursemetry.com/programacion-con-python/)
+
+* [Flask, desarrollo web con Python](https://coursemetry.com/flask-desarrollo-web-con-python/)
+
+* [Matematicas Financieras](https://coursemetry.com/matematicas-financieras/)
+
+* [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
+
+* [Programacion con Scratch, programando con bloques](https://coursemetry.com/programacion-con-scratch-programando-con-bloques/)
+
+* [Ciencia de datos con Python](https://coursemetry.com/ciencia-de-datos-con-python/)
+
+* [Uncle Rat's Web Application Hacking And Bug Bounty Guide](https://coursemetry.com/uncle-rats-web-application-hacking-and-bug-bounty-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
