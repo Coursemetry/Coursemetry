@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **75 Udemy free courses published so far on 2022-09-22**
+## **99 Udemy free courses published so far on 2022-09-22**
 
 * [AWS Certified Advanced Networking - Specialty Exam 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam-2022-2/)
 
@@ -153,6 +153,54 @@
 * [Learn Hacking Using Social Engineering](https://coursemetry.com/learn-hacking-using-social-engineering/)
 
 * [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [Operating System: Understanding the core](https://coursemetry.com/operating-system-understanding-the-core/)
+
+* [Facebook Ads Marketing Targeting Strategies ~Hindi 2022](https://coursemetry.com/facebook-ads-marketing-targeting-strategies-hindi-2022/)
+
+* [Veri Tabanı Yönetim Sistemleri Eğitimi (MSSQL)](https://coursemetry.com/veri-tabani-yonetim-sistemleri-egitimi-mssql/)
+
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
+
+* [Viral TikTok Stories: How to Go Viral & Get Traffic (Part 1)](https://coursemetry.com/viral-tiktok-stories-how-to-go-viral-get-traffic-part-1/)
+
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+
+* [Google My Business Masterclass](https://coursemetry.com/google-my-business-masterclass/)
+
+* [Csi ETABS in the Structural analysis of 15 stories+ basement](https://coursemetry.com/csi-etabs-in-the-structural-analysis-of-15-stories-basement/)
+
+* [Redis Database Tutorial](https://coursemetry.com/redis-database-tutorial/)
+
+* [Google Certified Professional Cloud Security Engineer](https://coursemetry.com/google-certified-professional-cloud-security-engineer/)
+
+* [Configuración y Optimizacion de tu Página de Facebook 2022](https://coursemetry.com/configuracion-y-optimizacion-de-tu-pagina-de-facebook-2022/)
+
+* [Google Certified Professional Cloud Architect Practice Exam](https://coursemetry.com/google-certified-professional-cloud-architect-practice-exam-2/)
+
+* [Google Cloud Professional Data Engineer Practice Questions](https://coursemetry.com/google-cloud-professional-data-engineer-practice-questions-2/)
+
+* [Apache Hive Interview Question and Answer (100+ FAQ)](https://coursemetry.com/apache-hive-interview-question-and-answer-100-faq/)
+
+* [How Websites Work](https://coursemetry.com/how-websites-work/)
+
+* [CSI ETABSV19 steel structure analysis and design](https://coursemetry.com/csi-etabsv19-steel-structure-analysis-and-design/)
+
+* [Company Registration In UK~ Make paypal & Stripe Business](https://coursemetry.com/company-registration-in-uk-make-paypal-stripe-business/)
+
+* [Google Professional Cloud Developer Exam 2022](https://coursemetry.com/google-professional-cloud-developer-exam-2022/)
+
+* [Learn Embarcadero Borland C++ Builder in 1 hour](https://coursemetry.com/learn-embarcadero-borland-c-builder-in-1-hour/)
+
+* [Google Professional Cloud Network Engineer Practice Exam](https://coursemetry.com/google-professional-cloud-network-engineer-practice-exam-2/)
+
+* [ITIL 4 Foundation Exam](https://coursemetry.com/itil-4-foundation-exam/)
+
+* [Curso de Base de Datos MariaDB Server](https://coursemetry.com/curso-de-base-de-datos-mariadb-server/)
+
+* [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
