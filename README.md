@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **119 Udemy free courses published so far on 2022-09-22**
+## **125 Udemy free courses published so far on 2022-09-22**
 
 * [AWS Certified Advanced Networking - Specialty Exam 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam-2022-2/)
 
@@ -241,6 +241,18 @@
 * [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
 
 * [Fedora Linux from Scratch](https://coursemetry.com/fedora-linux-from-scratch/)
+
+* [Practical Mentalism](https://coursemetry.com/practical-mentalism/)
+
+* [Learn The Power Of Subconscious Mind](https://coursemetry.com/learn-the-power-of-subconscious-mind/)
+
+* [How To Start Vlogging on YouTube - Vlogging Best Practices](https://coursemetry.com/how-to-start-vlogging-on-youtube-vlogging-best-practices/)
+
+* [Learn How To Get Things Done](https://coursemetry.com/learn-how-to-get-things-done/)
+
+* [Learn Wordpress Gutenberg](https://coursemetry.com/learn-wordpress-gutenberg/)
+
+* [Learn How To Start A Online Coaching Business](https://coursemetry.com/learn-how-to-start-a-online-coaching-business/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
