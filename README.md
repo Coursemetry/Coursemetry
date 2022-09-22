@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **146 Udemy free courses published so far on 2022-09-22**
+## **158 Udemy free courses published so far on 2022-09-22**
 
 * [AWS Certified Advanced Networking - Specialty Exam 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam-2022-2/)
 
@@ -295,6 +295,30 @@
 * [Unity3D Oyun Programlama](https://coursemetry.com/unity3d-oyun-programlama/)
 
 * [HTML5 Fundamentos](https://coursemetry.com/html5-fundamentos/)
+
+* [CPA Auditing and Attestation (AUD) Practice Test](https://coursemetry.com/cpa-auditing-and-attestation-aud-practice-test/)
+
+* [Systemische Problemlösung](https://coursemetry.com/systemische-problemlosung/)
+
+* [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
+
+* [3ds max Mental Ray Rendering Modulo 1](https://coursemetry.com/3ds-max-mental-ray-rendering-modulo-1/)
+
+* [EasyPy3: Python for Beginners](https://coursemetry.com/easypy3-python-for-beginners/)
+
+* [Network + Practice Test](https://coursemetry.com/network-practice-test/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [Women and Human Rights- Lessons from Pandemic](https://coursemetry.com/women-and-human-rights-lessons-from-pandemic/)
+
+* [HTML and CSS ( 2 in 1 ) course from zero for beginners 2022.](https://coursemetry.com/html-and-css-2-in-1-course-from-zero-for-beginners-2022/)
+
+* [Taller de Nómina Computarizada](https://coursemetry.com/taller-de-nomina-computarizada/)
+
+* [Certified Solutions Architect – Associate Practice Test](https://coursemetry.com/certified-solutions-architect-associate-practice-test/)
+
+* [A+ Core2 Practice Test](https://coursemetry.com/a-core2-practice-test/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
