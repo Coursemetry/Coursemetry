@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **59 Udemy free courses published so far on 2022-09-22**
+## **75 Udemy free courses published so far on 2022-09-22**
 
 * [AWS Certified Advanced Networking - Specialty Exam 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam-2022-2/)
 
@@ -121,6 +121,38 @@
 * [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
 
 * [Shopify Dropshipping From Paksitan ~ Yasir Ahmed MBA](https://coursemetry.com/shopify-dropshipping-from-paksitan-yasir-ahmed-mba/)
+
+* [Passive Income With U demy Courses HIndi](https://coursemetry.com/passive-income-with-u-demy-courses-hindi/)
+
+* [Dropshipping Shopify Store Creation like  Boss for Ecommerce](https://coursemetry.com/dropshipping-shopify-store-creation-like-boss-for-ecommerce/)
+
+* [Microsoft SQL Crash Course for Absolute Beginners](https://coursemetry.com/microsoft-sql-crash-course-for-absolute-beginners/)
+
+* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+
+* [Game Development with JavaScript for Beginners](https://coursemetry.com/game-development-with-javascript-for-beginners/)
+
+* [Learn SQLite For Absolute Beginners - Crash Course](https://coursemetry.com/learn-sqlite-for-absolute-beginners-crash-course/)
+
+* [Old age.](https://coursemetry.com/old-age/)
+
+* [Learn the Science of Fitness!](https://coursemetry.com/learn-the-science-of-fitness/)
+
+* [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+
+* [AWS-SysOps Administrator Exam 2022](https://coursemetry.com/aws-sysops-administrator-exam-2022/)
+
+* [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
+
+* [How to Overcome Shame & Improve Your Mental Health](https://coursemetry.com/how-to-overcome-shame-improve-your-mental-health/)
+
+* [Facebook Ads + Whatsapp Ads Marketing (CASE STUDY) HIndi](https://coursemetry.com/facebook-ads-whatsapp-ads-marketing-case-study-hindi/)
+
+* [Linux+ XK0-004 Practice Test](https://coursemetry.com/linux-xk0-004-practice-test/)
+
+* [Learn Hacking Using Social Engineering](https://coursemetry.com/learn-hacking-using-social-engineering/)
+
+* [Product Management Certification+Agile Product Owner+Scrum](https://coursemetry.com/product-management-certificationagile-product-ownerscrum/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
