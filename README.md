@@ -2,15 +2,13 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-09-22**
+## **146 Udemy free courses published so far on 2022-09-22**
 
 * [AWS Certified Advanced Networking - Specialty Exam 2022](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam-2022-2/)
 
 * [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
 
 * [3-) 3 Boyutlu Hayvan Çizimi- 3D Animal Drawing](https://coursemetry.com/3-3-boyutlu-hayvan-cizimi-3d-animal-drawing/)
-
-* [Make Passive Income 2022 - Self Publishing on Amazon KDP](https://coursemetry.com/make-passive-income-2022-self-publishing-on-amazon-kdp/)
 
 * [Excel Tips and trick : Learn MS Excel by making 7 Projects](https://coursemetry.com/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/)
 
@@ -253,6 +251,50 @@
 * [Learn Wordpress Gutenberg](https://coursemetry.com/learn-wordpress-gutenberg/)
 
 * [Learn How To Start A Online Coaching Business](https://coursemetry.com/learn-how-to-start-a-online-coaching-business/)
+
+* [AWS, JavaScript, React | Deploy Web Apps on the Cloud](https://coursemetry.com/aws-javascript-react-deploy-web-apps-on-the-cloud/)
+
+* [Criminology and Criminal Psychology | Certified CSI+ Course](https://coursemetry.com/criminology-and-criminal-psychology-certified-csi-course/)
+
+* [From zero to a wide knowledge of quantum physics (mechanics)](https://coursemetry.com/from-zero-to-a-wide-knowledge-of-quantum-physics-mechanics/)
+
+* [Trading options is WAY BETTER than trading stocks!](https://coursemetry.com/trading-options-is-way-better-than-trading-stocks/)
+
+* [Strategies for small trading accounts to create income](https://coursemetry.com/strategies-for-small-trading-accounts-to-create-income/)
+
+* [Digital Dropshipping: The new Business Model 2022](https://coursemetry.com/digital-dropshipping-the-new-business-model-2022/)
+
+* [Options Masterclass-Learn how to create daily income](https://coursemetry.com/options-masterclass-learn-how-to-create-daily-income/)
+
+* [HTML, JavaScript, & Bootstrap - Certification Course](https://coursemetry.com/html-javascript-bootstrap-certification-course/)
+
+* [Make Passive Income 2022 - Self Publishing on Amazon KDP](https://coursemetry.com/make-passive-income-2022-self-publishing-on-amazon-kdp/)
+
+* [CISSP Practice Test](https://coursemetry.com/cissp-practice-test/)
+
+* [Robot Structural Analysis (Steel Structure)](https://coursemetry.com/robot-structural-analysis-steel-structure/)
+
+* [Machine Learning | Sistema de recomendação com Python](https://coursemetry.com/machine-learning-sistema-de-recomendacao-com-python/)
+
+* [Investing 101 Made Super Easy for Beginners](https://coursemetry.com/investing-101-made-super-easy-for-beginners/)
+
+* [HTML, CSS, & JavaScript - Certification Course for Beginners](https://coursemetry.com/html-css-javascript-certification-course-for-beginners/)
+
+* [Security + Practice Test](https://coursemetry.com/security-practice-test/)
+
+* [How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://coursemetry.com/how-to-make-money-online-for-beginners-follow-proven-steps/)
+
+* [BBC Microbit within Python and Block-Coding Through Projects](https://coursemetry.com/bbc-microbit-within-python-and-block-coding-through-projects/)
+
+* [Build Real World Machine Learning Project](https://coursemetry.com/build-real-world-machine-learning-project/)
+
+* [Build Real World Data Science Project From Start](https://coursemetry.com/build-real-world-data-science-project-from-start/)
+
+* [ゼロから始めるJavascript](https://coursemetry.com/%e3%82%bc%e3%83%ad%e3%81%8b%e3%82%89%e5%a7%8b%e3%82%81%e3%82%8bjavascript/)
+
+* [Unity3D Oyun Programlama](https://coursemetry.com/unity3d-oyun-programlama/)
+
+* [HTML5 Fundamentos](https://coursemetry.com/html5-fundamentos/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
