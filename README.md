@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **87 Udemy free courses published so far on 2022-09-23**
+## **101 Udemy free courses published so far on 2022-09-23**
 
 * [Telegram Marketing Mindset for Pros: The 7 Success Secrets](https://coursemetry.com/telegram-marketing-mindset-for-pros-the-7-success-secrets/)
 
@@ -177,6 +177,34 @@
 * [Instagram Marketing 2021: Growth and Promotion on Instagram](https://coursemetry.com/instagram-marketing-2021-growth-and-promotion-on-instagram/)
 
 * [Master all the MS Excel Macros and the basics of Excel VBA](https://coursemetry.com/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/)
+
+* [Practice Tests | Comptia A+ Core 2 220-1001 Last Exams 2022](https://coursemetry.com/practice-tests-comptia-a-core-2-220-1001-last-exams-2022/)
+
+* [ITS 303 Python Certification Exam IT Specialist Preparation](https://coursemetry.com/its-303-python-certification-exam-it-specialist-preparation/)
+
+* [Python 3 Fundamentals : Learn Python With Real-World Coding](https://coursemetry.com/python-3-fundamentals-learn-python-with-real-world-coding/)
+
+* [Career Masterclass: Get Promoted Faster, Salary Negotiation](https://coursemetry.com/career-masterclass-get-promoted-faster-salary-negotiation/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [The Ultimate Charisma Guide for Men:Increase Your Influence](https://coursemetry.com/the-ultimate-charisma-guide-for-menincrease-your-influence/)
+
+* [MERN Stack with Blog Project](https://coursemetry.com/mern-stack-with-blog-project/)
+
+* [Complete Creative Writing Megacourse: Beginner to Expert](https://coursemetry.com/complete-creative-writing-megacourse-beginner-to-expert/)
+
+* [الكورس الشامل لاحتراف الوورد](https://coursemetry.com/%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%88%d9%88%d8%b1%d8%af/)
+
+* [Google Cloud Digital Leader Certification Practice Exam 2022](https://coursemetry.com/google-cloud-digital-leader-certification-practice-exam-2022/)
+
+* [Setup LAMP Stack on a Remote Cloud Server + PHP Foundations](https://coursemetry.com/setup-lamp-stack-on-a-remote-cloud-server-php-foundations/)
+
+* [AWS Data Analytics PRACTICE TESTS 2022 with explanations](https://coursemetry.com/aws-data-analytics-practice-tests-2022-with-explanations/)
+
+* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
+
+* [Niche Website Elementor WordPress Website blog tutorials](https://coursemetry.com/niche-website-elementor-wordpress-website-blog-tutorials/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
