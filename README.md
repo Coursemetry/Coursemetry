@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published so far on 2022-09-23**
+## **87 Udemy free courses published so far on 2022-09-23**
 
 * [Telegram Marketing Mindset for Pros: The 7 Success Secrets](https://coursemetry.com/telegram-marketing-mindset-for-pros-the-7-success-secrets/)
 
@@ -117,6 +117,66 @@
 * [Amazon Associates Mastery 2022 | Full Blueprint From 0 to 1!](https://coursemetry.com/amazon-associates-mastery-2022-full-blueprint-from-0-to-1/)
 
 * [Naming Systems using Blockchains: On-chain and Off-chain](https://coursemetry.com/naming-systems-using-blockchains-on-chain-and-off-chain/)
+
+* [Socio-Political Philosophy- An Introduction](https://coursemetry.com/socio-political-philosophy-an-introduction/)
+
+* [PCPP1 – Certified Professional in Python Programming 1](https://coursemetry.com/pcpp1-certified-professional-in-python-programming-1/)
+
+* [Fundamentals of Trigonometry](https://coursemetry.com/fundamentals-of-trigonometry/)
+
+* [Become Software Tester - A Complete Learning path to be a QA](https://coursemetry.com/become-software-tester-a-complete-learning-path-to-be-a-qa/)
+
+* [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
+
+* [Affiliate Networking Mastery 2022](https://coursemetry.com/affiliate-networking-mastery-2022/)
+
+* [Hitabet Sanatı - Etkili İletişim ve Güçlü Konuşma Teknikleri](https://coursemetry.com/hitabet-sanati-etkili-iletisim-ve-guclu-konusma-teknikleri/)
+
+* [Stress-free Effective Learning for Adults: Crush your goals!](https://coursemetry.com/stress-free-effective-learning-for-adults-crush-your-goals/)
+
+* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/)
+
+* [Digital Products Mastery 2022](https://coursemetry.com/digital-products-mastery-2022/)
+
+* [Ecommerce Mastery 2022](https://coursemetry.com/ecommerce-mastery-2022/)
+
+* [Web Design for Beginners: Build Websites in HTML & CSS 2022](https://coursemetry.com/web-design-for-beginners-build-websites-in-html-css-2022/)
+
+* [Yds-Yökdil ve Ydt için Gramer Öğren](https://coursemetry.com/yds-yokdil-ve-ydt-icin-gramer-ogren/)
+
+* [ITIL 4 Foundation Préparation Complète (NOUVELLE VERSION)](https://coursemetry.com/itil-4-foundation-preparation-complete-nouvelle-version/)
+
+* [WordPress for beginners: Best WordPress and marketing course](https://coursemetry.com/wordpress-for-beginners-best-wordpress-and-marketing-course/)
+
+* [Econometrics Course - Simplified Econometrics](https://coursemetry.com/econometrics-course-simplified-econometrics/)
+
+* [تعلم معالج النصوص & العروض التقديمية من الصفر للأحتراف](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%a7%d9%84%d9%86%d8%b5%d9%88%d8%b5-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b6-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%8a%d9%85%d9%8a%d8%a9-%d9%85%d9%86/)
+
+* [AutoCAD 2023 MasterClass: Produce Amazing Site Plans Quickly](https://coursemetry.com/autocad-2023-masterclass-produce-amazing-site-plans-quickly/)
+
+* [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2022](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2022/)
+
+* [Time Management for Professionals](https://coursemetry.com/time-management-for-professionals/)
+
+* [Microsoft Power BI DAX from Scratch](https://coursemetry.com/microsoft-power-bi-dax-from-scratch/)
+
+* [Data Analytics with Excel PivotTables](https://coursemetry.com/data-analytics-with-excel-pivottables/)
+
+* [Learn Forex the Easy Way](https://coursemetry.com/learn-forex-the-easy-way/)
+
+* [Intro to CardioVascular & CT Systems, Plain & Simple](https://coursemetry.com/intro-to-cardiovascular-ct-systems-plain-simple/)
+
+* [Basics of Microbiology](https://coursemetry.com/basics-of-microbiology/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [Brain Hacking Presentations Skills](https://coursemetry.com/brain-hacking-presentations-skills/)
+
+* [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
+
+* [Instagram Marketing 2021: Growth and Promotion on Instagram](https://coursemetry.com/instagram-marketing-2021-growth-and-promotion-on-instagram/)
+
+* [Master all the MS Excel Macros and the basics of Excel VBA](https://coursemetry.com/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
