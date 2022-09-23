@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **101 Udemy free courses published so far on 2022-09-23**
+## **117 Udemy free courses published so far on 2022-09-23**
 
 * [Telegram Marketing Mindset for Pros: The 7 Success Secrets](https://coursemetry.com/telegram-marketing-mindset-for-pros-the-7-success-secrets/)
 
@@ -205,6 +205,38 @@
 * [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
 
 * [Niche Website Elementor WordPress Website blog tutorials](https://coursemetry.com/niche-website-elementor-wordpress-website-blog-tutorials/)
+
+* [كورس حل كل اسئلة واختبارات اى كيو بالاجابات النموذجية](https://coursemetry.com/%d9%83%d9%88%d8%b1%d8%b3-%d8%ad%d9%84-%d9%83%d9%84-%d8%a7%d8%b3%d8%a6%d9%84%d8%a9-%d9%88%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%89-%d9%83%d9%8a%d9%88-%d8%a8%d8%a7%d9%84%d8%a7%d8%ac/)
+
+* [Enterprise Application Development Complete Course 2022](https://coursemetry.com/enterprise-application-development-complete-course-2022/)
+
+* [Azure AI Fundamentals (AI-900) Practice Test Questions](https://coursemetry.com/azure-ai-fundamentals-ai-900-practice-test-questions/)
+
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
+
+* [Explode Your Personal Training Business TODAY!](https://coursemetry.com/explode-your-personal-training-business-today/)
+
+* [اكسيل للموارد البشرية](https://coursemetry.com/%d8%a7%d9%83%d8%b3%d9%8a%d9%84-%d9%84%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af-%d8%a7%d9%84%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9/)
+
+* [Strategies for small trading accounts to create income](https://coursemetry.com/strategies-for-small-trading-accounts-to-create-income/)
+
+* [Earn More Money As An Expert In-Home Personal Trainer](https://coursemetry.com/earn-more-money-as-an-expert-in-home-personal-trainer/)
+
+* [احتراف ذكاء الاعمال عمليا من البداية للاحتراف Power BI](https://coursemetry.com/%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81-%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84-%d8%b9%d9%85%d9%84%d9%8a%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d9%84/)
+
+* [Software Engineering: Roles and Responsibilities Bootcamp](https://coursemetry.com/software-engineering-roles-and-responsibilities-bootcamp/)
+
+* [Konsep Dasar dalam Membuat Desain Game](https://coursemetry.com/konsep-dasar-dalam-membuat-desain-game/)
+
+* [A guide to High-Rise Building Design](https://coursemetry.com/a-guide-to-high-rise-building-design/)
+
+* [Python for Cybersecurity](https://coursemetry.com/python-for-cybersecurity/)
+
+* [Operating system concepts-2](https://coursemetry.com/operating-system-concepts-2/)
+
+* [Copywriting: Make Money From Home WRITING WORDS](https://coursemetry.com/copywriting-make-money-from-home-writing-words/)
+
+* [Analytical Thinking Best Practices of Fortune 500 Leaders](https://coursemetry.com/analytical-thinking-best-practices-of-fortune-500-leaders/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
