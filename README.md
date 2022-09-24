@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published so far on 2022-09-24**
+## **76 Udemy free courses published so far on 2022-09-24**
 
 * [Android Uygulama Geliştirme Kursu](https://coursemetry.com/android-uygulama-gelistirme-kursu/)
 
@@ -147,6 +147,14 @@
 * [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
 
 * [Software Engineering Career Bootcamp: From intern to CXO](https://coursemetry.com/software-engineering-career-bootcamp-from-intern-to-cxo/)
+
+* [Ethical Hacking and Cyber Security Masterclass | CSEH+ 2022](https://coursemetry.com/ethical-hacking-and-cyber-security-masterclass-cseh-2022/)
+
+* [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
+
+* [Certified Ethical Hacking Masterclass: Beginner to Advance](https://coursemetry.com/certified-ethical-hacking-masterclass-beginner-to-advance/)
+
+* [Travel Writing: How to become a Travel Writer](https://coursemetry.com/travel-writing-how-to-become-a-travel-writer/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
