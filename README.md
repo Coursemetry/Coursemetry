@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-09-24**
+## **103 Udemy free courses published so far on 2022-09-24**
 
 * [Android Uygulama Geliştirme Kursu](https://coursemetry.com/android-uygulama-gelistirme-kursu/)
 
@@ -197,6 +197,18 @@
 * [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
 
 * [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [2022 Java EE 7 Application Developer 1Z0-900 Practice Tests](https://coursemetry.com/2022-java-ee-7-application-developer-1z0-900-practice-tests/)
+
+* [Car Repair | Automotive Electrician and Mechanic Training |](https://coursemetry.com/car-repair-automotive-electrician-and-mechanic-training/)
+
+* [[2022] ACP-100 JIRA Server Administrator Exam Practice Tests](https://coursemetry.com/2022-acp-100-jira-server-administrator-exam-practice-tests/)
+
+* [[2022] AZ-303 Azure Architect Technologies 304 Practice Test](https://coursemetry.com/2022-az-303-azure-architect-technologies-304-practice-test/)
+
+* [The Complete SAP Analytics Cloud Course 2022](https://coursemetry.com/the-complete-sap-analytics-cloud-course-2022/)
+
+* [Management Consulting Essential Training](https://coursemetry.com/management-consulting-essential-training/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
