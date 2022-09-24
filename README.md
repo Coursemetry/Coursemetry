@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **44 Udemy free courses published so far on 2022-09-24**
+## **72 Udemy free courses published so far on 2022-09-24**
 
 * [Android Uygulama Geliştirme Kursu](https://coursemetry.com/android-uygulama-gelistirme-kursu/)
 
@@ -91,6 +91,62 @@
 * [2022 Unity الدورة الشاملة لصناعة الألعاب](https://coursemetry.com/2022-unity-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8/)
 
 * [11 Days Math Challenge : Master Basics of Mathematics](https://coursemetry.com/11-days-math-challenge-master-basics-of-mathematics/)
+
+* [Python for Beginners: Learn Programming in Python 3](https://coursemetry.com/python-for-beginners-learn-programming-in-python-3/)
+
+* [Learn Geometry: geometry for beginners](https://coursemetry.com/learn-geometry-geometry-for-beginners/)
+
+* [DaVinci Resolve: Video editing course for beginners](https://coursemetry.com/davinci-resolve-video-editing-course-for-beginners/)
+
+* [YouTube Masterclass - Start your channel the Right Way](https://coursemetry.com/youtube-masterclass-start-your-channel-the-right-way/)
+
+* [Microsoft Excel: Excel course for beginners](https://coursemetry.com/microsoft-excel-excel-course-for-beginners/)
+
+* [DaVinci Resolve 2022: Beginner to Advanced in DaVinci 18](https://coursemetry.com/davinci-resolve-2022-beginner-to-advanced-in-davinci-18/)
+
+* [Advanced ETABS V2019 52 stories Tower different seismic sys](https://coursemetry.com/advanced-etabs-v2019-52-stories-tower-different-seismic-sys/)
+
+* [The Complete B2B Sales Course: Lead Generation to Closing](https://coursemetry.com/the-complete-b2b-sales-course-lead-generation-to-closing/)
+
+* [Artificial Intelligence in Digital Marketing + Live Class](https://coursemetry.com/artificial-intelligence-in-digital-marketing-live-class/)
+
+* [Graphic Design Certification + Live Class](https://coursemetry.com/graphic-design-certification-live-class/)
+
+* [The Complete PowerPoint Design and Delivery Course for 2022](https://coursemetry.com/the-complete-powerpoint-design-and-delivery-course-for-2022/)
+
+* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
+
+* [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
+
+* [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
+
+* [Complete Algorithmic Trading Course - Forex, Stocks, Crypto](https://coursemetry.com/complete-algorithmic-trading-course-forex-stocks-crypto/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [SEO Training: Complete SEO Course & SEO Copywriting MASTERY](https://coursemetry.com/seo-training-complete-seo-course-seo-copywriting-mastery/)
+
+* [Java Network Programming - Mastering TCP/IP | CJNP+ 2022PRO](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022pro/)
+
+* [3D Animation Film-Making with Plotagon (2022 Edition)](https://coursemetry.com/3d-animation-film-making-with-plotagon-2022-edition/)
+
+* [Artificial Intelligence Music Creation (2022 New Edition)](https://coursemetry.com/artificial-intelligence-music-creation-2022-new-edition/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 5](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-5/)
+
+* [Complete Metasploit Course: Beginner to Advance](https://coursemetry.com/complete-metasploit-course-beginner-to-advance/)
+
+* [Event Management in 3D Virtual Worlds (2022 Grand Edition)](https://coursemetry.com/event-management-in-3d-virtual-worlds-2022-grand-edition/)
+
+* [AWS-Developer-Associate PRACTICE TESTS 2022 with explanation](https://coursemetry.com/aws-developer-associate-practice-tests-2022-with-explanation/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Software Engineering Career Bootcamp: From intern to CXO](https://coursemetry.com/software-engineering-career-bootcamp-from-intern-to-cxo/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
