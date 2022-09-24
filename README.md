@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **103 Udemy free courses published so far on 2022-09-24**
+## **106 Udemy free courses published so far on 2022-09-24**
 
 * [Android Uygulama Geliştirme Kursu](https://coursemetry.com/android-uygulama-gelistirme-kursu/)
 
@@ -209,6 +209,12 @@
 * [The Complete SAP Analytics Cloud Course 2022](https://coursemetry.com/the-complete-sap-analytics-cloud-course-2022/)
 
 * [Management Consulting Essential Training](https://coursemetry.com/management-consulting-essential-training/)
+
+* [Digital Dropshipping: Das NEUE Geschäftsmodell 2022](https://coursemetry.com/digital-dropshipping-das-neue-geschaftsmodell-2022/)
+
+* [Use Microsoft Word like a Pro (In Arabic)](https://coursemetry.com/use-microsoft-word-like-a-pro-in-arabic/)
+
+* [The Ultimate Flutter Course  (عربى)](https://coursemetry.com/the-ultimate-flutter-course-%d8%b9%d8%b1%d8%a8%d9%89/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
