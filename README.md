@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **36 Udemy free courses published so far on 2022-09-25**
+## **74 Udemy free courses published so far on 2022-09-25**
 
 * [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
 
@@ -75,6 +75,82 @@
 * [Web Ethical Hacking Bug Bounty Course](https://coursemetry.com/web-ethical-hacking-bug-bounty-course/)
 
 * [Improve English by Movies](https://coursemetry.com/improve-english-by-movies/)
+
+* [Auto Transcription-Caption-Subtitle-Premiere Pro Masterclass](https://coursemetry.com/auto-transcription-caption-subtitle-premiere-pro-masterclass/)
+
+* [Build Complete 2022 CMS Blog in PHP MySQL Bootstrap & PDO](https://coursemetry.com/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/)
+
+* [The Kali OS Uses In Cyber Security](https://coursemetry.com/the-kali-os-uses-in-cyber-security/)
+
+* [Instalación de Red Hat Enterprise Linux y derivados](https://coursemetry.com/instalacion-de-red-hat-enterprise-linux-y-derivados/)
+
+* [How To Play Ace-King!](https://coursemetry.com/how-to-play-ace-king/)
+
+* [Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://coursemetry.com/google-ads-youtube-ads-bing-ads-google-retargeting-guide/)
+
+* [Oracle Cloud Infrastructure OCI Basics and Fundamentals](https://coursemetry.com/oracle-cloud-infrastructure-oci-basics-and-fundamentals/)
+
+* [Learn How Does Ketogenic Diet Enhances Fat Loss](https://coursemetry.com/learn-how-does-ketogenic-diet-enhances-fat-loss/)
+
+* [Copywriting & SEO for Beginners: Complete Copywriting Course](https://coursemetry.com/copywriting-seo-for-beginners-complete-copywriting-course/)
+
+* [Overcome Insomnia and Improve Your Sleep Quality](https://coursemetry.com/overcome-insomnia-and-improve-your-sleep-quality/)
+
+* [Discover How To Live And Eat With Paleo Diet](https://coursemetry.com/discover-how-to-live-and-eat-with-paleo-diet/)
+
+* [2 Saatte Teknik Analiz](https://coursemetry.com/2-saatte-teknik-analiz/)
+
+* [How to Build A Passive Online Income With Kindle](https://coursemetry.com/how-to-build-a-passive-online-income-with-kindle/)
+
+* [Nmap Course For Penetration Testing](https://coursemetry.com/nmap-course-for-penetration-testing/)
+
+* [Mastering Coroutines in Unity](https://coursemetry.com/mastering-coroutines-in-unity/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Postgraduate Diploma: Digital Products Management](https://coursemetry.com/postgraduate-diploma-digital-products-management/)
+
+* [Master Visual Scripting in Unity by Making Advanced Games](https://coursemetry.com/master-visual-scripting-in-unity-by-making-advanced-games/)
+
+* [Google Professional Cloud DevOps Engineer | Practice Tests](https://coursemetry.com/google-professional-cloud-devops-engineer-practice-tests/)
+
+* [Reportings und Routineaufgaben mit Excel VBA automatisieren](https://coursemetry.com/reportings-und-routineaufgaben-mit-excel-vba-automatisieren/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Create a Scratch and Win Game in Unity](https://coursemetry.com/create-a-scratch-and-win-game-in-unity/)
+
+* [Best of Google SEO 2022: SEO & Copywriting Made Simple & Fun](https://coursemetry.com/best-of-google-seo-2022-seo-copywriting-made-simple-fun/)
+
+* [Solar Specialist Certification Interview Practice Test 2022](https://coursemetry.com/solar-specialist-certification-interview-practice-test-2022/)
+
+* [The 8 Habits of a Highly Effective Safety Culture](https://coursemetry.com/the-8-habits-of-a-highly-effective-safety-culture/)
+
+* [Git & GitHub Course [2022]](https://coursemetry.com/git-github-course-2022/)
+
+* [Stoksuz e-ticaret amazon](https://coursemetry.com/stoksuz-e-ticaret-amazon/)
+
+* [Power BI Fundamental - Do Básico ao Avançado](https://coursemetry.com/power-bi-fundamental-do-basico-ao-avancado/)
+
+* [Mainframe Technology [TSO/ISPF, JCL,VSAM,COBOL,DB2,CICS]](https://coursemetry.com/mainframe-technology-tso-ispf-jclvsamcoboldb2cics/)
+
+* [Mastering Chopin Etudes (Op. 10 No. 5) "Black Key Etude"](https://coursemetry.com/mastering-chopin-etudes-op-10-no-5-black-key-etude/)
+
+* [How to raise your level of consciousness](https://coursemetry.com/how-to-raise-your-level-of-consciousness/)
+
+* [Oracle Cloud Infrastructure OCI Logging Services](https://coursemetry.com/oracle-cloud-infrastructure-oci-logging-services/)
+
+* [Sıfırdan 3Ds max Mimari eğitim seti](https://coursemetry.com/sifirdan-3ds-max-mimari-egitim-seti/)
+
+* [Estrategias Pro de Targeting de Audiencia con Facebook Ads](https://coursemetry.com/estrategias-pro-de-targeting-de-audiencia-con-facebook-ads/)
+
+* [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
+
+* [AWS Certified Solutions Architect Associate - Practice Exam](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exam-4/)
+
+* [Exams & Detailed Explanations for ISTQB Agile Practice](https://coursemetry.com/exams-detailed-explanations-for-istqb-agile-practice/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
