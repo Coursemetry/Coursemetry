@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published so far on 2022-09-25**
+## **78 Udemy free courses published so far on 2022-09-25**
 
 * [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
 
@@ -151,6 +151,14 @@
 * [AWS Certified Solutions Architect Associate - Practice Exam](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exam-4/)
 
 * [Exams & Detailed Explanations for ISTQB Agile Practice](https://coursemetry.com/exams-detailed-explanations-for-istqb-agile-practice/)
+
+* [AWS and Linode: The Ultimate Guide to Cloud Computing [IaaS]](https://coursemetry.com/aws-and-linode-the-ultimate-guide-to-cloud-computing-iaas/)
+
+* [AWS Certified Security Specialty Practice Tests 2022](https://coursemetry.com/aws-certified-security-specialty-practice-tests-2022-5/)
+
+* [[PMP Exam Practice] - Project Management Professional (PMP)](https://coursemetry.com/pmp-exam-practice-project-management-professional-pmp/)
+
+* [Postman Crash Course | Learn API Testing in 50 minutes](https://coursemetry.com/postman-crash-course-learn-api-testing-in-50-minutes/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
