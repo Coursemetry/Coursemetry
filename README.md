@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published so far on 2022-09-25**
+## **36 Udemy free courses published so far on 2022-09-25**
 
 * [Hiring Process: Talent Management](https://coursemetry.com/hiring-process-talent-management/)
 
@@ -63,6 +63,18 @@
 * [Practical HTML5 Mastery Course](https://coursemetry.com/practical-html5-mastery-course/)
 
 * [Practical JavaScript & ES6 Mastery with Projects](https://coursemetry.com/practical-javascript-es6-mastery-with-projects/)
+
+* [PCPP1 – Certified Professional in Python Programming 1](https://coursemetry.com/pcpp1-certified-professional-in-python-programming-1/)
+
+* [Facebook Ads & Instagram Ads Course 2022 (Ready for iOS 14+)](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-ready-for-ios-14/)
+
+* [Systemisches Leadership](https://coursemetry.com/systemisches-leadership/)
+
+* [Cloud + Practice Test](https://coursemetry.com/cloud-practice-test/)
+
+* [Web Ethical Hacking Bug Bounty Course](https://coursemetry.com/web-ethical-hacking-bug-bounty-course/)
+
+* [Improve English by Movies](https://coursemetry.com/improve-english-by-movies/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
