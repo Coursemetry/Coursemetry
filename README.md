@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **122 Udemy free courses published so far on 2022-09-26**
+## **137 Udemy free courses published so far on 2022-09-26**
 
 * [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
 
@@ -247,6 +247,36 @@
 * [القواعد الاساسيه لعلم النحو](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d9%86%d8%ad%d9%88/)
 
 * [القواعد الأساسيه للإملاء](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d9%84%d8%a5%d9%85%d9%84%d8%a7%d8%a1/)
+
+* [Curso Completo de Windows Terminal](https://coursemetry.com/curso-completo-de-windows-terminal/)
+
+* [Fundamentos de Windows Scripting](https://coursemetry.com/fundamentos-de-windows-scripting/)
+
+* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+
+* [Learn Coding with Java from Scratch: Essential Training 2022](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2022/)
+
+* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+
+* [The R Programming For Data Science A-Z Complete Diploma 2022](https://coursemetry.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [Object-Oriented Programming with Python: Code Faster in 2022](https://coursemetry.com/object-oriented-programming-with-python-code-faster-in-2022/)
+
+* [Firebase for PHP (Laravel)](https://coursemetry.com/firebase-for-php-laravel/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+
+* [Curso Completo de Computación [versión Windows]](https://coursemetry.com/curso-completo-de-computacion-version-windows/)
+
+* [Curso Completo de Windows 10](https://coursemetry.com/curso-completo-de-windows-10/)
+
+* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [Curso de Administración Avanzada de Windows](https://coursemetry.com/curso-de-administracion-avanzada-de-windows/)
+
+* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
