@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published so far on 2022-09-26**
+## **63 Udemy free courses published so far on 2022-09-26**
 
 * [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
 
@@ -113,6 +113,22 @@
 * [Partnership Income Tax (Form 1065)](https://coursemetry.com/partnership-income-tax-form-1065/)
 
 * [C Corporation Income Tax (Form 1120)](https://coursemetry.com/c-corporation-income-tax-form-1120/)
+
+* [Markdown: GitHub pages, Websites and Blogs using markdown](https://coursemetry.com/markdown-github-pages-websites-and-blogs-using-markdown/)
+
+* [【After Effects Life : 菜逼巴到某甘丹】](https://coursemetry.com/%e3%80%90after-effects-life-%e8%8f%9c%e9%80%bc%e5%b7%b4%e5%88%b0%e6%9f%90%e7%94%98%e4%b8%b9%e3%80%91/)
+
+* [SQL/PostgreSQL Crash Course for Absolute Beginners](https://coursemetry.com/sql-postgresql-crash-course-for-absolute-beginners/)
+
+* [NumPy for Data Science and Machine Learning in Python](https://coursemetry.com/numpy-for-data-science-and-machine-learning-in-python/)
+
+* [Podcast With NLP for High Audience Growth](https://coursemetry.com/podcast-with-nlp-for-high-audience-growth/)
+
+* [Google Office: Docs, Sheets, Slides  من الصفر للاحتراف](https://coursemetry.com/google-office-docs-sheets-slides-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Problem Solving - Simplified](https://coursemetry.com/problem-solving-simplified/)
+
+* [Reverse Anti-Aging](https://coursemetry.com/reverse-anti-aging/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
