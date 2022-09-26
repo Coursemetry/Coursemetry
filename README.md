@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-09-26**
+## **91 Udemy free courses published so far on 2022-09-26**
 
 * [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
 
@@ -129,6 +129,62 @@
 * [Problem Solving - Simplified](https://coursemetry.com/problem-solving-simplified/)
 
 * [Reverse Anti-Aging](https://coursemetry.com/reverse-anti-aging/)
+
+* [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
+
+* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
+
+* [Web Application Hacking Course For Beginners](https://coursemetry.com/web-application-hacking-course-for-beginners/)
+
+* [Projelerle JAVA Eğitimi](https://coursemetry.com/projelerle-java-egitimi/)
+
+* [Basics Mobile Ethical Hacking Course](https://coursemetry.com/basics-mobile-ethical-hacking-course/)
+
+* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+
+* [Planung und Forecast mit Excel](https://coursemetry.com/planung-und-forecast-mit-excel/)
+
+* [Flexible Budgets, Standard Costs, & Variance Analysis](https://coursemetry.com/flexible-budgets-standard-costs-variance-analysis/)
+
+* [2023 Amazon FBA Product Hunting & KW Research in 60 minutes](https://coursemetry.com/2023-amazon-fba-product-hunting-kw-research-in-60-minutes/)
+
+* [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
+
+* [Space Render Classic Edition: Create Live Audio-Rooms (2022)](https://coursemetry.com/space-render-classic-edition-create-live-audio-rooms-2022/)
+
+* [Software Engineering: Coding interview + Daily Engineering](https://coursemetry.com/software-engineering-coding-interview-daily-engineering/)
+
+* [Market Research | Complete Marketing Research Course 2022](https://coursemetry.com/market-research-complete-marketing-research-course-2022/)
+
+* [AutoCAD 2023 MasterClass: Produce Amazing Site Plans Quickly](https://coursemetry.com/autocad-2023-masterclass-produce-amazing-site-plans-quickly/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [NGINX Web Server from Scratch](https://coursemetry.com/nginx-web-server-from-scratch/)
+
+* [Artificial Intelligence in Web Design + Live Class](https://coursemetry.com/artificial-intelligence-in-web-design-live-class/)
+
+* [210+ Exercises - Python Standard Libraries - 2022](https://coursemetry.com/210-exercises-python-standard-libraries-2022/)
+
+* [Observability at Scale](https://coursemetry.com/observability-at-scale/)
+
+* [Financial Management - Preparing for Adulthood](https://coursemetry.com/financial-management-preparing-for-adulthood/)
+
+* [Docker and Kubernetes for React JS developers 2022](https://coursemetry.com/docker-and-kubernetes-for-react-js-developers-2022/)
+
+* [Cost Monitoring & Insights with Kubecost & Infracost](https://coursemetry.com/cost-monitoring-insights-with-kubecost-infracost/)
+
+* [DevOps Incident Management](https://coursemetry.com/devops-incident-management/)
+
+* [Assembler - Mainframe - HLASM](https://coursemetry.com/assembler-mainframe-hlasm/)
+
+* [Minicurso Power BI - Construa seu Dashboard](https://coursemetry.com/minicurso-power-bi-construa-seu-dashboard/)
+
+* [Arduino 2](https://coursemetry.com/arduino-2/)
+
+* [Scripting practices with Python and Blender](https://coursemetry.com/scripting-practices-with-python-and-blender/)
+
+* [Curso completo de HTML5 y CSS3 en español](https://coursemetry.com/curso-completo-de-html5-y-css3-en-espanol/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
