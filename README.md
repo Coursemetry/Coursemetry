@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-09-26**
+## **119 Udemy free courses published so far on 2022-09-26**
 
 * [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
 
@@ -185,6 +185,62 @@
 * [Scripting practices with Python and Blender](https://coursemetry.com/scripting-practices-with-python-and-blender/)
 
 * [Curso completo de HTML5 y CSS3 en español](https://coursemetry.com/curso-completo-de-html5-y-css3-en-espanol/)
+
+* [List Building Supercharge Class (build your list & monetize)](https://coursemetry.com/list-building-supercharge-class-build-your-list-monetize/)
+
+* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
+
+* [Building an Email List in 30 Days Challenge - A to Z Plan](https://coursemetry.com/building-an-email-list-in-30-days-challenge-a-to-z-plan/)
+
+* [Procedimientos almacenados en PostgreSQL (PL/PgSQL)](https://coursemetry.com/procedimientos-almacenados-en-postgresql-pl-pgsql/)
+
+* [Test Preperation Course For CEH](https://coursemetry.com/test-preperation-course-for-ceh/)
+
+* [Publish Simple Videos For a Living - Skillshare Earnings](https://coursemetry.com/publish-simple-videos-for-a-living-skillshare-earnings/)
+
+* [Xero Job Costing – Projects](https://coursemetry.com/xero-job-costing-projects/)
+
+* [Practice Tests for (SHRM-CP/SCP) Exams](https://coursemetry.com/practice-tests-for-shrm-cp-scp-exams/)
+
+* [QuickBooks Enterprise - Two Businesses & Personal in One](https://coursemetry.com/quickbooks-enterprise-two-businesses-personal-in-one/)
+
+* [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
+
+* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
+
+* [Ethical Hacking: nmap in depth](https://coursemetry.com/ethical-hacking-nmap-in-depth/)
+
+* [DIETA KETO y LONGEVIDAD de Principiante a HEROE](https://coursemetry.com/dieta-keto-y-longevidad-de-principiante-a-heroe/)
+
+* [Gatsby JS | Build a personal blog using gatsbyJS](https://coursemetry.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/)
+
+* [Learn ASP.NET MVC and Entity Framework (Database First)](https://coursemetry.com/learn-asp-net-mvc-and-entity-framework-database-first/)
+
+* [Bjorn App android publicitaria en Xamarin forms y Firebase](https://coursemetry.com/bjorn-app-android-publicitaria-en-xamarin-forms-y-firebase/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [See 27 Ways to Make Money Online with Your Smartphone!](https://coursemetry.com/see-27-ways-to-make-money-online-with-your-smartphone/)
+
+* [Understand depression. Overcome it.](https://coursemetry.com/understand-depression-overcome-it/)
+
+* [Pandas for Data Analysis in Python](https://coursemetry.com/pandas-for-data-analysis-in-python/)
+
+* [Bash Scripting Basics](https://coursemetry.com/bash-scripting-basics/)
+
+* [Entrepreneurship - Ft. Matthew Rolnick of Yaymaker, Groupon](https://coursemetry.com/entrepreneurship-ft-matthew-rolnick-of-yaymaker-groupon/)
+
+* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [Internet and Web Development Fundamentals](https://coursemetry.com/internet-and-web-development-fundamentals/)
+
+* [Complete Voice Training Megacourse: Beginner to Expert](https://coursemetry.com/complete-voice-training-megacourse-beginner-to-expert/)
+
+* [Finding the Best Position to Receive the Ball in Midfield](https://coursemetry.com/finding-the-best-position-to-receive-the-ball-in-midfield/)
+
+* [Complete Italian Course: Learning Italian for Beginners 2022](https://coursemetry.com/complete-italian-course-learning-italian-for-beginners-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
