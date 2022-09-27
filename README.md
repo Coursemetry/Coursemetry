@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **128 Udemy free courses published so far on 2022-09-27**
+## **154 Udemy free courses published so far on 2022-09-27**
 
 * [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
 
@@ -259,6 +259,58 @@
 * [Create snake with Python PyGame](https://coursemetry.com/create-snake-with-python-pygame/)
 
 * [Ethical Hacking: Network Attacks](https://coursemetry.com/ethical-hacking-network-attacks/)
+
+* [QuickBooks Desktop Multiple Currencies](https://coursemetry.com/quickbooks-desktop-multiple-currencies/)
+
+* [AWS Certified Cloud Practitioner - Practice Exam](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exam-2/)
+
+* [AWS SysOps Administrator Associate (SOA-C02) Exam 2022](https://coursemetry.com/aws-sysops-administrator-associate-soa-c02-exam-2022/)
+
+* [The Nmap Course](https://coursemetry.com/the-nmap-course/)
+
+* [AWS DevOps Engineer Professional - Pratice test 2022](https://coursemetry.com/aws-devops-engineer-professional-pratice-test-2022/)
+
+* [AWS Certified Advanced Networking Specialty - Pactice Exam](https://coursemetry.com/aws-certified-advanced-networking-specialty-pactice-exam/)
+
+* [The Wireshark Guide](https://coursemetry.com/the-wireshark-guide/)
+
+* [AWS Certified Solutions Architect - Professional Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-3/)
+
+* [ITIL 4 Foundation Practice Exam 2022](https://coursemetry.com/itil-4-foundation-practice-exam-2022/)
+
+* [Learn Just Enough Laravel to Get Started as a Web Developer](https://coursemetry.com/learn-just-enough-laravel-to-get-started-as-a-web-developer/)
+
+* [Cositas que se pueden hacer con Python](https://coursemetry.com/cositas-que-se-pueden-hacer-con-python/)
+
+* [The Complete ReactJs Course - Basics to Advanced [2022]](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2022/)
+
+* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+
+* [AWS Certified Solutions Architect Associate - Practice Exam](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exam-4/)
+
+* [How to Manage Stress in our life ?](https://coursemetry.com/how-to-manage-stress-in-our-life/)
+
+* [Treasury Management for Web3 Platforms](https://coursemetry.com/treasury-management-for-web3-platforms/)
+
+* [2022 Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-node-js-developer-practice-tests/)
+
+* [Professional in advance PHP Language - Practice Test](https://coursemetry.com/professional-in-advance-php-language-practice-test/)
+
+* [Certified Professional in C# Programming - Practice Test](https://coursemetry.com/certified-professional-in-c-programming-practice-test/)
+
+* [Certified Professional in PHP Language - Practice Test](https://coursemetry.com/certified-professional-in-php-language-practice-test/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [2022 Become A Certified React Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-react-developer-practice-tests/)
+
+* [Certified Professional in Python Programming - Practice Test](https://coursemetry.com/certified-professional-in-python-programming-practice-test/)
+
+* [2022 Become A Certified JavaScript Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-javascript-developer-practice-tests/)
+
+* [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
+
+* [Reading Japanese Candlesticks & Market Structures 2022](https://coursemetry.com/reading-japanese-candlesticks-market-structures-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
