@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **87 Udemy free courses published so far on 2022-09-27**
+## **118 Udemy free courses published so far on 2022-09-27**
 
 * [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
 
@@ -177,6 +177,68 @@
 * [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
 
 * [Weight Loss - Zero Cardio](https://coursemetry.com/weight-loss-zero-cardio/)
+
+* [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
+
+* [Dropshipping Shopify Store Creation like  Boss for Ecommerce](https://coursemetry.com/dropshipping-shopify-store-creation-like-boss-for-ecommerce/)
+
+* [Facebook Ads Marketing Crash Course Traffic & leads - 2022](https://coursemetry.com/facebook-ads-marketing-crash-course-traffic-leads-2022/)
+
+* [Google Ads Mastery~ Beginner To Pro  ~ HINDI/URDU 2022](https://coursemetry.com/google-ads-mastery-beginner-to-pro-hindi-urdu-2022/)
+
+* [Digital Marketing Business Online For Free Social Media 2022](https://coursemetry.com/digital-marketing-business-online-for-free-social-media-2022/)
+
+* [Ultimate Adobe Photoshop CC Masterclass Basics To Advanced](https://coursemetry.com/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/)
+
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
+
+* [ 3 BOYUTLU HAYVAN ÇİZİMİ - 3D ANİMAL DRAWİNG](https://coursemetry.com/3-boyutlu-hayvan-cizimi-3d-animal-drawing/)
+
+* [Learn Hacking Using Social Engineering](https://coursemetry.com/learn-hacking-using-social-engineering/)
+
+* [Google Spreadsheets: Empieza desde cero](https://coursemetry.com/google-spreadsheets-empieza-desde-cero/)
+
+* [Facebook Ads Marketing Targeting Strategies ~Hindi 2022](https://coursemetry.com/facebook-ads-marketing-targeting-strategies-hindi-2022/)
+
+* [Shopify Dropshipping From Paksitan ~ Yasir Ahmed MBA](https://coursemetry.com/shopify-dropshipping-from-paksitan-yasir-ahmed-mba/)
+
+* [Company Registration In UK~ Make paypal & Stripe Business](https://coursemetry.com/company-registration-in-uk-make-paypal-stripe-business/)
+
+* [Facebook Marketing & Facebook Ads Course For Beginners](https://coursemetry.com/facebook-marketing-facebook-ads-course-for-beginners/)
+
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+
+* [Facebook Ads + Whatsapp Ads Marketing (CASE STUDY) HIndi](https://coursemetry.com/facebook-ads-whatsapp-ads-marketing-case-study-hindi/)
+
+* [Vintage Invitation Promotional Poster Design on Canva.](https://coursemetry.com/vintage-invitation-promotional-poster-design-on-canva/)
+
+* [What's Your Moon Sign?](https://coursemetry.com/whats-your-moon-sign/)
+
+* [Hands-On Data Science: Build Real World Project](https://coursemetry.com/hands-on-data-science-build-real-world-project/)
+
+* [Learn Godot 3 from scratch with zero experience - 2D](https://coursemetry.com/learn-godot-3-from-scratch-with-zero-experience-2d/)
+
+* [Brilliant StartUp - Liderazgo para jóvenes profesionales](https://coursemetry.com/brilliant-startup-liderazgo-para-jovenes-profesionales/)
+
+* [The Art Of Persuasion](https://coursemetry.com/the-art-of-persuasion/)
+
+* [Master the English Irregular Verbs Once and For All](https://coursemetry.com/master-the-english-irregular-verbs-once-and-for-all/)
+
+* [APRENDE a crear HERRAMIENTAS de PENTESTING con PYTHON](https://coursemetry.com/aprende-a-crear-herramientas-de-pentesting-con-python/)
+
+* [UNIVERSIDAD DEEP WEB y DARK WEB](https://coursemetry.com/universidad-deep-web-y-dark-web/)
+
+* [Exploring VirBELA 3D University Campus (2022 Edition)](https://coursemetry.com/exploring-virbela-3d-university-campus-2022-edition/)
+
+* [Become a Leader Development Course | Leadership Development](https://coursemetry.com/become-a-leader-development-course-leadership-development/)
+
+* [Estrategias Pro de Targeting de Audiencia con Facebook Ads](https://coursemetry.com/estrategias-pro-de-targeting-de-audiencia-con-facebook-ads/)
+
+* [Facebook Ads & Facebook Marketing Funnel Crash Course- 2022](https://coursemetry.com/facebook-ads-facebook-marketing-funnel-crash-course-2022/)
+
+* [GOOGLE HACKING curso completo experto](https://coursemetry.com/google-hacking-curso-completo-experto/)
+
+* [Como crear y configurar tu canal de Youtube desde cero 2022](https://coursemetry.com/como-crear-y-configurar-tu-canal-de-youtube-desde-cero-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
