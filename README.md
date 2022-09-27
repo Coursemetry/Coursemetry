@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **118 Udemy free courses published so far on 2022-09-27**
+## **128 Udemy free courses published so far on 2022-09-27**
 
 * [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
 
@@ -239,6 +239,26 @@
 * [GOOGLE HACKING curso completo experto](https://coursemetry.com/google-hacking-curso-completo-experto/)
 
 * [Como crear y configurar tu canal de Youtube desde cero 2022](https://coursemetry.com/como-crear-y-configurar-tu-canal-de-youtube-desde-cero-2022/)
+
+* [JavaScript - Basics to Advanced step by step [2022]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2022/)
+
+* [Ethical Hacking: Pentesting Tools](https://coursemetry.com/ethical-hacking-pentesting-tools/)
+
+* [CSS - Basics to Adv for front end development [2022]](https://coursemetry.com/css-basics-to-adv-for-front-end-development-2022/)
+
+* [Ethical Hacking: nmap in depth](https://coursemetry.com/ethical-hacking-nmap-in-depth/)
+
+* [HTML5 - From Basics to Advanced level [2022]](https://coursemetry.com/html5-from-basics-to-advanced-level-2022/)
+
+* [UI/UX Design With Figma : 5+ Real World Projects(2022)](https://coursemetry.com/ui-ux-design-with-figma-5-real-world-projects2022/)
+
+* [Modern JavaScript for React JS - ES6 [2022]](https://coursemetry.com/modern-javascript-for-react-js-es6-2022/)
+
+* [Metasploit Framework Guide For Certified Hacking](https://coursemetry.com/metasploit-framework-guide-for-certified-hacking/)
+
+* [Create snake with Python PyGame](https://coursemetry.com/create-snake-with-python-pygame/)
+
+* [Ethical Hacking: Network Attacks](https://coursemetry.com/ethical-hacking-network-attacks/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
