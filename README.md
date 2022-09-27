@@ -2,281 +2,181 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **137 Udemy free courses published so far on 2022-09-26**
-
-* [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
-
-* [The Art Of Drawing Cartoon Comic Strips [NEW]](https://coursemetry.com/the-art-of-drawing-cartoon-comic-strips-new/)
-
-* [Time Management & Productivity for Effective Time Management](https://coursemetry.com/time-management-productivity-for-effective-time-management/)
-
-* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
-
-* [Job Order Costing System – Managerial Accounting](https://coursemetry.com/job-order-costing-system-managerial-accounting/)
-
-* [Cursillo Excel Básico](https://coursemetry.com/cursillo-excel-basico/)
-
-* [Topografía y Replanteos en Obras de Edificación](https://coursemetry.com/topografia-y-replanteos-en-obras-de-edificacion/)
-
-* [The Web Front End Learning Guide](https://coursemetry.com/the-web-front-end-learning-guide/)
-
-* [Certified eCommerce Management Professional | CPD Accredited](https://coursemetry.com/certified-ecommerce-management-professional-cpd-accredited/)
-
-* [Lifting yourself out of negativity...](https://coursemetry.com/lifting-yourself-out-of-negativity/)
-
-* [Digital Dropshipping: The new Business Model 2022](https://coursemetry.com/digital-dropshipping-the-new-business-model-2022/)
-
-* [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
-
-* [AWS and Linode: The Ultimate Guide to Cloud Computing [IaaS]](https://coursemetry.com/aws-and-linode-the-ultimate-guide-to-cloud-computing-iaas/)
-
-* [The Python and Django Learning Guide](https://coursemetry.com/the-python-and-django-learning-guide/)
-
-* [QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-desktop-vs-excel/)
-
-* [The Java Learning Guide](https://coursemetry.com/the-java-learning-guide/)
-
-* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
-
-* [Certified Instagram Marketing Professional | CPD Accredited](https://coursemetry.com/certified-instagram-marketing-professional-cpd-accredited/)
-
-* [Process Costing System-Cost Accounting-Managerial Accounting](https://coursemetry.com/process-costing-system-cost-accounting-managerial-accounting/)
-
-* [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
-
-* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
-
-* [The C++ Learning Guide](https://coursemetry.com/the-c-learning-guide/)
-
-* [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
-
-* [C_ACTIVATE13 | SAP Activate Project Manager Practice Exam](https://coursemetry.com/c_activate13-sap-activate-project-manager-practice-exam/)
-
-* [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
-
-* [Learn 47 Different Ways to Make Money Online!](https://coursemetry.com/learn-47-different-ways-to-make-money-online/)
-
-* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
-
-* [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
-
-* [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
-
-* [6 New Exams | CCSA R80: Check Point Certified Security Admin](https://coursemetry.com/6-new-exams-ccsa-r80-check-point-certified-security-admin/)
-
-* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
-
-* [React and Redux for Beginners (Hindi)](https://coursemetry.com/react-and-redux-for-beginners-hindi/)
-
-* [Exams | Check Point Certified Security-Principles Associate](https://coursemetry.com/exams-check-point-certified-security-principles-associate/)
-
-* [Cost Volume Profit Analysis (CVP) – Managerial Accounting](https://coursemetry.com/cost-volume-profit-analysis-cvp-managerial-accounting/)
-
-* [After a Breakup: How to Move On](https://coursemetry.com/after-a-breakup-how-to-move-on/)
-
-* [QuickBooks Online vs. Excel 2022](https://coursemetry.com/quickbooks-online-vs-excel-2022/)
-
-* [Exams & Detailed Explanations for ISTQB Agile Practice](https://coursemetry.com/exams-detailed-explanations-for-istqb-agile-practice/)
-
-* [Beginner To Pro Mobile Video Editing Complete Course](https://coursemetry.com/beginner-to-pro-mobile-video-editing-complete-course/)
-
-* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
-
-* [Preparing For Metaverse Dominated Future of Global Business](https://coursemetry.com/preparing-for-metaverse-dominated-future-of-global-business/)
-
-* [Podcast Power Breathing Masterclass](https://coursemetry.com/podcast-power-breathing-masterclass/)
-
-* [QuickBooks Enterprise-Classes-Responsibility Accounting](https://coursemetry.com/quickbooks-enterprise-classes-responsibility-accounting/)
-
-* [Viral YouTube Marketing - Crash Course + Live Class](https://coursemetry.com/viral-youtube-marketing-crash-course-live-class/)
-
-* [Personal Finance #8-Insurance-Medical & Disability](https://coursemetry.com/personal-finance-8-insurance-medical-disability/)
-
-* [सीखें Javascript Programming हिन्दी में](https://coursemetry.com/%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-javascript-programming-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82/)
-
-* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
-
-* [Personal Finance #4-Credit: Sources, Costs, Pros & Cons](https://coursemetry.com/personal-finance-4-credit-sources-costs-pros-cons/)
-
-* [QuickBooks Pro Desktop Bookkeeping With Bank Feeds 2022 2021](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-with-bank-feeds-2022-2021/)
-
-* [Responsibility Accounting & Performance Measurement](https://coursemetry.com/responsibility-accounting-performance-measurement/)
-
-* [Drupal For Absolute Beginners (2022)](https://coursemetry.com/drupal-for-absolute-beginners-2022/)
-
-* [QuickBooks Desktop – Export Directly to Tax Software Lacerte](https://coursemetry.com/quickbooks-desktop-export-directly-to-tax-software-lacerte/)
-
-* [PHP for Beginners: PDO Crash Course 2022](https://coursemetry.com/php-for-beginners-pdo-crash-course-2022/)
-
-* [S Corporation Income Tax - Form 1120S](https://coursemetry.com/s-corporation-income-tax-form-1120s/)
-
-* [Partnership Income Tax (Form 1065)](https://coursemetry.com/partnership-income-tax-form-1065/)
-
-* [C Corporation Income Tax (Form 1120)](https://coursemetry.com/c-corporation-income-tax-form-1120/)
-
-* [Markdown: GitHub pages, Websites and Blogs using markdown](https://coursemetry.com/markdown-github-pages-websites-and-blogs-using-markdown/)
-
-* [【After Effects Life : 菜逼巴到某甘丹】](https://coursemetry.com/%e3%80%90after-effects-life-%e8%8f%9c%e9%80%bc%e5%b7%b4%e5%88%b0%e6%9f%90%e7%94%98%e4%b8%b9%e3%80%91/)
-
-* [SQL/PostgreSQL Crash Course for Absolute Beginners](https://coursemetry.com/sql-postgresql-crash-course-for-absolute-beginners/)
-
-* [NumPy for Data Science and Machine Learning in Python](https://coursemetry.com/numpy-for-data-science-and-machine-learning-in-python/)
-
-* [Podcast With NLP for High Audience Growth](https://coursemetry.com/podcast-with-nlp-for-high-audience-growth/)
-
-* [Google Office: Docs, Sheets, Slides  من الصفر للاحتراف](https://coursemetry.com/google-office-docs-sheets-slides-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
-
-* [Problem Solving - Simplified](https://coursemetry.com/problem-solving-simplified/)
-
-* [Reverse Anti-Aging](https://coursemetry.com/reverse-anti-aging/)
+## **87 Udemy free courses published so far on 2022-09-27**
 
 * [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
 
-* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
+* [Curso Básico de SQL Server y Introducción a Power BI](https://coursemetry.com/curso-basico-de-sql-server-y-introduccion-a-power-bi/)
 
-* [Web Application Hacking Course For Beginners](https://coursemetry.com/web-application-hacking-course-for-beginners/)
+* [CRUD con PHP, MySQL y JS en el Modelo MVC](https://coursemetry.com/crud-con-php-mysql-y-js-en-el-modelo-mvc/)
 
-* [Projelerle JAVA Eğitimi](https://coursemetry.com/projelerle-java-egitimi/)
+* [The Complete Google Drive Course - Mastering Google Drive](https://coursemetry.com/the-complete-google-drive-course-mastering-google-drive/)
 
-* [Basics Mobile Ethical Hacking Course](https://coursemetry.com/basics-mobile-ethical-hacking-course/)
+* [Power BI: Desde cero para principiantes](https://coursemetry.com/power-bi-desde-cero-para-principiantes/)
 
-* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+* [Complete Goal Setting Course - Become Your Own Life Coach](https://coursemetry.com/complete-goal-setting-course-become-your-own-life-coach/)
 
-* [Planung und Forecast mit Excel](https://coursemetry.com/planung-und-forecast-mit-excel/)
+* [JavaScript: Desde cero con NodeJS](https://coursemetry.com/javascript-desde-cero-con-nodejs/)
 
-* [Flexible Budgets, Standard Costs, & Variance Analysis](https://coursemetry.com/flexible-budgets-standard-costs-variance-analysis/)
+* [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
 
-* [2023 Amazon FBA Product Hunting & KW Research in 60 minutes](https://coursemetry.com/2023-amazon-fba-product-hunting-kw-research-in-60-minutes/)
+* [Análisis de casos reales y funciones DAX con Power BI](https://coursemetry.com/analisis-de-casos-reales-y-funciones-dax-con-power-bi/)
 
-* [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 2](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-2/)
 
-* [Space Render Classic Edition: Create Live Audio-Rooms (2022)](https://coursemetry.com/space-render-classic-edition-create-live-audio-rooms-2022/)
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
 
-* [Software Engineering: Coding interview + Daily Engineering](https://coursemetry.com/software-engineering-coding-interview-daily-engineering/)
+* [Creación de WebService API REST con Laravel](https://coursemetry.com/creacion-de-webservice-api-rest-con-laravel/)
 
-* [Market Research | Complete Marketing Research Course 2022](https://coursemetry.com/market-research-complete-marketing-research-course-2022/)
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
 
-* [AutoCAD 2023 MasterClass: Produce Amazing Site Plans Quickly](https://coursemetry.com/autocad-2023-masterclass-produce-amazing-site-plans-quickly/)
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
 
-* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
 
-* [NGINX Web Server from Scratch](https://coursemetry.com/nginx-web-server-from-scratch/)
+* [Introduction to Forex- learn to trade forex by yourself](https://coursemetry.com/introduction-to-forex-learn-to-trade-forex-by-yourself/)
 
-* [Artificial Intelligence in Web Design + Live Class](https://coursemetry.com/artificial-intelligence-in-web-design-live-class/)
+* [APIREST Creación, Consumo y Despliegue en Heroku PHP y MySQL](https://coursemetry.com/apirest-creacion-consumo-y-despliegue-en-heroku-php-y-mysql/)
 
-* [210+ Exercises - Python Standard Libraries - 2022](https://coursemetry.com/210-exercises-python-standard-libraries-2022/)
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
 
-* [Observability at Scale](https://coursemetry.com/observability-at-scale/)
+* [Aprende SQL desde cero: ¡Curso con mas de 50 ejercicios! 1](https://coursemetry.com/aprende-sql-desde-cero-curso-con-mas-de-50-ejercicios-1/)
 
-* [Financial Management - Preparing for Adulthood](https://coursemetry.com/financial-management-preparing-for-adulthood/)
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
 
-* [Docker and Kubernetes for React JS developers 2022](https://coursemetry.com/docker-and-kubernetes-for-react-js-developers-2022/)
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
 
-* [Cost Monitoring & Insights with Kubecost & Infracost](https://coursemetry.com/cost-monitoring-insights-with-kubecost-infracost/)
+* [Computer Architecture and Computer Organization Masterclass](https://coursemetry.com/computer-architecture-and-computer-organization-masterclass/)
 
-* [DevOps Incident Management](https://coursemetry.com/devops-incident-management/)
+* [JavaScript And PHP And Python Programming Complete Course](https://coursemetry.com/javascript-and-php-and-python-programming-complete-course/)
 
-* [Assembler - Mainframe - HLASM](https://coursemetry.com/assembler-mainframe-hlasm/)
+* [Learn Bookkeeping on Fast track (Step by Step Learning)](https://coursemetry.com/learn-bookkeeping-on-fast-track-step-by-step-learning/)
 
-* [Minicurso Power BI - Construa seu Dashboard](https://coursemetry.com/minicurso-power-bi-construa-seu-dashboard/)
+* [PHP y MYSQL: Convierte cualquier template HTML en una WebAPP](https://coursemetry.com/php-y-mysql-convierte-cualquier-template-html-en-una-webapp/)
 
-* [Arduino 2](https://coursemetry.com/arduino-2/)
+* [Creación de API REST Web Service con Python y MySQL](https://coursemetry.com/creacion-de-api-rest-web-service-con-python-y-mysql/)
 
-* [Scripting practices with Python and Blender](https://coursemetry.com/scripting-practices-with-python-and-blender/)
+* [Python 3: Análisis y visualización de datos](https://coursemetry.com/python-3-analisis-y-visualizacion-de-datos/)
 
-* [Curso completo de HTML5 y CSS3 en español](https://coursemetry.com/curso-completo-de-html5-y-css3-en-espanol/)
-
-* [List Building Supercharge Class (build your list & monetize)](https://coursemetry.com/list-building-supercharge-class-build-your-list-monetize/)
-
-* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
-
-* [Building an Email List in 30 Days Challenge - A to Z Plan](https://coursemetry.com/building-an-email-list-in-30-days-challenge-a-to-z-plan/)
-
-* [Procedimientos almacenados en PostgreSQL (PL/PgSQL)](https://coursemetry.com/procedimientos-almacenados-en-postgresql-pl-pgsql/)
-
-* [Test Preperation Course For CEH](https://coursemetry.com/test-preperation-course-for-ceh/)
-
-* [Publish Simple Videos For a Living - Skillshare Earnings](https://coursemetry.com/publish-simple-videos-for-a-living-skillshare-earnings/)
-
-* [Xero Job Costing – Projects](https://coursemetry.com/xero-job-costing-projects/)
-
-* [Practice Tests for (SHRM-CP/SCP) Exams](https://coursemetry.com/practice-tests-for-shrm-cp-scp-exams/)
-
-* [QuickBooks Enterprise - Two Businesses & Personal in One](https://coursemetry.com/quickbooks-enterprise-two-businesses-personal-in-one/)
-
-* [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
-
-* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
-
-* [Ethical Hacking: nmap in depth](https://coursemetry.com/ethical-hacking-nmap-in-depth/)
-
-* [DIETA KETO y LONGEVIDAD de Principiante a HEROE](https://coursemetry.com/dieta-keto-y-longevidad-de-principiante-a-heroe/)
-
-* [Gatsby JS | Build a personal blog using gatsbyJS](https://coursemetry.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/)
-
-* [Learn ASP.NET MVC and Entity Framework (Database First)](https://coursemetry.com/learn-asp-net-mvc-and-entity-framework-database-first/)
-
-* [Bjorn App android publicitaria en Xamarin forms y Firebase](https://coursemetry.com/bjorn-app-android-publicitaria-en-xamarin-forms-y-firebase/)
-
-* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
-
-* [See 27 Ways to Make Money Online with Your Smartphone!](https://coursemetry.com/see-27-ways-to-make-money-online-with-your-smartphone/)
-
-* [Understand depression. Overcome it.](https://coursemetry.com/understand-depression-overcome-it/)
-
-* [Pandas for Data Analysis in Python](https://coursemetry.com/pandas-for-data-analysis-in-python/)
-
-* [Bash Scripting Basics](https://coursemetry.com/bash-scripting-basics/)
-
-* [Entrepreneurship - Ft. Matthew Rolnick of Yaymaker, Groupon](https://coursemetry.com/entrepreneurship-ft-matthew-rolnick-of-yaymaker-groupon/)
-
-* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
-
-* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
-
-* [Internet and Web Development Fundamentals](https://coursemetry.com/internet-and-web-development-fundamentals/)
-
-* [Complete Voice Training Megacourse: Beginner to Expert](https://coursemetry.com/complete-voice-training-megacourse-beginner-to-expert/)
-
-* [Finding the Best Position to Receive the Ball in Midfield](https://coursemetry.com/finding-the-best-position-to-receive-the-ball-in-midfield/)
-
-* [Complete Italian Course: Learning Italian for Beginners 2022](https://coursemetry.com/complete-italian-course-learning-italian-for-beginners-2022/)
-
-* [Creating Video Lessons with Online Video Maker InVideo](https://coursemetry.com/creating-video-lessons-with-online-video-maker-invideo/)
-
-* [القواعد الاساسيه لعلم النحو](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d9%86%d8%ad%d9%88/)
-
-* [القواعد الأساسيه للإملاء](https://coursemetry.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d9%87-%d9%84%d9%84%d8%a5%d9%85%d9%84%d8%a7%d8%a1/)
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
 
 * [Curso Completo de Windows Terminal](https://coursemetry.com/curso-completo-de-windows-terminal/)
 
+* [Microsoft Excel: De cero a analista de datos en Power BI](https://coursemetry.com/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/)
+
 * [Fundamentos de Windows Scripting](https://coursemetry.com/fundamentos-de-windows-scripting/)
 
-* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+* [SQL: Consultas básicas a complejas](https://coursemetry.com/sql-consultas-basicas-a-complejas/)
 
-* [Learn Coding with Java from Scratch: Essential Training 2022](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2022/)
+* [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
 
-* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+* [The Product Photography Guide](https://coursemetry.com/the-product-photography-guide/)
 
-* [The R Programming For Data Science A-Z Complete Diploma 2022](https://coursemetry.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/)
+* [Complete PowerPoint Megacourse: Beginner to Expert](https://coursemetry.com/complete-powerpoint-megacourse-beginner-to-expert/)
 
-* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
 
-* [Object-Oriented Programming with Python: Code Faster in 2022](https://coursemetry.com/object-oriented-programming-with-python-code-faster-in-2022/)
+* [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
 
-* [Firebase for PHP (Laravel)](https://coursemetry.com/firebase-for-php-laravel/)
+* [Registro y Login con Redes Sociales PHP, MySQL y Firebase](https://coursemetry.com/registro-y-login-con-redes-sociales-php-mysql-y-firebase/)
 
-* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+* [Envió Masivo de Correos Electrónicos con PHP, MySQL y JS](https://coursemetry.com/envio-masivo-de-correos-electronicos-con-php-mysql-y-js/)
 
-* [Curso Completo de Computación [versión Windows]](https://coursemetry.com/curso-completo-de-computacion-version-windows/)
+* [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
 
-* [Curso Completo de Windows 10](https://coursemetry.com/curso-completo-de-windows-10/)
+* [Python 3: Desde cero para principiantes](https://coursemetry.com/python-3-desde-cero-para-principiantes/)
 
-* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+* [糖尿病やアトピーの改善が期待できる施術　今まで治らなかった症状を、治すセラピストになろう！ VOLTSセラピー基礎編](https://coursemetry.com/%e7%b3%96%e5%b0%bf%e7%97%85%e3%82%84%e3%82%a2%e3%83%88%e3%83%94%e3%83%bc%e3%81%ae%e6%94%b9%e5%96%84%e3%81%8c%e6%9c%9f%e5%be%85%e3%81%a7%e3%81%8d%e3%82%8b%e6%96%bd%e8%a1%93%e3%80%80%e4%bb%8a%e3%81%be/)
 
-* [Curso de Administración Avanzada de Windows](https://coursemetry.com/curso-de-administracion-avanzada-de-windows/)
+* [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
 
-* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
+
+* [Creación y Consumo de Web Service SOAP WDSL con PHP y MySQL](https://coursemetry.com/creacion-y-consumo-de-web-service-soap-wdsl-con-php-y-mysql/)
+
+* [Turning to Religion to reduce STRESS](https://coursemetry.com/turning-to-religion-to-reduce-stress/)
+
+* [Complete Google Classroom Course: Teaching Google Classroom](https://coursemetry.com/complete-google-classroom-course-teaching-google-classroom/)
+
+* [Python 3: Curso completo de cero a experto](https://coursemetry.com/python-3-curso-completo-de-cero-a-experto/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [MongoDB: Aprende desde cero a experto](https://coursemetry.com/mongodb-aprende-desde-cero-a-experto/)
+
+* [Debugging Bootcamp : Software techniques beyond debuggers](https://coursemetry.com/debugging-bootcamp-software-techniques-beyond-debuggers/)
+
+* [Hands-On React. Build advanced React JS Frontend with expert](https://coursemetry.com/hands-on-react-build-advanced-react-js-frontend-with-expert/)
+
+* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+
+* [Eliminate Your Insomnia Now  Build Strong Sleep Habits](https://coursemetry.com/eliminate-your-insomnia-now-build-strong-sleep-habits/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [Business Fundamentals & Questions to Answer Before Launching](https://coursemetry.com/business-fundamentals-questions-to-answer-before-launching/)
+
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
+
+* [Run Search Ad In Google Ads & Easy SEO For Beginners-2022](https://coursemetry.com/run-search-ad-in-google-ads-easy-seo-for-beginners-2022/)
+
+* [Build Shopify store & Run Facebook Page Likes Ad In 2022](https://coursemetry.com/build-shopify-store-run-facebook-page-likes-ad-in-2022/)
+
+* [QuickBooks Online Multiple Currencies](https://coursemetry.com/quickbooks-online-multiple-currencies/)
+
+* [Azure Fundamentals Practice Test](https://coursemetry.com/azure-fundamentals-practice-test/)
+
+* [Power BI DAX: Aprende las funciones más avanzadas](https://coursemetry.com/power-bi-dax-aprende-las-funciones-mas-avanzadas/)
+
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
+
+* [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
+
+* [Passive Income With U demy Courses HIndi](https://coursemetry.com/passive-income-with-u-demy-courses-hindi/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
+
+* [QuickBooks Desktop Pro-Personal Tax Tracking Tricks](https://coursemetry.com/quickbooks-desktop-pro-personal-tax-tracking-tricks/)
+
+* [Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor](https://coursemetry.com/job-cost-quickbooks-online-vs-quickbooks-desktop-contractor/)
+
+* [Logistics, Transportation and Distribution | CLTD 2022](https://coursemetry.com/logistics-transportation-and-distribution-cltd-2022/)
+
+* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [QuickBooks Online vs. QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-vs-excel/)
+
+* [Learn To Focus: Meditation & Mindfulness For ADHD](https://coursemetry.com/learn-to-focus-meditation-mindfulness-for-adhd/)
+
+* [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
+
+* [QuickBooks Desktop Pro -Personal Bookkeeping-Accounting](https://coursemetry.com/quickbooks-desktop-pro-personal-bookkeeping-accounting/)
+
+* [Meditation Masterclass: meditation teacher certification](https://coursemetry.com/meditation-masterclass-meditation-teacher-certification/)
+
+* [Job Costing QuickBooks Online - Contractors](https://coursemetry.com/job-costing-quickbooks-online-contractors/)
+
+* [Wave Accounting](https://coursemetry.com/wave-accounting/)
+
+* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
+
+* [R Programming: Aprende a programar en R desde cero](https://coursemetry.com/r-programming-aprende-a-programar-en-r-desde-cero/)
+
+* [Two QuickBooks File-Business & Personal vs One File For Both](https://coursemetry.com/two-quickbooks-file-business-personal-vs-one-file-for-both/)
+
+* [QuickBooks Online (QBO) Bookkeeping With Bank Feeds 2022](https://coursemetry.com/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2022/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+
+* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
+
+* [Weight Loss - Zero Cardio](https://coursemetry.com/weight-loss-zero-cardio/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
