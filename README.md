@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **154 Udemy free courses published so far on 2022-09-27**
+## **176 Udemy free courses published so far on 2022-09-27**
 
 * [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
 
@@ -254,8 +254,6 @@
 
 * [Modern JavaScript for React JS - ES6 [2022]](https://coursemetry.com/modern-javascript-for-react-js-es6-2022/)
 
-* [Metasploit Framework Guide For Certified Hacking](https://coursemetry.com/metasploit-framework-guide-for-certified-hacking/)
-
 * [Create snake with Python PyGame](https://coursemetry.com/create-snake-with-python-pygame/)
 
 * [Ethical Hacking: Network Attacks](https://coursemetry.com/ethical-hacking-network-attacks/)
@@ -311,6 +309,52 @@
 * [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
 
 * [Reading Japanese Candlesticks & Market Structures 2022](https://coursemetry.com/reading-japanese-candlesticks-market-structures-2022/)
+
+* [Google Certified Professional Cloud DevOps Engineer](https://coursemetry.com/google-certified-professional-cloud-devops-engineer/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Complete Comic Book Creation Megacourse: Beginner to Expert](https://coursemetry.com/complete-comic-book-creation-megacourse-beginner-to-expert/)
+
+* [Penetration Testing Course 2020](https://coursemetry.com/penetration-testing-course-2020/)
+
+* [Google Cloud Professional Cloud Developer Practice Questions](https://coursemetry.com/google-cloud-professional-cloud-developer-practice-questions/)
+
+* [Network Ethical Hacking Course](https://coursemetry.com/network-ethical-hacking-course/)
+
+* [Run Digital Marketing Ad Using Google Adwords Express 2022](https://coursemetry.com/run-digital-marketing-ad-using-google-adwords-express-2022/)
+
+* [Google Certified Associate Cloud Engineer Practice Questions](https://coursemetry.com/google-certified-associate-cloud-engineer-practice-questions-5/)
+
+* [Learn Certified Ethical Hacking From Scratch](https://coursemetry.com/learn-certified-ethical-hacking-from-scratch/)
+
+* [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
+
+* [Google Cloud Professional Data Engineer Practice Questions](https://coursemetry.com/google-cloud-professional-data-engineer-practice-questions-2/)
+
+* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
+
+* [Computer Science & Management Fundamentals for Software Jobs](https://coursemetry.com/computer-science-management-fundamentals-for-software-jobs/)
+
+* [Udemy For Recurring Income - (Unofficial)](https://coursemetry.com/udemy-for-recurring-income-unofficial/)
+
+* [Tilda](https://coursemetry.com/tilda/)
+
+* [Excel Tables for Management Consultants & Business Analysts](https://coursemetry.com/excel-tables-for-management-consultants-business-analysts/)
+
+* [HTML](https://coursemetry.com/html/)
+
+* [Adobe Dimension and Illustrator Bundle course](https://coursemetry.com/adobe-dimension-and-illustrator-bundle-course/)
+
+* [Certified Professional in Data Science - Practice Test](https://coursemetry.com/certified-professional-in-data-science-practice-test/)
+
+* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
+
+* [Sketchup: The ِArabic Workflow](https://coursemetry.com/sketchup-the-%d9%90arabic-workflow/)
+
+* [Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://coursemetry.com/cryptocurrency-trading-for-beginners-learn-click-by-click/)
+
+* [Metasploit Framework Guide Course](https://coursemetry.com/metasploit-framework-guide-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
