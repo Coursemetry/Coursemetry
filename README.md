@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **78 Udemy free courses published so far on 2022-09-28**
+## **88 Udemy free courses published so far on 2022-09-28**
 
 * [[Master Class] : Les Secrets de La Vente - Techniques et KPI](https://coursemetry.com/master-class-les-secrets-de-la-vente-techniques-et-kpi/)
 
@@ -159,6 +159,26 @@
 * [Build Hotel Management System Java Project](https://coursemetry.com/build-hotel-management-system-java-project/)
 
 * [CI/CD Pipeline with React and Github Action](https://coursemetry.com/ci-cd-pipeline-with-react-and-github-action/)
+
+* [Adobe Premiere Pro CC Masterclass: Video Editing in Premiere](https://coursemetry.com/adobe-premiere-pro-cc-masterclass-video-editing-in-premiere/)
+
+* [User Experience Design Essentials - Adobe XD UI UX Design](https://coursemetry.com/user-experience-design-essentials-adobe-xd-ui-ux-design/)
+
+* [The Complete 2022 Web Development Bootcamp](https://coursemetry.com/the-complete-2022-web-development-bootcamp/)
+
+* [Instagram Marketing 2022: Complete Guide To Instagram Growth](https://coursemetry.com/instagram-marketing-2022-complete-guide-to-instagram-growth/)
+
+* [The Complete Foundation Stock Trading Course](https://coursemetry.com/the-complete-foundation-stock-trading-course/)
+
+* [Microsoft Excel - Excel from Beginner to Advanced](https://coursemetry.com/microsoft-excel-excel-from-beginner-to-advanced/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [The Complete Digital Marketing Course - 12 Courses in 1](https://coursemetry.com/the-complete-digital-marketing-course-12-courses-in-1/)
+
+* [Fundamental of Embedded Systems](https://coursemetry.com/fundamental-of-embedded-systems/)
+
+* [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://coursemetry.com/100-days-of-code-the-complete-python-pro-bootcamp-for-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
