@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **41 Udemy free courses published so far on 2022-09-28**
+## **43 Udemy free courses published so far on 2022-09-28**
 
 * [[Master Class] : Les Secrets de La Vente - Techniques et KPI](https://coursemetry.com/master-class-les-secrets-de-la-vente-techniques-et-kpi/)
 
@@ -85,6 +85,10 @@
 * [Learn Automated Machine Learning : Build Real World Projects](https://coursemetry.com/learn-automated-machine-learning-build-real-world-projects/)
 
 * [Business Intelligence with Quicksight and Tableau](https://coursemetry.com/business-intelligence-with-quicksight-and-tableau/)
+
+* [Experto Domótica, Automatismos y Tecnificación Inteligente](https://coursemetry.com/experto-domotica-automatismos-y-tecnificacion-inteligente/)
+
+* [Introduction into Facebook Marketing & Facebook Advertising](https://coursemetry.com/introduction-into-facebook-marketing-facebook-advertising/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
