@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published so far on 2022-09-28**
+## **92 Udemy free courses published so far on 2022-09-28**
 
 * [[Master Class] : Les Secrets de La Vente - Techniques et KPI](https://coursemetry.com/master-class-les-secrets-de-la-vente-techniques-et-kpi/)
 
@@ -179,6 +179,14 @@
 * [Fundamental of Embedded Systems](https://coursemetry.com/fundamental-of-embedded-systems/)
 
 * [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://coursemetry.com/100-days-of-code-the-complete-python-pro-bootcamp-for-2022/)
+
+* [Fully Accredited Certificate in Eye Yoga - Masterclass](https://coursemetry.com/fully-accredited-certificate-in-eye-yoga-masterclass/)
+
+* [Nmap Course For Penetration Testing](https://coursemetry.com/nmap-course-for-penetration-testing/)
+
+* [Power of Quora : A to Z of Earning from Quora  & Quora Ads](https://coursemetry.com/power-of-quora-a-to-z-of-earning-from-quora-quora-ads/)
+
+* [Web Ethical Hacking Bug Bounty Course](https://coursemetry.com/web-ethical-hacking-bug-bounty-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
