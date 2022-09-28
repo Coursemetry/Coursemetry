@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-09-28**
+## **78 Udemy free courses published so far on 2022-09-28**
 
 * [[Master Class] : Les Secrets de La Vente - Techniques et KPI](https://coursemetry.com/master-class-les-secrets-de-la-vente-techniques-et-kpi/)
 
@@ -93,6 +93,72 @@
 * [How To Overcome Depression](https://coursemetry.com/how-to-overcome-depression/)
 
 * [Best of Digital Marketing Essentials 2022: Learn Fun & Fast](https://coursemetry.com/best-of-digital-marketing-essentials-2022-learn-fun-fast/)
+
+* [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
+
+* [Best of SEO: #1 SEO Training & Content Marketing Course 2022](https://coursemetry.com/best-of-seo-1-seo-training-content-marketing-course-2022/)
+
+* [SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun](https://coursemetry.com/seo-training-for-beginners-learn-seo-local-seo-fast-fun/)
+
+* [Product Photographer: eCommerce Product Photography Course](https://coursemetry.com/product-photographer-ecommerce-product-photography-course/)
+
+* [Business Networking Part 7 - Success is in The Follow Up](https://coursemetry.com/business-networking-part-7-success-is-in-the-follow-up/)
+
+* [How to Design & Prototype in Adobe XD](https://coursemetry.com/how-to-design-prototype-in-adobe-xd/)
+
+* [Free Blender Crash Course!](https://coursemetry.com/free-blender-crash-course/)
+
+* [Photoshop Fundamentals](https://coursemetry.com/photoshop-fundamentals/)
+
+* [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
+
+* [Learn HTML Canvas - Pixels, Particles & Physics](https://coursemetry.com/learn-html-canvas-pixels-particles-physics/)
+
+* [Mastering The Complete Agile Scrum Master Workshop](https://coursemetry.com/mastering-the-complete-agile-scrum-master-workshop/)
+
+* [Web Server Hacking For Ethical Hacking](https://coursemetry.com/web-server-hacking-for-ethical-hacking/)
+
+* [Python for Beginners to Advance](https://coursemetry.com/python-for-beginners-to-advance/)
+
+* [Positive Psychology](https://coursemetry.com/positive-psychology/)
+
+* [Fundamentals of Electrical and Electronics](https://coursemetry.com/fundamentals-of-electrical-and-electronics/)
+
+* [Fundamentals of IoT (Internet of Things)](https://coursemetry.com/fundamentals-of-iot-internet-of-things/)
+
+* [Dein Online-Business auf Autopilot mit Zapier!](https://coursemetry.com/dein-online-business-auf-autopilot-mit-zapier/)
+
+* [Cyber Security Web Application Exploitation](https://coursemetry.com/cyber-security-web-application-exploitation/)
+
+* [Practice Exams for the CAPM Certification Project Management](https://coursemetry.com/practice-exams-for-the-capm-certification-project-management/)
+
+* [Fundamentals of Industry 4.0](https://coursemetry.com/fundamentals-of-industry-4-0/)
+
+* [Life extension](https://coursemetry.com/life-extension/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [Fundamentals of PN Junction Diode](https://coursemetry.com/fundamentals-of-pn-junction-diode/)
+
+* [كن رائد/رائدة أعمال عبر الإنترنت وشرح ل 10 مشروعات ريادية](https://coursemetry.com/%d9%83%d9%86-%d8%b1%d8%a7%d8%a6%d8%af-%d8%b1%d8%a7%d8%a6%d8%af%d8%a9-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa-%d9%88%d8%b4%d8%b1%d8%ad-%d9%84/)
+
+* [Business English Complete: English for Professionals](https://coursemetry.com/business-english-complete-english-for-professionals/)
+
+* [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
+
+* [Fundamental of Embedded Operating Systems](https://coursemetry.com/fundamental-of-embedded-operating-systems/)
+
+* [Google Web Stories For WordPress](https://coursemetry.com/google-web-stories-for-wordpress/)
+
+* [Analog Electronics Part-3 (All about JFET in depth)](https://coursemetry.com/analog-electronics-part-3-all-about-jfet-in-depth/)
+
+* [A Basic Introduction to Social Media: Facebook Newcomers](https://coursemetry.com/a-basic-introduction-to-social-media-facebook-newcomers/)
+
+* [Biology-Control & Co-ordination_ Nervous system_ Human Brain](https://coursemetry.com/biology-control-co-ordination_-nervous-system_-human-brain/)
+
+* [Build Hotel Management System Java Project](https://coursemetry.com/build-hotel-management-system-java-project/)
+
+* [CI/CD Pipeline with React and Github Action](https://coursemetry.com/ci-cd-pipeline-with-react-and-github-action/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
