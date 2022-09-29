@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **46 Udemy free courses published so far on 2022-09-29**
+## **65 Udemy free courses published so far on 2022-09-29**
 
 * [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
 
@@ -95,6 +95,44 @@
 * [Best of SEO: #1 SEO Training & Content Marketing Course 2022](https://coursemetry.com/best-of-seo-1-seo-training-content-marketing-course-2022/)
 
 * [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
+
+* [SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z](https://coursemetry.com/sql-for-data-analytics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-sql-a-z/)
+
+* [Agile Project Management: Agile, Scrum, Kanban & XP](https://coursemetry.com/agile-project-management-agile-scrum-kanban-xp/)
+
+* [Financial Analysis and Financial Modeling using MS Excel](https://coursemetry.com/financial-analysis-and-financial-modeling-using-ms-excel/)
+
+* [Artificial Neural Networks (ANN) with Keras in Python and R](https://coursemetry.com/artificial-neural-networks-ann-with-keras-in-python-and-r/)
+
+* [Atlassian Confluence A-Z: Confluence for New Users](https://coursemetry.com/atlassian-confluence-a-z-confluence-for-new-users/)
+
+* [Kanban Metrics for Agile teams: Measure & Improve Flow](https://coursemetry.com/kanban-metrics-for-agile-teams-measure-improve-flow/)
+
+* [LookML A-Z: Google Looker for Developers](https://coursemetry.com/lookml-a-z-google-looker-for-developers/)
+
+* [Artificial Intelligence in Video Creation: Supreme Edition](https://coursemetry.com/artificial-intelligence-in-video-creation-supreme-edition/)
+
+* [Artificial Intelligence Presentation Creation (2022 Edition)](https://coursemetry.com/artificial-intelligence-presentation-creation-2022-edition/)
+
+* [Professional Scrum with Kanban (PSK I) Certification Prep](https://coursemetry.com/professional-scrum-with-kanban-psk-i-certification-prep/)
+
+* [Machine Learning Basics in Hindi हिंदी - Regression Analysis](https://coursemetry.com/machine-learning-basics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-regression-analysis/)
+
+* [Marketing Analytics: Customer Value and Promotion Strategy](https://coursemetry.com/marketing-analytics-customer-value-and-promotion-strategy/)
+
+* [Machine Learning using Python](https://coursemetry.com/machine-learning-using-python/)
+
+* [Windows 11 Essential Training - From Beginner to Advanced](https://coursemetry.com/windows-11-essential-training-from-beginner-to-advanced/)
+
+* [Python Course - Learn Python from scratch.](https://coursemetry.com/python-course-learn-python-from-scratch/)
+
+* [Microsoft Excel Zero to Hero for Data Analysis](https://coursemetry.com/microsoft-excel-zero-to-hero-for-data-analysis/)
+
+* [poultry farming nutrition and clinical nutrition stepby step](https://coursemetry.com/poultry-farming-nutrition-and-clinical-nutrition-stepby-step/)
+
+* [SQL/PostgreSQL Crash Course for Absolute Beginners](https://coursemetry.com/sql-postgresql-crash-course-for-absolute-beginners/)
+
+* [Best Python course in Hindi for Beginners (हिन्दी)](https://coursemetry.com/best-python-course-in-hindi-for-beginners-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
