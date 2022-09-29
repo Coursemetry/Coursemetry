@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-09-29**
+## **105 Udemy free courses published so far on 2022-09-29**
 
 * [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
 
@@ -203,6 +203,16 @@
 * [Exploitation Cyber Security Course](https://coursemetry.com/exploitation-cyber-security-course/)
 
 * [Branding For Success](https://coursemetry.com/branding-for-success/)
+
+* [لغة الجسد بالعربي](https://coursemetry.com/%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%ac%d8%b3%d8%af-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [Improve English by Listening Movies – 1b](https://coursemetry.com/improve-english-by-listening-movies-1b/)
+
+* [AZ-500: Microsoft Azure Security Technologies Practice Exam](https://coursemetry.com/az-500-microsoft-azure-security-technologies-practice-exam-4/)
+
+* [Microsoft Azure AI-102 Azure AI Solutions Practice Questions](https://coursemetry.com/microsoft-azure-ai-102-azure-ai-solutions-practice-questions/)
+
+* [Certified Ethical Hacker v11 Practice Questions](https://coursemetry.com/certified-ethical-hacker-v11-practice-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
