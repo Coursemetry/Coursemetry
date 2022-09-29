@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-09-29**
+## **111 Udemy free courses published so far on 2022-09-29**
 
 * [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
 
@@ -213,6 +213,18 @@
 * [Microsoft Azure AI-102 Azure AI Solutions Practice Questions](https://coursemetry.com/microsoft-azure-ai-102-azure-ai-solutions-practice-questions/)
 
 * [Certified Ethical Hacker v11 Practice Questions](https://coursemetry.com/certified-ethical-hacker-v11-practice-questions/)
+
+* [Web Application Hacking Course For Beginners](https://coursemetry.com/web-application-hacking-course-for-beginners/)
+
+* [The Ethical  Hacking Bootcamp](https://coursemetry.com/the-ethical-hacking-bootcamp/)
+
+* [Organic Lead Generation & Sales Through Podcast Guesting](https://coursemetry.com/organic-lead-generation-sales-through-podcast-guesting/)
+
+* [Test Preperation Course For CEH](https://coursemetry.com/test-preperation-course-for-ceh/)
+
+* [Curso de Java do Básico ao Avançado + Projeto com MySQL](https://coursemetry.com/curso-de-java-do-basico-ao-avancado-projeto-com-mysql/)
+
+* [Passive Income: 27 Ways to Earn Passive Income Online](https://coursemetry.com/passive-income-27-ways-to-earn-passive-income-online/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
