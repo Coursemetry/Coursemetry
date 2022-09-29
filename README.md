@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **65 Udemy free courses published so far on 2022-09-29**
+## **97 Udemy free courses published so far on 2022-09-29**
 
 * [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
 
@@ -133,6 +133,70 @@
 * [SQL/PostgreSQL Crash Course for Absolute Beginners](https://coursemetry.com/sql-postgresql-crash-course-for-absolute-beginners/)
 
 * [Best Python course in Hindi for Beginners (हिन्दी)](https://coursemetry.com/best-python-course-in-hindi-for-beginners-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80/)
+
+* [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
+
+* [Excel - Microsoft Excel Course Beginner to Expert 2022](https://coursemetry.com/excel-microsoft-excel-course-beginner-to-expert-2022/)
+
+* [Configuración y Optimizacion de tu Página de Facebook 2022](https://coursemetry.com/configuracion-y-optimizacion-de-tu-pagina-de-facebook-2022/)
+
+* [PHP for Beginners: PDO Crash Course 2022](https://coursemetry.com/php-for-beginners-pdo-crash-course-2022/)
+
+* [Microsoft Excel - Excel Only For Beginners 2022](https://coursemetry.com/microsoft-excel-excel-only-for-beginners-2022/)
+
+* [Build Real World Microsoft Power BI Project](https://coursemetry.com/build-real-world-microsoft-power-bi-project/)
+
+* [Alphabetic Letters in French](https://coursemetry.com/alphabetic-letters-in-french/)
+
+* [Javascript basics 2022](https://coursemetry.com/javascript-basics-2022/)
+
+* [Build Real World Development Projects Using Angular](https://coursemetry.com/build-real-world-development-projects-using-angular/)
+
+* [Excel Pivots](https://coursemetry.com/excel-pivots/)
+
+* [Flutter Clean  Architecture [2022] [Flutter 3] (In Arabic)](https://coursemetry.com/flutter-clean-architecture-2022-flutter-3-in-arabic/)
+
+* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
+
+* [Özgüven İnşa Etmek](https://coursemetry.com/ozguven-insa-etmek/)
+
+* [Piyano Öğreniyorum](https://coursemetry.com/piyano-ogreniyorum/)
+
+* [Migrate on-premises SQL Server  To Cloud Azure SQL Database](https://coursemetry.com/migrate-on-premises-sql-server-to-cloud-azure-sql-database/)
+
+* [Business English and employment skills for the world of work](https://coursemetry.com/business-english-and-employment-skills-for-the-world-of-work/)
+
+* [Management Practical Quick Tips: Become A Great Manager Fast](https://coursemetry.com/management-practical-quick-tips-become-a-great-manager-fast/)
+
+* [Human Anatomy and Physiology - A&P-2](https://coursemetry.com/human-anatomy-and-physiology-ap-2/)
+
+* [Introduction to 4D & 5D Virtual Construction Management](https://coursemetry.com/introduction-to-4d-5d-virtual-construction-management/)
+
+* [Introduction to API Testing](https://coursemetry.com/introduction-to-api-testing/)
+
+* [The Complete Personal Networking Course: Networking Mastery](https://coursemetry.com/the-complete-personal-networking-course-networking-mastery/)
+
+* [Space Render 1.0: Artificial Intelligence in 3D Animation](https://coursemetry.com/space-render-1-0-artificial-intelligence-in-3d-animation/)
+
+* [Adobe Premiere Pro CC Masterclass: Video Editing in Premiere](https://coursemetry.com/adobe-premiere-pro-cc-masterclass-video-editing-in-premiere/)
+
+* [Event Management in 3D Virtual Worlds (2022 Grand Edition)](https://coursemetry.com/event-management-in-3d-virtual-worlds-2022-grand-edition/)
+
+* [Canva Master Course | Learn Canva with Chris](https://coursemetry.com/canva-master-course-learn-canva-with-chris/)
+
+* [Improve English by Listening Movies – 1c](https://coursemetry.com/improve-english-by-listening-movies-1c/)
+
+* [Instagram Marketing 2022: Complete Guide To Instagram Growth](https://coursemetry.com/instagram-marketing-2022-complete-guide-to-instagram-growth/)
+
+* [Git & GitHub A Practical Course: Beginner To Advanced Level](https://coursemetry.com/git-github-a-practical-course-beginner-to-advanced-level/)
+
+* [Ultimate Python Bootcamp For Data Science & Machine Learning](https://coursemetry.com/ultimate-python-bootcamp-for-data-science-machine-learning/)
+
+* [User Experience Design Essentials - Adobe XD UI UX Design](https://coursemetry.com/user-experience-design-essentials-adobe-xd-ui-ux-design/)
+
+* [The Complete Foundation Stock Trading Course](https://coursemetry.com/the-complete-foundation-stock-trading-course/)
+
+* [3D Animation Film-Making with Plotagon (2022 Edition)](https://coursemetry.com/3d-animation-film-making-with-plotagon-2022-edition/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
