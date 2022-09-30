@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-09-30**
+## **114 Udemy free courses published so far on 2022-09-30**
 
 * [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
@@ -225,6 +225,12 @@
 * [Informática desde cero (Windows 11, 10, 8, 7, Vista y XP)](https://coursemetry.com/informatica-desde-cero-windows-11-10-8-7-vista-y-xp/)
 
 * [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
+
+* [A+ Core1  Practice Test](https://coursemetry.com/a-core1-practice-test/)
+
+* [Beginners Guide to Implementing Neural Networks with Keras](https://coursemetry.com/beginners-guide-to-implementing-neural-networks-with-keras/)
+
+* [Trading and Investing for Beginners & Technical Analysis](https://coursemetry.com/trading-and-investing-for-beginners-technical-analysis/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
