@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **114 Udemy free courses published so far on 2022-09-30**
+## **124 Udemy free courses published so far on 2022-09-30**
 
 * [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
@@ -118,8 +118,6 @@
 
 * [QuickBooks Online 2022 & 2021 Start to Finish](https://coursemetry.com/quickbooks-online-2022-2021-start-to-finish/)
 
-* [MySQL for everyone. SQL for Developers, Data Analysts and BI](https://coursemetry.com/mysql-for-everyone-sql-for-developers-data-analysts-and-bi/)
-
 * [QuickBooks Online – Bank Feeds & Credit Card Feeds](https://coursemetry.com/quickbooks-online-bank-feeds-credit-card-feeds/)
 
 * [QuickBooks Pro Desktop 2023, 2022, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2023-2022-2020/)
@@ -231,6 +229,28 @@
 * [Beginners Guide to Implementing Neural Networks with Keras](https://coursemetry.com/beginners-guide-to-implementing-neural-networks-with-keras/)
 
 * [Trading and Investing for Beginners & Technical Analysis](https://coursemetry.com/trading-and-investing-for-beginners-technical-analysis/)
+
+* [Master the Comma](https://coursemetry.com/master-the-comma/)
+
+* [Advanced English Grammar Tests (For ALL Exams: TOEFL IELTS)](https://coursemetry.com/advanced-english-grammar-tests-for-all-exams-toefl-ielts/)
+
+* [MySQL for everyone. SQL for Developers, Data Analysts and BI](https://coursemetry.com/mysql-for-everyone-sql-for-developers-data-analysts-and-bi/)
+
+* [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
+
+* [Teaching English online: make income from online teaching](https://coursemetry.com/teaching-english-online-make-income-from-online-teaching/)
+
+* [Intro to Django Python Web Apps](https://coursemetry.com/intro-to-django-python-web-apps/)
+
+* [WordPress for beginners: Best WordPress and marketing course](https://coursemetry.com/wordpress-for-beginners-best-wordpress-and-marketing-course/)
+
+* [EasyPy3: Python for Beginners](https://coursemetry.com/easypy3-python-for-beginners/)
+
+* [Flutter BLoC State Management [2022] - From Scratch](https://coursemetry.com/flutter-bloc-state-management-2022-from-scratch/)
+
+* [Javascript Build a Calculator using HTML, CSS and Javascript](https://coursemetry.com/javascript-build-a-calculator-using-html-css-and-javascript/)
+
+* [Complete Pixel Art Megacourse: Beginner to Expert](https://coursemetry.com/complete-pixel-art-megacourse-beginner-to-expert/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
