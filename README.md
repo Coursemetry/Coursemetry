@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **99 Udemy free courses published so far on 2022-09-30**
+## **106 Udemy free courses published so far on 2022-09-30**
 
 * [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
@@ -201,6 +201,20 @@
 * [FREE Affiliate Marketing Course for Beginners - Easy As 123](https://coursemetry.com/free-affiliate-marketing-course-for-beginners-easy-as-123/)
 
 * [Time Management - A Mindful Approach](https://coursemetry.com/time-management-a-mindful-approach/)
+
+* [Personal Finance #7-Insurance-Home & Car](https://coursemetry.com/personal-finance-7-insurance-home-car/)
+
+* [Social Engineering Course](https://coursemetry.com/social-engineering-course/)
+
+* [Personal Finance #6-Housing: Purchase vs Renting](https://coursemetry.com/personal-finance-6-housing-purchase-vs-renting/)
+
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+
+* [Python And Flask  Demonstrations Practice Course](https://coursemetry.com/python-and-flask-demonstrations-practice-course/)
+
+* [Personal Finance #8-Insurance-Medical & Disability](https://coursemetry.com/personal-finance-8-insurance-medical-disability/)
+
+* [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
