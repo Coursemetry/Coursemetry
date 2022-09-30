@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published so far on 2022-09-30**
+## **111 Udemy free courses published so far on 2022-09-30**
 
 * [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
@@ -215,6 +215,16 @@
 * [Personal Finance #8-Insurance-Medical & Disability](https://coursemetry.com/personal-finance-8-insurance-medical-disability/)
 
 * [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
+
+* [Procesamiento de texto profesional con Word, Writer y Docs](https://coursemetry.com/procesamiento-de-texto-profesional-con-word-writer-y-docs/)
+
+* [Oratoria y Comunicación Efectiva con PNL](https://coursemetry.com/oratoria-y-comunicacion-efectiva-con-pnl/)
+
+* [Liderazgo: un modelo para el ÉXITO en todos los ámbitos](https://coursemetry.com/liderazgo-un-modelo-para-el-exito-en-todos-los-ambitos/)
+
+* [Informática desde cero (Windows 11, 10, 8, 7, Vista y XP)](https://coursemetry.com/informatica-desde-cero-windows-11-10-8-7-vista-y-xp/)
+
+* [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
