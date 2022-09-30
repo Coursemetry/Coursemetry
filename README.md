@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-09-30**
+## **71 Udemy free courses published so far on 2022-09-30**
 
 * [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
@@ -137,6 +137,14 @@
 * [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
 
 * [QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-desktop-vs-excel/)
+
+* [Complete Metasploit Course: Beginner to Advance](https://coursemetry.com/complete-metasploit-course-beginner-to-advance/)
+
+* [Nutrition disorders and oral health](https://coursemetry.com/nutrition-disorders-and-oral-health/)
+
+* [Complete Cyber Security Course - Learn From Scratch](https://coursemetry.com/complete-cyber-security-course-learn-from-scratch/)
+
+* [Android Development for Newbies (8+ Hours of Content)](https://coursemetry.com/android-development-for-newbies-8-hours-of-content/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
