@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published so far on 2022-09-30**
+## **67 Udemy free courses published so far on 2022-09-30**
 
 * [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
@@ -103,6 +103,40 @@
 * [Design Profitable 3D Bull NFT for METAVERSE and NFT Markets](https://coursemetry.com/design-profitable-3d-bull-nft-for-metaverse-and-nft-markets/)
 
 * [Create Profitable 3D Mushroom land NFT and METAVERSE Project](https://coursemetry.com/create-profitable-3d-mushroom-land-nft-and-metaverse-project/)
+
+* [Kubernetes: Deploy Your First App in Kubernetes in 1 Hour](https://coursemetry.com/kubernetes-deploy-your-first-app-in-kubernetes-in-1-hour/)
+
+* [E-Ticaret SEO Eğitimi](https://coursemetry.com/e-ticaret-seo-egitimi/)
+
+* [Sıfırdan İlk Satışa E-Ticaret | Shopify Dropshipping](https://coursemetry.com/sifirdan-ilk-satisa-e-ticaret-shopify-dropshipping/)
+
+* [Microsoft Power BI For Beginners](https://coursemetry.com/microsoft-power-bi-for-beginners/)
+
+* [SQL For Beginners: Introduction to SQL Vs. NoSQL](https://coursemetry.com/sql-for-beginners-introduction-to-sql-vs-nosql/)
+
+* [İngilizce Kursu A1 Hikaye Çevirisi: Jane Eyre](https://coursemetry.com/ingilizce-kursu-a1-hikaye-cevirisi-jane-eyre/)
+
+* [QuickBooks Online 2022 & 2021 Start to Finish](https://coursemetry.com/quickbooks-online-2022-2021-start-to-finish/)
+
+* [MySQL for everyone. SQL for Developers, Data Analysts and BI](https://coursemetry.com/mysql-for-everyone-sql-for-developers-data-analysts-and-bi/)
+
+* [QuickBooks Online – Bank Feeds & Credit Card Feeds](https://coursemetry.com/quickbooks-online-bank-feeds-credit-card-feeds/)
+
+* [QuickBooks Pro Desktop 2023, 2022, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2023-2022-2020/)
+
+* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+
+* [QuickBooks Online vs. Excel 2022](https://coursemetry.com/quickbooks-online-vs-excel-2022/)
+
+* [Sell kid Coloring books on Amazon KDP using Canva for FREE](https://coursemetry.com/sell-kid-coloring-books-on-amazon-kdp-using-canva-for-free/)
+
+* [Mathematics for Machine Learning & Data Science | Arabic](https://coursemetry.com/mathematics-for-machine-learning-data-science-arabic/)
+
+* [Entry-Level, Associate & Professional Python Programming](https://coursemetry.com/entry-level-associate-professional-python-programming/)
+
+* [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
+
+* [QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-desktop-vs-excel/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
