@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published so far on 2022-09-30**
+## **99 Udemy free courses published so far on 2022-09-30**
 
 * [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
@@ -145,6 +145,62 @@
 * [Complete Cyber Security Course - Learn From Scratch](https://coursemetry.com/complete-cyber-security-course-learn-from-scratch/)
 
 * [Android Development for Newbies (8+ Hours of Content)](https://coursemetry.com/android-development-for-newbies-8-hours-of-content/)
+
+* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
+
+* [The Complete Resilience Course - Master Emotional Resiliency](https://coursemetry.com/the-complete-resilience-course-master-emotional-resiliency/)
+
+* [The Complete Microsoft Teams Course - Master Microsoft Teams](https://coursemetry.com/the-complete-microsoft-teams-course-master-microsoft-teams/)
+
+* [Introduction into Facebook Marketing & Facebook Advertising](https://coursemetry.com/introduction-into-facebook-marketing-facebook-advertising/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Lead Generation Mastery with Facebook Lead & Messenger Ads](https://coursemetry.com/lead-generation-mastery-with-facebook-lead-messenger-ads/)
+
+* [The Complete Google Sheets Course - Google Spreadsheet Tips](https://coursemetry.com/the-complete-google-sheets-course-google-spreadsheet-tips/)
+
+* [Python for OOP: The A-to-Z OOP Python Programming Course](https://coursemetry.com/python-for-oop-the-a-to-z-oop-python-programming-course/)
+
+* [Complete Goal Setting Course - Become Your Own Life Coach](https://coursemetry.com/complete-goal-setting-course-become-your-own-life-coach/)
+
+* [Einstieg ins Change Management](https://coursemetry.com/einstieg-ins-change-management/)
+
+* [Excellence in Time Management](https://coursemetry.com/excellence-in-time-management/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [Presentation Skills: Give a Great New Business Pitch](https://coursemetry.com/presentation-skills-give-a-great-new-business-pitch/)
+
+* [Complete Google Slides Course - Create Stunning Slides](https://coursemetry.com/complete-google-slides-course-create-stunning-slides/)
+
+* [Media Training: Look Your Best-Get the Exact Quotes You Want](https://coursemetry.com/media-training-look-your-best-get-the-exact-quotes-you-want/)
+
+* [Gründung für Berater und Trainer](https://coursemetry.com/grundung-fur-berater-und-trainer/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [Build, Host & Manage Super-Fast WordPress Websites on 10Web](https://coursemetry.com/build-host-manage-super-fast-wordpress-websites-on-10web/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Create Profitable 3D Truck for NFT and METAVERSE W Expert](https://coursemetry.com/create-profitable-3d-truck-for-nft-and-metaverse-w-expert/)
+
+* [The Essential Guide to Project Management](https://coursemetry.com/the-essential-guide-to-project-management/)
+
+* [Sculpture Art with Acrylic Painting](https://coursemetry.com/sculpture-art-with-acrylic-painting/)
+
+* [Excel Basics for Busy People](https://coursemetry.com/excel-basics-for-busy-people/)
+
+* [Problem Solving and Career Planning: Fortune 500 Firms](https://coursemetry.com/problem-solving-and-career-planning-fortune-500-firms/)
+
+* [FREE Affiliate Marketing Course for Beginners - Easy As 123](https://coursemetry.com/free-affiliate-marketing-course-for-beginners-easy-as-123/)
+
+* [Time Management - A Mindful Approach](https://coursemetry.com/time-management-a-mindful-approach/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
