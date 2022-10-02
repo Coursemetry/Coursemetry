@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-10-02**
+## **96 Udemy free courses published so far on 2022-10-02**
 
 * [Public Speaking for Beginners](https://coursemetry.com/public-speaking-for-beginners/)
 
@@ -131,6 +131,70 @@
 * [Teachable: Create a profitable online course in Teachable-1](https://coursemetry.com/teachable-create-a-profitable-online-course-in-teachable-1/)
 
 * [How to Leverage Guest Podcasts to Grow Your Business](https://coursemetry.com/how-to-leverage-guest-podcasts-to-grow-your-business/)
+
+* [Learn Certified Ethical Hacking From Scratch](https://coursemetry.com/learn-certified-ethical-hacking-from-scratch/)
+
+* [Social Engineering Course](https://coursemetry.com/social-engineering-course/)
+
+* [Kali Linux Guide For Beginners](https://coursemetry.com/kali-linux-guide-for-beginners/)
+
+* [Android App Development with Kotlin - Learn Best Skill 2022+](https://coursemetry.com/android-app-development-with-kotlin-learn-best-skill-2022/)
+
+* [10x your Productivity with Time Management](https://coursemetry.com/10x-your-productivity-with-time-management/)
+
+* [Quantity Surveyor's Guide for Pre-Contracts Management](https://coursemetry.com/quantity-surveyors-guide-for-pre-contracts-management/)
+
+* [Nmap Course For Penetration Testing](https://coursemetry.com/nmap-course-for-penetration-testing/)
+
+* [Short Track - Adobe Photoshop from Scratch to 27 Projects](https://coursemetry.com/short-track-adobe-photoshop-from-scratch-to-27-projects/)
+
+* [【資金調達】銀行借入を考える](https://coursemetry.com/%e3%80%90%e8%b3%87%e9%87%91%e8%aa%bf%e9%81%94%e3%80%91%e9%8a%80%e8%a1%8c%e5%80%9f%e5%85%a5%e3%82%92%e8%80%83%e3%81%88%e3%82%8b/)
+
+* [Easy Arabic stories (MSA)](https://coursemetry.com/easy-arabic-stories-msa/)
+
+* [Introduction to Cryptocurrency Investing and Blockchain](https://coursemetry.com/introduction-to-cryptocurrency-investing-and-blockchain/)
+
+* [CRISP-ML(Q) - Data Pre-processing Using Python](https://coursemetry.com/crisp-mlq-data-pre-processing-using-python/)
+
+* [History of transformation in Higher Education](https://coursemetry.com/history-of-transformation-in-higher-education/)
+
+* [Self Learners Focus Guide: From distracted to superfocused](https://coursemetry.com/self-learners-focus-guide-from-distracted-to-superfocused/)
+
+* [Learn To Build AI Chatbots Using RASA](https://coursemetry.com/learn-to-build-ai-chatbots-using-rasa/)
+
+* [Mastering Medium Voltage Single Line and Relay & Metering](https://coursemetry.com/mastering-medium-voltage-single-line-and-relay-metering/)
+
+* [Interior Design: Style Your Home With Wall Art](https://coursemetry.com/interior-design-style-your-home-with-wall-art/)
+
+* [MANAGEMENT DU TRANSPORT INTERNATIONAL ET DE LA LOGISTIQUE](https://coursemetry.com/management-du-transport-international-et-de-la-logistique/)
+
+* [Habits to Achieve Your Goals | How to Set and Achieve Goals](https://coursemetry.com/habits-to-achieve-your-goals-how-to-set-and-achieve-goals/)
+
+* [Corporate Finance](https://coursemetry.com/corporate-finance/)
+
+* [[Tips & Technics] : How to Lead Effective Meetings 2022](https://coursemetry.com/tips-technics-how-to-lead-effective-meetings-2022/)
+
+* [Write Better Email: Technics for Clever communication](https://coursemetry.com/write-better-email-technics-for-clever-communication/)
+
+* [Excellence in Business Strategy, Modelling & Planning](https://coursemetry.com/excellence-in-business-strategy-modelling-planning/)
+
+* [SUPPLY CHAIN SKILLS : Logistics Optimization Tools](https://coursemetry.com/supply-chain-skills-logistics-optimization-tools/)
+
+* [[LEADER SKILLS] : 60 habits of successful people - 2022](https://coursemetry.com/leader-skills-60-habits-of-successful-people-2022/)
+
+* [Program to lose 7KG at HOME](https://coursemetry.com/program-to-lose-7kg-at-home/)
+
+* [[Tips & Technics] : How to Manage Customer Feedback 2022](https://coursemetry.com/tips-technics-how-to-manage-customer-feedback-2022/)
+
+* [[Tips & Technics] : Customer Service Skills Next Level 2022](https://coursemetry.com/tips-technics-customer-service-skills-next-level-2022/)
+
+* [[Master Class] : Les Secrets de La Vente - Techniques et KPI](https://coursemetry.com/master-class-les-secrets-de-la-vente-techniques-et-kpi/)
+
+* [[Tips & Technics] : How to Become a Great Leader | Skills](https://coursemetry.com/tips-technics-how-to-become-a-great-leader-skills/)
+
+* [[Dashboard Microsoft Excel] : Conception Tableau de bord](https://coursemetry.com/dashboard-microsoft-excel-conception-tableau-de-bord/)
+
+* [MASTERCLASS : ÉCRIRE UN BON EMAIL POUR LA COMMUNICATION PRO](https://coursemetry.com/masterclass-ecrire-un-bon-email-pour-la-communication-pro/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
