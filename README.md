@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published so far on 2022-10-02**
+## **134 Udemy free courses published so far on 2022-10-02**
 
 * [Public Speaking for Beginners](https://coursemetry.com/public-speaking-for-beginners/)
 
@@ -243,6 +243,34 @@
 * [Learn Azure DevOps CI/CD pipelines](https://coursemetry.com/learn-azure-devops-ci-cd-pipelines/)
 
 * [Introducción Al Hacking Ético desde Cero](https://coursemetry.com/introduccion-al-hacking-etico-desde-cero/)
+
+* [The Cyber Security Course: End Point Protection!](https://coursemetry.com/the-cyber-security-course-end-point-protection/)
+
+* [Bootstrap 5: Créer et Lancer des Sites Web Réactifs](https://coursemetry.com/bootstrap-5-creer-et-lancer-des-sites-web-reactifs/)
+
+* [JavaScript pour les débutants : Cours complet pour débutants](https://coursemetry.com/javascript-pour-les-debutants-cours-complet-pour-debutants/)
+
+* [In-depth Java Course: The Ultimate Java Engineering Class](https://coursemetry.com/in-depth-java-course-the-ultimate-java-engineering-class/)
+
+* [Authority Marketing Mastery 2023 | Become best KOL in niches](https://coursemetry.com/authority-marketing-mastery-2023-become-best-kol-in-niches/)
+
+* [HTML5 et CSS3 : La Formation Complète](https://coursemetry.com/html5-et-css3-la-formation-complete/)
+
+* [Postman Crash Course | Learn API Testing in 50 minutes](https://coursemetry.com/postman-crash-course-learn-api-testing-in-50-minutes/)
+
+* [NFT pour les Débutants: Devenir Investisseur et Créateur NFT](https://coursemetry.com/nft-pour-les-debutants-devenir-investisseur-et-createur-nft/)
+
+* [AutoCAD 2023 en 1h: Maîtrisez les Bases Rapidement](https://coursemetry.com/autocad-2023-en-1h-maitrisez-les-bases-rapidement/)
+
+* [Python pour le Deep Learning & le Machine Learning: A à Z](https://coursemetry.com/python-pour-le-deep-learning-le-machine-learning-a-a-z/)
+
+* [Content Marketing Mastery 2023 | Share Values to Earn More](https://coursemetry.com/content-marketing-mastery-2023-share-values-to-earn-more/)
+
+* [Learn AND Develop Winning Prototypes](https://coursemetry.com/learn-and-develop-winning-prototypes/)
+
+* [Ethical Hacking Using Metasploit Hacking Operating System](https://coursemetry.com/ethical-hacking-using-metasploit-hacking-operating-system/)
+
+* [La Masterclass Cryptomonnaies: Altcoin, NFT, DeFi, Métavers](https://coursemetry.com/la-masterclass-cryptomonnaies-altcoin-nft-defi-metavers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
