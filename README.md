@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published so far on 2022-10-02**
+## **64 Udemy free courses published so far on 2022-10-02**
 
 * [Public Speaking for Beginners](https://coursemetry.com/public-speaking-for-beginners/)
 
@@ -113,6 +113,24 @@
 * [Java Network Programming - Mastering TCP/IP | CJNP+ 2022PRO](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022pro/)
 
 * [The Ultimate Dream Body: Fat Burner Level 1](https://coursemetry.com/the-ultimate-dream-body-fat-burner-level-1/)
+
+* [iOS 16 Swift & SwiftUI - Complete iOS App Development](https://coursemetry.com/ios-16-swift-swiftui-complete-ios-app-development/)
+
+* [Create Sales Funnels - Email Automations - Membership](https://coursemetry.com/create-sales-funnels-email-automations-membership/)
+
+* [Moodle Security, de Cero a Experto](https://coursemetry.com/moodle-security-de-cero-a-experto/)
+
+* [Learn Calculus 1 - Become Expert on Calculus 1](https://coursemetry.com/learn-calculus-1-become-expert-on-calculus-1/)
+
+* [NodeJS Introductory Course For Absolute Beginners](https://coursemetry.com/nodejs-introductory-course-for-absolute-beginners/)
+
+* [Create awesome elearning site and course marketplace on wp](https://coursemetry.com/create-awesome-elearning-site-and-course-marketplace-on-wp/)
+
+* [Microsoft Excel Essentials & Excel Fundamentals: Excel 101](https://coursemetry.com/microsoft-excel-essentials-excel-fundamentals-excel-101/)
+
+* [Teachable: Create a profitable online course in Teachable-1](https://coursemetry.com/teachable-create-a-profitable-online-course-in-teachable-1/)
+
+* [How to Leverage Guest Podcasts to Grow Your Business](https://coursemetry.com/how-to-leverage-guest-podcasts-to-grow-your-business/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
