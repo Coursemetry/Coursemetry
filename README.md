@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-10-02**
+## **120 Udemy free courses published so far on 2022-10-02**
 
 * [Public Speaking for Beginners](https://coursemetry.com/public-speaking-for-beginners/)
 
@@ -195,6 +195,54 @@
 * [[Dashboard Microsoft Excel] : Conception Tableau de bord](https://coursemetry.com/dashboard-microsoft-excel-conception-tableau-de-bord/)
 
 * [MASTERCLASS : ÉCRIRE UN BON EMAIL POUR LA COMMUNICATION PRO](https://coursemetry.com/masterclass-ecrire-un-bon-email-pour-la-communication-pro/)
+
+* [AZ-900: Microsoft Azure Fundamentals Exam Preps 2022](https://coursemetry.com/az-900-microsoft-azure-fundamentals-exam-preps-2022/)
+
+* [[PMP Exam Practice] - Project Management Professional (PMP)](https://coursemetry.com/pmp-exam-practice-project-management-professional-pmp/)
+
+* [AWS certified security specialty Practice Tests 2022](https://coursemetry.com/aws-certified-security-specialty-practice-tests-2022-4/)
+
+* [Freelancing Mastery 2023 | Turn Your Free Time to Incomes](https://coursemetry.com/freelancing-mastery-2023-turn-your-free-time-to-incomes/)
+
+* [Linux As You Go](https://coursemetry.com/linux-as-you-go/)
+
+* [2022 Complete Python Bootcamp From Zero to Hero in Python](https://coursemetry.com/2022-complete-python-bootcamp-from-zero-to-hero-in-python/)
+
+* [Startup Bootstrapping Mastery 2023 | Grow without Diluting](https://coursemetry.com/startup-bootstrapping-mastery-2023-grow-without-diluting/)
+
+* [Bitcoin Mastery 2023 | How to Profit from this Bear Market](https://coursemetry.com/bitcoin-mastery-2023-how-to-profit-from-this-bear-market/)
+
+* [Learn Python from Zero till its Usage by NASA in Mars Rovers](https://coursemetry.com/learn-python-from-zero-till-its-usage-by-nasa-in-mars-rovers/)
+
+* [AWS Certified Cloud Practitioner PRACTICE TESTS  2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-tests-2022-3/)
+
+* [Python with NumPy For Absolute Beginners](https://coursemetry.com/python-with-numpy-for-absolute-beginners/)
+
+* [Cloud Computing: Prerequisites and AWS Cloud Essentials](https://coursemetry.com/cloud-computing-prerequisites-and-aws-cloud-essentials/)
+
+* [Getting started with Azure Cloud](https://coursemetry.com/getting-started-with-azure-cloud/)
+
+* [Learn Github Actions for CI/CD DevOps Pipelines](https://coursemetry.com/learn-github-actions-for-ci-cd-devops-pipelines/)
+
+* [Kubernetes for developers](https://coursemetry.com/kubernetes-for-developers/)
+
+* [Learn Infra as Code with Azure Bicep](https://coursemetry.com/learn-infra-as-code-with-azure-bicep/)
+
+* [Deploy Infra in the Cloud using Terraform](https://coursemetry.com/deploy-infra-in-the-cloud-using-terraform/)
+
+* [Learn 4 Steps to Make Money Online with Affiliate Marketing!](https://coursemetry.com/learn-4-steps-to-make-money-online-with-affiliate-marketing/)
+
+* [Excel Tips and trick : Learn MS Excel by making 7 Projects](https://coursemetry.com/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/)
+
+* [Master Complete Statistics For Computer Science - I](https://coursemetry.com/master-complete-statistics-for-computer-science-i/)
+
+* [JavaScript for Beginners - The Complete introduction to JS](https://coursemetry.com/javascript-for-beginners-the-complete-introduction-to-js/)
+
+* [Practical Kubernetes Guide](https://coursemetry.com/practical-kubernetes-guide/)
+
+* [Learn Azure DevOps CI/CD pipelines](https://coursemetry.com/learn-azure-devops-ci-cd-pipelines/)
+
+* [Introducción Al Hacking Ético desde Cero](https://coursemetry.com/introduccion-al-hacking-etico-desde-cero/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
