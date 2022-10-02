@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published so far on 2022-10-02**
+## **55 Udemy free courses published so far on 2022-10-02**
 
 * [Public Speaking for Beginners](https://coursemetry.com/public-speaking-for-beginners/)
 
@@ -111,6 +111,8 @@
 * [Home Workout Habits in 10 Min - Fitness for Busy-Lazy People](https://coursemetry.com/home-workout-habits-in-10-min-fitness-for-busy-lazy-people/)
 
 * [Java Network Programming - Mastering TCP/IP | CJNP+ 2022PRO](https://coursemetry.com/java-network-programming-mastering-tcp-ip-cjnp-2022pro/)
+
+* [The Ultimate Dream Body: Fat Burner Level 1](https://coursemetry.com/the-ultimate-dream-body-fat-burner-level-1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
