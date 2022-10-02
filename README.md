@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **134 Udemy free courses published so far on 2022-10-02**
+## **155 Udemy free courses published so far on 2022-10-02**
 
 * [Public Speaking for Beginners](https://coursemetry.com/public-speaking-for-beginners/)
 
@@ -271,6 +271,48 @@
 * [Ethical Hacking Using Metasploit Hacking Operating System](https://coursemetry.com/ethical-hacking-using-metasploit-hacking-operating-system/)
 
 * [La Masterclass Cryptomonnaies: Altcoin, NFT, DeFi, Métavers](https://coursemetry.com/la-masterclass-cryptomonnaies-altcoin-nft-defi-metavers/)
+
+* [Introduction to Drinking Water Treatment](https://coursemetry.com/introduction-to-drinking-water-treatment/)
+
+* [Getting Started with Raspberry Pi](https://coursemetry.com/getting-started-with-raspberry-pi-2/)
+
+* [Sıfırdan Uzmanlığa 3D NFT Koleksiyonu ve Metaverse Tasarımı](https://coursemetry.com/sifirdan-uzmanliga-3d-nft-koleksiyonu-ve-metaverse-tasarimi/)
+
+* [Introduction to Reverse Osmosis Desalination](https://coursemetry.com/introduction-to-reverse-osmosis-desalination/)
+
+* [Becoming A Sales Professional](https://coursemetry.com/becoming-a-sales-professional/)
+
+* [12 claves para motivar a tu personal asertivamente](https://coursemetry.com/12-claves-para-motivar-a-tu-personal-asertivamente/)
+
+* [Proceso CRUD (C Sharp y Microsoft Access)](https://coursemetry.com/proceso-crud-c-sharp-y-microsoft-access/)
+
+* [Email Monetization Mastery 2023 | Turn Contacts Into Incomes](https://coursemetry.com/email-monetization-mastery-2023-turn-contacts-into-incomes/)
+
+* [Photoshop Basics Masterclass - In Arabic](https://coursemetry.com/photoshop-basics-masterclass-in-arabic/)
+
+* [7 Ferramentas da Qualidade + 2 Cursos Extras](https://coursemetry.com/7-ferramentas-da-qualidade-2-cursos-extras/)
+
+* [Best of Copywriting: Copywriting 4 Ecommerce + 46 Templates](https://coursemetry.com/best-of-copywriting-copywriting-4-ecommerce-46-templates/)
+
+* [De la zona de confort no salgas, amplíala](https://coursemetry.com/de-la-zona-de-confort-no-salgas-ampliala/)
+
+* [Leadership Strategies Mastery 2023 | How to Lead and Succeed](https://coursemetry.com/leadership-strategies-mastery-2023-how-to-lead-and-succeed/)
+
+* [Como liberar tu potencial asertivamente](https://coursemetry.com/como-liberar-tu-potencial-asertivamente/)
+
+* [Exam C_SM100_7208 SAP Certified  Solution manager (7.2 SPS8)](https://coursemetry.com/exam-c_sm100_7208-sap-certified-solution-manager-7-2-sps8/)
+
+* [Power BI - Data Analytics Essentials with Power BI](https://coursemetry.com/power-bi-data-analytics-essentials-with-power-bi/)
+
+* [Facebook Mastery 2023 | Levearge the Largest Online Traffic](https://coursemetry.com/facebook-mastery-2023-levearge-the-largest-online-traffic/)
+
+* [Make Money Copywriting : Make Money Writing Copy From Home](https://coursemetry.com/make-money-copywriting-make-money-writing-copy-from-home/)
+
+* [Traffic Driving Mastery 2023 |Sell Anything to Anyone Online](https://coursemetry.com/traffic-driving-mastery-2023-sell-anything-to-anyone-online/)
+
+* [Curso de Base de Datos MySQL Server](https://coursemetry.com/curso-de-base-de-datos-mysql-server/)
+
+* [Passive Income Mastery 2023 | Let Money Work for You Instead](https://coursemetry.com/passive-income-mastery-2023-let-money-work-for-you-instead/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
