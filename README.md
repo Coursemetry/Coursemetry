@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **78 Udemy free courses published so far on 2022-10-03**
+## **96 Udemy free courses published so far on 2022-10-03**
 
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
@@ -159,6 +159,42 @@
 * [S Corporation Income Tax - Form 1120S](https://coursemetry.com/s-corporation-income-tax-form-1120s/)
 
 * [Agile Scrum Advanced Software Development+Program Management](https://coursemetry.com/agile-scrum-advanced-software-developmentprogram-management/)
+
+* [The Vulnerability Analysis Course](https://coursemetry.com/the-vulnerability-analysis-course/)
+
+* [Master the Art Of Self-Confidence – Unshakable Confidence](https://coursemetry.com/master-the-art-of-self-confidence-unshakable-confidence/)
+
+* [Sales Skills Training: Give a Winning Sales Presentation](https://coursemetry.com/sales-skills-training-give-a-winning-sales-presentation/)
+
+* [Certified Professional in Python Programming - Practice Test](https://coursemetry.com/certified-professional-in-python-programming-practice-test/)
+
+* [Persuasion: Give a Persuasive Presentation](https://coursemetry.com/persuasion-give-a-persuasive-presentation/)
+
+* [Certified Professional in Data Science - Practice Test](https://coursemetry.com/certified-professional-in-data-science-practice-test/)
+
+* [2022 Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-node-js-developer-practice-tests/)
+
+* [2022 Become A Certified React Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-react-developer-practice-tests/)
+
+* [Facebook Ads & Facebook Marketing Funnel Crash Course- 2022](https://coursemetry.com/facebook-ads-facebook-marketing-funnel-crash-course-2022/)
+
+* [Google professional cloud architect Exam 2022](https://coursemetry.com/google-professional-cloud-architect-exam-2022/)
+
+* [Journalism: Conduct Great Media Interviews](https://coursemetry.com/journalism-conduct-great-media-interviews/)
+
+* [Professional in advance PHP Language - Practice Test](https://coursemetry.com/professional-in-advance-php-language-practice-test/)
+
+* [Sales Skills Training: Free Sales Generation Seminars](https://coursemetry.com/sales-skills-training-free-sales-generation-seminars/)
+
+* [Certified Professional in C++ Programming - Practice Test](https://coursemetry.com/certified-professional-in-c-programming-practice-test-2/)
+
+* [2022 Become A Certified JavaScript Developer: Practice Tests](https://coursemetry.com/2022-become-a-certified-javascript-developer-practice-tests/)
+
+* [Facebook Ads Marketing Crash Course Traffic & leads - 2022](https://coursemetry.com/facebook-ads-marketing-crash-course-traffic-leads-2022/)
+
+* [Digital Marketing Business Online For Free Social Media 2022](https://coursemetry.com/digital-marketing-business-online-for-free-social-media-2022/)
+
+* [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
