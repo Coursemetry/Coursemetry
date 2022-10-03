@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published so far on 2022-10-03**
+## **149 Udemy free courses published so far on 2022-10-03**
 
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
@@ -162,8 +162,6 @@
 
 * [The Vulnerability Analysis Course](https://coursemetry.com/the-vulnerability-analysis-course/)
 
-* [Master the Art Of Self-Confidence – Unshakable Confidence](https://coursemetry.com/master-the-art-of-self-confidence-unshakable-confidence/)
-
 * [Sales Skills Training: Give a Winning Sales Presentation](https://coursemetry.com/sales-skills-training-give-a-winning-sales-presentation/)
 
 * [Certified Professional in Python Programming - Practice Test](https://coursemetry.com/certified-professional-in-python-programming-practice-test/)
@@ -235,6 +233,74 @@
 * [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
 
 * [Business English Campus: Supply Chain and Business Skills](https://coursemetry.com/business-english-campus-supply-chain-and-business-skills/)
+
+* [Passive Income With U demy Courses HIndi](https://coursemetry.com/passive-income-with-u-demy-courses-hindi/)
+
+* [Facebook Ads Marketing Targeting Strategies ~Hindi 2022](https://coursemetry.com/facebook-ads-marketing-targeting-strategies-hindi-2022/)
+
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+
+* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
+
+* [Facebook Ads + Whatsapp Ads Marketing (CASE STUDY) HIndi](https://coursemetry.com/facebook-ads-whatsapp-ads-marketing-case-study-hindi/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Learn AND Generate & Select  Right Business Ideas](https://coursemetry.com/learn-and-generate-select-right-business-ideas/)
+
+* [The Ultimate LinkedIn Marketing Quiz (2022 Edition)](https://coursemetry.com/the-ultimate-linkedin-marketing-quiz-2022-edition/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [The Complete Microsoft Word Course: Master Microsoft Word](https://coursemetry.com/the-complete-microsoft-word-course-master-microsoft-word/)
+
+* [Python for OOP: The A-to-Z OOP Python Programming Course](https://coursemetry.com/python-for-oop-the-a-to-z-oop-python-programming-course/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [Re-Invent Yourself by Boosting Your Self-Esteem](https://coursemetry.com/re-invent-yourself-by-boosting-your-self-esteem/)
+
+* [Master the Art Of Self-Confidence – Unshakable Confidence](https://coursemetry.com/master-the-art-of-self-confidence-unshakable-confidence/)
+
+* [Complete Algorithmic Trading Course - Forex, Stocks, Crypto](https://coursemetry.com/complete-algorithmic-trading-course-forex-stocks-crypto/)
+
+* [Advanced Metasploit Cyber Security Course](https://coursemetry.com/advanced-metasploit-cyber-security-course/)
+
+* [Presentation Skills for Beginners](https://coursemetry.com/presentation-skills-for-beginners/)
+
+* [React.JS: The Complete Course for Beginners](https://coursemetry.com/react-js-the-complete-course-for-beginners/)
+
+* [AutoCAD 2023 MasterClass: Produce Amazing Site Plans Quickly](https://coursemetry.com/autocad-2023-masterclass-produce-amazing-site-plans-quickly/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [Persuasion in Business Communications](https://coursemetry.com/persuasion-in-business-communications/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [Space Render 2.0: Transform your podcast into videos in 2022](https://coursemetry.com/space-render-2-0-transform-your-podcast-into-videos-in-2022/)
+
+* [Build Complete 2022 CMS Blog in PHP MySQL Bootstrap & PDO](https://coursemetry.com/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/)
+
+* [The Complete PowerPoint Design and Delivery Course for 2022](https://coursemetry.com/the-complete-powerpoint-design-and-delivery-course-for-2022/)
+
+* [How to Attract a Suitable Partner by Changing Your Mindset](https://coursemetry.com/how-to-attract-a-suitable-partner-by-changing-your-mindset/)
+
+* [The Malware Analysis Course](https://coursemetry.com/the-malware-analysis-course/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
