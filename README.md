@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **149 Udemy free courses published so far on 2022-10-03**
+## **164 Udemy free courses published so far on 2022-10-03**
 
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
@@ -301,6 +301,36 @@
 * [The Malware Analysis Course](https://coursemetry.com/the-malware-analysis-course/)
 
 * [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Network + Practice Test](https://coursemetry.com/network-practice-test/)
+
+* [Earn Money Legally Using Pentesting](https://coursemetry.com/earn-money-legally-using-pentesting/)
+
+* [Excellence in Product and Brand Management](https://coursemetry.com/excellence-in-product-and-brand-management/)
+
+* [Smartsheet 2022 For Beginners: Modern Project Management](https://coursemetry.com/smartsheet-2022-for-beginners-modern-project-management/)
+
+* [Python Performance Optimization](https://coursemetry.com/python-performance-optimization/)
+
+* [Ethical Hacking Deep Web and Dark Net Course](https://coursemetry.com/ethical-hacking-deep-web-and-dark-net-course/)
+
+* [Estrategias Pro de Targeting de Audiencia con Facebook Ads](https://coursemetry.com/estrategias-pro-de-targeting-de-audiencia-con-facebook-ads/)
+
+* [Personal Branding System 3.0: UNIQUE Secret for YOUR Success](https://coursemetry.com/personal-branding-system-3-0-unique-secret-for-your-success/)
+
+* [Practical Password Cracking Course](https://coursemetry.com/practical-password-cracking-course/)
+
+* [Social Engineering Course](https://coursemetry.com/social-engineering-course/)
+
+* [The Complete Professional Psychic Course - FULLY ACCREDITED](https://coursemetry.com/the-complete-professional-psychic-course-fully-accredited/)
+
+* [The Complete Logo Design Theory for Beginners Course 2023](https://coursemetry.com/the-complete-logo-design-theory-for-beginners-course-2023/)
+
+* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/)
+
+* [Business Networking for Success and Company Growth: Part One](https://coursemetry.com/business-networking-for-success-and-company-growth-part-one/)
+
+* [The Complete Job Interviewing Skills Masterclass](https://coursemetry.com/the-complete-job-interviewing-skills-masterclass/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
