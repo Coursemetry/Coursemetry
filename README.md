@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-10-03**
+## **111 Udemy free courses published so far on 2022-10-03**
 
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
@@ -195,6 +195,36 @@
 * [Digital Marketing Business Online For Free Social Media 2022](https://coursemetry.com/digital-marketing-business-online-for-free-social-media-2022/)
 
 * [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
+
+* [Facebook Ads Marketing For Events Organic & Paid Strategy](https://coursemetry.com/facebook-ads-marketing-for-events-organic-paid-strategy/)
+
+* [Facebook Marketing & Facebook Ads Course For Beginners](https://coursemetry.com/facebook-marketing-facebook-ads-course-for-beginners/)
+
+* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
+
+* [Build Shopify store & Run Facebook Page Likes Ad In 2022](https://coursemetry.com/build-shopify-store-run-facebook-page-likes-ad-in-2022/)
+
+* [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
+
+* [Facebook Ads Lead Generation Marketing for business](https://coursemetry.com/facebook-ads-lead-generation-marketing-for-business/)
+
+* [Dropshipping Shopify Store Creation like  Boss for Ecommerce](https://coursemetry.com/dropshipping-shopify-store-creation-like-boss-for-ecommerce/)
+
+* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+
+* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [Facebook Ads Google My Business & Google Ads (Adwords) 2022](https://coursemetry.com/facebook-ads-google-my-business-google-ads-adwords-2022/)
+
+* [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
+
+* [Configuración y Optimizacion de tu Página de Facebook 2022](https://coursemetry.com/configuracion-y-optimizacion-de-tu-pagina-de-facebook-2022/)
+
+* [Como crear y configurar tu canal de Youtube desde cero 2022](https://coursemetry.com/como-crear-y-configurar-tu-canal-de-youtube-desde-cero-2022/)
+
+* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
