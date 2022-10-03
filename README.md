@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **164 Udemy free courses published so far on 2022-10-03**
+## **172 Udemy free courses published so far on 2022-10-03**
 
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
@@ -331,6 +331,22 @@
 * [Business Networking for Success and Company Growth: Part One](https://coursemetry.com/business-networking-for-success-and-company-growth-part-one/)
 
 * [The Complete Job Interviewing Skills Masterclass](https://coursemetry.com/the-complete-job-interviewing-skills-masterclass/)
+
+* [Practice Test | Cisco Cybersecurity Operations Fundamentals](https://coursemetry.com/practice-test-cisco-cybersecurity-operations-fundamentals/)
+
+* [Python Certification Exam Microsoft MTA 98-381 - Preparation](https://coursemetry.com/python-certification-exam-microsoft-mta-98-381-preparation/)
+
+* [Seis pasos para el bienestar laboral](https://coursemetry.com/seis-pasos-para-el-bienestar-laboral/)
+
+* [Learn in 69 mins how to make right career choices & Make One](https://coursemetry.com/learn-in-69-mins-how-to-make-right-career-choices-make-one/)
+
+* [Egyptian Arabic language: complete conversations 101 course](https://coursemetry.com/egyptian-arabic-language-complete-conversations-101-course/)
+
+* [MINERIA DE CRIPTOMONEDAS sin INVERTIR como  HACKER PRO](https://coursemetry.com/mineria-de-criptomonedas-sin-invertir-como-hacker-pro/)
+
+* [Tailwind CSS Mastery: Build 2 Advanced Projects](https://coursemetry.com/tailwind-css-mastery-build-2-advanced-projects/)
+
+* [APRENDE a crear HERRAMIENTAS de PENTESTING con PYTHON](https://coursemetry.com/aprende-a-crear-herramientas-de-pentesting-con-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
