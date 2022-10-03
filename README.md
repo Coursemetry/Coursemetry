@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-10-03**
+## **116 Udemy free courses published so far on 2022-10-03**
 
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
@@ -225,6 +225,16 @@
 * [Como crear y configurar tu canal de Youtube desde cero 2022](https://coursemetry.com/como-crear-y-configurar-tu-canal-de-youtube-desde-cero-2022/)
 
 * [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+
+* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
+
+* [Hack Network PCs](https://coursemetry.com/hack-network-pcs/)
+
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
+
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
+
+* [Business English Campus: Supply Chain and Business Skills](https://coursemetry.com/business-english-campus-supply-chain-and-business-skills/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
