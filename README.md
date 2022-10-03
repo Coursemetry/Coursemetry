@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-10-03**
+## **78 Udemy free courses published so far on 2022-10-03**
 
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
@@ -137,6 +137,28 @@
 * [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
 
 * [Solid Principles (2022) for Software Architecture & Design](https://coursemetry.com/solid-principles-2022-for-software-architecture-design/)
+
+* [Governmental Accounting 300 Proprietary & Fiduciary Funds](https://coursemetry.com/governmental-accounting-300-proprietary-fiduciary-funds/)
+
+* [Photo Editing Using Picsart App Masterclass 2022](https://coursemetry.com/photo-editing-using-picsart-app-masterclass-2022/)
+
+* [Not-for-Profit Accounting-Charities, Colleges, & Health Care](https://coursemetry.com/not-for-profit-accounting-charities-colleges-health-care/)
+
+* [C Corporation Income Tax (Form 1120)](https://coursemetry.com/c-corporation-income-tax-form-1120/)
+
+* [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
+
+* [Learn Certified Ethical Hacking From Scratch](https://coursemetry.com/learn-certified-ethical-hacking-from-scratch/)
+
+* [The Metasploit Framework Guide](https://coursemetry.com/the-metasploit-framework-guide/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [Kick Out Depression -Complete Treatment 2022](https://coursemetry.com/kick-out-depression-complete-treatment-2022/)
+
+* [S Corporation Income Tax - Form 1120S](https://coursemetry.com/s-corporation-income-tax-form-1120s/)
+
+* [Agile Scrum Advanced Software Development+Program Management](https://coursemetry.com/agile-scrum-advanced-software-developmentprogram-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
