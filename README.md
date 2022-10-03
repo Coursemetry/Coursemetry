@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **172 Udemy free courses published so far on 2022-10-03**
+## **182 Udemy free courses published so far on 2022-10-03**
 
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
@@ -347,6 +347,26 @@
 * [Tailwind CSS Mastery: Build 2 Advanced Projects](https://coursemetry.com/tailwind-css-mastery-build-2-advanced-projects/)
 
 * [APRENDE a crear HERRAMIENTAS de PENTESTING con PYTHON](https://coursemetry.com/aprende-a-crear-herramientas-de-pentesting-con-python/)
+
+* [A+ Core2 Practice Test](https://coursemetry.com/a-core2-practice-test/)
+
+* [Scanning Cyber Security Hacking Course](https://coursemetry.com/scanning-cyber-security-hacking-course/)
+
+* [Best Course for Beginners; SAP SD: SAP Order to Cash by MFAB](https://coursemetry.com/best-course-for-beginners-sap-sd-sap-order-to-cash-by-mfab/)
+
+* [AZ-400: Designing and Implementing Microsoft DevOps Solution](https://coursemetry.com/az-400-designing-and-implementing-microsoft-devops-solution-2/)
+
+* [Fotogrametría y Documentación Arquitectónica](https://coursemetry.com/fotogrametria-y-documentacion-arquitectonica/)
+
+* [eBay Success Bootcamp: Become a Top Rated Seller Fast](https://coursemetry.com/ebay-success-bootcamp-become-a-top-rated-seller-fast/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-questions-2/)
+
+* [AZ-304: Microsoft Azure Architect Design Practice Questions](https://coursemetry.com/az-304-microsoft-azure-architect-design-practice-questions-3/)
+
+* [Inkscape Hyperdrive: Master the Fundamentals [Inkscape 1.2]](https://coursemetry.com/inkscape-hyperdrive-master-the-fundamentals-inkscape-1-2/)
+
+* [Cross Site Scripting (XSS) Cyber Security Course](https://coursemetry.com/cross-site-scripting-xss-cyber-security-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
