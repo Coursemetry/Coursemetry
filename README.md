@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **166 Udemy free courses published so far on 2022-10-04**
+## **191 Udemy free courses published so far on 2022-10-04**
 
 * [Topografía y Replanteos en Obras de Edificación](https://coursemetry.com/topografia-y-replanteos-en-obras-de-edificacion/)
 
@@ -138,8 +138,6 @@
 
 * [Web Development Masterclass - Online Certification Course](https://coursemetry.com/web-development-masterclass-online-certification-course/)
 
-* [SEO:Affiliate Marketing Website + SEO |255+ Videos |22 Hours](https://coursemetry.com/seoaffiliate-marketing-website-seo-255-videos-22-hours/)
-
 * [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
 
 * [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
@@ -185,8 +183,6 @@
 * [Intermediate: Cognitive Behavior Therapy- (Fully Accredited)](https://coursemetry.com/intermediate-cognitive-behavior-therapy-fully-accredited/)
 
 * [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
-
-* [Accelerated Learning: Study Skills for Success: IT industry](https://coursemetry.com/accelerated-learning-study-skills-for-success-it-industry/)
 
 * [Learn ETABS & SAFE in the Structural Design of 15 Stories RC](https://coursemetry.com/learn-etabs-safe-in-the-structural-design-of-15-stories-rc/)
 
@@ -335,6 +331,60 @@
 * [Smartsheet 2022 For Beginners: Modern Project Management](https://coursemetry.com/smartsheet-2022-for-beginners-modern-project-management/)
 
 * [The Skilled Interviewer](https://coursemetry.com/the-skilled-interviewer/)
+
+* [Excel paso a paso](https://coursemetry.com/excel-paso-a-paso/)
+
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
+
+* [Programacion con Python](https://coursemetry.com/programacion-con-python/)
+
+* [Pandas, libreria de Python para ciencia de datos](https://coursemetry.com/pandas-libreria-de-python-para-ciencia-de-datos/)
+
+* [Ciencia de datos con Python](https://coursemetry.com/ciencia-de-datos-con-python/)
+
+* [Numpy, libreria de Python para ciencia de datos](https://coursemetry.com/numpy-libreria-de-python-para-ciencia-de-datos/)
+
+* [Matematicas Financieras](https://coursemetry.com/matematicas-financieras/)
+
+* [Learn 4 STEPS to Make Money Online by Blogging!](https://coursemetry.com/learn-4-steps-to-make-money-online-by-blogging/)
+
+* [React Guide - Build a TicTacToe App using React Native!](https://coursemetry.com/react-guide-build-a-tictactoe-app-using-react-native/)
+
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
+
+* [MERN Stack with Blog Project](https://coursemetry.com/mern-stack-with-blog-project/)
+
+* [Iniciacion a la programacion con JavaScript](https://coursemetry.com/iniciacion-a-la-programacion-con-javascript/)
+
+* [Flask, desarrollo web con Python](https://coursemetry.com/flask-desarrollo-web-con-python/)
+
+* [Complete Reading Music Megacourse: Beginner to Expert](https://coursemetry.com/complete-reading-music-megacourse-beginner-to-expert/)
+
+* [How To DESIGN CHARACTERS for comics, games and animation](https://coursemetry.com/how-to-design-characters-for-comics-games-and-animation/)
+
+* [Accelerated Learning: Study Skills for Success: IT industry](https://coursemetry.com/accelerated-learning-study-skills-for-success-it-industry/)
+
+* [Programa aplicaciones para Android con AppInventor](https://coursemetry.com/programa-aplicaciones-para-android-con-appinventor/)
+
+* [Complete Metasploit Course: Beginner to Advance](https://coursemetry.com/complete-metasploit-course-beginner-to-advance/)
+
+* [Effective Communication English](https://coursemetry.com/effective-communication-english/)
+
+* [Complete Cyber Security Masterclass: Beginner to Advance](https://coursemetry.com/complete-cyber-security-masterclass-beginner-to-advance/)
+
+* [Git para desarrolladores](https://coursemetry.com/git-para-desarrolladores/)
+
+* [SEO:Affiliate Marketing Website + SEO |255+ Videos |22 Hours](https://coursemetry.com/seoaffiliate-marketing-website-seo-255-videos-22-hours/)
+
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
+
+* [Aprende a crear tu web desde cero con HTML y CSS](https://coursemetry.com/aprende-a-crear-tu-web-desde-cero-con-html-y-css/)
+
+* [Information Security Fundamentals](https://coursemetry.com/information-security-fundamentals/)
+
+* [Complete Ethical Hacking Certification Course: Zero to Hero](https://coursemetry.com/complete-ethical-hacking-certification-course-zero-to-hero/)
+
+* [Crea tu propio juego con Python](https://coursemetry.com/crea-tu-propio-juego-con-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
