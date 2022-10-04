@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **191 Udemy free courses published so far on 2022-10-04**
+## **204 Udemy free courses published so far on 2022-10-04**
 
 * [Topografía y Replanteos en Obras de Edificación](https://coursemetry.com/topografia-y-replanteos-en-obras-de-edificacion/)
 
@@ -385,6 +385,32 @@
 * [Complete Ethical Hacking Certification Course: Zero to Hero](https://coursemetry.com/complete-ethical-hacking-certification-course-zero-to-hero/)
 
 * [Crea tu propio juego con Python](https://coursemetry.com/crea-tu-propio-juego-con-python/)
+
+* [300+ Python Exercises (Simple and Complex) with Algorithm](https://coursemetry.com/300-python-exercises-simple-and-complex-with-algorithm/)
+
+* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
+
+* [Android Application Penetration Testing (Arabic)](https://coursemetry.com/android-application-penetration-testing-arabic/)
+
+* [Learn to code in Java by Solving Coding Problems](https://coursemetry.com/learn-to-code-in-java-by-solving-coding-problems/)
+
+* [Flutter Clean  Architecture [2022] [Flutter 3] (In Arabic)](https://coursemetry.com/flutter-clean-architecture-2022-flutter-3-in-arabic/)
+
+* [Accredited Certification in Ketogenic Diet (Keto /Ketosis)](https://coursemetry.com/accredited-certification-in-ketogenic-diet-keto-ketosis/)
+
+* [2022 - The Master in Web Development (Backend & Frontend)](https://coursemetry.com/2022-the-master-in-web-development-backend-frontend/)
+
+* [Learn Python in 7 Days with Exercises and Assignments](https://coursemetry.com/learn-python-in-7-days-with-exercises-and-assignments/)
+
+* [Sports Nutrition for Athletes and Fitness Enthusiasts](https://coursemetry.com/sports-nutrition-for-athletes-and-fitness-enthusiasts/)
+
+* [How To MAKE Comics - From concept, to pages, to publishing](https://coursemetry.com/how-to-make-comics-from-concept-to-pages-to-publishing/)
+
+* [Fire Up Creativity in Your Child](https://coursemetry.com/fire-up-creativity-in-your-child/)
+
+* [AutoCAD2020 2D Basics & Advanced(Full Projects Civil + Arch)](https://coursemetry.com/autocad2020-2d-basics-advancedfull-projects-civil-arch/)
+
+* [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
