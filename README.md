@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **204 Udemy free courses published so far on 2022-10-04**
+## **205 Udemy free courses published so far on 2022-10-04**
 
 * [Topografía y Replanteos en Obras de Edificación](https://coursemetry.com/topografia-y-replanteos-en-obras-de-edificacion/)
 
@@ -411,6 +411,8 @@
 * [AutoCAD2020 2D Basics & Advanced(Full Projects Civil + Arch)](https://coursemetry.com/autocad2020-2d-basics-advancedfull-projects-civil-arch/)
 
 * [First Steps Into Public Speaking](https://coursemetry.com/first-steps-into-public-speaking/)
+
+* [The Malware Analysis Course](https://coursemetry.com/the-malware-analysis-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
