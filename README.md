@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **153 Udemy free courses published so far on 2022-10-04**
+## **166 Udemy free courses published so far on 2022-10-04**
 
 * [Topografía y Replanteos en Obras de Edificación](https://coursemetry.com/topografia-y-replanteos-en-obras-de-edificacion/)
 
@@ -309,6 +309,32 @@
 * [Fundamental Question on Ethical Hacking](https://coursemetry.com/fundamental-question-on-ethical-hacking/)
 
 * [Fundamental Question on Digital Marketing](https://coursemetry.com/fundamental-question-on-digital-marketing/)
+
+* [Professional in advance PHP Language - Practice Test 2022](https://coursemetry.com/professional-in-advance-php-language-practice-test-2022/)
+
+* [Crack Information Technology: All-Time Ultimate Quiz](https://coursemetry.com/crack-information-technology-all-time-ultimate-quiz/)
+
+* [5 Must Know Crowdfunding Tactics for Kickstarter & Indiegogo](https://coursemetry.com/5-must-know-crowdfunding-tactics-for-kickstarter-indiegogo/)
+
+* [Instagram Marketing 2021: Growth and Promotion on Instagram](https://coursemetry.com/instagram-marketing-2021-growth-and-promotion-on-instagram/)
+
+* [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Google Professional Cloud Architect Exam 2022 [NEW] - OCT](https://coursemetry.com/google-professional-cloud-architect-exam-2022-new-oct/)
+
+* [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
+
+* [Kali Linux Cyber Security Guide For Beginners](https://coursemetry.com/kali-linux-cyber-security-guide-for-beginners/)
+
+* [API REST con PHP  y MYSQL](https://coursemetry.com/api-rest-con-php-y-mysql/)
+
+* [Market Research Test Quiz For Business Analysts (BAs)](https://coursemetry.com/market-research-test-quiz-for-business-analysts-bas/)
+
+* [Smartsheet 2022 For Beginners: Modern Project Management](https://coursemetry.com/smartsheet-2022-for-beginners-modern-project-management/)
+
+* [The Skilled Interviewer](https://coursemetry.com/the-skilled-interviewer/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
