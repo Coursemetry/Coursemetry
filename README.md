@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **99 Udemy free courses published so far on 2022-10-05**
+## **111 Udemy free courses published so far on 2022-10-05**
 
 * [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
 
@@ -201,6 +201,30 @@
 * [Excel - Microsoft Excel Course Beginner to Expert 2022](https://coursemetry.com/excel-microsoft-excel-course-beginner-to-expert-2022/)
 
 * [Crea Correos Corporativos con Dominio Propio en Gmail](https://coursemetry.com/crea-correos-corporativos-con-dominio-propio-en-gmail/)
+
+* [First Steps Into Selling Smarter](https://coursemetry.com/first-steps-into-selling-smarter/)
+
+* [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
+
+* [Git & GitHub A Practical Course: Beginner To Advanced Level](https://coursemetry.com/git-github-a-practical-course-beginner-to-advanced-level/)
+
+* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [Enterprise Application Development Complete Course 2022](https://coursemetry.com/enterprise-application-development-complete-course-2022/)
+
+* [HACKING de WIFI desde Windows y Android](https://coursemetry.com/hacking-de-wifi-desde-windows-y-android/)
+
+* [Ultimate Python Bootcamp For Data Science & Machine Learning](https://coursemetry.com/ultimate-python-bootcamp-for-data-science-machine-learning/)
+
+* [Asteroids with Python PyGame](https://coursemetry.com/asteroids-with-python-pygame/)
+
+* [Kali Linux: A complete course of Ethical Hacking](https://coursemetry.com/kali-linux-a-complete-course-of-ethical-hacking/)
+
+* [Unleash Your Creative Mind](https://coursemetry.com/unleash-your-creative-mind/)
+
+* [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
