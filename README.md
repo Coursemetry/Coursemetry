@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-10-05**
+## **80 Udemy free courses published so far on 2022-10-05**
 
 * [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
 
@@ -149,6 +149,20 @@
 * [Automotive Mechanic Training Certificated Electrical | 2022+](https://coursemetry.com/automotive-mechanic-training-certificated-electrical-2022/)
 
 * [Facebook Chat Bot in Python 2022 from Scratch.](https://coursemetry.com/facebook-chat-bot-in-python-2022-from-scratch/)
+
+* [The Power of Social Media Stories for Marketing](https://coursemetry.com/the-power-of-social-media-stories-for-marketing/)
+
+* [The Anti-Anxiety Formula - Live A Stress-Free Life!](https://coursemetry.com/the-anti-anxiety-formula-live-a-stress-free-life/)
+
+* [Stress & Anxiety Management](https://coursemetry.com/stress-anxiety-management/)
+
+* [Modern Niche Marketing](https://coursemetry.com/modern-niche-marketing/)
+
+* [Fiverr Hacks, become Top Rated Seller on fiverr](https://coursemetry.com/fiverr-hacks-become-top-rated-seller-on-fiverr/)
+
+* [Youtube Channel SEO & Video SEO](https://coursemetry.com/youtube-channel-seo-video-seo/)
+
+* [Python Crash Course For Absolute Beginners in Hindi](https://coursemetry.com/python-crash-course-for-absolute-beginners-in-hindi/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
