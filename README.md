@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **80 Udemy free courses published so far on 2022-10-05**
+## **99 Udemy free courses published so far on 2022-10-05**
 
 * [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
 
@@ -163,6 +163,44 @@
 * [Youtube Channel SEO & Video SEO](https://coursemetry.com/youtube-channel-seo-video-seo/)
 
 * [Python Crash Course For Absolute Beginners in Hindi](https://coursemetry.com/python-crash-course-for-absolute-beginners-in-hindi/)
+
+* [IOS Ethical Hacking Course](https://coursemetry.com/ios-ethical-hacking-course/)
+
+* [Web Ethical Hacking Bug Bounty Course](https://coursemetry.com/web-ethical-hacking-bug-bounty-course/)
+
+* [1Z0-1094-22 Oracle Cloud Database Migration and Integration.](https://coursemetry.com/1z0-1094-22-oracle-cloud-database-migration-and-integration/)
+
+* [Termux desde Cero a HACKER PRO](https://coursemetry.com/termux-desde-cero-a-hacker-pro/)
+
+* [Scanning & Discovery Techniques For Penstesters](https://coursemetry.com/scanning-discovery-techniques-for-penstesters/)
+
+* [The Ultimate Computers and Technology Quiz (2022 Edition)](https://coursemetry.com/the-ultimate-computers-and-technology-quiz-2022-edition/)
+
+* [Hacking de WhatsApp Definitivo Fines Éticos](https://coursemetry.com/hacking-de-whatsapp-definitivo-fines-eticos/)
+
+* [Create a game on Android for Beginners](https://coursemetry.com/create-a-game-on-android-for-beginners/)
+
+* [Unity Android : Build 2 Mobile Games](https://coursemetry.com/unity-android-build-2-mobile-games/)
+
+* [Android App Development 2022. Learn Android Development Fast](https://coursemetry.com/android-app-development-2022-learn-android-development-fast/)
+
+* [Unity 2D Game Development (Rotate Blast)](https://coursemetry.com/unity-2d-game-development-rotate-blast/)
+
+* [Unity Mobile Development - Create Your First Mobile Games!](https://coursemetry.com/unity-mobile-development-create-your-first-mobile-games/)
+
+* [Python | Sıfırdan Uzmanlığa 30+ Saat Programlama A-Z](https://coursemetry.com/python-sifirdan-uzmanliga-30-saat-programlama-a-z/)
+
+* [API REST con PHP  y MYSQL](https://coursemetry.com/api-rest-con-php-y-mysql/)
+
+* [Microsoft Excel - Excel Only For Beginners 2022](https://coursemetry.com/microsoft-excel-excel-only-for-beginners-2022/)
+
+* [Excel - Formulas & Functions Beginner to Expert Course 2022](https://coursemetry.com/excel-formulas-functions-beginner-to-expert-course-2022/)
+
+* [SEO - The Complete SEO Course Beginners to Advanced 2022](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2022/)
+
+* [Excel - Microsoft Excel Course Beginner to Expert 2022](https://coursemetry.com/excel-microsoft-excel-course-beginner-to-expert-2022/)
+
+* [Crea Correos Corporativos con Dominio Propio en Gmail](https://coursemetry.com/crea-correos-corporativos-con-dominio-propio-en-gmail/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
