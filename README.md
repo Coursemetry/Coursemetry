@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **42 Udemy free courses published so far on 2022-10-05**
+## **45 Udemy free courses published so far on 2022-10-05**
 
 * [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
 
@@ -87,6 +87,12 @@
 * [Kubernetes for developers](https://coursemetry.com/kubernetes-for-developers/)
 
 * [Networking for Real Estate Investors For Profits & Funds](https://coursemetry.com/networking-for-real-estate-investors-for-profits-funds/)
+
+* [Static Timing Analysis: VLSI](https://coursemetry.com/static-timing-analysis-vlsi/)
+
+* [Short Track - Adobe Photoshop from Scratch to 27 Projects](https://coursemetry.com/short-track-adobe-photoshop-from-scratch-to-27-projects/)
+
+* [Vue JS + Google Maps API: Ultimate Beginner's Friendly Guide](https://coursemetry.com/vue-js-google-maps-api-ultimate-beginners-friendly-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
