@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-10-05**
+## **55 Udemy free courses published so far on 2022-10-05**
 
 * [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
 
@@ -93,6 +93,26 @@
 * [Short Track - Adobe Photoshop from Scratch to 27 Projects](https://coursemetry.com/short-track-adobe-photoshop-from-scratch-to-27-projects/)
 
 * [Vue JS + Google Maps API: Ultimate Beginner's Friendly Guide](https://coursemetry.com/vue-js-google-maps-api-ultimate-beginners-friendly-guide/)
+
+* [Técnicas para la creación de elementos 3D para Videojuegos](https://coursemetry.com/tecnicas-para-la-creacion-de-elementos-3d-para-videojuegos/)
+
+* [Curso profesional de Trading intradia](https://coursemetry.com/curso-profesional-de-trading-intradia/)
+
+* [Do Different Real-World Python Projects as a Beginner](https://coursemetry.com/do-different-real-world-python-projects-as-a-beginner/)
+
+* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
+
+* [Python 3 Fundamentals : Learn Python With Real-World Coding](https://coursemetry.com/python-3-fundamentals-learn-python-with-real-world-coding/)
+
+* [The Complete Logo Design Theory for Beginners Course 2023](https://coursemetry.com/the-complete-logo-design-theory-for-beginners-course-2023/)
+
+* [PODCAST MASTERY: How to Make, Market, and Monetize Podcasts](https://coursemetry.com/podcast-mastery-how-to-make-market-and-monetize-podcasts/)
+
+* [Thousands Dollars Saving on Taxes Today - USA Focused Course](https://coursemetry.com/thousands-dollars-saving-on-taxes-today-usa-focused-course/)
+
+* [How to choose among C++,Java,Python,Javascript, Rust,GoLang?](https://coursemetry.com/how-to-choose-among-cjavapythonjavascript-rustgolang/)
+
+* [poultry diseases for profetionals](https://coursemetry.com/poultry-diseases-for-profetionals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
