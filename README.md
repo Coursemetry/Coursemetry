@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-10-05**
+## **131 Udemy free courses published so far on 2022-10-05**
 
 * [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
 
@@ -225,6 +225,46 @@
 * [Unleash Your Creative Mind](https://coursemetry.com/unleash-your-creative-mind/)
 
 * [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
+
+* [Kali Linux Basics Course For Cyber Security](https://coursemetry.com/kali-linux-basics-course-for-cyber-security/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [Aprende Lenguaje C de CERO a EXPERTO](https://coursemetry.com/aprende-lenguaje-c-de-cero-a-experto/)
+
+* [Google Hacking Course For Cyber Security](https://coursemetry.com/google-hacking-course-for-cyber-security/)
+
+* [Excel VBA - Make Excel Look Like a Standalone Program 2022](https://coursemetry.com/excel-vba-make-excel-look-like-a-standalone-program-2022/)
+
+* [Payload Ethical Hacking Course](https://coursemetry.com/payload-ethical-hacking-course/)
+
+* [Java Programming For Complete Beginners And Experts](https://coursemetry.com/java-programming-for-complete-beginners-and-experts/)
+
+* [Escuela de Python 2021: Aprende Python 3.9+ de cero a Master](https://coursemetry.com/escuela-de-python-2021-aprende-python-3-9-de-cero-a-master/)
+
+* [Java: Curso profesional de Java 2022 –De cero a Master](https://coursemetry.com/java-curso-profesional-de-java-2022-de-cero-a-master/)
+
+* [Escuela de JavaScript 2022 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2022-de-cero-a-master-en-javascript/)
+
+* [Python 3 Tkinter desde 0  - Interfaces graficas](https://coursemetry.com/python-3-tkinter-desde-0-interfaces-graficas/)
+
+* [Learn Elementor & WordPress, for Startups & Freelancers](https://coursemetry.com/learn-elementor-wordpress-for-startups-freelancers/)
+
+* [Accredited Certificate in Neuro-Linguistic Programming (NLP)](https://coursemetry.com/accredited-certificate-in-neuro-linguistic-programming-nlp/)
+
+* [Gradle Essential Training For Java Developers](https://coursemetry.com/gradle-essential-training-for-java-developers/)
+
+* [The Complete React Redux Node Express MySQL Developer Course](https://coursemetry.com/the-complete-react-redux-node-express-mysql-developer-course/)
+
+* [Make Money From Home As a Transcriptionist: 10 Opportunities](https://coursemetry.com/make-money-from-home-as-a-transcriptionist-10-opportunities/)
+
+* [10 Passive Income Businesses - Earn Passive Income In 2022](https://coursemetry.com/10-passive-income-businesses-earn-passive-income-in-2022/)
+
+* [Adobe Premiere Pro CC Essential Video Editing Zero To Hero](https://coursemetry.com/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/)
+
+* [Aprendizaje Efectivo sin Estrés para Adultos](https://coursemetry.com/aprendizaje-efectivo-sin-estres-para-adultos/)
+
+* [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
