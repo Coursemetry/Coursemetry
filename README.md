@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published so far on 2022-10-06**
+## **79 Udemy free courses published so far on 2022-10-06**
 
 * [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
 
@@ -147,6 +147,20 @@
 * [Complete Filipino Course: Learn Filipino for Beginners](https://coursemetry.com/complete-filipino-course-learn-filipino-for-beginners/)
 
 * [Podcast Power Breathing Masterclass](https://coursemetry.com/podcast-power-breathing-masterclass/)
+
+* [Fully Accredited Certification in Child Psychology](https://coursemetry.com/fully-accredited-certification-in-child-psychology/)
+
+* [Certification in Hypnotherapy & Hypnosis - Fully Accredited](https://coursemetry.com/certification-in-hypnotherapy-hypnosis-fully-accredited/)
+
+* [Advanced Google Analytics + Regex using Examples  | 2022](https://coursemetry.com/advanced-google-analytics-regex-using-examples-2022/)
+
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
+
+* [Eliminate Your Insomnia Now  Build Strong Sleep Habits](https://coursemetry.com/eliminate-your-insomnia-now-build-strong-sleep-habits/)
+
+* [Financial Analysis and Financial Modeling using MS Excel](https://coursemetry.com/financial-analysis-and-financial-modeling-using-ms-excel/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
