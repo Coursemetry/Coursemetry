@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **121 Udemy free courses published so far on 2022-10-06**
+## **131 Udemy free courses published so far on 2022-10-06**
 
 * [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
 
@@ -142,8 +142,6 @@
 
 * [Podcast Storytelling Masterclass](https://coursemetry.com/podcast-storytelling-masterclass/)
 
-* [Mastering Video Editing with Final Cut Pro: Ultimate Course](https://coursemetry.com/mastering-video-editing-with-final-cut-pro-ultimate-course/)
-
 * [Complete Filipino Course: Learn Filipino for Beginners](https://coursemetry.com/complete-filipino-course-learn-filipino-for-beginners/)
 
 * [Podcast Power Breathing Masterclass](https://coursemetry.com/podcast-power-breathing-masterclass/)
@@ -245,6 +243,28 @@
 * [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
 
 * [How Social Ent. NGOs & Charities Can Create Income Streams](https://coursemetry.com/how-social-ent-ngos-charities-can-create-income-streams/)
+
+* [Learn 47 Different Ways to Make Money Online!](https://coursemetry.com/learn-47-different-ways-to-make-money-online/)
+
+* [Build a Simple Calculator in React + JavaScript Foundations](https://coursemetry.com/build-a-simple-calculator-in-react-javascript-foundations/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Mastering Video Editing with Final Cut Pro: Ultimate Course](https://coursemetry.com/mastering-video-editing-with-final-cut-pro-ultimate-course/)
+
+* [AWS, JavaScript, React | Deploy Web Apps on the Cloud](https://coursemetry.com/aws-javascript-react-deploy-web-apps-on-the-cloud/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Copywriting: Persuasive Writing Ft. Two Forbes Writers](https://coursemetry.com/copywriting-persuasive-writing-ft-two-forbes-writers/)
+
+* [Building Android Widgets from scratch (Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [HTML, CSS, React - Certification Course for Beginners](https://coursemetry.com/html-css-react-certification-course-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
