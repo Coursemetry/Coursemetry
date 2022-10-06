@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published so far on 2022-10-06**
+## **121 Udemy free courses published so far on 2022-10-06**
 
 * [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
 
@@ -243,6 +243,8 @@
 * [Python Pandas Data Crash Course 2022 Learn by Doing.](https://coursemetry.com/python-pandas-data-crash-course-2022-learn-by-doing/)
 
 * [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
+
+* [How Social Ent. NGOs & Charities Can Create Income Streams](https://coursemetry.com/how-social-ent-ngos-charities-can-create-income-streams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
