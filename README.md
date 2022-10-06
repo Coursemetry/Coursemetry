@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published so far on 2022-10-05**
+## **145 Udemy free courses published so far on 2022-10-05**
 
 * [Step-by-Step SEO For Beginners: Boost Your Website](https://coursemetry.com/step-by-step-seo-for-beginners-boost-your-website/)
 
@@ -265,6 +265,34 @@
 * [Aprendizaje Efectivo sin Estrés para Adultos](https://coursemetry.com/aprendizaje-efectivo-sin-estres-para-adultos/)
 
 * [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
+
+* [Fully Accredited Certification in Child Psychology](https://coursemetry.com/fully-accredited-certification-in-child-psychology/)
+
+* [Ethical Hacking: boot2root CTF](https://coursemetry.com/ethical-hacking-boot2root-ctf/)
+
+* [leadlovers: configurações, email, páginas, ead e integrações](https://coursemetry.com/leadlovers-configuracoes-email-paginas-ead-e-integracoes/)
+
+* [GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://coursemetry.com/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
+
+* [Beginner's guide to acoustic treatment and isolation.](https://coursemetry.com/beginners-guide-to-acoustic-treatment-and-isolation/)
+
+* [GitLab CI: Pipelines, CI/CD and DevOps for Beginners Hindi](https://coursemetry.com/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners-hindi/)
+
+* [Passive Income on Fiverr using Grammarly and Zero Skills](https://coursemetry.com/passive-income-on-fiverr-using-grammarly-and-zero-skills/)
+
+* [Docker for the Absolute Beginner](https://coursemetry.com/docker-for-the-absolute-beginner/)
+
+* [Hip hop dancing: from beginner to advance: Street dance](https://coursemetry.com/hip-hop-dancing-from-beginner-to-advance-street-dance/)
+
+* [Dream Interpretation](https://coursemetry.com/dream-interpretation/)
+
+* [Ultimate Guide to Becoming a Pilot](https://coursemetry.com/ultimate-guide-to-becoming-a-pilot/)
+
+* [31 Things You Never Knew Loosing A Loved One To Suicide](https://coursemetry.com/31-things-you-never-knew-loosing-a-loved-one-to-suicide/)
+
+* [Docker for the Absolute Beginner in Hindi](https://coursemetry.com/docker-for-the-absolute-beginner-in-hindi/)
+
+* [Mastering American Culture and Business for Newcomers](https://coursemetry.com/mastering-american-culture-and-business-for-newcomers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
