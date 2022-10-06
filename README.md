@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **131 Udemy free courses published so far on 2022-10-06**
+## **142 Udemy free courses published so far on 2022-10-06**
 
 * [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
 
@@ -265,6 +265,28 @@
 * [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
 
 * [HTML, CSS, React - Certification Course for Beginners](https://coursemetry.com/html-css-react-certification-course-for-beginners/)
+
+* [Self Discipline will Change Your life for GOOD](https://coursemetry.com/self-discipline-will-change-your-life-for-good/)
+
+* [Professional Business Email Writing And Email Etiquette](https://coursemetry.com/professional-business-email-writing-and-email-etiquette/)
+
+* [Adobe Lightroom Classic CC: Print, Slideshow & Web Module](https://coursemetry.com/adobe-lightroom-classic-cc-print-slideshow-web-module/)
+
+* [Podcast Pacing For Audience Engagement](https://coursemetry.com/podcast-pacing-for-audience-engagement/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [WP Rocket 2022: Mejora la Velocidad de Carga en WordPress](https://coursemetry.com/wp-rocket-2022-mejora-la-velocidad-de-carga-en-wordpress/)
+
+* [Strategic Partnerships and Collaborations](https://coursemetry.com/strategic-partnerships-and-collaborations/)
+
+* [HTML, CSS, & JavaScript - Certification Course for Beginners](https://coursemetry.com/html-css-javascript-certification-course-for-beginners/)
+
+* [AZ-900: Microsoft Azure Fundamentals Practice Tests [2022]](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-2022-3/)
+
+* [Complete Google Classroom Course: Teaching Google Classroom](https://coursemetry.com/complete-google-classroom-course-teaching-google-classroom/)
+
+* [Intuition For Success - Develop Your Natural Psychic Ability](https://coursemetry.com/intuition-for-success-develop-your-natural-psychic-ability/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
