@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published so far on 2022-10-06**
+## **96 Udemy free courses published so far on 2022-10-06**
 
 * [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
 
@@ -161,6 +161,40 @@
 * [Eliminate Your Insomnia Now  Build Strong Sleep Habits](https://coursemetry.com/eliminate-your-insomnia-now-build-strong-sleep-habits/)
 
 * [Financial Analysis and Financial Modeling using MS Excel](https://coursemetry.com/financial-analysis-and-financial-modeling-using-ms-excel/)
+
+* [Solidworks 2022; Sıfırdan Zirveye Bol Uygulamalı Eğitim Seti](https://coursemetry.com/solidworks-2022-sifirdan-zirveye-bol-uygulamali-egitim-seti/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [Artificial Neural Networks (ANN) with Keras in Python and R](https://coursemetry.com/artificial-neural-networks-ann-with-keras-in-python-and-r/)
+
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
+
+* [Complete Hypnosis Weight Loss Course - Dieting Psychology](https://coursemetry.com/complete-hypnosis-weight-loss-course-dieting-psychology/)
+
+* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+
+* [QuickBooks Desktop Pro -Personal Bookkeeping-Accounting](https://coursemetry.com/quickbooks-desktop-pro-personal-bookkeeping-accounting/)
+
+* [Time Value of Money & Capital Budgeting - Present Value](https://coursemetry.com/time-value-of-money-capital-budgeting-present-value/)
+
+* [QuickBooks Payroll - QuickBooks Online](https://coursemetry.com/quickbooks-payroll-quickbooks-online/)
+
+* [Job Order Costing System – Managerial Accounting](https://coursemetry.com/job-order-costing-system-managerial-accounting/)
+
+* [Partnership Accounting](https://coursemetry.com/partnership-accounting/)
+
+* [QuickBooks Pro Desktop -Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-business-easy-way/)
+
+* [Relevant Costs - Managerial Accounting Decisions & Scenarios](https://coursemetry.com/relevant-costs-managerial-accounting-decisions-scenarios/)
+
+* [Flexible Budgets, Standard Costs, & Variance Analysis](https://coursemetry.com/flexible-budgets-standard-costs-variance-analysis/)
+
+* [Cost Volume Profit Analysis (CVP) – Managerial Accounting](https://coursemetry.com/cost-volume-profit-analysis-cvp-managerial-accounting/)
+
+* [QuickBooks Online-Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-online-bookkeeping-business-easy-way/)
+
+* [Accounting for Corporations](https://coursemetry.com/accounting-for-corporations/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
