@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **112 Udemy free courses published so far on 2022-10-06**
+## **120 Udemy free courses published so far on 2022-10-06**
 
 * [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
 
@@ -227,6 +227,22 @@
 * [ICDL COURSE - Word , Excel , PowerPoint For Business](https://coursemetry.com/icdl-course-word-excel-powerpoint-for-business/)
 
 * [Prince 2 Foundation Practice Tests 2022](https://coursemetry.com/prince-2-foundation-practice-tests-2022/)
+
+* [AZ-204 Developing Solutions for Microsoft Azure Exam Prep](https://coursemetry.com/az-204-developing-solutions-for-microsoft-azure-exam-prep/)
+
+* [Cyber Security: Anti-Virus](https://coursemetry.com/cyber-security-anti-virus/)
+
+* [SQL Boot Camp 2022: Complete SQL Course](https://coursemetry.com/sql-boot-camp-2022-complete-sql-course/)
+
+* [Passive Income 2021 | Resell eBooks Online | Work From Home](https://coursemetry.com/passive-income-2021-resell-ebooks-online-work-from-home/)
+
+* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
+
+* [Ethical Hacking: Linux Backdoor](https://coursemetry.com/ethical-hacking-linux-backdoor/)
+
+* [Python Pandas Data Crash Course 2022 Learn by Doing.](https://coursemetry.com/python-pandas-data-crash-course-2022-learn-by-doing/)
+
+* [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
