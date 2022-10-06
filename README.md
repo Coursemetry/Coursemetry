@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-10-06**
+## **112 Udemy free courses published so far on 2022-10-06**
 
 * [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
 
@@ -195,6 +195,38 @@
 * [QuickBooks Online-Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-online-bookkeeping-business-easy-way/)
 
 * [Accounting for Corporations](https://coursemetry.com/accounting-for-corporations/)
+
+* [Introducción a Termux y Nethunter. Hacking desde tu Celular.](https://coursemetry.com/introduccion-a-termux-y-nethunter-hacking-desde-tu-celular/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [Certified Kubernetes Administrator (CKA) Practice Questions](https://coursemetry.com/certified-kubernetes-administrator-cka-practice-questions/)
+
+* [EasyPy3: Python for Beginners](https://coursemetry.com/easypy3-python-for-beginners/)
+
+* [AWS Certified Advanced Networking Practice Exams 2022](https://coursemetry.com/aws-certified-advanced-networking-practice-exams-2022/)
+
+* [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
+
+* [Docker​ ​Certified​ ​Associate (DCA) Practice Questions](https://coursemetry.com/docker-certified-associate-dca-practice-questions/)
+
+* [HVAC Chillers System Description A-Z](https://coursemetry.com/hvac-chillers-system-description-a-z/)
+
+* [Desarrolla un sistema web  POS desde cero con PHP NATIVO](https://coursemetry.com/desarrolla-un-sistema-web-pos-desde-cero-con-php-nativo/)
+
+* [Learn HTML Canvas - Pixels, Particles & Physics](https://coursemetry.com/learn-html-canvas-pixels-particles-physics/)
+
+* [HashiCorp Certified: Terraform Associate Practice Questions](https://coursemetry.com/hashicorp-certified-terraform-associate-practice-questions-2/)
+
+* [HVAC Ductwork Quantity Take off for Quantity Surveyors](https://coursemetry.com/hvac-ductwork-quantity-take-off-for-quantity-surveyors/)
+
+* [Bash Scripting Basics](https://coursemetry.com/bash-scripting-basics/)
+
+* [Certified Kubernetes Security Specialist (CKS) Practice Exam](https://coursemetry.com/certified-kubernetes-security-specialist-cks-practice-exam/)
+
+* [ICDL COURSE - Word , Excel , PowerPoint For Business](https://coursemetry.com/icdl-course-word-excel-powerpoint-for-business/)
+
+* [Prince 2 Foundation Practice Tests 2022](https://coursemetry.com/prince-2-foundation-practice-tests-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
