@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published so far on 2022-10-07**
+## **93 Udemy free courses published so far on 2022-10-07**
 
 * [Video Oasis: The Ultimate Live-Streaming Course (2022)](https://coursemetry.com/video-oasis-the-ultimate-live-streaming-course-2022/)
 
@@ -145,6 +145,50 @@
 * [Complete Italian Course: Learning Italian for Beginners 2022](https://coursemetry.com/complete-italian-course-learning-italian-for-beginners-2022/)
 
 * [Object Detection on Custom Dataset With Keras Using Python](https://coursemetry.com/object-detection-on-custom-dataset-with-keras-using-python/)
+
+* [The Internet of Things (IoT): 2022 Trends and the Future](https://coursemetry.com/the-internet-of-things-iot-2022-trends-and-the-future/)
+
+* [Writing Grants Applications For Nonprofit Organizations](https://coursemetry.com/writing-grants-applications-for-nonprofit-organizations/)
+
+* [Referral System - How To Create A Successful One!](https://coursemetry.com/referral-system-how-to-create-a-successful-one/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 5](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-5/)
+
+* [How To Increase Your Sales: Top Practical Selling Technique](https://coursemetry.com/how-to-increase-your-sales-top-practical-selling-technique/)
+
+* [GCP Professional Cloud Architect Practice Exam 2022](https://coursemetry.com/gcp-professional-cloud-architect-practice-exam-2022/)
+
+* [Innovation 1.0: Learn To Think Creatively Like Walt Disney](https://coursemetry.com/innovation-1-0-learn-to-think-creatively-like-walt-disney/)
+
+* [Viral Marketing Masterclass (2022 Virality Edition)](https://coursemetry.com/viral-marketing-masterclass-2022-virality-edition/)
+
+* [Sell kid Coloring books on Amazon KDP using Canva for FREE](https://coursemetry.com/sell-kid-coloring-books-on-amazon-kdp-using-canva-for-free/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Exam (Vol.1)](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-exam-vol-1/)
+
+* [Java Collections Framework + Generics, Lambdas & Stream API](https://coursemetry.com/java-collections-framework-generics-lambdas-stream-api/)
+
+* [Master Multithreading - Concurrency with Java Examples](https://coursemetry.com/master-multithreading-concurrency-with-java-examples/)
+
+* [Anonymity Guide For Ethical Hackers](https://coursemetry.com/anonymity-guide-for-ethical-hackers/)
+
+* [Object Oriented Programming - Basics to Advance (Java OOP)](https://coursemetry.com/object-oriented-programming-basics-to-advance-java-oop/)
+
+* [Azure Cloud Basics in 2 hours - Masterclass for Business](https://coursemetry.com/azure-cloud-basics-in-2-hours-masterclass-for-business/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 7](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-7/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 3](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-3/)
+
+* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
+
+* [GoF Design Patterns - Complete Course with Java Examples](https://coursemetry.com/gof-design-patterns-complete-course-with-java-examples/)
+
+* [Career Management, Life & Management Skills Assessment Tests](https://coursemetry.com/career-management-life-management-skills-assessment-tests/)
+
+* [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
+
+* [OWASP API Security Top 10 2021 with Java Examples](https://coursemetry.com/owasp-api-security-top-10-2021-with-java-examples/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
