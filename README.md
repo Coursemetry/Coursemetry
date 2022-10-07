@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **54 Udemy free courses published so far on 2022-10-07**
+## **57 Udemy free courses published so far on 2022-10-07**
 
 * [Video Oasis: The Ultimate Live-Streaming Course (2022)](https://coursemetry.com/video-oasis-the-ultimate-live-streaming-course-2022/)
 
@@ -111,6 +111,12 @@
 * [Complete Polish Course: Learn Polish for Beginners](https://coursemetry.com/complete-polish-course-learn-polish-for-beginners/)
 
 * [Competitor Analysis Masterclass (Phenomenal Edition 2022)](https://coursemetry.com/competitor-analysis-masterclass-phenomenal-edition-2022/)
+
+* [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
+
+* [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
+
+* [The Small Business Saver Framework](https://coursemetry.com/the-small-business-saver-framework/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
