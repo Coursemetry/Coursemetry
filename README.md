@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published so far on 2022-10-07**
+## **71 Udemy free courses published so far on 2022-10-07**
 
 * [Video Oasis: The Ultimate Live-Streaming Course (2022)](https://coursemetry.com/video-oasis-the-ultimate-live-streaming-course-2022/)
 
@@ -117,6 +117,34 @@
 * [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
 
 * [The Small Business Saver Framework](https://coursemetry.com/the-small-business-saver-framework/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 4](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-4/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 6](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-6/)
+
+* [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
+
+* [Postgraduate Diploma: Digital Products Management](https://coursemetry.com/postgraduate-diploma-digital-products-management/)
+
+* [Postgraduate Executive Diploma: Consumer Lending Business](https://coursemetry.com/postgraduate-executive-diploma-consumer-lending-business/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 9](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-9/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 8](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-8/)
+
+* [Digishock 3.0: The Future of Artificial Intelligence (AI)](https://coursemetry.com/digishock-3-0-the-future-of-artificial-intelligence-ai/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Ultimate Adobe Photoshop CC Masterclass Basics To Advanced](https://coursemetry.com/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/)
+
+* [Complete Italian Course: Learning Italian for Beginners 2022](https://coursemetry.com/complete-italian-course-learning-italian-for-beginners-2022/)
+
+* [Object Detection on Custom Dataset With Keras Using Python](https://coursemetry.com/object-detection-on-custom-dataset-with-keras-using-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
