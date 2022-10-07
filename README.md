@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-10-07**
+## **140 Udemy free courses published so far on 2022-10-07**
 
 * [Video Oasis: The Ultimate Live-Streaming Course (2022)](https://coursemetry.com/video-oasis-the-ultimate-live-streaming-course-2022/)
 
@@ -213,6 +213,76 @@
 * [30 day Posture Fix for Desk Workers](https://coursemetry.com/30-day-posture-fix-for-desk-workers/)
 
 * [Mac & MacOS X Complete Basics Tutorial for Beginners](https://coursemetry.com/mac-macos-x-complete-basics-tutorial-for-beginners/)
+
+* [Modern PHP Web Development w/ MySQL, GitHub & Heroku](https://coursemetry.com/modern-php-web-development-w-mysql-github-heroku/)
+
+* [Learn to Code in Python 3: Programming beginner to advanced](https://coursemetry.com/learn-to-code-in-python-3-programming-beginner-to-advanced/)
+
+* [Brain Hacking Presentations Skills](https://coursemetry.com/brain-hacking-presentations-skills/)
+
+* [MySQL Database Development Mastery](https://coursemetry.com/mysql-database-development-mastery/)
+
+* [C# Console and Windows Forms Development w/ Entity Framework](https://coursemetry.com/c-console-and-windows-forms-development-w-entity-framework/)
+
+* [Développez en Full Stack avec Spring Boot et Angular](https://coursemetry.com/developpez-en-full-stack-avec-spring-boot-et-angular/)
+
+* [NFT Investing for Prudent Investors](https://coursemetry.com/nft-investing-for-prudent-investors/)
+
+* [Functional Programming + Lambdas, Method References, Streams](https://coursemetry.com/functional-programming-lambdas-method-references-streams/)
+
+* [Software architecture](https://coursemetry.com/software-architecture/)
+
+* [Transformation and Change For Buyers](https://coursemetry.com/transformation-and-change-for-buyers/)
+
+* [Curso  De  Algoritmos](https://coursemetry.com/curso-de-algoritmos/)
+
+* [Secure coding in Java with Web Application Examples](https://coursemetry.com/secure-coding-in-java-with-web-application-examples/)
+
+* [Learn ASP.NET MVC and Entity Framework (Database First)](https://coursemetry.com/learn-asp-net-mvc-and-entity-framework-database-first/)
+
+* [Microsoft SQL Server Development for Everyone](https://coursemetry.com/microsoft-sql-server-development-for-everyone/)
+
+* [Advanced Strategies to Secure Better UpWork Clients](https://coursemetry.com/advanced-strategies-to-secure-better-upwork-clients/)
+
+* [Proceso CRUD (C Sharp y SQLite)](https://coursemetry.com/proceso-crud-c-sharp-y-sqlite/)
+
+* [How to Get UpWork Clients (2020 And Beyond)](https://coursemetry.com/how-to-get-upwork-clients-2020-and-beyond/)
+
+* [Desarrollo de pruebas técnicas para desarrollador Python](https://coursemetry.com/desarrollo-de-pruebas-tecnicas-para-desarrollador-python/)
+
+* [Kundalini Reiki 1-2-3-master teacher (all in one course)](https://coursemetry.com/kundalini-reiki-1-2-3-master-teacher-all-in-one-course/)
+
+* [Procurement Management- Job Training Course](https://coursemetry.com/procurement-management-job-training-course/)
+
+* [Introduction To Website Development Technologies](https://coursemetry.com/introduction-to-website-development-technologies/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Curso PSeInt algoritmos  y  lógica de  programación](https://coursemetry.com/curso-pseint-algoritmos-y-logica-de-programacion/)
+
+* [Curso Taller De Excel Desde Cero Hasta Avanzado](https://coursemetry.com/curso-taller-de-excel-desde-cero-hasta-avanzado/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [The Complete Business Interview Course](https://coursemetry.com/the-complete-business-interview-course/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [WebServices testing (RestSharp + Postman) Complete Guide](https://coursemetry.com/webservices-testing-restsharp-postman-complete-guide/)
+
+* [Python pour la POO: Programmation Orientée Objet en Python](https://coursemetry.com/python-pour-la-poo-programmation-orientee-objet-en-python/)
+
+* [Living Your Dreams With Unstoppable Passion](https://coursemetry.com/living-your-dreams-with-unstoppable-passion/)
+
+* [IPv4 addressing - عنونة الشبكات](https://coursemetry.com/ipv4-addressing-%d8%b9%d9%86%d9%88%d9%86%d8%a9-%d8%a7%d9%84%d8%b4%d8%a8%d9%83%d8%a7%d8%aa/)
+
+* [JavaScript pour les débutants : Cours complet pour débutants](https://coursemetry.com/javascript-pour-les-debutants-cours-complet-pour-debutants/)
+
+* [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
+
+* [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
