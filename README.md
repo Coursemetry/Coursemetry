@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-10-07**
+## **105 Udemy free courses published so far on 2022-10-07**
 
 * [Video Oasis: The Ultimate Live-Streaming Course (2022)](https://coursemetry.com/video-oasis-the-ultimate-live-streaming-course-2022/)
 
@@ -189,6 +189,30 @@
 * [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
 
 * [OWASP API Security Top 10 2021 with Java Examples](https://coursemetry.com/owasp-api-security-top-10-2021-with-java-examples/)
+
+* [Hands-On React. Build advanced React JS Frontend with expert](https://coursemetry.com/hands-on-react-build-advanced-react-js-frontend-with-expert/)
+
+* [ML for Business Managers: Build Regression model in R Studio](https://coursemetry.com/ml-for-business-managers-build-regression-model-in-r-studio/)
+
+* [Professional Scrum with Kanban (PSK I) Certification Prep](https://coursemetry.com/professional-scrum-with-kanban-psk-i-certification-prep/)
+
+* [Google Looker Masterclass: Looker & LookML A-Z 2022](https://coursemetry.com/google-looker-masterclass-looker-lookml-a-z-2022/)
+
+* [Continuous Delivery/Integration with Github Actions Workflow](https://coursemetry.com/continuous-delivery-integration-with-github-actions-workflow/)
+
+* [Statistics and Probability using Excel - Statistics A to Z](https://coursemetry.com/statistics-and-probability-using-excel-statistics-a-to-z/)
+
+* [Statistics for Business Analytics using MS Excel](https://coursemetry.com/statistics-for-business-analytics-using-ms-excel/)
+
+* [C# Complete Master Course](https://coursemetry.com/c-complete-master-course/)
+
+* [Master Data Analysis with Pandas](https://coursemetry.com/master-data-analysis-with-pandas/)
+
+* [Improving Cyber Security for Your Business](https://coursemetry.com/improving-cyber-security-for-your-business/)
+
+* [30 day Posture Fix for Desk Workers](https://coursemetry.com/30-day-posture-fix-for-desk-workers/)
+
+* [Mac & MacOS X Complete Basics Tutorial for Beginners](https://coursemetry.com/mac-macos-x-complete-basics-tutorial-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
