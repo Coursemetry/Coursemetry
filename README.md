@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published so far on 2022-10-08**
+## **64 Udemy free courses published so far on 2022-10-08**
 
 * [Procesamiento de texto profesional con Word, Writer y Docs](https://coursemetry.com/procesamiento-de-texto-profesional-con-word-writer-y-docs/)
 
@@ -97,6 +97,40 @@
 * [Ethical Hacking: Command Injection](https://coursemetry.com/ethical-hacking-command-injection/)
 
 * [Cyber Security: Anti-Virus](https://coursemetry.com/cyber-security-anti-virus/)
+
+* [How To Make Passive Income on Amazon KDP with Zero dollars](https://coursemetry.com/how-to-make-passive-income-on-amazon-kdp-with-zero-dollars/)
+
+* [Modern JavaScript for React JS - ES6 [2022]](https://coursemetry.com/modern-javascript-for-react-js-es6-2022/)
+
+* [Fully Accredited Certification in Child Psychology](https://coursemetry.com/fully-accredited-certification-in-child-psychology/)
+
+* [HTML5 - From Basics to Advanced level [2022]](https://coursemetry.com/html5-from-basics-to-advanced-level-2022/)
+
+* [CSS - Basics to Adv for front end development [2022]](https://coursemetry.com/css-basics-to-adv-for-front-end-development-2022/)
+
+* [JavaScript - Basics to Advanced step by step [2022]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2022/)
+
+* [The Complete ReactJs Course - Basics to Advanced [2022]](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2022/)
+
+* [SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z](https://coursemetry.com/sql-for-data-analytics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-sql-a-z/)
+
+* [Python Course:Learn Python By building Games 2022 in Python.](https://coursemetry.com/python-courselearn-python-by-building-games-2022-in-python/)
+
+* [ServiceNow Implementation Specialist - Discovery [10.2022]](https://coursemetry.com/servicenow-implementation-specialist-discovery-10-2022/)
+
+* [AWS Cloud Practitioner Certification](https://coursemetry.com/aws-cloud-practitioner-certification/)
+
+* [Apache Spark with Scala useful for Databricks Certification](https://coursemetry.com/apache-spark-with-scala-useful-for-databricks-certification/)
+
+* [GCP Google Cloud Professional Data Engineer Certification](https://coursemetry.com/gcp-google-cloud-professional-data-engineer-certification/)
+
+* [Introduction to Structural Design Structural software](https://coursemetry.com/introduction-to-structural-design-structural-software/)
+
+* [C# 10 with .NET 6 Theory for Beginners (Part 1)](https://coursemetry.com/c-10-with-net-6-theory-for-beginners-part-1/)
+
+* [C# 10 with .NET 6 for Beginners (Part 2) - To-do Application](https://coursemetry.com/c-10-with-net-6-for-beginners-part-2-to-do-application/)
+
+* [Microsoft Excel: Data Cleaning with Power Query](https://coursemetry.com/microsoft-excel-data-cleaning-with-power-query/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
