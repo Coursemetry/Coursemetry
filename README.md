@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published so far on 2022-10-08**
+## **98 Udemy free courses published so far on 2022-10-08**
 
 * [Procesamiento de texto profesional con Word, Writer y Docs](https://coursemetry.com/procesamiento-de-texto-profesional-con-word-writer-y-docs/)
 
@@ -161,6 +161,44 @@
 * [HACKING COMPLETO desde ANDROID](https://coursemetry.com/hacking-completo-desde-android/)
 
 * [Excel For Accountants](https://coursemetry.com/excel-for-accountants/)
+
+* [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
+
+* [Crea una Api REST FULL completa con  PHP NATIVO](https://coursemetry.com/crea-una-api-rest-full-completa-con-php-nativo/)
+
+* [Office and Administrative Management](https://coursemetry.com/office-and-administrative-management/)
+
+* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
+
+* [Google Ads Fundamentals: Fast-Track Practice Quiz Exam](https://coursemetry.com/google-ads-fundamentals-fast-track-practice-quiz-exam/)
+
+* [Smart Content Marketing Mastery 2023 | Leverage Data & AI](https://coursemetry.com/smart-content-marketing-mastery-2023-leverage-data-ai/)
+
+* [Climate Change explained: Causes, consequences and solutions](https://coursemetry.com/climate-change-explained-causes-consequences-and-solutions/)
+
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [Introduction to Forex- learn to trade forex by yourself](https://coursemetry.com/introduction-to-forex-learn-to-trade-forex-by-yourself/)
+
+* [Quantity Surveying Templates for Effective Cost Management](https://coursemetry.com/quantity-surveying-templates-for-effective-cost-management/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+
+* [The Ultimate Content Marketing Quiz (2022 Edition)](https://coursemetry.com/the-ultimate-content-marketing-quiz-2022-edition/)
+
+* [Digital Voice Cloning using Artificial Intelligence in 2022](https://coursemetry.com/digital-voice-cloning-using-artificial-intelligence-in-2022/)
+
+* [Sales Forecasting, Setting & Hitting Sales Targets](https://coursemetry.com/sales-forecasting-setting-hitting-sales-targets/)
+
+* [Advanced Artificial Intelligence in App Creation (2022)](https://coursemetry.com/advanced-artificial-intelligence-in-app-creation-2022/)
+
+* [Advanced Artificial Intelligence in Digital Marketing Course](https://coursemetry.com/advanced-artificial-intelligence-in-digital-marketing-course/)
+
+* [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+
+* [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
