@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published so far on 2022-10-08**
+## **112 Udemy free courses published so far on 2022-10-08**
 
 * [Procesamiento de texto profesional con Word, Writer y Docs](https://coursemetry.com/procesamiento-de-texto-profesional-con-word-writer-y-docs/)
 
@@ -199,6 +199,34 @@
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
 
 * [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
+
+* [NFT Mastery 2023 | Start Your NFT Business in Metaverse !](https://coursemetry.com/nft-mastery-2023-start-your-nft-business-in-metaverse/)
+
+* [AutoCAD 2D & 3D | AutoCAD Civil & Architectural](https://coursemetry.com/autocad-2d-3d-autocad-civil-architectural/)
+
+* [Ethical Hacking | الهكر الأخلاقي | مقدمة ومفاهيم عملية مهمة](https://coursemetry.com/ethical-hacking-%d8%a7%d9%84%d9%87%d9%83%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d9%84%d8%a7%d9%82%d9%8a-%d9%85%d9%82%d8%af%d9%85%d8%a9-%d9%88%d9%85%d9%81%d8%a7%d9%87%d9%8a%d9%85-%d8%b9%d9%85%d9%84%d9%8a/)
+
+* [Basic Course To GST (Goods And Service Tax)](https://coursemetry.com/basic-course-to-gst-goods-and-service-tax/)
+
+* [Introduction To SEO Based Content Writing (Hindi)](https://coursemetry.com/introduction-to-seo-based-content-writing-hindi/)
+
+* [CURSO Completo de OSINT, DOXING para el HACKING](https://coursemetry.com/curso-completo-de-osint-doxing-para-el-hacking/)
+
+* [Accredited Certificate in Counselling Children & Adolescents](https://coursemetry.com/accredited-certificate-in-counselling-children-adolescents/)
+
+* [IELTS Band 8: IELTS Listening Mastery | IELTS Tenses](https://coursemetry.com/ielts-band-8-ielts-listening-mastery-ielts-tenses/)
+
+* [Make Money From Home: 12 EASY Options to Make Money Now](https://coursemetry.com/make-money-from-home-12-easy-options-to-make-money-now/)
+
+* [Master Coding Interview :Data structures + Algorithms](https://coursemetry.com/master-coding-interview-data-structures-algorithms/)
+
+* [Introduction to Frictionless Sales Process](https://coursemetry.com/introduction-to-frictionless-sales-process/)
+
+* [Plastic Waste Pollution: causes, impacts & solutions](https://coursemetry.com/plastic-waste-pollution-causes-impacts-solutions/)
+
+* [Investment Banking Preparation: Instructor ex Morgan Stanley](https://coursemetry.com/investment-banking-preparation-instructor-ex-morgan-stanley/)
+
+* [Make Your Own Email Sending Software | No Coding | Mailwizz](https://coursemetry.com/make-your-own-email-sending-software-no-coding-mailwizz/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
