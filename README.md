@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **64 Udemy free courses published so far on 2022-10-08**
+## **79 Udemy free courses published so far on 2022-10-08**
 
 * [Procesamiento de texto profesional con Word, Writer y Docs](https://coursemetry.com/procesamiento-de-texto-profesional-con-word-writer-y-docs/)
 
@@ -131,6 +131,36 @@
 * [C# 10 with .NET 6 for Beginners (Part 2) - To-do Application](https://coursemetry.com/c-10-with-net-6-for-beginners-part-2-to-do-application/)
 
 * [Microsoft Excel: Data Cleaning with Power Query](https://coursemetry.com/microsoft-excel-data-cleaning-with-power-query/)
+
+* [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
+
+* [Facebook Ads & Instagram Ads Course 2022: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-the-art-of-selling/)
+
+* [Projektmanagement: Best Practices aus 15 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-15-jahren-als-berater/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 1](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-1/)
+
+* [The Metasploit Framework Guide](https://coursemetry.com/the-metasploit-framework-guide/)
+
+* [Web Developer 101-Use Web Servers to Build Sites on your PC](https://coursemetry.com/web-developer-101-use-web-servers-to-build-sites-on-your-pc/)
+
+* [Social Engineering Course](https://coursemetry.com/social-engineering-course/)
+
+* [Desarrolla un sistema web  POS desde cero con PHP NATIVO](https://coursemetry.com/desarrolla-un-sistema-web-pos-desde-cero-con-php-nativo/)
+
+* [general mycology a brief review](https://coursemetry.com/general-mycology-a-brief-review/)
+
+* [ICDL COURSE - Word , Excel , PowerPoint For Business](https://coursemetry.com/icdl-course-word-excel-powerpoint-for-business/)
+
+* [The Cyber Security Course: End Point Protection!](https://coursemetry.com/the-cyber-security-course-end-point-protection/)
+
+* [Influencer Marketing Mastery 2023 |Million Dollars Challenge](https://coursemetry.com/influencer-marketing-mastery-2023-million-dollars-challenge/)
+
+* [The Vulnerability Analysis Course](https://coursemetry.com/the-vulnerability-analysis-course/)
+
+* [HACKING COMPLETO desde ANDROID](https://coursemetry.com/hacking-completo-desde-android/)
+
+* [Excel For Accountants](https://coursemetry.com/excel-for-accountants/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
