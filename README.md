@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published so far on 2022-10-09**
+## **110 Udemy free courses published so far on 2022-10-09**
 
 * [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
 
@@ -215,6 +215,14 @@
 * [Telepathic Animal Communicator Insights](https://coursemetry.com/telepathic-animal-communicator-insights/)
 
 * [Introduction to Unit Testing in C#](https://coursemetry.com/introduction-to-unit-testing-in-c/)
+
+* [صيانة الحاسب للجميع](https://coursemetry.com/%d8%b5%d9%8a%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8-%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9/)
+
+* [Positive Psychology](https://coursemetry.com/positive-psychology/)
+
+* [Azure Fundamentals: Describe Azure architecture and services](https://coursemetry.com/azure-fundamentals-describe-azure-architecture-and-services/)
+
+* [Convert Your Own Electric Bike - Full Detailed Course](https://coursemetry.com/convert-your-own-electric-bike-full-detailed-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
