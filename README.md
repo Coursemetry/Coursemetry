@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **125 Udemy free courses published so far on 2022-10-09**
+## **131 Udemy free courses published so far on 2022-10-09**
 
 * [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
 
@@ -253,6 +253,18 @@
 * [PMP Prep: Critical Path Method (CPM) & Float with example](https://coursemetry.com/pmp-prep-critical-path-method-cpm-float-with-example/)
 
 * [How to Improve Your Photography; a Gift You’ll Love](https://coursemetry.com/how-to-improve-your-photography-a-gift-youll-love/)
+
+* [Curso de Guitarra Rock y Blues de Cero a Héroe 2022](https://coursemetry.com/curso-de-guitarra-rock-y-blues-de-cero-a-heroe-2022/)
+
+* [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
+
+* [Nmap Course For Penetration Testing](https://coursemetry.com/nmap-course-for-penetration-testing/)
+
+* [Cómo tocar Hard Rock y Heavy Metal en la Guitarra Eléctrica](https://coursemetry.com/como-tocar-hard-rock-y-heavy-metal-en-la-guitarra-electrica/)
+
+* [Cómo tocar Blues en la Guitarra Clásica De Cero a Héroe](https://coursemetry.com/como-tocar-blues-en-la-guitarra-clasica-de-cero-a-heroe/)
+
+* [Cómo Escribir Letras de Canciones Pop 2022](https://coursemetry.com/como-escribir-letras-de-canciones-pop-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
