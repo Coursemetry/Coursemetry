@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **68 Udemy free courses published so far on 2022-10-09**
+## **106 Udemy free courses published so far on 2022-10-09**
 
 * [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
 
@@ -139,6 +139,82 @@
 * [Fundamentos da Criptografia, Esteganografia e Criptoanálise](https://coursemetry.com/fundamentos-da-criptografia-esteganografia-e-criptoanalise/)
 
 * [Applied ML: Build NLP text embeddings using python](https://coursemetry.com/applied-ml-build-nlp-text-embeddings-using-python/)
+
+* [Python For Beginners [in Arabic]](https://coursemetry.com/python-for-beginners-in-arabic/)
+
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+
+* [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [Python for Beginners to Advance](https://coursemetry.com/python-for-beginners-to-advance/)
+
+* [Java for Beginners [ in Arabic ]](https://coursemetry.com/java-for-beginners-in-arabic/)
+
+* [C# For Beginners [in Arabic]](https://coursemetry.com/c-for-beginners-in-arabic/)
+
+* [Introduction Algorithmic Trading](https://coursemetry.com/introduction-algorithmic-trading/)
+
+* [A Guide to the Electricity Industry in Great Britain](https://coursemetry.com/a-guide-to-the-electricity-industry-in-great-britain/)
+
+* [How to Get a Data Science Job Without Experience](https://coursemetry.com/how-to-get-a-data-science-job-without-experience/)
+
+* [Practical Python Development: Build Real World Project](https://coursemetry.com/practical-python-development-build-real-world-project/)
+
+* [The Edge Part 1 - Live Edition](https://coursemetry.com/the-edge-part-1-live-edition/)
+
+* [Curso completo sobre Jenkins. Aplica Seguridad en Devops](https://coursemetry.com/curso-completo-sobre-jenkins-aplica-seguridad-en-devops/)
+
+* [React.JS: The Complete Course for Beginners](https://coursemetry.com/react-js-the-complete-course-for-beginners/)
+
+* [Facebook Ads & Instagram Ads Course 2022 + Meta 410-101 Exam](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-meta-410-101-exam/)
+
+* [Wondershare Filmora 11 Video Editing Course in Hindi](https://coursemetry.com/wondershare-filmora-11-video-editing-course-in-hindi/)
+
+* [Problem Solving - with C# [ in Arabic ]](https://coursemetry.com/problem-solving-with-c-in-arabic/)
+
+* [Home Workout Habits in 10 Min - Fitness for Busy-Lazy People](https://coursemetry.com/home-workout-habits-in-10-min-fitness-for-busy-lazy-people/)
+
+* [Effective Communication Skills: Be a Better Communicator](https://coursemetry.com/effective-communication-skills-be-a-better-communicator/)
+
+* [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
+
+* [Public Speaking for Parents - Teach Your Kids to Present 1Hr](https://coursemetry.com/public-speaking-for-parents-teach-your-kids-to-present-1hr/)
+
+* [Public Speaking Mastery 2023 | Influence Other People's Idea](https://coursemetry.com/public-speaking-mastery-2023-influence-other-peoples-idea/)
+
+* [CSS3 Full Course With  Project [ In Arabic]](https://coursemetry.com/css3-full-course-with-project-in-arabic/)
+
+* [Microsoft Teams Ultimate Guide 2022](https://coursemetry.com/microsoft-teams-ultimate-guide-2022/)
+
+* [Minimalist Lifestyle - Complete Course - Decluttering Life](https://coursemetry.com/minimalist-lifestyle-complete-course-decluttering-life/)
+
+* [Complete TikTok Marketing Course for Business TikTok Habits](https://coursemetry.com/complete-tiktok-marketing-course-for-business-tiktok-habits/)
+
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+
+* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
+
+* [Python for OOP: The A-to-Z OOP Python Programming Course](https://coursemetry.com/python-for-oop-the-a-to-z-oop-python-programming-course/)
+
+* [HTML5 Full Course With 2 Projects [ In Arabic]](https://coursemetry.com/html5-full-course-with-2-projects-in-arabic/)
+
+* [SnapChat Mastery 2023 | Become Millionaires Creating Content](https://coursemetry.com/snapchat-mastery-2023-become-millionaires-creating-content/)
+
+* [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
+
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
+
+* [تعلم تصميم وتطوير مواقع الويب باحترافية](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d8%a8%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Azure Data Factory - Data Engineer : Real Time Projects](https://coursemetry.com/azure-data-factory-data-engineer-real-time-projects/)
+
+* [How to make profit Dropshipping on eBay with No Inventory](https://coursemetry.com/how-to-make-profit-dropshipping-on-ebay-with-no-inventory/)
+
+* [Telepathic Animal Communicator Insights](https://coursemetry.com/telepathic-animal-communicator-insights/)
+
+* [Introduction to Unit Testing in C#](https://coursemetry.com/introduction-to-unit-testing-in-c/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
