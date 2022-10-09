@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-10-09**
+## **125 Udemy free courses published so far on 2022-10-09**
 
 * [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
 
@@ -223,6 +223,36 @@
 * [Azure Fundamentals: Describe Azure architecture and services](https://coursemetry.com/azure-fundamentals-describe-azure-architecture-and-services/)
 
 * [Convert Your Own Electric Bike - Full Detailed Course](https://coursemetry.com/convert-your-own-electric-bike-full-detailed-course/)
+
+* [Make SMS Bomb Using Python + Selenium](https://coursemetry.com/make-sms-bomb-using-python-selenium/)
+
+* [الدليل الشامل لتعلم بايثون 2021](https://coursemetry.com/%d8%a7%d9%84%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-2021/)
+
+* [SAP SD - S/4HANA / Fiori](https://coursemetry.com/sap-sd-s-4hana-fiori/)
+
+* [How to give affirmations more power with EFT](https://coursemetry.com/how-to-give-affirmations-more-power-with-eft/)
+
+* [Myyshop - How to earn on Tiktok by bio landing page Linkmyy](https://coursemetry.com/myyshop-how-to-earn-on-tiktok-by-bio-landing-page-linkmyy/)
+
+* [Basics of Pricing (in Arabic) سلسلة التسويق، أساسيات التسعير](https://coursemetry.com/basics-of-pricing-in-arabic-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82%d8%8c-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d9%8a%d8%b1/)
+
+* [Patreon Membership Mastery 2023 | Full Blueprint from 0 to 1](https://coursemetry.com/patreon-membership-mastery-2023-full-blueprint-from-0-to-1/)
+
+* [Python3: From Beginner to Pro](https://coursemetry.com/python3-from-beginner-to-pro/)
+
+* [Sell kid Coloring books on Amazon KDP using Canva for FREE](https://coursemetry.com/sell-kid-coloring-books-on-amazon-kdp-using-canva-for-free/)
+
+* [[2022] Python bootcamp تعلم بايثون من الصفر حتى الاحتراف](https://coursemetry.com/2022-python-bootcamp-%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%a7%d9%8a%d8%ab%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [Linux Command Line: Man Pages Bootcamp](https://coursemetry.com/linux-command-line-man-pages-bootcamp/)
+
+* [C_SAC_2215 | SAP Analytics Cloud Practice Exam](https://coursemetry.com/c_sac_2215-sap-analytics-cloud-practice-exam/)
+
+* [Learn Tally Definition Language+TDL + Invoice Customization](https://coursemetry.com/learn-tally-definition-languagetdl-invoice-customization/)
+
+* [PMP Prep: Critical Path Method (CPM) & Float with example](https://coursemetry.com/pmp-prep-critical-path-method-cpm-float-with-example/)
+
+* [How to Improve Your Photography; a Gift You’ll Love](https://coursemetry.com/how-to-improve-your-photography-a-gift-youll-love/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
