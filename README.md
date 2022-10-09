@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **49 Udemy free courses published so far on 2022-10-09**
+## **57 Udemy free courses published so far on 2022-10-09**
 
 * [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
 
@@ -101,6 +101,22 @@
 * [C_HANATEC_17 |SAP Certified Technology 2.0 SPS05 Exam](https://coursemetry.com/c_hanatec_17-sap-certified-technology-2-0-sps05-exam/)
 
 * [Copywriting: Make Money From Home WRITING WORDS](https://coursemetry.com/copywriting-make-money-from-home-writing-words/)
+
+* [JPMorgan- Real Time Actual Scrum Master Interview Experience](https://coursemetry.com/jpmorgan-real-time-actual-scrum-master-interview-experience/)
+
+* [Linux for Data Engineers (Hands On)](https://coursemetry.com/linux-for-data-engineers-hands-on/)
+
+* [Machine Learning Full Course with 4 LIVE SOFWARE Project](https://coursemetry.com/machine-learning-full-course-with-4-live-sofware-project/)
+
+* [Curso PSeInt algoritmos  y  lógica de  programación](https://coursemetry.com/curso-pseint-algoritmos-y-logica-de-programacion/)
+
+* [Visual Studio Code Ultimate Guide 2022](https://coursemetry.com/visual-studio-code-ultimate-guide-2022/)
+
+* [Social Media Influencer Mastery 2023  | 100 DAYS CHALLENGE](https://coursemetry.com/social-media-influencer-mastery-2023-100-days-challenge/)
+
+* [AI Entrepreneurship Mastery 2023 | Smarter Business to Start](https://coursemetry.com/ai-entrepreneurship-mastery-2023-smarter-business-to-start/)
+
+* [Python 3 Ultimate Guide 2022](https://coursemetry.com/python-3-ultimate-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
