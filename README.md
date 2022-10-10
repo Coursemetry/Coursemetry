@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **68 Udemy free courses published so far on 2022-10-10**
+## **100 Udemy free courses published so far on 2022-10-10**
 
 * [Salesforce Platform Developer 1 Practice Exams PD1 2022](https://coursemetry.com/salesforce-platform-developer-1-practice-exams-pd1-2022-4/)
 
@@ -13,8 +13,6 @@
 * [AWS Certified Data Analytics Specialty Practice Exams 2022](https://coursemetry.com/aws-certified-data-analytics-specialty-practice-exams-2022-7/)
 
 * [Accredited Aromatherapy Certificate for Chakra & Kundalini](https://coursemetry.com/accredited-aromatherapy-certificate-for-chakra-kundalini/)
-
-* [Microsoft Power Platform Fundamentals (PL-900) Practice Exam](https://coursemetry.com/microsoft-power-platform-fundamentals-pl-900-practice-exam-3/)
 
 * [Microsoft Azure Developer [ AZ-204 ] - Practice Exams](https://coursemetry.com/microsoft-azure-developer-az-204-practice-exams/)
 
@@ -139,6 +137,72 @@
 * [Decision Trees, Random Forests, AdaBoost & XGBoost in Python](https://coursemetry.com/decision-trees-random-forests-adaboost-xgboost-in-python/)
 
 * [Zero to Hero in Microsoft Excel: Complete Excel guide 2022](https://coursemetry.com/zero-to-hero-in-microsoft-excel-complete-excel-guide-2022/)
+
+* [Income Tax-Business Use of Home Deduction](https://coursemetry.com/income-tax-business-use-of-home-deduction/)
+
+* [Texts SAP Certified Technology Associate – C_TADM54_75](https://coursemetry.com/texts-sap-certified-technology-associate-c_tadm54_75/)
+
+* [QuickBooks Online Multiple Currencies](https://coursemetry.com/quickbooks-online-multiple-currencies/)
+
+* [Microsoft Power Platform Fundamentals (PL-900) Practice Exam](https://coursemetry.com/microsoft-power-platform-fundamentals-pl-900-practice-exam-3/)
+
+* [1Z0-997-22: OCI Architect Professional Practice Questions](https://coursemetry.com/1z0-997-22-oci-architect-professional-practice-questions/)
+
+* [Creating Video Lessons with Online Video Maker InVideo](https://coursemetry.com/creating-video-lessons-with-online-video-maker-invideo/)
+
+* [Wondershare Filmora 11 Video Editing Course in Hindi](https://coursemetry.com/wondershare-filmora-11-video-editing-course-in-hindi/)
+
+* [Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://coursemetry.com/cryptocurrency-trading-for-beginners-learn-click-by-click/)
+
+* [QuickBooks Online vs. QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-vs-excel/)
+
+* [Practice Exam - AWS Certified Advanced Networking Specialty](https://coursemetry.com/practice-exam-aws-certified-advanced-networking-specialty/)
+
+* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+
+* [Tailwind CSS en 1h: Maîtriser ce puissant framework CSS](https://coursemetry.com/tailwind-css-en-1h-maitriser-ce-puissant-framework-css/)
+
+* [Build Your Own File Sharing Website](https://coursemetry.com/build-your-own-file-sharing-website/)
+
+* [English placement test](https://coursemetry.com/english-placement-test/)
+
+* [Education Tax Credits & Education Tax Benefits](https://coursemetry.com/education-tax-credits-education-tax-benefits/)
+
+* [Agile Project Management: Agile, Scrum, Kanban & XP](https://coursemetry.com/agile-project-management-agile-scrum-kanban-xp/)
+
+* [YouTube Meisterkurs 2022 - Deine YouTube Erfolgsanleitung !](https://coursemetry.com/youtube-meisterkurs-2022-deine-youtube-erfolgsanleitung/)
+
+* [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
+
+* [Unity 2D & 3D Games Development](https://coursemetry.com/unity-2d-3d-games-development/)
+
+* [What is Karma?](https://coursemetry.com/what-is-karma/)
+
+* [Convert Your Own Electric Bike - Full Detailed Course](https://coursemetry.com/convert-your-own-electric-bike-full-detailed-course/)
+
+* [Smartsheet 2022 For Beginners: Modern Project Management](https://coursemetry.com/smartsheet-2022-for-beginners-modern-project-management/)
+
+* [Tax & Adjusting Entry Year-End Accounting Excel Worksheet](https://coursemetry.com/tax-adjusting-entry-year-end-accounting-excel-worksheet/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [PMP Certification Practice Tests (2022) - PMBOK 7th Edition](https://coursemetry.com/pmp-certification-practice-tests-2022-pmbok-7th-edition/)
+
+* [Income Tax Selling Your Home](https://coursemetry.com/income-tax-selling-your-home/)
+
+* [Income Tax – Schedule C Small Business Sole Proprietor](https://coursemetry.com/income-tax-schedule-c-small-business-sole-proprietor/)
+
+* [Individual Retirement Accounts (IRAs) & Taxes](https://coursemetry.com/individual-retirement-accounts-iras-taxes/)
+
+* [Governmental Accounting 300 Proprietary & Fiduciary Funds](https://coursemetry.com/governmental-accounting-300-proprietary-fiduciary-funds/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [ITIL 4 Foundation Certification Masterclass - Unofficial](https://coursemetry.com/itil-4-foundation-certification-masterclass-unofficial/)
+
+* [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
