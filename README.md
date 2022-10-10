@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-10-10**
+## **134 Udemy free courses published so far on 2022-10-10**
 
 * [Salesforce Platform Developer 1 Practice Exams PD1 2022](https://coursemetry.com/salesforce-platform-developer-1-practice-exams-pd1-2022-4/)
 
@@ -57,8 +57,6 @@
 * [Accredited Certificate in Counselling Children & Adolescents](https://coursemetry.com/accredited-certificate-in-counselling-children-adolescents/)
 
 * [Professional Certification in Astral Projection (Accredited)](https://coursemetry.com/professional-certification-in-astral-projection-accredited/)
-
-* [6 Simple Steps to Bring Your Dreams into Your Reality](https://coursemetry.com/6-simple-steps-to-bring-your-dreams-into-your-reality/)
 
 * [Kids English Vocabulary Set One - Nouns](https://coursemetry.com/kids-english-vocabulary-set-one-nouns/)
 
@@ -203,6 +201,76 @@
 * [ITIL 4 Foundation Certification Masterclass - Unofficial](https://coursemetry.com/itil-4-foundation-certification-masterclass-unofficial/)
 
 * [Diversity At Workplace](https://coursemetry.com/diversity-at-workplace/)
+
+* [Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor](https://coursemetry.com/job-cost-quickbooks-online-vs-quickbooks-desktop-contractor/)
+
+* [Hack Windows](https://coursemetry.com/hack-windows/)
+
+* [Podcast Covert Hypnosis Masterclass](https://coursemetry.com/podcast-covert-hypnosis-masterclass/)
+
+* [CBT Practitioner Certification - Internationally Accredited](https://coursemetry.com/cbt-practitioner-certification-internationally-accredited/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Cyber Security: Phishing](https://coursemetry.com/cyber-security-phishing/)
+
+* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
+
+* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+
+* [Cómo vivir de la Internet y no fallar en el intento](https://coursemetry.com/como-vivir-de-la-internet-y-no-fallar-en-el-intento/)
+
+* [Sell kid Coloring books on Amazon KDP using Canva for FREE](https://coursemetry.com/sell-kid-coloring-books-on-amazon-kdp-using-canva-for-free/)
+
+* [Personal Capital Free Financial Planner Application](https://coursemetry.com/personal-capital-free-financial-planner-application/)
+
+* [Personal Finance](https://coursemetry.com/personal-finance/)
+
+* [Money In Excel - Income Tax Sch. C & Personal Financials](https://coursemetry.com/money-in-excel-income-tax-sch-c-personal-financials/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Universidad Spring - Spring Framework y Spring Boot!](https://coursemetry.com/universidad-spring-spring-framework-y-spring-boot/)
+
+* [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
+
+* [Universidad Excel - Básico, Intermedio y Avanzado!](https://coursemetry.com/universidad-excel-basico-intermedio-y-avanzado/)
+
+* [Universidad Java - De Cero a Experto - Más Completo +106 hrs](https://coursemetry.com/universidad-java-de-cero-a-experto-mas-completo-106-hrs/)
+
+* [Universidad HTML - Aprende HTML desde Cero hasta Experto](https://coursemetry.com/universidad-html-aprende-html-desde-cero-hasta-experto/)
+
+* [Become a Pro WordPress Freelancer & Get Web Design Clients](https://coursemetry.com/become-a-pro-wordpress-freelancer-get-web-design-clients/)
+
+* [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
+
+* [MBA(Master of Business Administration) Practice Tests 2022](https://coursemetry.com/mbamaster-of-business-administration-practice-tests-2022/)
+
+* [AZ-140 Azure Virtual Desktop Course Certification - AVD 2022](https://coursemetry.com/az-140-azure-virtual-desktop-course-certification-avd-2022/)
+
+* [Complete Voice Training Megacourse: Beginner to Expert](https://coursemetry.com/complete-voice-training-megacourse-beginner-to-expert/)
+
+* [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [6 Simple Steps to Bring Your Dreams into Your Reality](https://coursemetry.com/6-simple-steps-to-bring-your-dreams-into-your-reality/)
+
+* [5 Projects In 5 Days - Scratch Game Programming For Kids](https://coursemetry.com/5-projects-in-5-days-scratch-game-programming-for-kids/)
+
+* [6 Scary Stories About Music (Halloween Class Special!)](https://coursemetry.com/6-scary-stories-about-music-halloween-class-special/)
+
+* [Simplified Statistics - Statistics & Related Practices](https://coursemetry.com/simplified-statistics-statistics-related-practices/)
+
+* [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://coursemetry.com/code-your-first-game-arcade-classic-in-javascript-on-canvas/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
