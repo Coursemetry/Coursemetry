@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **130 Udemy free courses published so far on 2022-10-11**
+## **151 Udemy free courses published so far on 2022-10-11**
 
 * [Adobe Lightroom For Beginners : Complete Photo/Image Editing](https://coursemetry.com/adobe-lightroom-for-beginners-complete-photo-image-editing/)
 
@@ -263,6 +263,48 @@
 * [Adobe Lightroom Classic CC: Master the Develop Module](https://coursemetry.com/adobe-lightroom-classic-cc-master-the-develop-module/)
 
 * [Reverse Engineering .NET For Beginners (Visual Basic)](https://coursemetry.com/reverse-engineering-net-for-beginners-visual-basic/)
+
+* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
+
+* [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
+
+* [Instagram Marketing 2022. How to Promote Your Business!](https://coursemetry.com/instagram-marketing-2022-how-to-promote-your-business/)
+
+* [Learn To Focus: Meditation & Mindfulness For ADHD](https://coursemetry.com/learn-to-focus-meditation-mindfulness-for-adhd/)
+
+* [QuickBooks Desktop Job Costing](https://coursemetry.com/quickbooks-desktop-job-costing/)
+
+* [Fundamentals of Business Accounting 1: Learn Quick and Easy](https://coursemetry.com/fundamentals-of-business-accounting-1-learn-quick-and-easy/)
+
+* [Content Marketing 2022. Content that Sells!](https://coursemetry.com/content-marketing-2022-content-that-sells/)
+
+* [Meditation Masterclass: meditation teacher certification](https://coursemetry.com/meditation-masterclass-meditation-teacher-certification/)
+
+* [QuickBooks Online-Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-online-bookkeeping-business-easy-way/)
+
+* [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
+
+* [Xero Job Costing – Projects](https://coursemetry.com/xero-job-costing-projects/)
+
+* [Fiverr Freelance Business Success](https://coursemetry.com/fiverr-freelance-business-success/)
+
+* [NFT Masterclass: Buy, Create and Sell NFTs](https://coursemetry.com/nft-masterclass-buy-create-and-sell-nfts/)
+
+* [Canlı Video Çekimi Eğitimi ve İçerik Pazarlaması](https://coursemetry.com/canli-video-cekimi-egitimi-ve-icerik-pazarlamasi/)
+
+* [Power System Analysis Fundamentals](https://coursemetry.com/power-system-analysis-fundamentals/)
+
+* [DevOps Kubernetes Deployment with Ingress, DNS and SSL TLS](https://coursemetry.com/devops-kubernetes-deployment-with-ingress-dns-and-ssl-tls/)
+
+* [Power System Protection Fundamentals - Series2](https://coursemetry.com/power-system-protection-fundamentals-series2/)
+
+* [Xero Not for Profit Organization](https://coursemetry.com/xero-not-for-profit-organization/)
+
+* [How to create AI art with Midjourney](https://coursemetry.com/how-to-create-ai-art-with-midjourney/)
+
+* [Formation Amazon FBA par Arthur Travers](https://coursemetry.com/formation-amazon-fba-par-arthur-travers/)
+
+* [Summer Event Promotional Poster Design on Canva.](https://coursemetry.com/summer-event-promotional-poster-design-on-canva/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
