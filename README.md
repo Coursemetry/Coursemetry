@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **161 Udemy free courses published so far on 2022-10-11**
+## **169 Udemy free courses published so far on 2022-10-11**
 
 * [Adobe Lightroom For Beginners : Complete Photo/Image Editing](https://coursemetry.com/adobe-lightroom-for-beginners-complete-photo-image-editing/)
 
@@ -325,6 +325,22 @@
 * [Learn Programming in Go (golang): A Rich Guide for Beginners](https://coursemetry.com/learn-programming-in-go-golang-a-rich-guide-for-beginners/)
 
 * [Linux Tmux](https://coursemetry.com/linux-tmux/)
+
+* [QuickBooks Payroll - QuickBooks Pro Desktop](https://coursemetry.com/quickbooks-payroll-quickbooks-pro-desktop/)
+
+* [Excel Tips and trick : Learn MS Excel by making 7 Projects](https://coursemetry.com/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/)
+
+* [SAP Business Analytics Essential Training](https://coursemetry.com/sap-business-analytics-essential-training/)
+
+* [Double Your Assertiveness, Confidence & Communication Skills](https://coursemetry.com/double-your-assertiveness-confidence-communication-skills/)
+
+* [JavaScript for Beginners - The Complete introduction to JS](https://coursemetry.com/javascript-for-beginners-the-complete-introduction-to-js/)
+
+* [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Ethical Hacking - Port Scan com Ferramentas Online e Offline](https://coursemetry.com/ethical-hacking-port-scan-com-ferramentas-online-e-offline/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
