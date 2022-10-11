@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published so far on 2022-10-11**
+## **123 Udemy free courses published so far on 2022-10-11**
 
 * [Adobe Lightroom For Beginners : Complete Photo/Image Editing](https://coursemetry.com/adobe-lightroom-for-beginners-complete-photo-image-editing/)
 
@@ -179,6 +179,76 @@
 * [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
 
 * [Becoming A Sales Professional](https://coursemetry.com/becoming-a-sales-professional/)
+
+* [2022 Complete Python Bootcamp From Zero to Hero in Python](https://coursemetry.com/2022-complete-python-bootcamp-from-zero-to-hero-in-python-2/)
+
+* [Moodle Security, de Cero a Experto](https://coursemetry.com/moodle-security-de-cero-a-experto/)
+
+* [REBT - The Science Of Programming Your Mind! (REBT Therapy)](https://coursemetry.com/rebt-the-science-of-programming-your-mind-rebt-therapy/)
+
+* [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
+
+* [Zotero 6 - Automate Your Research and Referencing Workflow](https://coursemetry.com/zotero-6-automate-your-research-and-referencing-workflow/)
+
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
+
+* [Complete Unity 2D and C# Game Developer Megacourse](https://coursemetry.com/complete-unity-2d-and-c-game-developer-megacourse/)
+
+* [Ultimate Persuasion Strategies! - Influence Tools & Skills](https://coursemetry.com/ultimate-persuasion-strategies-influence-tools-skills/)
+
+* [Winning With Communication - Master Communication Skills](https://coursemetry.com/winning-with-communication-master-communication-skills/)
+
+* [Introduction to Drinking Water Treatment](https://coursemetry.com/introduction-to-drinking-water-treatment/)
+
+* [Learn Facebook Ads from Scratch - Get more Leads and Sales](https://coursemetry.com/learn-facebook-ads-from-scratch-get-more-leads-and-sales/)
+
+* [Excel Conditional Formatting from Basics to Formulas- SMASH!](https://coursemetry.com/excel-conditional-formatting-from-basics-to-formulas-smash/)
+
+* [Marketing Analytics: Pricing Strategies and Price Analytics](https://coursemetry.com/marketing-analytics-pricing-strategies-and-price-analytics/)
+
+* [HTML and CSS ( 2 in 1 ) course from zero for beginners 2022.](https://coursemetry.com/html-and-css-2-in-1-course-from-zero-for-beginners-2022/)
+
+* [Corporate Finance #3 Forecasting & Budgeting](https://coursemetry.com/corporate-finance-3-forecasting-budgeting/)
+
+* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
+
+* [Atlassian Confluence A-Z: Confluence for New Users](https://coursemetry.com/atlassian-confluence-a-z-confluence-for-new-users/)
+
+* [Internet and Web Development Fundamentals](https://coursemetry.com/internet-and-web-development-fundamentals/)
+
+* [Marketing Analytics and Retail Business Management](https://coursemetry.com/marketing-analytics-and-retail-business-management/)
+
+* [Excel Text Functions You Will Need - SMASH!](https://coursemetry.com/excel-text-functions-you-will-need-smash/)
+
+* [Neural Networks in Python: Deep Learning for Beginners](https://coursemetry.com/neural-networks-in-python-deep-learning-for-beginners/)
+
+* [Become a Pro WordPress Freelancer & Get Web Design Clients](https://coursemetry.com/become-a-pro-wordpress-freelancer-get-web-design-clients/)
+
+* [NGINX, Apache, SSL Encryption - Certification Course](https://coursemetry.com/nginx-apache-ssl-encryption-certification-course/)
+
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+
+* [Logistic Regression in R Studio](https://coursemetry.com/logistic-regression-in-r-studio/)
+
+* [Web Development Masterclass - Online Certification Course](https://coursemetry.com/web-development-masterclass-online-certification-course/)
+
+* [Linear Regression and Logistic Regression in Python](https://coursemetry.com/linear-regression-and-logistic-regression-in-python/)
+
+* [Become a Six-Figure SEO Freelancer & Start Getting Clients](https://coursemetry.com/become-a-six-figure-seo-freelancer-start-getting-clients/)
+
+* [CSS & JavaScript - Certification Course for Beginners](https://coursemetry.com/css-javascript-certification-course-for-beginners/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
+
+* [Canva Freelancing 101: Become a Six-Figure Graphic Designer](https://coursemetry.com/canva-freelancing-101-become-a-six-figure-graphic-designer/)
+
+* [Online Course Creation and Marketing Success - 2022 [Guide]](https://coursemetry.com/online-course-creation-and-marketing-success-2022-guide/)
+
+* [Corporate Finance #2 Financial Ratios](https://coursemetry.com/corporate-finance-2-financial-ratios/)
+
+* [Learn XML-AJAX - For Beginners](https://coursemetry.com/learn-xml-ajax-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
