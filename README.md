@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **151 Udemy free courses published so far on 2022-10-11**
+## **161 Udemy free courses published so far on 2022-10-11**
 
 * [Adobe Lightroom For Beginners : Complete Photo/Image Editing](https://coursemetry.com/adobe-lightroom-for-beginners-complete-photo-image-editing/)
 
@@ -305,6 +305,26 @@
 * [Formation Amazon FBA par Arthur Travers](https://coursemetry.com/formation-amazon-fba-par-arthur-travers/)
 
 * [Summer Event Promotional Poster Design on Canva.](https://coursemetry.com/summer-event-promotional-poster-design-on-canva/)
+
+* [Cyber Security: OS Security](https://coursemetry.com/cyber-security-os-security/)
+
+* [Management Consulting Presentation Essential Training](https://coursemetry.com/management-consulting-presentation-essential-training/)
+
+* [Ethical Hacking: Linux Backdoor](https://coursemetry.com/ethical-hacking-linux-backdoor/)
+
+* [Cyber Security: Phishing](https://coursemetry.com/cyber-security-phishing/)
+
+* [Google Analytics For Beginners](https://coursemetry.com/google-analytics-for-beginners/)
+
+* [The Ultimate SAP S/4HANA Course 2022: From Zero to Expert](https://coursemetry.com/the-ultimate-sap-s-4hana-course-2022-from-zero-to-expert/)
+
+* [Practical Password cracking - Office files | Ethical Hacking](https://coursemetry.com/practical-password-cracking-office-files-ethical-hacking/)
+
+* [Protection & Coordination Fundamentals - Distribution System](https://coursemetry.com/protection-coordination-fundamentals-distribution-system/)
+
+* [Learn Programming in Go (golang): A Rich Guide for Beginners](https://coursemetry.com/learn-programming-in-go-golang-a-rich-guide-for-beginners/)
+
+* [Linux Tmux](https://coursemetry.com/linux-tmux/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
