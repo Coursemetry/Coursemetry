@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **113 Udemy free courses published so far on 2022-10-12**
+## **116 Udemy free courses published so far on 2022-10-12**
 
 * [Time Management: This Is How I Work 300 Percent Faster](https://coursemetry.com/time-management-this-is-how-i-work-300-percent-faster/)
 
@@ -229,6 +229,12 @@
 * [The Complete 2022 Flutter & Dart Development Course [Arabic]](https://coursemetry.com/the-complete-2022-flutter-dart-development-course-arabic/)
 
 * [The Complete Computer Basics Guide for Beginners: 2022](https://coursemetry.com/the-complete-computer-basics-guide-for-beginners-2022/)
+
+* [Build, Host & Manage Super-Fast WordPress Websites on 10Web](https://coursemetry.com/build-host-manage-super-fast-wordpress-websites-on-10web/)
+
+* [Learn in 67 mins how to do so well in your interviews](https://coursemetry.com/learn-in-67-mins-how-to-do-so-well-in-your-interviews/)
+
+* [الكورس الشامل لكيفية إنشاء برنامج تدريبي تفـاعلي ناجح](https://coursemetry.com/%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%aa%d8%af%d8%b1/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
