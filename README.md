@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-10-12**
+## **113 Udemy free courses published so far on 2022-10-12**
 
 * [Time Management: This Is How I Work 300 Percent Faster](https://coursemetry.com/time-management-this-is-how-i-work-300-percent-faster/)
 
@@ -225,6 +225,10 @@
 * [Excel Analytics: Linear Regression Analysis in MS Excel](https://coursemetry.com/excel-analytics-linear-regression-analysis-in-ms-excel/)
 
 * [Microsoft Azure Security Technologies AZ-500 Practice Exams](https://coursemetry.com/microsoft-azure-security-technologies-az-500-practice-exams/)
+
+* [The Complete 2022 Flutter & Dart Development Course [Arabic]](https://coursemetry.com/the-complete-2022-flutter-dart-development-course-arabic/)
+
+* [The Complete Computer Basics Guide for Beginners: 2022](https://coursemetry.com/the-complete-computer-basics-guide-for-beginners-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
