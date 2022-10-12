@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-10-12**
+## **111 Udemy free courses published so far on 2022-10-12**
 
 * [Time Management: This Is How I Work 300 Percent Faster](https://coursemetry.com/time-management-this-is-how-i-work-300-percent-faster/)
 
@@ -203,6 +203,28 @@
 * [How To Use LazyApply To Automate Your Job Search?](https://coursemetry.com/how-to-use-lazyapply-to-automate-your-job-search/)
 
 * [Create awesome videos from text using Pictory](https://coursemetry.com/create-awesome-videos-from-text-using-pictory-2/)
+
+* [Arista Certified Engineering Associate ACE Practice Exams](https://coursemetry.com/arista-certified-engineering-associate-ace-practice-exams/)
+
+* [Microsoft Excel Weekender Crash Course](https://coursemetry.com/microsoft-excel-weekender-crash-course/)
+
+* [PRINCE2 Foundation New Practice Exams - October 2022](https://coursemetry.com/prince2-foundation-new-practice-exams-october-2022/)
+
+* [Support Vector Machines in Python: SVM Concepts & Code](https://coursemetry.com/support-vector-machines-in-python-svm-concepts-code/)
+
+* [Be Charismatic: Develop Amazing Charisma & Social Skills](https://coursemetry.com/be-charismatic-develop-amazing-charisma-social-skills/)
+
+* [Time Series Analysis and Forecasting using Python](https://coursemetry.com/time-series-analysis-and-forecasting-using-python/)
+
+* [Image Recognition for Beginners using CNN in R Studio](https://coursemetry.com/image-recognition-for-beginners-using-cnn-in-r-studio/)
+
+* [Anti-Money Laundering Concepts: AML, KYC and Compliance](https://coursemetry.com/anti-money-laundering-concepts-aml-kyc-and-compliance/)
+
+* [Build a Portfolio Website without Coding 2022](https://coursemetry.com/build-a-portfolio-website-without-coding-2022/)
+
+* [Excel Analytics: Linear Regression Analysis in MS Excel](https://coursemetry.com/excel-analytics-linear-regression-analysis-in-ms-excel/)
+
+* [Microsoft Azure Security Technologies AZ-500 Practice Exams](https://coursemetry.com/microsoft-azure-security-technologies-az-500-practice-exams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
