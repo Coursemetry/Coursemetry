@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published so far on 2022-10-12**
+## **147 Udemy free courses published so far on 2022-10-12**
 
 * [Time Management: This Is How I Work 300 Percent Faster](https://coursemetry.com/time-management-this-is-how-i-work-300-percent-faster/)
 
@@ -235,6 +235,68 @@
 * [Learn in 67 mins how to do so well in your interviews](https://coursemetry.com/learn-in-67-mins-how-to-do-so-well-in-your-interviews/)
 
 * [الكورس الشامل لكيفية إنشاء برنامج تدريبي تفـاعلي ناجح](https://coursemetry.com/%d8%a7%d9%84%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%aa%d8%af%d8%b1/)
+
+* [Salud mental y motivación en el trabajo](https://coursemetry.com/salud-mental-y-motivacion-en-el-trabajo/)
+
+* [Project Management: Cost & Schedule Monitoring using EVM](https://coursemetry.com/project-management-cost-schedule-monitoring-using-evm/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [Learn Python from Zero till its Usage by NASA in Mars Rovers](https://coursemetry.com/learn-python-from-zero-till-its-usage-by-nasa-in-mars-rovers/)
+
+* [The Complete TikTok Masterclass: How to go Viral in 2022!](https://coursemetry.com/the-complete-tiktok-masterclass-how-to-go-viral-in-2022/)
+
+* [Python with NumPy For Absolute Beginners](https://coursemetry.com/python-with-numpy-for-absolute-beginners/)
+
+* [Investing 101 Made Super Easy for Beginners](https://coursemetry.com/investing-101-made-super-easy-for-beginners/)
+
+* [Public Speaking: A tactical approach](https://coursemetry.com/public-speaking-a-tactical-approach/)
+
+* [Seamlessly Make Videos From Text & Voice Over Using Pictory](https://coursemetry.com/seamlessly-make-videos-from-text-voice-over-using-pictory/)
+
+* [Ultimate Startup Company Creation Guide](https://coursemetry.com/ultimate-startup-company-creation-guide/)
+
+* [React Guide - Build a TicTacToe App using React Native!](https://coursemetry.com/react-guide-build-a-tictactoe-app-using-react-native/)
+
+* [How to create Linkedin Ads that works](https://coursemetry.com/how-to-create-linkedin-ads-that-works/)
+
+* [Python Automation Series](https://coursemetry.com/python-automation-series/)
+
+* [The Absolute Cyber Security Awareness Training for Employees](https://coursemetry.com/the-absolute-cyber-security-awareness-training-for-employees/)
+
+* [P.O.W.E.R Resume System: Proven system to get job interviews](https://coursemetry.com/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/)
+
+* [Certification in REBT Therapy - Internationally Accredited](https://coursemetry.com/certification-in-rebt-therapy-internationally-accredited/)
+
+* [Autodesk AutoCAD - Beginner to an advanced level](https://coursemetry.com/autodesk-autocad-beginner-to-an-advanced-level/)
+
+* [Python 3 Plus: Python desde Cero + Data Analysis y Matplot](https://coursemetry.com/python-3-plus-python-desde-cero-data-analysis-y-matplot/)
+
+* [Das große Canva Kurs Kompendium](https://coursemetry.com/das-grose-canva-kurs-kompendium/)
+
+* [Simplified Econometrics - Econometrics & Related Practices](https://coursemetry.com/simplified-econometrics-econometrics-related-practices/)
+
+* [Massaggio Decontratturante, Vol 1: Schiena, Spalle, Collo.](https://coursemetry.com/massaggio-decontratturante-vol-1-schiena-spalle-collo/)
+
+* [Internationally Accredited Certification in Neuroplasticity](https://coursemetry.com/internationally-accredited-certification-in-neuroplasticity/)
+
+* [Chief of Staff 101](https://coursemetry.com/chief-of-staff-101/)
+
+* [Practice and Learn React Web Development with Quizzes](https://coursemetry.com/practice-and-learn-react-web-development-with-quizzes/)
+
+* [Autodesk Revit - beginner to an intermediate level](https://coursemetry.com/autodesk-revit-beginner-to-an-intermediate-level/)
+
+* [101 Best Digital Product idea PLR Products  2023 How to Earn](https://coursemetry.com/101-best-digital-product-idea-plr-products-2023-how-to-earn/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [AZ-900 Azure Fundamentals practice tests - May 2022](https://coursemetry.com/az-900-azure-fundamentals-practice-tests-may-2022/)
+
+* [Accredited Aromatherapy Certificate for Chakra & Kundalini](https://coursemetry.com/accredited-aromatherapy-certificate-for-chakra-kundalini/)
+
+* [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
+
+* [ITIL 4 Foundation Exam / Practice Test 2022](https://coursemetry.com/itil-4-foundation-exam-practice-test-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
