@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **147 Udemy free courses published so far on 2022-10-12**
+## **150 Udemy free courses published so far on 2022-10-12**
 
 * [Time Management: This Is How I Work 300 Percent Faster](https://coursemetry.com/time-management-this-is-how-i-work-300-percent-faster/)
 
@@ -297,6 +297,12 @@
 * [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
 * [ITIL 4 Foundation Exam / Practice Test 2022](https://coursemetry.com/itil-4-foundation-exam-practice-test-2022/)
+
+* [Cómo Crear una Tienda Online con WordPress y WooCommerce](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-y-woocommerce/)
+
+* [DevOps para Java y Spring Boot](https://coursemetry.com/devops-para-java-y-spring-boot/)
+
+* [Fundamentos de Java Nivel intermedio](https://coursemetry.com/fundamentos-de-java-nivel-intermedio/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
