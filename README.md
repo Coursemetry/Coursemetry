@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-10-13**
+## **85 Udemy free courses published so far on 2022-10-13**
 
 * [The Secret to Drawing Portraits | Beginner's Level 2022](https://coursemetry.com/the-secret-to-drawing-portraits-beginners-level-2022/)
 
@@ -155,6 +155,24 @@
 * [101 Best Digital Product idea PLR Products  2023 How to Earn](https://coursemetry.com/101-best-digital-product-idea-plr-products-2023-how-to-earn/)
 
 * [QuickBooks Online – Bank Feeds & Credit Card Feeds](https://coursemetry.com/quickbooks-online-bank-feeds-credit-card-feeds/)
+
+* [How to create Azure Virtual Machines and Windows Sandbox](https://coursemetry.com/how-to-create-azure-virtual-machines-and-windows-sandbox/)
+
+* [Create and query a dedicated SQL pool in Azure using SSMS](https://coursemetry.com/create-and-query-a-dedicated-sql-pool-in-azure-using-ssms/)
+
+* [Web3 Foundations](https://coursemetry.com/web3-foundations/)
+
+* [Strategy in Action](https://coursemetry.com/strategy-in-action/)
+
+* [Build AI Plant Classification App in Android (30 Minutes!)](https://coursemetry.com/build-ai-plant-classification-app-in-android-30-minutes/)
+
+* [Check Point Jump Start: Quantum Management](https://coursemetry.com/check-point-jump-start-quantum-management/)
+
+* [Mastering Chopin Etudes (Op. 10 No. 6)](https://coursemetry.com/mastering-chopin-etudes-op-10-no-6/)
+
+* [Explain Domain Name and Web Hosting - Find Perfect Domain](https://coursemetry.com/explain-domain-name-and-web-hosting-find-perfect-domain/)
+
+* [Master Python fundamentals (Free Course)](https://coursemetry.com/master-python-fundamentals-free-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
