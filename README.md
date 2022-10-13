@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **85 Udemy free courses published so far on 2022-10-13**
+## **116 Udemy free courses published so far on 2022-10-13**
 
 * [The Secret to Drawing Portraits | Beginner's Level 2022](https://coursemetry.com/the-secret-to-drawing-portraits-beginners-level-2022/)
 
@@ -173,6 +173,68 @@
 * [Explain Domain Name and Web Hosting - Find Perfect Domain](https://coursemetry.com/explain-domain-name-and-web-hosting-find-perfect-domain/)
 
 * [Master Python fundamentals (Free Course)](https://coursemetry.com/master-python-fundamentals-free-course/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+
+* [Process Costing System-Cost Accounting-Managerial Accounting](https://coursemetry.com/process-costing-system-cost-accounting-managerial-accounting/)
+
+* [C Corporation Income Tax (Form 1120)](https://coursemetry.com/c-corporation-income-tax-form-1120/)
+
+* [PMI-ACP Realistic Practice Exams - Domains](https://coursemetry.com/pmi-acp-realistic-practice-exams-domains/)
+
+* [Accounting for Corporations](https://coursemetry.com/accounting-for-corporations/)
+
+* [Accounting-Statement of Cash Flows](https://coursemetry.com/accounting-statement-of-cash-flows/)
+
+* [Flexible Budgets, Standard Costs, & Variance Analysis](https://coursemetry.com/flexible-budgets-standard-costs-variance-analysis/)
+
+* [Cost Volume Profit Analysis (CVP) – Managerial Accounting](https://coursemetry.com/cost-volume-profit-analysis-cvp-managerial-accounting/)
+
+* [Responsibility Accounting & Performance Measurement](https://coursemetry.com/responsibility-accounting-performance-measurement/)
+
+* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+
+* [The Complete Go:Golang Bootcamp](https://coursemetry.com/the-complete-gogolang-bootcamp/)
+
+* [How to Stop Overthinking and Procrastination](https://coursemetry.com/how-to-stop-overthinking-and-procrastination/)
+
+* [Entrepreneurship - Ft. Matthew Rolnick of Yaymaker, Groupon](https://coursemetry.com/entrepreneurship-ft-matthew-rolnick-of-yaymaker-groupon/)
+
+* [Learn to Edit Video FAST! Adobe Premiere Pro 2022 StepByStep](https://coursemetry.com/learn-to-edit-video-fast-adobe-premiere-pro-2022-stepbystep/)
+
+* [Application of Technology in Human Resources](https://coursemetry.com/application-of-technology-in-human-resources/)
+
+* [Adobe Lightroom Classic CC: The Map & Book Module](https://coursemetry.com/adobe-lightroom-classic-cc-the-map-book-module/)
+
+* [Hibernate Training for Beginners](https://coursemetry.com/hibernate-training-for-beginners/)
+
+* [Certified ISTQB Advanced Level - Test Analyst(CTAL-TA) 2022](https://coursemetry.com/certified-istqb-advanced-level-test-analystctal-ta-2022/)
+
+* [Remote Work Success: Earn More - Work Less - Live More](https://coursemetry.com/remote-work-success-earn-more-work-less-live-more/)
+
+* [Make YouTube Thumbnails & Get More Views (Photoshop +Online)](https://coursemetry.com/make-youtube-thumbnails-get-more-views-photoshop-online/)
+
+* [Java JUnit for Beginners](https://coursemetry.com/java-junit-for-beginners/)
+
+* [(MEVN Stack) build a PWA & Machine Learning E-Commerce APP](https://coursemetry.com/mevn-stack-build-a-pwa-machine-learning-e-commerce-app/)
+
+* [How to VLOG 2022 : Complete Beginners Course +YouTube](https://coursemetry.com/how-to-vlog-2022-complete-beginners-course-youtube/)
+
+* [Lean Six Sigma Applications in IT Industry](https://coursemetry.com/lean-six-sigma-applications-in-it-industry/)
+
+* [The Complete React Redux Node Express MySQL Developer Course](https://coursemetry.com/the-complete-react-redux-node-express-mysql-developer-course/)
+
+* [Xero Bookkeeping & Accounting, w/ Set-up & Reporting](https://coursemetry.com/xero-bookkeeping-accounting-w-set-up-reporting/)
+
+* [Double Your Assertiveness, Confidence & Communication Skills](https://coursemetry.com/double-your-assertiveness-confidence-communication-skills/)
+
+* [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
