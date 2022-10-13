@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **116 Udemy free courses published so far on 2022-10-13**
+## **149 Udemy free courses published so far on 2022-10-13**
 
 * [The Secret to Drawing Portraits | Beginner's Level 2022](https://coursemetry.com/the-secret-to-drawing-portraits-beginners-level-2022/)
 
@@ -235,6 +235,72 @@
 * [Double Your Assertiveness, Confidence & Communication Skills](https://coursemetry.com/double-your-assertiveness-confidence-communication-skills/)
 
 * [How To Grow Your YouTube Channel Fast in 2022! Step-by-Step](https://coursemetry.com/how-to-grow-your-youtube-channel-fast-in-2022-step-by-step/)
+
+* [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
+
+* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners/)
+
+* [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
+
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
+
+* [Create a Members Only Blog using PHP, MySQL, & AJAX](https://coursemetry.com/create-a-members-only-blog-using-php-mysql-ajax/)
+
+* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
+
+* [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
+
+* [Learn PHP - For Beginners](https://coursemetry.com/learn-php-for-beginners/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners/)
+
+* [Introduction to Domain Names and Web Hosting - Quick Guide](https://coursemetry.com/introduction-to-domain-names-and-web-hosting-quick-guide/)
+
+* [Adobe Lightroom Classic CC: Master the Library Module](https://coursemetry.com/adobe-lightroom-classic-cc-master-the-library-module/)
+
+* [HTML, JavaScript, & Bootstrap - Certification Course](https://coursemetry.com/html-javascript-bootstrap-certification-course/)
+
+* [Yenitoptancıcom Dropshipping Eğitimi](https://coursemetry.com/yenitoptancicom-dropshipping-egitimi/)
+
+* [How To Make Passive Income on Amazon KDP with Zero dollars](https://coursemetry.com/how-to-make-passive-income-on-amazon-kdp-with-zero-dollars/)
+
+* [Programación Full Stack en python para principiantes](https://coursemetry.com/programacion-full-stack-en-python-para-principiantes/)
+
+* [Docker, Compose y Swarm](https://coursemetry.com/docker-compose-y-swarm/)
+
+* [Introducción a TypeScript](https://coursemetry.com/introduccion-a-typescript/)
+
+* [Introducción al Desarrollo Backend](https://coursemetry.com/introduccion-al-desarrollo-backend/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [Hack Network PCs](https://coursemetry.com/hack-network-pcs/)
+
+* [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
+
+* [Learn Python in 7 Days with Exercises and Assignments](https://coursemetry.com/learn-python-in-7-days-with-exercises-and-assignments/)
+
+* [300+ Python Exercises (Simple and Complex) with Algorithm](https://coursemetry.com/300-python-exercises-simple-and-complex-with-algorithm/)
+
+* [Cisco Certified Network Associate (CCNA) Exam 2022](https://coursemetry.com/cisco-certified-network-associate-ccna-exam-2022-2/)
+
+* [Dare to Lead: How to Become a Next Generation Leader](https://coursemetry.com/dare-to-lead-how-to-become-a-next-generation-leader/)
+
+* [Linux Beginner Commands](https://coursemetry.com/linux-beginner-commands/)
+
+* [How to Be Happy: Everyday Strategies for More Happiness](https://coursemetry.com/how-to-be-happy-everyday-strategies-for-more-happiness/)
+
+* [Passive Income: 27 Ways to Earn Passive Income Online](https://coursemetry.com/passive-income-27-ways-to-earn-passive-income-online/)
+
+* [Animación video y 3D para principiantes con Photoshop](https://coursemetry.com/animacion-video-y-3d-para-principiantes-con-photoshop/)
+
+* [Make Simple Games with Python](https://coursemetry.com/make-simple-games-with-python/)
+
+* [Retoque fotográfico de cero a ninja con Photoshop Lightroom](https://coursemetry.com/retoque-fotografico-de-cero-a-ninja-con-photoshop-lightroom/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
