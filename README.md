@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **56 Udemy free courses published so far on 2022-10-14**
+## **67 Udemy free courses published so far on 2022-10-14**
 
 * [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
 
@@ -115,6 +115,28 @@
 * [Human Resource Planning and Management](https://coursemetry.com/human-resource-planning-and-management/)
 
 * [Building Cloud based Geospatial Raster Service](https://coursemetry.com/building-cloud-based-geospatial-raster-service/)
+
+* [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+
+* [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
+
+* [CorelDRAW Essential Guide 2022 Update (Win)](https://coursemetry.com/coreldraw-essential-guide-2022-update-win/)
+
+* [The Minimalist Lifestyle - and art therapy - LAGOM!](https://coursemetry.com/the-minimalist-lifestyle-and-art-therapy-lagom/)
+
+* [Ethical Hacking: boot2root CTF](https://coursemetry.com/ethical-hacking-boot2root-ctf/)
+
+* [Siemens NX for beginners](https://coursemetry.com/siemens-nx-for-beginners/)
+
+* [Linux Tmux](https://coursemetry.com/linux-tmux/)
+
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+
+* [Ethical Hacking: Hack by Uploading](https://coursemetry.com/ethical-hacking-hack-by-uploading/)
+
+* [Ethical Hacking: Linux Backdoor](https://coursemetry.com/ethical-hacking-linux-backdoor/)
+
+* [Cyber Security: Awareness Training For Absolute Beginners](https://coursemetry.com/cyber-security-awareness-training-for-absolute-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
