@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **99 Udemy free courses published so far on 2022-10-14**
+## **114 Udemy free courses published so far on 2022-10-14**
 
 * [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
 
@@ -201,6 +201,36 @@
 * [Advanced Amazon KDP: SEO Keyword Research to Rank Number ONE](https://coursemetry.com/advanced-amazon-kdp-seo-keyword-research-to-rank-number-one/)
 
 * [10x Your Social Skills & Connect With People](https://coursemetry.com/10x-your-social-skills-connect-with-people/)
+
+* [Passive Income With U demy Courses HIndi](https://coursemetry.com/passive-income-with-u-demy-courses-hindi/)
+
+* [Contented Career Mom](https://coursemetry.com/contented-career-mom/)
+
+* [CompTIA A+ Certification (220-1001) Prep Course](https://coursemetry.com/comptia-a-certification-220-1001-prep-course/)
+
+* [Agile Scrum Master Certification Exam Prep (CSM)](https://coursemetry.com/agile-scrum-master-certification-exam-prep-csm/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [An Enhanced Introduction to Foundational Logic](https://coursemetry.com/an-enhanced-introduction-to-foundational-logic/)
+
+* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [Positive Psychology](https://coursemetry.com/positive-psychology/)
+
+* [Certified Lean Six Sigma Yellow Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-yellow-belt-exam-prep/)
+
+* [How to Start a Podcast - Podcasting Made Easy](https://coursemetry.com/how-to-start-a-podcast-podcasting-made-easy/)
+
+* [Certified Management Accountant CMA Exam Prep - Part 1](https://coursemetry.com/certified-management-accountant-cma-exam-prep-part-1/)
+
+* [Programa tecnico para aprender a operar en Forex trading](https://coursemetry.com/programa-tecnico-para-aprender-a-operar-en-forex-trading/)
+
+* [Complete Teacher Wellbeing in Schools](https://coursemetry.com/complete-teacher-wellbeing-in-schools/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
