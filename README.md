@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-10-15**
+## **75 Udemy free courses published so far on 2022-10-15**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -149,6 +149,10 @@
 * [Ethical Hacking: File Inclusion](https://coursemetry.com/ethical-hacking-file-inclusion/)
 
 * [Windows Command Line Basics Guide 2022](https://coursemetry.com/windows-command-line-basics-guide-2022/)
+
+* [Online Course Creation and Marketing Success - 2022 [Guide]](https://coursemetry.com/online-course-creation-and-marketing-success-2022-guide/)
+
+* [Build Successful E-Commerce Stores with WordPress & Woostify](https://coursemetry.com/build-successful-e-commerce-stores-with-wordpress-woostify/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
