@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **102 Udemy free courses published so far on 2022-10-15**
+## **106 Udemy free courses published so far on 2022-10-15**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -207,6 +207,14 @@
 * [What is a Software License Agreement.](https://coursemetry.com/what-is-a-software-license-agreement/)
 
 * [Deploying Static React to the Cloud (AWS, S3, Cloudfront)](https://coursemetry.com/deploying-static-react-to-the-cloud-aws-s3-cloudfront/)
+
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
+
+* [Learn & Develop Winning Value Proposition for your business](https://coursemetry.com/learn-develop-winning-value-proposition-for-your-business/)
+
+* [Predictive Modeling with SAS Enterprise Miner](https://coursemetry.com/predictive-modeling-with-sas-enterprise-miner/)
+
+* [Siemens NX: Sıfırdan Uzmanlığa 45+ Saat Sektörel Eğitim Seti](https://coursemetry.com/siemens-nx-sifirdan-uzmanliga-45-saat-sektorel-egitim-seti/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
