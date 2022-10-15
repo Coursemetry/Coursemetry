@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **118 Udemy free courses published so far on 2022-10-15**
+## **129 Udemy free courses published so far on 2022-10-15**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -239,6 +239,28 @@
 * [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
 
 * [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
+
+* [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
+
+* [Aprende Lenguaje C de CERO a EXPERTO](https://coursemetry.com/aprende-lenguaje-c-de-cero-a-experto/)
+
+* [Aprende SIMULINK de CERO a EXPERTO](https://coursemetry.com/aprende-simulink-de-cero-a-experto/)
+
+* [F1'de Kariyer Hedefleyenler için F1 Mühendisliği Rehberi](https://coursemetry.com/f1de-kariyer-hedefleyenler-icin-f1-muhendisligi-rehberi/)
+
+* [Mühendisler için Havacılık & Uzay Sanayi Tasarım Bilgileri](https://coursemetry.com/muhendisler-icin-havacilik-uzay-sanayi-tasarim-bilgileri/)
+
+* [AZ-700: Designing and Implementing Azure Networking Solution](https://coursemetry.com/az-700-designing-and-implementing-azure-networking-solution/)
+
+* [Certified Kubernetes Application Developer (CKAD) Exam](https://coursemetry.com/certified-kubernetes-application-developer-ckad-exam/)
+
+* [Catia V5 | Sıfırdan Uzmanlığa 50+ Saat Sektörel Eğitim Seti](https://coursemetry.com/catia-v5-sifirdan-uzmanliga-50-saat-sektorel-egitim-seti/)
+
+* [7120X Avaya Aura Core Components Integration Exam Prep](https://coursemetry.com/7120x-avaya-aura-core-components-integration-exam-prep/)
+
+* [Photoshop CC | Sıfırdan Uzmanlığa 30+ Saat Eğitim Seti A-Z](https://coursemetry.com/photoshop-cc-sifirdan-uzmanliga-30-saat-egitim-seti-a-z/)
+
+* [AZ-104: Microsoft Azure Administrator Practice Questions](https://coursemetry.com/az-104-microsoft-azure-administrator-practice-questions/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
