@@ -2,235 +2,153 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **114 Udemy free courses published so far on 2022-10-14**
+## **73 Udemy free courses published so far on 2022-10-15**
 
-* [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
-* [Build, Host & Manage Super-Fast WordPress Websites on 10Web](https://coursemetry.com/build-host-manage-super-fast-wordpress-websites-on-10web/)
+* [Three.js Basics Guide 2022](https://coursemetry.com/three-js-basics-guide-2022/)
 
-* [Instagram Marketing 2021: Growth and Promotion on Instagram](https://coursemetry.com/instagram-marketing-2021-growth-and-promotion-on-instagram/)
+* [Backbone JS Tutorial for Beginners](https://coursemetry.com/backbone-js-tutorial-for-beginners/)
 
-* [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
+* [Escaping The 8 Bar Loop And Finishing More Music In Ableton](https://coursemetry.com/escaping-the-8-bar-loop-and-finishing-more-music-in-ableton/)
 
-* [Bootstrap 4 Ultimate Guide 2022](https://coursemetry.com/bootstrap-4-ultimate-guide-2022/)
+* [Learn Marketing from Case Studies](https://coursemetry.com/learn-marketing-from-case-studies/)
 
-* [Microsoft PowerApps Ultimate Guide 2022](https://coursemetry.com/microsoft-powerapps-ultimate-guide-2022/)
+* [4 Métodos para hacer trading en los mercados financieros](https://coursemetry.com/4-metodos-para-hacer-trading-en-los-mercados-financieros/)
 
-* [Microsoft OneDrive Ultimate Guide 2022](https://coursemetry.com/microsoft-onedrive-ultimate-guide-2022/)
+* [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
 
-* [Microsoft OneNote Ultimate Guide 2022](https://coursemetry.com/microsoft-onenote-ultimate-guide-2022/)
+* [Certified Lean Six Sigma Green Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-green-belt-exam-prep/)
 
-* [Gmail Ultimate Guide 2022](https://coursemetry.com/gmail-ultimate-guide-2022/)
+* [Music Production - How To Build Your Sample Library](https://coursemetry.com/music-production-how-to-build-your-sample-library/)
 
-* [Microsoft Outlook Ultimate Guide 2022](https://coursemetry.com/microsoft-outlook-ultimate-guide-2022/)
+* [AZ-500 Azure Security Engineer Associate - Practice Tests 22](https://coursemetry.com/az-500-azure-security-engineer-associate-practice-tests-22/)
 
-* [CSS3 Ultimate Guide 2022](https://coursemetry.com/css3-ultimate-guide-2022/)
+* [Ableton Workflow Tutorial - How To Make A Track A Day](https://coursemetry.com/ableton-workflow-tutorial-how-to-make-a-track-a-day/)
 
-* [Adobe XD Ultimate Guide 2022](https://coursemetry.com/adobe-xd-ultimate-guide-2022/)
+* [Complete Python Challenges, Python MCQ& Python Recap in 2022](https://coursemetry.com/complete-python-challenges-python-mcq-python-recap-in-2022/)
 
-* [Microsoft Publisher Basics Guide 2022](https://coursemetry.com/microsoft-publisher-basics-guide-2022/)
+* [How to Identify & Fix Business Issues - 4 Steps to Success](https://coursemetry.com/how-to-identify-fix-business-issues-4-steps-to-success/)
 
-* [CSS, Bootstrap And JavaScript And Python Stack Course](https://coursemetry.com/css-bootstrap-and-javascript-and-python-stack-course/)
+* [Xfer Serum - Beginner Comprehensive Masterclass](https://coursemetry.com/xfer-serum-beginner-comprehensive-masterclass/)
 
-* [Microsoft PowerPoint Ultimate Guide 2022](https://coursemetry.com/microsoft-powerpoint-ultimate-guide-2022/)
+* [Ableton - How To Start A Track From Scratch](https://coursemetry.com/ableton-how-to-start-a-track-from-scratch/)
 
-* [jQuery Ultimate Guide 2022](https://coursemetry.com/jquery-ultimate-guide-2022/)
+* [Ableton Live 11 - Pro Tips To Get You Started](https://coursemetry.com/ableton-live-11-pro-tips-to-get-you-started/)
 
-* [Microsoft Power Automate (Flow) Ultimate Guide 2022](https://coursemetry.com/microsoft-power-automate-flow-ultimate-guide-2022/)
+* [How To Make Money From Cryptocurrency And Investments](https://coursemetry.com/how-to-make-money-from-cryptocurrency-and-investments/)
 
-* [Practical Database Course for Beginners : 6 courses in 1](https://coursemetry.com/practical-database-course-for-beginners-6-courses-in-1/)
+* [Music Production - How To Make A U.K Garage Track.](https://coursemetry.com/music-production-how-to-make-a-u-k-garage-track/)
 
-* [Learn 4 Steps to Make Money Online with Affiliate Marketing!](https://coursemetry.com/learn-4-steps-to-make-money-online-with-affiliate-marketing/)
+* [AWS Certified SysOps Administrator – Associate](https://coursemetry.com/aws-certified-sysops-administrator-associate/)
 
-* [Google Docs Ultimate Guide 2022](https://coursemetry.com/google-docs-ultimate-guide-2022/)
+* [250+ Exercises - Data Science Bootcamp in Python - 2022](https://coursemetry.com/250-exercises-data-science-bootcamp-in-python-2022/)
 
-* [GitHub Basics Guide 2022](https://coursemetry.com/github-basics-guide-2022/)
+* [Python 3: Análisis y visualización de datos](https://coursemetry.com/python-3-analisis-y-visualizacion-de-datos/)
 
-* [GoToWebinar MasterClass: Tell Your Story Anywhere With GTW!](https://coursemetry.com/gotowebinar-masterclass-tell-your-story-anywhere-with-gtw/)
+* [Rekordbox - Learn The Basic Fundamentals Of DJing](https://coursemetry.com/rekordbox-learn-the-basic-fundamentals-of-djing/)
 
-* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+* [Aprende Cómo Hacer El Mejor Podcast y Con Hosting](https://coursemetry.com/aprende-como-hacer-el-mejor-podcast-y-con-hosting/)
 
-* [Microsoft Planner Ultimate Guide 2022](https://coursemetry.com/microsoft-planner-ultimate-guide-2022/)
+* [Blinkist - How To Quickly Summarise Books](https://coursemetry.com/blinkist-how-to-quickly-summarise-books/)
 
-* [Adobe After Effects Ultimate Guide 2022](https://coursemetry.com/adobe-after-effects-ultimate-guide-2022/)
+* [PMI-ACP Realistic Practice Exams](https://coursemetry.com/pmi-acp-realistic-practice-exams/)
 
-* [Adobe Illustrator Ultimate Guide 2022](https://coursemetry.com/adobe-illustrator-ultimate-guide-2022/)
+* [SEO Training: Complete SEO Course & SEO Copywriting MASTERY](https://coursemetry.com/seo-training-complete-seo-course-seo-copywriting-mastery/)
 
-* [Adobe Audition Ultimate Guide 2022](https://coursemetry.com/adobe-audition-ultimate-guide-2022/)
+* [Apache Solr Training for Beginners](https://coursemetry.com/apache-solr-training-for-beginners/)
 
-* [Sales Management: Processes & Selling Techniques](https://coursemetry.com/sales-management-processes-selling-techniques/)
+* [Sublime Text 3 Basics Guide 2022](https://coursemetry.com/sublime-text-3-basics-guide-2022/)
 
-* [(October 2022) Business Fundamentals (pre-University)](https://coursemetry.com/october-2022-business-fundamentals-pre-university/)
+* [Web Development Ultimate Guide 2022](https://coursemetry.com/web-development-ultimate-guide-2022/)
 
-* [Evernote Ultimate Guide 2022](https://coursemetry.com/evernote-ultimate-guide-2022/)
+* [Creative Writing Course for Ecommerce & Ecommerce SEO Course](https://coursemetry.com/creative-writing-course-for-ecommerce-ecommerce-seo-course/)
 
-* [Java for Beginners - Learn all the Basics of Java](https://coursemetry.com/java-for-beginners-learn-all-the-basics-of-java/)
+* [Trello Ultimate Guide 2022](https://coursemetry.com/trello-ultimate-guide-2022/)
 
-* [Basic Hawaiian Grammar](https://coursemetry.com/basic-hawaiian-grammar/)
+* [Certified Lean Six Sigma Black Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-black-belt-exam-prep/)
 
-* [The ultimate flutter development tutorial - free course](https://coursemetry.com/the-ultimate-flutter-development-tutorial-free-course/)
+* [Open Broadcaster Basics Guide 2022](https://coursemetry.com/open-broadcaster-basics-guide-2022/)
 
-* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
+* [SQL: Consultas básicas a complejas](https://coursemetry.com/sql-consultas-basicas-a-complejas/)
 
-* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+* [Music Production - Max4Live & Ableton Tips](https://coursemetry.com/music-production-max4live-ableton-tips/)
 
-* [Python And Flask Framework Complete Course](https://coursemetry.com/python-and-flask-framework-complete-course/)
+* [CISSP Certification Practice Tests (2022)](https://coursemetry.com/cissp-certification-practice-tests-2022/)
 
-* [Human Resources Retention Strategies](https://coursemetry.com/human-resources-retention-strategies/)
+* [Sıfırdan Uzmanlığa Canva Eğitimi](https://coursemetry.com/sifirdan-uzmanliga-canva-egitimi/)
 
-* [HR Plan for a Startup Firm](https://coursemetry.com/hr-plan-for-a-startup-firm/)
+* [Bootstrap 5: Créer et Lancer des Sites Web Réactifs](https://coursemetry.com/bootstrap-5-creer-et-lancer-des-sites-web-reactifs/)
 
-* [Jupyter Notebooks and iPython for Data Science](https://coursemetry.com/jupyter-notebooks-and-ipython-for-data-science/)
+* [Marketing Fundamentals: Introduction into Digital Marketing](https://coursemetry.com/marketing-fundamentals-introduction-into-digital-marketing/)
 
-* [Human Resources HR Metrics](https://coursemetry.com/human-resources-hr-metrics/)
+* [Certified Lean Six Sigma White Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-white-belt-exam-prep/)
 
-* [Personality Development Course - Road to Success](https://coursemetry.com/personality-development-course-road-to-success/)
+* [Build Your Own File Sharing Website](https://coursemetry.com/build-your-own-file-sharing-website/)
 
-* [Group Discussion (GD) Training - Winning Strategies](https://coursemetry.com/group-discussion-gd-training-winning-strategies/)
+* [Ableton - How To Make House Music Quickly And Effectively](https://coursemetry.com/ableton-how-to-make-house-music-quickly-and-effectively/)
 
-* [PyCharm IDE for Developers](https://coursemetry.com/pycharm-ide-for-developers/)
+* [Slack Ultimate Guide 2022](https://coursemetry.com/slack-ultimate-guide-2022/)
 
-* [Human Resource Information System Training](https://coursemetry.com/human-resource-information-system-training/)
+* [Chrome Developer Tool Basics Guide 2022](https://coursemetry.com/chrome-developer-tool-basics-guide-2022/)
 
-* [Human Resources Performance Management](https://coursemetry.com/human-resources-performance-management/)
+* [Rekordbox - How To DJ Drum & Bass Like A Professional](https://coursemetry.com/rekordbox-how-to-dj-drum-bass-like-a-professional/)
 
-* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+* [CSS, JavaScript,PHP And Python Programming All in One Course](https://coursemetry.com/css-javascriptphp-and-python-programming-all-in-one-course/)
 
-* [CISCO OSPF Hands-on Certification Training](https://coursemetry.com/cisco-ospf-hands-on-certification-training/)
+* [SVG Ultimate Guide 2022](https://coursemetry.com/svg-ultimate-guide-2022/)
 
-* [Cisco - TCP/IP & OSI Network Models](https://coursemetry.com/cisco-tcp-ip-osi-network-models/)
+* [Adobe InDesign Ultimate Guide 2022](https://coursemetry.com/adobe-indesign-ultimate-guide-2022/)
 
-* [JMETER - Learn from Scratch Performance and Load Testing](https://coursemetry.com/jmeter-learn-from-scratch-performance-and-load-testing/)
+* [AWS Certified Data Analytics Specialty Practice Exams 2022](https://coursemetry.com/aws-certified-data-analytics-specialty-practice-exams-2022-7/)
 
-* [PySide Python Tool Development Training](https://coursemetry.com/pyside-python-tool-development-training/)
+* [101 Best Digital Product idea PLR Products  2023 How to Earn](https://coursemetry.com/101-best-digital-product-idea-plr-products-2023-how-to-earn/)
 
-* [PySpark Developer](https://coursemetry.com/pyspark-developer/)
+* [Facebook Ads & Instagram Ads Course 2022 (Ready for iOS 14+)](https://coursemetry.com/facebook-ads-instagram-ads-course-2022-ready-for-ios-14/)
 
-* [Coaching and Mentoring Techniques](https://coursemetry.com/coaching-and-mentoring-techniques/)
+* [Pratik Yaparak İngilizce Öğren (A1-A2)](https://coursemetry.com/pratik-yaparak-ingilizce-ogren-a1-a2/)
 
-* [Excel Functions and Shortcuts - Hands-on with Case Study](https://coursemetry.com/excel-functions-and-shortcuts-hands-on-with-case-study/)
+* [Curso completo de Adobe InDesign con diseñador editorial](https://coursemetry.com/curso-completo-de-adobe-indesign-con-disenador-editorial/)
 
-* [PyMongo for Developers](https://coursemetry.com/pymongo-for-developers/)
+* [Ableton Live - How To Make Psytrance](https://coursemetry.com/ableton-live-how-to-make-psytrance/)
 
-* [Human Resource Planning and Management](https://coursemetry.com/human-resource-planning-and-management/)
+* [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
 
-* [Building Cloud based Geospatial Raster Service](https://coursemetry.com/building-cloud-based-geospatial-raster-service/)
+* [Logística: Gestión de almacenes y Control de inventarios](https://coursemetry.com/logistica-gestion-de-almacenes-y-control-de-inventarios/)
 
-* [Mastering The Interview](https://coursemetry.com/mastering-the-interview/)
+* [Maestría 100 % técnica en Fibonacci trading](https://coursemetry.com/maestria-100-tecnica-en-fibonacci-trading/)
 
-* [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
 
-* [CorelDRAW Essential Guide 2022 Update (Win)](https://coursemetry.com/coreldraw-essential-guide-2022-update-win/)
+* [Power BI: Empieza desde cero](https://coursemetry.com/power-bi-empieza-desde-cero/)
 
-* [The Minimalist Lifestyle - and art therapy - LAGOM!](https://coursemetry.com/the-minimalist-lifestyle-and-art-therapy-lagom/)
+* [Rekordbox - The ULTIMATE Beginners Course To DJ Software](https://coursemetry.com/rekordbox-the-ultimate-beginners-course-to-dj-software/)
 
-* [Ethical Hacking: boot2root CTF](https://coursemetry.com/ethical-hacking-boot2root-ctf/)
-
-* [Siemens NX for beginners](https://coursemetry.com/siemens-nx-for-beginners/)
-
-* [Linux Tmux](https://coursemetry.com/linux-tmux/)
-
-* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+* [DJ PRO AI Software - The ULTIMATE Beginners Course](https://coursemetry.com/dj-pro-ai-software-the-ultimate-beginners-course/)
 
 * [Ethical Hacking: Hack by Uploading](https://coursemetry.com/ethical-hacking-hack-by-uploading/)
 
-* [Ethical Hacking: Linux Backdoor](https://coursemetry.com/ethical-hacking-linux-backdoor/)
+* [How To Make Intelligent Dance Music In Ableton Live](https://coursemetry.com/how-to-make-intelligent-dance-music-in-ableton-live/)
 
-* [Cyber Security: Awareness Training For Absolute Beginners](https://coursemetry.com/cyber-security-awareness-training-for-absolute-beginners/)
+* [Personal Branding System 3.0: UNIQUE Secret for YOUR Success](https://coursemetry.com/personal-branding-system-3-0-unique-secret-for-your-success/)
 
-* [The Expert’s Secret to Mobile Application Testing](https://coursemetry.com/the-experts-secret-to-mobile-application-testing/)
-
-* [Easily Build a Wordpress Website with Divi for Cheap [2022]](https://coursemetry.com/easily-build-a-wordpress-website-with-divi-for-cheap-2022/)
-
-* [Investing 101 Made Super Easy for Beginners](https://coursemetry.com/investing-101-made-super-easy-for-beginners/)
-
-* [Tools for Working From Home - Google Apps, Trello & Zoom](https://coursemetry.com/tools-for-working-from-home-google-apps-trello-zoom/)
-
-* [Ethical Hacking: Command Injection](https://coursemetry.com/ethical-hacking-command-injection/)
-
-* [La Masterclass Cryptomonnaies: Altcoin, NFT, DeFi, Métavers](https://coursemetry.com/la-masterclass-cryptomonnaies-altcoin-nft-defi-metavers/)
-
-* [EMDR Therapy: Comprehensive Course in Therapy and Self-Care](https://coursemetry.com/emdr-therapy-comprehensive-course-in-therapy-and-self-care/)
-
-* [Einstieg ins Change Management](https://coursemetry.com/einstieg-ins-change-management/)
-
-* [Learn to Draw Portrait Face Sketch from Beginning](https://coursemetry.com/learn-to-draw-portrait-face-sketch-from-beginning/)
-
-* [SQL Course 2022: SQL for Data Analysis and Data Science.](https://coursemetry.com/sql-course-2022-sql-for-data-analysis-and-data-science/)
-
-* [Essential Drawing Course For Beginner To Advanced](https://coursemetry.com/essential-drawing-course-for-beginner-to-advanced/)
-
-* [AirTable for Beginners 2022: Learn the Basics & Essentials](https://coursemetry.com/airtable-for-beginners-2022-learn-the-basics-essentials/)
-
-* [Myyshop - Howto sell on Tiktok 0 investment](https://coursemetry.com/myyshop-howto-sell-on-tiktok-0-investment/)
-
-* [Excel Workshop - Diagramme: Wasserfall, Karten, Linien, etc.](https://coursemetry.com/excel-workshop-diagramme-wasserfall-karten-linien-etc/)
-
-* [Asteroids with Python PyGame](https://coursemetry.com/asteroids-with-python-pygame/)
-
-* [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
-
-* [Create Space Invaders with Python PyGame](https://coursemetry.com/create-space-invaders-with-python-pygame/)
-
-* [The Webrtc Bootcamp 2021 For Beginners](https://coursemetry.com/the-webrtc-bootcamp-2021-for-beginners/)
-
-* [Ultimate DevOps Guide with Interview Preparation](https://coursemetry.com/ultimate-devops-guide-with-interview-preparation/)
-
-* [TikTok SEO: Rank your Videos for TikTok Marketing](https://coursemetry.com/tiktok-seo-rank-your-videos-for-tiktok-marketing/)
-
-* [Build Successful E-Commerce Stores with WordPress & Woostify](https://coursemetry.com/build-successful-e-commerce-stores-with-wordpress-woostify/)
-
-* [Music Theory Cheat Codes for FL Studio - Become a Power User](https://coursemetry.com/music-theory-cheat-codes-for-fl-studio-become-a-power-user/)
-
-* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
-
-* [Mechanical Engineering - Water Supply System A-Z](https://coursemetry.com/mechanical-engineering-water-supply-system-a-z/)
+* [Build Projects in HTML And CSS](https://coursemetry.com/build-projects-in-html-and-css/)
 
 * [Intro to Django Python Web Apps](https://coursemetry.com/intro-to-django-python-web-apps/)
 
-* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+* [Learn SEO from Case Studies](https://coursemetry.com/learn-seo-from-case-studies/)
 
-* [Become an Instagram Manager and Work with Paying Clients](https://coursemetry.com/become-an-instagram-manager-and-work-with-paying-clients/)
+* [Learn Web Application Security For Beginners- OWASP Top 10](https://coursemetry.com/learn-web-application-security-for-beginners-owasp-top-10/)
 
-* [Bitcoin For Beginners: How To Earn Bitcoin Online For Free](https://coursemetry.com/bitcoin-for-beginners-how-to-earn-bitcoin-online-for-free/)
+* [Ethical Hacking: Hack Linux Systems](https://coursemetry.com/ethical-hacking-hack-linux-systems/)
 
-* [Nuclear Power Energy Fundamentals](https://coursemetry.com/nuclear-power-energy-fundamentals/)
+* [Apache Spark Project World Development Indicators Analytics](https://coursemetry.com/apache-spark-project-world-development-indicators-analytics/)
 
-* [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
+* [Ableton - Learning New Tips And Secrets](https://coursemetry.com/ableton-learning-new-tips-and-secrets/)
 
-* [Advanced Amazon KDP: SEO Keyword Research to Rank Number ONE](https://coursemetry.com/advanced-amazon-kdp-seo-keyword-research-to-rank-number-one/)
+* [Ethical Hacking: File Inclusion](https://coursemetry.com/ethical-hacking-file-inclusion/)
 
-* [10x Your Social Skills & Connect With People](https://coursemetry.com/10x-your-social-skills-connect-with-people/)
-
-* [Passive Income With U demy Courses HIndi](https://coursemetry.com/passive-income-with-u-demy-courses-hindi/)
-
-* [Contented Career Mom](https://coursemetry.com/contented-career-mom/)
-
-* [CompTIA A+ Certification (220-1001) Prep Course](https://coursemetry.com/comptia-a-certification-220-1001-prep-course/)
-
-* [Agile Scrum Master Certification Exam Prep (CSM)](https://coursemetry.com/agile-scrum-master-certification-exam-prep-csm/)
-
-* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
-
-* [An Enhanced Introduction to Foundational Logic](https://coursemetry.com/an-enhanced-introduction-to-foundational-logic/)
-
-* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
-
-* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
-
-* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
-
-* [Positive Psychology](https://coursemetry.com/positive-psychology/)
-
-* [Certified Lean Six Sigma Yellow Belt Exam Prep](https://coursemetry.com/certified-lean-six-sigma-yellow-belt-exam-prep/)
-
-* [How to Start a Podcast - Podcasting Made Easy](https://coursemetry.com/how-to-start-a-podcast-podcasting-made-easy/)
-
-* [Certified Management Accountant CMA Exam Prep - Part 1](https://coursemetry.com/certified-management-accountant-cma-exam-prep-part-1/)
-
-* [Programa tecnico para aprender a operar en Forex trading](https://coursemetry.com/programa-tecnico-para-aprender-a-operar-en-forex-trading/)
-
-* [Complete Teacher Wellbeing in Schools](https://coursemetry.com/complete-teacher-wellbeing-in-schools/)
+* [Windows Command Line Basics Guide 2022](https://coursemetry.com/windows-command-line-basics-guide-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
