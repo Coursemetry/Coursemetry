@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **75 Udemy free courses published so far on 2022-10-15**
+## **102 Udemy free courses published so far on 2022-10-15**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -153,6 +153,60 @@
 * [Online Course Creation and Marketing Success - 2022 [Guide]](https://coursemetry.com/online-course-creation-and-marketing-success-2022-guide/)
 
 * [Build Successful E-Commerce Stores with WordPress & Woostify](https://coursemetry.com/build-successful-e-commerce-stores-with-wordpress-woostify/)
+
+* [Autodesk NAVISWORKS. Planificación y Colaboración BIM](https://coursemetry.com/autodesk-navisworks-planificacion-y-colaboracion-bim/)
+
+* [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://coursemetry.com/learn-machine-learning-ai-including-hands-on-3-projects/)
+
+* [Google BigQuery & PostgreSQL : Big Query for Data Analysis](https://coursemetry.com/google-bigquery-postgresql-big-query-for-data-analysis/)
+
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [LookML A-Z: Google Looker for Developers](https://coursemetry.com/lookml-a-z-google-looker-for-developers/)
+
+* [HTML and CSS for Beginners From Basic to Advance](https://coursemetry.com/html-and-css-for-beginners-from-basic-to-advance/)
+
+* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+
+* [MLKit Android Programlama [2021]](https://coursemetry.com/mlkit-android-programlama-2021/)
+
+* [Sistemas Constructivos y Estructurales en Arquitectura](https://coursemetry.com/sistemas-constructivos-y-estructurales-en-arquitectura/)
+
+* [Wordpress Elementor Course: Develop Site Without Coding](https://coursemetry.com/wordpress-elementor-course-develop-site-without-coding/)
+
+* [AWS Services for Solutions Architect Associate [2022]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2022/)
+
+* [Building Android Widgets from scratch (Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [SEO - The Complete SEO Course Beginners to Advanced 2022](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2022/)
+
+* [TikTok SEO: Rank your Videos for TikTok Marketing](https://coursemetry.com/tiktok-seo-rank-your-videos-for-tiktok-marketing/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [Linear Regression and Logistic Regression in Python](https://coursemetry.com/linear-regression-and-logistic-regression-in-python/)
+
+* [Beginners guide to Android App Development (Step by Step)](https://coursemetry.com/beginners-guide-to-android-app-development-step-by-step/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [Geotecnia y Cimentaciones en Construcciones y Edificaciones](https://coursemetry.com/geotecnia-y-cimentaciones-en-construcciones-y-edificaciones/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [Music Production - How To Make A Melodic Techno Track](https://coursemetry.com/music-production-how-to-make-a-melodic-techno-track/)
+
+* [Professional Scrum with Kanban (PSK I) Certification Prep](https://coursemetry.com/professional-scrum-with-kanban-psk-i-certification-prep/)
+
+* [Personal fitness trainer: screening assessment](https://coursemetry.com/personal-fitness-trainer-screening-assessment/)
+
+* [16 Hands from PokerStars 12,000 GTD Tournament](https://coursemetry.com/16-hands-from-pokerstars-12000-gtd-tournament/)
+
+* [What is a Software License Agreement.](https://coursemetry.com/what-is-a-software-license-agreement/)
+
+* [Deploying Static React to the Cloud (AWS, S3, Cloudfront)](https://coursemetry.com/deploying-static-react-to-the-cloud-aws-s3-cloudfront/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
