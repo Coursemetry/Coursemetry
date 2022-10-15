@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **106 Udemy free courses published so far on 2022-10-15**
+## **118 Udemy free courses published so far on 2022-10-15**
 
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
@@ -215,6 +215,30 @@
 * [Predictive Modeling with SAS Enterprise Miner](https://coursemetry.com/predictive-modeling-with-sas-enterprise-miner/)
 
 * [Siemens NX: Sıfırdan Uzmanlığa 45+ Saat Sektörel Eğitim Seti](https://coursemetry.com/siemens-nx-sifirdan-uzmanliga-45-saat-sektorel-egitim-seti/)
+
+* [Fundamentals of PN Junction Diode](https://coursemetry.com/fundamentals-of-pn-junction-diode/)
+
+* [Fundamentals of Industry 4.0](https://coursemetry.com/fundamentals-of-industry-4-0/)
+
+* [Autocad | Sıfırdan Uzmanlığa 35+ Saat Sektörel Eğitim Seti](https://coursemetry.com/autocad-sifirdan-uzmanliga-35-saat-sektorel-egitim-seti/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [Fundamentals of IoT (Internet of Things)](https://coursemetry.com/fundamentals-of-iot-internet-of-things/)
+
+* [12 Great-Powers to Change Your Life](https://coursemetry.com/12-great-powers-to-change-your-life/)
+
+* [Google Professional Cloud Developer / Exam 2022](https://coursemetry.com/google-professional-cloud-developer-exam-2022/)
+
+* [Fundamentals of Electrical and Electronics](https://coursemetry.com/fundamentals-of-electrical-and-electronics/)
+
+* [AWS Certified Solutions Architect - Professional Exam 2022](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-2022-2/)
+
+* [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
+
+* [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
