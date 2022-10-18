@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-10-18**
+## **73 Udemy free courses published so far on 2022-10-18**
 
 * [Apache Web Server Training Hands-on](https://coursemetry.com/apache-web-server-training-hands-on/)
 
@@ -137,6 +137,18 @@
 * [A complete guide to Domain and Web Hosting development](https://coursemetry.com/a-complete-guide-to-domain-and-web-hosting-development/)
 
 * [Copywriting: Persuasive Writing Ft. Two Forbes Writers](https://coursemetry.com/copywriting-persuasive-writing-ft-two-forbes-writers/)
+
+* [CISSP Practice Test](https://coursemetry.com/cissp-practice-test/)
+
+* [Ethical Hacking: Hack by Uploading](https://coursemetry.com/ethical-hacking-hack-by-uploading/)
+
+* [Web Design for Beginners: Build Websites in HTML & CSS 2022](https://coursemetry.com/web-design-for-beginners-build-websites-in-html-css-2022/)
+
+* [Complete Italian Course: Learning Italian for Beginners 2022](https://coursemetry.com/complete-italian-course-learning-italian-for-beginners-2022/)
+
+* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+
+* [Creative Writing Course for Ecommerce & Ecommerce SEO Course](https://coursemetry.com/creative-writing-course-for-ecommerce-ecommerce-seo-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
