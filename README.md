@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-10-18**
+## **136 Udemy free courses published so far on 2022-10-18**
 
 * [Apache Web Server Training Hands-on](https://coursemetry.com/apache-web-server-training-hands-on/)
 
@@ -197,6 +197,84 @@
 * [Vue JS + Google Maps API: Ultimate Beginner's Friendly Guide](https://coursemetry.com/vue-js-google-maps-api-ultimate-beginners-friendly-guide/)
 
 * [Recover, Bypass and Crack Windows Passwords like a pro](https://coursemetry.com/recover-bypass-and-crack-windows-passwords-like-a-pro/)
+
+* [Nursery Woodland Bear Drawing Course [Easy/BeginnerFriendly]](https://coursemetry.com/nursery-woodland-bear-drawing-course-easy-beginnerfriendly/)
+
+* [Object-Oriented Programming with Python: Code Faster in 2022](https://coursemetry.com/object-oriented-programming-with-python-code-faster-in-2022/)
+
+* [Marketing Analytics: Forecasting Models with Excel](https://coursemetry.com/marketing-analytics-forecasting-models-with-excel/)
+
+* [Learn Coding with Java from Scratch: Essential Training 2022](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2022/)
+
+* [Complete Accounting + Tallyprime + Tally ERP9 + GST (4 in 1)](https://coursemetry.com/complete-accounting-tallyprime-tally-erp9-gst-4-in-1/)
+
+* [Affiliate Marketing Auf Social Media](https://coursemetry.com/affiliate-marketing-auf-social-media/)
+
+* [Airbnb Hosting Pro Tips](https://coursemetry.com/airbnb-hosting-pro-tips/)
+
+* [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
+
+* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+
+* [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
+
+* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+
+* [Create a GUI with Python](https://coursemetry.com/create-a-gui-with-python/)
+
+* [The R Programming For Data Science A-Z Complete Diploma 2022](https://coursemetry.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/)
+
+* [Git Command Line for Beginners](https://coursemetry.com/git-command-line-for-beginners/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [Passive Income - 1-Hour Course To Guide Your Financial Path](https://coursemetry.com/passive-income-1-hour-course-to-guide-your-financial-path/)
+
+* [Data Science: Python for Data Analysis 2022 Full Bootcamp](https://coursemetry.com/data-science-python-for-data-analysis-2022-full-bootcamp/)
+
+* [Amazon Suspend ve Hesap Sağlığı Eğitimi - Dropshipping 2022](https://coursemetry.com/amazon-suspend-ve-hesap-sagligi-egitimi-dropshipping-2022/)
+
+* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
+
+* [Introduction to Music Theory](https://coursemetry.com/introduction-to-music-theory/)
+
+* [Universidad Java - De Cero a Experto - Más Completo +106 hrs](https://coursemetry.com/universidad-java-de-cero-a-experto-mas-completo-106-hrs/)
+
+* [Universidad Spring - Spring Framework y Spring Boot!](https://coursemetry.com/universidad-spring-spring-framework-y-spring-boot/)
+
+* [Universidad HTML - Aprende HTML desde Cero hasta Experto](https://coursemetry.com/universidad-html-aprende-html-desde-cero-hasta-experto/)
+
+* [Complete Confidence Building Course - Exude Confidence Now](https://coursemetry.com/complete-confidence-building-course-exude-confidence-now/)
+
+* [Python sin límites. POO, Tkinter, PySide, etc. +50hrs](https://coursemetry.com/python-sin-limites-poo-tkinter-pyside-etc-50hrs/)
+
+* [Make Money From Home: 45 Work From Home Opportunities](https://coursemetry.com/make-money-from-home-45-work-from-home-opportunities/)
+
+* [Universidad JavaScript - De Cero a Experto JavaScript!](https://coursemetry.com/universidad-javascript-de-cero-a-experto-javascript/)
+
+* [Universidad CSS - Aprende CSS desde Cero hasta Experto!](https://coursemetry.com/universidad-css-aprende-css-desde-cero-hasta-experto/)
+
+* [How to Identify, Diagnose, and Fix Memory Leaks in Web Apps](https://coursemetry.com/how-to-identify-diagnose-and-fix-memory-leaks-in-web-apps/)
+
+* [Universidad Angular - De Cero a Experto en Angular!](https://coursemetry.com/universidad-angular-de-cero-a-experto-en-angular/)
+
+* [Universidad de Lógica de Programación - Aprende 7 Lenguajes!](https://coursemetry.com/universidad-de-logica-de-programacion-aprende-7-lenguajes/)
+
+* [Ethical Hacking: Windows Exploitation Basics](https://coursemetry.com/ethical-hacking-windows-exploitation-basics/)
+
+* [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
+
+* [Universidad Python con Frameworks Django, Flask, etc. +71hrs](https://coursemetry.com/universidad-python-con-frameworks-django-flask-etc-71hrs/)
+
+* [Spanish for beginners. Complete Spanish course. LEVEL 1](https://coursemetry.com/spanish-for-beginners-complete-spanish-course-level-1/)
+
+* [49 Weight Loss Tips You Can Stick To Forever - Be Thinner](https://coursemetry.com/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/)
+
+* [Universidad Desarrollo Web - FrontEnd Web Developer!](https://coursemetry.com/universidad-desarrollo-web-frontend-web-developer/)
+
+* [Universidad Excel - Básico, Intermedio y Avanzado!](https://coursemetry.com/universidad-excel-basico-intermedio-y-avanzado/)
+
+* [Game-Based Learning for Teachers](https://coursemetry.com/game-based-learning-for-teachers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
