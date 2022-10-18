@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-10-18**
+## **97 Udemy free courses published so far on 2022-10-18**
 
 * [Apache Web Server Training Hands-on](https://coursemetry.com/apache-web-server-training-hands-on/)
 
@@ -149,6 +149,54 @@
 * [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
 
 * [Creative Writing Course for Ecommerce & Ecommerce SEO Course](https://coursemetry.com/creative-writing-course-for-ecommerce-ecommerce-seo-course/)
+
+* [Complete Wordpress Website Developer Course](https://coursemetry.com/complete-wordpress-website-developer-course/)
+
+* [Music Production - What Is Layering And How To Use It](https://coursemetry.com/music-production-what-is-layering-and-how-to-use-it/)
+
+* [Microsoft Excel - MS Excel Formulas & Functions in just 3hrs](https://coursemetry.com/microsoft-excel-ms-excel-formulas-functions-in-just-3hrs/)
+
+* [Informática desde cero (Windows 11, 10, 8, 7, Vista y XP)](https://coursemetry.com/informatica-desde-cero-windows-11-10-8-7-vista-y-xp/)
+
+* [Aprenda como os Hackers agem jogando Street Hacker no PC](https://coursemetry.com/aprenda-como-os-hackers-agem-jogando-street-hacker-no-pc/)
+
+* [Introduction to DaVinci Resolve](https://coursemetry.com/introduction-to-davinci-resolve/)
+
+* [Introducción a la metodología del ÉXITO](https://coursemetry.com/introduccion-a-la-metodologia-del-exito/)
+
+* [Data Analyst Skill path in Hindi - हिंदी में Data analytics](https://coursemetry.com/data-analyst-skill-path-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-data-analytics/)
+
+* [Oratoria y Comunicación Efectiva con PNL](https://coursemetry.com/oratoria-y-comunicacion-efectiva-con-pnl/)
+
+* [सीखें Javascript Programming हिन्दी में](https://coursemetry.com/%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-javascript-programming-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82/)
+
+* [[Tips & Technics] : How to Become a Great Leader | Skills](https://coursemetry.com/tips-technics-how-to-become-a-great-leader-skills/)
+
+* [Ableton - Learn The Basics Of Music Production.](https://coursemetry.com/ableton-learn-the-basics-of-music-production/)
+
+* [How to heal yourself - A guide to emotional recovery](https://coursemetry.com/how-to-heal-yourself-a-guide-to-emotional-recovery/)
+
+* [Monetize your Instagram as an Instagram Influencer in 2022](https://coursemetry.com/monetize-your-instagram-as-an-instagram-influencer-in-2022/)
+
+* [Procesamiento de texto profesional con Word, Writer y Docs](https://coursemetry.com/procesamiento-de-texto-profesional-con-word-writer-y-docs/)
+
+* [Wordpress Elementor Course: Develop Site Without Coding](https://coursemetry.com/wordpress-elementor-course-develop-site-without-coding/)
+
+* [Music Production - Sound Design In Ableton Live](https://coursemetry.com/music-production-sound-design-in-ableton-live/)
+
+* [Drupal For Absolute Beginners (2022)](https://coursemetry.com/drupal-for-absolute-beginners-2022/)
+
+* [Liderazgo: un modelo para el ÉXITO en todos los ámbitos](https://coursemetry.com/liderazgo-un-modelo-para-el-exito-en-todos-los-ambitos/)
+
+* [Music Production - Instruments And Audio Effect Racks](https://coursemetry.com/music-production-instruments-and-audio-effect-racks/)
+
+* [SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z](https://coursemetry.com/sql-for-data-analytics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-sql-a-z/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [Vue JS + Google Maps API: Ultimate Beginner's Friendly Guide](https://coursemetry.com/vue-js-google-maps-api-ultimate-beginners-friendly-guide/)
+
+* [Recover, Bypass and Crack Windows Passwords like a pro](https://coursemetry.com/recover-bypass-and-crack-windows-passwords-like-a-pro/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
