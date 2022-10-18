@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **62 Udemy free courses published so far on 2022-10-18**
+## **67 Udemy free courses published so far on 2022-10-18**
 
 * [Apache Web Server Training Hands-on](https://coursemetry.com/apache-web-server-training-hands-on/)
 
@@ -127,6 +127,16 @@
 * [Setup a Virtual Web Server using Linode or Digital Ocean](https://coursemetry.com/setup-a-virtual-web-server-using-linode-or-digital-ocean/)
 
 * [Practice Questions and Tests for the SHRM-CP Exam SHRM - CP](https://coursemetry.com/practice-questions-and-tests-for-the-shrm-cp-exam-shrm-cp/)
+
+* [Apache Pig Interview Questions and Answers](https://coursemetry.com/apache-pig-interview-questions-and-answers/)
+
+* [Python for Data Science & Machine Learning: Zero to Hero](https://coursemetry.com/python-for-data-science-machine-learning-zero-to-hero/)
+
+* [Complete 200HR Yoga Teacher Training Self Mastery Course](https://coursemetry.com/complete-200hr-yoga-teacher-training-self-mastery-course/)
+
+* [A complete guide to Domain and Web Hosting development](https://coursemetry.com/a-complete-guide-to-domain-and-web-hosting-development/)
+
+* [Copywriting: Persuasive Writing Ft. Two Forbes Writers](https://coursemetry.com/copywriting-persuasive-writing-ft-two-forbes-writers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
