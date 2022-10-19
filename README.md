@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published so far on 2022-10-19**
+## **101 Udemy free courses published so far on 2022-10-19**
 
 * [Der große Videoschnitt-Kurs - MAGIX, Camtasia und Screenflow](https://coursemetry.com/der-grose-videoschnitt-kurs-magix-camtasia-und-screenflow/)
 
@@ -102,8 +102,6 @@
 
 * [Professional Adobe Photoshop CC Course With Advance Training](https://coursemetry.com/professional-adobe-photoshop-cc-course-with-advance-training/)
 
-* [AWS Certified Solutions Architect Professional Practice Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-practice-exam-8/)
-
 * [Tools for Working From Home - Google Apps, Trello & Zoom](https://coursemetry.com/tools-for-working-from-home-google-apps-trello-zoom/)
 
 * [Salesforce Testbank |  Salesforce Admin 201 & PD1 Questions](https://coursemetry.com/salesforce-testbank-salesforce-admin-201-pd1-questions/)
@@ -135,6 +133,78 @@
 * [Codes & Standards_Scope & Roles of Piping Engineers](https://coursemetry.com/codes-standards_scope-roles-of-piping-engineers/)
 
 * [Create stripe account for non us citizen NO LLC NO LTD need](https://coursemetry.com/create-stripe-account-for-non-us-citizen-no-llc-no-ltd-need/)
+
+* [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
+
+* [Curso PHP Proyecto web usuarios y roles Patron mvc](https://coursemetry.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/)
+
+* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
+
+* [Mastering The Complete Agile Scrum Master Workshop](https://coursemetry.com/mastering-the-complete-agile-scrum-master-workshop/)
+
+* [Relationship CRISIS - how to ENGAGE your reluctant partner!](https://coursemetry.com/relationship-crisis-how-to-engage-your-reluctant-partner/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [Las Instalaciones Técnicas en los Edificios y Construcciones](https://coursemetry.com/las-instalaciones-tecnicas-en-los-edificios-y-construcciones/)
+
+* [SEO: Complete SEO Training 2020 + Wordpress SEO + Local SEO](https://coursemetry.com/seo-complete-seo-training-2020-wordpress-seo-local-seo/)
+
+* [How To RENDER Comics - Shading, Inking, and Coloring!](https://coursemetry.com/how-to-render-comics-shading-inking-and-coloring/)
+
+* [How To Draw BASICS for Kids and beginners!](https://coursemetry.com/how-to-draw-basics-for-kids-and-beginners/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Data Analytics,Storage,Mining & Visual Big Data Technologies](https://coursemetry.com/data-analyticsstoragemining-visual-big-data-technologies/)
+
+* [Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://coursemetry.com/hands-on-sql-servermanagementstudiosql-queriesazurestudio/)
+
+* [Grundlagen Strategisches Management & Unternehmensstrategie](https://coursemetry.com/grundlagen-strategisches-management-unternehmensstrategie/)
+
+* [Base de datos Sqlite con Python](https://coursemetry.com/base-de-datos-sqlite-con-python/)
+
+* [Complete Positive Thinking Course  -  Happiness Psychology](https://coursemetry.com/complete-positive-thinking-course-happiness-psychology/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
+
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+
+* [Complete Google Certified Educator Level 1 and 2 Masterclass](https://coursemetry.com/complete-google-certified-educator-level-1-and-2-masterclass/)
+
+* [AWS Certified Solutions Architect Professional Practice Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-practice-exam-8/)
+
+* [The Complete Brain Training Course - Neuroplasticity -](https://coursemetry.com/the-complete-brain-training-course-neuroplasticity/)
+
+* [The Complete Recruiting Masterclass - HR Resources - Hiring](https://coursemetry.com/the-complete-recruiting-masterclass-hr-resources-hiring/)
+
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
+
+* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [3 Step Innovation for Uncertain Business - Road to Davinci](https://coursemetry.com/3-step-innovation-for-uncertain-business-road-to-davinci/)
+
+* [AWS Certified Data Analytics - Specialty Practice Questions](https://coursemetry.com/aws-certified-data-analytics-specialty-practice-questions/)
+
+* [GCP PCD - Google Professional Cloud Developer](https://coursemetry.com/gcp-pcd-google-professional-cloud-developer/)
+
+* [GCP Google Cloud Professional Data Engineer Certification](https://coursemetry.com/gcp-google-cloud-professional-data-engineer-certification/)
+
+* [GCP PCA - Google Professional Cloud Architect](https://coursemetry.com/gcp-pca-google-professional-cloud-architect/)
+
+* [Introduction to Spacy 3 for Natural Language Processing](https://coursemetry.com/introduction-to-spacy-3-for-natural-language-processing/)
+
+* [AWS Certified Database - Specialty Practice Questions](https://coursemetry.com/aws-certified-database-specialty-practice-questions/)
+
+* [Desarrollando Mi Sistema Punto de Venta (C# y SQL Server)](https://coursemetry.com/desarrollando-mi-sistema-punto-de-venta-c-y-sql-server/)
+
+* [AWS Certified Machine Learning Specialty](https://coursemetry.com/aws-certified-machine-learning-specialty-2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
