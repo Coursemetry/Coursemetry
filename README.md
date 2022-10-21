@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **109 Udemy free courses published so far on 2022-10-21**
+## **112 Udemy free courses published so far on 2022-10-21**
 
 * [Game Development with PyGame  | Real World Games](https://coursemetry.com/game-development-with-pygame-real-world-games/)
 
@@ -221,6 +221,12 @@
 * [Menopausal Economics](https://coursemetry.com/menopausal-economics/)
 
 * [Negotiation A-Z: Inside Secrets from a Master Negotiator](https://coursemetry.com/negotiation-a-z-inside-secrets-from-a-master-negotiator/)
+
+* [Introduction to Domain Names and Web Hosting - Quick Guide](https://coursemetry.com/introduction-to-domain-names-and-web-hosting-quick-guide/)
+
+* [اعلانات الفيس بوك للمحاضر احمد عبد الظاهر](https://coursemetry.com/%d8%a7%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%8a%d8%b3-%d8%a8%d9%88%d9%83-%d9%84%d9%84%d9%85%d8%ad%d8%a7%d8%b6%d8%b1-%d8%a7%d8%ad%d9%85%d8%af-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8/)
+
+* [Curso de Automatización en Python](https://coursemetry.com/curso-de-automatizacion-en-python/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
