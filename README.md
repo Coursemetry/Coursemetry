@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **112 Udemy free courses published so far on 2022-10-21**
+## **126 Udemy free courses published so far on 2022-10-21**
 
 * [Game Development with PyGame  | Real World Games](https://coursemetry.com/game-development-with-pygame-real-world-games/)
 
@@ -227,6 +227,34 @@
 * [اعلانات الفيس بوك للمحاضر احمد عبد الظاهر](https://coursemetry.com/%d8%a7%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%8a%d8%b3-%d8%a8%d9%88%d9%83-%d9%84%d9%84%d9%85%d8%ad%d8%a7%d8%b6%d8%b1-%d8%a7%d8%ad%d9%85%d8%af-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8/)
 
 * [Curso de Automatización en Python](https://coursemetry.com/curso-de-automatizacion-en-python/)
+
+* [Machine Learning From Basic to Advanced](https://coursemetry.com/machine-learning-from-basic-to-advanced/)
+
+* [Complete JavaScript Basics & Fundamentals](https://coursemetry.com/complete-javascript-basics-fundamentals/)
+
+* [Membership Site: Membership Recurring Home Business Model](https://coursemetry.com/membership-site-membership-recurring-home-business-model/)
+
+* [5 Real-Time Use Cases using Machine Learning](https://coursemetry.com/5-real-time-use-cases-using-machine-learning/)
+
+* [Create a GUI with Python](https://coursemetry.com/create-a-gui-with-python/)
+
+* [Learn Machine Learning in 21 Days](https://coursemetry.com/learn-machine-learning-in-21-days/)
+
+* [Learn Flutter and Dart to create Android and IOS apps](https://coursemetry.com/learn-flutter-and-dart-to-create-android-and-ios-apps/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [NLP Course for Beginner](https://coursemetry.com/nlp-course-for-beginner/)
+
+* [The Basics of Linux Command Line](https://coursemetry.com/the-basics-of-linux-command-line/)
+
+* [Adobe Premiere Pro CC 2022: Video Editing for Beginners](https://coursemetry.com/adobe-premiere-pro-cc-2022-video-editing-for-beginners/)
+
+* [Projelerle JAVA Eğitimi](https://coursemetry.com/projelerle-java-egitimi/)
+
+* [SQLite Database and Flutter in [Arabic] قواعد بيانات فلاتر](https://coursemetry.com/sqlite-database-and-flutter-in-arabic-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d9%81%d9%84%d8%a7%d8%aa%d8%b1/)
+
+* [Zeit sparen bei der Arbeit mit Excel und Outlook durch VBA](https://coursemetry.com/zeit-sparen-bei-der-arbeit-mit-excel-und-outlook-durch-vba/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
