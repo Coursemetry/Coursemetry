@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **80 Udemy free courses published so far on 2022-10-23**
+## **100 Udemy free courses published so far on 2022-10-23**
 
 * [Hidden Secrets Of Selling - Part 4](https://coursemetry.com/hidden-secrets-of-selling-part-4/)
 
@@ -163,6 +163,46 @@
 * [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
 
 * [The 2022 Marketing Method with Assignments & Case Study!](https://coursemetry.com/the-2022-marketing-method-with-assignments-case-study/)
+
+* [Complete Filmora (9, X & 11) Megacourse: Beginner to Expert](https://coursemetry.com/complete-filmora-9-x-11-megacourse-beginner-to-expert/)
+
+* [PHP y MYSQL: Convierte cualquier template HTML en una WebAPP](https://coursemetry.com/php-y-mysql-convierte-cualquier-template-html-en-una-webapp/)
+
+* [Fundraising: Ask and Raise Contributions for Your Charity](https://coursemetry.com/fundraising-ask-and-raise-contributions-for-your-charity/)
+
+* [Facebook Ads Copywriting & Facebook Ads for Real Estate 2022](https://coursemetry.com/facebook-ads-copywriting-facebook-ads-for-real-estate-2022/)
+
+* [Complete Character Design Megacourse: Beginner to Expert](https://coursemetry.com/complete-character-design-megacourse-beginner-to-expert/)
+
+* [The Emotional Management Mindfulness Therapy](https://coursemetry.com/the-emotional-management-mindfulness-therapy/)
+
+* [Curso WordPress 2022:  Cómo Crear una Página Web Desde Cero](https://coursemetry.com/curso-wordpress-2022-como-crear-una-pagina-web-desde-cero/)
+
+* [Webinar Mastery - Sell High Ticket Products!](https://coursemetry.com/webinar-mastery-sell-high-ticket-products/)
+
+* [Aprendizaje Efectivo sin Estrés para Adultos](https://coursemetry.com/aprendizaje-efectivo-sin-estres-para-adultos/)
+
+* [JavaScript Certification Exam JSE-40-01 - Preparation](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation/)
+
+* [Online Branded TV Channel Creation (Neon Edition 2022)](https://coursemetry.com/online-branded-tv-channel-creation-neon-edition-2022/)
+
+* [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
+
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [Complete meditation, mindfulness and mind training course](https://coursemetry.com/complete-meditation-mindfulness-and-mind-training-course/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 13](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-13/)
+
+* [Mental health Toolbox for everyday problems](https://coursemetry.com/mental-health-toolbox-for-everyday-problems/)
+
+* [Desafío SQL Avanzado Examen Pre-laboral Situación Real](https://coursemetry.com/desafio-sql-avanzado-examen-pre-laboral-situacion-real/)
+
+* [Overcome Social Anxiety & Build Confidence](https://coursemetry.com/overcome-social-anxiety-build-confidence/)
+
+* [Laws of Persuasion & Influence and How to use them](https://coursemetry.com/laws-of-persuasion-influence-and-how-to-use-them/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
