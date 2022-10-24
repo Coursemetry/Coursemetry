@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-10-24**
+## **100 Udemy free courses published so far on 2022-10-24**
 
 * [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
 
@@ -195,6 +195,14 @@
 * [Aprende SIMULINK de CERO a EXPERTO](https://coursemetry.com/aprende-simulink-de-cero-a-experto/)
 
 * [Team Building for Business Success](https://coursemetry.com/team-building-for-business-success/)
+
+* [AWS Certified Advanced Networking - Specialty Exam](https://coursemetry.com/aws-certified-advanced-networking-specialty-exam/)
+
+* [AWS Certified DevOps Engineer - Professional Exam](https://coursemetry.com/aws-certified-devops-engineer-professional-exam/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [AWS Certified Solutions Architect - Professional Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-4/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
