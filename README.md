@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-10-24**
+## **110 Udemy free courses published so far on 2022-10-24**
 
 * [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
 
@@ -203,6 +203,26 @@
 * [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
 
 * [AWS Certified Solutions Architect - Professional Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-4/)
+
+* [Complete Reading Music Megacourse: Beginner to Expert](https://coursemetry.com/complete-reading-music-megacourse-beginner-to-expert/)
+
+* [Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://coursemetry.com/microsoft-excel-basic-excel-advanced-excel-formulas/)
+
+* [Google Certified Professional Cloud Architect Practice Exam](https://coursemetry.com/google-certified-professional-cloud-architect-practice-exam-2/)
+
+* [AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://coursemetry.com/az-305-designing-microsoft-azure-infrastructure-solutions/)
+
+* [AZ-204: Microsoft Azure Developer - Associate Practice Exam](https://coursemetry.com/az-204-microsoft-azure-developer-associate-practice-exam/)
+
+* [Ultimate Terraform Guide with Interview Preparation](https://coursemetry.com/ultimate-terraform-guide-with-interview-preparation/)
+
+* [Make Money From Home As a Transcriptionist: 10 Opportunities](https://coursemetry.com/make-money-from-home-as-a-transcriptionist-10-opportunities/)
+
+* [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
+
+* [Google Professional Cloud Network Engineer Practice Exam](https://coursemetry.com/google-professional-cloud-network-engineer-practice-exam-2/)
+
+* [AWS DEVOPS PRACTICE TEST  DOP-C01 : 2022](https://coursemetry.com/aws-devops-practice-test-dop-c01-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
