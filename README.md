@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **85 Udemy free courses published so far on 2022-10-24**
+## **96 Udemy free courses published so far on 2022-10-24**
 
 * [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
 
@@ -173,6 +173,28 @@
 * [Hacking your Emotions](https://coursemetry.com/hacking-your-emotions/)
 
 * [Les bases de Photoshop ! + BONUS : Analyse de miniature](https://coursemetry.com/les-bases-de-photoshop-bonus-analyse-de-miniature/)
+
+* [Personal Finance #8-Insurance-Medical & Disability](https://coursemetry.com/personal-finance-8-insurance-medical-disability/)
+
+* [Burp Suite Unfiltered - Go from a Beginner to Advanced!](https://coursemetry.com/burp-suite-unfiltered-go-from-a-beginner-to-advanced/)
+
+* [QuickBooks Pro Desktop 2023, 2022, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2023-2022-2020/)
+
+* [Personal Finance #7-Insurance-Home & Car](https://coursemetry.com/personal-finance-7-insurance-home-car/)
+
+* [Personal Finance #6-Housing: Purchase vs Renting](https://coursemetry.com/personal-finance-6-housing-purchase-vs-renting/)
+
+* [Overcoming Biggest Challenges to Business Success Fast](https://coursemetry.com/overcoming-biggest-challenges-to-business-success-fast/)
+
+* [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
+
+* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
+
+* [Starting 6 Businesses in 2022](https://coursemetry.com/starting-6-businesses-in-2022/)
+
+* [Aprende SIMULINK de CERO a EXPERTO](https://coursemetry.com/aprende-simulink-de-cero-a-experto/)
+
+* [Team Building for Business Success](https://coursemetry.com/team-building-for-business-success/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
