@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-10-24**
+## **137 Udemy free courses published so far on 2022-10-24**
 
 * [Maximize Customer Value to Make More Money Online](https://coursemetry.com/maximize-customer-value-to-make-more-money-online/)
 
@@ -223,6 +223,60 @@
 * [Google Professional Cloud Network Engineer Practice Exam](https://coursemetry.com/google-professional-cloud-network-engineer-practice-exam-2/)
 
 * [AWS DEVOPS PRACTICE TEST  DOP-C01 : 2022](https://coursemetry.com/aws-devops-practice-test-dop-c01-2022/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [The SQL Programming Essentials 2022 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2022-immersive-training/)
+
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+
+* [The R Programming For Data Science A-Z Complete Diploma 2022](https://coursemetry.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/)
+
+* [Learn Coding with Java from Scratch: Essential Training 2022](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2022/)
+
+* [Object-Oriented Programming with Python: Code Faster in 2022](https://coursemetry.com/object-oriented-programming-with-python-code-faster-in-2022/)
+
+* [Practice Python: Building Projects with Python Programming](https://coursemetry.com/practice-python-building-projects-with-python-programming/)
+
+* [Advanced Foundations of Python Programming | 2022 Training](https://coursemetry.com/advanced-foundations-of-python-programming-2022-training/)
+
+* [Databases with Python: MySQL, SQLite & MongoDB with Python](https://coursemetry.com/databases-with-python-mysql-sqlite-mongodb-with-python/)
+
+* [Universidad HTML - Aprende HTML desde Cero hasta Experto](https://coursemetry.com/universidad-html-aprende-html-desde-cero-hasta-experto/)
+
+* [Python Statistical Methods: Machine Learning & Data Science](https://coursemetry.com/python-statistical-methods-machine-learning-data-science/)
+
+* [10x Your Social Skills & Connect With People](https://coursemetry.com/10x-your-social-skills-connect-with-people/)
+
+* [Universidad Angular - De Cero a Experto en Angular!](https://coursemetry.com/universidad-angular-de-cero-a-experto-en-angular/)
+
+* [Universidad Java - De Cero a Experto - Más Completo +106 hrs](https://coursemetry.com/universidad-java-de-cero-a-experto-mas-completo-106-hrs/)
+
+* [Mechanical Engineering - Water Supply System A-Z](https://coursemetry.com/mechanical-engineering-water-supply-system-a-z/)
+
+* [Python for Data Science and Machine Learning](https://coursemetry.com/python-for-data-science-and-machine-learning/)
+
+* [Microsoft Excel: De Principiante a Avanzado](https://coursemetry.com/microsoft-excel-de-principiante-a-avanzado/)
+
+* [Universidad Spring - Spring Framework y Spring Boot!](https://coursemetry.com/universidad-spring-spring-framework-y-spring-boot/)
+
+* [Universidad CSS - Aprende CSS desde Cero hasta Experto!](https://coursemetry.com/universidad-css-aprende-css-desde-cero-hasta-experto/)
+
+* [R Programming: Análisis de datos](https://coursemetry.com/r-programming-analisis-de-datos/)
+
+* [Universidad Python con Frameworks Django, Flask, etc. +71hrs](https://coursemetry.com/universidad-python-con-frameworks-django-flask-etc-71hrs/)
+
+* [Universidad de Programación - Python, Java y JavaScript](https://coursemetry.com/universidad-de-programacion-python-java-y-javascript/)
+
+* [Universidad Desarrollo Web - FrontEnd Web Developer!](https://coursemetry.com/universidad-desarrollo-web-frontend-web-developer/)
+
+* [Python: Análisis de datos](https://coursemetry.com/python-analisis-de-datos/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
