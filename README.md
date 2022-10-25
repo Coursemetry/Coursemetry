@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **123 Udemy free courses published so far on 2022-10-25**
+## **177 Udemy free courses published so far on 2022-10-25**
 
 * [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
 
@@ -249,6 +249,114 @@
 * [Gatsby JS | Build a personal blog using gatsbyJS](https://coursemetry.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/)
 
 * [Google Analytics, GA4, GTM. How to improve your marketing?](https://coursemetry.com/google-analytics-ga4-gtm-how-to-improve-your-marketing/)
+
+* [Developer Relations Fundamentals – DevRel Masterclass 2022](https://coursemetry.com/developer-relations-fundamentals-devrel-masterclass-2022-2/)
+
+* [No-Code Machine Learning with Qlik AutoML](https://coursemetry.com/no-code-machine-learning-with-qlik-automl/)
+
+* [Python Practice Tests & Interview Questions (Basic/Advanced)](https://coursemetry.com/python-practice-tests-interview-questions-basic-advanced/)
+
+* [Git &Github Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/git-github-practice-tests-interview-questions-basic-adv/)
+
+* [Solidity Interview Questions & Practice Tests (updated 2022)](https://coursemetry.com/solidity-interview-questions-practice-tests-updated-2022/)
+
+* [Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests](https://coursemetry.com/web-3-0-blockchain-smart-contracts-crypto-practice-tests/)
+
+* [SAP Basis Essential Training](https://coursemetry.com/sap-basis-essential-training/)
+
+* [Social TS React.js Decentralized App Development for NEAR](https://coursemetry.com/social-ts-react-js-decentralized-app-development-for-near/)
+
+* [Build TypeScript smart contracts and React.js dapps for NEAR](https://coursemetry.com/build-typescript-smart-contracts-and-react-js-dapps-for-near/)
+
+* [Build AssemblyScript smart contracts for the NEAR blockchain](https://coursemetry.com/build-assemblyscript-smart-contracts-for-the-near-blockchain/)
+
+* [Messageboard Rust Smart Contract Development for NEAR](https://coursemetry.com/messageboard-rust-smart-contract-development-for-near/)
+
+* [Non Fungible Token Rust Smart Contract Development for NEAR](https://coursemetry.com/non-fungible-token-rust-smart-contract-development-for-near/)
+
+* [Ethical Hacking: Eternalblue](https://coursemetry.com/ethical-hacking-eternalblue/)
+
+* [NFT minting with NEAR-CLI on deployed smart contract](https://coursemetry.com/nft-minting-with-near-cli-on-deployed-smart-contract/)
+
+* [Build Social Media Smart Contracts in TS and Rust for NEAR](https://coursemetry.com/build-social-media-smart-contracts-in-ts-and-rust-for-near/)
+
+* [Facebook Marketing 2022. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2022-promote-your-business-on-facebook/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [SAP Business Analytics Essential Training](https://coursemetry.com/sap-business-analytics-essential-training/)
+
+* [Simple Rust Smart Contract Development for NEAR Blockchain](https://coursemetry.com/simple-rust-smart-contract-development-for-near-blockchain/)
+
+* [Management Consulting Presentation Essential Training](https://coursemetry.com/management-consulting-presentation-essential-training/)
+
+* [The Complete SAP S/4HANA Bootcamp 2022](https://coursemetry.com/the-complete-sap-s-4hana-bootcamp-2022/)
+
+* [EU GDPR - Data Protection Self Assessment Exam](https://coursemetry.com/eu-gdpr-data-protection-self-assessment-exam/)
+
+* [Social Media Rust Smart Contract Development for NEAR](https://coursemetry.com/social-media-rust-smart-contract-development-for-near/)
+
+* [Non Fungible Token Development with JS for NEAR Blockchain](https://coursemetry.com/non-fungible-token-development-with-js-for-near-blockchain/)
+
+* [Unit Testing Smart Contracts with JavaScript for NEAR](https://coursemetry.com/unit-testing-smart-contracts-with-javascript-for-near/)
+
+* [Unit Testing Rust Smart Contracts on NEAR Blockchain](https://coursemetry.com/unit-testing-rust-smart-contracts-on-near-blockchain/)
+
+* [Create Q&A Smart Contract for NEAR Blockchain with Rust](https://coursemetry.com/create-qa-smart-contract-for-near-blockchain-with-rust/)
+
+* [poultry farming vaccines and vaccinations](https://coursemetry.com/poultry-farming-vaccines-and-vaccinations/)
+
+* [Discussion React.js Decentralized App Development for NEAR](https://coursemetry.com/discussion-react-js-decentralized-app-development-for-near/)
+
+* [Build Marketplace Smart Contract and React.js Dapp for NEAR](https://coursemetry.com/build-marketplace-smart-contract-and-react-js-dapp-for-near/)
+
+* [Messaging JavaScript Decentralized App Development for NEAR](https://coursemetry.com/messaging-javascript-decentralized-app-development-for-near/)
+
+* [Make Simple Games with Python](https://coursemetry.com/make-simple-games-with-python/)
+
+* [Cryptocurrency Token Rust Development for NEAR Blockchain](https://coursemetry.com/cryptocurrency-token-rust-development-for-near-blockchain/)
+
+* [Time Management - A Mindful Approach](https://coursemetry.com/time-management-a-mindful-approach/)
+
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [Speaking on the Telephone: Confidently Speak on the Phone](https://coursemetry.com/speaking-on-the-telephone-confidently-speak-on-the-phone/)
+
+* [Logística: Administración y Gestión de Inventarios](https://coursemetry.com/logistica-administracion-y-gestion-de-inventarios/)
+
+* [Simple TS NEAR Smart Contract Development for Beginners](https://coursemetry.com/simple-ts-near-smart-contract-development-for-beginners/)
+
+* [Presentation Skills: Give Great Skype Video Presentations](https://coursemetry.com/presentation-skills-give-great-skype-video-presentations/)
+
+* [Build smart contracts in the Rust coding language for NEAR](https://coursemetry.com/build-smart-contracts-in-the-rust-coding-language-for-near/)
+
+* [Create Ecommerce Website In WordPress (Hindi)](https://coursemetry.com/create-ecommerce-website-in-wordpress-hindi/)
+
+* [Fungible Token Development with TS for NEAR Blockchain](https://coursemetry.com/fungible-token-development-with-ts-for-near-blockchain/)
+
+* [Learn Facebook Ads from Scratch - Get more Leads and Sales](https://coursemetry.com/learn-facebook-ads-from-scratch-get-more-leads-and-sales/)
+
+* [The Complete NEAR Blockchain Smart Contract + Dapp Course](https://coursemetry.com/the-complete-near-blockchain-smart-contract-dapp-course/)
+
+* [Marketing Strategy: Communicating Your Message](https://coursemetry.com/marketing-strategy-communicating-your-message/)
+
+* [Media Training: You Can Be a Media Trainer](https://coursemetry.com/media-training-you-can-be-a-media-trainer/)
+
+* [Basic Course To GST (Goods And Service Tax)](https://coursemetry.com/basic-course-to-gst-goods-and-service-tax/)
+
+* [Public Speaking for People Who Hate Public Speaking](https://coursemetry.com/public-speaking-for-people-who-hate-public-speaking/)
+
+* [ISO 39001 - Road Traffic Safety (RTS) Management System Exam](https://coursemetry.com/iso-39001-road-traffic-safety-rts-management-system-exam/)
+
+* [Introduction To SEO Based Content Writing (Hindi)](https://coursemetry.com/introduction-to-seo-based-content-writing-hindi/)
+
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
+
+* [CheckPoint Management Server R81 HA Configuration](https://coursemetry.com/checkpoint-management-server-r81-ha-configuration/)
+
+* [Build an AssemblyScript ecommerce smart contract for NEAR](https://coursemetry.com/build-an-assemblyscript-ecommerce-smart-contract-for-near/)
+
+* [Non Fungible Token JS Decentralized App Development for NEAR](https://coursemetry.com/non-fungible-token-js-decentralized-app-development-for-near/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
