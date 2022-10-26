@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-10-26**
+## **114 Udemy free courses published so far on 2022-10-26**
 
 * [Sell Amazon KDP Low Content Books for Passive Income 2022](https://coursemetry.com/sell-amazon-kdp-low-content-books-for-passive-income-2022/)
 
@@ -195,6 +195,42 @@
 * [Management Skills, Self Leadership & Personal Transformation](https://coursemetry.com/management-skills-self-leadership-personal-transformation/)
 
 * [Cognitive Behavioural Therapy for Anxiety & Worry](https://coursemetry.com/cognitive-behavioural-therapy-for-anxiety-worry/)
+
+* [PTSD & Trauma Counseling with Combination of Psychotherapy](https://coursemetry.com/ptsd-trauma-counseling-with-combination-of-psychotherapy/)
+
+* [2022 Complete Python Bootcamp From Zero to Hero in Python](https://coursemetry.com/2022-complete-python-bootcamp-from-zero-to-hero-in-python/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Media Training for Print/Online Interviews-Get Great Quotes](https://coursemetry.com/media-training-for-print-online-interviews-get-great-quotes/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [HVAC Chillers System Description A-Z](https://coursemetry.com/hvac-chillers-system-description-a-z/)
+
+* [Practical Stoicism for Everyday life & Personal Growth](https://coursemetry.com/practical-stoicism-for-everyday-life-personal-growth/)
+
+* [Learn Facebook Ads from Scratch - Get more Leads and Sales](https://coursemetry.com/learn-facebook-ads-from-scratch-get-more-leads-and-sales/)
+
+* [Overcoming Anxiety and Fear: A Simple Method to More Peace](https://coursemetry.com/overcoming-anxiety-and-fear-a-simple-method-to-more-peace/)
+
+* [Complete PowerPoint Megacourse: Beginner to Expert](https://coursemetry.com/complete-powerpoint-megacourse-beginner-to-expert/)
+
+* [Fashion Rendering in Photoshop (Hindi)](https://coursemetry.com/fashion-rendering-in-photoshop-hindi/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [Fire Up Creativity in Your Child](https://coursemetry.com/fire-up-creativity-in-your-child/)
+
+* [Learn Illustrator CC: Create a Vector Knight](https://coursemetry.com/learn-illustrator-cc-create-a-vector-knight/)
+
+* [Introduction to Forex- learn to trade forex by yourself](https://coursemetry.com/introduction-to-forex-learn-to-trade-forex-by-yourself/)
+
+* [Customer Retention: Maximise Your Profits](https://coursemetry.com/customer-retention-maximise-your-profits/)
+
+* [Learn the ART of 3D Game Assets Design - Absolute Beginners](https://coursemetry.com/learn-the-art-of-3d-game-assets-design-absolute-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
