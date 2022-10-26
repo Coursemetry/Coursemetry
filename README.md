@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published so far on 2022-10-26**
+## **93 Udemy free courses published so far on 2022-10-26**
 
 * [Sell Amazon KDP Low Content Books for Passive Income 2022](https://coursemetry.com/sell-amazon-kdp-low-content-books-for-passive-income-2022/)
 
@@ -105,6 +105,90 @@
 * [Make YouTube Thumbnails & Get More Views (Photoshop +Online)](https://coursemetry.com/make-youtube-thumbnails-get-more-views-photoshop-online/)
 
 * [Reverse Engineering .NET For Beginners (Visual Basic)](https://coursemetry.com/reverse-engineering-net-for-beginners-visual-basic/)
+
+* [MERN Stack with Blog Project](https://coursemetry.com/mern-stack-with-blog-project/)
+
+* [Brush Lettering Beginners Guide || Free Worksheets](https://coursemetry.com/brush-lettering-beginners-guide-free-worksheets/)
+
+* [PHP for Beginners: PHP Master Class](https://coursemetry.com/php-for-beginners-php-master-class/)
+
+* [Postgraduate Diploma: Digital Products Management](https://coursemetry.com/postgraduate-diploma-digital-products-management/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Postgraduate Executive Diploma: Consumer Lending Business](https://coursemetry.com/postgraduate-executive-diploma-consumer-lending-business/)
+
+* [Managing OCD with Mindfulness & CBT - Introductory Course](https://coursemetry.com/managing-ocd-with-mindfulness-cbt-introductory-course/)
+
+* [Premarital Couples Counseling - Relationship Psychotherapy](https://coursemetry.com/premarital-couples-counseling-relationship-psychotherapy/)
+
+* [CBT Counseling with Mindfulness for self-compassion](https://coursemetry.com/cbt-counseling-with-mindfulness-for-self-compassion/)
+
+* [EMDR Practitioner Toolbox - Treatment of Complex PTSD](https://coursemetry.com/emdr-practitioner-toolbox-treatment-of-complex-ptsd/)
+
+* [Buddhism in Psychotherapy & Counseling](https://coursemetry.com/buddhism-in-psychotherapy-counseling/)
+
+* [Beyond Trauma: Counseling for Post Traumatic Growth](https://coursemetry.com/beyond-trauma-counseling-for-post-traumatic-growth/)
+
+* [Positive Psychology Counseling for Mental Health & Success](https://coursemetry.com/positive-psychology-counseling-for-mental-health-success/)
+
+* [How to treat Borderline Personality Disorder: Schema Therapy](https://coursemetry.com/how-to-treat-borderline-personality-disorder-schema-therapy/)
+
+* [Machine Learning in Python - From A to Z Machine Learning](https://coursemetry.com/machine-learning-in-python-from-a-to-z-machine-learning/)
+
+* [CBSA BTA Certified Blockchain Solution Architect Exam Prep](https://coursemetry.com/cbsa-bta-certified-blockchain-solution-architect-exam-prep/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [Depression Psychotherapy - All depression types](https://coursemetry.com/depression-psychotherapy-all-depression-types/)
+
+* [Qradar Deep Dive Questions](https://coursemetry.com/qradar-deep-dive-questions/)
+
+* [Tableau: Empieza desde cero](https://coursemetry.com/tableau-empieza-desde-cero/)
+
+* [Psychology of Relationships](https://coursemetry.com/psychology-of-relationships/)
+
+* [Developing Emotional Intelligence in Kids](https://coursemetry.com/developing-emotional-intelligence-in-kids/)
+
+* [Anxiety Counseling - Social Anxiety Disorder ACT](https://coursemetry.com/anxiety-counseling-social-anxiety-disorder-act/)
+
+* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+
+* [Microsoft SQL Server: Análisis de datos con Tableau](https://coursemetry.com/microsoft-sql-server-analisis-de-datos-con-tableau/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [College Admissions Interview-Confidently Talk About Yourself](https://coursemetry.com/college-admissions-interview-confidently-talk-about-yourself/)
+
+* [Spiritual Psychotherapy - Counseling for Mental Health](https://coursemetry.com/spiritual-psychotherapy-counseling-for-mental-health/)
+
+* [Affiliate marketing course for beginners 2022](https://coursemetry.com/affiliate-marketing-course-for-beginners-2022/)
+
+* [Snake Game using Python (Hindi)](https://coursemetry.com/snake-game-using-python-hindi/)
+
+* [Python Turtle in Hindi](https://coursemetry.com/python-turtle-in-hindi/)
+
+* [Business Growth Quick Start Course](https://coursemetry.com/business-growth-quick-start-course/)
+
+* [Создание игр в Roblox. PUBG. Программирование для детей](https://coursemetry.com/%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b3%d1%80-%d0%b2-roblox-pubg-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b4%d0%bb/)
+
+* [Powerful Instagram Sales Funnel to Grow Your Business](https://coursemetry.com/powerful-instagram-sales-funnel-to-grow-your-business/)
+
+* [JavaScript, Testes, Documentação e Clean Architecture](https://coursemetry.com/javascript-testes-documentacao-e-clean-architecture/)
+
+* [Deep Learning: Neural Networks in Javascript from scratch](https://coursemetry.com/deep-learning-neural-networks-in-javascript-from-scratch/)
+
+* [Spring Data and Spring Boot Course بالعربي](https://coursemetry.com/spring-data-and-spring-boot-course-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [Python GUI Automation (हिंदी )](https://coursemetry.com/python-gui-automation-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80/)
+
+* [Learn To Create AI Assistant (JARVIS) With Python](https://coursemetry.com/learn-to-create-ai-assistant-jarvis-with-python/)
+
+* [Einführung in das Projektmanagement mit Excel](https://coursemetry.com/einfuhrung-in-das-projektmanagement-mit-excel/)
+
+* [How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://coursemetry.com/how-to-make-money-online-for-beginners-follow-proven-steps/)
+
+* [Marketing Strategy: Communicating Your Message](https://coursemetry.com/marketing-strategy-communicating-your-message/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
