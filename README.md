@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-10-26**
+## **96 Udemy free courses published so far on 2022-10-26**
 
 * [Sell Amazon KDP Low Content Books for Passive Income 2022](https://coursemetry.com/sell-amazon-kdp-low-content-books-for-passive-income-2022/)
 
@@ -189,6 +189,12 @@
 * [How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://coursemetry.com/how-to-make-money-online-for-beginners-follow-proven-steps/)
 
 * [Marketing Strategy: Communicating Your Message](https://coursemetry.com/marketing-strategy-communicating-your-message/)
+
+* [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
+
+* [Management Skills, Self Leadership & Personal Transformation](https://coursemetry.com/management-skills-self-leadership-personal-transformation/)
+
+* [Cognitive Behavioural Therapy for Anxiety & Worry](https://coursemetry.com/cognitive-behavioural-therapy-for-anxiety-worry/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
