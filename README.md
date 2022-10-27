@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published so far on 2022-10-27**
+## **60 Udemy free courses published so far on 2022-10-27**
 
 * [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
 
@@ -105,6 +105,24 @@
 * [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
 
 * [Amazon FBA The new Business Strategies 2022](https://coursemetry.com/amazon-fba-the-new-business-strategies-2022/)
+
+* [SEO Mastery - Rank #1 on Google with SEO ( Hindi)](https://coursemetry.com/seo-mastery-rank-1-on-google-with-seo-hindi/)
+
+* [Power of Quora : A to Z of Earning from Quora  & Quora Ads](https://coursemetry.com/power-of-quora-a-to-z-of-earning-from-quora-quora-ads/)
+
+* [Create FREE E-Commerce Store in minutes Using Vanijya App](https://coursemetry.com/create-free-e-commerce-store-in-minutes-using-vanijya-app/)
+
+* [Blogging & Affiliate Mastery in 2022 [ HINDI ]](https://coursemetry.com/blogging-affiliate-mastery-in-2022-hindi/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [KineMaster-Professional Mobile Video Editing Tutoria 2023](https://coursemetry.com/kinemaster-professional-mobile-video-editing-tutoria-2023/)
+
+* [Power of Quora : A to Z of Earning from Quora  & Ads (HINDI)](https://coursemetry.com/power-of-quora-a-to-z-of-earning-from-quora-ads-hindi/)
+
+* [SEO Mastery - Rank #1 on Google with SEO ( English)](https://coursemetry.com/seo-mastery-rank-1-on-google-with-seo-english/)
+
+* [Website Build-Along: Beaver Jams](https://coursemetry.com/website-build-along-beaver-jams/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
