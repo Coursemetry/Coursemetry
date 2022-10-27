@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **25 Udemy free courses published so far on 2022-10-27**
+## **38 Udemy free courses published so far on 2022-10-27**
 
 * [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
 
@@ -53,6 +53,32 @@
 * [Mit Online Marketing Dein Business aufbauen ohne Vorwissen!](https://coursemetry.com/mit-online-marketing-dein-business-aufbauen-ohne-vorwissen/)
 
 * [Scrum Certification 2022 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2022-scrum-master-agile-scrum-training/)
+
+* [Beginning Bash Scripting](https://coursemetry.com/beginning-bash-scripting/)
+
+* [Curso de Java - Nivel Básico](https://coursemetry.com/curso-de-java-nivel-basico/)
+
+* [Open-Source Intelligence (OSINT)](https://coursemetry.com/open-source-intelligence-osint/)
+
+* [M&A for Investors](https://coursemetry.com/ma-for-investors/)
+
+* [Ethical Hacking: Eternalblue](https://coursemetry.com/ethical-hacking-eternalblue/)
+
+* [Powerful (management) Coaching questions explained](https://coursemetry.com/powerful-management-coaching-questions-explained/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [Make WordPress Hosting Easy with Plesk on Linode](https://coursemetry.com/make-wordpress-hosting-easy-with-plesk-on-linode/)
+
+* [Be more efficient in Microsoft Word - Top Tips](https://coursemetry.com/be-more-efficient-in-microsoft-word-top-tips/)
+
+* [Excel Keyboard Shortcuts: Editing Cells & Cell Contents](https://coursemetry.com/excel-keyboard-shortcuts-editing-cells-cell-contents/)
+
+* [Media Training: Looking Good on TV- Preparing for the Camera](https://coursemetry.com/media-training-looking-good-on-tv-preparing-for-the-camera/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
+
+* [Tableau from Scratch for Data Science and Business Analytics](https://coursemetry.com/tableau-from-scratch-for-data-science-and-business-analytics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
