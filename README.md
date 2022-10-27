@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **38 Udemy free courses published so far on 2022-10-27**
+## **51 Udemy free courses published so far on 2022-10-27**
 
 * [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
 
@@ -79,6 +79,32 @@
 * [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
 
 * [Tableau from Scratch for Data Science and Business Analytics](https://coursemetry.com/tableau-from-scratch-for-data-science-and-business-analytics/)
+
+* [Microsoft Excel - Excel Only For Beginners 2022](https://coursemetry.com/microsoft-excel-excel-only-for-beginners-2022/)
+
+* [Economics and Art Therapy - an unusual combination!](https://coursemetry.com/economics-and-art-therapy-an-unusual-combination/)
+
+* [Certified Professional in Data Science - Practice Test](https://coursemetry.com/certified-professional-in-data-science-practice-test/)
+
+* [Business Fundamentals & Questions to Answer Before Launching](https://coursemetry.com/business-fundamentals-questions-to-answer-before-launching/)
+
+* [DP-900: Microsoft Azure Data Fundamentals Practice Tests](https://coursemetry.com/dp-900-microsoft-azure-data-fundamentals-practice-tests/)
+
+* [SEO - The Complete SEO Course Beginners to Advanced 2022](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2022/)
+
+* [Best of Facebook Ads: Facebook Ads 2022 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2022-ultimate-pro-edition/)
+
+* [Web Hacking for Beginners](https://coursemetry.com/web-hacking-for-beginners/)
+
+* [Google Ads 2022. How to drive sales with PPC!](https://coursemetry.com/google-ads-2022-how-to-drive-sales-with-ppc/)
+
+* [Social media marketing strategy 2022. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2022-launch-your-smm/)
+
+* [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
+
+* [Email Marketing 2022. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2022-increase-sales-with-email-marketing/)
+
+* [Amazon FBA The new Business Strategies 2022](https://coursemetry.com/amazon-fba-the-new-business-strategies-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
