@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **60 Udemy free courses published so far on 2022-10-27**
+## **79 Udemy free courses published so far on 2022-10-27**
 
 * [Local SEO & Facebook Ads As Project & Fun: 10 Days Challenge](https://coursemetry.com/local-seo-facebook-ads-as-project-fun-10-days-challenge/)
 
@@ -123,6 +123,44 @@
 * [SEO Mastery - Rank #1 on Google with SEO ( English)](https://coursemetry.com/seo-mastery-rank-1-on-google-with-seo-english/)
 
 * [Website Build-Along: Beaver Jams](https://coursemetry.com/website-build-along-beaver-jams/)
+
+* [Management Consulting Skills Mastery](https://coursemetry.com/management-consulting-skills-mastery/)
+
+* [Management Consulting Essential Training](https://coursemetry.com/management-consulting-essential-training/)
+
+* [Teaching in Adult Education](https://coursemetry.com/teaching-in-adult-education/)
+
+* [Master Time Management and Productivity (Bonus Free eBook)](https://coursemetry.com/master-time-management-and-productivity-bonus-free-ebook/)
+
+* [The Ultimate SAP S/4HANA Course 2022: From Zero to Expert](https://coursemetry.com/the-ultimate-sap-s-4hana-course-2022-from-zero-to-expert/)
+
+* [Management Consulting Presentation Essential Training](https://coursemetry.com/management-consulting-presentation-essential-training/)
+
+* [مهارات البيع الاحترافية](https://coursemetry.com/%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%8a%d8%a9/)
+
+* [Fundamental of Embedded Systems](https://coursemetry.com/fundamental-of-embedded-systems/)
+
+* [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
+
+* [Fundamentals of Electrical and Electronics](https://coursemetry.com/fundamentals-of-electrical-and-electronics/)
+
+* [Fundamentals of IoT (Internet of Things)](https://coursemetry.com/fundamentals-of-iot-internet-of-things/)
+
+* [Fedora Linux from Scratch](https://coursemetry.com/fedora-linux-from-scratch/)
+
+* [Fundamentals of Industry 4.0](https://coursemetry.com/fundamentals-of-industry-4-0/)
+
+* [Email Marketing Tactics For A Successful Business In 2022](https://coursemetry.com/email-marketing-tactics-for-a-successful-business-in-2022/)
+
+* [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
+
+* [Global Economics plus the Great Reset!](https://coursemetry.com/global-economics-plus-the-great-reset/)
+
+* [Podcasting Masterclass  -Part2 The Podcasting Course Trilogy](https://coursemetry.com/podcasting-masterclass-part2-the-podcasting-course-trilogy/)
+
+* [Make Money From Home: 12 EASY Options to Make Money Now](https://coursemetry.com/make-money-from-home-12-easy-options-to-make-money-now/)
+
+* [Certified MongoDB Database Administrator - Practice Tests](https://coursemetry.com/certified-mongodb-database-administrator-practice-tests/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
