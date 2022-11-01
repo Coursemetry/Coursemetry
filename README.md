@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **57 Udemy free courses published so far on 2022-11-01**
+## **111 Udemy free courses published so far on 2022-11-01**
 
 * [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
 
@@ -117,6 +117,114 @@
 * [Google Ads Mastery~ Beginner To Pro  ~ HINDI/URDU 2022](https://coursemetry.com/google-ads-mastery-beginner-to-pro-hindi-urdu-2022/)
 
 * [Media Training for Beginners: Ace Your First News Interviews](https://coursemetry.com/media-training-for-beginners-ace-your-first-news-interviews/)
+
+* [Android app development: fixing bugs before creating them](https://coursemetry.com/android-app-development-fixing-bugs-before-creating-them/)
+
+* [Software architecture](https://coursemetry.com/software-architecture/)
+
+* [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
+
+* [The Complete Journaling Course: Build Self-Awareness Habits](https://coursemetry.com/the-complete-journaling-course-build-self-awareness-habits/)
+
+* [Data Mesh - A Modern Decentralized Data Management Concept](https://coursemetry.com/data-mesh-a-modern-decentralized-data-management-concept/)
+
+* [No-Code Machine Learning with Qlik AutoML](https://coursemetry.com/no-code-machine-learning-with-qlik-automl/)
+
+* [Adobe Animate Ultimate Guide 2022](https://coursemetry.com/adobe-animate-ultimate-guide-2022/)
+
+* [Adobe Photoshop Projects Guide 2022](https://coursemetry.com/adobe-photoshop-projects-guide-2022/)
+
+* [Scrum Certification Course 2022 (Based on Scrum Guide 2020)](https://coursemetry.com/scrum-certification-course-2022-based-on-scrum-guide-2020/)
+
+* [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
+
+* [Build your Email List on Steroids using Killer Lead Magnets](https://coursemetry.com/build-your-email-list-on-steroids-using-killer-lead-magnets/)
+
+* [Looker Studio /Google Data Studio Complete Advanced Tutorial](https://coursemetry.com/looker-studio-google-data-studio-complete-advanced-tutorial/)
+
+* [Project/ Product Management Frameworks & Methods MasterClass](https://coursemetry.com/project-product-management-frameworks-methods-masterclass/)
+
+* [No-Code Machine Learning Using Amazon AWS SageMaker Canvas](https://coursemetry.com/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/)
+
+* [Quantum Computing Fundamentals with Microsoft Azure Quantum](https://coursemetry.com/quantum-computing-fundamentals-with-microsoft-azure-quantum/)
+
+* [Adobe Audition Projects Guide](https://coursemetry.com/adobe-audition-projects-guide/)
+
+* [Data Sonification using Two Tone- Convert your Data to Music](https://coursemetry.com/data-sonification-using-two-tone-convert-your-data-to-music/)
+
+* [Essential Non Technical Skills of Effective Data Scientists](https://coursemetry.com/essential-non-technical-skills-of-effective-data-scientists/)
+
+* [Most Effective Tips to get your Dream Data Science Job](https://coursemetry.com/most-effective-tips-to-get-your-dream-data-science-job/)
+
+* [MAKE MONEY ONLINE in 4 STEPS! (Affiliate Marketing Course)](https://coursemetry.com/make-money-online-in-4-steps-affiliate-marketing-course/)
+
+* [Adobe Animate Projects Guide](https://coursemetry.com/adobe-animate-projects-guide/)
+
+* [Web5 Fundamentals - A New Evolution of Web & Data Ownership](https://coursemetry.com/web5-fundamentals-a-new-evolution-of-web-data-ownership/)
+
+* [Spotfire Interview Tech Questions Answered with Explanation](https://coursemetry.com/spotfire-interview-tech-questions-answered-with-explanation/)
+
+* [PyScript Fundamentals 101- Run Python in your Browser's HTML](https://coursemetry.com/pyscript-fundamentals-101-run-python-in-your-browsers-html/)
+
+* [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
+
+* [TIBCO Spotfire Development : Beginners To Advanced Course](https://coursemetry.com/tibco-spotfire-development-beginners-to-advanced-course/)
+
+* [Adobe Animate Basics Guide](https://coursemetry.com/adobe-animate-basics-guide/)
+
+* [Flourish Studio Masterclass : Create Animated Visualizations](https://coursemetry.com/flourish-studio-masterclass-create-animated-visualizations/)
+
+* [Learn basic Italian in 2 hours](https://coursemetry.com/learn-basic-italian-in-2-hours/)
+
+* [Adobe After Effects Projects Guide](https://coursemetry.com/adobe-after-effects-projects-guide/)
+
+* [C_TS452_2021 | SAP S/4HANA Sourcing and Procurement Exam](https://coursemetry.com/c_ts452_2021-sap-s-4hana-sourcing-and-procurement-exam-2/)
+
+* [Web3 / Blockchain Project Manager Certification Course](https://coursemetry.com/web3-blockchain-project-manager-certification-course/)
+
+* [Developer Relations Fundamentals – DevRel Masterclass 2022](https://coursemetry.com/developer-relations-fundamentals-devrel-masterclass-2022-2/)
+
+* [Microsoft Clarity for Web Analytics :  A-Z Complete Tutorial](https://coursemetry.com/microsoft-clarity-for-web-analytics-a-z-complete-tutorial/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [Power Pages - A Complete Guide to Microsoft Power Pages](https://coursemetry.com/power-pages-a-complete-guide-to-microsoft-power-pages/)
+
+* [Reverse Engineering: Frida for Beginners](https://coursemetry.com/reverse-engineering-frida-for-beginners/)
+
+* [Emotional Intelligence for Software Engineers and Developers](https://coursemetry.com/emotional-intelligence-for-software-engineers-and-developers/)
+
+* [Design Sketching S01: Create Amazing Designs with Procreate](https://coursemetry.com/design-sketching-s01-create-amazing-designs-with-procreate/)
+
+* [AZ-220: Microsoft Azure IoT Developer Practice Questions](https://coursemetry.com/az-220-microsoft-azure-iot-developer-practice-questions-2/)
+
+* [Adobe Premiere Pro Basics Guide 2022](https://coursemetry.com/adobe-premiere-pro-basics-guide-2022/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [The Complete Computer Basics Guide for Beginners: 2022](https://coursemetry.com/the-complete-computer-basics-guide-for-beginners-2022/)
+
+* [complete docking process using free open-source programs](https://coursemetry.com/complete-docking-process-using-free-open-source-programs/)
+
+* [Improve Your Life with "Mental Magic"](https://coursemetry.com/improve-your-life-with-mental-magic/)
+
+* [Introduction to the Music Business - course online](https://coursemetry.com/introduction-to-the-music-business-course-online/)
+
+* [AWS Certified Solutions Architect Practice Tests- Official](https://coursemetry.com/aws-certified-solutions-architect-practice-tests-official/)
+
+* [Dare to Lead: How to Become a Next Generation Leader](https://coursemetry.com/dare-to-lead-how-to-become-a-next-generation-leader/)
+
+* [Python 3.7 - Programming Language Basics](https://coursemetry.com/python-3-7-programming-language-basics/)
+
+* [Time Series Analysis in Python - Data Analysis & Forecasting](https://coursemetry.com/time-series-analysis-in-python-data-analysis-forecasting/)
+
+* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+
+* [Passive Income - 35+ Tools/Websites to Earn Money](https://coursemetry.com/passive-income-35-tools-websites-to-earn-money/)
+
+* [Microsoft SQL Server for Beginners | Crash Course](https://coursemetry.com/microsoft-sql-server-for-beginners-crash-course/)
+
+* [SIPOC - Supplier, Input, Process, Output, Customer](https://coursemetry.com/sipoc-supplier-input-process-output-customer/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
