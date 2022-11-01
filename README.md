@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **114 Udemy free courses published so far on 2022-11-01**
+## **116 Udemy free courses published so far on 2022-11-01**
 
 * [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
 
@@ -231,6 +231,10 @@
 * [React Responsive Portfolio Website - Complete React Project](https://coursemetry.com/react-responsive-portfolio-website-complete-react-project/)
 
 * [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
+
+* [Spycraft 101 Certification Course](https://coursemetry.com/spycraft-101-certification-course/)
+
+* [Graphic Design for Beginners: Logos in Adobe Illustrator](https://coursemetry.com/graphic-design-for-beginners-logos-in-adobe-illustrator/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
