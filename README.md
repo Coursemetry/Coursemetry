@@ -2,153 +2,121 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-10-30**
+## **57 Udemy free courses published so far on 2022-11-01**
 
-* [Chrome Developer Tool Basics Guide 2022](https://coursemetry.com/chrome-developer-tool-basics-guide-2022/)
+* [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
 
-* [GitLab Ultimate Guide 2022](https://coursemetry.com/gitlab-ultimate-guide-2022/)
+* [Facebook Ads Google My Business & Google Ads (Adwords) 2022](https://coursemetry.com/facebook-ads-google-my-business-google-ads-adwords-2022/)
 
-* [Microsoft Outlook Ultimate Guide 2022](https://coursemetry.com/microsoft-outlook-ultimate-guide-2022/)
+* [Build a Google Meet Clone from Scratch: WebRTC & Socket io](https://coursemetry.com/build-a-google-meet-clone-from-scratch-webrtc-socket-io/)
 
-* [Curso WordPress 2022:  Cómo Crear una Página Web Desde Cero](https://coursemetry.com/curso-wordpress-2022-como-crear-una-pagina-web-desde-cero/)
+* [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
 
-* [Microsoft Teams Ultimate Guide 2022](https://coursemetry.com/microsoft-teams-ultimate-guide-2022/)
+* [Udemy Course Creation - Udemy Instructor Guide (Unofficial)](https://coursemetry.com/udemy-course-creation-udemy-instructor-guide-unofficial/)
 
-* [Google Docs Ultimate Guide 2022](https://coursemetry.com/google-docs-ultimate-guide-2022/)
+* [Facebook Ads Marketing Crash Course Traffic & leads - 2022](https://coursemetry.com/facebook-ads-marketing-crash-course-traffic-leads-2022/)
 
-* [Podcasting Live Playbook - P3: The Podcasting Course Trilogy](https://coursemetry.com/podcasting-live-playbook-p3-the-podcasting-course-trilogy/)
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
 
-* [Microsoft Publisher Basics Guide 2022](https://coursemetry.com/microsoft-publisher-basics-guide-2022/)
+* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
 
-* [jQuery Ultimate Guide 2022](https://coursemetry.com/jquery-ultimate-guide-2022/)
+* [Estrategias Pro de Targeting de Audiencia con Facebook Ads](https://coursemetry.com/estrategias-pro-de-targeting-de-audiencia-con-facebook-ads/)
 
-* [Adobe Creative Cloud Ultimate Guide 2022](https://coursemetry.com/adobe-creative-cloud-ultimate-guide-2022/)
+* [P.O.W.E.R Resume System: Proven system to get job interviews](https://coursemetry.com/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/)
 
-* [Microsoft PowerPoint Ultimate Guide 2022](https://coursemetry.com/microsoft-powerpoint-ultimate-guide-2022/)
+* [Complete Italian Course: Learning Italian for Beginners 2022](https://coursemetry.com/complete-italian-course-learning-italian-for-beginners-2022/)
 
-* [Time Management Public Speaking - Drastically Reduce Prep](https://coursemetry.com/time-management-public-speaking-drastically-reduce-prep/)
+* [Run Digital Marketing Ad Using Google Adwords Express 2022](https://coursemetry.com/run-digital-marketing-ad-using-google-adwords-express-2022/)
 
-* [HTML5 Ultimate Guide 2022](https://coursemetry.com/html5-ultimate-guide-2022/)
+* [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
 
-* [Gmail Ultimate Guide 2022](https://coursemetry.com/gmail-ultimate-guide-2022/)
+* [WebServices testing (RestSharp + Postman) Complete Guide](https://coursemetry.com/webservices-testing-restsharp-postman-complete-guide/)
 
-* [Google Drive Ultimate Guide 2022](https://coursemetry.com/google-drive-ultimate-guide-2022/)
+* [Build Shopify store & Run Facebook Page Likes Ad In 2022](https://coursemetry.com/build-shopify-store-run-facebook-page-likes-ad-in-2022/)
 
-* [Microsoft PowerApps Ultimate Guide 2022](https://coursemetry.com/microsoft-powerapps-ultimate-guide-2022/)
+* [Complete Goal Achievement Course - Personal Success Goals](https://coursemetry.com/complete-goal-achievement-course-personal-success-goals/)
 
-* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
+* [How to make WordPress website with DIVI 2020 and Toolset](https://coursemetry.com/how-to-make-wordpress-website-with-divi-2020-and-toolset/)
 
-* [The Trivium: Learning how to Learn](https://coursemetry.com/the-trivium-learning-how-to-learn/)
+* [Run Search Ad In Google Ads & Easy SEO For Beginners-2022](https://coursemetry.com/run-search-ad-in-google-ads-easy-seo-for-beginners-2022/)
 
-* [The Ultimate 2D & 3D Shader Graph VFX Unity Course](https://coursemetry.com/the-ultimate-2d-3d-shader-graph-vfx-unity-course/)
+* [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
 
-* [Realizzare un Cortometraggio](https://coursemetry.com/realizzare-un-cortometraggio/)
+* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
 
-* [Local SEO 2022 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2022-made-simple-fun-google-maps-tripadvisor/)
+* [Complete Good Sleep Habits Course - Sleep Better Tonight!](https://coursemetry.com/complete-good-sleep-habits-course-sleep-better-tonight/)
 
-* [Asana Ultimate Guide 2022](https://coursemetry.com/asana-ultimate-guide-2022/)
+* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
 
-* [AWS Certified Solutions Architect Associate - Practice Exam](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exam-4/)
+* [Fundraising: 10+ Fundraising Ideas For Raising Capital](https://coursemetry.com/fundraising-10-fundraising-ideas-for-raising-capital/)
 
-* [Photoshop CC | Sıfırdan Uzmanlığa 30+ Saat Eğitim Seti A-Z](https://coursemetry.com/photoshop-cc-sifirdan-uzmanliga-30-saat-egitim-seti-a-z/)
+* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
 
-* [Microsoft OneDrive Ultimate Guide 2022](https://coursemetry.com/microsoft-onedrive-ultimate-guide-2022/)
+* [Facebook Ads + Whatsapp Ads Marketing (CASE STUDY) HIndi](https://coursemetry.com/facebook-ads-whatsapp-ads-marketing-case-study-hindi/)
 
-* [Google Workspace (G Suite) Ultimate Guide 2022](https://coursemetry.com/google-workspace-g-suite-ultimate-guide-2022/)
+* [Passive Income With U demy Courses HIndi](https://coursemetry.com/passive-income-with-u-demy-courses-hindi/)
 
-* [Corso completo di Teatro: esercizi pratici (Per Formatori)](https://coursemetry.com/corso-completo-di-teatro-esercizi-pratici-per-formatori/)
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
 
-* [Media Training: Look Your Best-Get the Exact Quotes You Want](https://coursemetry.com/media-training-look-your-best-get-the-exact-quotes-you-want/)
+* [49 Weight Loss Tips You Can Stick To Forever - Be Thinner](https://coursemetry.com/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/)
 
-* [Microsoft OneNote Ultimate Guide 2022](https://coursemetry.com/microsoft-onenote-ultimate-guide-2022/)
+* [Facebook Ads & Facebook Marketing Funnel Crash Course- 2022](https://coursemetry.com/facebook-ads-facebook-marketing-funnel-crash-course-2022/)
 
-* [Microsoft Excel Ultimate Guide 2022](https://coursemetry.com/microsoft-excel-ultimate-guide-2022/)
+* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
 
-* [Introduction to International Trade Finance & Trade Services](https://coursemetry.com/introduction-to-international-trade-finance-trade-services/)
+* [Dropshipping Shopify Store Creation like  Boss for Ecommerce](https://coursemetry.com/dropshipping-shopify-store-creation-like-boss-for-ecommerce/)
 
-* [Transportation System Planning Fundamentals](https://coursemetry.com/transportation-system-planning-fundamentals/)
+* [Negotiation A-Z: Inside Secrets from a Master Negotiator](https://coursemetry.com/negotiation-a-z-inside-secrets-from-a-master-negotiator/)
 
-* [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
+* [The Complete Growth Mindset Course - The Mindset for Success](https://coursemetry.com/the-complete-growth-mindset-course-the-mindset-for-success/)
 
-* [JavaScript Ultimate Guide 2022](https://coursemetry.com/javascript-ultimate-guide-2022/)
+* [Complete Unreal Engine 4 Megacourse: Beginner to Expert](https://coursemetry.com/complete-unreal-engine-4-megacourse-beginner-to-expert/)
 
-* [CSS3 Ultimate Guide 2022](https://coursemetry.com/css3-ultimate-guide-2022/)
+* [Run Facebook Ads For Customer Engagement & Followers ~ BASIC](https://coursemetry.com/run-facebook-ads-for-customer-engagement-followers-basic/)
 
-* [Insegnare TEATRO ai bambini: esercizi pratici](https://coursemetry.com/insegnare-teatro-ai-bambini-esercizi-pratici/)
+* [The Complete Google Drive Course - Mastering Google Drive](https://coursemetry.com/the-complete-google-drive-course-mastering-google-drive/)
 
-* [Evernote Ultimate Guide 2022](https://coursemetry.com/evernote-ultimate-guide-2022/)
+* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
 
-* [Adobe Audition Ultimate Guide 2022](https://coursemetry.com/adobe-audition-ultimate-guide-2022/)
+* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
 
-* [Microsoft Power Automate (Flow) Ultimate Guide 2022](https://coursemetry.com/microsoft-power-automate-flow-ultimate-guide-2022/)
+* [Presentation Skills for Beginners](https://coursemetry.com/presentation-skills-for-beginners/)
 
-* [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
+* [Video Production: You Can Make Simple Talking Head Video](https://coursemetry.com/video-production-you-can-make-simple-talking-head-video/)
 
-* [AWS Certified Solutions Architect - Professional Exam](https://coursemetry.com/aws-certified-solutions-architect-professional-exam-3/)
+* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
 
-* [cPanel Ultimate Guide 2022](https://coursemetry.com/cpanel-ultimate-guide-2022/)
+* [Facebook Ads Lead Generation Marketing for business](https://coursemetry.com/facebook-ads-lead-generation-marketing-for-business/)
 
-* [Google Forms Ultimate Guide 2022](https://coursemetry.com/google-forms-ultimate-guide-2022/)
+* [Project Management Crash Course in 60 Minutes](https://coursemetry.com/project-management-crash-course-in-60-minutes/)
 
-* [Adobe Dreamweaver Ultimate Guide 2022](https://coursemetry.com/adobe-dreamweaver-ultimate-guide-2022/)
+* [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
 
-* [Numpy and PostgreSQL for Beginners.](https://coursemetry.com/numpy-and-postgresql-for-beginners/)
+* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
 
-* [Google professional cloud architect Exam 2022](https://coursemetry.com/google-professional-cloud-architect-exam-2022/)
+* [Movavi Video Editor Guide - Video Editing for Beginners](https://coursemetry.com/movavi-video-editor-guide-video-editing-for-beginners/)
 
-* [ServiceNow Certified System Administrator - Exam 2022](https://coursemetry.com/servicenow-certified-system-administrator-exam-2022-2/)
+* [Business Fundamentals & Questions to Answer Before Launching](https://coursemetry.com/business-fundamentals-questions-to-answer-before-launching/)
 
-* [Podcast Audience Growth - Networking with your Guests](https://coursemetry.com/podcast-audience-growth-networking-with-your-guests/)
+* [Online Course Creation: Complete Course of Blunders to Avoid](https://coursemetry.com/online-course-creation-complete-course-of-blunders-to-avoid/)
 
-* [Best Data Analysis and Data Visualization course in Python](https://coursemetry.com/best-data-analysis-and-data-visualization-course-in-python/)
+* [Facebook Marketing & Facebook Ads Course For Beginners](https://coursemetry.com/facebook-marketing-facebook-ads-course-for-beginners/)
 
-* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+* [Company Registration In UK~ Make paypal & Stripe Business](https://coursemetry.com/company-registration-in-uk-make-paypal-stripe-business/)
 
-* [Data Science Prerequisites - Numpy - Pandas- Seaborn](https://coursemetry.com/data-science-prerequisites-numpy-pandas-seaborn/)
+* [Facebook Ads Marketing Targeting Strategies ~Hindi 2022](https://coursemetry.com/facebook-ads-marketing-targeting-strategies-hindi-2022/)
 
-* [NumPy - Pandas - PostgreSQL Basic to Advanced for beginners](https://coursemetry.com/numpy-pandas-postgresql-basic-to-advanced-for-beginners/)
+* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
 
-* [How to get Paid to Travel The World in 2022](https://coursemetry.com/how-to-get-paid-to-travel-the-world-in-2022/)
+* [Shopify Dropshipping From Paksitan ~ Yasir Ahmed MBA](https://coursemetry.com/shopify-dropshipping-from-paksitan-yasir-ahmed-mba/)
 
-* [AWS Certified Advanced Networking Specialty - Pactice Exam](https://coursemetry.com/aws-certified-advanced-networking-specialty-pactice-exam/)
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
 
-* [AWS DevOps Engineer Professional - Pratice test 2022](https://coursemetry.com/aws-devops-engineer-professional-pratice-test-2022/)
+* [Complete Organization Masterclass - Organize - Decluttering](https://coursemetry.com/complete-organization-masterclass-organize-decluttering/)
 
-* [Google Professional Cloud DevOps Engineer Exam 2022](https://coursemetry.com/google-professional-cloud-devops-engineer-exam-2022/)
+* [Google Ads Mastery~ Beginner To Pro  ~ HINDI/URDU 2022](https://coursemetry.com/google-ads-mastery-beginner-to-pro-hindi-urdu-2022/)
 
-* [AWS Certified Cloud Practitioner (CLF-C01) - Practice Exams](https://coursemetry.com/aws-certified-cloud-practitioner-clf-c01-practice-exams/)
-
-* [Pandas and PostgreSQL Basic to Advanced](https://coursemetry.com/pandas-and-postgresql-basic-to-advanced/)
-
-* [AWS SysOps Administrator Associate (SOA-C02) Exam 2022](https://coursemetry.com/aws-sysops-administrator-associate-soa-c02-exam-2022/)
-
-* [Data Visualization in python using seaborn library](https://coursemetry.com/data-visualization-in-python-using-seaborn-library/)
-
-* [PRINCE2 Foundation - Exam 2022](https://coursemetry.com/prince2-foundation-exam-2022/)
-
-* [Certification in Pro Iron Condor Options Trading Strategy](https://coursemetry.com/certification-in-pro-iron-condor-options-trading-strategy/)
-
-* [AWS Certified Cloud Practitioner - Practice Exam](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exam-2/)
-
-* [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
-
-* [Learn Calculus 1 - Become Expert on Calculus 1](https://coursemetry.com/learn-calculus-1-become-expert-on-calculus-1/)
-
-* [Aprende Cómo Hacer El Mejor Podcast y Con Hosting](https://coursemetry.com/aprende-como-hacer-el-mejor-podcast-y-con-hosting/)
-
-* [Excel - Microsoft Excel Course Beginner to Expert 2022](https://coursemetry.com/excel-microsoft-excel-course-beginner-to-expert-2022/)
-
-* [[New] OCP Java SE 11 Programmer I (1Z0-815) Mock Exams 2022](https://coursemetry.com/new-ocp-java-se-11-programmer-i-1z0-815-mock-exams-2022/)
-
-* [Best SAP FICO Tutorial For Beginners & Freshers](https://coursemetry.com/best-sap-fico-tutorial-for-beginners-freshers/)
-
-* [PowerPoint - Microsoft PowerPoint For Beginners 2023](https://coursemetry.com/powerpoint-microsoft-powerpoint-for-beginners-2023/)
-
-* [Build A Search Engine With Python: Computer Science & Python](https://coursemetry.com/build-a-search-engine-with-python-computer-science-python/)
-
-* [P.O.W.E.R. : Proven Interview System to crack your DREAM job](https://coursemetry.com/p-o-w-e-r-proven-interview-system-to-crack-your-dream-job/)
-
-* [Passive Income: 27 Ways to EARN MONEY WHILE YOU SLEEP!](https://coursemetry.com/passive-income-27-ways-to-earn-money-while-you-sleep/)
+* [Media Training for Beginners: Ace Your First News Interviews](https://coursemetry.com/media-training-for-beginners-ace-your-first-news-interviews/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
