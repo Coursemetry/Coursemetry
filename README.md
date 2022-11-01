@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **111 Udemy free courses published so far on 2022-11-01**
+## **114 Udemy free courses published so far on 2022-11-01**
 
 * [Facebook Ads Marketing Funnel For Ecommerce ~ Hindi/Urdu](https://coursemetry.com/facebook-ads-marketing-funnel-for-ecommerce-hindi-urdu/)
 
@@ -225,6 +225,12 @@
 * [Microsoft SQL Server for Beginners | Crash Course](https://coursemetry.com/microsoft-sql-server-for-beginners-crash-course/)
 
 * [SIPOC - Supplier, Input, Process, Output, Customer](https://coursemetry.com/sipoc-supplier-input-process-output-customer/)
+
+* [Curso WordPress 2022:  Cómo Crear una Página Web Desde Cero](https://coursemetry.com/curso-wordpress-2022-como-crear-una-pagina-web-desde-cero/)
+
+* [React Responsive Portfolio Website - Complete React Project](https://coursemetry.com/react-responsive-portfolio-website-complete-react-project/)
+
+* [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
