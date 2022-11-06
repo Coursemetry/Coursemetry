@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-11-06**
+## **116 Udemy free courses published so far on 2022-11-06**
 
 * [Practice and Learn React Web Development with Quizzes](https://coursemetry.com/practice-and-learn-react-web-development-with-quizzes/)
 
@@ -189,6 +189,52 @@
 * [Learn to Speak English: Part 1](https://coursemetry.com/learn-to-speak-english-part-1/)
 
 * [Use Webflow to build your web design business.](https://coursemetry.com/use-webflow-to-build-your-web-design-business/)
+
+* [Become a Successful Online Teacher - Teach Online Students](https://coursemetry.com/become-a-successful-online-teacher-teach-online-students/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [Public Speaking: Financial Advisers Convey Your Expertise](https://coursemetry.com/public-speaking-financial-advisers-convey-your-expertise/)
+
+* [300+ Python Exercises (Simple and Complex) with Algorithm](https://coursemetry.com/300-python-exercises-simple-and-complex-with-algorithm/)
+
+* [Podcasting: How to Speak Effectively on Your Own Podcast](https://coursemetry.com/podcasting-how-to-speak-effectively-on-your-own-podcast/)
+
+* [Remote Speaking - Pro Speaking Skills in The Coronavirus Era](https://coursemetry.com/remote-speaking-pro-speaking-skills-in-the-coronavirus-era/)
+
+* [Storytelling: You Can learn to Tell Stories Effectively](https://coursemetry.com/storytelling-you-can-learn-to-tell-stories-effectively/)
+
+* [Communication Skills: Use a Teleprompter Effectively](https://coursemetry.com/communication-skills-use-a-teleprompter-effectively/)
+
+* [Presentation Skills: Give a Great Acceptance Speech](https://coursemetry.com/presentation-skills-give-a-great-acceptance-speech/)
+
+* [Public Speaking - High Tech Executives Can be Eloquent](https://coursemetry.com/public-speaking-high-tech-executives-can-be-eloquent/)
+
+* [Personal Branding: You Deliver a Great Elevator Pitch](https://coursemetry.com/personal-branding-you-deliver-a-great-elevator-pitch/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python-2/)
+
+* [PowerPoint Presentations: Deliver a Non-Boring Presentation](https://coursemetry.com/powerpoint-presentations-deliver-a-non-boring-presentation/)
+
+* [Public Speaking Contests: You Can Win](https://coursemetry.com/public-speaking-contests-you-can-win/)
+
+* [Investing Presentations-Deliver an IPO Roadshow Presentation](https://coursemetry.com/investing-presentations-deliver-an-ipo-roadshow-presentation/)
+
+* [Banish Self Sabotage in just 21 days](https://coursemetry.com/banish-self-sabotage-in-just-21-days/)
+
+* [İlk Yardım Eğitimi - İlk Yardım Yapmayı Öğrenin](https://coursemetry.com/ilk-yardim-egitimi-ilk-yardim-yapmayi-ogrenin/)
+
+* [Public Speaking for High School Students: Speak Well Now](https://coursemetry.com/public-speaking-for-high-school-students-speak-well-now/)
+
+* [Presentation Skills: Give a Great New Business Pitch](https://coursemetry.com/presentation-skills-give-a-great-new-business-pitch/)
+
+* [Journalism Careers: You Can Be a TV Talking Head/Pundit](https://coursemetry.com/journalism-careers-you-can-be-a-tv-talking-head-pundit/)
+
+* [The Guide to Freelancing in the Modern Gig Economy](https://coursemetry.com/the-guide-to-freelancing-in-the-modern-gig-economy/)
+
+* [Teacher Training: Teachers Can Be Great Speakers](https://coursemetry.com/teacher-training-teachers-can-be-great-speakers/)
+
+* [Public Speaking: You Can Speak to Large Audiences](https://coursemetry.com/public-speaking-you-can-speak-to-large-audiences/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
