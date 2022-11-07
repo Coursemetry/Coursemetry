@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published so far on 2022-11-07**
+## **110 Udemy free courses published so far on 2022-11-07**
 
 * [Gender Equality and Women Empowerment](https://coursemetry.com/gender-equality-and-women-empowerment/)
 
@@ -179,6 +179,50 @@
 * [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
 
 * [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
+
+* [Apprendre les bases de PHP et MySQL](https://coursemetry.com/apprendre-les-bases-de-php-et-mysql/)
+
+* [Introdução ao MongoDB com Python](https://coursemetry.com/introducao-ao-mongodb-com-python/)
+
+* [Balance Ball With Resistance Bands: Certification Level 2](https://coursemetry.com/balance-ball-with-resistance-bands-certification-level-2/)
+
+* [[Temel Seviye] MERN Stack Eğitimi](https://coursemetry.com/temel-seviye-mern-stack-egitimi/)
+
+* [Intensivão de SQL (Gratuito)](https://coursemetry.com/intensivao-de-sql-gratuito/)
+
+* [CCNA 200-301 Pre-Exam Practice Tests - Latest Update](https://coursemetry.com/ccna-200-301-pre-exam-practice-tests-latest-update/)
+
+* [Instagram Marketing 2023. How to Promote Your Business!](https://coursemetry.com/instagram-marketing-2023-how-to-promote-your-business/)
+
+* [SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z](https://coursemetry.com/sql-for-data-analytics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-sql-a-z/)
+
+* [Facebook Marketing 2023. Promote Your Business on Facebook!](https://coursemetry.com/facebook-marketing-2023-promote-your-business-on-facebook/)
+
+* [Certified Wireless Network Administrator CWNA Practice Exams](https://coursemetry.com/certified-wireless-network-administrator-cwna-practice-exams/)
+
+* [Microsoft Excel in Hindi - हिंदी में सीखें MS Excel A-Z](https://coursemetry.com/microsoft-excel-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-ms-excel-a-z/)
+
+* [AZ-204: Developing Solutions for MS Azure Practice Exams](https://coursemetry.com/az-204-developing-solutions-for-ms-azure-practice-exams/)
+
+* [Practical Password cracking - Office files | Ethical Hacking](https://coursemetry.com/practical-password-cracking-office-files-ethical-hacking/)
+
+* [Salesforce Certified Platform Developer II Exam/Test 2022](https://coursemetry.com/salesforce-certified-platform-developer-ii-exam-test-2022/)
+
+* [Create a WordPress website with Hostinger!](https://coursemetry.com/create-a-wordpress-website-with-hostinger/)
+
+* [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
+
+* [ACAMS: Certified Anti-Money Laundering Specialist Exam Prep](https://coursemetry.com/acams-certified-anti-money-laundering-specialist-exam-prep/)
+
+* [SEO Strategy 2023. SEO training to TOP rank your website!](https://coursemetry.com/seo-strategy-2023-seo-training-to-top-rank-your-website/)
+
+* [Machine Learning Basics in Hindi हिंदी - Regression Analysis](https://coursemetry.com/machine-learning-basics-in-hindi-%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%80-regression-analysis/)
+
+* [AZ-400 Microsoft Azure DevOps Engineer Expert Practice Exams](https://coursemetry.com/az-400-microsoft-azure-devops-engineer-expert-practice-exams/)
+
+* [Google Analytics, GA4, GTM. How to improve your marketing?](https://coursemetry.com/google-analytics-ga4-gtm-how-to-improve-your-marketing/)
+
+* [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
