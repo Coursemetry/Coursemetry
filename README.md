@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **70 Udemy free courses published so far on 2022-11-07**
+## **88 Udemy free courses published so far on 2022-11-07**
 
 * [Gender Equality and Women Empowerment](https://coursemetry.com/gender-equality-and-women-empowerment/)
 
@@ -143,6 +143,42 @@
 * [How to Make a Ping Pong Ball Launcher](https://coursemetry.com/how-to-make-a-ping-pong-ball-launcher/)
 
 * [Appium with Java and Sauce Labs](https://coursemetry.com/appium-with-java-and-sauce-labs/)
+
+* [Generate Seller Leads and Increase your Profile with Video](https://coursemetry.com/generate-seller-leads-and-increase-your-profile-with-video/)
+
+* [Como Crear un Sitio Web Profesional en 30 minutos WordPress](https://coursemetry.com/como-crear-un-sitio-web-profesional-en-30-minutos-wordpress/)
+
+* [Generate Seller Leads and Get Listings using Direct Mail](https://coursemetry.com/generate-seller-leads-and-get-listings-using-direct-mail/)
+
+* [30 minute financial bootcamp for beginners](https://coursemetry.com/30-minute-financial-bootcamp-for-beginners/)
+
+* [Artificial Neural Networks (ANN) with Keras in Python and R](https://coursemetry.com/artificial-neural-networks-ann-with-keras-in-python-and-r/)
+
+* [Statistics and Probability using Excel - Statistics A to Z](https://coursemetry.com/statistics-and-probability-using-excel-statistics-a-to-z/)
+
+* [Kanban Metrics for Agile teams: Measure & Improve Flow](https://coursemetry.com/kanban-metrics-for-agile-teams-measure-improve-flow/)
+
+* [Master Budgets – Managerial Accounting/Cost Accounting](https://coursemetry.com/master-budgets-managerial-accounting-cost-accounting/)
+
+* [Business Fundamentals & Questions to Answer Before Launching](https://coursemetry.com/business-fundamentals-questions-to-answer-before-launching/)
+
+* [Responsibility Accounting & Performance Measurement](https://coursemetry.com/responsibility-accounting-performance-measurement/)
+
+* [Microsoft Excel Weekender Crash Course](https://coursemetry.com/microsoft-excel-weekender-crash-course/)
+
+* [Flexible Budgets, Standard Costs, & Variance Analysis](https://coursemetry.com/flexible-budgets-standard-costs-variance-analysis/)
+
+* [Professional Scrum with Kanban (PSK I) Certification Prep](https://coursemetry.com/professional-scrum-with-kanban-psk-i-certification-prep/)
+
+* [SVM for Beginners: Support Vector Machines in R Studio](https://coursemetry.com/svm-for-beginners-support-vector-machines-in-r-studio/)
+
+* [ML for Business Managers: Build Regression model in R Studio](https://coursemetry.com/ml-for-business-managers-build-regression-model-in-r-studio/)
+
+* [Financial Statement Analysis – Ratio Analysis](https://coursemetry.com/financial-statement-analysis-ratio-analysis/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
