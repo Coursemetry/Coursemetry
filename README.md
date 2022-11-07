@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published so far on 2022-11-07**
+## **70 Udemy free courses published so far on 2022-11-07**
 
 * [Gender Equality and Women Empowerment](https://coursemetry.com/gender-equality-and-women-empowerment/)
 
@@ -119,6 +119,30 @@
 * [Agile Retrospective: Continuous Improvement+Kaizen wth Scrum](https://coursemetry.com/agile-retrospective-continuous-improvementkaizen-wth-scrum/)
 
 * [Course creation for busy entrepreneurs: #2 - creation hacks](https://coursemetry.com/course-creation-for-busy-entrepreneurs-2-creation-hacks/)
+
+* [AutoCAD 2D. Intensive course](https://coursemetry.com/autocad-2d-intensive-course/)
+
+* [Google Professional Cloud Developer Exams](https://coursemetry.com/google-professional-cloud-developer-exams/)
+
+* [Advanced Amazon KDP: SEO Keyword Research to Rank Number ONE](https://coursemetry.com/advanced-amazon-kdp-seo-keyword-research-to-rank-number-one/)
+
+* [Google Professional Collaboration Engineer Exam](https://coursemetry.com/google-professional-collaboration-engineer-exam/)
+
+* [DevSecOps Dynamic App Sec Testing (DAST) with Handson Demo](https://coursemetry.com/devsecops-dynamic-app-sec-testing-dast-with-handson-demo/)
+
+* [Psychic Mediumship, Mindfulness & Manifestation, Masterclass](https://coursemetry.com/psychic-mediumship-mindfulness-manifestation-masterclass/)
+
+* [Getting Started with Blockchain Solidity and Smart Contracts](https://coursemetry.com/getting-started-with-blockchain-solidity-and-smart-contracts/)
+
+* [Google Professional Cloud Architect Exams](https://coursemetry.com/google-professional-cloud-architect-exams/)
+
+* [Identity Management on Linux FreeIPA IdM](https://coursemetry.com/identity-management-on-linux-freeipa-idm/)
+
+* [Big Data Analysis on AWS and Microsoft Azure](https://coursemetry.com/big-data-analysis-on-aws-and-microsoft-azure/)
+
+* [How to Make a Ping Pong Ball Launcher](https://coursemetry.com/how-to-make-a-ping-pong-ball-launcher/)
+
+* [Appium with Java and Sauce Labs](https://coursemetry.com/appium-with-java-and-sauce-labs/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
