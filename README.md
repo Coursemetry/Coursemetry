@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **43 Udemy free courses published so far on 2022-11-08**
+## **77 Udemy free courses published so far on 2022-11-08**
 
 * [Restaurant Food Photography](https://coursemetry.com/restaurant-food-photography/)
 
@@ -89,6 +89,74 @@
 * [virology 4 you](https://coursemetry.com/virology-4-you/)
 
 * [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [Build Complete 2022 CMS Blog in PHP MySQL Bootstrap & PDO](https://coursemetry.com/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/)
+
+* [Cómo trabajar bajo presión asertivamente](https://coursemetry.com/como-trabajar-bajo-presion-asertivamente/)
+
+* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+
+* [Counselling and Negotiation Skills for Management](https://coursemetry.com/counselling-and-negotiation-skills-for-management/)
+
+* [Practice Exam | AWS SysOps Administrator - Associate + EXP](https://coursemetry.com/practice-exam-aws-sysops-administrator-associate-exp/)
+
+* [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
+
+* [Introduction to Domain Names and Web Hosting - Quick Guide](https://coursemetry.com/introduction-to-domain-names-and-web-hosting-quick-guide/)
+
+* [HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://coursemetry.com/html5-css3-complete-course-build-websites-like-a-pro/)
+
+* [5 Practice exam | AWS Certified Security - Specialty + EXP](https://coursemetry.com/5-practice-exam-aws-certified-security-specialty-exp/)
+
+* [HTML, JavaScript, & Bootstrap - Certification Course](https://coursemetry.com/html-javascript-bootstrap-certification-course/)
+
+* [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
+
+* [AZ-900: Microsoft Azure Fundamentals Exam Preparation](https://coursemetry.com/az-900-microsoft-azure-fundamentals-exam-preparation/)
+
+* [Behaviour Tips for Parents of children with ADHD](https://coursemetry.com/behaviour-tips-for-parents-of-children-with-adhd/)
+
+* [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
+
+* [[Dashboard Microsoft Excel] : Conception Tableau de bord KPI](https://coursemetry.com/dashboard-microsoft-excel-conception-tableau-de-bord-kpi/)
+
+* [Build a Connect-4 Clone in React + JavaScript Foundations](https://coursemetry.com/build-a-connect-4-clone-in-react-javascript-foundations/)
+
+* [Cómo reclutar personal de alto rendimiento asertivamente](https://coursemetry.com/como-reclutar-personal-de-alto-rendimiento-asertivamente/)
+
+* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+
+* [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
+
+* [Entrepreneurship - Ft. Matthew Rolnick of Yaymaker, Groupon](https://coursemetry.com/entrepreneurship-ft-matthew-rolnick-of-yaymaker-groupon/)
+
+* [SUPPLY CHAIN SKILLS : Logistics Optimization Tools - 2022](https://coursemetry.com/supply-chain-skills-logistics-optimization-tools-2022/)
+
+* [MASTERCLASS : ÉCRIRE UN BON EMAIL POUR LA COMMUNICATION PRO](https://coursemetry.com/masterclass-ecrire-un-bon-email-pour-la-communication-pro/)
+
+* [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
+
+* [AWS and Linode: The Ultimate Guide to Cloud Computing [IaaS]](https://coursemetry.com/aws-and-linode-the-ultimate-guide-to-cloud-computing-iaas/)
+
+* [Stress-free Effective Learning for Adults: Crush your goals!](https://coursemetry.com/stress-free-effective-learning-for-adults-crush-your-goals/)
+
+* [5 Practice exam | AWS certified Machine Learning – Specialty](https://coursemetry.com/5-practice-exam-aws-certified-machine-learning-specialty/)
+
+* [How To Make Independent Feature Film On A Budget](https://coursemetry.com/how-to-make-independent-feature-film-on-a-budget/)
+
+* [Adobe Lightroom Classic CC: The Map & Book Module](https://coursemetry.com/adobe-lightroom-classic-cc-the-map-book-module/)
+
+* [Working From Home - Extreme Fitness: Certification Level 1](https://coursemetry.com/working-from-home-extreme-fitness-certification-level-1/)
+
+* [Complete JavaScript, jQuery and React Bootcamp - Hands-On](https://coursemetry.com/complete-javascript-jquery-and-react-bootcamp-hands-on/)
+
+* [MANAGEMENT DU TRANSPORT INTERNATIONAL ET DE LA LOGISTIQUE](https://coursemetry.com/management-du-transport-international-et-de-la-logistique/)
+
+* [WordPress Crash Course: Learn WordPress Fast](https://coursemetry.com/wordpress-crash-course-learn-wordpress-fast/)
+
+* [Complete Reading Music Megacourse: Beginner to Expert](https://coursemetry.com/complete-reading-music-megacourse-beginner-to-expert/)
+
+* [Sell Amazon KDP Low Content Books for Passive Income 2022](https://coursemetry.com/sell-amazon-kdp-low-content-books-for-passive-income-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
