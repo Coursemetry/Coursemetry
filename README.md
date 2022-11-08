@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **77 Udemy free courses published so far on 2022-11-08**
+## **89 Udemy free courses published so far on 2022-11-08**
 
 * [Restaurant Food Photography](https://coursemetry.com/restaurant-food-photography/)
 
@@ -157,6 +157,30 @@
 * [Complete Reading Music Megacourse: Beginner to Expert](https://coursemetry.com/complete-reading-music-megacourse-beginner-to-expert/)
 
 * [Sell Amazon KDP Low Content Books for Passive Income 2022](https://coursemetry.com/sell-amazon-kdp-low-content-books-for-passive-income-2022/)
+
+* [Web Application: Step by Step Guide](https://coursemetry.com/web-application-step-by-step-guide/)
+
+* [Microsoft Excel: Análisis de datos con tablas dinámicas](https://coursemetry.com/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/)
+
+* [Build Unbreakable Self-Discipline in 10 Easy Ways](https://coursemetry.com/build-unbreakable-self-discipline-in-10-easy-ways/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +](https://coursemetry.com/microsoft-excel-intermedio-funciones-tablas-dinamicas-y/)
+
+* [SQL: Creación de Bases de Datos (De cero a profesional)](https://coursemetry.com/sql-creacion-de-bases-de-datos-de-cero-a-profesional/)
+
+* [R Studio: Empieza desde cero](https://coursemetry.com/r-studio-empieza-desde-cero/)
+
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
+
+* [Linux Command Line Terminal Basic for Beginners (In Hindi)](https://coursemetry.com/linux-command-line-terminal-basic-for-beginners-in-hindi/)
+
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
+
+* [Real time Automation+Manual Interview Questions with Answers](https://coursemetry.com/real-time-automationmanual-interview-questions-with-answers/)
+
+* [Twitter Chat Bot in Python 2022 from Scratch.](https://coursemetry.com/twitter-chat-bot-in-python-2022-from-scratch/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
