@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **89 Udemy free courses published so far on 2022-11-08**
+## **98 Udemy free courses published so far on 2022-11-08**
 
 * [Restaurant Food Photography](https://coursemetry.com/restaurant-food-photography/)
 
@@ -181,6 +181,24 @@
 * [Real time Automation+Manual Interview Questions with Answers](https://coursemetry.com/real-time-automationmanual-interview-questions-with-answers/)
 
 * [Twitter Chat Bot in Python 2022 from Scratch.](https://coursemetry.com/twitter-chat-bot-in-python-2022-from-scratch/)
+
+* [Python for Data Science & Machine Learning: Zero to Hero](https://coursemetry.com/python-for-data-science-machine-learning-zero-to-hero/)
+
+* [AutoCAD 2023 MasterClass: Produce Amazing Site Plans Quickly](https://coursemetry.com/autocad-2023-masterclass-produce-amazing-site-plans-quickly/)
+
+* [AZ-900: Microsoft Azure Fundamentals + FULL Practice Exam!](https://coursemetry.com/az-900-microsoft-azure-fundamentals-full-practice-exam/)
+
+* [Deep Learning for algorithmic trading using Python](https://coursemetry.com/deep-learning-for-algorithmic-trading-using-python/)
+
+* [No Oil Cooking Recipes - Eat Healthy! Live Strong!](https://coursemetry.com/no-oil-cooking-recipes-eat-healthy-live-strong/)
+
+* [Python And Flask Framework Complete Course For Beginners](https://coursemetry.com/python-and-flask-framework-complete-course-for-beginners/)
+
+* [SEO - The Complete SEO Course Beginners to Advanced 2022](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2022/)
+
+* [Instagram Influencer Marketing 2022: Grow & Monetize](https://coursemetry.com/instagram-influencer-marketing-2022-grow-monetize/)
+
+* [Algorithmic Trading with Python: Technical Analysis Strategy](https://coursemetry.com/algorithmic-trading-with-python-technical-analysis-strategy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
