@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **98 Udemy free courses published so far on 2022-11-08**
+## **108 Udemy free courses published so far on 2022-11-08**
 
 * [Restaurant Food Photography](https://coursemetry.com/restaurant-food-photography/)
 
@@ -199,6 +199,26 @@
 * [Instagram Influencer Marketing 2022: Grow & Monetize](https://coursemetry.com/instagram-influencer-marketing-2022-grow-monetize/)
 
 * [Algorithmic Trading with Python: Technical Analysis Strategy](https://coursemetry.com/algorithmic-trading-with-python-technical-analysis-strategy/)
+
+* [Law of Diminishing Marginal Utility](https://coursemetry.com/law-of-diminishing-marginal-utility/)
+
+* [Color Grading Using Look Up Tables in Photoshop](https://coursemetry.com/color-grading-using-look-up-tables-in-photoshop/)
+
+* [Become an Instagram Manager and Work with Paying Clients](https://coursemetry.com/become-an-instagram-manager-and-work-with-paying-clients/)
+
+* [Gatsby JS | Build a personal blog using gatsbyJS](https://coursemetry.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/)
+
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [Clickbank Affiliate Marketing ve Pasif Gelir Nasıl Oluşur](https://coursemetry.com/clickbank-affiliate-marketing-ve-pasif-gelir-nasil-olusur/)
+
+* [Shopify Bootcamp From 0 Step By Step Store Manage](https://coursemetry.com/shopify-bootcamp-from-0-step-by-step-store-manage/)
+
+* [The Art Of Persuasion](https://coursemetry.com/the-art-of-persuasion/)
+
+* [Instagram Marketing 2022: Attract clients on Instagram](https://coursemetry.com/instagram-marketing-2022-attract-clients-on-instagram/)
+
+* [Fundamental Question on Application of Ethical Hacking](https://coursemetry.com/fundamental-question-on-application-of-ethical-hacking/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
