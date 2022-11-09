@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-11-09**
+## **79 Udemy free courses published so far on 2022-11-09**
 
 * [RoboAuthor: Content Writing Automation 2022 - Part 13](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-13/)
 
@@ -129,6 +129,38 @@
 * [Certified Kubernetes Security Specialist (CKS) Practice Exam](https://coursemetry.com/certified-kubernetes-security-specialist-cks-practice-exam/)
 
 * [EX447: Ansible Certified Specialist in Advanced Automation](https://coursemetry.com/ex447-ansible-certified-specialist-in-advanced-automation/)
+
+* [230+ Exercises - Python for Data Science - NumPy + Pandas](https://coursemetry.com/230-exercises-python-for-data-science-numpy-pandas/)
+
+* [AWS Certified Cloud Practitioner - Practice Exams - 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022-2/)
+
+* [Google Professional Cloud Architect - GCP PCA - Exams - 2022](https://coursemetry.com/google-professional-cloud-architect-gcp-pca-exams-2022/)
+
+* [Google Professional Cloud Developer - GCP PCD - Exams - 2022](https://coursemetry.com/google-professional-cloud-developer-gcp-pcd-exams-2022/)
+
+* [Google Associate Cloud Engineer - GCP ACE - Exams - 2022](https://coursemetry.com/google-associate-cloud-engineer-gcp-ace-exams-2022/)
+
+* [Certified MongoDB Database Administrator - Practice Tests](https://coursemetry.com/certified-mongodb-database-administrator-practice-tests/)
+
+* [Certified MongoDB Developer -  C100DEV Practice Tests - 2022](https://coursemetry.com/certified-mongodb-developer-c100dev-practice-tests-2022/)
+
+* [Certified Data Scientist - Practice Tests - 2022](https://coursemetry.com/certified-data-scientist-practice-tests-2022/)
+
+* [100+ Exercises - Advanced Python Programming - 2022](https://coursemetry.com/100-exercises-advanced-python-programming-2022/)
+
+* [150+ Exercises - Data Structures in Python - Hands-On - 2022](https://coursemetry.com/150-exercises-data-structures-in-python-hands-on-2022/)
+
+* [110+ Exercises - Python + SQL (sqlite3) - SQLite Databases](https://coursemetry.com/110-exercises-python-sql-sqlite3-sqlite-databases/)
+
+* [Certified Python Developer - Practice Tests - 2022](https://coursemetry.com/certified-python-developer-practice-tests-2022/)
+
+* [Certified SQL Developer - Practice Tests - 2022](https://coursemetry.com/certified-sql-developer-practice-tests-2022/)
+
+* [Certified Git Software Developer - Practice Tests - 2022](https://coursemetry.com/certified-git-software-developer-practice-tests-2022/)
+
+* [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist-2/)
+
+* [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
