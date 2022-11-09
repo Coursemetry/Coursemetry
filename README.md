@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **120 Udemy free courses published so far on 2022-11-09**
+## **124 Udemy free courses published so far on 2022-11-09**
 
 * [RoboAuthor: Content Writing Automation 2022 - Part 13](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-13/)
 
@@ -243,6 +243,14 @@
 * [Human Intelligence HUMINT 101 Certification Course](https://coursemetry.com/human-intelligence-humint-101-certification-course/)
 
 * [How to fix low back pain at your desk | Quick & Easy](https://coursemetry.com/how-to-fix-low-back-pain-at-your-desk-quick-easy/)
+
+* [Learn copywriting: How To Write An 'About' Webpage](https://coursemetry.com/learn-copywriting-how-to-write-an-about-webpage/)
+
+* [Why Writing A Website Feels So Hard..And what To do About It](https://coursemetry.com/why-writing-a-website-feels-so-hard-and-what-to-do-about-it/)
+
+* [Figma UIUX Projects](https://coursemetry.com/figma-uiux-projects/)
+
+* [Data Visualization Guide](https://coursemetry.com/data-visualization-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
