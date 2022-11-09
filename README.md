@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published so far on 2022-11-09**
+## **120 Udemy free courses published so far on 2022-11-09**
 
 * [RoboAuthor: Content Writing Automation 2022 - Part 13](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-13/)
 
@@ -161,6 +161,88 @@
 * [Becoming A Recruitment And Selection Specialist](https://coursemetry.com/becoming-a-recruitment-and-selection-specialist-2/)
 
 * [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
+
+* [Excel - Formulas & Functions Beginner to Expert Course 2022](https://coursemetry.com/excel-formulas-functions-beginner-to-expert-course-2022/)
+
+* [Social media marketing strategy 2023. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2023-launch-your-smm/)
+
+* [Curso Teoría de la música I: teoría musical (solfeo)](https://coursemetry.com/curso-teoria-de-la-musica-i-teoria-musical-solfeo/)
+
+* [Office Administration Management](https://coursemetry.com/office-administration-management/)
+
+* [Google Analytics Certification. How to Pass the Exam](https://coursemetry.com/google-analytics-certification-how-to-pass-the-exam/)
+
+* [Postgraduate Diploma: CRM Platform Expert](https://coursemetry.com/postgraduate-diploma-crm-platform-expert/)
+
+* [Viral YouTube Marketing - Crash Course + Live Class](https://coursemetry.com/viral-youtube-marketing-crash-course-live-class/)
+
+* [Affiliate Marketing Supremacy. Learn Affiliate Marketing](https://coursemetry.com/affiliate-marketing-supremacy-learn-affiliate-marketing/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://coursemetry.com/learn-audo-studio-ai-powered-noise-cancellation-tool-2022/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Certified Lead Generation Professional | List Building Easy!](https://coursemetry.com/certified-lead-generation-professional-list-building-easy/)
+
+* [Mit Online Marketing Dein Business aufbauen ohne Vorwissen!](https://coursemetry.com/mit-online-marketing-dein-business-aufbauen-ohne-vorwissen/)
+
+* [Postgraduate Executive Diploma: Consumer Lending Business](https://coursemetry.com/postgraduate-executive-diploma-consumer-lending-business/)
+
+* [Public Relations: Crisis Communications Oil and Gas Industry](https://coursemetry.com/public-relations-crisis-communications-oil-and-gas-industry/)
+
+* [Google Ads 2023. How to drive sales with PPC!](https://coursemetry.com/google-ads-2023-how-to-drive-sales-with-ppc/)
+
+* [Email Marketing 2023. Increase sales with Email Marketing!](https://coursemetry.com/email-marketing-2023-increase-sales-with-email-marketing/)
+
+* [Scrum Master PSM II Certification Prep - Agile 2022 (PSM 2)](https://coursemetry.com/scrum-master-psm-ii-certification-prep-agile-2022-psm-2/)
+
+* [Learn Microsoft SQL Server from Scratch](https://coursemetry.com/learn-microsoft-sql-server-from-scratch/)
+
+* [Candlestick Patterns master class of stock market (13 hour)](https://coursemetry.com/candlestick-patterns-master-class-of-stock-market-13-hour/)
+
+* [Salary Negotiation - How to Ask for and Receive a Pay Raise](https://coursemetry.com/salary-negotiation-how-to-ask-for-and-receive-a-pay-raise/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+
+* [Image Super-Resolution using CNN with Keras in Python](https://coursemetry.com/image-super-resolution-using-cnn-with-keras-in-python/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [Ms Excel/Excel 2022 - The Complete Introduction to Excel](https://coursemetry.com/ms-excel-excel-2022-the-complete-introduction-to-excel/)
+
+* [Learn options trading in detail |  Earn continue profit](https://coursemetry.com/learn-options-trading-in-detail-earn-continue-profit/)
+
+* [The Complete Computer Basics Guide for Beginners: 2022](https://coursemetry.com/the-complete-computer-basics-guide-for-beginners-2022/)
+
+* [Learn Big Data Basics](https://coursemetry.com/learn-big-data-basics/)
+
+* [Lego eBay Selling: Dropship, Sell & Buy Lego Sets for Profit](https://coursemetry.com/lego-ebay-selling-dropship-sell-buy-lego-sets-for-profit/)
+
+* [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
+
+* [Complete Character Design Megacourse: Beginner to Expert](https://coursemetry.com/complete-character-design-megacourse-beginner-to-expert/)
+
+* [Lego MOC: Create Your Own Custom Creations Video Tutorials](https://coursemetry.com/lego-moc-create-your-own-custom-creations-video-tutorials/)
+
+* [MicroSoft Teams Masterclass: Connect With MS Teams](https://coursemetry.com/microsoft-teams-masterclass-connect-with-ms-teams/)
+
+* [Google Cloud Professional Data Engineer - GCP - Exams - 2022](https://coursemetry.com/google-cloud-professional-data-engineer-gcp-exams-2022/)
+
+* [Google My Business. How to Master Powerful Tool for Company](https://coursemetry.com/google-my-business-how-to-master-powerful-tool-for-company/)
+
+* [How to Deal With Tough Times | Problem Solving Skills](https://coursemetry.com/how-to-deal-with-tough-times-problem-solving-skills/)
+
+* [Make Money From Home: 12 EASY Options to Make Money Now](https://coursemetry.com/make-money-from-home-12-easy-options-to-make-money-now/)
+
+* [Effective Time Management For Professionals](https://coursemetry.com/effective-time-management-for-professionals/)
+
+* [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
+
+* [Human Intelligence HUMINT 101 Certification Course](https://coursemetry.com/human-intelligence-humint-101-certification-course/)
+
+* [How to fix low back pain at your desk | Quick & Easy](https://coursemetry.com/how-to-fix-low-back-pain-at-your-desk-quick-easy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
