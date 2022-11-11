@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **52 Udemy free courses published so far on 2022-11-11**
+## **63 Udemy free courses published so far on 2022-11-11**
 
 * [Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/become-a-certified-node-js-developer-practice-tests/)
 
@@ -107,6 +107,28 @@
 * [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
 
 * [Mastering The Interview](https://coursemetry.com/mastering-the-interview-2/)
+
+* [PHP for Beginners 2022: The Complete PHP MySQL PDO Course](https://coursemetry.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/)
+
+* [Cisco CCNA 200-301 Certification Practice Test](https://coursemetry.com/cisco-ccna-200-301-certification-practice-test/)
+
+* [How To Draw - Anatomy and Figure Drawing - Ultimate Course](https://coursemetry.com/how-to-draw-anatomy-and-figure-drawing-ultimate-course/)
+
+* [Building Bulk SQL Queries with Excel ,SQL, Oracle, TOAD](https://coursemetry.com/building-bulk-sql-queries-with-excel-sql-oracle-toad/)
+
+* [How to Use SQL with Microsoft Access](https://coursemetry.com/how-to-use-sql-with-microsoft-access/)
+
+* [Microsoft SQL Stored Procedures for beginners](https://coursemetry.com/microsoft-sql-stored-procedures-for-beginners/)
+
+* [Automate Data Extraction and Web Scraping using Python](https://coursemetry.com/automate-data-extraction-and-web-scraping-using-python/)
+
+* [Build a Web App with Python , Django , SQLite](https://coursemetry.com/build-a-web-app-with-python-django-sqlite/)
+
+* [Introduction to Graphic Design](https://coursemetry.com/introduction-to-graphic-design/)
+
+* [Learn Adobe After Effects and Adobe Photoshop](https://coursemetry.com/learn-adobe-after-effects-and-adobe-photoshop/)
+
+* [Adding Blockchain to a Unity Game](https://coursemetry.com/adding-blockchain-to-a-unity-game/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
