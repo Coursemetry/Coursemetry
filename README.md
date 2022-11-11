@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **110 Udemy free courses published so far on 2022-11-11**
+## **134 Udemy free courses published so far on 2022-11-11**
 
 * [Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/become-a-certified-node-js-developer-practice-tests/)
 
@@ -223,6 +223,54 @@
 * [Secure coding in Java with Web Application Examples](https://coursemetry.com/secure-coding-in-java-with-web-application-examples/)
 
 * [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
+
+* [Altium PCB Design: Learn by building Circuits](https://coursemetry.com/altium-pcb-design-learn-by-building-circuits/)
+
+* [How to Make Difficult Things Easy](https://coursemetry.com/how-to-make-difficult-things-easy/)
+
+* [Gestión Del Tiempo: Productividad y Planificación Objetivos](https://coursemetry.com/gestion-del-tiempo-productividad-y-planificacion-objetivos/)
+
+* [Software architecture](https://coursemetry.com/software-architecture/)
+
+* [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
+
+* [Adobe Illustrator Ultimate Guide](https://coursemetry.com/adobe-illustrator-ultimate-guide/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Link building 2023. Build links that boost the site traffic!](https://coursemetry.com/link-building-2023-build-links-that-boost-the-site-traffic/)
+
+* [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
+
+* [Machine Learning From Basic to Advanced](https://coursemetry.com/machine-learning-from-basic-to-advanced/)
+
+* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
+
+* [Introduction to Design Thinking and Product Development](https://coursemetry.com/introduction-to-design-thinking-and-product-development/)
+
+* [NLP Course for Beginner](https://coursemetry.com/nlp-course-for-beginner/)
+
+* [Microsoft 365 Ultimate Guide](https://coursemetry.com/microsoft-365-ultimate-guide/)
+
+* [MySQL Database Development Mastery](https://coursemetry.com/mysql-database-development-mastery/)
+
+* [Visual Studio Code Ultimate Guide](https://coursemetry.com/visual-studio-code-ultimate-guide/)
+
+* [Cómo Crear una Tienda Online con WordPress y WooCommerce](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-y-woocommerce/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [Time Management And Goal Planning: The Productivity Combo](https://coursemetry.com/time-management-and-goal-planning-the-productivity-combo/)
+
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Postgraduate Diploma: Digital Products Management](https://coursemetry.com/postgraduate-diploma-digital-products-management/)
+
+* [Adobe XD Ultimate Guide](https://coursemetry.com/adobe-xd-ultimate-guide/)
+
+* [Complete Financial Trading Technical Analysis  Bootcamp 2022](https://coursemetry.com/complete-financial-trading-technical-analysis-bootcamp-2022/)
+
+* [Microsoft Teams Ultimate Guide](https://coursemetry.com/microsoft-teams-ultimate-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
