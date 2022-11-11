@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published so far on 2022-11-11**
+## **96 Udemy free courses published so far on 2022-11-11**
 
 * [Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/become-a-certified-node-js-developer-practice-tests/)
 
@@ -191,6 +191,10 @@
 * [React JS- Complete Guide for Frontend Web Development [2022]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2022/)
 
 * [IEC 62304 - Medical Devices Software Development & Processes](https://coursemetry.com/iec-62304-medical-devices-software-development-processes/)
+
+* [Photoshop avanzado y sus procesos automatizados](https://coursemetry.com/photoshop-avanzado-y-sus-procesos-automatizados/)
+
+* [Front End Web Development Ultimate Guide](https://coursemetry.com/front-end-web-development-ultimate-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
