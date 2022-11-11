@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **63 Udemy free courses published so far on 2022-11-11**
+## **94 Udemy free courses published so far on 2022-11-11**
 
 * [Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/become-a-certified-node-js-developer-practice-tests/)
 
@@ -129,6 +129,68 @@
 * [Learn Adobe After Effects and Adobe Photoshop](https://coursemetry.com/learn-adobe-after-effects-and-adobe-photoshop/)
 
 * [Adding Blockchain to a Unity Game](https://coursemetry.com/adding-blockchain-to-a-unity-game/)
+
+* [ServiceNow Certified System Administrator (CSA) - Exam](https://coursemetry.com/servicenow-certified-system-administrator-csa-exam/)
+
+* [SAP Business Analytics Essential Training](https://coursemetry.com/sap-business-analytics-essential-training/)
+
+* [Mulesoft Certified Platform Architect (MCPA) Practice Test](https://coursemetry.com/mulesoft-certified-platform-architect-mcpa-practice-test/)
+
+* [AZ-900 : Microsoft Azure Fundamentals Real Exam Questions](https://coursemetry.com/az-900-microsoft-azure-fundamentals-real-exam-questions/)
+
+* [Machine Learning - Practice Test](https://coursemetry.com/machine-learning-practice-test/)
+
+* [CCSP (ISC)² Practice Exam 2022](https://coursemetry.com/ccsp-isc%c2%b2-practice-exam-2022/)
+
+* [AWS Cloud Practitioner Exam [100% Guarantee] Updated NOV2022](https://coursemetry.com/aws-cloud-practitioner-exam-100-guarantee-updated-nov2022/)
+
+* [Management Consulting Skills Mastery](https://coursemetry.com/management-consulting-skills-mastery/)
+
+* [Salesforce ADM-201 Administration Essentials Exam - Test](https://coursemetry.com/salesforce-adm-201-administration-essentials-exam-test/)
+
+* [ITIL 4 Foundation Practice Certification Exam](https://coursemetry.com/itil-4-foundation-practice-certification-exam/)
+
+* [Strategic Macroeconomics for Business & Investing](https://coursemetry.com/strategic-macroeconomics-for-business-investing/)
+
+* [AWS-SysOps Administrator Exam 2022](https://coursemetry.com/aws-sysops-administrator-exam-2022/)
+
+* [Google Sheets - جوجل شيت من الصفر للاحتراف](https://coursemetry.com/google-sheets-%d8%ac%d9%88%d8%ac%d9%84-%d8%b4%d9%8a%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
+
+* [The Complete SAP Analytics Cloud Course 2022](https://coursemetry.com/the-complete-sap-analytics-cloud-course-2022/)
+
+* [Make Laravel and Laravel 8 APIs and Apps fast with blueprint](https://coursemetry.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/)
+
+* [Advanced Amazon KDP: SEO Keyword Research to Rank Number ONE](https://coursemetry.com/advanced-amazon-kdp-seo-keyword-research-to-rank-number-one/)
+
+* [AWS Services for Solutions Architect Associate [2022]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2022/)
+
+* [Risk Measurement & Management - Essential Ideas & Concepts](https://coursemetry.com/risk-measurement-management-essential-ideas-concepts/)
+
+* [ISO 22301:2019 - Business Continuity Management (BCMS)](https://coursemetry.com/iso-223012019-business-continuity-management-bcms/)
+
+* [AWS Certified Cloud Practitioner Practice Exams 2022](https://coursemetry.com/aws-certified-cloud-practitioner-practice-exams-2022/)
+
+* [Check Point Certified Security Administrator Practice Exams](https://coursemetry.com/check-point-certified-security-administrator-practice-exams-6/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [Procreate: All you Need to Know from Beginner to Advanced](https://coursemetry.com/procreate-all-you-need-to-know-from-beginner-to-advanced/)
+
+* [ISO 9001:2015 - Managing Organization's Context (Clause - 4)](https://coursemetry.com/iso-90012015-managing-organizations-context-clause-4/)
+
+* [ISO 31000 - Enterprise Risk Management (ERM) Framework](https://coursemetry.com/iso-31000-enterprise-risk-management-erm-framework/)
+
+* [Excellence in Digital Marketing](https://coursemetry.com/excellence-in-digital-marketing/)
+
+* [ISO 14001:2015 - Environmental Management Systems (EMS)](https://coursemetry.com/iso-140012015-environmental-management-systems-ems/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [Python Programming - From Basics to Advanced level [2022]](https://coursemetry.com/python-programming-from-basics-to-advanced-level-2022/)
+
+* [React JS- Complete Guide for Frontend Web Development [2022]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2022/)
+
+* [IEC 62304 - Medical Devices Software Development & Processes](https://coursemetry.com/iec-62304-medical-devices-software-development-processes/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
