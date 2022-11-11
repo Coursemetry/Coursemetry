@@ -2,87 +2,111 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **40 Udemy free courses published so far on 2022-11-10**
+## **52 Udemy free courses published so far on 2022-11-11**
 
-* [Quantity Surveying Templates for Effective Cost Management](https://coursemetry.com/quantity-surveying-templates-for-effective-cost-management/)
+* [Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/become-a-certified-node-js-developer-practice-tests/)
 
-* [Simplified Statistics](https://coursemetry.com/simplified-statistics/)
+* [Podcasting Secrets Class - Part 1  Podcasting Course Trilogy](https://coursemetry.com/podcasting-secrets-class-part-1-podcasting-course-trilogy/)
 
-* [IFIC Investment Funds in Canada Preview](https://coursemetry.com/ific-investment-funds-in-canada-preview/)
+* [Certified Professional in C++ Programming - Practice Test](https://coursemetry.com/certified-professional-in-c-programming-practice-test-2/)
 
-* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
+* [Shopify Guide: Start your own clothing brand with Shopify](https://coursemetry.com/shopify-guide-start-your-own-clothing-brand-with-shopify/)
 
-* [Robotics System & ROS Foundations](https://coursemetry.com/robotics-system-ros-foundations/)
+* [Podcast with Passion and Inspiration](https://coursemetry.com/podcast-with-passion-and-inspiration/)
 
-* [The Email Etiquette Course - Business Writing With Class](https://coursemetry.com/the-email-etiquette-course-business-writing-with-class/)
+* [Adobe Lightroom For Beginners : Complete Photo/Image Editing](https://coursemetry.com/adobe-lightroom-for-beginners-complete-photo-image-editing/)
 
-* [Retirement Investment Planning in Canada](https://coursemetry.com/retirement-investment-planning-in-canada/)
+* [Oracle Database Architecture - Practice Test](https://coursemetry.com/oracle-database-architecture-practice-test/)
 
-* [Sıfırdan Kodlama Eğitimi ile Programcılığın Mantığını Öğren](https://coursemetry.com/sifirdan-kodlama-egitimi-ile-programciligin-mantigini-ogren/)
+* [Reclaim your power with EFT](https://coursemetry.com/reclaim-your-power-with-eft/)
 
-* [Mastering American Culture and Business for Newcomers](https://coursemetry.com/mastering-american-culture-and-business-for-newcomers/)
+* [【空と水が交わる世界】Unityで綺麗なワールドを作成しClusterメタバースにアップロードする！](https://coursemetry.com/%e3%80%90%e7%a9%ba%e3%81%a8%e6%b0%b4%e3%81%8c%e4%ba%a4%e3%82%8f%e3%82%8b%e4%b8%96%e7%95%8c%e3%80%91unity%e3%81%a7%e7%b6%ba%e9%ba%97%e3%81%aa%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%92%e4%bd%9c/)
 
-* [The Complete Talking Head Video Production Masterclass](https://coursemetry.com/the-complete-talking-head-video-production-masterclass/)
+* [Certified Professional in Python Programming - Practice Test](https://coursemetry.com/certified-professional-in-python-programming-practice-test/)
 
-* [Megacurso de Figma: Diseño UI/UX de principiante a experto](https://coursemetry.com/megacurso-de-figma-diseno-ui-ux-de-principiante-a-experto/)
+* [The Complete Telecommuting Course - Remote Work - Work Life](https://coursemetry.com/the-complete-telecommuting-course-remote-work-work-life/)
 
-* [TikTok for Business: Viral Video Trends for Brand Marketing](https://coursemetry.com/tiktok-for-business-viral-video-trends-for-brand-marketing/)
+* [The Complete Creativity Course: Unleash Your Innovation Now!](https://coursemetry.com/the-complete-creativity-course-unleash-your-innovation-now/)
 
-* [Computer Network Foundations](https://coursemetry.com/computer-network-foundations/)
+* [Complete Willpower Course - Build Self Control & Good Habits](https://coursemetry.com/complete-willpower-course-build-self-control-good-habits/)
 
-* [Facebook Ads & Instagram Ads Course 2023: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2023-the-art-of-selling/)
+* [Become an Instagram Manager and Work with Paying Clients](https://coursemetry.com/become-an-instagram-manager-and-work-with-paying-clients/)
 
-* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
+* [Become A Certified React Developer: Practice Tests](https://coursemetry.com/become-a-certified-react-developer-practice-tests/)
 
-* [The Complete Career Coaching Course - Career Development](https://coursemetry.com/the-complete-career-coaching-course-career-development/)
+* [Complete Google Slides Course - Create Stunning Slides](https://coursemetry.com/complete-google-slides-course-create-stunning-slides/)
 
-* [Airbnb: How to be a Successful Host](https://coursemetry.com/airbnb-how-to-be-a-successful-host/)
+* [The Complete Brain Training Course - Neuroplasticity -](https://coursemetry.com/the-complete-brain-training-course-neuroplasticity/)
 
-* [Best of Copywriting: Copywriting 4 Ecommerce + 46 Templates](https://coursemetry.com/best-of-copywriting-copywriting-4-ecommerce-46-templates/)
+* [The Complete Self-Discipline Course - Control Your Own Life](https://coursemetry.com/the-complete-self-discipline-course-control-your-own-life/)
 
-* [Presentation Skills for Beginners](https://coursemetry.com/presentation-skills-for-beginners/)
+* [Certified LinkedIn Marketing Professional | CPD Accredited](https://coursemetry.com/certified-linkedin-marketing-professional-cpd-accredited/)
 
-* [Introduction to Drinking Water Treatment](https://coursemetry.com/introduction-to-drinking-water-treatment/)
+* [Certified TikTok Marketing Professional | CPD Accredited](https://coursemetry.com/certified-tiktok-marketing-professional-cpd-accredited/)
 
-* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
+* [Instagram Marketing 2022: Attract clients on Instagram](https://coursemetry.com/instagram-marketing-2022-attract-clients-on-instagram/)
 
-* [Certified Instagram Marketing Professional | CPD Accredited](https://coursemetry.com/certified-instagram-marketing-professional-cpd-accredited/)
+* [Partnership Income Tax (Form 1065)](https://coursemetry.com/partnership-income-tax-form-1065/)
 
-* [Just Necessary: Lumion Courses from Basic to Intermediate](https://coursemetry.com/just-necessary-lumion-courses-from-basic-to-intermediate/)
+* [Certified Professional in C# Programming - Practice Test](https://coursemetry.com/certified-professional-in-c-programming-practice-test/)
 
-* [LLQP Exam Preparation Course Preview](https://coursemetry.com/llqp-exam-preparation-course-preview/)
+* [Setup LAMP Stack on a Remote Cloud Server + PHP Foundations](https://coursemetry.com/setup-lamp-stack-on-a-remote-cloud-server-php-foundations/)
 
-* [The Complete Freelancing Course-Upwork Fiverr Home Business](https://coursemetry.com/the-complete-freelancing-course-upwork-fiverr-home-business/)
+* [Complete Organization Masterclass - Organize - Decluttering](https://coursemetry.com/complete-organization-masterclass-organize-decluttering/)
 
-* [Unlock The 3 Keys to Magnetic Abundant Success](https://coursemetry.com/unlock-the-3-keys-to-magnetic-abundant-success/)
+* [Certified Professional in Data Science - Practice Test](https://coursemetry.com/certified-professional-in-data-science-practice-test/)
 
-* [Presentation Skills Training: Great One on One Presentations](https://coursemetry.com/presentation-skills-training-great-one-on-one-presentations/)
+* [Passive Income - 1-Hour Course To Guide Your Financial Path](https://coursemetry.com/passive-income-1-hour-course-to-guide-your-financial-path/)
 
-* [Public Speaking Skills: Deliver Great Technology Talks](https://coursemetry.com/public-speaking-skills-deliver-great-technology-talks/)
+* [Web Development Masterclass - Online Certification Course](https://coursemetry.com/web-development-masterclass-online-certification-course/)
 
-* [Public Speaking for Beginners](https://coursemetry.com/public-speaking-for-beginners/)
+* [Complete Positive Psychology Course Master Positive Thinking](https://coursemetry.com/complete-positive-psychology-course-master-positive-thinking/)
 
-* [Public Speaking for Women](https://coursemetry.com/public-speaking-for-women/)
+* [Complete Gmail Productivity Course -  More Productive Email](https://coursemetry.com/complete-gmail-productivity-course-more-productive-email/)
 
-* [The Complete Day Trading Master Course in Hindi | Intraday](https://coursemetry.com/the-complete-day-trading-master-course-in-hindi-intraday/)
+* [QR Code Generator Using JavaScript](https://coursemetry.com/qr-code-generator-using-javascript/)
 
-* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
+* [Cloud Computing  - Practice Test](https://coursemetry.com/cloud-computing-practice-test/)
 
-* [The Complete Mindfulness Course - Enjoy Life In the Present](https://coursemetry.com/the-complete-mindfulness-course-enjoy-life-in-the-present/)
+* [The Complete Google Forms Course - Sending & Analyzing Forms](https://coursemetry.com/the-complete-google-forms-course-sending-analyzing-forms/)
 
-* [Certified SAFe Scrum Master (SSM) Examinarion || 135+ Q's](https://coursemetry.com/certified-safe-scrum-master-ssm-examinarion-135-qs/)
+* [Fundamentals of Algorithms & Data structure - Practice Test](https://coursemetry.com/fundamentals-of-algorithms-data-structure-practice-test/)
 
-* [Media Training for Financial Service Professionals](https://coursemetry.com/media-training-for-financial-service-professionals/)
+* [Windows 10 (MD-100) Practice Test](https://coursemetry.com/windows-10-md-100-practice-test/)
 
-* [Desarrollando Sistema MiniMarket (C# y Microsoft SQL Server)](https://coursemetry.com/desarrollando-sistema-minimarket-c-y-microsoft-sql-server/)
+* [Negotiation A-Z: Inside Secrets from a Master Negotiator](https://coursemetry.com/negotiation-a-z-inside-secrets-from-a-master-negotiator/)
 
-* [Wordpress Woocommerce İle E-Ticaret Sitesi ve Pazar Yerleri](https://coursemetry.com/wordpress-woocommerce-ile-e-ticaret-sitesi-ve-pazar-yerleri/)
+* [Complete Goal Setting Course - Become Your Own Life Coach](https://coursemetry.com/complete-goal-setting-course-become-your-own-life-coach/)
 
-* [Body Language in the Workplace](https://coursemetry.com/body-language-in-the-workplace/)
+* [Shopify guide: The complete shopify store creation course](https://coursemetry.com/shopify-guide-the-complete-shopify-store-creation-course/)
 
-* [The Complete Leadership Mastery Course](https://coursemetry.com/the-complete-leadership-mastery-course/)
+* [Membership Site Business Success - Step-By-Step Guide](https://coursemetry.com/membership-site-business-success-step-by-step-guide/)
 
-* [The Complete Nonverbal Communication Course - Body Language](https://coursemetry.com/the-complete-nonverbal-communication-course-body-language/)
+* [Professional in advance PHP Language - Practice Test](https://coursemetry.com/professional-in-advance-php-language-practice-test/)
+
+* [Complete Cubase Megacourse: Beginner to Expert](https://coursemetry.com/complete-cubase-megacourse-beginner-to-expert/)
+
+* [The 10 Laws for Personal Success - The Complete Course](https://coursemetry.com/the-10-laws-for-personal-success-the-complete-course/)
+
+* [The Complete Google Sheets Course - Google Spreadsheet Tips](https://coursemetry.com/the-complete-google-sheets-course-google-spreadsheet-tips/)
+
+* [Product Photographer: eCommerce Product Photography Course](https://coursemetry.com/product-photographer-ecommerce-product-photography-course/)
+
+* [Complete Good Sleep Habits Course - Sleep Better Tonight!](https://coursemetry.com/complete-good-sleep-habits-course-sleep-better-tonight/)
+
+* [Certified Professional in PHP Language - Practice Test](https://coursemetry.com/certified-professional-in-php-language-practice-test/)
+
+* [Complete Google Classroom Course: Teaching Google Classroom](https://coursemetry.com/complete-google-classroom-course-teaching-google-classroom/)
+
+* [Become A Certified JavaScript Developer: Practice Tests](https://coursemetry.com/become-a-certified-javascript-developer-practice-tests/)
+
+* [Complete Google Certified Educator Level 1 and 2 Masterclass](https://coursemetry.com/complete-google-certified-educator-level-1-and-2-masterclass/)
+
+* [Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://coursemetry.com/cryptocurrency-trading-for-beginners-learn-click-by-click/)
+
+* [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
+
+* [Mastering The Interview](https://coursemetry.com/mastering-the-interview-2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
