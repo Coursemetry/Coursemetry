@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-11-11**
+## **110 Udemy free courses published so far on 2022-11-11**
 
 * [Become A Certified Node JS Developer: Practice Tests](https://coursemetry.com/become-a-certified-node-js-developer-practice-tests/)
 
@@ -195,6 +195,34 @@
 * [Photoshop avanzado y sus procesos automatizados](https://coursemetry.com/photoshop-avanzado-y-sus-procesos-automatizados/)
 
 * [Front End Web Development Ultimate Guide](https://coursemetry.com/front-end-web-development-ultimate-guide/)
+
+* [OWASP API Security Top 10 2021 with Java Examples](https://coursemetry.com/owasp-api-security-top-10-2021-with-java-examples/)
+
+* [Java Collections Framework + Generics, Lambdas & Stream API](https://coursemetry.com/java-collections-framework-generics-lambdas-stream-api/)
+
+* [Master Multithreading - Concurrency with Java Examples](https://coursemetry.com/master-multithreading-concurrency-with-java-examples/)
+
+* [Microsoft SQL Server Development for Everyone](https://coursemetry.com/microsoft-sql-server-development-for-everyone/)
+
+* [Functional Programming + Lambdas, Method References, Streams](https://coursemetry.com/functional-programming-lambdas-method-references-streams/)
+
+* [Object Oriented Programming - Basics to Advance (Java OOP)](https://coursemetry.com/object-oriented-programming-basics-to-advance-java-oop/)
+
+* [Oracle Certified Associate Java Programmer (OCAJP) 1Z0-808](https://coursemetry.com/oracle-certified-associate-java-programmer-ocajp-1z0-808/)
+
+* [Learn ASP.NET MVC and Entity Framework (Database First)](https://coursemetry.com/learn-asp-net-mvc-and-entity-framework-database-first/)
+
+* [Python 3 Ultimate Guide](https://coursemetry.com/python-3-ultimate-guide/)
+
+* [Learn to Code in Python 3: Programming beginner to advanced](https://coursemetry.com/learn-to-code-in-python-3-programming-beginner-to-advanced/)
+
+* [GoF Design Patterns - Complete Course with Java Examples](https://coursemetry.com/gof-design-patterns-complete-course-with-java-examples/)
+
+* [Adobe Photoshop Photo Editing Ultimate Guide](https://coursemetry.com/adobe-photoshop-photo-editing-ultimate-guide/)
+
+* [Secure coding in Java with Web Application Examples](https://coursemetry.com/secure-coding-in-java-with-web-application-examples/)
+
+* [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
