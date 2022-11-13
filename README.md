@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **73 Udemy free courses published so far on 2022-11-13**
+## **110 Udemy free courses published so far on 2022-11-13**
 
 * [Microsoft Power Automate (Flow) Ultimate Guide](https://coursemetry.com/microsoft-power-automate-flow-ultimate-guide/)
 
@@ -149,6 +149,80 @@
 * [Asana Ultimate Guide](https://coursemetry.com/asana-ultimate-guide/)
 
 * [Corso di WordPress per Content Manager](https://coursemetry.com/corso-di-wordpress-per-content-manager/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [AWS Certified Data Analytics - Specialty Exam (DAS-C01)](https://coursemetry.com/aws-certified-data-analytics-specialty-exam-das-c01/)
+
+* [The Complete Computer Forensics Course for 2022 PRO | CFCT+](https://coursemetry.com/the-complete-computer-forensics-course-for-2022-pro-cfct/)
+
+* [Make Hiring Work](https://coursemetry.com/make-hiring-work/)
+
+* [P.O.W.E.R Resume System: Proven system to get job interviews](https://coursemetry.com/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/)
+
+* [Podcast Host Masterclass](https://coursemetry.com/podcast-host-masterclass/)
+
+* [Learn To Focus: Meditation & Mindfulness For ADHD](https://coursemetry.com/learn-to-focus-meditation-mindfulness-for-adhd/)
+
+* [Salesforce Certified Platform Developer II Exam/Test 2022](https://coursemetry.com/salesforce-certified-platform-developer-ii-exam-test-2022/)
+
+* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
+
+* [Dare to Lead: How to Become a Next Generation Leader](https://coursemetry.com/dare-to-lead-how-to-become-a-next-generation-leader/)
+
+* [Meditation Masterclass: meditation teacher certification](https://coursemetry.com/meditation-masterclass-meditation-teacher-certification/)
+
+* [Salesforce Tableau CRM & Einstein Discovery Consultant Exam](https://coursemetry.com/salesforce-tableau-crm-einstein-discovery-consultant-exam/)
+
+* [Learn CLO3D Fashion: Masterclass (Intermediate to Advanced)](https://coursemetry.com/learn-clo3d-fashion-masterclass-intermediate-to-advanced/)
+
+* [Interview Essentials - Master Your Interview Essentials Now](https://coursemetry.com/interview-essentials-master-your-interview-essentials-now/)
+
+* [The Complete PowerPoint Design and Delivery Course for 2022](https://coursemetry.com/the-complete-powerpoint-design-and-delivery-course-for-2022/)
+
+* [Public Relations Firms: You Can Hire the Best PR Firm](https://coursemetry.com/public-relations-firms-you-can-hire-the-best-pr-firm/)
+
+* [Public Speaking: Give a Great Retirement Speech!](https://coursemetry.com/public-speaking-give-a-great-retirement-speech/)
+
+* [Myyshop-China sourcing course for you to set up online biz](https://coursemetry.com/myyshop-china-sourcing-course-for-you-to-set-up-online-biz/)
+
+* [PostgreSQL Databases & Python](https://coursemetry.com/postgresql-databases-python/)
+
+* [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
+
+* [The Complete Daily Positive Habits Building Course](https://coursemetry.com/the-complete-daily-positive-habits-building-course/)
+
+* [Systems Design Foundations](https://coursemetry.com/systems-design-foundations/)
+
+* [49 Weight Loss Tips You Can Stick To Forever - Be Thinner](https://coursemetry.com/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/)
+
+* [Automotive Mechanic Training Certificated Electrical | 2022+](https://coursemetry.com/automotive-mechanic-training-certificated-electrical-2022/)
+
+* [Google Forms Ultimate Guide](https://coursemetry.com/google-forms-ultimate-guide/)
+
+* [Myyshop - Howto sell on Tiktok 0 investment](https://coursemetry.com/myyshop-howto-sell-on-tiktok-0-investment/)
+
+* [Basic Interviewing Skills - Master Basic Interviewing Skills](https://coursemetry.com/basic-interviewing-skills-master-basic-interviewing-skills/)
+
+* [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
+
+* [cPanel Ultimate Guide](https://coursemetry.com/cpanel-ultimate-guide/)
+
+* [Evernote Ultimate Guide](https://coursemetry.com/evernote-ultimate-guide/)
+
+* [Myyshop - 90% margin dropshipping strategy and program](https://coursemetry.com/myyshop-90-margin-dropshipping-strategy-and-program/)
+
+* [Visual Studio 2022 C# - Nivel Básico](https://coursemetry.com/visual-studio-2022-c-nivel-basico/)
+
+* [Dieting - Nutrition -Weight Loss Tips for Good Healthy Life](https://coursemetry.com/dieting-nutrition-weight-loss-tips-for-good-healthy-life/)
+
+* [jQuery Ultimate Guide](https://coursemetry.com/jquery-ultimate-guide/)
+
+* [Google Drive Ultimate Guide](https://coursemetry.com/google-drive-ultimate-guide/)
+
+* [Graphic Design Certification + Live Class](https://coursemetry.com/graphic-design-certification-live-class/)
+
+* [Role of Procurement in EPC Construction Projects](https://coursemetry.com/role-of-procurement-in-epc-construction-projects/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
