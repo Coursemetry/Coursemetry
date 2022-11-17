@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **84 Udemy free courses published so far on 2022-11-17**
+## **119 Udemy free courses published so far on 2022-11-17**
 
 * [Complete Goal Achievement Course - Personal Success Goals](https://coursemetry.com/complete-goal-achievement-course-personal-success-goals/)
 
@@ -35,8 +35,6 @@
 * [Desarrolla en PHP un Poderoso CMS  para enlaces de WSP](https://coursemetry.com/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/)
 
 * [Gestión Del Tiempo: Productividad y Planificación Objetivos](https://coursemetry.com/gestion-del-tiempo-productividad-y-planificacion-objetivos/)
-
-* [RoboAuthor: Content Writing Automation 2022 - Part 13](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-13/)
 
 * [Power BI: 8 Proyectos reales para volverte un master](https://coursemetry.com/power-bi-8-proyectos-reales-para-volverte-un-master/)
 
@@ -171,6 +169,78 @@
 * [Day Trading the Stock Market - Crash Course](https://coursemetry.com/day-trading-the-stock-market-crash-course/)
 
 * [Data Structures and Algorithms In C++](https://coursemetry.com/data-structures-and-algorithms-in-c/)
+
+* [Artificial Intelligence in Web Design + Live Class](https://coursemetry.com/artificial-intelligence-in-web-design-live-class/)
+
+* [Three.js Basics Guide](https://coursemetry.com/three-js-basics-guide/)
+
+* [QuickBooks Pro Desktop 2023, 2022, & 2020](https://coursemetry.com/quickbooks-pro-desktop-2023-2022-2020/)
+
+* [Internet and Web Development Fundamentals](https://coursemetry.com/internet-and-web-development-fundamentals/)
+
+* [Sales Skills Training: Explode Your Sales with Online Video](https://coursemetry.com/sales-skills-training-explode-your-sales-with-online-video/)
+
+* [Entrenamiento de Base de Datos Microsoft SQL Server](https://coursemetry.com/entrenamiento-de-base-de-datos-microsoft-sql-server/)
+
+* [Slack Ultimate Guide](https://coursemetry.com/slack-ultimate-guide/)
+
+* [Tailwind CSS en 1h: Maîtriser ce puissant framework CSS](https://coursemetry.com/tailwind-css-en-1h-maitriser-ce-puissant-framework-css/)
+
+* [Copywriting & Content Marketing Course: Be a Pro Copywriter](https://coursemetry.com/copywriting-content-marketing-course-be-a-pro-copywriter/)
+
+* [Server Infrastructure Basics Guide](https://coursemetry.com/server-infrastructure-basics-guide/)
+
+* [Introduction to Forex- learn to trade forex by yourself](https://coursemetry.com/introduction-to-forex-learn-to-trade-forex-by-yourself/)
+
+* [ضريبة القيمة المضافة بالسعودية VAT in Saudi Arabia](https://coursemetry.com/%d8%b6%d8%b1%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d9%82%d9%8a%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%b6%d8%a7%d9%81%d8%a9-%d8%a8%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-vat-in-saudi-arabia/)
+
+* [Income Tax Selling Your Home](https://coursemetry.com/income-tax-selling-your-home/)
+
+* [Wordpress Create Your Own Website 2022!](https://coursemetry.com/wordpress-create-your-own-website-2022/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
+
+* [SVG Ultimate Guide](https://coursemetry.com/svg-ultimate-guide/)
+
+* [Learn jQuery - For Beginners](https://coursemetry.com/learn-jquery-for-beginners/)
+
+* [Shopify Dropshipping Store Development | Beginners to Expert](https://coursemetry.com/shopify-dropshipping-store-development-beginners-to-expert/)
+
+* [Trello Ultimate Guide](https://coursemetry.com/trello-ultimate-guide/)
+
+* [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
+
+* [Sublime Text 3 Basics Guide](https://coursemetry.com/sublime-text-3-basics-guide/)
+
+* [Proceso CRUD (C Sharp y Microsoft Access)](https://coursemetry.com/proceso-crud-c-sharp-y-microsoft-access/)
+
+* [Real Fast Podcast into Best Selling Kindle Books Easily](https://coursemetry.com/real-fast-podcast-into-best-selling-kindle-books-easily/)
+
+* [Adobe Lightroom Classic CC: Master the Develop Module](https://coursemetry.com/adobe-lightroom-classic-cc-master-the-develop-module/)
+
+* [Artificial Intelligence in Digital Marketing + Live Class](https://coursemetry.com/artificial-intelligence-in-digital-marketing-live-class/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 13](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-13/)
+
+* [Open Broadcaster Basics Guide](https://coursemetry.com/open-broadcaster-basics-guide/)
+
+* [HTML, CSS, & Bootstrap - Certification Course for Beginners](https://coursemetry.com/html-css-bootstrap-certification-course-for-beginners/)
+
+* [Microsoft Sway Basics Guide](https://coursemetry.com/microsoft-sway-basics-guide/)
+
+* [Windows Command Line Basics Guide](https://coursemetry.com/windows-command-line-basics-guide/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [Microsoft Word Ultimate Guide](https://coursemetry.com/microsoft-word-ultimate-guide/)
+
+* [Programming For Beginners and Kids (Python & Blocks) Arabic](https://coursemetry.com/programming-for-beginners-and-kids-python-blocks-arabic/)
+
+* [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
+
+* [Learn XML-AJAX - For Beginners](https://coursemetry.com/learn-xml-ajax-for-beginners/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
