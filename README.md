@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **68 Udemy free courses published so far on 2022-11-20**
+## **78 Udemy free courses published so far on 2022-11-20**
 
 * [Web Applications Step by Step Guide Part-2](https://coursemetry.com/web-applications-step-by-step-guide-part-2/)
 
@@ -139,6 +139,26 @@
 * [ÖZEL SİSTEM UZMANLIĞI + IP Adresleri ve Bilgisayar Ağları](https://coursemetry.com/ozel-sistem-uzmanligi-ip-adresleri-ve-bilgisayar-aglari/)
 
 * [SIFIRDAN WİNDOWS SERVER VE SİSTEM YÖNETİCİLİĞİ EĞİTİMİ -2022](https://coursemetry.com/sifirdan-windows-server-ve-sistem-yoneticiligi-egitimi-2022/)
+
+* [Emotional Intelligence for Software Engineers and Developers](https://coursemetry.com/emotional-intelligence-for-software-engineers-and-developers/)
+
+* [Work-Life Balance Can Be One of Your Superpowers for Good](https://coursemetry.com/work-life-balance-can-be-one-of-your-superpowers-for-good/)
+
+* [Easy Christmas Candy Cane Watercolor Gift Painting Course](https://coursemetry.com/easy-christmas-candy-cane-watercolor-gift-painting-course/)
+
+* [Build Your Own File Sharing Website](https://coursemetry.com/build-your-own-file-sharing-website/)
+
+* [CSS Crash Course For Beginners](https://coursemetry.com/css-crash-course-for-beginners/)
+
+* [Teaching in Adult Education](https://coursemetry.com/teaching-in-adult-education/)
+
+* [JavaScript + Gratis Software Facturación e Inventarios](https://coursemetry.com/javascript-gratis-software-facturacion-e-inventarios/)
+
+* [Maîtrisez l'informatique - Astuces et Outils incontournables](https://coursemetry.com/maitrisez-linformatique-astuces-et-outils-incontournables/)
+
+* [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
+
+* [Software architecture](https://coursemetry.com/software-architecture/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
