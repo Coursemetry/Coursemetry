@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **84 Udemy free courses published so far on 2022-11-23**
+## **109 Udemy free courses published so far on 2022-11-23**
 
 * [Desarrollando Sistema MiniMarket (C# y Microsoft SQL Server)](https://coursemetry.com/desarrollando-sistema-minimarket-c-y-microsoft-sql-server/)
 
@@ -171,6 +171,56 @@
 * [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
 
 * [Adobe Photoshop Layer Style Basics Guide](https://coursemetry.com/adobe-photoshop-layer-style-basics-guide/)
+
+* [Modern Niche Marketing: Niche Website for Beginners!](https://coursemetry.com/modern-niche-marketing-niche-website-for-beginners/)
+
+* [learn Portuguese - simply through music](https://coursemetry.com/learn-portuguese-simply-through-music/)
+
+* [Entrená tu Legado.  Para Padres de Deportistas.](https://coursemetry.com/entrena-tu-legado-para-padres-de-deportistas/)
+
+* [Xamarin básico: Una introducción al SDK de Microsoft](https://coursemetry.com/xamarin-basico-una-introduccion-al-sdk-de-microsoft/)
+
+* [Complete Guide to Pinterest & Pinterest Growth 2022](https://coursemetry.com/complete-guide-to-pinterest-pinterest-growth-2022/)
+
+* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
+
+* [3ds max Modellazione in PolySnowV4](https://coursemetry.com/3ds-max-modellazione-in-polysnowv4/)
+
+* [Learn To Focus: Meditation & Mindfulness For ADHD](https://coursemetry.com/learn-to-focus-meditation-mindfulness-for-adhd/)
+
+* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
+
+* [Google Professional Cloud Architect Practice Exams late 2022](https://coursemetry.com/google-professional-cloud-architect-practice-exams-late-2022/)
+
+* [Youth Sports Parenting Blueprint](https://coursemetry.com/youth-sports-parenting-blueprint/)
+
+* [apprendre l'anglais - simplement par la musique](https://coursemetry.com/apprendre-langlais-simplement-par-la-musique/)
+
+* [Affiliate Marketing Supremacy. Learn Affiliate Marketing](https://coursemetry.com/affiliate-marketing-supremacy-learn-affiliate-marketing/)
+
+* [Google Professional Data Engineer Practice Exams - Late 2022](https://coursemetry.com/google-professional-data-engineer-practice-exams-late-2022/)
+
+* [Meditation Masterclass: meditation teacher certification](https://coursemetry.com/meditation-masterclass-meditation-teacher-certification/)
+
+* [apprendre le portugais - simplement par la musique](https://coursemetry.com/apprendre-le-portugais-simplement-par-la-musique/)
+
+* [3ds max Modellazione in PolyDamage.](https://coursemetry.com/3ds-max-modellazione-in-polydamage/)
+
+* [Sell Amazon KDP Low Content Books for Passive Income 2022](https://coursemetry.com/sell-amazon-kdp-low-content-books-for-passive-income-2022/)
+
+* [Profit Map 2.0: The Beginner's Guide to Instagram Marketing](https://coursemetry.com/profit-map-2-0-the-beginners-guide-to-instagram-marketing/)
+
+* [Siber Güvenliğe Giriş Eğitimi](https://coursemetry.com/siber-guvenlige-giris-egitimi/)
+
+* [Google Professional Machine Learning Engineer Practice Exams](https://coursemetry.com/google-professional-machine-learning-engineer-practice-exams-3/)
+
+* [Digital Nomad: How to find Freelancing Opportunities in 2022](https://coursemetry.com/digital-nomad-how-to-find-freelancing-opportunities-in-2022/)
+
+* [Adobe Photoshop CC- Basic Photoshop training](https://coursemetry.com/adobe-photoshop-cc-basic-photoshop-training/)
+
+* [ISC Certified Cloud Security Professional CCSP - Exams 2022](https://coursemetry.com/isc-certified-cloud-security-professional-ccsp-exams-2022/)
+
+* [IIBA Certified Business Analysis Professional Practice Exams](https://coursemetry.com/iiba-certified-business-analysis-professional-practice-exams-2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
