@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **109 Udemy free courses published so far on 2022-11-23**
+## **131 Udemy free courses published so far on 2022-11-23**
 
 * [Desarrollando Sistema MiniMarket (C# y Microsoft SQL Server)](https://coursemetry.com/desarrollando-sistema-minimarket-c-y-microsoft-sql-server/)
 
@@ -221,6 +221,50 @@
 * [ISC Certified Cloud Security Professional CCSP - Exams 2022](https://coursemetry.com/isc-certified-cloud-security-professional-ccsp-exams-2022/)
 
 * [IIBA Certified Business Analysis Professional Practice Exams](https://coursemetry.com/iiba-certified-business-analysis-professional-practice-exams-2/)
+
+* [Python Programming Beyond The Basics & Intermediate Training](https://coursemetry.com/python-programming-beyond-the-basics-intermediate-training/)
+
+* [ITIL 4 Foundation Practice Exams - Late 2022](https://coursemetry.com/itil-4-foundation-practice-exams-late-2022/)
+
+* [Microsoft Excel - Excel Only For Beginners 2022](https://coursemetry.com/microsoft-excel-excel-only-for-beginners-2022/)
+
+* [The Python Programming Comprehensive Bootcamp](https://coursemetry.com/the-python-programming-comprehensive-bootcamp/)
+
+* [JSF Basics Guide](https://coursemetry.com/jsf-basics-guide/)
+
+* [Build Successful E-Commerce Stores with WordPress & Woostify](https://coursemetry.com/build-successful-e-commerce-stores-with-wordpress-woostify/)
+
+* [Intermediate Python Immersive Training | Boost your career](https://coursemetry.com/intermediate-python-immersive-training-boost-your-career/)
+
+* [Master Course of Hospitality Marketing](https://coursemetry.com/master-course-of-hospitality-marketing/)
+
+* [The Python Programming For Everyone Immersive Training](https://coursemetry.com/the-python-programming-for-everyone-immersive-training/)
+
+* [Oracle 1Z0-071 Practice Tests | Oracle Database 12C | SQL](https://coursemetry.com/oracle-1z0-071-practice-tests-oracle-database-12c-sql/)
+
+* [Java Web Services Basics Guide](https://coursemetry.com/java-web-services-basics-guide/)
+
+* [Aprende SIMULINK de CERO a EXPERTO](https://coursemetry.com/aprende-simulink-de-cero-a-experto/)
+
+* [Adobe Premiere Pro Basics Guide](https://coursemetry.com/adobe-premiere-pro-basics-guide/)
+
+* [AWS Certified Developer - Associate Exam 2022](https://coursemetry.com/aws-certified-developer-associate-exam-2022/)
+
+* [The Python Developer Essentials 2022 Immersive Bootcamp](https://coursemetry.com/the-python-developer-essentials-2022-immersive-bootcamp/)
+
+* [Applied Python: Building Projects with Python Programming](https://coursemetry.com/applied-python-building-projects-with-python-programming/)
+
+* [LIGHTEN Your Day With Fast, Easy and Effective Stress Relief](https://coursemetry.com/lighten-your-day-with-fast-easy-and-effective-stress-relief/)
+
+* [JDBC Basics Guide](https://coursemetry.com/jdbc-basics-guide/)
+
+* [Data Science: Python for Data Analysis 2022 Full Bootcamp](https://coursemetry.com/data-science-python-for-data-analysis-2022-full-bootcamp/)
+
+* [ISTQB Foundation Level Practice Exams (CTFL) 2022](https://coursemetry.com/istqb-foundation-level-practice-exams-ctfl-2022/)
+
+* [The Python Programming A-Z Definitive Diploma in 2022](https://coursemetry.com/the-python-programming-a-z-definitive-diploma-in-2022/)
+
+* [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
