@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-11-23**
+## **84 Udemy free courses published so far on 2022-11-23**
 
 * [Desarrollando Sistema MiniMarket (C# y Microsoft SQL Server)](https://coursemetry.com/desarrollando-sistema-minimarket-c-y-microsoft-sql-server/)
 
@@ -93,6 +93,84 @@
 * [Yoga for Weight Loss - Power Yoga Certification](https://coursemetry.com/yoga-for-weight-loss-power-yoga-certification/)
 
 * [Master Course of International Business](https://coursemetry.com/master-course-of-international-business/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [Nutrition Certification: The Complete Nutrition Course](https://coursemetry.com/nutrition-certification-the-complete-nutrition-course/)
+
+* [Masterclass Skalierung 2022: Die 5-Phasen Strategie](https://coursemetry.com/masterclass-skalierung-2022-die-5-phasen-strategie/)
+
+* [Life coach and life purpose certification course](https://coursemetry.com/life-coach-and-life-purpose-certification-course/)
+
+* [Adobe Audition Basics Guide](https://coursemetry.com/adobe-audition-basics-guide/)
+
+* [Neuroplasticity Ultimate Certification Course](https://coursemetry.com/neuroplasticity-ultimate-certification-course/)
+
+* [Certificate in Mental Health](https://coursemetry.com/certificate-in-mental-health/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [ManageEngine OPManager Plus Network Monitoring course & Lab](https://coursemetry.com/manageengine-opmanager-plus-network-monitoring-course-lab/)
+
+* [Nutrition and Dieting: The Ultimate Course About Nutrition](https://coursemetry.com/nutrition-and-dieting-the-ultimate-course-about-nutrition/)
+
+* [Neuroplasticity Life Coach Complete Certificate Course](https://coursemetry.com/neuroplasticity-life-coach-complete-certificate-course/)
+
+* [CompTIA Server+ SK0-004 & SK0-005 Practice Exams](https://coursemetry.com/comptia-server-sk0-004-sk0-005-practice-exams/)
+
+* [Adobe Photoshop Icon Preset Basics Guide](https://coursemetry.com/adobe-photoshop-icon-preset-basics-guide/)
+
+* [The Data Literacy Course: Learn How to Work With Data](https://coursemetry.com/the-data-literacy-course-learn-how-to-work-with-data/)
+
+* [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
+
+* [Neuroplasticity And CBT Complete Certification Course](https://coursemetry.com/neuroplasticity-and-cbt-complete-certification-course/)
+
+* [Certified Ethical Hacker (CEH v12) Practice Exams - UPDATED](https://coursemetry.com/certified-ethical-hacker-ceh-v12-practice-exams-updated/)
+
+* [Nutrition: The Ultimate Nutrition certification Course](https://coursemetry.com/nutrition-the-ultimate-nutrition-certification-course/)
+
+* [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
+
+* [poultry diseases for professionals](https://coursemetry.com/poultry-diseases-for-professionals/)
+
+* [Life Coach: The Complete Life Coach Certification Course](https://coursemetry.com/life-coach-the-complete-life-coach-certification-course/)
+
+* [PowerPoint - Microsoft PowerPoint For Beginners 2023](https://coursemetry.com/powerpoint-microsoft-powerpoint-for-beginners-2023/)
+
+* [Life Coaching: ZERO TO HERO Life Coach certificate Course](https://coursemetry.com/life-coaching-zero-to-hero-life-coach-certificate-course/)
+
+* [Bootstrap 4 Basics Guide](https://coursemetry.com/bootstrap-4-basics-guide/)
+
+* [Adobe After Effects Basics Guide](https://coursemetry.com/adobe-after-effects-basics-guide/)
+
+* [Link building 2023. Build links that boost the site traffic!](https://coursemetry.com/link-building-2023-build-links-that-boost-the-site-traffic/)
+
+* [Membership Site: Membership Recurring Home Business Model](https://coursemetry.com/membership-site-membership-recurring-home-business-model/)
+
+* [Adobe Photoshop Film & Video Preset Basics Guide](https://coursemetry.com/adobe-photoshop-film-video-preset-basics-guide/)
+
+* [Solidworks 2022; Sıfırdan Zirveye Bol Uygulamalı Eğitim Seti](https://coursemetry.com/solidworks-2022-sifirdan-zirveye-bol-uygulamali-egitim-seti/)
+
+* [Proceso CRUD (C Sharp y Microsoft Access)](https://coursemetry.com/proceso-crud-c-sharp-y-microsoft-access/)
+
+* [Google Professional Cloud DevOps Engineer Practice Exams](https://coursemetry.com/google-professional-cloud-devops-engineer-practice-exams-3/)
+
+* [Excel - Formulas & Functions Beginner to Expert Course 2022](https://coursemetry.com/excel-formulas-functions-beginner-to-expert-course-2022/)
+
+* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+
+* [Google Professional Cloud Developer Practice Exams](https://coursemetry.com/google-professional-cloud-developer-practice-exams/)
+
+* [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
+
+* [Adobe Fuse Basics Guide](https://coursemetry.com/adobe-fuse-basics-guide/)
+
+* [Effective Communication English](https://coursemetry.com/effective-communication-english/)
+
+* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+
+* [Adobe Photoshop Layer Style Basics Guide](https://coursemetry.com/adobe-photoshop-layer-style-basics-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
