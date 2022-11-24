@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **117 Udemy free courses published so far on 2022-11-24**
+## **137 Udemy free courses published so far on 2022-11-24**
 
 * [Master Course of Art Gallery Management](https://coursemetry.com/master-course-of-art-gallery-management/)
 
@@ -237,6 +237,46 @@
 * [Autodesk Revit - beginner to an intermediate level](https://coursemetry.com/autodesk-revit-beginner-to-an-intermediate-level/)
 
 * [Design Theory| "Designer Choice" |The Complete Design Course](https://coursemetry.com/design-theory-designer-choice-the-complete-design-course/)
+
+* [How to Install a Free SSL Certificate using Let's Encrypt](https://coursemetry.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/)
+
+* [Complete Character Design Megacourse: Beginner to Expert](https://coursemetry.com/complete-character-design-megacourse-beginner-to-expert/)
+
+* [Internet and Web Development Fundamentals](https://coursemetry.com/internet-and-web-development-fundamentals/)
+
+* [Cloud Computing Masterclass - Deployment to Administration](https://coursemetry.com/cloud-computing-masterclass-deployment-to-administration/)
+
+* [Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://coursemetry.com/amazon-elastic-compute-cloud-ec2-beginners-certification/)
+
+* [The C++ Course : Whole New Learning Experience with C++ | CP](https://coursemetry.com/the-c-course-whole-new-learning-experience-with-c-cp/)
+
+* [HTML, CSS, & Bootstrap - Certification Course for Beginners](https://coursemetry.com/html-css-bootstrap-certification-course-for-beginners/)
+
+* [Learn XML-AJAX - For Beginners](https://coursemetry.com/learn-xml-ajax-for-beginners/)
+
+* [Adobe Lightroom Classic CC: Master the Develop Module](https://coursemetry.com/adobe-lightroom-classic-cc-master-the-develop-module/)
+
+* [React Guide - Build a TicTacToe App using React Native!](https://coursemetry.com/react-guide-build-a-tictactoe-app-using-react-native/)
+
+* [Introduction to Ethereum Virtual Machine (EVM)](https://coursemetry.com/introduction-to-ethereum-virtual-machine-evm/)
+
+* [QuickBooks Desktop Not for Profit Organizations](https://coursemetry.com/quickbooks-desktop-not-for-profit-organizations/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [Entrepreneurship and Innovation - Start your own business](https://coursemetry.com/entrepreneurship-and-innovation-start-your-own-business/)
+
+* [Learn jQuery - For Beginners](https://coursemetry.com/learn-jquery-for-beginners/)
+
+* [Google Professional Cloud DevOps Engineer Exam](https://coursemetry.com/google-professional-cloud-devops-engineer-exam/)
+
+* [Monetize your Instagram as an Instagram Influencer in 2022](https://coursemetry.com/monetize-your-instagram-as-an-instagram-influencer-in-2022/)
+
+* [Introduccion a la Contabilidad](https://coursemetry.com/introduccion-a-la-contabilidad/)
+
+* [Practical Statistics for Business and Data Science](https://coursemetry.com/practical-statistics-for-business-and-data-science/)
+
+* [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
