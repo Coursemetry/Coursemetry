@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **97 Udemy free courses published so far on 2022-11-24**
+## **117 Udemy free courses published so far on 2022-11-24**
 
 * [Master Course of Art Gallery Management](https://coursemetry.com/master-course-of-art-gallery-management/)
 
@@ -197,6 +197,46 @@
 * [AutoCAD 2023 en 1h: Maîtrisez les Bases Rapidement](https://coursemetry.com/autocad-2023-en-1h-maitrisez-les-bases-rapidement/)
 
 * [Scrum Certification 2023 +Scrum Master+ Agile Scrum Training](https://coursemetry.com/scrum-certification-2023-scrum-master-agile-scrum-training/)
+
+* [Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://coursemetry.com/crypto-masterclass-bitcoin-altcoins-nfts-defi-metaverse/)
+
+* [Anger Management-Self & Others](https://coursemetry.com/anger-management-self-others/)
+
+* [Thinkific - How to Plan, Design and Create an Online Course](https://coursemetry.com/thinkific-how-to-plan-design-and-create-an-online-course/)
+
+* [Programacion con Scratch, programando con bloques](https://coursemetry.com/programacion-con-scratch-programando-con-bloques/)
+
+* [How to Create a Professional Presentation in PowerPoint](https://coursemetry.com/how-to-create-a-professional-presentation-in-powerpoint/)
+
+* [Aprende SQL usando PostgreSQL de cero](https://coursemetry.com/aprende-sql-usando-postgresql-de-cero/)
+
+* [Facebook Ads Google My Business & Google Ads (Adwords) 2022](https://coursemetry.com/facebook-ads-google-my-business-google-ads-adwords-2022/)
+
+* [SQL / PostgreSQL Bootcamp : Go From Beginner to Advanced](https://coursemetry.com/sql-postgresql-bootcamp-go-from-beginner-to-advanced/)
+
+* [GSM,GPRS & EDGE From A to Z](https://coursemetry.com/gsmgprs-edge-from-a-to-z/)
+
+* [Complete Inventory Management in Microsoft Excel &TALLY ERP9](https://coursemetry.com/complete-inventory-management-in-microsoft-excel-tally-erp9/)
+
+* [Data Analysis with Pandas, NumPy and PostgreSQL -Masterclass](https://coursemetry.com/data-analysis-with-pandas-numpy-and-postgresql-masterclass/)
+
+* [NumPy & Pandas Masterclass for data analysis and ML | 2023](https://coursemetry.com/numpy-pandas-masterclass-for-data-analysis-and-ml-2023/)
+
+* [SQL for Developers, Data Analysts and BI. MySQL for everyone](https://coursemetry.com/sql-for-developers-data-analysts-and-bi-mysql-for-everyone/)
+
+* [Practical basics of Geographic Information System in QGIS](https://coursemetry.com/practical-basics-of-geographic-information-system-in-qgis/)
+
+* [Data Science in R:  Regression & Classification Analysis](https://coursemetry.com/data-science-in-r-regression-classification-analysis/)
+
+* [The Ultimate Pandas and PostgreSQL Bootcamp - Data Analysis](https://coursemetry.com/the-ultimate-pandas-and-postgresql-bootcamp-data-analysis/)
+
+* [NumPy Bootcamp for Data Science and ML in Python - 2023](https://coursemetry.com/numpy-bootcamp-for-data-science-and-ml-in-python-2023/)
+
+* [Master Microsoft Power BI in 21 Days](https://coursemetry.com/master-microsoft-power-bi-in-21-days/)
+
+* [Autodesk Revit - beginner to an intermediate level](https://coursemetry.com/autodesk-revit-beginner-to-an-intermediate-level/)
+
+* [Design Theory| "Designer Choice" |The Complete Design Course](https://coursemetry.com/design-theory-designer-choice-the-complete-design-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
