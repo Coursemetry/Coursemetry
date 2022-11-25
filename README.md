@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published so far on 2022-11-25**
+## **105 Udemy free courses published so far on 2022-11-25**
 
 * [The Art of Drawing Portraits for Beginner's Level 2022](https://coursemetry.com/the-art-of-drawing-portraits-for-beginners-level-2022/)
 
@@ -105,6 +105,114 @@
 * [Complete JavaScript, jQuery and React Bootcamp - Hands-On](https://coursemetry.com/complete-javascript-jquery-and-react-bootcamp-hands-on/)
 
 * [Big Data para Programadores](https://coursemetry.com/big-data-para-programadores/)
+
+* [Yoga Nidra : The Art Of Relaxation](https://coursemetry.com/yoga-nidra-the-art-of-relaxation/)
+
+* [Mac Terminal from Scratch: Command Line for Beginners](https://coursemetry.com/mac-terminal-from-scratch-command-line-for-beginners/)
+
+* [Active Directory: Securing Active Directory Domain Services](https://coursemetry.com/active-directory-securing-active-directory-domain-services/)
+
+* [Sales Management Master Class  - Become a Top Sales Manager!](https://coursemetry.com/sales-management-master-class-become-a-top-sales-manager/)
+
+* [Slack Ultimate Guide](https://coursemetry.com/slack-ultimate-guide/)
+
+* [Azure IoT Central for Beginners: Your First IoT Prototype](https://coursemetry.com/azure-iot-central-for-beginners-your-first-iot-prototype/)
+
+* [Business Analysis - IT Non-Functional Requirements](https://coursemetry.com/business-analysis-it-non-functional-requirements/)
+
+* [Airtable Ultimate Guide](https://coursemetry.com/airtable-ultimate-guide/)
+
+* [Google Calendar Basics Guide](https://coursemetry.com/google-calendar-basics-guide/)
+
+* [Microsoft Word Ultimate Guide](https://coursemetry.com/microsoft-word-ultimate-guide/)
+
+* [Amazon EKS Basics Guide](https://coursemetry.com/amazon-eks-basics-guide/)
+
+* [Adobe Lightroom Classic CC: Print, Slideshow & Web Module](https://coursemetry.com/adobe-lightroom-classic-cc-print-slideshow-web-module/)
+
+* [Setup a Virtual Web Server using Linode or Digital Ocean](https://coursemetry.com/setup-a-virtual-web-server-using-linode-or-digital-ocean/)
+
+* [Amazon Virtual Private Cloud Basics Guide](https://coursemetry.com/amazon-virtual-private-cloud-basics-guide/)
+
+* [Adobe Audition Projects Guide](https://coursemetry.com/adobe-audition-projects-guide/)
+
+* [Google Slides Basics Guide](https://coursemetry.com/google-slides-basics-guide/)
+
+* [Adobe Acrobat DC Basics Guide](https://coursemetry.com/adobe-acrobat-dc-basics-guide/)
+
+* [Copywriting: Persuasive Writing Ft. Two Forbes Writers](https://coursemetry.com/copywriting-persuasive-writing-ft-two-forbes-writers/)
+
+* [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners/)
+
+* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+
+* [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
+
+* [Windows Command Line Basics Guide](https://coursemetry.com/windows-command-line-basics-guide/)
+
+* [Apache Spark with Scala useful for Databricks Certification](https://coursemetry.com/apache-spark-with-scala-useful-for-databricks-certification/)
+
+* [Open Broadcaster Basics Guide](https://coursemetry.com/open-broadcaster-basics-guide/)
+
+* [Office Administration Management](https://coursemetry.com/office-administration-management/)
+
+* [Machine Learning- From Basics to Advanced](https://coursemetry.com/machine-learning-from-basics-to-advanced/)
+
+* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+
+* [React JS- Complete Guide for Frontend Web Development [2022]](https://coursemetry.com/react-js-complete-guide-for-frontend-web-development-2022/)
+
+* [Practical Ethics- New Dynamics](https://coursemetry.com/practical-ethics-new-dynamics/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [Filmora 11/X/9:  Zero to Hero in Video Editing (2022)](https://coursemetry.com/filmora-11-x-9-zero-to-hero-in-video-editing-2022/)
+
+* [Monetize your Instagram as an Instagram Influencer in 2022](https://coursemetry.com/monetize-your-instagram-as-an-instagram-influencer-in-2022/)
+
+* [Web Development Ultimate Guide](https://coursemetry.com/web-development-ultimate-guide/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [Megacurso completo de Adobe XD: De principiante a experto](https://coursemetry.com/megacurso-completo-de-adobe-xd-de-principiante-a-experto/)
+
+* [Political Sociology- An Introduction](https://coursemetry.com/political-sociology-an-introduction/)
+
+* [Nursery Woodland Bear Drawing Course [Easy/BeginnerFriendly]](https://coursemetry.com/nursery-woodland-bear-drawing-course-easy-beginnerfriendly/)
+
+* [لغة الجسد بالعربي](https://coursemetry.com/%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%ac%d8%b3%d8%af-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/)
+
+* [Learn To Paint 8 Magical Watercolor Art Projects](https://coursemetry.com/learn-to-paint-8-magical-watercolor-art-projects/)
+
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+
+* [Build Complete 2022 CMS Blog in PHP MySQL Bootstrap & PDO](https://coursemetry.com/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/)
+
+* [A-Frame Framework Basics Guide](https://coursemetry.com/a-frame-framework-basics-guide/)
+
+* [AWS Services for Solutions Architect Associate [2022]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2022/)
+
+* [Facebook Marketing & Facebook Ads Course For Beginners](https://coursemetry.com/facebook-marketing-facebook-ads-course-for-beginners/)
+
+* [Easy watercolor painting- night sky galaxy manga portrait](https://coursemetry.com/easy-watercolor-painting-night-sky-galaxy-manga-portrait/)
+
+* [How to Create a Secure Website With WordPress](https://coursemetry.com/how-to-create-a-secure-website-with-wordpress/)
+
+* [Facebook Ads Lead Generation Marketing for business](https://coursemetry.com/facebook-ads-lead-generation-marketing-for-business/)
+
+* [Online-Marketing: Sales Funnel Grundlagen und Landingpages](https://coursemetry.com/online-marketing-sales-funnel-grundlagen-und-landingpages/)
+
+* [Make Illustrations with Adobe Illustrator : Easy Ways](https://coursemetry.com/make-illustrations-with-adobe-illustrator-easy-ways/)
+
+* [Strategic Thinking and Decision Making: Fortune 500 Leaders](https://coursemetry.com/strategic-thinking-and-decision-making-fortune-500-leaders/)
+
+* [Company Culture and Future of Work: Fortune 500 Leaders](https://coursemetry.com/company-culture-and-future-of-work-fortune-500-leaders/)
+
+* [Data Quality Fundamentals for Beginners](https://coursemetry.com/data-quality-fundamentals-for-beginners/)
+
+* [Strategic Thinking and Stakeholder Engagement: Fortune 500](https://coursemetry.com/strategic-thinking-and-stakeholder-engagement-fortune-500/)
+
+* [Practical Hands-on  Microsoft SQL  Joins :  SQL Server ,SSMS](https://coursemetry.com/practical-hands-on-microsoft-sql-joins-sql-server-ssms/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
