@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **138 Udemy free courses published so far on 2022-11-25**
+## **151 Udemy free courses published so far on 2022-11-25**
 
 * [The Art of Drawing Portraits for Beginner's Level 2022](https://coursemetry.com/the-art-of-drawing-portraits-for-beginners-level-2022/)
 
@@ -279,6 +279,32 @@
 * [Investing in Africa - Key factors for Investors to consider](https://coursemetry.com/investing-in-africa-key-factors-for-investors-to-consider/)
 
 * [Microsoft Outlook Ultimate Guide](https://coursemetry.com/microsoft-outlook-ultimate-guide/)
+
+* [Python for beginners - Learn all the basics of python](https://coursemetry.com/python-for-beginners-learn-all-the-basics-of-python/)
+
+* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+
+* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
+
+* [Python-Introduction to Data Science and Machine learning A-Z](https://coursemetry.com/python-introduction-to-data-science-and-machine-learning-a-z/)
+
+* [Your WORDS, Powerful Tools](https://coursemetry.com/your-words-powerful-tools/)
+
+* [Aprende lenguaje GO (GOLANG) desde 0](https://coursemetry.com/aprende-lenguaje-go-golang-desde-0/)
+
+* [Complete Voice Training Megacourse: Beginner to Expert](https://coursemetry.com/complete-voice-training-megacourse-beginner-to-expert/)
+
+* [Adobe Animate Projects Guide](https://coursemetry.com/adobe-animate-projects-guide/)
+
+* [Effective Communication Skills: Be a Better Communicator](https://coursemetry.com/effective-communication-skills-be-a-better-communicator/)
+
+* [Postgraduate Diploma: Project Management](https://coursemetry.com/postgraduate-diploma-project-management/)
+
+* [Concept of Wellbeing- Dealing with Anxiety](https://coursemetry.com/concept-of-wellbeing-dealing-with-anxiety/)
+
+* [Make Money Selling Copywriting Services to online companies](https://coursemetry.com/make-money-selling-copywriting-services-to-online-companies/)
+
+* [Adobe After Effects Projects Guide](https://coursemetry.com/adobe-after-effects-projects-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
