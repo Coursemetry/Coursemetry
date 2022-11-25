@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **105 Udemy free courses published so far on 2022-11-25**
+## **138 Udemy free courses published so far on 2022-11-25**
 
 * [The Art of Drawing Portraits for Beginner's Level 2022](https://coursemetry.com/the-art-of-drawing-portraits-for-beginners-level-2022/)
 
@@ -213,6 +213,72 @@
 * [Strategic Thinking and Stakeholder Engagement: Fortune 500](https://coursemetry.com/strategic-thinking-and-stakeholder-engagement-fortune-500/)
 
 * [Practical Hands-on  Microsoft SQL  Joins :  SQL Server ,SSMS](https://coursemetry.com/practical-hands-on-microsoft-sql-joins-sql-server-ssms/)
+
+* [Microsoft Planner Ultimate Guide](https://coursemetry.com/microsoft-planner-ultimate-guide/)
+
+* [jQuery Ultimate Guide](https://coursemetry.com/jquery-ultimate-guide/)
+
+* [Easy Watercolor Iris Flower Painting with Galaxy Background](https://coursemetry.com/easy-watercolor-iris-flower-painting-with-galaxy-background/)
+
+* [Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://coursemetry.com/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/)
+
+* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+
+* [Swing Trading Strategy For Beginners [Full Course]](https://coursemetry.com/swing-trading-strategy-for-beginners-full-course/)
+
+* [HTML, CSS, & JavaScript - Certification Course for Beginners](https://coursemetry.com/html-css-javascript-certification-course-for-beginners/)
+
+* [Three.js Basics Guide](https://coursemetry.com/three-js-basics-guide/)
+
+* [Microsoft PowerApps Ultimate Guide](https://coursemetry.com/microsoft-powerapps-ultimate-guide/)
+
+* [Microsoft Teams Ultimate Guide](https://coursemetry.com/microsoft-teams-ultimate-guide/)
+
+* [Microsoft Publisher Basics Guide](https://coursemetry.com/microsoft-publisher-basics-guide/)
+
+* [Python 3 Ultimate Guide](https://coursemetry.com/python-3-ultimate-guide/)
+
+* [Fundamentals of  Successful Leadership - Leading with Impact](https://coursemetry.com/fundamentals-of-successful-leadership-leading-with-impact/)
+
+* [सीखें Javascript Programming हिन्दी में](https://coursemetry.com/%e0%a4%b8%e0%a5%80%e0%a4%96%e0%a5%87%e0%a4%82-javascript-programming-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82/)
+
+* [Jumpstart your Project Management career](https://coursemetry.com/jumpstart-your-project-management-career/)
+
+* [cPanel Ultimate Guide](https://coursemetry.com/cpanel-ultimate-guide/)
+
+* [Microsoft OneNote Ultimate Guide](https://coursemetry.com/microsoft-onenote-ultimate-guide/)
+
+* [Sublime Text 3 Basics Guide](https://coursemetry.com/sublime-text-3-basics-guide/)
+
+* [Server Infrastructure Basics Guide](https://coursemetry.com/server-infrastructure-basics-guide/)
+
+* [Omnichannel Sales & Service Management with AI & Chat Bots](https://coursemetry.com/omnichannel-sales-service-management-with-ai-chat-bots/)
+
+* [Microsoft Sway Basics Guide](https://coursemetry.com/microsoft-sway-basics-guide/)
+
+* [Strategic Partnerships and Collaborations](https://coursemetry.com/strategic-partnerships-and-collaborations/)
+
+* [Drupal For Absolute Beginners (2022)](https://coursemetry.com/drupal-for-absolute-beginners-2022/)
+
+* [Trello Ultimate Guide](https://coursemetry.com/trello-ultimate-guide/)
+
+* [Accredited Certificate in Aromatherapy and Essential Oils](https://coursemetry.com/accredited-certificate-in-aromatherapy-and-essential-oils/)
+
+* [Microsoft OneDrive Ultimate Guide](https://coursemetry.com/microsoft-onedrive-ultimate-guide/)
+
+* [learn French - simply through music](https://coursemetry.com/learn-french-simply-through-music/)
+
+* [Microsoft Power Automate (Flow) Ultimate Guide](https://coursemetry.com/microsoft-power-automate-flow-ultimate-guide/)
+
+* [SVG Ultimate Guide](https://coursemetry.com/svg-ultimate-guide/)
+
+* [Visual Studio Code Ultimate Guide](https://coursemetry.com/visual-studio-code-ultimate-guide/)
+
+* [Microsoft PowerPoint Ultimate Guide](https://coursemetry.com/microsoft-powerpoint-ultimate-guide/)
+
+* [Investing in Africa - Key factors for Investors to consider](https://coursemetry.com/investing-in-africa-key-factors-for-investors-to-consider/)
+
+* [Microsoft Outlook Ultimate Guide](https://coursemetry.com/microsoft-outlook-ultimate-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
