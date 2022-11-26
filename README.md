@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published so far on 2022-11-26**
+## **67 Udemy free courses published so far on 2022-11-26**
 
 * [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
 
@@ -80,8 +80,6 @@
 
 * [Make Money From Home As a Transcriptionist: 10 Opportunities](https://coursemetry.com/make-money-from-home-as-a-transcriptionist-10-opportunities/)
 
-* [Fundamentals of  Successful Leadership - Leading with Impact](https://coursemetry.com/fundamentals-of-successful-leadership-leading-with-impact/)
-
 * [THRIVECART Masterclass 2022 - Think Strategically in THRIVE](https://coursemetry.com/thrivecart-masterclass-2022-think-strategically-in-thrive/)
 
 * [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
@@ -103,6 +101,42 @@
 * [CRISPR Cas9 Technology](https://coursemetry.com/crispr-cas9-technology/)
 
 * [Agile Basics for CAPM Exam](https://coursemetry.com/agile-basics-for-capm-exam/)
+
+* [HashiCorp Certified: Terraform Associate 2022 Practice Exam](https://coursemetry.com/hashicorp-certified-terraform-associate-2022-practice-exam/)
+
+* [Best SAP FICO Tutorial For Beginners & Freshers (SAP ERP)](https://coursemetry.com/best-sap-fico-tutorial-for-beginners-freshers-sap-erp/)
+
+* [Introduction to Microservices](https://coursemetry.com/introduction-to-microservices/)
+
+* [Building Android Widgets from scratch (Learn 8 Widgets)](https://coursemetry.com/building-android-widgets-from-scratch-learn-8-widgets/)
+
+* [The PHP 8 Learning Guide [2022 Edition]](https://coursemetry.com/the-php-8-learning-guide-2022-edition/)
+
+* [3ds max Mass Fx Rigid Body Modulo 2](https://coursemetry.com/3ds-max-mass-fx-rigid-body-modulo-2/)
+
+* [Docker Course for Beginners](https://coursemetry.com/docker-course-for-beginners/)
+
+* [The Complete Dart Learning Guide](https://coursemetry.com/the-complete-dart-learning-guide/)
+
+* [Scrum Ceremonies Simplified](https://coursemetry.com/scrum-ceremonies-simplified/)
+
+* [The C++ Learning Guide](https://coursemetry.com/the-c-learning-guide/)
+
+* [Introduction to International Trade Finance & Trade Services](https://coursemetry.com/introduction-to-international-trade-finance-trade-services/)
+
+* [AutoCAD Tips and Tricks in Bangla](https://coursemetry.com/autocad-tips-and-tricks-in-bangla/)
+
+* [The Complete Flutter Development Guide [2022 Edition]](https://coursemetry.com/the-complete-flutter-development-guide-2022-edition/)
+
+* [Fundamentals of  Successful Leadership - Leading with Impact](https://coursemetry.com/fundamentals-of-successful-leadership-leading-with-impact/)
+
+* [Peace and Conflict Resolution](https://coursemetry.com/peace-and-conflict-resolution/)
+
+* [Become a Successful SEO Freelancer & Start Getting Clients](https://coursemetry.com/become-a-successful-seo-freelancer-start-getting-clients/)
+
+* [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
+
+* [Strategic Partnerships and Collaborations](https://coursemetry.com/strategic-partnerships-and-collaborations/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
