@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **41 Udemy free courses published so far on 2022-11-26**
+## **50 Udemy free courses published so far on 2022-11-26**
 
 * [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
 
@@ -85,6 +85,24 @@
 * [THRIVECART Masterclass 2022 - Think Strategically in THRIVE](https://coursemetry.com/thrivecart-masterclass-2022-think-strategically-in-thrive/)
 
 * [Sell Low-Content Coloring Books, Sudokus on Amazon KDP](https://coursemetry.com/sell-low-content-coloring-books-sudokus-on-amazon-kdp/)
+
+* [Introducción a Python](https://coursemetry.com/introduccion-a-python/)
+
+* [ISO 26262-2:2018: Management of functional safety](https://coursemetry.com/iso-26262-22018-management-of-functional-safety/)
+
+* [Ser Asistente Virtual](https://coursemetry.com/ser-asistente-virtual/)
+
+* [Microsoft Word 2021: A New Step](https://coursemetry.com/microsoft-word-2021-a-new-step/)
+
+* [Unconscious Bias: Beat the Implicit Stereotype](https://coursemetry.com/unconscious-bias-beat-the-implicit-stereotype/)
+
+* [After Effects Text Animations](https://coursemetry.com/after-effects-text-animations/)
+
+* [How to French Braid Curly Hair for Kids](https://coursemetry.com/how-to-french-braid-curly-hair-for-kids/)
+
+* [CRISPR Cas9 Technology](https://coursemetry.com/crispr-cas9-technology/)
+
+* [Agile Basics for CAPM Exam](https://coursemetry.com/agile-basics-for-capm-exam/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
