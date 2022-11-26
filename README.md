@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2022-11-26**
+## **97 Udemy free courses published so far on 2022-11-26**
 
 * [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
 
@@ -185,6 +185,18 @@
 * [Aprende MATLAB y Simulink de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-y-simulink-de-cero-a-experto/)
 
 * [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
+
+* [Introduction to High-Availability (HA) Solutions in Azure](https://coursemetry.com/introduction-to-high-availability-ha-solutions-in-azure/)
+
+* [Personal Hygiene](https://coursemetry.com/personal-hygiene/)
+
+* [Resilience Training: Learn to Thrive Under Pressure](https://coursemetry.com/resilience-training-learn-to-thrive-under-pressure/)
+
+* [Salesforce Flows Basic (SCREEN FLOW) - Part 1](https://coursemetry.com/salesforce-flows-basic-screen-flow-part-1/)
+
+* [Risk Assessment and Disaster Recovery Training](https://coursemetry.com/risk-assessment-and-disaster-recovery-training/)
+
+* [Fire Safety Training: How to Handle Fire Emergencies](https://coursemetry.com/fire-safety-training-how-to-handle-fire-emergencies/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
