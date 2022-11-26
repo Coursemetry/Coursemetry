@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **67 Udemy free courses published so far on 2022-11-26**
+## **91 Udemy free courses published so far on 2022-11-26**
 
 * [Hard CISSP Practice Questions - Domain Wise (400 Questions)](https://coursemetry.com/hard-cissp-practice-questions-domain-wise-400-questions/)
 
@@ -137,6 +137,54 @@
 * [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
 
 * [Strategic Partnerships and Collaborations](https://coursemetry.com/strategic-partnerships-and-collaborations/)
+
+* [Forex Day Trading: The Complete guide to Forex Price Action](https://coursemetry.com/forex-day-trading-the-complete-guide-to-forex-price-action/)
+
+* [Risk Management in Crypto: How to Avoid Losing Money](https://coursemetry.com/risk-management-in-crypto-how-to-avoid-losing-money/)
+
+* [Learn Javascript for Free 2022 : Complete Guide](https://coursemetry.com/learn-javascript-for-free-2022-complete-guide/)
+
+* [Microservices with Micronaut](https://coursemetry.com/microservices-with-micronaut/)
+
+* [SAP New ABAP syntax](https://coursemetry.com/sap-new-abap-syntax/)
+
+* [YFU Advocacy Training for Future Leaders](https://coursemetry.com/yfu-advocacy-training-for-future-leaders/)
+
+* [Introduction into Software Asset Management (SAM)](https://coursemetry.com/introduction-into-software-asset-management-sam/)
+
+* [Google Professional Cloud DevOps Engineer Exam](https://coursemetry.com/google-professional-cloud-devops-engineer-exam/)
+
+* [Microsoft Excel - Learn MS EXCEL For DATA Analysis](https://coursemetry.com/microsoft-excel-learn-ms-excel-for-data-analysis/)
+
+* [Realizzare un Cortometraggio](https://coursemetry.com/realizzare-un-cortometraggio/)
+
+* [See 27 Ways to Make Money Online with Your Smartphone!](https://coursemetry.com/see-27-ways-to-make-money-online-with-your-smartphone/)
+
+* [Aprende a desarrollar ETL usando Pentaho desde Cero](https://coursemetry.com/aprende-a-desarrollar-etl-usando-pentaho-desde-cero/)
+
+* [Aprende Lenguaje C++ de CERO a EXPERTO](https://coursemetry.com/aprende-lenguaje-c-de-cero-a-experto-2/)
+
+* [AWS Certified Cloud Practitioner (CLF-C01) - Practice Exams](https://coursemetry.com/aws-certified-cloud-practitioner-clf-c01-practice-exams/)
+
+* [3ds max Iray + vMaterial AEC Modulo 8](https://coursemetry.com/3ds-max-iray-vmaterial-aec-modulo-8/)
+
+* [Introduction to Forex- learn to trade forex by yourself](https://coursemetry.com/introduction-to-forex-learn-to-trade-forex-by-yourself/)
+
+* [Corso completo di Teatro: esercizi pratici (Per Formatori)](https://coursemetry.com/corso-completo-di-teatro-esercizi-pratici-per-formatori/)
+
+* [Unity Multiplayer Blockchain Game Course](https://coursemetry.com/unity-multiplayer-blockchain-game-course/)
+
+* [Insegnare TEATRO ai bambini: esercizi pratici](https://coursemetry.com/insegnare-teatro-ai-bambini-esercizi-pratici/)
+
+* [Corso Completo di Scrittura Comica - Parte Prima](https://coursemetry.com/corso-completo-di-scrittura-comica-parte-prima/)
+
+* [Design of 100% Renewable Energy Systems](https://coursemetry.com/design-of-100-renewable-energy-systems/)
+
+* [Excel VBA - Macros desde 0](https://coursemetry.com/excel-vba-macros-desde-0/)
+
+* [Aprende MATLAB y Simulink de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-y-simulink-de-cero-a-experto/)
+
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2022](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
