@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **70 Udemy free courses published so far on 2022-11-27**
+## **71 Udemy free courses published so far on 2022-11-27**
 
 * [Knowledge Digitization & Monetization Business Model](https://coursemetry.com/knowledge-digitization-monetization-business-model/)
 
@@ -143,6 +143,8 @@
 * [Procurement for Practitioners](https://coursemetry.com/procurement-for-practitioners/)
 
 * [Car Flipping : The Art of Running Car Business - 90 Minute !](https://coursemetry.com/car-flipping-the-art-of-running-car-business-90-minute/)
+
+* [Arduino Weather Station: Step By Step Guide](https://coursemetry.com/arduino-weather-station-step-by-step-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
