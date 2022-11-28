@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-11-28**
+## **93 Udemy free courses published so far on 2022-11-28**
 
 * [Master in HTML & CSS Coding for Web Design](https://coursemetry.com/master-in-html-css-coding-for-web-design/)
 
@@ -155,6 +155,40 @@
 * [How to design and simulate a sustainable building in UAE](https://coursemetry.com/how-to-design-and-simulate-a-sustainable-building-in-uae/)
 
 * [ACCA AAA (INT) Question Practice 25marks- Reporting](https://coursemetry.com/acca-aaa-int-question-practice-25marks-reporting/)
+
+* [Storytelling With Imagery For Persuasion & Personal Brand](https://coursemetry.com/storytelling-with-imagery-for-persuasion-personal-brand/)
+
+* [Understand depression. Overcome it.](https://coursemetry.com/understand-depression-overcome-it/)
+
+* [Boost Emotional Intelligence, Logic, Wisdom, And Creativity](https://coursemetry.com/boost-emotional-intelligence-logic-wisdom-and-creativity/)
+
+* [Journalism: Be a Great Talk Show Host](https://coursemetry.com/journalism-be-a-great-talk-show-host/)
+
+* [AZ-400: Designing and Implementing Microsoft DevOps Solution](https://coursemetry.com/az-400-designing-and-implementing-microsoft-devops-solution-2/)
+
+* [Watercolor Silhouettes: Paint an Owl and a Princess](https://coursemetry.com/watercolor-silhouettes-paint-an-owl-and-a-princess/)
+
+* [Gatsby JS | Build a personal blog using gatsbyJS](https://coursemetry.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/)
+
+* [How To MAKE Comics - From concept, to pages, to publishing](https://coursemetry.com/how-to-make-comics-from-concept-to-pages-to-publishing/)
+
+* [Introduction to Trifacta (Alteryx Cloud Designer)](https://coursemetry.com/introduction-to-trifacta-alteryx-cloud-designer/)
+
+* [How To Draw MECHS - The Ultimate Guide](https://coursemetry.com/how-to-draw-mechs-the-ultimate-guide/)
+
+* [Public Speaking for High School Students: Speak Well Now](https://coursemetry.com/public-speaking-for-high-school-students-speak-well-now/)
+
+* [How To Color Comics - Digital Techniques](https://coursemetry.com/how-to-color-comics-digital-techniques/)
+
+* [Mastering The Complete Agile Scrum Master Workshop](https://coursemetry.com/mastering-the-complete-agile-scrum-master-workshop/)
+
+* [Agent of change: improve Mental Health at your workplace!](https://coursemetry.com/agent-of-change-improve-mental-health-at-your-workplace/)
+
+* [Poetry And Music Appreciation: Enrich Your Inner Life](https://coursemetry.com/poetry-and-music-appreciation-enrich-your-inner-life/)
+
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
+
+* [Critical Thinking And Problem Solving For Life And Career](https://coursemetry.com/critical-thinking-and-problem-solving-for-life-and-career/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
