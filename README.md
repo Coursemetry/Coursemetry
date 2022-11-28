@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published so far on 2022-11-28**
+## **76 Udemy free courses published so far on 2022-11-28**
 
 * [Master in HTML & CSS Coding for Web Design](https://coursemetry.com/master-in-html-css-coding-for-web-design/)
 
@@ -113,6 +113,48 @@
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
 * [Build Shopify store & Run Facebook Page Likes Ad In 2022](https://coursemetry.com/build-shopify-store-run-facebook-page-likes-ad-in-2022/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Investing Presentations-Deliver an IPO Roadshow Presentation](https://coursemetry.com/investing-presentations-deliver-an-ipo-roadshow-presentation/)
+
+* [Sales Skills Training: Free Sales Generation Seminars](https://coursemetry.com/sales-skills-training-free-sales-generation-seminars/)
+
+* [Public Speaking: Eulogy-Give a Great Eulogy For Loved Ones](https://coursemetry.com/public-speaking-eulogy-give-a-great-eulogy-for-loved-ones/)
+
+* [AZ-500: Microsoft Azure Security Technologies Practice Exam](https://coursemetry.com/az-500-microsoft-azure-security-technologies-practice-exam-4/)
+
+* [Freelance With Fiverr 2023: How To Sell on Fiverr Like a pro](https://coursemetry.com/freelance-with-fiverr-2023-how-to-sell-on-fiverr-like-a-pro/)
+
+* [Personal Branding: You Deliver a Great Elevator Pitch](https://coursemetry.com/personal-branding-you-deliver-a-great-elevator-pitch/)
+
+* [Beginner in-Home Workouts - No Equipment Needed](https://coursemetry.com/beginner-in-home-workouts-no-equipment-needed/)
+
+* [Portugiesisch lernen - ganz einfach mit Musik!](https://coursemetry.com/portugiesisch-lernen-ganz-einfach-mit-musik/)
+
+* [Teacher Training: Teachers Can Be Great Speakers](https://coursemetry.com/teacher-training-teachers-can-be-great-speakers/)
+
+* [Systemische Problemlösung](https://coursemetry.com/systemische-problemlosung/)
+
+* [Systemisches Leadership](https://coursemetry.com/systemisches-leadership/)
+
+* [Learn 6 SIMPLE Steps to Make Money on TikTok App!](https://coursemetry.com/learn-6-simple-steps-to-make-money-on-tiktok-app/)
+
+* [Introduction to Python: quick start](https://coursemetry.com/introduction-to-python-quick-start/)
+
+* [Sales Training for Foxit Software Products](https://coursemetry.com/sales-training-for-foxit-software-products/)
+
+* [Create an On-Demand Service Marketplace with WordPress](https://coursemetry.com/create-an-on-demand-service-marketplace-with-wordpress/)
+
+* [Getting Started with Apache Flink](https://coursemetry.com/getting-started-with-apache-flink/)
+
+* [Authoring - 101](https://coursemetry.com/authoring-101/)
+
+* [Mastering Motor Control Circuit](https://coursemetry.com/mastering-motor-control-circuit/)
+
+* [How to design and simulate a sustainable building in UAE](https://coursemetry.com/how-to-design-and-simulate-a-sustainable-building-in-uae/)
+
+* [ACCA AAA (INT) Question Practice 25marks- Reporting](https://coursemetry.com/acca-aaa-int-question-practice-25marks-reporting/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
