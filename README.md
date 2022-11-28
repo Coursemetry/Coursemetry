@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **93 Udemy free courses published so far on 2022-11-28**
+## **94 Udemy free courses published so far on 2022-11-28**
 
 * [Master in HTML & CSS Coding for Web Design](https://coursemetry.com/master-in-html-css-coding-for-web-design/)
 
@@ -189,6 +189,8 @@
 * [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
 
 * [Critical Thinking And Problem Solving For Life And Career](https://coursemetry.com/critical-thinking-and-problem-solving-for-life-and-career/)
+
+* [How To Meditate With Music](https://coursemetry.com/how-to-meditate-with-music/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
