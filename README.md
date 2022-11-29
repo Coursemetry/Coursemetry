@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **86 Udemy free courses published so far on 2022-11-29**
+## **87 Udemy free courses published so far on 2022-11-29**
 
 * [Scrivere un Fumetto - Scrittura Creativa Vol. 6](https://coursemetry.com/scrivere-un-fumetto-scrittura-creativa-vol-6/)
 
@@ -175,6 +175,8 @@
 * [Make Money Online Moving Your Fingers! (Blogging Course)](https://coursemetry.com/make-money-online-moving-your-fingers-blogging-course/)
 
 * [10 Methods to Earn Online](https://coursemetry.com/10-methods-to-earn-online/)
+
+* [Kickstarter Mastery 2023 | Get Passiate Backers Help U Grow](https://coursemetry.com/kickstarter-mastery-2023-get-passiate-backers-help-u-grow/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
