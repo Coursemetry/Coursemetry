@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **71 Udemy free courses published so far on 2022-11-29**
+## **86 Udemy free courses published so far on 2022-11-29**
 
 * [Scrivere un Fumetto - Scrittura Creativa Vol. 6](https://coursemetry.com/scrivere-un-fumetto-scrittura-creativa-vol-6/)
 
@@ -145,6 +145,36 @@
 * [Snowflake SnowPro Core Certification Exam](https://coursemetry.com/snowflake-snowpro-core-certification-exam/)
 
 * [Storytelling Marketing Mastery 2023 |  Building Your Brands](https://coursemetry.com/storytelling-marketing-mastery-2023-building-your-brands/)
+
+* [Descriptive Statistics and Visualizing Data](https://coursemetry.com/descriptive-statistics-and-visualizing-data/)
+
+* [Printable Business Mastery 2023 | Turn Designs Into Incomes](https://coursemetry.com/printable-business-mastery-2023-turn-designs-into-incomes/)
+
+* [Side Hustle Mastery 2023 | Earn More While Keeping Your Jobs](https://coursemetry.com/side-hustle-mastery-2023-earn-more-while-keeping-your-jobs/)
+
+* [Solar Specialist Certification Interview Practice Test 2022](https://coursemetry.com/solar-specialist-certification-interview-practice-test-2022/)
+
+* [Cryptocurrencies: complet practical course on crypto trading](https://coursemetry.com/cryptocurrencies-complet-practical-course-on-crypto-trading/)
+
+* [Shopify Bootcamp: Increase Your Sales and Conversion rate](https://coursemetry.com/shopify-bootcamp-increase-your-sales-and-conversion-rate/)
+
+* [Social Media Marketing Mastery 2023 | Get Unlimited Traffic](https://coursemetry.com/social-media-marketing-mastery-2023-get-unlimited-traffic/)
+
+* [Pricing Strategies Mastery 2023 | Optimize Best Conversions](https://coursemetry.com/pricing-strategies-mastery-2023-optimize-best-conversions/)
+
+* [Product Launch Mastery 2023 | Get Your Product Seen & Loved](https://coursemetry.com/product-launch-mastery-2023-get-your-product-seen-loved/)
+
+* [Merch by Amazon Mastery 2023 |  Finding Endless Design Ideas](https://coursemetry.com/merch-by-amazon-mastery-2023-finding-endless-design-ideas/)
+
+* [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
+
+* [Go Digital Formula](https://coursemetry.com/go-digital-formula/)
+
+* [The Personal Transformation Master Course](https://coursemetry.com/the-personal-transformation-master-course/)
+
+* [Make Money Online Moving Your Fingers! (Blogging Course)](https://coursemetry.com/make-money-online-moving-your-fingers-blogging-course/)
+
+* [10 Methods to Earn Online](https://coursemetry.com/10-methods-to-earn-online/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
