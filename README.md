@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **59 Udemy free courses published so far on 2022-11-29**
+## **71 Udemy free courses published so far on 2022-11-29**
 
 * [Scrivere un Fumetto - Scrittura Creativa Vol. 6](https://coursemetry.com/scrivere-un-fumetto-scrittura-creativa-vol-6/)
 
@@ -121,6 +121,30 @@
 * [HTML5 - From Basics to Advanced level [2022]](https://coursemetry.com/html5-from-basics-to-advanced-level-2022/)
 
 * [The Ultimate Guide to Boosting Your Business on Etsy](https://coursemetry.com/the-ultimate-guide-to-boosting-your-business-on-etsy/)
+
+* [JavaScript - Basics to Advanced step by step [2022]](https://coursemetry.com/javascript-basics-to-advanced-step-by-step-2022/)
+
+* [Adding Blockchain to a Unity Game](https://coursemetry.com/adding-blockchain-to-a-unity-game/)
+
+* [Success Mindset Mastery 2023 | Clear Mindset to Win Anything](https://coursemetry.com/success-mindset-mastery-2023-clear-mindset-to-win-anything/)
+
+* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
+
+* [A Beginners Guide to the Ten Commandments](https://coursemetry.com/?p=155963)
+
+* [Microsoft Data Analysis using Excel Pivot Tables & Charts](https://coursemetry.com/microsoft-data-analysis-using-excel-pivot-tables-charts/)
+
+* [CSS - Basics to Adv for front end development [2022]](https://coursemetry.com/css-basics-to-adv-for-front-end-development-2022/)
+
+* [Unique Selling Proposition Mastery 2023 | Position to Win](https://coursemetry.com/unique-selling-proposition-mastery-2023-position-to-win/)
+
+* [Podcast in The Classroom - Kindergarten to High School](https://coursemetry.com/podcast-in-the-classroom-kindergarten-to-high-school/)
+
+* [Python Certification Exam PCEP-30-01/PCEP-30-02 Preparation](https://coursemetry.com/python-certification-exam-pcep-30-01-pcep-30-02-preparation/)
+
+* [Snowflake SnowPro Core Certification Exam](https://coursemetry.com/snowflake-snowpro-core-certification-exam/)
+
+* [Storytelling Marketing Mastery 2023 |  Building Your Brands](https://coursemetry.com/storytelling-marketing-mastery-2023-building-your-brands/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
