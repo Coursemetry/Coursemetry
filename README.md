@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **32 Udemy free courses published so far on 2022-11-29**
+## **59 Udemy free courses published so far on 2022-11-29**
 
 * [Scrivere un Fumetto - Scrittura Creativa Vol. 6](https://coursemetry.com/scrivere-un-fumetto-scrittura-creativa-vol-6/)
 
@@ -67,6 +67,60 @@
 * [Creación y Consumo de Web Service SOAP WDSL con PHP y MySQL](https://coursemetry.com/creacion-y-consumo-de-web-service-soap-wdsl-con-php-y-mysql/)
 
 * [Certified Kubernetes Administrator (CKA) Exam Patrice Test](https://coursemetry.com/certified-kubernetes-administrator-cka-exam-patrice-test/)
+
+* [Cursillo Excel Básico](https://coursemetry.com/cursillo-excel-basico/)
+
+* [Shopify Guide: Start your own clothing brand with Shopify](https://coursemetry.com/shopify-guide-start-your-own-clothing-brand-with-shopify/)
+
+* [Complete Reading Music Megacourse: Beginner to Expert](https://coursemetry.com/complete-reading-music-megacourse-beginner-to-expert/)
+
+* [QuickBooks Online-Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-online-bookkeeping-business-easy-way/)
+
+* [QuickBooks Desktop Job Costing](https://coursemetry.com/quickbooks-desktop-job-costing/)
+
+* [The Ultimate MySQL Crash Course 2022](https://coursemetry.com/the-ultimate-mysql-crash-course-2022/)
+
+* [L'Ambientazione - Scrittura Creativa Vol. 4](https://coursemetry.com/lambientazione-scrittura-creativa-vol-4/)
+
+* [Scrivere per Bambini e Ragazzi - Scrittura Creativa Vol. 5](https://coursemetry.com/scrivere-per-bambini-e-ragazzi-scrittura-creativa-vol-5/)
+
+* [Corso completo di sceneggiatura: scrivere un Film](https://coursemetry.com/corso-completo-di-sceneggiatura-scrivere-un-film/)
+
+* [QuickBooks Online vs. QuickBooks Desktop 2022, 2021, & 2020](https://coursemetry.com/quickbooks-online-vs-quickbooks-desktop-2022-2021-2020/)
+
+* [Absolute Beginners Guide to CFD simulation in ANSYS](https://coursemetry.com/absolute-beginners-guide-to-cfd-simulation-in-ansys/)
+
+* [SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun](https://coursemetry.com/seo-training-for-beginners-learn-seo-local-seo-fast-fun/)
+
+* [QuickBooks Desktop vs. Excel](https://coursemetry.com/quickbooks-desktop-vs-excel/)
+
+* [A Motivational Course For Teachers 31 Days of Teacher Praise](https://coursemetry.com/a-motivational-course-for-teachers-31-days-of-teacher-praise/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [Shopify guide: The complete shopify store creation course](https://coursemetry.com/shopify-guide-the-complete-shopify-store-creation-course/)
+
+* [Mehr Umsatz durch gute Positionierung und klare Zielgruppe!](https://coursemetry.com/mehr-umsatz-durch-gute-positionierung-und-klare-zielgruppe/)
+
+* [Dal Giallo al Noir - Scrittura Creativa Vol. 7](https://coursemetry.com/dal-giallo-al-noir-scrittura-creativa-vol-7/)
+
+* [Socio-Political Philosophy- An Introduction](https://coursemetry.com/socio-political-philosophy-an-introduction/)
+
+* [2022 Unity الدورة الشاملة لصناعة الألعاب](https://coursemetry.com/2022-unity-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8/)
+
+* [The Complete ReactJs Course - Basics to Advanced [2022]](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2022/)
+
+* [Plumbing Water Supply System A-Z](https://coursemetry.com/plumbing-water-supply-system-a-z/)
+
+* [Improvvisazione Teatrale e Comica: dalla teoria alla pratica](https://coursemetry.com/improvvisazione-teatrale-e-comica-dalla-teoria-alla-pratica/)
+
+* [Corso base di  Scrittura Creativa Vol. 1](https://coursemetry.com/corso-base-di-scrittura-creativa-vol-1/)
+
+* [Modern JavaScript for React JS - ES6 [2022]](https://coursemetry.com/modern-javascript-for-react-js-es6-2022/)
+
+* [HTML5 - From Basics to Advanced level [2022]](https://coursemetry.com/html5-from-basics-to-advanced-level-2022/)
+
+* [The Ultimate Guide to Boosting Your Business on Etsy](https://coursemetry.com/the-ultimate-guide-to-boosting-your-business-on-etsy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
