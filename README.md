@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published so far on 2022-12-01**
+## **109 Udemy free courses published so far on 2022-12-01**
 
 * [NFT Gold Rush](https://coursemetry.com/nft-gold-rush/)
 
@@ -179,6 +179,48 @@
 * [Excel Beginner to Pro](https://coursemetry.com/excel-beginner-to-pro/)
 
 * [Negotiation A-Z: Inside Secrets from a Master Negotiator](https://coursemetry.com/negotiation-a-z-inside-secrets-from-a-master-negotiator/)
+
+* [じぶん年金セミナーBASIC](https://coursemetry.com/%e3%81%98%e3%81%b6%e3%82%93%e5%b9%b4%e9%87%91%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bcbasic/)
+
+* [DaVinci Resolve 2022: Beginner to Advanced in DaVinci 18](https://coursemetry.com/davinci-resolve-2022-beginner-to-advanced-in-davinci-18/)
+
+* [Microsoft Excel: Excel course for beginners](https://coursemetry.com/microsoft-excel-excel-course-for-beginners/)
+
+* [Practical PowerPoint Advance Animations Guide | Deep Dive](https://coursemetry.com/practical-powerpoint-advance-animations-guide-deep-dive/)
+
+* [SAP BusinessObjects Interview Preparation](https://coursemetry.com/sap-businessobjects-interview-preparation/)
+
+* [API REST con PHP  y MYSQL](https://coursemetry.com/api-rest-con-php-y-mysql/)
+
+* [JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://coursemetry.com/junit-5-mockito-powermock-tdd-bdd-attd/)
+
+* [CAPM Exam Practice Question Set - Challenging Questions](https://coursemetry.com/capm-exam-practice-question-set-challenging-questions/)
+
+* [How To Make Passive Income on Amazon KDP with Zero dollars](https://coursemetry.com/how-to-make-passive-income-on-amazon-kdp-with-zero-dollars/)
+
+* [Counselling and Negotiation Skills for Management](https://coursemetry.com/counselling-and-negotiation-skills-for-management/)
+
+* [How to Draw from Beginner to Master: Charcoal & Graphite](https://coursemetry.com/how-to-draw-from-beginner-to-master-charcoal-graphite/)
+
+* [Blockchain Web Development on Ethereum](https://coursemetry.com/blockchain-web-development-on-ethereum/)
+
+* [Desarrolla un sistema web  POS desde cero con PHP NATIVO](https://coursemetry.com/desarrolla-un-sistema-web-pos-desde-cero-con-php-nativo/)
+
+* [GoF Design Patterns - Complete Course with Java Examples](https://coursemetry.com/gof-design-patterns-complete-course-with-java-examples/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [Explain Domain Name and Web Hosting - Find Perfect Domain](https://coursemetry.com/explain-domain-name-and-web-hosting-find-perfect-domain/)
+
+* [Javascript For Beginners Complete Course](https://coursemetry.com/javascript-for-beginners-complete-course/)
+
+* [The Complete Microsoft Excel Pivot Tables and Pivot Charts](https://coursemetry.com/the-complete-microsoft-excel-pivot-tables-and-pivot-charts/)
+
+* [Google Chrome Extension Development From Beginning](https://coursemetry.com/google-chrome-extension-development-from-beginning/)
+
+* [Google Analytics Certification. How to Pass the Exam](https://coursemetry.com/google-analytics-certification-how-to-pass-the-exam/)
+
+* [Run Digital Marketing Ad Using Google Adwords Express 2022](https://coursemetry.com/run-digital-marketing-ad-using-google-adwords-express-2022/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
