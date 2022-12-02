@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **76 Udemy free courses published so far on 2022-12-02**
+## **121 Udemy free courses published so far on 2022-12-02**
 
 * [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
 
@@ -155,6 +155,96 @@
 * [[Tips & Technics] : How to Become a Great Leader Skills 2022](https://coursemetry.com/tips-technics-how-to-become-a-great-leader-skills-2022/)
 
 * [LPI Linux Essentials 010-160 Exam practice](https://coursemetry.com/lpi-linux-essentials-010-160-exam-practice/)
+
+* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+
+* [speak arbic like natives](https://coursemetry.com/speak-arbic-like-natives/)
+
+* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
+
+* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
+
+* [aprender inglês - simplesmente através da música](https://coursemetry.com/aprender-ingles-simplesmente-atraves-da-musica/)
+
+* [Knowledge Digitization & Monetization Business Model](https://coursemetry.com/knowledge-digitization-monetization-business-model/)
+
+* [Google Certified Associate Cloud Engineer Practice Questions](https://coursemetry.com/google-certified-associate-cloud-engineer-practice-questions-5/)
+
+* [Digital Forensics Masterclass | Forensic Science 2022 DFMC+](https://coursemetry.com/digital-forensics-masterclass-forensic-science-2022-dfmc/)
+
+* [Google Certified Professional Cloud DevOps Engineer](https://coursemetry.com/google-certified-professional-cloud-devops-engineer/)
+
+* [Governmental Accounting 300 Proprietary & Fiduciary Funds](https://coursemetry.com/governmental-accounting-300-proprietary-fiduciary-funds/)
+
+* [Learn PHP - For Beginners](https://coursemetry.com/learn-php-for-beginners/)
+
+* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners/)
+
+* [Google Professional Cloud Network Engineer Practice Exam](https://coursemetry.com/google-professional-cloud-network-engineer-practice-exam-2/)
+
+* [2022 Beginner's guide to Cyber Security](https://coursemetry.com/2022-beginners-guide-to-cyber-security/)
+
+* [Positive Parenting- Basic Understanding](https://coursemetry.com/positive-parenting-basic-understanding/)
+
+* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
+
+* [P.O.W.E.R. : Proven Interview System to crack your DREAM job](https://coursemetry.com/p-o-w-e-r-proven-interview-system-to-crack-your-dream-job/)
+
+* [Build your Email List on Steroids using Killer Lead Magnets](https://coursemetry.com/build-your-email-list-on-steroids-using-killer-lead-magnets/)
+
+* [Advanced Financial Accounting](https://coursemetry.com/advanced-financial-accounting/)
+
+* [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
+
+* [Intelligence and Espionage Tradecraft Certificate Course](https://coursemetry.com/intelligence-and-espionage-tradecraft-certificate-course/)
+
+* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
+
+* [Power BI - Data Analytics Essentials with Power BI](https://coursemetry.com/power-bi-data-analytics-essentials-with-power-bi/)
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://coursemetry.com/aws-certified-solutions-architect-associate-practice-exams/)
+
+* [4 Practice Tests for any Python Certification](https://coursemetry.com/4-practice-tests-for-any-python-certification/)
+
+* [C Corporation Income Tax (Form 1120)](https://coursemetry.com/c-corporation-income-tax-form-1120/)
+
+* [Google Cloud Digital Leader Certification Practice Exams](https://coursemetry.com/google-cloud-digital-leader-certification-practice-exams-2/)
+
+* [Vray Next Geometrie Dinamiche 3ds max Modulo 9](https://coursemetry.com/vray-next-geometrie-dinamiche-3ds-max-modulo-9/)
+
+* [Corporate Finance](https://coursemetry.com/corporate-finance/)
+
+* [apprendre le portugais - simplement par la musique](https://coursemetry.com/apprendre-le-portugais-simplement-par-la-musique/)
+
+* [Portugiesisch lernen - ganz einfach mit Musik!](https://coursemetry.com/portugiesisch-lernen-ganz-einfach-mit-musik/)
+
+* [Security 101 Certification Course](https://coursemetry.com/security-101-certification-course/)
+
+* [Audit - Financial Statement](https://coursemetry.com/audit-financial-statement/)
+
+* [learn Portuguese language with music](https://coursemetry.com/learn-portuguese-language-with-music/)
+
+* [Governmental Accounting 200 Capital Projects & Debt Service](https://coursemetry.com/governmental-accounting-200-capital-projects-debt-service/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners/)
+
+* [Web Development Masterclass - Online Certification Course](https://coursemetry.com/web-development-masterclass-online-certification-course/)
+
+* [Governmental Accounting 100](https://coursemetry.com/governmental-accounting-100/)
+
+* [Setup LAMP Stack on a Remote Cloud Server + PHP Foundations](https://coursemetry.com/setup-lamp-stack-on-a-remote-cloud-server-php-foundations/)
+
+* [learn French language - learning french simply through music](https://coursemetry.com/learn-french-language-learning-french-simply-through-music/)
+
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
+
+* [Google Cloud Professional Cloud Developer Practice Questions](https://coursemetry.com/google-cloud-professional-cloud-developer-practice-questions/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [Improving software development productivity](https://coursemetry.com/improving-software-development-productivity/)
+
+* [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
