@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **58 Udemy free courses published so far on 2022-12-03**
+## **69 Udemy free courses published so far on 2022-12-03**
 
 * [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
 
@@ -119,6 +119,28 @@
 * [NumPy Bootcamp for Data Science and ML in Python - 2023](https://coursemetry.com/numpy-bootcamp-for-data-science-and-ml-in-python-2023/)
 
 * [Basics of Political Science](https://coursemetry.com/basics-of-political-science/)
+
+* [Basics of Groundwater Flow Modelling Using MODFLOW](https://coursemetry.com/basics-of-groundwater-flow-modelling-using-modflow/)
+
+* [Create a business website in 20 minutes with html and Css](https://coursemetry.com/create-a-business-website-in-20-minutes-with-html-and-css/)
+
+* [Web Testing with JavaScript](https://coursemetry.com/web-testing-with-javascript/)
+
+* [How to Create Positivity Instantly : INSIDE YOU](https://coursemetry.com/how-to-create-positivity-instantly-inside-you/)
+
+* [Learn video editing Beginner Crash Course Adobe Premiere Pro](https://coursemetry.com/learn-video-editing-beginner-crash-course-adobe-premiere-pro/)
+
+* [Learn Python Practically](https://coursemetry.com/learn-python-practically/)
+
+* [How To Use Jungle Scout - A to Z Tutorial And Review](https://coursemetry.com/how-to-use-jungle-scout-a-to-z-tutorial-and-review/)
+
+* [Python Advanced Part1: Sign Language Interpretation Included](https://coursemetry.com/python-advanced-part1-sign-language-interpretation-included/)
+
+* [Python Advanced Part2: Sign Language Interpretation Included](https://coursemetry.com/python-advanced-part2-sign-language-interpretation-included/)
+
+* [Learn Python : Sign Language Interpretation Included](https://coursemetry.com/learn-python-sign-language-interpretation-included/)
+
+* [Data structure & algorithm in Java: From scratch to deep](https://coursemetry.com/data-structure-algorithm-in-java-from-scratch-to-deep/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
