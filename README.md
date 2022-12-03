@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **69 Udemy free courses published so far on 2022-12-03**
+## **81 Udemy free courses published so far on 2022-12-03**
 
 * [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
 
@@ -141,6 +141,30 @@
 * [Learn Python : Sign Language Interpretation Included](https://coursemetry.com/learn-python-sign-language-interpretation-included/)
 
 * [Data structure & algorithm in Java: From scratch to deep](https://coursemetry.com/data-structure-algorithm-in-java-from-scratch-to-deep/)
+
+* [AWS Services for Solutions Architect Associate [2022]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2022/)
+
+* [Vray Next Effetti Volumetrici 3ds max Modulo 8](https://coursemetry.com/vray-next-effetti-volumetrici-3ds-max-modulo-8/)
+
+* [The Complete JavaScript Course 2023: From Zero to Expert!](https://coursemetry.com/the-complete-javascript-course-2023-from-zero-to-expert/)
+
+* [GoPros for beginners: From Shooting to editing with GoPros](https://coursemetry.com/gopros-for-beginners-from-shooting-to-editing-with-gopros/)
+
+* [Javascript Practicals Crash Course](https://coursemetry.com/javascript-practicals-crash-course/)
+
+* [Cinematic B-Roll Video: A Beginners Guide](https://coursemetry.com/cinematic-b-roll-video-a-beginners-guide/)
+
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [Introduction to International Trade Finance & Trade Services](https://coursemetry.com/introduction-to-international-trade-finance-trade-services/)
+
+* [Smartphone Videography Masterclass for Beginners](https://coursemetry.com/smartphone-videography-masterclass-for-beginners/)
+
+* [Easiest Side Gig 2022 - Passive Income from Transcription](https://coursemetry.com/easiest-side-gig-2022-passive-income-from-transcription/)
+
+* [Online Business – Work from Home](https://coursemetry.com/online-business-work-from-home/)
+
+* [Microsoft Word: La Guía Completa](https://coursemetry.com/microsoft-word-la-guia-completa/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
