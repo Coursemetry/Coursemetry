@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **108 Udemy free courses published so far on 2022-12-04**
+## **110 Udemy free courses published so far on 2022-12-04**
 
 * [Become a Successful Affiliate Marketer [Success Blueprint]](https://coursemetry.com/become-a-successful-affiliate-marketer-success-blueprint/)
 
@@ -219,6 +219,10 @@
 * [Master Course of Hospitality Marketing](https://coursemetry.com/master-course-of-hospitality-marketing/)
 
 * [Digital Marketing B2B: Ultimate Digital Marketing Course](https://coursemetry.com/digital-marketing-b2b-ultimate-digital-marketing-course/)
+
+* [Affiliate Marketing Mastery.  Beginners Guide A-Z](https://coursemetry.com/affiliate-marketing-mastery-beginners-guide-a-z/)
+
+* [Video Production, YouTube Marketing, & Video Marketing Guide](https://coursemetry.com/video-production-youtube-marketing-video-marketing-guide/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
