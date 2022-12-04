@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **96 Udemy free courses published so far on 2022-12-04**
+## **108 Udemy free courses published so far on 2022-12-04**
 
 * [Become a Successful Affiliate Marketer [Success Blueprint]](https://coursemetry.com/become-a-successful-affiliate-marketer-success-blueprint/)
 
@@ -195,6 +195,30 @@
 * [Criteria Cognitive Aptitude Test (CCAT) Practice Test [2022]](https://coursemetry.com/criteria-cognitive-aptitude-test-ccat-practice-test-2022/)
 
 * [Excel Accounting 4–Enter Data & Track Current Month & YTD](https://coursemetry.com/excel-accounting-4-enter-data-track-current-month-ytd/)
+
+* [Corporate Finance #16 Convertible Bonds & Warrants](https://coursemetry.com/corporate-finance-16-convertible-bonds-warrants/)
+
+* [Introduction to Reverse Osmosis Desalination](https://coursemetry.com/introduction-to-reverse-osmosis-desalination/)
+
+* [E-commerce and Amazon Crash Course](https://coursemetry.com/e-commerce-and-amazon-crash-course/)
+
+* [Customer Service Mastery: Customer Service Skills Next Level](https://coursemetry.com/customer-service-mastery-customer-service-skills-next-level/)
+
+* [Master course of Amazon Cognito](https://coursemetry.com/master-course-of-amazon-cognito/)
+
+* [LinkedIn Ads: LinkedIn Lead Generation | LinkedIn Marketing](https://coursemetry.com/linkedin-ads-linkedin-lead-generation-linkedin-marketing/)
+
+* [Parametric Design with Rhino 3D: Zero to Hero, NO SCRIPTING](https://coursemetry.com/parametric-design-with-rhino-3d-zero-to-hero-no-scripting/)
+
+* [Instagram Marketing 2021: Growth and Promotion on Instagram](https://coursemetry.com/instagram-marketing-2021-growth-and-promotion-on-instagram/)
+
+* [Master Course of Lean Startup and IT Startup](https://coursemetry.com/master-course-of-lean-startup-and-it-startup/)
+
+* [Master all the MS Excel Macros and the basics of Excel VBA](https://coursemetry.com/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/)
+
+* [Master Course of Hospitality Marketing](https://coursemetry.com/master-course-of-hospitality-marketing/)
+
+* [Digital Marketing B2B: Ultimate Digital Marketing Course](https://coursemetry.com/digital-marketing-b2b-ultimate-digital-marketing-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
