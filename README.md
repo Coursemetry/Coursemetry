@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **94 Udemy free courses published so far on 2022-12-05**
+## **95 Udemy free courses published so far on 2022-12-05**
 
 * [Sell kid Coloring books on Amazon KDP using Canva for FREE](https://coursemetry.com/sell-kid-coloring-books-on-amazon-kdp-using-canva-for-free/)
 
@@ -191,6 +191,8 @@
 * [Value Education and Professional Ethics](https://coursemetry.com/value-education-and-professional-ethics/)
 
 * [Fire Up Creativity in Your Child](https://coursemetry.com/fire-up-creativity-in-your-child/)
+
+* [SEO Training: Complete SEO Course & SEO Copywriting MASTERY](https://coursemetry.com/seo-training-complete-seo-course-seo-copywriting-mastery/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
