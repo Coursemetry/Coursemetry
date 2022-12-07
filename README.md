@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **60 Udemy free courses published so far on 2022-12-07**
+## **81 Udemy free courses published so far on 2022-12-07**
 
 * [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
 
@@ -112,8 +112,6 @@
 
 * [Public Speaking: A tactical approach](https://coursemetry.com/public-speaking-a-tactical-approach/)
 
-* [Programming For Beginners and Kids (Python & Blocks) Arabic](https://coursemetry.com/programming-for-beginners-and-kids-python-blocks-arabic/)
-
 * [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
 
 * [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
@@ -123,6 +121,50 @@
 * [Copywriting: Persuasive Writing Ft. Two Forbes Writers](https://coursemetry.com/copywriting-persuasive-writing-ft-two-forbes-writers/)
 
 * [Digitize,Monetize Your Knowledge Easy Implementation Guide](https://coursemetry.com/digitizemonetize-your-knowledge-easy-implementation-guide/)
+
+* [Xero Accounting Software](https://coursemetry.com/xero-accounting-software/)
+
+* [Reverse Engineering .NET For Beginners (Visual Basic)](https://coursemetry.com/reverse-engineering-net-for-beginners-visual-basic/)
+
+* [Calorie Management - Simply Explained Master Class (TM)](https://coursemetry.com/calorie-management-simply-explained-master-class-tm/)
+
+* [Ionic 6+ Chat App using Firebase](https://coursemetry.com/ionic-6-chat-app-using-firebase/)
+
+* [Depreciation Accounting and Finance Master Class (TM)](https://coursemetry.com/depreciation-accounting-and-finance-master-class-tm/)
+
+* [Trading Account, Profit and Loss Account Master Class. (TM)](https://coursemetry.com/trading-account-profit-and-loss-account-master-class-tm/)
+
+* [Blockchain Explained: The Ultimate Beginner's Guide.](https://coursemetry.com/blockchain-explained-the-ultimate-beginners-guide/)
+
+* [Online Business: 20 Ways To Make Money Online 2022](https://coursemetry.com/online-business-20-ways-to-make-money-online-2022/)
+
+* [CSS And Javascript Crash Course](https://coursemetry.com/css-and-javascript-crash-course/)
+
+* [Business Chinese: Customer Service Skills](https://coursemetry.com/business-chinese-customer-service-skills/)
+
+* [How to fight depression with poetry writing](https://coursemetry.com/how-to-fight-depression-with-poetry-writing/)
+
+* [Vray Next Upgrade 2 in 3ds max Modulo 11](https://coursemetry.com/vray-next-upgrade-2-in-3ds-max-modulo-11/)
+
+* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
+
+* [File & Folder Management Using PowerShell](https://coursemetry.com/file-folder-management-using-powershell/)
+
+* [AWS Certified SysOps Administrator Associate Practice Exams](https://coursemetry.com/aws-certified-sysops-administrator-associate-practice-exams-2/)
+
+* [Observe to Unmask: 100 Small Things to Know People Better](https://coursemetry.com/observe-to-unmask-100-small-things-to-know-people-better/)
+
+* [Programming For Beginners and Kids (Python & Blocks) Arabic](https://coursemetry.com/programming-for-beginners-and-kids-python-blocks-arabic/)
+
+* [Windows 11 For Beginners](https://coursemetry.com/windows-11-for-beginners/)
+
+* [Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://coursemetry.com/computer-science-metabootcamp-beginner-to-intermediate-2022/)
+
+* [Marriage Relationship Ending?  Protect Your Dog Cat Pet](https://coursemetry.com/marriage-relationship-ending-protect-your-dog-cat-pet/)
+
+* [Master course of Amazon Cognito](https://coursemetry.com/master-course-of-amazon-cognito/)
+
+* [Design Thinking Guide for Successful Professionals](https://coursemetry.com/design-thinking-guide-for-successful-professionals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
