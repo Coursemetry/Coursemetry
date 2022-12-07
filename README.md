@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **81 Udemy free courses published so far on 2022-12-07**
+## **89 Udemy free courses published so far on 2022-12-07**
 
 * [Introduction to Quantum Computing](https://coursemetry.com/introduction-to-quantum-computing/)
 
@@ -165,6 +165,22 @@
 * [Master course of Amazon Cognito](https://coursemetry.com/master-course-of-amazon-cognito/)
 
 * [Design Thinking Guide for Successful Professionals](https://coursemetry.com/design-thinking-guide-for-successful-professionals/)
+
+* [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
+
+* [HOW TO EARN MONEY ONLINE FOR FREE (Bitcoin For Beginners)](https://coursemetry.com/how-to-earn-money-online-for-free-bitcoin-for-beginners/)
+
+* [Programação em Linguagem C para Iniciantes](https://coursemetry.com/programacao-em-linguagem-c-para-iniciantes/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [C++ Dersleri | 100 Derste C++ Öğrenin | C++ ile Programlama](https://coursemetry.com/c-dersleri-100-derste-c-ogrenin-c-ile-programlama/)
+
+* [Complete Guitar Megacourse: Beginner to Expert](https://coursemetry.com/complete-guitar-megacourse-beginner-to-expert/)
+
+* [Master Course in Business Analysis](https://coursemetry.com/master-course-in-business-analysis/)
+
+* [Adobe Photoshop CC edycja obróbka zdjęć Od Zera Do Eksperta](https://coursemetry.com/adobe-photoshop-cc-edycja-obrobka-zdjec-od-zera-do-eksperta/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
