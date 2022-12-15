@@ -2,187 +2,135 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **90 Udemy free courses published so far on 2022-12-12**
+## **64 Udemy free courses published so far on 2022-12-15**
 
-* [Nutrition Life Coach Ultimate Certification Course](https://coursemetry.com/nutrition-life-coach-ultimate-certification-course/)
+* [NumPy Bootcamp for Data Science and ML in Python - 2023](https://coursemetry.com/numpy-bootcamp-for-data-science-and-ml-in-python-2023/)
 
-* [Life Coach: The Complete Life Coach Certification Course](https://coursemetry.com/life-coach-the-complete-life-coach-certification-course/)
+* [Python pour la Data Science et le Machine Learning: A à Z](https://coursemetry.com/python-pour-la-data-science-et-le-machine-learning-a-a-z/)
 
-* [How to get out of burnout for busy entrepreneurs](https://coursemetry.com/how-to-get-out-of-burnout-for-busy-entrepreneurs/)
+* [Practical Cisco Networking Labs in Cisco Packet Tracer](https://coursemetry.com/practical-cisco-networking-labs-in-cisco-packet-tracer/)
 
-* [Public Speaking Skills: Deliver Great Technology Talks](https://coursemetry.com/public-speaking-skills-deliver-great-technology-talks/)
+* [Online Course Creation and Marketing Success - 2022 [Guide]](https://coursemetry.com/online-course-creation-and-marketing-success-2022-guide/)
 
-* [Der Komplette Excel Kurs - Vom Anfänger zum Profi in 40h !](https://coursemetry.com/der-komplette-excel-kurs-vom-anfanger-zum-profi-in-40h/)
+* [Sell kid Coloring books on Amazon KDP using Canva for FREE](https://coursemetry.com/sell-kid-coloring-books-on-amazon-kdp-using-canva-for-free/)
 
-* [See 27 Ways to Make Money Online with Your Smartphone!](https://coursemetry.com/see-27-ways-to-make-money-online-with-your-smartphone/)
+* [Learn to Host Multiple Domains on one Virtual Server](https://coursemetry.com/learn-to-host-multiple-domains-on-one-virtual-server/)
 
-* [Income Tax Selling Your Home](https://coursemetry.com/income-tax-selling-your-home/)
+* [NumPy & Pandas Masterclass for data analysis and ML | 2023](https://coursemetry.com/numpy-pandas-masterclass-for-data-analysis-and-ml-2023/)
 
-* [Nutrition and Dieting: The Ultimate Course About Nutrition](https://coursemetry.com/nutrition-and-dieting-the-ultimate-course-about-nutrition/)
+* [Python Complete Course For Python Beginners](https://coursemetry.com/python-complete-course-for-python-beginners/)
 
-* [Master Course in Logistics and Supply Chain Management 2.0](https://coursemetry.com/master-course-in-logistics-and-supply-chain-management-2-0/)
+* [5 Real-Time Use Cases using Machine Learning](https://coursemetry.com/5-real-time-use-cases-using-machine-learning/)
 
-* [Master Google Data Studio for Data Visualization in 2023](https://coursemetry.com/master-google-data-studio-for-data-visualization-in-2023/)
+* [Python pour la POO: Programmation Orientée Objet en Python](https://coursemetry.com/python-pour-la-poo-programmation-orientee-objet-en-python/)
 
-* [Automated Machine Learning for Beginners (Google & Apple)](https://coursemetry.com/automated-machine-learning-for-beginners-google-apple/)
+* [Programming Network Applications in Java](https://coursemetry.com/programming-network-applications-in-java/)
 
-* [Inbound Marketing - Improve Your Skills Today](https://coursemetry.com/inbound-marketing-improve-your-skills-today/)
+* [The Ultimate Pandas and PostgreSQL Bootcamp - Data Analysis](https://coursemetry.com/the-ultimate-pandas-and-postgresql-bootcamp-data-analysis/)
 
-* [SEO Link Building & Content Writing Course: Get HQ Backlinks](https://coursemetry.com/seo-link-building-content-writing-course-get-hq-backlinks/)
+* [The Complete Pandas Bootcamp 2023 for Data Analysis - Python](https://coursemetry.com/the-complete-pandas-bootcamp-2023-for-data-analysis-python/)
 
-* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+* [Information Security Fundamentals](https://coursemetry.com/information-security-fundamentals/)
 
-* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+* [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
 
-* [PCAP Certified Associate in Python Programming-Practice exam](https://coursemetry.com/pcap-certified-associate-in-python-programming-practice-exam/)
+* [Master Your Priorities - Get More Done In Less Time](https://coursemetry.com/master-your-priorities-get-more-done-in-less-time/)
 
-* [Essential Oils Ultimate Certification Course](https://coursemetry.com/essential-oils-ultimate-certification-course/)
+* [Entrepreneurship: 60 Day Startup Launch Blueprint](https://coursemetry.com/entrepreneurship-60-day-startup-launch-blueprint/)
 
-* [Life Coaching: ZERO TO HERO Life Coach certificate Course](https://coursemetry.com/life-coaching-zero-to-hero-life-coach-certificate-course/)
+* [Best Starter Course: ROS & Robotics Simplified](https://coursemetry.com/best-starter-course-ros-robotics-simplified/)
 
-* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
+* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
 
-* [Nutrition Certification: The Complete Nutrition Course](https://coursemetry.com/nutrition-certification-the-complete-nutrition-course/)
+* [Power Start in Project Management](https://coursemetry.com/power-start-in-project-management/)
 
-* [QuickBooks Pro-Business & Personal-One QuickBooks File](https://coursemetry.com/quickbooks-pro-business-personal-one-quickbooks-file/)
+* [IP Addressing and Subnetting - Zero to Hero](https://coursemetry.com/ip-addressing-and-subnetting-zero-to-hero/)
 
-* [LPI Linux Essentials 010-160 Certification Exam Practice](https://coursemetry.com/lpi-linux-essentials-010-160-certification-exam-practice/)
+* [49 Weight Loss Tips You Can Stick To Forever - Be Thinner](https://coursemetry.com/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/)
 
-* [Neuroplasticity Ultimate Certification Course](https://coursemetry.com/neuroplasticity-ultimate-certification-course/)
+* [Data Analysis with Pandas, NumPy and PostgreSQL -Masterclass](https://coursemetry.com/data-analysis-with-pandas-numpy-and-postgresql-masterclass/)
 
-* [Aromatherapy Complete Certification Course](https://coursemetry.com/aromatherapy-complete-certification-course/)
+* [JAVA: Empieza desde cero con IntelliJ](https://coursemetry.com/java-empieza-desde-cero-con-intellij/)
 
-* [Tax & Adjusting Entry Year-End Accounting Excel Worksheet](https://coursemetry.com/tax-adjusting-entry-year-end-accounting-excel-worksheet/)
+* [The Guide to Computer Programming in Java](https://coursemetry.com/the-guide-to-computer-programming-in-java/)
 
-* [Passive income for busy entrepreneurs - part 2](https://coursemetry.com/passive-income-for-busy-entrepreneurs-part-2/)
+* [Microsoft AZ-104: Azure Administrator Exam Prep Test](https://coursemetry.com/microsoft-az-104-azure-administrator-exam-prep-test/)
 
-* [Life coach and life purpose certification course](https://coursemetry.com/life-coach-and-life-purpose-certification-course/)
+* [Project Development Using JAVA for Beginners - 2022](https://coursemetry.com/project-development-using-java-for-beginners-2022/)
 
-* [Facebook Ads & Instagram Ads Course 2023: The Art of Selling](https://coursemetry.com/facebook-ads-instagram-ads-course-2023-the-art-of-selling/)
+* [PMI-ACP: Agile Certified Project Management 200 Questions](https://coursemetry.com/pmi-acp-agile-certified-project-management-200-questions/)
 
-* [Attract your dream client on Instagram](https://coursemetry.com/attract-your-dream-client-on-instagram/)
+* [Computer Networks Fundamentals](https://coursemetry.com/computer-networks-fundamentals/)
 
-* [Success tips for busy entrepreneurs- live your best life now](https://coursemetry.com/success-tips-for-busy-entrepreneurs-live-your-best-life-now/)
+* [Digital Nomad: How to find Freelancing Opportunities in 2022](https://coursemetry.com/digital-nomad-how-to-find-freelancing-opportunities-in-2022/)
 
-* [Make Hiring Work](https://coursemetry.com/make-hiring-work/)
+* [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
 
-* [Complete PYTHON Programming for Beginners - 2022](https://coursemetry.com/complete-python-programming-for-beginners-2022/)
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
 
-* [Aromatherapy: complete beginner course for essential oils](https://coursemetry.com/aromatherapy-complete-beginner-course-for-essential-oils/)
+* [Adobe Lightroom Classic CC: Master the Library Module](https://coursemetry.com/adobe-lightroom-classic-cc-master-the-library-module/)
 
-* [Master Course in Sales Skills](https://coursemetry.com/master-course-in-sales-skills/)
+* [Effective Time Management For Professionals](https://coursemetry.com/effective-time-management-for-professionals/)
 
-* [passive income doing what you love - start a business](https://coursemetry.com/passive-income-doing-what-you-love-start-a-business/)
+* [Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2023](https://coursemetry.com/write-2-sell-28-copywriting-templates-ecommerce-seo-2023/)
 
-* [Education Tax Credits & Education Tax Benefits](https://coursemetry.com/education-tax-credits-education-tax-benefits/)
+* [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
 
-* [Neuroplasticity And CBT Complete Certification Course](https://coursemetry.com/neuroplasticity-and-cbt-complete-certification-course/)
+* [Complete Google Classroom Course: Teaching Google Classroom](https://coursemetry.com/complete-google-classroom-course-teaching-google-classroom/)
 
-* [Tax Credits - Family & Dependent Tax Credits](https://coursemetry.com/tax-credits-family-dependent-tax-credits/)
+* [Python 3: Análisis y visualización de datos](https://coursemetry.com/python-3-analisis-y-visualizacion-de-datos/)
 
-* [How to speak to your dream client on social media](https://coursemetry.com/how-to-speak-to-your-dream-client-on-social-media/)
+* [Creative Infographics in PowerPoint](https://coursemetry.com/creative-infographics-in-powerpoint/)
 
-* [Neuroplasticity: Discover How To Rewire Your Anxiety](https://coursemetry.com/neuroplasticity-discover-how-to-rewire-your-anxiety/)
+* [The Email Etiquette Course - Business Writing With Class](https://coursemetry.com/the-email-etiquette-course-business-writing-with-class/)
 
-* [Master your content for busy entrepreneurs](https://coursemetry.com/master-your-content-for-busy-entrepreneurs/)
+* [How the Internet Works & the Web Development Process](https://coursemetry.com/how-the-internet-works-the-web-development-process/)
 
-* [Neuroplasticity Life Coach Complete Certificate Course](https://coursemetry.com/neuroplasticity-life-coach-complete-certificate-course/)
+* [Aprende SIMULINK de CERO a EXPERTO](https://coursemetry.com/aprende-simulink-de-cero-a-experto/)
 
-* [Visibility strategies that work for busy entrepreneurs](https://coursemetry.com/visibility-strategies-that-work-for-busy-entrepreneurs/)
+* [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
 
-* [Nutrition: The Ultimate Nutrition certification Course](https://coursemetry.com/nutrition-the-ultimate-nutrition-certification-course/)
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
 
-* [Affiliate marketing success for busy entrepreneurs](https://coursemetry.com/affiliate-marketing-success-for-busy-entrepreneurs/)
+* [Introduction to Domain Names and Web Hosting - Quick Guide](https://coursemetry.com/introduction-to-domain-names-and-web-hosting-quick-guide/)
 
-* [Master Course in Human Resources 2.0](https://coursemetry.com/master-course-in-human-resources-2-0/)
+* [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
 
-* [Public Speaking: Give a Great Retirement Speech!](https://coursemetry.com/public-speaking-give-a-great-retirement-speech/)
+* [Adobe Lightroom Classic CC: The Map & Book Module](https://coursemetry.com/adobe-lightroom-classic-cc-the-map-book-module/)
 
-* [Easy IBS Relief with EFT - Tapping Therapy](https://coursemetry.com/easy-ibs-relief-with-eft-tapping-therapy/)
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
 
-* [Google Professional Cloud DevOps Engineer (GCP)](https://coursemetry.com/google-professional-cloud-devops-engineer-gcp/)
+* [WP Fastest Cache to Optimize your Wordpress Website Speed](https://coursemetry.com/wp-fastest-cache-to-optimize-your-wordpress-website-speed/)
 
-* [Offer creation for busy entrepreneurs - offers that sell](https://coursemetry.com/offer-creation-for-busy-entrepreneurs-offers-that-sell/)
+* [Power BI DAX: Aprende las funciones más avanzadas](https://coursemetry.com/power-bi-dax-aprende-las-funciones-mas-avanzadas/)
 
-* [Public Speaking for High School Students: Speak Well Now](https://coursemetry.com/public-speaking-for-high-school-students-speak-well-now/)
+* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
 
-* [Nutrition certification: Diet and weight loss for everyone](https://coursemetry.com/nutrition-certification-diet-and-weight-loss-for-everyone/)
+* [The Complete Recruiting Masterclass - HR Resources - Hiring](https://coursemetry.com/the-complete-recruiting-masterclass-hr-resources-hiring/)
 
-* [Presentation Skills Training: Great One on One Presentations](https://coursemetry.com/presentation-skills-training-great-one-on-one-presentations/)
+* [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
 
-* [Build your Email List on Steroids using Killer Lead Magnets](https://coursemetry.com/build-your-email-list-on-steroids-using-killer-lead-magnets/)
+* [Complete Management Coaching Course - Executive Coaching](https://coursemetry.com/complete-management-coaching-course-executive-coaching/)
 
-* [CBT for anxiety and panic](https://coursemetry.com/cbt-for-anxiety-and-panic/)
+* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
 
-* [Get Paid for Your Expertise | Step-by-Step Business Model](https://coursemetry.com/get-paid-for-your-expertise-step-by-step-business-model/)
+* [Consultas en SQL para principiantes](https://coursemetry.com/consultas-en-sql-para-principiantes/)
 
-* [Create a WordPress website with Hostinger!](https://coursemetry.com/create-a-wordpress-website-with-hostinger/)
+* [Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://coursemetry.com/freelancing-37-ways-to-make-money-from-home-as-a-freelancer/)
 
-* [Python And Flask  Demonstrations Practice Course](https://coursemetry.com/python-and-flask-demonstrations-practice-course/)
+* [PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://coursemetry.com/pspo1-practice-tests-scrum-product-owner-certification-160q/)
 
-* [Income Tax – Schedule C Small Business Sole Proprietor](https://coursemetry.com/income-tax-schedule-c-small-business-sole-proprietor/)
+* [Fundamentals of Electrical Engineering](https://coursemetry.com/fundamentals-of-electrical-engineering/)
 
-* [PHP for Beginners: PHP Crash Course 2022](https://coursemetry.com/php-for-beginners-php-crash-course-2022/)
+* [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
 
-* [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
 
-* [Digitize,Monetize Your Knowledge Easy Implementation Guide](https://coursemetry.com/digitizemonetize-your-knowledge-easy-implementation-guide/)
+* [The Art of Drawing Portraits for Beginner's Level 2022](https://coursemetry.com/the-art-of-drawing-portraits-for-beginners-level-2022/)
 
-* [Income Tax-Business Use of Home Deduction](https://coursemetry.com/income-tax-business-use-of-home-deduction/)
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
 
-* [Instagram Marketing 2023. How to Promote Your Business!](https://coursemetry.com/instagram-marketing-2023-how-to-promote-your-business/)
-
-* [Public Speaking - High Tech Executives Can be Eloquent](https://coursemetry.com/public-speaking-high-tech-executives-can-be-eloquent/)
-
-* [Public Speaking for Parents - Teach Your Kids to Present 1Hr](https://coursemetry.com/public-speaking-for-parents-teach-your-kids-to-present-1hr/)
-
-* [Presentation Skills: Give a Great Acceptance Speech](https://coursemetry.com/presentation-skills-give-a-great-acceptance-speech/)
-
-* [Réussir sur Facebook en 2023 : le guide marketing complet !](https://coursemetry.com/reussir-sur-facebook-en-2023-le-guide-marketing-complet/)
-
-* [Redis Crash Course in Urdu | Hindi](https://coursemetry.com/redis-crash-course-in-urdu-hindi/)
-
-* [CBT: Complete psychotherapy Certificate Course](https://coursemetry.com/cbt-complete-psychotherapy-certificate-course/)
-
-* [Body Language in the Workplace](https://coursemetry.com/body-language-in-the-workplace/)
-
-* [Master Course of Amazon Connect](https://coursemetry.com/master-course-of-amazon-connect/)
-
-* [Personal Growth - Affirmations and Taking Action](https://coursemetry.com/personal-growth-affirmations-and-taking-action/)
-
-* [Create & sell your first digital product](https://coursemetry.com/create-sell-your-first-digital-product/)
-
-* [Change your financial story in 5 steps](https://coursemetry.com/change-your-financial-story-in-5-steps/)
-
-* [Financial Accounting & Excel–Comprehensive Accounting Course](https://coursemetry.com/financial-accounting-excel-comprehensive-accounting-course/)
-
-* [Logística: Administración y Gestión de Inventarios](https://coursemetry.com/logistica-administracion-y-gestion-de-inventarios/)
-
-* [Tapping Into Success with EFT](https://coursemetry.com/tapping-into-success-with-eft/)
-
-* [CBT Ultimate Certificate Course for Everyone](https://coursemetry.com/cbt-ultimate-certificate-course-for-everyone/)
-
-* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
-
-* [Digital Marketing Strategy Bundle: 7 practical courses in 1!](https://coursemetry.com/digital-marketing-strategy-bundle-7-practical-courses-in-1/)
-
-* [Unshakable self confidence for busy entrepreneurs](https://coursemetry.com/unshakable-self-confidence-for-busy-entrepreneurs/)
-
-* [Google My Business. How to Master Powerful Tool for Company](https://coursemetry.com/google-my-business-how-to-master-powerful-tool-for-company/)
-
-* [Business journaling bootcamp for busy entrepreneurs](https://coursemetry.com/business-journaling-bootcamp-for-busy-entrepreneurs/)
-
-* [CBT and Nutrition Ultimate Certification Course](https://coursemetry.com/cbt-and-nutrition-ultimate-certification-course/)
-
-* [Google Office: Docs, Sheets, Slides  من الصفر للاحتراف](https://coursemetry.com/google-office-docs-sheets-slides-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81/)
-
-* [Shopify Management For Freelancing](https://coursemetry.com/shopify-management-for-freelancing/)
-
-* [Recovery Roadmap: 'Sobriety Toolbox'](https://coursemetry.com/recovery-roadmap-sobriety-toolbox/)
-
-* [Individual Retirement Accounts (IRAs) & Taxes](https://coursemetry.com/individual-retirement-accounts-iras-taxes/)
-
-* [Flutter Clean  Architecture [2022] [Flutter 3] (In Arabic)](https://coursemetry.com/flutter-clean-architecture-2022-flutter-3-in-arabic/)
+* [Agile Scrum Advanced Software Development+Program Management](https://coursemetry.com/agile-scrum-advanced-software-developmentprogram-management/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
