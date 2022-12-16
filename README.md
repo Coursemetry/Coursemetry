@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **45 Udemy free courses published so far on 2022-12-16**
+## **79 Udemy free courses published so far on 2022-12-16**
 
 * [Salary Negotiation - How to Ask for and Receive a Pay Raise](https://coursemetry.com/salary-negotiation-how-to-ask-for-and-receive-a-pay-raise/)
 
@@ -93,6 +93,74 @@
 * [Create a WordPress website with Hostinger!](https://coursemetry.com/create-a-wordpress-website-with-hostinger/)
 
 * [TikTok Marketing. How to promote your business effectively!](https://coursemetry.com/tiktok-marketing-how-to-promote-your-business-effectively/)
+
+* [2023-300+ Python Exercises (Simple & Complex) with Algorithm](https://coursemetry.com/2023-300-python-exercises-simple-complex-with-algorithm/)
+
+* [Easy watercolor painting- night sky galaxy manga portrait](https://coursemetry.com/easy-watercolor-painting-night-sky-galaxy-manga-portrait/)
+
+* [Time Management & Productivity - Deep Dive](https://coursemetry.com/time-management-productivity-deep-dive/)
+
+* [Practice Exam. AWS Machine Learning Specialty 2023 [NEW]](https://coursemetry.com/practice-exam-aws-machine-learning-specialty-2023-new/)
+
+* [Javascript Build a Calculator using HTML, CSS and Javascript](https://coursemetry.com/javascript-build-a-calculator-using-html-css-and-javascript/)
+
+* [The C++ Course : Whole New Learning Experience with C++ | CP](https://coursemetry.com/the-c-course-whole-new-learning-experience-with-c-cp/)
+
+* [The Complete Day Trading Master Course in Hindi | Intraday](https://coursemetry.com/the-complete-day-trading-master-course-in-hindi-intraday/)
+
+* [Complete Creative Writing Megacourse: Beginner to Expert](https://coursemetry.com/complete-creative-writing-megacourse-beginner-to-expert/)
+
+* [Postgraduate Executive Diploma: Consumer Lending Business](https://coursemetry.com/postgraduate-executive-diploma-consumer-lending-business/)
+
+* [Crea y automatiza Reportes con Python en Word y Excel.](https://coursemetry.com/crea-y-automatiza-reportes-con-python-en-word-y-excel/)
+
+* [Personal Communication-Introduce Yourself With Confidence](https://coursemetry.com/personal-communication-introduce-yourself-with-confidence/)
+
+* [Practical Approach to Investing Personal Finances](https://coursemetry.com/practical-approach-to-investing-personal-finances/)
+
+* [Office Administration Management](https://coursemetry.com/office-administration-management/)
+
+* [Project Management: Cost & Schedule Monitoring using EVM](https://coursemetry.com/project-management-cost-schedule-monitoring-using-evm/)
+
+* [Train the Trainer: How to Be a Trainer in the Training Biz](https://coursemetry.com/train-the-trainer-how-to-be-a-trainer-in-the-training-biz/)
+
+* [Complete Reading Music Megacourse: Beginner to Expert](https://coursemetry.com/complete-reading-music-megacourse-beginner-to-expert/)
+
+* [Car Mechanic and Electrician Training Certificated | 2023+](https://coursemetry.com/car-mechanic-and-electrician-training-certificated-2023/)
+
+* [Complete Songwriting Megacourse: Beginner to Expert](https://coursemetry.com/complete-songwriting-megacourse-beginner-to-expert/)
+
+* [The Complete Talking Head Video Production Masterclass](https://coursemetry.com/the-complete-talking-head-video-production-masterclass/)
+
+* [Omnichannel Sales & Service Management with AI & Chat Bots](https://coursemetry.com/omnichannel-sales-service-management-with-ai-chat-bots/)
+
+* [Public Speaking: You Can be a Great Speaker within 24 Hours](https://coursemetry.com/public-speaking-you-can-be-a-great-speaker-within-24-hours/)
+
+* [Accounting-Bonds Payable, Notes Payable, Liabilities](https://coursemetry.com/accounting-bonds-payable-notes-payable-liabilities/)
+
+* [Financial Accounting – Closing Process](https://coursemetry.com/financial-accounting-closing-process/)
+
+* [Financial Accounting – Inventory Costs](https://coursemetry.com/financial-accounting-inventory-costs/)
+
+* [PowerPoint Presentations: Deliver a Non-Boring Presentation](https://coursemetry.com/powerpoint-presentations-deliver-a-non-boring-presentation/)
+
+* [Partnership Accounting](https://coursemetry.com/partnership-accounting/)
+
+* [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
+
+* [Learn Why Cupping Therapy Works for Yourself or New Business](https://coursemetry.com/learn-why-cupping-therapy-works-for-yourself-or-new-business/)
+
+* [Financial Accounting-Debits & Credits-Accounting Transaction](https://coursemetry.com/financial-accounting-debits-credits-accounting-transaction/)
+
+* [Financial Accounting – Payroll](https://coursemetry.com/financial-accounting-payroll/)
+
+* [Job Order Costing System – Managerial Accounting](https://coursemetry.com/job-order-costing-system-managerial-accounting/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [Financial Accounting-Depreciation Calculation & Fixed Assets](https://coursemetry.com/financial-accounting-depreciation-calculation-fixed-assets/)
+
+* [Financial Accounting-Adjusting Entries & Financial Statement](https://coursemetry.com/financial-accounting-adjusting-entries-financial-statement/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
