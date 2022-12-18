@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published so far on 2022-12-18**
+## **74 Udemy free courses published so far on 2022-12-18**
 
 * [Favicon Grabber Using JavaScript](https://coursemetry.com/favicon-grabber-using-javascript/)
 
@@ -147,6 +147,10 @@
 * [Starting your own business - where to begin!](https://coursemetry.com/starting-your-own-business-where-to-begin/)
 
 * [Construa seu Front-End Dapp p/ NFT's com React.JS](https://coursemetry.com/construa-seu-front-end-dapp-p-nfts-com-react-js/)
+
+* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+
+* [Creative Writing Course for Ecommerce & Ecommerce SEO Course](https://coursemetry.com/creative-writing-course-for-ecommerce-ecommerce-seo-course/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
