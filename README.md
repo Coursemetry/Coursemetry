@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **51 Udemy free courses published so far on 2022-12-21**
+## **83 Udemy free courses published so far on 2022-12-21**
 
 * [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
 
@@ -105,6 +105,70 @@
 * [Enhance Your Reiki Practice With Bach Flower Remedies.](https://coursemetry.com/enhance-your-reiki-practice-with-bach-flower-remedies/)
 
 * [How to build a Weekly Passive Income with Dividend Investing](https://coursemetry.com/how-to-build-a-weekly-passive-income-with-dividend-investing/)
+
+* [Learn Python and Become Professional Python Developer](https://coursemetry.com/learn-python-and-become-professional-python-developer/)
+
+* [Shopify & Aliexpress Dropshipping in 2023 - One Piece Store](https://coursemetry.com/shopify-aliexpress-dropshipping-in-2023-one-piece-store/)
+
+* [Exam AI-900: Microsoft Azure AI Fundamentals Practice Tests](https://coursemetry.com/exam-ai-900-microsoft-azure-ai-fundamentals-practice-tests/)
+
+* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+
+* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+
+* [Content Marketing 2023. Content that Sells!](https://coursemetry.com/content-marketing-2023-content-that-sells/)
+
+* [Keynote, el POWERPOINT de Apple.](https://coursemetry.com/keynote-el-powerpoint-de-apple/)
+
+* [Master Course in Public Speaking](https://coursemetry.com/master-course-in-public-speaking/)
+
+* [Logistic Regression in R Studio](https://coursemetry.com/logistic-regression-in-r-studio/)
+
+* [Digital Marketing Course for Fitness Professionals (2022)](https://coursemetry.com/digital-marketing-course-for-fitness-professionals-2022/)
+
+* [eCommerce Marketing Course (2022 Grand Edition)](https://coursemetry.com/ecommerce-marketing-course-2022-grand-edition/)
+
+* [Advanced Artificial Intelligence in App Creation (2022)](https://coursemetry.com/advanced-artificial-intelligence-in-app-creation-2022/)
+
+* [Seguridad Informática para Computadoras Empresariales.](https://coursemetry.com/seguridad-informatica-para-computadoras-empresariales/)
+
+* [Linear Regression and Logistic Regression using R Studio](https://coursemetry.com/linear-regression-and-logistic-regression-using-r-studio/)
+
+* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
+
+* [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
+
+* [Live Streaming - The Complete Course - Zoom Twitch OBS Skype](https://coursemetry.com/live-streaming-the-complete-course-zoom-twitch-obs-skype/)
+
+* [Getting Started with Vim for Beginners](https://coursemetry.com/getting-started-with-vim-for-beginners/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [PHP with MySQL 2022: Build a Complete Job Portal](https://coursemetry.com/php-with-mysql-2022-build-a-complete-job-portal/)
+
+* [Build a Portfolio Website without Coding 2022](https://coursemetry.com/build-a-portfolio-website-without-coding-2022/)
+
+* [Extreme Automation in Digital Marketing (2022 Edition)](https://coursemetry.com/extreme-automation-in-digital-marketing-2022-edition/)
+
+* [Scrum Certification Course 2022 (Based on Scrum Guide 2020)](https://coursemetry.com/scrum-certification-course-2022-based-on-scrum-guide-2020/)
+
+* [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
+
+* [Ethical Hacking: boot2root CTF](https://coursemetry.com/ethical-hacking-boot2root-ctf/)
+
+* [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
+
+* [The Complete Telecommuting Course - Remote Work - Work Life](https://coursemetry.com/the-complete-telecommuting-course-remote-work-work-life/)
+
+* [ML for Business Managers: Build Regression model in R Studio](https://coursemetry.com/ml-for-business-managers-build-regression-model-in-r-studio/)
+
+* [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
+
+* [Google Data Studio-Visualización de Datos y Cuadros de Mando](https://coursemetry.com/google-data-studio-visualizacion-de-datos-y-cuadros-de-mando/)
+
+* [Seven quality tools for quality management : 7 QC tools](https://coursemetry.com/seven-quality-tools-for-quality-management-7-qc-tools/)
+
+* [Artificial Intelligence Music Creation (2022 New Edition)](https://coursemetry.com/artificial-intelligence-music-creation-2022-new-edition/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
