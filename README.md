@@ -2,173 +2,223 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **83 Udemy free courses published so far on 2022-12-21**
+## **108 Udemy free courses published so far on 2022-12-25**
 
-* [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
+* [Python pour le Deep Learning & le Machine Learning: A à Z](https://coursemetry.com/python-pour-le-deep-learning-le-machine-learning-a-a-z/)
 
-* [Run Digital Marketing Ad Using Google Adwords Express 2022](https://coursemetry.com/run-digital-marketing-ad-using-google-adwords-express-2022/)
+* [Personal Communication-Introduce Yourself With Confidence](https://coursemetry.com/personal-communication-introduce-yourself-with-confidence/)
 
-* [Hack Windows](https://coursemetry.com/hack-windows/)
+* [Lead Digital Transformations with Customer eXperiences](https://coursemetry.com/lead-digital-transformations-with-customer-experiences/)
 
-* [WordPress Practice Tests & Interview Questions (Basic/Adv)](https://coursemetry.com/wordpress-practice-tests-interview-questions-basic-adv/)
+* [Watercolor Silhouettes: Paint an Owl and a Princess](https://coursemetry.com/watercolor-silhouettes-paint-an-owl-and-a-princess/)
 
-* [No Oil Cooking Recipes - Eat Healthy! Live Strong!](https://coursemetry.com/no-oil-cooking-recipes-eat-healthy-live-strong/)
+* [Best of Copywriting & SEO: Content, Copywriting & SEO Course](https://coursemetry.com/best-of-copywriting-seo-content-copywriting-seo-course/)
 
-* [Passive Income With U demy Courses HIndi](https://coursemetry.com/passive-income-with-u-demy-courses-hindi/)
+* [The Complete NFT Course: Become an NFT Creator & Investor](https://coursemetry.com/the-complete-nft-course-become-an-nft-creator-investor/)
 
-* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
+* [QuickBooks Desktop Job Costing](https://coursemetry.com/quickbooks-desktop-job-costing/)
 
-* [Python Complete Course For Python Beginners](https://coursemetry.com/python-complete-course-for-python-beginners/)
+* [La Masterclass Cryptomonnaies: Altcoin, NFT, DeFi, Métavers](https://coursemetry.com/la-masterclass-cryptomonnaies-altcoin-nft-defi-metavers/)
 
-* [Cómo Crear una Tienda Online con WordPress y WooCommerce](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-y-woocommerce/)
+* [Artificial Intelligence and the Future of Work (2022)](https://coursemetry.com/artificial-intelligence-and-the-future-of-work-2022/)
 
-* [Link building 2023. Build links that boost the site traffic!](https://coursemetry.com/link-building-2023-build-links-that-boost-the-site-traffic/)
+* [TikTok Influencer: Make 6-Figures as a Creator on Tik Tok](https://coursemetry.com/tiktok-influencer-make-6-figures-as-a-creator-on-tik-tok/)
 
-* [Marketing en Facebook Ads - Leads /Clientes Potenciales 2022](https://coursemetry.com/marketing-en-facebook-ads-leads-clientes-potenciales-2022/)
+* [Individual Retirement Accounts (IRAs) & Taxes](https://coursemetry.com/individual-retirement-accounts-iras-taxes/)
 
-* [Microsoft Excel - Learn MS EXCEL For DATA Analysis](https://coursemetry.com/microsoft-excel-learn-ms-excel-for-data-analysis/)
+* [RoboAuthor: Content Writing Automation 2022 - Part 5](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-5/)
 
-* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
+* [AD’s Hacker 1.0: Growth Hacking Certification for Marketers](https://coursemetry.com/ads-hacker-1-0-growth-hacking-certification-for-marketers/)
 
-* [Plumbing Sanitary System from A-Z](https://coursemetry.com/plumbing-sanitary-system-from-a-z/)
+* [Bootstrap 5 Course: Build Responsive Websites like a Pro](https://coursemetry.com/bootstrap-5-course-build-responsive-websites-like-a-pro/)
 
-* [Learn About Raw Food Options and Treats For Your Dog or Cat](https://coursemetry.com/learn-about-raw-food-options-and-treats-for-your-dog-or-cat/)
+* [The Complete Facebook Traffic Ads (Facebook CPC) Course 2023](https://coursemetry.com/the-complete-facebook-traffic-ads-facebook-cpc-course-2023/)
 
-* [New Tests Google Cloud Professional Cloud Security Engineer](https://coursemetry.com/new-tests-google-cloud-professional-cloud-security-engineer-2/)
+* [Python pour la Data Science et le Machine Learning: A à Z](https://coursemetry.com/python-pour-la-data-science-et-le-machine-learning-a-a-z/)
 
-* [eBay Dropshipping Nasıl Yapılır?](https://coursemetry.com/ebay-dropshipping-nasil-yapilir/)
+* [How To Write A Business Proposal - Upwork - Proposal Writing](https://coursemetry.com/how-to-write-a-business-proposal-upwork-proposal-writing/)
 
-* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+* [Copywriting: 3 Crucial Points For Your Text To Sell Itself](https://coursemetry.com/copywriting-3-crucial-points-for-your-text-to-sell-itself/)
 
-* [CBT: Complete psychotherapy Certificate Course](https://coursemetry.com/cbt-complete-psychotherapy-certificate-course/)
+* [Public Speaking for Parents - Teach Your Kids to Present 1Hr](https://coursemetry.com/public-speaking-for-parents-teach-your-kids-to-present-1hr/)
 
-* [Communication Skills: Use a Teleprompter Effectively](https://coursemetry.com/communication-skills-use-a-teleprompter-effectively/)
+* [Journalism Careers: You Can Be a TV Talking Head/Pundit](https://coursemetry.com/journalism-careers-you-can-be-a-tv-talking-head-pundit/)
 
-* [Introduction to Drinking Water Treatment](https://coursemetry.com/introduction-to-drinking-water-treatment/)
+* [Top 5 Secrets for Improving Screenwriting Skills Summary](https://coursemetry.com/top-5-secrets-for-improving-screenwriting-skills-summary/)
 
-* [Google Ads 2023. How to drive sales with PPC!](https://coursemetry.com/google-ads-2023-how-to-drive-sales-with-ppc/)
+* [RoboAuthor: Content Writing Automation 2022 - Part 2](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-2/)
 
-* [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
+* [Learn Python and Artificial Intelligence (AI) Coding Tools](https://coursemetry.com/learn-python-and-artificial-intelligence-ai-coding-tools/)
 
-* [Social media marketing strategy 2023. Launch your SMM!](https://coursemetry.com/social-media-marketing-strategy-2023-launch-your-smm/)
+* [Complete Digital Marketing Course for Local Businesses 2023](https://coursemetry.com/complete-digital-marketing-course-for-local-businesses-2023/)
 
-* [Influencer Content Marketing (2022 Incredible Edition)](https://coursemetry.com/influencer-content-marketing-2022-incredible-edition/)
+* [Web Development Ultimate Guide](https://coursemetry.com/web-development-ultimate-guide/)
 
-* [Learn Habits To Stop Gambling, Smoking, Addiction Recovery](https://coursemetry.com/learn-habits-to-stop-gambling-smoking-addiction-recovery/)
+* [Career Coaching: TOP 5 Secrets of Effcient Sessions](https://coursemetry.com/career-coaching-top-5-secrets-of-effcient-sessions/)
 
-* [Socio-Political Philosophy- An Introduction](https://coursemetry.com/socio-political-philosophy-an-introduction/)
+* [Public Speaking: Give a Great Retirement Speech!](https://coursemetry.com/public-speaking-give-a-great-retirement-speech/)
 
-* [Get Followers And engagement with Facebook  Ads (easy mode)](https://coursemetry.com/get-followers-and-engagement-with-facebook-ads-easy-mode/)
+* [Teacher Training: Teachers Can Be Great Speakers](https://coursemetry.com/teacher-training-teachers-can-be-great-speakers/)
 
-* [Viral YouTube Marketing - Crash Course + Live Class](https://coursemetry.com/viral-youtube-marketing-crash-course-live-class/)
+* [Space Render 1.0: Artificial Intelligence in 3D Animation](https://coursemetry.com/space-render-1-0-artificial-intelligence-in-3d-animation/)
 
-* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+* [49 Weight Loss Tips You Can Stick To Forever - Be Thinner](https://coursemetry.com/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/)
 
-* [Marketing en Facebook Ads -Ecommerce para Ventas Online 2022](https://coursemetry.com/marketing-en-facebook-ads-ecommerce-para-ventas-online-2022/)
+* [Instagram Marketing: How To Promote Anything On Instagram](https://coursemetry.com/instagram-marketing-how-to-promote-anything-on-instagram/)
 
-* [Petroleum Engineering for Non-Engineers](https://coursemetry.com/petroleum-engineering-for-non-engineers/)
+* [Choosing a Career based on Passion in 2022](https://coursemetry.com/choosing-a-career-based-on-passion-in-2022/)
 
-* [Guía Práctica de cómo Invertir desde tu Banca por Internet](https://coursemetry.com/guia-practica-de-como-invertir-desde-tu-banca-por-internet/)
+* [Bootstrap 5: Créer et Lancer des Sites Web Réactifs](https://coursemetry.com/bootstrap-5-creer-et-lancer-des-sites-web-reactifs/)
 
-* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
+* [Public Speaking: Be a Professional Speaker](https://coursemetry.com/public-speaking-be-a-professional-speaker/)
 
-* [AWS Certified Developer Associate AWS Certification Practice](https://coursemetry.com/aws-certified-developer-associate-aws-certification-practice/)
+* [Nursery Woodland Bear Drawing Course [Easy/BeginnerFriendly]](https://coursemetry.com/nursery-woodland-bear-drawing-course-easy-beginnerfriendly/)
 
-* [Marketing Fundamentals: Introduction into Digital Marketing](https://coursemetry.com/marketing-fundamentals-introduction-into-digital-marketing/)
+* [Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://coursemetry.com/tailwind-css-in-1-hour-master-tailwind-css-quickly/)
 
-* [Google Ads Mastery~ Beginner To Pro  ~ HINDI/URDU 2022](https://coursemetry.com/google-ads-mastery-beginner-to-pro-hindi-urdu-2022/)
+* [Tailwind CSS en 1h: Maîtriser ce puissant framework CSS](https://coursemetry.com/tailwind-css-en-1h-maitriser-ce-puissant-framework-css/)
 
-* [CBT Ultimate Certificate Course for Everyone](https://coursemetry.com/cbt-ultimate-certificate-course-for-everyone/)
+* [Personal Presentation Training](https://coursemetry.com/personal-presentation-training/)
 
-* [Facebook Ads & Instagram Ads Course 2023 (Ready for iOS 14+)](https://coursemetry.com/facebook-ads-instagram-ads-course-2023-ready-for-ios-14/)
+* [M&A for Investors](https://coursemetry.com/ma-for-investors/)
 
-* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
+* [Public Speaking for Women](https://coursemetry.com/public-speaking-for-women/)
 
-* [Agile, Scrum & Kanban Practice Tests & Interview Questions](https://coursemetry.com/agile-scrum-kanban-practice-tests-interview-questions/)
+* [Analyse de Données avec Python: Numpy, Pandas et Matplotlib](https://coursemetry.com/analyse-de-donnees-avec-python-numpy-pandas-et-matplotlib/)
 
-* [CheckPoint Management Server R81 HA Configuration](https://coursemetry.com/checkpoint-management-server-r81-ha-configuration/)
+* [Acting course - tools of acting](https://coursemetry.com/acting-course-tools-of-acting/)
 
-* [Linux Security](https://coursemetry.com/linux-security/)
+* [Practical Interview Secrets that will Get you the Job](https://coursemetry.com/practical-interview-secrets-that-will-get-you-the-job/)
 
-* [Redis Crash Course in Urdu | Hindi](https://coursemetry.com/redis-crash-course-in-urdu-hindi/)
+* [Visual Studio Code Ultimate Guide](https://coursemetry.com/visual-studio-code-ultimate-guide/)
 
-* [Git for Beginners](https://coursemetry.com/git-for-beginners/)
+* [JavaScript pour les débutants : Cours complet pour débutants](https://coursemetry.com/javascript-pour-les-debutants-cours-complet-pour-debutants/)
 
-* [Manifest Vibrant Health, Fitness and Wellness Life Coaching](https://coursemetry.com/manifest-vibrant-health-fitness-and-wellness-life-coaching/)
+* [Python pour la POO: Programmation Orientée Objet en Python](https://coursemetry.com/python-pour-la-poo-programmation-orientee-objet-en-python/)
 
-* [Complete TikTok Marketing Course for Business TikTok Habits](https://coursemetry.com/complete-tiktok-marketing-course-for-business-tiktok-habits/)
+* [AutoCAD 2023 en 1h: Maîtrisez les Bases Rapidement](https://coursemetry.com/autocad-2023-en-1h-maitrisez-les-bases-rapidement/)
 
-* [The Melody of English](https://coursemetry.com/the-melody-of-english/)
+* [AutoCAD 2023 MasterClass: Produce Amazing Site Plans Quickly](https://coursemetry.com/autocad-2023-masterclass-produce-amazing-site-plans-quickly/)
 
-* [learn Portuguese language with portuguese music](https://coursemetry.com/learn-portuguese-language-with-portuguese-music/)
+* [JavaScript for Beginners: The Complete Course for Beginners](https://coursemetry.com/javascript-for-beginners-the-complete-course-for-beginners/)
 
-* [Enhance Your Reiki Practice With Bach Flower Remedies.](https://coursemetry.com/enhance-your-reiki-practice-with-bach-flower-remedies/)
+* [Cómo trabajar bajo presión asertivamente](https://coursemetry.com/como-trabajar-bajo-presion-asertivamente/)
 
-* [How to build a Weekly Passive Income with Dividend Investing](https://coursemetry.com/how-to-build-a-weekly-passive-income-with-dividend-investing/)
+* [Python 3 Ultimate Guide](https://coursemetry.com/python-3-ultimate-guide/)
 
-* [Learn Python and Become Professional Python Developer](https://coursemetry.com/learn-python-and-become-professional-python-developer/)
+* [8D Audio Conversion Course: Convert Any Music Track To 8D](https://coursemetry.com/8d-audio-conversion-course-convert-any-music-track-to-8d/)
+
+* [Best of Facebook Ads: Facebook Ads 2023 Ultimate Pro Edition](https://coursemetry.com/best-of-facebook-ads-facebook-ads-2023-ultimate-pro-edition/)
+
+* [JavaScript Ultimate Guide](https://coursemetry.com/javascript-ultimate-guide/)
+
+* [Teacher Training - How to Teach Online - Remote Teaching 1Hr](https://coursemetry.com/teacher-training-how-to-teach-online-remote-teaching-1hr/)
+
+* [Become Successful WordPress Web Desinger & Start Freelancing](https://coursemetry.com/become-successful-wordpress-web-desinger-start-freelancing/)
+
+* [HTML5 Ultimate Guide](https://coursemetry.com/html5-ultimate-guide/)
+
+* [Forest Fairy Watercolor Manga Portrait Painting Course](https://coursemetry.com/forest-fairy-watercolor-manga-portrait-painting-course/)
+
+* [How to Become a Facilitator: 7 Effective Skills](https://coursemetry.com/how-to-become-a-facilitator-7-effective-skills/)
+
+* [Learn Java Programming: Classes and Objects (2022 Edition)](https://coursemetry.com/learn-java-programming-classes-and-objects-2022-edition/)
+
+* [M&A and Restructurings for Entrepreneurs](https://coursemetry.com/ma-and-restructurings-for-entrepreneurs/)
+
+* [Gmail para Principiantes: Aumentar tu Productividad](https://coursemetry.com/gmail-para-principiantes-aumentar-tu-productividad/)
+
+* [Sell Amazon KDP Low Content Books for Passive Income 2022](https://coursemetry.com/sell-amazon-kdp-low-content-books-for-passive-income-2022/)
+
+* [Shopify Aliexpress Dropshipping 2023 - Toy Store Creation](https://coursemetry.com/shopify-aliexpress-dropshipping-2023-toy-store-creation/)
 
 * [Shopify & Aliexpress Dropshipping in 2023 - One Piece Store](https://coursemetry.com/shopify-aliexpress-dropshipping-in-2023-one-piece-store/)
 
-* [Exam AI-900: Microsoft Azure AI Fundamentals Practice Tests](https://coursemetry.com/exam-ai-900-microsoft-azure-ai-fundamentals-practice-tests/)
+* [Sell More: Facebook Ads & Instagram Ads for E-Commerce 2023](https://coursemetry.com/sell-more-facebook-ads-instagram-ads-for-e-commerce-2023/)
 
-* [Grow your sales with Conversion Rate Optimization (CRO)](https://coursemetry.com/grow-your-sales-with-conversion-rate-optimization-cro/)
+* [Advance Stock Options Trading Strategies (5 Courses) 10+Hour](https://coursemetry.com/advance-stock-options-trading-strategies-5-courses-10hour/)
 
-* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+* [DVA-C01: AWS Certified Developer - Associate Practice Tests](https://coursemetry.com/dva-c01-aws-certified-developer-associate-practice-tests-2/)
 
-* [Content Marketing 2023. Content that Sells!](https://coursemetry.com/content-marketing-2023-content-that-sells/)
+* [Instagram Photo: Make Your Instagram Look Pretty in 5 Steps](https://coursemetry.com/instagram-photo-make-your-instagram-look-pretty-in-5-steps/)
 
-* [Keynote, el POWERPOINT de Apple.](https://coursemetry.com/keynote-el-powerpoint-de-apple/)
+* [Complete Italian for Beginners: Speak Italian like a Pro](https://coursemetry.com/complete-italian-for-beginners-speak-italian-like-a-pro/)
 
-* [Master Course in Public Speaking](https://coursemetry.com/master-course-in-public-speaking/)
+* [Local SEO 2023 Made Simple & Fun + Google Maps & TripAdvisor](https://coursemetry.com/local-seo-2023-made-simple-fun-google-maps-tripadvisor/)
 
-* [Logistic Regression in R Studio](https://coursemetry.com/logistic-regression-in-r-studio/)
+* [Learn Wordpress Gutenberg Block Editor 2022 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2022-version/)
 
-* [Digital Marketing Course for Fitness Professionals (2022)](https://coursemetry.com/digital-marketing-course-for-fitness-professionals-2022/)
-
-* [eCommerce Marketing Course (2022 Grand Edition)](https://coursemetry.com/ecommerce-marketing-course-2022-grand-edition/)
-
-* [Advanced Artificial Intelligence in App Creation (2022)](https://coursemetry.com/advanced-artificial-intelligence-in-app-creation-2022/)
-
-* [Seguridad Informática para Computadoras Empresariales.](https://coursemetry.com/seguridad-informatica-para-computadoras-empresariales/)
-
-* [Linear Regression and Logistic Regression using R Studio](https://coursemetry.com/linear-regression-and-logistic-regression-using-r-studio/)
-
-* [How To Produce A Low Budget Independent Feature Film!](https://coursemetry.com/how-to-produce-a-low-budget-independent-feature-film/)
-
-* [Being Independent Movie Director](https://coursemetry.com/being-independent-movie-director/)
-
-* [Live Streaming - The Complete Course - Zoom Twitch OBS Skype](https://coursemetry.com/live-streaming-the-complete-course-zoom-twitch-obs-skype/)
-
-* [Getting Started with Vim for Beginners](https://coursemetry.com/getting-started-with-vim-for-beginners/)
-
-* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
-
-* [PHP with MySQL 2022: Build a Complete Job Portal](https://coursemetry.com/php-with-mysql-2022-build-a-complete-job-portal/)
-
-* [Build a Portfolio Website without Coding 2022](https://coursemetry.com/build-a-portfolio-website-without-coding-2022/)
-
-* [Extreme Automation in Digital Marketing (2022 Edition)](https://coursemetry.com/extreme-automation-in-digital-marketing-2022-edition/)
-
-* [Scrum Certification Course 2022 (Based on Scrum Guide 2020)](https://coursemetry.com/scrum-certification-course-2022-based-on-scrum-guide-2020/)
-
-* [How To Edit A Feature Film By Yourself](https://coursemetry.com/how-to-edit-a-feature-film-by-yourself/)
-
-* [Ethical Hacking: boot2root CTF](https://coursemetry.com/ethical-hacking-boot2root-ctf/)
+* [Jumpstart your Project Management career](https://coursemetry.com/jumpstart-your-project-management-career/)
 
 * [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
 
-* [The Complete Telecommuting Course - Remote Work - Work Life](https://coursemetry.com/the-complete-telecommuting-course-remote-work-work-life/)
+* [Big Data Programming Languages & Big Data Vs Data Science](https://coursemetry.com/big-data-programming-languages-big-data-vs-data-science/)
 
-* [ML for Business Managers: Build Regression model in R Studio](https://coursemetry.com/ml-for-business-managers-build-regression-model-in-r-studio/)
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
 
-* [How To Design A Great Movie Poster That Works](https://coursemetry.com/how-to-design-a-great-movie-poster-that-works/)
+* [Time Management Mastery: 10X Your Time, Join the New Rich](https://coursemetry.com/time-management-mastery-10x-your-time-join-the-new-rich/)
 
-* [Google Data Studio-Visualización de Datos y Cuadros de Mando](https://coursemetry.com/google-data-studio-visualizacion-de-datos-y-cuadros-de-mando/)
+* [Ace your career with the Power of Artificial Intelligence](https://coursemetry.com/ace-your-career-with-the-power-of-artificial-intelligence/)
 
-* [Seven quality tools for quality management : 7 QC tools](https://coursemetry.com/seven-quality-tools-for-quality-management-7-qc-tools/)
+* [Data Manipulation in Python: Master Python, Numpy & Pandas](https://coursemetry.com/data-manipulation-in-python-master-python-numpy-pandas/)
 
-* [Artificial Intelligence Music Creation (2022 New Edition)](https://coursemetry.com/artificial-intelligence-music-creation-2022-new-edition/)
+* [Python for Deep Learning: Build Neural Networks in Python](https://coursemetry.com/python-for-deep-learning-build-neural-networks-in-python/)
+
+* [Whiteboard Video Creation with VideoScribe (2022 Edition)](https://coursemetry.com/whiteboard-video-creation-with-videoscribe-2022-edition/)
+
+* [Python for Machine Learning: The Complete Beginner's Course](https://coursemetry.com/python-for-machine-learning-the-complete-beginners-course/)
+
+* [Wave Accounting](https://coursemetry.com/wave-accounting/)
+
+* [Public Relations: How to Be a Government/PIO Spokesperson](https://coursemetry.com/public-relations-how-to-be-a-government-pio-spokesperson/)
+
+* [Digishock 2.0: Learn Machine Learning in 2022 (No Coding)](https://coursemetry.com/digishock-2-0-learn-machine-learning-in-2022-no-coding/)
+
+* [HTML5 et CSS3 : La Formation Complète](https://coursemetry.com/html5-et-css3-la-formation-complete/)
+
+* [Instagram Photography Summary: Top3 Ways To Shoot Everything](https://coursemetry.com/instagram-photography-summary-top3-ways-to-shoot-everything/)
+
+* [Facebook & Instagram Dynamic Ads: Dynamic Retargeting Course](https://coursemetry.com/facebook-instagram-dynamic-ads-dynamic-retargeting-course/)
+
+* [RoboAuthor: Content Writing Automation 2022 - Part 10](https://coursemetry.com/roboauthor-content-writing-automation-2022-part-10/)
+
+* [New-Age Technologies For Fitness Trainers (2022 Edition)](https://coursemetry.com/new-age-technologies-for-fitness-trainers-2022-edition/)
+
+* [Storytelling: You Can learn to Tell Stories Effectively](https://coursemetry.com/storytelling-you-can-learn-to-tell-stories-effectively/)
+
+* [Online Marketing: Landing Page erstellen mit Wordpress!](https://coursemetry.com/online-marketing-landing-page-erstellen-mit-wordpress/)
+
+* [Remote Speaking - Pro Speaking Skills in The Coronavirus Era](https://coursemetry.com/remote-speaking-pro-speaking-skills-in-the-coronavirus-era/)
+
+* [Fixed Income Securities: Become a Bond Analyst & Investor](https://coursemetry.com/fixed-income-securities-become-a-bond-analyst-investor/)
+
+* [Easy Christmas Candy Cane Watercolor Gift Painting Course](https://coursemetry.com/easy-christmas-candy-cane-watercolor-gift-painting-course/)
+
+* [Master Course in Time Management](https://coursemetry.com/master-course-in-time-management/)
+
+* [3ds max Composizione Render State Set](https://coursemetry.com/3ds-max-composizione-render-state-set/)
+
+* [Solar Specialist Certification Interview Practice Test 2022](https://coursemetry.com/solar-specialist-certification-interview-practice-test-2022/)
+
+* [Public Speaking: Financial Advisers Convey Your Expertise](https://coursemetry.com/public-speaking-financial-advisers-convey-your-expertise/)
+
+* [Screenwriting: Writing a Selling Story with Your Bare Hands](https://coursemetry.com/screenwriting-writing-a-selling-story-with-your-bare-hands/)
+
+* [Buying A Dog?  Discover Your Ideal Breed in This Course](https://coursemetry.com/buying-a-dog-discover-your-ideal-breed-in-this-course/)
+
+* [Speaking on the Telephone: Confidently Speak on the Phone](https://coursemetry.com/speaking-on-the-telephone-confidently-speak-on-the-phone/)
+
+* [Komplett NFT-Kurs: Werden Sie ein NFT-Ersteller und-Investor](https://coursemetry.com/komplett-nft-kurs-werden-sie-ein-nft-ersteller-und-investor/)
+
+* [Sales Skills Training: Free Sales Generation Seminars](https://coursemetry.com/sales-skills-training-free-sales-generation-seminars/)
+
+* [Plumbing Water Supply System A-Z](https://coursemetry.com/plumbing-water-supply-system-a-z/)
+
+* [Get 5 Million Free Images and Videos for Commercial Use](https://coursemetry.com/get-5-million-free-images-and-videos-for-commercial-use/)
+
+* [Advanced Artificial Intelligence in Digital Marketing Course](https://coursemetry.com/advanced-artificial-intelligence-in-digital-marketing-course/)
+
+* [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
