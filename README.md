@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **77 Udemy free courses published so far on 2022-12-30**
+## **90 Udemy free courses published so far on 2022-12-30**
 
 * [Overcoming Obstacles and Building Resilience - Manage Stress](https://coursemetry.com/overcoming-obstacles-and-building-resilience-manage-stress/)
 
@@ -45,8 +45,6 @@
 * [Flutter BLoC State Management [2022] - From Scratch](https://coursemetry.com/flutter-bloc-state-management-2022-from-scratch/)
 
 * [Gmail para Principiantes: Aumentar tu Productividad](https://coursemetry.com/gmail-para-principiantes-aumentar-tu-productividad/)
-
-* [Master Course in Online Business and Home Business](https://coursemetry.com/master-course-in-online-business-and-home-business/)
 
 * [2023-Master in Core Python Programming in 99Days](https://coursemetry.com/2023-master-in-core-python-programming-in-99days/)
 
@@ -157,6 +155,34 @@
 * [Learn MATLAB from ZERO to HERO](https://coursemetry.com/learn-matlab-from-zero-to-hero/)
 
 * [Mastering The Python Basics 2023 Bootcamp](https://coursemetry.com/mastering-the-python-basics-2023-bootcamp/)
+
+* [Anyone Can Brush Letter: Modern Calligraphy For Beginners](https://coursemetry.com/anyone-can-brush-letter-modern-calligraphy-for-beginners/)
+
+* [Microsoft Teams, ZOOM, Skype, Google Meet i FaceTime](https://coursemetry.com/microsoft-teams-zoom-skype-google-meet-i-facetime/)
+
+* [Temel Programlama Eğitimi | (Algoritma Uygulamalı)](https://coursemetry.com/temel-programlama-egitimi-algoritma-uygulamali/)
+
+* [Shopify Bootcamp: Increase Your Sales and Conversion rate](https://coursemetry.com/shopify-bootcamp-increase-your-sales-and-conversion-rate/)
+
+* [Business English Campus: Supply Chain and Business Skills](https://coursemetry.com/business-english-campus-supply-chain-and-business-skills/)
+
+* [2023 Dgs Koçluk 3.Ay Programı Ocak](https://coursemetry.com/2023-dgs-kocluk-3-ay-programi-ocak/)
+
+* [Environment and Ethics: A Basic Course](https://coursemetry.com/environment-and-ethics-a-basic-course/)
+
+* [Master Course in Online Business and Home Business](https://coursemetry.com/master-course-in-online-business-and-home-business/)
+
+* [Udemy bootcamp: How to create a STUNNING course Unofficial](https://coursemetry.com/udemy-bootcamp-how-to-create-a-stunning-course-unofficial/)
+
+* [TikTok SEO: Rank your Videos for TikTok Marketing](https://coursemetry.com/tiktok-seo-rank-your-videos-for-tiktok-marketing/)
+
+* [Veri Tabanı Yönetim Sistemleri Eğitimi (MSSQL)](https://coursemetry.com/veri-tabani-yonetim-sistemleri-egitimi-mssql/)
+
+* [Wondershare Filmora 11 Video Editing Course in Hindi](https://coursemetry.com/wondershare-filmora-11-video-editing-course-in-hindi/)
+
+* [Best SAP FICO Tutorial For Beginners & Freshers (SAP ERP)](https://coursemetry.com/best-sap-fico-tutorial-for-beginners-freshers-sap-erp/)
+
+* [Temelden Orta Düzeye C++ Programlama | Algoritma Uygulamalı](https://coursemetry.com/temelden-orta-duzeye-c-programlama-algoritma-uygulamali/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
