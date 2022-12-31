@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **100 Udemy free courses published so far on 2022-12-31**
+## **101 Udemy free courses published so far on 2022-12-31**
 
 * [Web3 / Blockchain Project Manager Certification Course](https://coursemetry.com/web3-blockchain-project-manager-certification-course/)
 
@@ -203,6 +203,8 @@
 * [SEO & Copywriting Course as Project & Fun: 51 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-51-days-challenge/)
 
 * [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+
+* [Computer Basics: Hardware and Windows 11 Fundamentals](https://coursemetry.com/computer-basics-hardware-and-windows-11-fundamentals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
