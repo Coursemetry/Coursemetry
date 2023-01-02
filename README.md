@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published so far on 2023-01-02**
+## **58 Udemy free courses published so far on 2023-01-02**
 
 * [The Complete Flower Dropshipping Masterclass- Wordpress 2023](https://coursemetry.com/the-complete-flower-dropshipping-masterclass-wordpress-2023/)
 
@@ -113,6 +113,12 @@
 * [Learn French - Reading & Listening Exercises](https://coursemetry.com/learn-french-reading-listening-exercises/)
 
 * [Create 5 Easy Menus for your websites](https://coursemetry.com/create-5-easy-menus-for-your-websites/)
+
+* [PowerShell Functions Master Class](https://coursemetry.com/powershell-functions-master-class/)
+
+* [CRISC Exam Training & Certification - Practice & Get Ahead](https://coursemetry.com/crisc-exam-training-certification-practice-get-ahead/)
+
+* [Java Logical Coding Puzzles](https://coursemetry.com/java-logical-coding-puzzles/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
