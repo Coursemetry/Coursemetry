@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **50 Udemy free courses published so far on 2023-01-08**
+## **68 Udemy free courses published so far on 2023-01-08**
 
 * [ii) 3 BOYUTLU NESNE ve OBJE ÇİZİMİ-3D DRAWİNG OBJECT.](https://coursemetry.com/ii-3-boyutlu-nesne-ve-obje-cizimi-3d-drawing-object/)
 
@@ -103,6 +103,42 @@
 * [Build Profitable E-Commerce Stores with WordPress & Woostify](https://coursemetry.com/build-profitable-e-commerce-stores-with-wordpress-woostify/)
 
 * [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
+
+* [Foundations of Positive Psychology - Complete Guide](https://coursemetry.com/foundations-of-positive-psychology-complete-guide/)
+
+* [Public Speaking for High School Students: Speak Well Now](https://coursemetry.com/public-speaking-for-high-school-students-speak-well-now/)
+
+* [Acting course - tools of acting](https://coursemetry.com/acting-course-tools-of-acting/)
+
+* [poultry farming Bacterial diseases hindering satisfying prod](https://coursemetry.com/poultry-farming-bacterial-diseases-hindering-satisfying-prod/)
+
+* [Career in I-O Psychology & Organizational behavior](https://coursemetry.com/career-in-i-o-psychology-organizational-behavior/)
+
+* [CCSK Certificate of Cloud Security Knowledge Exam Prep](https://coursemetry.com/ccsk-certificate-of-cloud-security-knowledge-exam-prep/)
+
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
+
+* [البرنامج التدريبي من البدايه الي الاحتراف  المستوي الاول](https://coursemetry.com/%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d9%87-%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d8%a7%d8%ad/)
+
+* [Certified Wireless Design Professional CWDP Exam Prep](https://coursemetry.com/certified-wireless-design-professional-cwdp-exam-prep/)
+
+* [Master course in Organizational Behavior and Design](https://coursemetry.com/master-course-in-organizational-behavior-and-design/)
+
+* [Public Speaking Skills: Deliver Great Technology Talks](https://coursemetry.com/public-speaking-skills-deliver-great-technology-talks/)
+
+* [Teacher Training: Teachers Can Be Great Speakers](https://coursemetry.com/teacher-training-teachers-can-be-great-speakers/)
+
+* [Public Speaking: Financial Advisers Convey Your Expertise](https://coursemetry.com/public-speaking-financial-advisers-convey-your-expertise/)
+
+* [Bitcoin ve Kripto Para Uzmanlığı](https://coursemetry.com/bitcoin-ve-kripto-para-uzmanligi/)
+
+* [Complete meditation, mindfulness and mind training course](https://coursemetry.com/complete-meditation-mindfulness-and-mind-training-course/)
+
+* [Personal Branding: You Deliver a Great Elevator Pitch](https://coursemetry.com/personal-branding-you-deliver-a-great-elevator-pitch/)
+
+* [Public Speaking: Give a Great Retirement Speech!](https://coursemetry.com/public-speaking-give-a-great-retirement-speech/)
+
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
