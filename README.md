@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **81 Udemy free courses published so far on 2023-01-15**
+## **93 Udemy free courses published so far on 2023-01-15**
 
 * [The Ultimate LinkedIn Marketing Quiz (2022 Edition)](https://coursemetry.com/the-ultimate-linkedin-marketing-quiz-2022-edition/)
 
@@ -45,8 +45,6 @@
 * [Watercolor Silhouettes: Paint an Owl and a Princess](https://coursemetry.com/watercolor-silhouettes-paint-an-owl-and-a-princess/)
 
 * [learn German - simply through music](https://coursemetry.com/learn-german-simply-through-music/)
-
-* [Meta Advertising Fundamentals: Facebook Ads & Instagram Ads](https://coursemetry.com/meta-advertising-fundamentals-facebook-ads-instagram-ads/)
 
 * [LinkedIn Marketing: LinkedIn Ads | LinkedIn Lead Generation](https://coursemetry.com/linkedin-marketing-linkedin-ads-linkedin-lead-generation/)
 
@@ -165,6 +163,32 @@
 * [Vigilant Leadership](https://coursemetry.com/vigilant-leadership/)
 
 * [Learn Tantra & the Art of Conscious Touch](https://coursemetry.com/learn-tantra-the-art-of-conscious-touch/)
+
+* [21 Nutrition & Diet Planning Myths & Mistakes](https://coursemetry.com/21-nutrition-diet-planning-myths-mistakes/)
+
+* [Psychology Diploma Course](https://coursemetry.com/psychology-diploma-course/)
+
+* [Best of Copywriting: Copywriting 4 E-commerce + 46 Templates](https://coursemetry.com/best-of-copywriting-copywriting-4-e-commerce-46-templates/)
+
+* [Instagram Marketing 2021: Growth and Promotion on Instagram](https://coursemetry.com/instagram-marketing-2021-growth-and-promotion-on-instagram/)
+
+* [Complete Positive Thinking Course  -  Happiness Psychology](https://coursemetry.com/complete-positive-thinking-course-happiness-psychology/)
+
+* [Master all the MS Excel Macros and the basics of Excel VBA](https://coursemetry.com/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/)
+
+* [Programacion con Scratch, programando con bloques](https://coursemetry.com/programacion-con-scratch-programando-con-bloques/)
+
+* [Simple Independent Film Screenwriting](https://coursemetry.com/simple-independent-film-screenwriting/)
+
+* [Meta Advertising Fundamentals: Facebook Ads & Instagram Ads](https://coursemetry.com/meta-advertising-fundamentals-facebook-ads-instagram-ads/)
+
+* [CAPTURA y RETOQUE | Fotografía, Photoshop y Lightroom](https://coursemetry.com/captura-y-retoque-fotografia-photoshop-y-lightroom/)
+
+* [The Complete One Hour Perfect Posture Habits Course](https://coursemetry.com/the-complete-one-hour-perfect-posture-habits-course/)
+
+* [Career Change - Find Your Perfect Job](https://coursemetry.com/career-change-find-your-perfect-job/)
+
+* [Creating Video Lessons with Online Video Maker InVideo](https://coursemetry.com/creating-video-lessons-with-online-video-maker-invideo/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
