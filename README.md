@@ -2,83 +2,103 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **38 Udemy free courses published so far on 2023-01-21**
+## **48 Udemy free courses published so far on 2023-01-22**
 
-* [Aprende MATLAB y Simulink de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-y-simulink-de-cero-a-experto/)
+* [Deep learning in Arabic](https://coursemetry.com/deep-learning-in-arabic/)
 
-* [Learn HTML - For Beginners](https://coursemetry.com/learn-html-for-beginners/)
+* [Entrepreneurship - Ft. Matthew Rolnick of Yaymaker, Groupon](https://coursemetry.com/entrepreneurship-ft-matthew-rolnick-of-yaymaker-groupon/)
 
-* [NLP Course for Beginner](https://coursemetry.com/nlp-course-for-beginner/)
-
-* [Google Workspace (G Suite) Ultimate Guide](https://coursemetry.com/google-workspace-g-suite-ultimate-guide/)
-
-* [Learn Bootstrap - For Beginners](https://coursemetry.com/learn-bootstrap-for-beginners/)
-
-* [كورس الوورد الإحترافى - Advanced Microsoft Word](https://coursemetry.com/%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d9%88%d9%88%d8%b1%d8%af-%d8%a7%d9%84%d8%a5%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%89-advanced-microsoft-word/)
+* [Turn yourself into a Virtual 3D Talking Avatar using FaceRig](https://coursemetry.com/turn-yourself-into-a-virtual-3d-talking-avatar-using-facerig/)
 
 * [CSS, Bootstrap And JavaScript And Python Stack Course](https://coursemetry.com/css-bootstrap-and-javascript-and-python-stack-course/)
 
-* [AWS Certified SysOps Administrator Associate Exams 2023](https://coursemetry.com/aws-certified-sysops-administrator-associate-exams-2023/)
+* [Ultra-Speed 3D Game Development using GameGuru](https://coursemetry.com/ultra-speed-3d-game-development-using-gameguru/)
 
-* [كورس الباوربوينت الإحترافى - Advanced Microsoft PowerPoint](https://coursemetry.com/%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%a8%d8%a7%d9%88%d8%b1%d8%a8%d9%88%d9%8a%d9%86%d8%aa-%d8%a7%d9%84%d8%a5%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%89-advanced-microsoft-powerpoint/)
+* [Sexual Harassment Training for Employees in the Workplace](https://coursemetry.com/sexual-harassment-training-for-employees-in-the-workplace/)
 
-* [Adobe Lightroom Classic CC: The Map & Book Module](https://coursemetry.com/adobe-lightroom-classic-cc-the-map-book-module/)
+* [Entrenamiento de Base de Datos Microsoft SQL Server](https://coursemetry.com/entrenamiento-de-base-de-datos-microsoft-sql-server/)
 
-* [Google Forms Ultimate Guide](https://coursemetry.com/google-forms-ultimate-guide/)
+* [Competitor Analysis Masterclass (Phenomenal Edition)](https://coursemetry.com/competitor-analysis-masterclass-phenomenal-edition/)
 
-* [Portrait Photography for Absolute Beginners](https://coursemetry.com/portrait-photography-for-absolute-beginners/)
+* [Environment and Ethics: A Basic Course](https://coursemetry.com/environment-and-ethics-a-basic-course/)
 
-* [Introduction to International Trade Finance & Trade Services](https://coursemetry.com/introduction-to-international-trade-finance-trade-services/)
+* [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
 
-* [JavaScript & jQuery - Certification Course for Beginners](https://coursemetry.com/javascript-jquery-certification-course-for-beginners/)
+* [Digishock 3.0: The Future of Artificial Intelligence (AI)](https://coursemetry.com/digishock-3-0-the-future-of-artificial-intelligence-ai/)
 
-* [jQuery Ultimate Guide](https://coursemetry.com/jquery-ultimate-guide/)
+* [Crack Information Technology: All-Time Ultimate Quiz](https://coursemetry.com/crack-information-technology-all-time-ultimate-quiz/)
 
-* [GitLab Ultimate Guide](https://coursemetry.com/gitlab-ultimate-guide/)
+* [Discrimination Training for Managers](https://coursemetry.com/discrimination-training-for-managers/)
 
-* [Bootstrap 4 Ultimate Guide](https://coursemetry.com/bootstrap-4-ultimate-guide/)
+* [Streamlit Bootcamp](https://coursemetry.com/streamlit-bootcamp/)
 
-* [Partnership Income Tax (Form 1065)](https://coursemetry.com/partnership-income-tax-form-1065/)
+* [Political Savvy: Maximizing Your IMPACT in the Organization](https://coursemetry.com/political-savvy-maximizing-your-impact-in-the-organization/)
 
-* [Introduction to Domain Names and Web Hosting - Quick Guide](https://coursemetry.com/introduction-to-domain-names-and-web-hosting-quick-guide/)
+* [OBS Studio - Ultimate Livestreaming Guide to OBS Studio](https://coursemetry.com/obs-studio-ultimate-livestreaming-guide-to-obs-studio/)
 
-* [Adobe Lightroom Masterclass - Beginner to Expert](https://coursemetry.com/adobe-lightroom-masterclass-beginner-to-expert/)
+* [Screenwriting: Writing a Selling Story with Your Bare Hands](https://coursemetry.com/screenwriting-writing-a-selling-story-with-your-bare-hands/)
 
-* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+* [Creative Infographics in PowerPoint](https://coursemetry.com/creative-infographics-in-powerpoint/)
 
-* [Podcast Pacing For Audience Engagement](https://coursemetry.com/podcast-pacing-for-audience-engagement/)
+* [Mobile Device Management Expert Course (Special Edition)](https://coursemetry.com/mobile-device-management-expert-course-special-edition/)
 
-* [Excel Kurs für Einsteiger. Arbeiten mit Excel und Formeln.](https://coursemetry.com/excel-kurs-fur-einsteiger-arbeiten-mit-excel-und-formeln/)
+* [Create Super-Fast Videos and Online Courses with WeVideo](https://coursemetry.com/create-super-fast-videos-and-online-courses-with-wevideo/)
 
-* [Wondershare Filmora 11 Video Editing Course in Hindi](https://coursemetry.com/wondershare-filmora-11-video-editing-course-in-hindi/)
+* [PHP for Beginners 2023: Build Complete Ecommerce Store](https://coursemetry.com/php-for-beginners-2023-build-complete-ecommerce-store/)
 
-* [Setup a Virtual Web Server using Linode or Digital Ocean](https://coursemetry.com/setup-a-virtual-web-server-using-linode-or-digital-ocean/)
+* [Discrimination Training for Employees](https://coursemetry.com/discrimination-training-for-employees/)
 
-* [كورس الإكسيل الإحترافى - Advanced Microsoft Excel](https://coursemetry.com/%d9%83%d9%88%d8%b1%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d8%b3%d9%8a%d9%84-%d8%a7%d9%84%d8%a5%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%89-advanced-microsoft-excel/)
+* [Advanced Artificial Intelligence in Digital Marketing Course](https://coursemetry.com/advanced-artificial-intelligence-in-digital-marketing-course/)
 
-* [JavaScript, Bootstrap, & PHP - Certification for Beginners](https://coursemetry.com/javascript-bootstrap-php-certification-for-beginners/)
+* [Career Coaching: TOP 5 Secrets of Effcient Sessions](https://coursemetry.com/career-coaching-top-5-secrets-of-effcient-sessions/)
 
-* [Microsoft Teams Ultimate Guide](https://coursemetry.com/microsoft-teams-ultimate-guide/)
+* [Video Oasis: The Ultimate Live-Streaming Course](https://coursemetry.com/video-oasis-the-ultimate-live-streaming-course/)
 
-* [cPanel Ultimate Guide](https://coursemetry.com/cpanel-ultimate-guide/)
+* [Extreme Automation in Digital Marketing](https://coursemetry.com/extreme-automation-in-digital-marketing/)
 
-* [PHP & MySQL - Certification Course for Beginners](https://coursemetry.com/php-mysql-certification-course-for-beginners/)
+* [Instagram Photo: Make Your Instagram Look Pretty in 5 Steps](https://coursemetry.com/instagram-photo-make-your-instagram-look-pretty-in-5-steps/)
 
-* [Adobe Lightroom Classic CC: Print, Slideshow & Web Module](https://coursemetry.com/adobe-lightroom-classic-cc-print-slideshow-web-module/)
+* [3D Painting using FlowScape: Paint Dream Worlds in 3D](https://coursemetry.com/3d-painting-using-flowscape-paint-dream-worlds-in-3d/)
 
-* [Google Drive Ultimate Guide](https://coursemetry.com/google-drive-ultimate-guide/)
+* [Practical Interview Secrets that will Get you the Job](https://coursemetry.com/practical-interview-secrets-that-will-get-you-the-job/)
 
-* [See 27 Ways to Make Money Online with Your Smartphone!](https://coursemetry.com/see-27-ways-to-make-money-online-with-your-smartphone/)
+* [Productivity Powers Unleashed](https://coursemetry.com/productivity-powers-unleashed/)
 
-* [Google Docs Ultimate Guide](https://coursemetry.com/google-docs-ultimate-guide/)
+* [Space Render 1.0: Artificial Intelligence in 3D Animation](https://coursemetry.com/space-render-1-0-artificial-intelligence-in-3d-animation/)
 
-* [Microsoft 365 Ultimate Guide](https://coursemetry.com/microsoft-365-ultimate-guide/)
+* [Space Render 2.0: Transform your Podcast into Videos](https://coursemetry.com/space-render-2-0-transform-your-podcast-into-videos/)
 
-* [Gmail Ultimate Guide](https://coursemetry.com/gmail-ultimate-guide/)
+* [Top 5 Secrets for Improving Screenwriting Skills Summary](https://coursemetry.com/top-5-secrets-for-improving-screenwriting-skills-summary/)
 
-* [Accredited Angel Reiki Certification- Master/Teacher Program](https://coursemetry.com/accredited-angel-reiki-certification-master-teacher-program/)
+* [Advanced Financial Accounting](https://coursemetry.com/advanced-financial-accounting/)
 
-* [AWS-Developer-Associate practice exams (updated)](https://coursemetry.com/aws-developer-associate-practice-exams-updated/)
+* [Clone yourself in a video using ScreenFlow 9](https://coursemetry.com/clone-yourself-in-a-video-using-screenflow-9/)
+
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
+
+* [Tubebuddy Masterclass - Guide to YouTube Keyword Tool](https://coursemetry.com/tubebuddy-masterclass-guide-to-youtube-keyword-tool/)
+
+* [Memory: 3 Ways of Memorising Like a Spy](https://coursemetry.com/memory-3-ways-of-memorising-like-a-spy/)
+
+* [Super-Fast Web Design using Weebly (Grand Edition)](https://coursemetry.com/super-fast-web-design-using-weebly-grand-edition/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 9](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-9/)
+
+* [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
+
+* [Echocardiography Board Review Exam Preparation - Mock Exam](https://coursemetry.com/echocardiography-board-review-exam-preparation-mock-exam/)
+
+* [Learn Java and Artificial Intelligence Programming Tools](https://coursemetry.com/learn-java-and-artificial-intelligence-programming-tools/)
+
+* [Virtual Personal Assistant Development](https://coursemetry.com/virtual-personal-assistant-development/)
+
+* [Master the Art of Writing Fascinating Copy for Persuasion](https://coursemetry.com/master-the-art-of-writing-fascinating-copy-for-persuasion/)
+
+* [Olympic Games Analytics Project in Apache Spark for beginner](https://coursemetry.com/olympic-games-analytics-project-in-apache-spark-for-beginner/)
+
+* [Personal Finance](https://coursemetry.com/personal-finance/)
+
+* [Data Security, Recovery and Storage Hacking for Newbies](https://coursemetry.com/data-security-recovery-and-storage-hacking-for-newbies/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
