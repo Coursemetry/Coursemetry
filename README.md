@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **48 Udemy free courses published so far on 2023-01-22**
+## **84 Udemy free courses published so far on 2023-01-22**
 
 * [Deep learning in Arabic](https://coursemetry.com/deep-learning-in-arabic/)
 
@@ -99,6 +99,78 @@
 * [Personal Finance](https://coursemetry.com/personal-finance/)
 
 * [Data Security, Recovery and Storage Hacking for Newbies](https://coursemetry.com/data-security-recovery-and-storage-hacking-for-newbies/)
+
+* [SOLAR COURSE for Beginners of Solar Energy-](https://coursemetry.com/solar-course-for-beginners-of-solar-energy/)
+
+* [Administration of Red Hat Linux Practice Test 2: Environment](https://coursemetry.com/administration-of-red-hat-linux-practice-test-2-environment/)
+
+* [React Guide - Build a TicTacToe App using React Native!](https://coursemetry.com/react-guide-build-a-tictactoe-app-using-react-native/)
+
+* [How To Draw BUILDINGS For Kids and beginners!](https://coursemetry.com/how-to-draw-buildings-for-kids-and-beginners/)
+
+* [How to Become a Facilitator: 7 Effective Skills](https://coursemetry.com/how-to-become-a-facilitator-7-effective-skills/)
+
+* [Copywriting: 3 Crucial Points For Your Text To Sell Itself](https://coursemetry.com/copywriting-3-crucial-points-for-your-text-to-sell-itself/)
+
+* [MS-900: Microsoft 365 Fundamentals Practice tests](https://coursemetry.com/ms-900-microsoft-365-fundamentals-practice-tests/)
+
+* [Master Course in Business Budgeting](https://coursemetry.com/master-course-in-business-budgeting/)
+
+* [Instagram Marketing: How To Promote Anything On Instagram](https://coursemetry.com/instagram-marketing-how-to-promote-anything-on-instagram/)
+
+* [Artificial Intelligence (AI) Tools For Job Seekers](https://coursemetry.com/artificial-intelligence-ai-tools-for-job-seekers/)
+
+* [Jumpstart your Project Management career](https://coursemetry.com/jumpstart-your-project-management-career/)
+
+* [Mindset for Success and Happiness - Complete Mindset Course](https://coursemetry.com/mindset-for-success-and-happiness-complete-mindset-course/)
+
+* [MS-900: Microsoft 365 Fundamentals Practice test](https://coursemetry.com/ms-900-microsoft-365-fundamentals-practice-test/)
+
+* [PRINCE2-Foundation Exam Test](https://coursemetry.com/prince2-foundation-exam-test/)
+
+* [Instagram Photography Summary: Top3 Ways To Shoot Everything](https://coursemetry.com/instagram-photography-summary-top3-ways-to-shoot-everything/)
+
+* [Neuroplasticity: Teach Your Brain  To Work 3 Times Faster](https://coursemetry.com/neuroplasticity-teach-your-brain-to-work-3-times-faster/)
+
+* [The Anger Saga](https://coursemetry.com/the-anger-saga/)
+
+* [Passive Income: Create & Sell Online Courses [Full Course]](https://coursemetry.com/passive-income-create-sell-online-courses-full-course/)
+
+* [How To Draw MECHS - The Ultimate Guide](https://coursemetry.com/how-to-draw-mechs-the-ultimate-guide/)
+
+* [SEO Copywriting & Content Marketing Course 4 Ecommerce 2023](https://coursemetry.com/seo-copywriting-content-marketing-course-4-ecommerce-2023/)
+
+* [Desarrollando Sistema MiniMarket (C# y Microsoft SQL Server)](https://coursemetry.com/desarrollando-sistema-minimarket-c-y-microsoft-sql-server/)
+
+* [Best of Copywriting: Copywriting 4 E-commerce + 46 Templates](https://coursemetry.com/best-of-copywriting-copywriting-4-e-commerce-46-templates/)
+
+* [Proceso CRUD (C Sharp y SQLite)](https://coursemetry.com/proceso-crud-c-sharp-y-sqlite/)
+
+* [Ace your career with the Power of Artificial Intelligence](https://coursemetry.com/ace-your-career-with-the-power-of-artificial-intelligence/)
+
+* [Curso de Base de Datos PostgreSQL Server](https://coursemetry.com/curso-de-base-de-datos-postgresql-server/)
+
+* [SuperMinds: The Future of Artificial Intelligence (AI)](https://coursemetry.com/superminds-the-future-of-artificial-intelligence-ai/)
+
+* [Effective Time Management For Professionals](https://coursemetry.com/effective-time-management-for-professionals/)
+
+* [Curso de Java - Nivel Básico](https://coursemetry.com/curso-de-java-nivel-basico/)
+
+* [How to Make an eCommerce Website with WordPress For Beginner](https://coursemetry.com/how-to-make-an-ecommerce-website-with-wordpress-for-beginner/)
+
+* [Complete Management Coaching Course - Executive Coaching](https://coursemetry.com/complete-management-coaching-course-executive-coaching/)
+
+* [Proceso CRUD (C Sharp y MySQL)](https://coursemetry.com/proceso-crud-c-sharp-y-mysql/)
+
+* [AWS Certified Developer Associate Practice Exams 2022](https://coursemetry.com/aws-certified-developer-associate-practice-exams-2022/)
+
+* [Build your own powerful super-computer on cloud](https://coursemetry.com/build-your-own-powerful-super-computer-on-cloud/)
+
+* [Curso de Base de Datos MariaDB Server](https://coursemetry.com/curso-de-base-de-datos-mariadb-server/)
+
+* [Learn Java Programming: Classes and Objects](https://coursemetry.com/learn-java-programming-classes-and-objects/)
+
+* [Projektmanagement: Best Practices aus 16 Jahren als Berater](https://coursemetry.com/projektmanagement-best-practices-aus-16-jahren-als-berater/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
