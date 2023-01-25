@@ -2,101 +2,51 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **47 Udemy free courses published so far on 2023-01-24**
+## **22 Udemy free courses published so far on 2023-01-25**
 
-* [Complete Guide to eBay Selling as a Business](https://coursemetry.com/complete-guide-to-ebay-selling-as-a-business/)
+* [2023-Master in Web Designing Skill](https://coursemetry.com/2023-master-in-web-designing-skill/)
 
-* [Video Production: You Can Make Simple Talking Head Video](https://coursemetry.com/video-production-you-can-make-simple-talking-head-video/)
+* [HTML and CSS- Crash Course for Beginners 2023](https://coursemetry.com/html-and-css-crash-course-for-beginners-2023/)
 
-* [MASTERCLASS : ÉCRIRE UN BON EMAIL POUR LA COMMUNICATION PRO](https://coursemetry.com/masterclass-ecrire-un-bon-email-pour-la-communication-pro/)
+* [SEO - The Complete SEO Course Beginners to Advanced 2023](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2023/)
 
-* [HTML and CSS ( 2 in 1 ) course from zero for beginners 2022.](https://coursemetry.com/html-and-css-2-in-1-course-from-zero-for-beginners-2022/)
+* [Instagram Marketing: How To Promote Anything On Instagram](https://coursemetry.com/instagram-marketing-how-to-promote-anything-on-instagram/)
 
-* [Shopify eCommerce Store Masterclass - Start a Business!](https://coursemetry.com/shopify-ecommerce-store-masterclass-start-a-business/)
+* [CSS, JavaScript,PHP And Python Programming All in One Course](https://coursemetry.com/css-javascriptphp-and-python-programming-all-in-one-course/)
 
-* [[Tips & Technics] : How to Become a Great Leader Skills 2022](https://coursemetry.com/tips-technics-how-to-become-a-great-leader-skills-2022/)
+* [2023-Master in HTML & CSS Coding for Web Design](https://coursemetry.com/2023-master-in-html-css-coding-for-web-design/)
 
-* [Program to lose 7KG at HOME](https://coursemetry.com/program-to-lose-7kg-at-home/)
+* [NLP -  Building your own chatbots using AI](https://coursemetry.com/nlp-building-your-own-chatbots-using-ai/)
 
-* [Personal Finance #1 Goals, Planning, & Time Value of Money](https://coursemetry.com/personal-finance-1-goals-planning-time-value-of-money/)
+* [Learn Illustrator CC: Create a Vector Knight](https://coursemetry.com/learn-illustrator-cc-create-a-vector-knight/)
 
-* [Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://coursemetry.com/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/)
+* [Instagram Photo: Make Your Instagram Look Pretty in 5 Steps](https://coursemetry.com/instagram-photo-make-your-instagram-look-pretty-in-5-steps/)
 
-* [Easy watercolor painting- night sky galaxy manga portrait](https://coursemetry.com/easy-watercolor-painting-night-sky-galaxy-manga-portrait/)
+* [Curso de Java - Nivel Básico](https://coursemetry.com/curso-de-java-nivel-basico/)
 
-* [Easy Watercolor Iris Flower Painting with Galaxy Background](https://coursemetry.com/easy-watercolor-iris-flower-painting-with-galaxy-background/)
+* [Test Your Agile and Scrum Knowledge: 4 Tests, 80 Questions](https://coursemetry.com/test-your-agile-and-scrum-knowledge-4-tests-80-questions/)
 
-* [Google Cloud Professional Cloud Security Engineer Exam](https://coursemetry.com/google-cloud-professional-cloud-security-engineer-exam-2/)
+* [Healthy living with "No Oil" Recipes - Non Vegetarian](https://coursemetry.com/healthy-living-with-no-oil-recipes-non-vegetarian/)
 
-* [Accounting–Financial Accounting Total-Beginners to Advanced](https://coursemetry.com/accounting-financial-accounting-total-beginners-to-advanced/)
+* [2023-Master in Core Python Programming in 99Days](https://coursemetry.com/2023-master-in-core-python-programming-in-99days/)
 
-* [Complete Goal Achievement Course - Personal Success Goals](https://coursemetry.com/complete-goal-achievement-course-personal-success-goals/)
+* [SQL Introduction Course 2023: SQL Crash Course.](https://coursemetry.com/sql-introduction-course-2023-sql-crash-course/)
 
-* [Excel Tips and trick : Learn MS Excel by making 7 Projects](https://coursemetry.com/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/)
+* [Honda Activa(Scooter) 12 Days Restoration Challenge!](https://coursemetry.com/honda-activascooter-12-days-restoration-challenge/)
 
-* [Make Money From Home As a Transcriptionist: 10 Opportunities](https://coursemetry.com/make-money-from-home-as-a-transcriptionist-10-opportunities/)
+* [2023-Learn JavaScript Programming in 7 Days](https://coursemetry.com/2023-learn-javascript-programming-in-7-days/)
 
-* [EMDR Therapy- A Simplified & Comprehensive Course](https://coursemetry.com/emdr-therapy-a-simplified-comprehensive-course/)
+* [SQL- The Complete Introduction to SQL programming](https://coursemetry.com/sql-the-complete-introduction-to-sql-programming/)
 
-* [Passive Income: Create & Sell Online Courses [Full Course]](https://coursemetry.com/passive-income-create-sell-online-courses-full-course/)
+* [Complete Python Challenges: Python MCQ& Python Recap in 2023](https://coursemetry.com/complete-python-challenges-python-mcq-python-recap-in-2023/)
 
-* [Microsoft Certified: Azure Fundamentals (AZ-900) - Exams](https://coursemetry.com/microsoft-certified-azure-fundamentals-az-900-exams/)
+* [Memory: 3 Ways of Memorising Like a Spy](https://coursemetry.com/memory-3-ways-of-memorising-like-a-spy/)
 
-* [Facebook Ads Marketing In Hindi/Urdu 2022](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2022/)
+* [Create Beautiful Photo and Video Slideshows with Animoto](https://coursemetry.com/create-beautiful-photo-and-video-slideshows-with-animoto/)
 
-* [Write Better Email: Technics for Clever communication](https://coursemetry.com/write-better-email-technics-for-clever-communication/)
+* [JavaScript for Beginners - The Complete introduction to JS](https://coursemetry.com/javascript-for-beginners-the-complete-introduction-to-js/)
 
-* [Digital Marketing Business Online For Free Social Media 2022](https://coursemetry.com/digital-marketing-business-online-for-free-social-media-2022/)
-
-* [AWS Services for Solutions Architect Associate [2022]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2022/)
-
-* [[Weight Loss] : Get Your Dream Body with Diet & Cardio](https://coursemetry.com/weight-loss-get-your-dream-body-with-diet-cardio/)
-
-* [Master Course in Business Model and Business Model Canvas](https://coursemetry.com/master-course-in-business-model-and-business-model-canvas/)
-
-* [English grammar tenses made easy](https://coursemetry.com/english-grammar-tenses-made-easy/)
-
-* [Get 10,000 facebook page followers at cheap Hindi/Urdu](https://coursemetry.com/get-10000-facebook-page-followers-at-cheap-hindi-urdu/)
-
-* [Facebook Ads Marketing - Start Lead Generation Business 2022](https://coursemetry.com/facebook-ads-marketing-start-lead-generation-business-2022/)
-
-* [Master Course in Business Fundamentals and Development](https://coursemetry.com/master-course-in-business-fundamentals-and-development/)
-
-* [Watercolor Silhouettes: Paint an Owl and a Princess](https://coursemetry.com/watercolor-silhouettes-paint-an-owl-and-a-princess/)
-
-* [[LEADER SKILLS] : 60 habits of successful people - New 2022](https://coursemetry.com/leader-skills-60-habits-of-successful-people-new-2022/)
-
-* [Dropshipping Shopify Store Creation like  Boss for Ecommerce](https://coursemetry.com/dropshipping-shopify-store-creation-like-boss-for-ecommerce/)
-
-* [Build Shopify store & Run Facebook Page Likes Ad In 2022](https://coursemetry.com/build-shopify-store-run-facebook-page-likes-ad-in-2022/)
-
-* [Emotional Intelligence Strategies استراتيجيات الذكاء العاطفي](https://coursemetry.com/emotional-intelligence-strategies-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%a7%d8%b7%d9%81%d9%8a/)
-
-* [Company Registration In UK~ Make paypal & Stripe Business](https://coursemetry.com/company-registration-in-uk-make-paypal-stripe-business/)
-
-* [Facebook Ads Targeting Strategies For Success Fast 2022](https://coursemetry.com/facebook-ads-targeting-strategies-for-success-fast-2022/)
-
-* [Passive Income With U demy Courses HIndi](https://coursemetry.com/passive-income-with-u-demy-courses-hindi/)
-
-* [Global Economics plus the Great Reset!](https://coursemetry.com/global-economics-plus-the-great-reset/)
-
-* [Administration of Red Hat Linux Practice Test 2: Environment](https://coursemetry.com/administration-of-red-hat-linux-practice-test-2-environment/)
-
-* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
-
-* [Political Savvy: Maximizing Your IMPACT in the Organization](https://coursemetry.com/political-savvy-maximizing-your-impact-in-the-organization/)
-
-* [Get Followers And engagement with Facebook  Ads (easy mode)](https://coursemetry.com/get-followers-and-engagement-with-facebook-ads-easy-mode/)
-
-* [Digital Marketing Business With Google My Business - 2022](https://coursemetry.com/digital-marketing-business-with-google-my-business-2022/)
-
-* [Complete Creative Writing Megacourse: Beginner to Expert](https://coursemetry.com/complete-creative-writing-megacourse-beginner-to-expert/)
-
-* [PHP y MYSQL: Convierte cualquier template HTML en una WebAPP](https://coursemetry.com/php-y-mysql-convierte-cualquier-template-html-en-una-webapp/)
-
-* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
-
-* [Ethical capitalism](https://coursemetry.com/ethical-capitalism/)
+* [Python Data Course: Python for Data Analysis & Visualization](https://coursemetry.com/python-data-course-python-for-data-analysis-visualization/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
