@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **88 Udemy free courses published so far on 2023-01-26**
+## **117 Udemy free courses published so far on 2023-01-26**
 
 * [Python Complete Course For Python Beginners](https://coursemetry.com/python-complete-course-for-python-beginners/)
 
@@ -179,6 +179,64 @@
 * [Python Od Podstaw - Kurs Programowania Dla Każdego](https://coursemetry.com/python-od-podstaw-kurs-programowania-dla-kazdego/)
 
 * [Sales Skills Training: Free Sales Generation Seminars](https://coursemetry.com/sales-skills-training-free-sales-generation-seminars/)
+
+* [En Basit Anlatımla Amazon Dropshipping Eğitimi](https://coursemetry.com/en-basit-anlatimla-amazon-dropshipping-egitimi/)
+
+* [Overcome Ageism In The Job Search](https://coursemetry.com/overcome-ageism-in-the-job-search/)
+
+* [PL/SQL For Beginners](https://coursemetry.com/pl-sql-for-beginners/)
+
+* [Introduction to Python Programming](https://coursemetry.com/introduction-to-python-programming-3/)
+
+* [Data Visualization in Python for Beginners](https://coursemetry.com/data-visualization-in-python-for-beginners/)
+
+* [SEO Writing Masterclass](https://coursemetry.com/seo-writing-masterclass/)
+
+* [Ace your career with the Power of Artificial Intelligence](https://coursemetry.com/ace-your-career-with-the-power-of-artificial-intelligence/)
+
+* [¡HACKEA tu metabolismo y PIERDE PESO en menos de 1 día!](https://coursemetry.com/hackea-tu-metabolismo-y-pierde-peso-en-menos-de-1-dia/)
+
+* [Management Consulting Skills Mastery](https://coursemetry.com/management-consulting-skills-mastery/)
+
+* [Corporate Finance #7 Short Term Financing](https://coursemetry.com/corporate-finance-7-short-term-financing/)
+
+* [Crea paginas de ventas para vender productos digi en Hotmart](https://coursemetry.com/crea-paginas-de-ventas-para-vender-productos-digi-en-hotmart/)
+
+* [Passive Income 5 Figures - Drop Servicing from Home 2023](https://coursemetry.com/passive-income-5-figures-drop-servicing-from-home-2023/)
+
+* [Digital Nomad: How to find Freelancing Opportunities in 2023](https://coursemetry.com/digital-nomad-how-to-find-freelancing-opportunities-in-2023/)
+
+* [Learn 47 Different Ways to Make Money Online!](https://coursemetry.com/learn-47-different-ways-to-make-money-online/)
+
+* [Level 1 : How to do a Dream Business](https://coursemetry.com/level-1-how-to-do-a-dream-business/)
+
+* [Competitor Analysis Masterclass (Phenomenal Edition)](https://coursemetry.com/competitor-analysis-masterclass-phenomenal-edition/)
+
+* [Aprende MATLAB y Simulink de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-y-simulink-de-cero-a-experto/)
+
+* [Corporate Finance #5 Financing Decisions](https://coursemetry.com/corporate-finance-5-financing-decisions/)
+
+* [The Anger Saga](https://coursemetry.com/the-anger-saga/)
+
+* [Certificate in Ancient Egyptian Energy Healing - Accredited](https://coursemetry.com/certificate-in-ancient-egyptian-energy-healing-accredited/)
+
+* [Management Consulting Presentation Essential Training](https://coursemetry.com/management-consulting-presentation-essential-training/)
+
+* [Concept of Wellbeing- Dealing with Anxiety](https://coursemetry.com/concept-of-wellbeing-dealing-with-anxiety/)
+
+* [Corporate Finance #4 Leverage & Break-Even Analysis](https://coursemetry.com/corporate-finance-4-leverage-break-even-analysis/)
+
+* [Python And Flask Framework Complete Course](https://coursemetry.com/python-and-flask-framework-complete-course/)
+
+* [Corporate Finance #6 Management of Current Assets](https://coursemetry.com/corporate-finance-6-management-of-current-assets/)
+
+* [Massaggio Decontratturante Vol1 + Vol2: Test di Valutazione](https://coursemetry.com/massaggio-decontratturante-vol1-vol2-test-di-valutazione/)
+
+* [Fundamentals of Network Security](https://coursemetry.com/fundamentals-of-network-security/)
+
+* [QuickBooks Pro Desktop Bookkeeping With Bank Feeds 2023](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-with-bank-feeds-2023/)
+
+* [Visual Studio 2022 C# - Nivel Básico](https://coursemetry.com/visual-studio-2022-c-nivel-basico/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
