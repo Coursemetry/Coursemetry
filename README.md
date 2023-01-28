@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **72 Udemy free courses published so far on 2023-01-28**
+## **100 Udemy free courses published so far on 2023-01-28**
 
 * [Adobe Audition Basics Guide](https://coursemetry.com/adobe-audition-basics-guide/)
 
@@ -147,6 +147,62 @@
 * [CheckPoint Management Server R81 HA Configuration](https://coursemetry.com/checkpoint-management-server-r81-ha-configuration/)
 
 * [Fully Accredited Certification in Ho’oponopono & Forgiveness](https://coursemetry.com/fully-accredited-certification-in-hooponopono-forgiveness/)
+
+* [Developer Relations Fundamentals – DevRel Masterclass 2022](https://coursemetry.com/developer-relations-fundamentals-devrel-masterclass-2022-2/)
+
+* [Clean Architecture In Flutter 3 (Arabic)](https://coursemetry.com/clean-architecture-in-flutter-3-arabic/)
+
+* [Quantum Computing Fundamentals with Microsoft Azure Quantum](https://coursemetry.com/quantum-computing-fundamentals-with-microsoft-azure-quantum/)
+
+* [Web5 Fundamentals - A New Evolution of Web & Data Ownership](https://coursemetry.com/web5-fundamentals-a-new-evolution-of-web-data-ownership/)
+
+* [Kids Vocabulary Set Three - Verbs](https://coursemetry.com/kids-vocabulary-set-three-verbs/)
+
+* [English for Kids - Reading Exercises](https://coursemetry.com/english-for-kids-reading-exercises/)
+
+* [No-Code Machine Learning with Qlik AutoML](https://coursemetry.com/no-code-machine-learning-with-qlik-automl/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [Machine Learning Practice Tests and Interview Questions](https://coursemetry.com/machine-learning-practice-tests-and-interview-questions/)
+
+* [Uygulama Geliştirerek Asp.Net Core MVC Öğrenin-Kurumsal Site](https://coursemetry.com/uygulama-gelistirerek-asp-net-core-mvc-ogrenin-kurumsal-site/)
+
+* [Online Course Creation - Sell Online Courses (Unofficial)](https://coursemetry.com/online-course-creation-sell-online-courses-unofficial/)
+
+* [Master Course in Business Idea Generation and Business Case](https://coursemetry.com/master-course-in-business-idea-generation-and-business-case/)
+
+* [Python Practice Tests & Interview Questions (Basic/Advanced)](https://coursemetry.com/python-practice-tests-interview-questions-basic-advanced/)
+
+* [Microsoft Power BI Practice Tests and Interview Questions](https://coursemetry.com/microsoft-power-bi-practice-tests-and-interview-questions/)
+
+* [Kids Vocabulary Set Four - House Vocabulary](https://coursemetry.com/kids-vocabulary-set-four-house-vocabulary/)
+
+* [Personal Finance #5-Purchasing Strategies](https://coursemetry.com/personal-finance-5-purchasing-strategies/)
+
+* [Mindset for a Successful Leadership Coach](https://coursemetry.com/mindset-for-a-successful-leadership-coach/)
+
+* [No-Code Machine Learning Using Amazon AWS SageMaker Canvas](https://coursemetry.com/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/)
+
+* [Crash Course on Civil Engineering and AutoCAD: Part 9](https://coursemetry.com/crash-course-on-civil-engineering-and-autocad-part-9/)
+
+* [Personal Finance #8-Insurance-Medical & Disability](https://coursemetry.com/personal-finance-8-insurance-medical-disability/)
+
+* [Forest Fairy Watercolor Manga Portrait Painting Course](https://coursemetry.com/forest-fairy-watercolor-manga-portrait-painting-course/)
+
+* [PyScript Fundamentals 101- Run Python in your Browser's HTML](https://coursemetry.com/pyscript-fundamentals-101-run-python-in-your-browsers-html/)
+
+* [Power Pages - A Complete Guide to Microsoft Power Pages](https://coursemetry.com/power-pages-a-complete-guide-to-microsoft-power-pages/)
+
+* [Flourish Studio Masterclass : Create Animated Visualizations](https://coursemetry.com/flourish-studio-masterclass-create-animated-visualizations/)
+
+* [Curso WordPress 2023:  Cómo Crear una Página Web Desde Cero](https://coursemetry.com/curso-wordpress-2023-como-crear-una-pagina-web-desde-cero/)
+
+* [Complete Cyber Security Practice Tests & Interview Questions](https://coursemetry.com/complete-cyber-security-practice-tests-interview-questions/)
+
+* [Python And Flask  Demonstrations Practice Course](https://coursemetry.com/python-and-flask-demonstrations-practice-course/)
+
+* [Emotional Intelligence for Software Engineers and Developers](https://coursemetry.com/emotional-intelligence-for-software-engineers-and-developers/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
