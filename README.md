@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **79 Udemy free courses published so far on 2023-01-29**
+## **103 Udemy free courses published so far on 2023-01-29**
 
 * [SEO & Copywriting Course as Project & Fun: 51 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-51-days-challenge/)
 
@@ -161,6 +161,54 @@
 * [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
 
 * [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
+
+* [PL-900: Microsoft Power Platform Fundamentals Practice Test](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-practice-test-2/)
+
+* [Kids English Vocabulary Set One - Nouns](https://coursemetry.com/kids-english-vocabulary-set-one-nouns/)
+
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
+
+* [Learn Coding with Java from Scratch: Essential Training 2023](https://coursemetry.com/learn-coding-with-java-from-scratch-essential-training-2023/)
+
+* [Management by...cartoons](https://coursemetry.com/management-by-cartoons/)
+
+* [Coding Basics 2023: Gentle Intro to Computer Programming](https://coursemetry.com/coding-basics-2023-gentle-intro-to-computer-programming/)
+
+* [FAA part 107 Remote Pilot Test Preparation Course](https://coursemetry.com/faa-part-107-remote-pilot-test-preparation-course/)
+
+* [Hardening Ubuntu Server](https://coursemetry.com/hardening-ubuntu-server/)
+
+* [The SQL Programming Essentials 2023 Immersive Training](https://coursemetry.com/the-sql-programming-essentials-2023-immersive-training/)
+
+* [Excel VBA pour débutants: Formation pas à pas sur Excel VBA](https://coursemetry.com/excel-vba-pour-debutants-formation-pas-a-pas-sur-excel-vba/)
+
+* [70+ Copywriting & Content Writing Templates for your Success](https://coursemetry.com/70-copywriting-content-writing-templates-for-your-success/)
+
+* [The Complete Business Interview Course](https://coursemetry.com/the-complete-business-interview-course/)
+
+* [Fiverr Freelancing 2023: Sell Like The Top 1%](https://coursemetry.com/fiverr-freelancing-2023-sell-like-the-top-1/)
+
+* [How to Prepare Yourself for change!?](https://coursemetry.com/how-to-prepare-yourself-for-change/)
+
+* [AZ-900 : Microsoft Azure Fundamentals Practice tests](https://coursemetry.com/az-900-microsoft-azure-fundamentals-practice-tests-3/)
+
+* [Data Science: R Programming Complete Diploma 2023](https://coursemetry.com/data-science-r-programming-complete-diploma-2023/)
+
+* [Learn Coding with C# from Scratch | C# Comprehensive Course](https://coursemetry.com/learn-coding-with-c-from-scratch-c-comprehensive-course/)
+
+* [EMDR Therapy for PTSD and Trauma - A Complete Masterclass](https://coursemetry.com/emdr-therapy-for-ptsd-and-trauma-a-complete-masterclass/)
+
+* [Kids English Vocabulary Set Two - Adjectives](https://coursemetry.com/kids-english-vocabulary-set-two-adjectives/)
+
+* [Practical Python for Dummies Beginner to Advance Course](https://coursemetry.com/practical-python-for-dummies-beginner-to-advance-course/)
+
+* [Practical CSS3 Mastery Course](https://coursemetry.com/practical-css3-mastery-course/)
+
+* [Microsoft AZ-400 Practice Exam](https://coursemetry.com/microsoft-az-400-practice-exam/)
+
+* [Ukulele Essentials for Beginners](https://coursemetry.com/ukulele-essentials-for-beginners/)
+
+* [AWS Certified Advanced Networking - Specialty Practice test](https://coursemetry.com/aws-certified-advanced-networking-specialty-practice-test-2/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
