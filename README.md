@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published so far on 2023-01-31**
+## **81 Udemy free courses published so far on 2023-01-31**
 
 * [Linux Command Line](https://coursemetry.com/linux-command-line/)
 
@@ -135,6 +135,36 @@
 * [Understanding Your Beliefs](https://coursemetry.com/understanding-your-beliefs/)
 
 * [Menopausal Economics](https://coursemetry.com/menopausal-economics/)
+
+* [Master Course in Business Plan and Business Proposal](https://coursemetry.com/master-course-in-business-plan-and-business-proposal/)
+
+* [Escuela de Programación y Desarrollo Web desde cero a Master](https://coursemetry.com/escuela-de-programacion-y-desarrollo-web-desde-cero-a-master/)
+
+* [Complete Hypnosis Weight Loss Course - Dieting Psychology](https://coursemetry.com/complete-hypnosis-weight-loss-course-dieting-psychology/)
+
+* [Mind Power - Change Your Thought Process To Change Your Life](https://coursemetry.com/mind-power-change-your-thought-process-to-change-your-life/)
+
+* [Facebook Ads 2023: Launch Pro Advertising Campaigns](https://coursemetry.com/facebook-ads-2023-launch-pro-advertising-campaigns/)
+
+* [Escuela de Python 2023: Aprende Python 3.9+ de cero a Master](https://coursemetry.com/escuela-de-python-2023-aprende-python-3-9-de-cero-a-master/)
+
+* [CheckPoint-NGFW Security : Basic Introduction](https://coursemetry.com/checkpoint-ngfw-security-basic-introduction/)
+
+* [CheckPoint Firewall Administration R80](https://coursemetry.com/checkpoint-firewall-administration-r80/)
+
+* [Java: Curso profesional de Java 2023 –De cero a Master](https://coursemetry.com/java-curso-profesional-de-java-2023-de-cero-a-master/)
+
+* [Exam C_SM100_7208 SAP Certified  Solution manager (7.2 SPS8)](https://coursemetry.com/exam-c_sm100_7208-sap-certified-solution-manager-7-2-sps8/)
+
+* [Fundamentals of Electrical and Electronics](https://coursemetry.com/fundamentals-of-electrical-and-electronics/)
+
+* [B2B Cold Email Course 2023 - 5 Figure Copywriting Blueprint](https://coursemetry.com/b2b-cold-email-course-2023-5-figure-copywriting-blueprint/)
+
+* [Master Your Priorities - Get More Done In Less Time](https://coursemetry.com/master-your-priorities-get-more-done-in-less-time/)
+
+* [Escuela de JavaScript 2023 - De cero a Master en JavaScript](https://coursemetry.com/escuela-de-javascript-2023-de-cero-a-master-en-javascript/)
+
+* [Getting Started with Trello (2023) - Task Management Genius](https://coursemetry.com/getting-started-with-trello-2023-task-management-genius/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
