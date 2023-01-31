@@ -2,81 +2,139 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **37 Udemy free courses published so far on 2023-01-30**
+## **66 Udemy free courses published so far on 2023-01-31**
 
-* [Python Demonstrations For Practice Course](https://coursemetry.com/python-demonstrations-for-practice-course/)
+* [Linux Command Line](https://coursemetry.com/linux-command-line/)
 
-* [Activities & Ideas for Ecstatic Dance Groups & Workshops](https://coursemetry.com/activities-ideas-for-ecstatic-dance-groups-workshops/)
+* [Customer Research & Data-Driven Decision Making](https://coursemetry.com/customer-research-data-driven-decision-making/)
 
-* [Databricks Basics Guide](https://coursemetry.com/databricks-basics-guide/)
+* [Excel files with Python](https://coursemetry.com/excel-files-with-python/)
 
-* [Graph Theory and it's Algorithms](https://coursemetry.com/graph-theory-and-its-algorithms/)
+* [The Complete Attraction Course: Attract People Easily](https://coursemetry.com/the-complete-attraction-course-attract-people-easily/)
 
-* [Sell Products with Facebook Ads Fast On Shopify 2022](https://coursemetry.com/sell-products-with-facebook-ads-fast-on-shopify-2022/)
+* [Personal Growth - Affirmations and Taking Action](https://coursemetry.com/personal-growth-affirmations-and-taking-action/)
 
-* [Object Detection Web App with TensorFlow, OpenCV and Flask](https://coursemetry.com/object-detection-web-app-with-tensorflow-opencv-and-flask/)
+* [Time Management, Productivity, Decision Making tools & aids](https://coursemetry.com/time-management-productivity-decision-making-tools-aids/)
 
-* [Facebook Ads & Facebook Marketing Funnel Crash Course- 2022](https://coursemetry.com/facebook-ads-facebook-marketing-funnel-crash-course-2022/)
+* [Complete Goal Achievement Course - Personal Success Goals](https://coursemetry.com/complete-goal-achievement-course-personal-success-goals/)
 
-* [Company Registration In UK~ Make paypal & Stripe Business](https://coursemetry.com/company-registration-in-uk-make-paypal-stripe-business/)
+* [Complete Payroll Management in Excel &TALLY ERP9 &TallyPrime](https://coursemetry.com/complete-payroll-management-in-excel-tally-erp9-tallyprime/)
 
-* [Google Calendar Basics Guide](https://coursemetry.com/google-calendar-basics-guide/)
+* [Media Training Public Speaking Training for Candidates](https://coursemetry.com/media-training-public-speaking-training-for-candidates/)
 
-* [Deno Basics Guide](https://coursemetry.com/deno-basics-guide/)
+* [The Anonymity Course For Beginners](https://coursemetry.com/the-anonymity-course-for-beginners/)
 
-* [Video Editing Mastery With Camtasia In Hindi/Urdu 2022](https://coursemetry.com/video-editing-mastery-with-camtasia-in-hindi-urdu-2022/)
+* [Curso de Base de Datos PostgreSQL Server](https://coursemetry.com/curso-de-base-de-datos-postgresql-server/)
 
-* [Facebook Marketing & Facebook Ads Course For Beginners](https://coursemetry.com/facebook-marketing-facebook-ads-course-for-beginners/)
+* [Scrum Tales: Scrum Training Through Real Life Scenarios](https://coursemetry.com/scrum-tales-scrum-training-through-real-life-scenarios/)
 
-* [Google Adwords Crash Course 2022](https://coursemetry.com/google-adwords-crash-course-2022/)
+* [Cryptocurrency Course: Learn to Make Money Online WORLDWIDE!](https://coursemetry.com/cryptocurrency-course-learn-to-make-money-online-worldwide/)
 
-* [Facebook Conversions Ads Marketing For Selling Products 2022](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2022/)
+* [Easiest Side Gig 2023 - Passive Income from User Testing](https://coursemetry.com/easiest-side-gig-2023-passive-income-from-user-testing/)
 
-* [Shopify Guide: Start your own clothing brand with Shopify](https://coursemetry.com/shopify-guide-start-your-own-clothing-brand-with-shopify/)
+* [Selling With Social Proof - The Social Influence Masterclass](https://coursemetry.com/selling-with-social-proof-the-social-influence-masterclass/)
 
-* [Automated Machine Learning for Beginners (Google & Apple)](https://coursemetry.com/automated-machine-learning-for-beginners-google-apple/)
+* [Body Language in the Workplace](https://coursemetry.com/body-language-in-the-workplace/)
 
-* [Run Facebook Event Ad, Youtube Channel & Google Ad 2022](https://coursemetry.com/run-facebook-event-ad-youtube-channel-google-ad-2022/)
+* [Design Thinking Guide for Successful Professionals](https://coursemetry.com/design-thinking-guide-for-successful-professionals/)
 
-* [Facebook Ads Google My Business & Google Ads (Adwords) 2022](https://coursemetry.com/facebook-ads-google-my-business-google-ads-adwords-2022/)
+* [Create Space Invaders with Python PyGame](https://coursemetry.com/create-space-invaders-with-python-pygame/)
 
-* [Deep Web- The complete Introduction to the hidden web](https://coursemetry.com/deep-web-the-complete-introduction-to-the-hidden-web/)
+* [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
 
-* [Cypress Basics Guide](https://coursemetry.com/cypress-basics-guide/)
+* [SEO & Copywriting Course as Project & Fun: 51 Days Challenge](https://coursemetry.com/seo-copywriting-course-as-project-fun-51-days-challenge/)
 
-* [Learn Wordpress Gutenberg Block Editor 2023 Version](https://coursemetry.com/learn-wordpress-gutenberg-block-editor-2023-version/)
+* [Learn Basics of Allen Bradley RS 5000 PLC Programming](https://coursemetry.com/learn-basics-of-allen-bradley-rs-5000-plc-programming/)
 
-* [Chrome Extension Basics Guide](https://coursemetry.com/chrome-extension-basics-guide/)
+* [Complete Sourdough Bread Baking - Levels 1, 2, 3 and 4!](https://coursemetry.com/complete-sourdough-bread-baking-levels-1-2-3-and-4/)
 
-* [Building a Face Detection and Recognition Model From Scratch](https://coursemetry.com/building-a-face-detection-and-recognition-model-from-scratch/)
+* [Secrets to Write a Copywriting that Sells like HOT Cakes!](https://coursemetry.com/secrets-to-write-a-copywriting-that-sells-like-hot-cakes/)
 
-* [Facebook Ads And Marketing - Lead Generation Pro - 2022](https://coursemetry.com/facebook-ads-and-marketing-lead-generation-pro-2022/)
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
 
-* [Apache Spark Project World Development Indicators Analytics](https://coursemetry.com/apache-spark-project-world-development-indicators-analytics/)
+* [Professional Scrum Master  ( PSM ): 6 Prep Tests, 240 QAs](https://coursemetry.com/professional-scrum-master-psm-6-prep-tests-240-qas/)
 
-* [Domain Trading Basics Guide](https://coursemetry.com/domain-trading-basics-guide/)
+* [Allen Bradley Micro Logix PLC Programming Basics](https://coursemetry.com/allen-bradley-micro-logix-plc-programming-basics/)
 
-* [Facebook Ads Marketing For Events Organic & Paid Strategy](https://coursemetry.com/facebook-ads-marketing-for-events-organic-paid-strategy/)
+* [On-Camera Charisma for YouTube Stars - YouTube Marketing](https://coursemetry.com/on-camera-charisma-for-youtube-stars-youtube-marketing/)
 
-* [Creación y gestión de equipos de alto rendimiento](https://coursemetry.com/creacion-y-gestion-de-equipos-de-alto-rendimiento/)
+* [How to Prepare Yourself for change!?](https://coursemetry.com/how-to-prepare-yourself-for-change/)
 
-* [Facebook Ads Lead Generation Marketing for business](https://coursemetry.com/facebook-ads-lead-generation-marketing-for-business/)
+* [Learn Apache Spark to Generate Weblog Reports for Websites](https://coursemetry.com/learn-apache-spark-to-generate-weblog-reports-for-websites/)
 
-* [Neuroplasticity: Teach Your Brain  To Work 3 Times Faster](https://coursemetry.com/neuroplasticity-teach-your-brain-to-work-3-times-faster/)
+* [Shamanic Essentials [Accredited Certificate Course]](https://coursemetry.com/shamanic-essentials-accredited-certificate-course/)
 
-* [Blazor Basics Guide](https://coursemetry.com/blazor-basics-guide/)
+* [Energy Tapping for Deaf People Making Positive Change](https://coursemetry.com/energy-tapping-for-deaf-people-making-positive-change/)
 
-* [NGINX Web Server from Scratch](https://coursemetry.com/nginx-web-server-from-scratch/)
+* [Siemens S7-1200 PLC & HMI using TIA Portal](https://coursemetry.com/siemens-s7-1200-plc-hmi-using-tia-portal/)
 
-* [Python For Absolute Beginners : Learn Python From Scratch](https://coursemetry.com/python-for-absolute-beginners-learn-python-from-scratch/)
+* [Public Speaking Skills: Deliver Great Technology Talks](https://coursemetry.com/public-speaking-skills-deliver-great-technology-talks/)
 
-* [Agile Scrum Master Training : Case Studies and Confessions](https://coursemetry.com/agile-scrum-master-training-case-studies-and-confessions/)
+* [Mitsubishi PLC Programming from Scratch - GX Developer](https://coursemetry.com/mitsubishi-plc-programming-from-scratch-gx-developer/)
 
-* [The Complete Microsoft OneDrive Course - Mastering OneDrive](https://coursemetry.com/the-complete-microsoft-onedrive-course-mastering-onedrive/)
+* [Presentation Skills for Beginners](https://coursemetry.com/presentation-skills-for-beginners/)
 
-* [Sentiment Analysis with NLP using Python and Flask](https://coursemetry.com/sentiment-analysis-with-nlp-using-python-and-flask/)
+* [Complete guide for Aronium Point of Sale : Free & Best POS](https://coursemetry.com/complete-guide-for-aronium-point-of-sale-free-best-pos/)
 
-* [Run Digital Marketing Ad Using Google Adwords Express 2022](https://coursemetry.com/run-digital-marketing-ad-using-google-adwords-express-2022/)
+* [Batch Script Programming Crash Course (CMD)](https://coursemetry.com/batch-script-programming-crash-course-cmd/)
+
+* [Video Production: You Can Make Simple Talking Head Video](https://coursemetry.com/video-production-you-can-make-simple-talking-head-video/)
+
+* [Hardening Ubuntu Server](https://coursemetry.com/hardening-ubuntu-server/)
+
+* [Conference Calls-You Can Present Well On Any Conference Call](https://coursemetry.com/conference-calls-you-can-present-well-on-any-conference-call/)
+
+* [Public Speaking: Eliminate Verbal Tics, Uh, Um, Er, Ya Know](https://coursemetry.com/public-speaking-eliminate-verbal-tics-uh-um-er-ya-know/)
+
+* [Learn Modern Javascript by Coding a Snake Game](https://coursemetry.com/learn-modern-javascript-by-coding-a-snake-game/)
+
+* [Public Speaking: You Can be a Great Speaker within 24 Hours](https://coursemetry.com/public-speaking-you-can-be-a-great-speaker-within-24-hours/)
+
+* [Linux  Bash Scripting](https://coursemetry.com/linux-bash-scripting/)
+
+* [Formation WordPress: Créez 1 Site rapidement en partant de 0](https://coursemetry.com/formation-wordpress-creez-1-site-rapidement-en-partant-de-0/)
+
+* [Leadership - Leading a Community](https://coursemetry.com/leadership-leading-a-community/)
+
+* [Linux Beginner Commands](https://coursemetry.com/linux-beginner-commands/)
+
+* [Mindset for Success and Happiness - Complete Mindset Course](https://coursemetry.com/mindset-for-success-and-happiness-complete-mindset-course/)
+
+* [Create a GUI with Python](https://coursemetry.com/create-a-gui-with-python/)
+
+* [Build Habits Using Biology And Neuroscience](https://coursemetry.com/build-habits-using-biology-and-neuroscience/)
+
+* [Oracle Primavera P6 Essentials Training](https://coursemetry.com/oracle-primavera-p6-essentials-training/)
+
+* [SnowFlake SnowPro Core Practice Test](https://coursemetry.com/snowflake-snowpro-core-practice-test/)
+
+* [The Art of Sampling with Ableton](https://coursemetry.com/the-art-of-sampling-with-ableton/)
+
+* [The Complete Nonverbal Communication Course - Body Language](https://coursemetry.com/the-complete-nonverbal-communication-course-body-language/)
+
+* [HTML5 - From Basics to Advanced level [2022]](https://coursemetry.com/html5-from-basics-to-advanced-level-2022/)
+
+* [How Websites Work](https://coursemetry.com/how-websites-work/)
+
+* [Beginners Manual on Ethereum Crypto-currency & its Trading](https://coursemetry.com/beginners-manual-on-ethereum-crypto-currency-its-trading/)
+
+* [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
+
+* [The Complete Talking Head Video Production Masterclass](https://coursemetry.com/the-complete-talking-head-video-production-masterclass/)
+
+* [Self Discipline will Change Your life for GOOD](https://coursemetry.com/self-discipline-will-change-your-life-for-good/)
+
+* [Effective In-Person & Virtual Zoom Meetings](https://coursemetry.com/effective-in-person-virtual-zoom-meetings/)
+
+* [The Complete ReactJs Course - Basics to Advanced [2022]](https://coursemetry.com/the-complete-reactjs-course-basics-to-advanced-2022/)
+
+* [Aprende SIMULINK de CERO a EXPERTO](https://coursemetry.com/aprende-simulink-de-cero-a-experto/)
+
+* [Aprende a programar desde cero con C#, Microsoft .NET y WPF](https://coursemetry.com/aprende-a-programar-desde-cero-con-c-microsoft-net-y-wpf/)
+
+* [Understanding Your Beliefs](https://coursemetry.com/understanding-your-beliefs/)
+
+* [Menopausal Economics](https://coursemetry.com/menopausal-economics/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
