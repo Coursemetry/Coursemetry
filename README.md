@@ -2,189 +2,109 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **91 Udemy free courses published so far on 2023-02-03**
+## **51 Udemy free courses published so far on 2023-02-04**
 
-* [Shamanic Essentials [Accredited Certificate Course]](https://coursemetry.com/shamanic-essentials-accredited-certificate-course/)
+* [Mastering Exchange Server with Powershell: Mailboxes](https://coursemetry.com/mastering-exchange-server-with-powershell-mailboxes/)
 
-* [Managerial Accounting / Cost Accounting](https://coursemetry.com/managerial-accounting-cost-accounting/)
+* [The Ultimate Sass Course: Boost Your Web Development Skills](https://coursemetry.com/the-ultimate-sass-course-boost-your-web-development-skills/)
 
-* [Social Media Marketing Advertising 2023: Get More Customers!](https://coursemetry.com/social-media-marketing-advertising-2023-get-more-customers/)
+* [CSS, JavaScript And Python Complete Course](https://coursemetry.com/css-javascript-and-python-complete-course/)
 
-* [PMP Practice Test 2022](https://coursemetry.com/pmp-practice-test-2022/)
+* [The Complete Drums Course From Scratch - For All Ages](https://coursemetry.com/the-complete-drums-course-from-scratch-for-all-ages/)
 
-* [Not-for-Profit Accounting-Charities, Colleges, & Health Care](https://coursemetry.com/not-for-profit-accounting-charities-colleges-health-care/)
+* [Exam AZ-900: Microsoft Azure Fundamentals Practice Tests](https://coursemetry.com/exam-az-900-microsoft-azure-fundamentals-practice-tests/)
 
-* [Master Course in Business Collaboration](https://coursemetry.com/master-course-in-business-collaboration/)
+* [Basic Medication Safety Course](https://coursemetry.com/basic-medication-safety-course/)
 
-* [Master Course in Interviewing Skills and Career Development](https://coursemetry.com/master-course-in-interviewing-skills-and-career-development/)
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
 
-* [Master Course in Business Plan and Business Proposal](https://coursemetry.com/master-course-in-business-plan-and-business-proposal/)
-
-* [3 Essential Coaching Skills for Project Leaders](https://coursemetry.com/3-essential-coaching-skills-for-project-leaders/)
-
-* [PL-900: Microsoft Power Platform Fundamentals Practice Test](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-practice-test-2/)
-
-* [Master course of Data Modeling](https://coursemetry.com/master-course-of-data-modeling/)
-
-* [Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)](https://coursemetry.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/)
-
-* [Coaching Agreements with Agile Teams](https://coursemetry.com/coaching-agreements-with-agile-teams/)
-
-* [Real Estate Investment & Finance](https://coursemetry.com/real-estate-investment-finance/)
+* [Kaynak & İmalat Mühendisliği Sertifika Programı A-Z](https://coursemetry.com/kaynak-imalat-muhendisligi-sertifika-programi-a-z/)
 
 * [Master Course in Project Management 2.0](https://coursemetry.com/master-course-in-project-management-2-0/)
 
-* [How to Earn from Photography: Absolute Beginners Guide](https://coursemetry.com/how-to-earn-from-photography-absolute-beginners-guide/)
+* [CSS3 and Bootstrap for Absolute Beginners : 4 courses in 1](https://coursemetry.com/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1/)
 
-* [Money In Excel - Income Tax Sch. C & Personal Financials](https://coursemetry.com/money-in-excel-income-tax-sch-c-personal-financials/)
+* [Master Course of Executive Coaching](https://coursemetry.com/master-course-of-executive-coaching/)
 
-* [Speak like a pro - Public speaking for online entrepreneurs](https://coursemetry.com/speak-like-a-pro-public-speaking-for-online-entrepreneurs/)
+* [Wondershare Filmora 11 Video Editing Course in Hindi](https://coursemetry.com/wondershare-filmora-11-video-editing-course-in-hindi/)
 
-* [Political Savvy: Maximizing Your IMPACT in the Organization](https://coursemetry.com/political-savvy-maximizing-your-impact-in-the-organization/)
+* [The Complete Job Interviewing Skills Masterclass](https://coursemetry.com/the-complete-job-interviewing-skills-masterclass/)
 
-* [Create awesome videos from text using Pictory](https://coursemetry.com/create-awesome-videos-from-text-using-pictory-2/)
+* [Certified Entry-Level & Associate in Python Programming Pack](https://coursemetry.com/certified-entry-level-associate-in-python-programming-pack/)
 
-* [Get Interview Ready with SpringData JPA & Hibernate Concepts](https://coursemetry.com/get-interview-ready-with-springdata-jpa-hibernate-concepts/)
+* [PCPP1 – Certified Professional in Python Programming 1](https://coursemetry.com/pcpp1-certified-professional-in-python-programming-1/)
 
-* [The Minimalist Lifestyle - and art therapy - LAGOM!](https://coursemetry.com/the-minimalist-lifestyle-and-art-therapy-lagom/)
+* [Master Course in Business Process Modeling (BPM and BPMN)](https://coursemetry.com/master-course-in-business-process-modeling-bpm-and-bpmn/)
 
-* [4 Practice Tests for any Python Certification](https://coursemetry.com/4-practice-tests-for-any-python-certification/)
+* [Certified Associate & Professional Python Programming Pack](https://coursemetry.com/certified-associate-professional-python-programming-pack/)
 
-* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+* [Oracle Primavera P6 Essentials Training](https://coursemetry.com/oracle-primavera-p6-essentials-training/)
 
-* [Corporate Finance](https://coursemetry.com/corporate-finance/)
+* [Exam DP-900 Microsoft Azure Data Fundamentals Practice Tests](https://coursemetry.com/exam-dp-900-microsoft-azure-data-fundamentals-practice-tests/)
 
-* [Cisco Certified Network Associate (CCNA) Practice test](https://coursemetry.com/cisco-certified-network-associate-ccna-practice-test/)
+* [Master Course in Online Business and Home Business](https://coursemetry.com/master-course-in-online-business-and-home-business/)
 
-* [Google Professional Cloud DevOps Engineer Practice Exam](https://coursemetry.com/google-professional-cloud-devops-engineer-practice-exam/)
+* [Mastering Exchange Server with Powershell: Databases](https://coursemetry.com/mastering-exchange-server-with-powershell-databases/)
 
-* [Master Course in Business Branding and Brand Management](https://coursemetry.com/master-course-in-business-branding-and-brand-management/)
+* [Learn Certified Ethical Hacking From Scratch](https://coursemetry.com/learn-certified-ethical-hacking-from-scratch/)
 
-* [ازاي تختار المجال المناسب ليك](https://coursemetry.com/%d8%a7%d8%b2%d8%a7%d9%8a-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8-%d9%84%d9%8a%d9%83/)
+* [Complete Python 2023 For Absolute Beginners](https://coursemetry.com/complete-python-2023-for-absolute-beginners/)
 
-* [Become a Product Marketing Manager | Product Management MBA](https://coursemetry.com/become-a-product-marketing-manager-product-management-mba/)
+* [Financial Accounting & Excel–Comprehensive Accounting Course](https://coursemetry.com/financial-accounting-excel-comprehensive-accounting-course/)
 
-* [Master Course of Microsoft Power Platform](https://coursemetry.com/master-course-of-microsoft-power-platform/)
+* [Javascript Build a Calculator using HTML, CSS and Javascript](https://coursemetry.com/javascript-build-a-calculator-using-html-css-and-javascript/)
 
-* [AZ-104: Microsoft Azure Administrator Practice tests - Exam](https://coursemetry.com/az-104-microsoft-azure-administrator-practice-tests-exam/)
+* [Python For Beginners Course In-Depth](https://coursemetry.com/python-for-beginners-course-in-depth/)
 
-* [How To Generate Thousands From Songwriting & Ghostwriting](https://coursemetry.com/how-to-generate-thousands-from-songwriting-ghostwriting/)
+* [How Websites Work](https://coursemetry.com/how-websites-work/)
 
-* [Excel VBA Advanced 1 - Schneller arbeiten mit Apps in Excel](https://coursemetry.com/excel-vba-advanced-1-schneller-arbeiten-mit-apps-in-excel/)
+* [Setup and Configure Windows Nano Server from Scratch](https://coursemetry.com/setup-and-configure-windows-nano-server-from-scratch/)
 
-* [Advanced Financial Accounting](https://coursemetry.com/advanced-financial-accounting/)
+* [SEO Training: Complete SEO Course & SEO Copywriting MASTERY](https://coursemetry.com/seo-training-complete-seo-course-seo-copywriting-mastery/)
 
-* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+* [PCEP - Certified Entry-Level Python Programmer - Exams](https://coursemetry.com/pcep-certified-entry-level-python-programmer-exams/)
 
-* [Personal Finance](https://coursemetry.com/personal-finance/)
+* [Adobe Lightroom Classic CC: Master the Library Module](https://coursemetry.com/adobe-lightroom-classic-cc-master-the-library-module/)
 
-* [PL-900: Microsoft Power Platform Fundamentals Practice test](https://coursemetry.com/pl-900-microsoft-power-platform-fundamentals-practice-test-3/)
+* [Exam DP-203: Microsoft Azure Data Engineer Associate - Tests](https://coursemetry.com/exam-dp-203-microsoft-azure-data-engineer-associate-tests/)
 
-* [Blogging for online entrepreneurs](https://coursemetry.com/blogging-for-online-entrepreneurs/)
+* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
 
-* [Personal Capital Free Financial Planner Application](https://coursemetry.com/personal-capital-free-financial-planner-application/)
+* [Master Course in Interviewing Skills and Career Development](https://coursemetry.com/master-course-in-interviewing-skills-and-career-development/)
 
-* [Best Starter Course: Robotics & ROS Simplified [2023]](https://coursemetry.com/best-starter-course-robotics-ros-simplified-2023/)
+* [Bootstrap & jQuery - Certification Course for Beginners](https://coursemetry.com/bootstrap-jquery-certification-course-for-beginners/)
 
-* [QuickBooks Online vs Xero Accounting Software](https://coursemetry.com/quickbooks-online-vs-xero-accounting-software/)
+* [Facebook Ads: Run Your First Ad Campaign](https://coursemetry.com/facebook-ads-run-your-first-ad-campaign/)
 
-* [How to check website performance without coding knowledge!](https://coursemetry.com/how-to-check-website-performance-without-coding-knowledge/)
+* [Master Course in Social Media Marketing 5.0](https://coursemetry.com/master-course-in-social-media-marketing-5-0/)
 
-* [Music Marketing | YouTube Marketing & 2023 Viral hacks](https://coursemetry.com/music-marketing-youtube-marketing-2023-viral-hacks/)
+* [Excel Mastery: 4 Proven Practice Tests for Exam Success 2023](https://coursemetry.com/excel-mastery-4-proven-practice-tests-for-exam-success-2023/)
 
-* [Cloud Computing and Amazon Web Services (AWS) Fundamentals](https://coursemetry.com/cloud-computing-and-amazon-web-services-aws-fundamentals/)
+* [Salesforce ADM-211 Test 2023](https://coursemetry.com/salesforce-adm-211-test-2023/)
 
-* [Master Course in Public Speaking](https://coursemetry.com/master-course-in-public-speaking/)
+* [How to Create Blog On WordPress - Full A-Z Course 2023](https://coursemetry.com/how-to-create-blog-on-wordpress-full-a-z-course-2023/)
 
-* [Master Course in Advanced SEO (Search Engine Optimization)](https://coursemetry.com/master-course-in-advanced-seo-search-engine-optimization/)
+* [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
 
-* [Master Course of Professional Ethics](https://coursemetry.com/master-course-of-professional-ethics/)
+* [Fundamentals of Financial Services](https://coursemetry.com/fundamentals-of-financial-services/)
 
-* [Basics of Political Science](https://coursemetry.com/basics-of-political-science/)
+* [10x Your Social Skills & Connect With People](https://coursemetry.com/10x-your-social-skills-connect-with-people/)
 
-* [Streamlit Bootcamp](https://coursemetry.com/streamlit-bootcamp/)
+* [CheckPoint R81 Multi-Domain Security (MDS) Server Deployment](https://coursemetry.com/checkpoint-r81-multi-domain-security-mds-server-deployment/)
 
-* [Aprende JavaScript de CERO a EXPERTO](https://coursemetry.com/aprende-javascript-de-cero-a-experto/)
+* [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
 
-* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
+* [Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor](https://coursemetry.com/job-cost-quickbooks-online-vs-quickbooks-desktop-contractor/)
 
-* [Setup LAMP Stack on a Remote Cloud Server + PHP Foundations](https://coursemetry.com/setup-lamp-stack-on-a-remote-cloud-server-php-foundations/)
+* [PCAP - Certified Associate in Python Programming - Exams](https://coursemetry.com/pcap-certified-associate-in-python-programming-exams/)
 
-* [QuickBooks Desktop vs QBO Multiple Currencies](https://coursemetry.com/quickbooks-desktop-vs-qbo-multiple-currencies/)
+* [CheckPoint Management Server R81 HA Configuration](https://coursemetry.com/checkpoint-management-server-r81-ha-configuration/)
 
-* [Music Business Mastery | Music Industry Secrets](https://coursemetry.com/music-business-mastery-music-industry-secrets/)
+* [Human Rights : A basic course](https://coursemetry.com/human-rights-a-basic-course/)
 
-* [The Ultimate YouTube Advertising Course for Beginners](https://coursemetry.com/the-ultimate-youtube-advertising-course-for-beginners/)
+* [Understanding Your Beliefs](https://coursemetry.com/understanding-your-beliefs/)
 
-* [AWS Identity and Access Management (IAM) Foundations](https://coursemetry.com/aws-identity-and-access-management-iam-foundations/)
-
-* [Master Course in Business Continuity Management](https://coursemetry.com/master-course-in-business-continuity-management/)
-
-* [Entrepreneurship and Innovation - Start your own business](https://coursemetry.com/entrepreneurship-and-innovation-start-your-own-business/)
-
-* [Looker for Data Visualization - Beginners and Professionals](https://coursemetry.com/looker-for-data-visualization-beginners-and-professionals/)
-
-* [Master Course in Time Management](https://coursemetry.com/master-course-in-time-management/)
-
-* [Web Development Masterclass - Online Certification Course](https://coursemetry.com/web-development-masterclass-online-certification-course/)
-
-* [The Concept of  Waste](https://coursemetry.com/the-concept-of-waste/)
-
-* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners/)
-
-* [Universidad Visual Basic. net y SQLserver: De 0 a Experto](https://coursemetry.com/universidad-visual-basic-net-y-sqlserver-de-0-a-experto/)
-
-* [curso de javascript de 0 a heroe](https://coursemetry.com/curso-de-javascript-de-0-a-heroe/)
-
-* [Adding Blockchain to a Unity Game](https://coursemetry.com/adding-blockchain-to-a-unity-game/)
-
-* [Learn CSS - For Beginners](https://coursemetry.com/learn-css-for-beginners/)
-
-* [Public Speaking Contests: You Can Win](https://coursemetry.com/public-speaking-contests-you-can-win/)
-
-* [Создание бизнес презентации в PowerPoint с нуля](https://coursemetry.com/%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81-%d0%bf%d1%80%d0%b5%d0%b7%d0%b5%d0%bd%d1%82%d0%b0%d1%86%d0%b8%d0%b8-%d0%b2-powerpoint-%d1%81-%d0%bd%d1%83%d0%bb/)
-
-* [S Corporation Income Tax - Form 1120S](https://coursemetry.com/s-corporation-income-tax-form-1120s/)
-
-* [CSS & JavaScript - Certification Course for Beginners](https://coursemetry.com/css-javascript-certification-course-for-beginners/)
-
-* [C# desde 0: Inicia tu carrera como programador](https://coursemetry.com/c-desde-0-inicia-tu-carrera-como-programador/)
-
-* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
-
-* [Master Course of Lean Startup and IT Startup](https://coursemetry.com/master-course-of-lean-startup-and-it-startup/)
-
-* [Learn PHP - For Beginners](https://coursemetry.com/learn-php-for-beginners/)
-
-* [Viral YouTube Marketing - Crash Course + Live Class](https://coursemetry.com/viral-youtube-marketing-crash-course-live-class/)
-
-* [Understanding HIPAA Compliance](https://coursemetry.com/understanding-hipaa-compliance/)
-
-* [The Complete Introduction to C++ Programming](https://coursemetry.com/the-complete-introduction-to-c-programming/)
-
-* [Python with NumPy For Absolute Beginners](https://coursemetry.com/python-with-numpy-for-absolute-beginners/)
-
-* [MasterClass: Effective Goals for People with No Time](https://coursemetry.com/masterclass-effective-goals-for-people-with-no-time/)
-
-* [Master Course of Cloud Management](https://coursemetry.com/master-course-of-cloud-management/)
-
-* [Active Directory: Managing user settings with Group Policy](https://coursemetry.com/active-directory-managing-user-settings-with-group-policy/)
-
-* [Dare to Lead: How to Become a Next Generation Leader](https://coursemetry.com/dare-to-lead-how-to-become-a-next-generation-leader/)
-
-* [Profitable App Development Blueprint for Startups](https://coursemetry.com/profitable-app-development-blueprint-for-startups/)
-
-* [Python Programming for Beginners [Full Course]](https://coursemetry.com/python-programming-for-beginners-full-course/)
-
-* [Python para no matemáticos: De 0 hasta reconocimiento facial](https://coursemetry.com/python-para-no-matematicos-de-0-hasta-reconocimiento-facial/)
-
-* [Master Course in Web Frameworks](https://coursemetry.com/master-course-in-web-frameworks/)
-
-* [The Ultimate Content Marketing Quiz](https://coursemetry.com/the-ultimate-content-marketing-quiz/)
-
-* [Master Course in Business Fundamentals and Development](https://coursemetry.com/master-course-in-business-fundamentals-and-development/)
-
-* [The 6 Tiny Habits that Beat Procrastination](https://coursemetry.com/the-6-tiny-habits-that-beat-procrastination/)
+* [AWS Services for Solutions Architect Associate [2023]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2023/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
