@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **21 Udemy free courses published so far on 2023-02-11**
+## **30 Udemy free courses published so far on 2023-02-11**
 
 * [Python And Django Framework And HTML 5 Complete Course 2022](https://coursemetry.com/python-and-django-framework-and-html-5-complete-course-2022/)
 
@@ -45,6 +45,24 @@
 * [Best of Copywriting: Copywriting 4 E-commerce + 46 Templates](https://coursemetry.com/best-of-copywriting-copywriting-4-e-commerce-46-templates/)
 
 * [Introduction to Real Estate Investor Financing](https://coursemetry.com/introduction-to-real-estate-investor-financing/)
+
+* [Cómo Crear una Tarjeta De Presentación con WordPress 2023](https://coursemetry.com/como-crear-una-tarjeta-de-presentacion-con-wordpress-2023/)
+
+* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+
+* [6 Killer Startup Business Ideas In One Masterclass Framework](https://coursemetry.com/6-killer-startup-business-ideas-in-one-masterclass-framework/)
+
+* [YouTube Millions: Increase Profits, Views, Monetize, & Rank](https://coursemetry.com/youtube-millions-increase-profits-views-monetize-rank/)
+
+* [Quantity Surveying Templates for Effective Cost Management](https://coursemetry.com/quantity-surveying-templates-for-effective-cost-management/)
+
+* [Microsoft SQL Server Series: Intro to Querying MS SQL Server](https://coursemetry.com/microsoft-sql-server-series-intro-to-querying-ms-sql-server/)
+
+* [Microsoft SQL Server for Beginners | Crash Course](https://coursemetry.com/microsoft-sql-server-for-beginners-crash-course/)
+
+* [Sanitation & Wastewater Treatment Explained](https://coursemetry.com/sanitation-wastewater-treatment-explained/)
+
+* [Master Python:  Beginner to Pro with Hands-on  Coding Tasks](https://coursemetry.com/master-python-beginner-to-pro-with-hands-on-coding-tasks/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
