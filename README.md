@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **77 Udemy free courses published so far on 2023-02-13**
+## **78 Udemy free courses published so far on 2023-02-13**
 
 * [The Ultimate Metaverse Quiz for Beginners](https://coursemetry.com/the-ultimate-metaverse-quiz-for-beginners/)
 
@@ -157,6 +157,8 @@
 * [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
 
 * [Create High-Converting Sales Funnels with ChatGPT in 2023](https://coursemetry.com/create-high-converting-sales-funnels-with-chatgpt-in-2023/)
+
+* [Canva Graphic Design: Canva Starter Guide (+ 100 Templates)](https://coursemetry.com/canva-graphic-design-canva-starter-guide-100-templates/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
