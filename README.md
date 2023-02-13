@@ -2,67 +2,117 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **30 Udemy free courses published so far on 2023-02-11**
+## **55 Udemy free courses published so far on 2023-02-13**
 
-* [Python And Django Framework And HTML 5 Complete Course 2022](https://coursemetry.com/python-and-django-framework-and-html-5-complete-course-2022/)
+* [The Ultimate Metaverse Quiz for Beginners](https://coursemetry.com/the-ultimate-metaverse-quiz-for-beginners/)
 
-* [Marketing Fundamentals: Introduction into Digital Marketing](https://coursemetry.com/marketing-fundamentals-introduction-into-digital-marketing/)
+* [AWS Cloud Practitioner Getting Started Guide 2023](https://coursemetry.com/aws-cloud-practitioner-getting-started-guide-2023/)
 
-* [Master Course in Business Writing and Business Strategy 2.0](https://coursemetry.com/master-course-in-business-writing-and-business-strategy-2-0/)
+* [Job Application Format : The Definitive Guide](https://coursemetry.com/job-application-format-the-definitive-guide/)
 
-* [Pass DP-500: Azure Enterprise Data Analyst Exam in first try](https://coursemetry.com/pass-dp-500-azure-enterprise-data-analyst-exam-in-first-try/)
+* [Build a Todo Web Application with ABP Framework](https://coursemetry.com/build-a-todo-web-application-with-abp-framework/)
 
-* [CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course](https://coursemetry.com/css-bootstrap-javascript-php-full-stack-crash-course/)
+* [SEO - The Complete SEO Course Beginners to Advanced 2023](https://coursemetry.com/seo-the-complete-seo-course-beginners-to-advanced-2023/)
 
-* [Master Course in Operational Risk Management (ORM)](https://coursemetry.com/master-course-in-operational-risk-management-orm/)
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
 
-* [La logistique : Approvisionnement , Production ,Distribution](https://coursemetry.com/la-logistique-approvisionnement-production-distribution/)
+* [Crea una Api REST FULL completa con  PHP NATIVO](https://coursemetry.com/crea-una-api-rest-full-completa-con-php-nativo/)
 
-* [Object Oriented Programming in C++  &  Interview Preparation](https://coursemetry.com/object-oriented-programming-in-c-interview-preparation/)
+* [C++ And Java Training Crash Course 2022](https://coursemetry.com/c-and-java-training-crash-course-2022/)
 
-* [Optical Character Recognition (OCR) MasterClass in Python](https://coursemetry.com/optical-character-recognition-ocr-masterclass-in-python/)
+* [تعلم معالج النصوص & العروض التقديمية من الصفر للأحتراف](https://coursemetry.com/%d8%aa%d8%b9%d9%84%d9%85-%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%a7%d9%84%d9%86%d8%b5%d9%88%d8%b5-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b6-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%8a%d9%85%d9%8a%d8%a9-%d9%85%d9%86/)
 
-* [The Art Of Customer Service MasterClass](https://coursemetry.com/the-art-of-customer-service-masterclass/)
+* [general mycology a brief review](https://coursemetry.com/general-mycology-a-brief-review/)
 
-* [Open AI's Generative Pre-trained Transformer 3  (GPT3)](https://coursemetry.com/open-ais-generative-pre-trained-transformer-3-gpt3/)
+* [poultry farming Bacterial diseases hindering satisfying prod](https://coursemetry.com/poultry-farming-bacterial-diseases-hindering-satisfying-prod/)
 
-* [The BEST Bitcoin Trading Course for ALL Levels! (2023)](https://coursemetry.com/the-best-bitcoin-trading-course-for-all-levels-2023/)
+* [Financial Accounting – Subsidiary Ledgers & Special Journals](https://coursemetry.com/financial-accounting-subsidiary-ledgers-special-journals/)
 
-* [Economics, Energy, and Inflation](https://coursemetry.com/economics-energy-and-inflation/)
+* [Partnership Accounting](https://coursemetry.com/partnership-accounting/)
 
-* [Master Course in Business Model and Business Model Canvas](https://coursemetry.com/master-course-in-business-model-and-business-model-canvas/)
+* [PMI-ACP: 200 سؤال معتمد من Agile لإدارة المشاريع](https://coursemetry.com/pmi-acp-200-%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%86-agile-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/)
 
-* [Cómo Crear una Tienda Online con Tiendanube Desde Cero 2023](https://coursemetry.com/como-crear-una-tienda-online-con-tiendanube-desde-cero-2023/)
+* [Financial Accounting-Depreciation Calculation & Fixed Assets](https://coursemetry.com/financial-accounting-depreciation-calculation-fixed-assets/)
 
-* [AZ-900: Microsoft Azure Fundamentals + FULL Practice Exam!](https://coursemetry.com/az-900-microsoft-azure-fundamentals-full-practice-exam/)
+* [RoboAuthor: Content Writing Automation - Part 1 + Live Class](https://coursemetry.com/roboauthor-content-writing-automation-part-1-live-class/)
 
-* [Introduction to International Trade Finance & Trade Services](https://coursemetry.com/introduction-to-international-trade-finance-trade-services/)
+* [Pega Certified  Senior System Architect (CSSA) Exam Practice](https://coursemetry.com/pega-certified-senior-system-architect-cssa-exam-practice/)
 
-* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+* [Accounting-Bonds Payable, Notes Payable, Liabilities](https://coursemetry.com/accounting-bonds-payable-notes-payable-liabilities/)
 
-* [QR Code Generator Using JavaScript](https://coursemetry.com/qr-code-generator-using-javascript/)
+* [Job Order Costing System – Managerial Accounting](https://coursemetry.com/job-order-costing-system-managerial-accounting/)
 
-* [Best of Copywriting: Copywriting 4 E-commerce + 46 Templates](https://coursemetry.com/best-of-copywriting-copywriting-4-e-commerce-46-templates/)
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
 
-* [Introduction to Real Estate Investor Financing](https://coursemetry.com/introduction-to-real-estate-investor-financing/)
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2023](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2023/)
 
-* [Cómo Crear una Tarjeta De Presentación con WordPress 2023](https://coursemetry.com/como-crear-una-tarjeta-de-presentacion-con-wordpress-2023/)
+* [Financial Accounting–Inventory & Merchandising Transactions](https://coursemetry.com/financial-accounting-inventory-merchandising-transactions/)
 
-* [The complete introduction to cryptocurrencies trading](https://coursemetry.com/the-complete-introduction-to-cryptocurrencies-trading/)
+* [Financial Accounting – Closing Process](https://coursemetry.com/financial-accounting-closing-process/)
 
-* [6 Killer Startup Business Ideas In One Masterclass Framework](https://coursemetry.com/6-killer-startup-business-ideas-in-one-masterclass-framework/)
+* [Financial Accounting – Payroll](https://coursemetry.com/financial-accounting-payroll/)
 
-* [YouTube Millions: Increase Profits, Views, Monetize, & Rank](https://coursemetry.com/youtube-millions-increase-profits-views-monetize-rank/)
+* [PMP Practice Test: Project Management Professional 2021](https://coursemetry.com/pmp-practice-test-project-management-professional-2021/)
 
-* [Quantity Surveying Templates for Effective Cost Management](https://coursemetry.com/quantity-surveying-templates-for-effective-cost-management/)
+* [Bank Reconciliations & Cash Internal Controls](https://coursemetry.com/bank-reconciliations-cash-internal-controls/)
+
+* [QuickBooks Online vs. Excel 2022](https://coursemetry.com/quickbooks-online-vs-excel-2022/)
+
+* [Pursue Top 1% Career: Become The No. 1 Success Magnet](https://coursemetry.com/pursue-top-1-career-become-the-no-1-success-magnet/)
+
+* [Postgraduate Executive Diploma: Consumer Lending Business](https://coursemetry.com/postgraduate-executive-diploma-consumer-lending-business/)
+
+* [Accounting for Corporations](https://coursemetry.com/accounting-for-corporations/)
+
+* [practical clinical chemistry from scratch](https://coursemetry.com/practical-clinical-chemistry-from-scratch/)
+
+* [Receivables & The Allowance vs The Direct Write Off Methods](https://coursemetry.com/receivables-the-allowance-vs-the-direct-write-off-methods/)
+
+* [Viral Marketing Masterclass (Virality Edition)](https://coursemetry.com/viral-marketing-masterclass-virality-edition/)
+
+* [Cost Accounting and Artificial Intelligence (AI) Tools](https://coursemetry.com/cost-accounting-and-artificial-intelligence-ai-tools/)
+
+* [PMI-ACP: Agile Certified Project Management 200 Questions](https://coursemetry.com/pmi-acp-agile-certified-project-management-200-questions/)
+
+* [Learn Chinese, Basic Mandarin Chinese, HSK 1 Preparation](https://coursemetry.com/learn-chinese-basic-mandarin-chinese-hsk-1-preparation/)
+
+* [Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://coursemetry.com/microsoft-az-900-azure-fundamentals-exam-preparation-test/)
+
+* [Microsoft AZ-104: Azure Administrator Exam Prep Test](https://coursemetry.com/microsoft-az-104-azure-administrator-exam-prep-test/)
+
+* [Reverse Engineering .NET For Beginners (Visual Basic)](https://coursemetry.com/reverse-engineering-net-for-beginners-visual-basic/)
+
+* [Complete PYTHON Programming for Beginners - 2023](https://coursemetry.com/complete-python-programming-for-beginners-2023/)
+
+* [Postgraduate Executive Diploma: General Management](https://coursemetry.com/postgraduate-executive-diploma-general-management/)
 
 * [Microsoft SQL Server Series: Intro to Querying MS SQL Server](https://coursemetry.com/microsoft-sql-server-series-intro-to-querying-ms-sql-server/)
 
-* [Microsoft SQL Server for Beginners | Crash Course](https://coursemetry.com/microsoft-sql-server-for-beginners-crash-course/)
+* [Content Writing Course For Bloggers (Hindi)](https://coursemetry.com/content-writing-course-for-bloggers-hindi/)
 
-* [Sanitation & Wastewater Treatment Explained](https://coursemetry.com/sanitation-wastewater-treatment-explained/)
+* [Car Mechanic and Electrician Training Certificated | 2023+](https://coursemetry.com/car-mechanic-and-electrician-training-certificated-2023/)
 
-* [Master Python:  Beginner to Pro with Hands-on  Coding Tasks](https://coursemetry.com/master-python-beginner-to-pro-with-hands-on-coding-tasks/)
+* [Active Directory: Domain Controllers, Operations Masters, GC](https://coursemetry.com/active-directory-domain-controllers-operations-masters-gc/)
+
+* [SQL Course 2023: SQL for Data Analysis and Data Science.](https://coursemetry.com/sql-course-2023-sql-for-data-analysis-and-data-science/)
+
+* [Social Media Mastery 2023| Increase Customer Conversion Rate](https://coursemetry.com/social-media-mastery-2023-increase-customer-conversion-rate/)
+
+* [Design Sketching S01: Create Amazing Designs with Procreate](https://coursemetry.com/design-sketching-s01-create-amazing-designs-with-procreate/)
+
+* [SQL Introduction Course 2023: SQL Crash Course.](https://coursemetry.com/sql-introduction-course-2023-sql-crash-course/)
+
+* [Learn to Love Math: Develop a Mindset for Math Success](https://coursemetry.com/learn-to-love-math-develop-a-mindset-for-math-success/)
+
+* [Excel Kurs für Einsteiger. Arbeiten mit Excel und Formeln.](https://coursemetry.com/excel-kurs-fur-einsteiger-arbeiten-mit-excel-und-formeln/)
+
+* [Swing Trading Strategy For Beginners [Full Course]](https://coursemetry.com/swing-trading-strategy-for-beginners-full-course/)
+
+* [Learn MATLAB from ZERO to HERO](https://coursemetry.com/learn-matlab-from-zero-to-hero/)
+
+* [Career Management, Life & Management Skills Assessment Tests](https://coursemetry.com/career-management-life-management-skills-assessment-tests/)
+
+* [Aprende Lenguaje C y C++ de CERO a EXPERTO](https://coursemetry.com/aprende-lenguaje-c-y-c-de-cero-a-experto/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
