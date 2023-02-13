@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **75 Udemy free courses published so far on 2023-02-13**
+## **77 Udemy free courses published so far on 2023-02-13**
 
 * [The Ultimate Metaverse Quiz for Beginners](https://coursemetry.com/the-ultimate-metaverse-quiz-for-beginners/)
 
@@ -153,6 +153,10 @@
 * [Basic Course To GST (Goods And Service Tax)](https://coursemetry.com/basic-course-to-gst-goods-and-service-tax/)
 
 * [Master Course in Early Childhood Education](https://coursemetry.com/master-course-in-early-childhood-education/)
+
+* [410-101 Meta (Facebook) Certified Media Buying Professional](https://coursemetry.com/410-101-meta-facebook-certified-media-buying-professional/)
+
+* [Create High-Converting Sales Funnels with ChatGPT in 2023](https://coursemetry.com/create-high-converting-sales-funnels-with-chatgpt-in-2023/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
