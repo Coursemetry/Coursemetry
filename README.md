@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **55 Udemy free courses published so far on 2023-02-13**
+## **75 Udemy free courses published so far on 2023-02-13**
 
 * [The Ultimate Metaverse Quiz for Beginners](https://coursemetry.com/the-ultimate-metaverse-quiz-for-beginners/)
 
@@ -113,6 +113,46 @@
 * [Career Management, Life & Management Skills Assessment Tests](https://coursemetry.com/career-management-life-management-skills-assessment-tests/)
 
 * [Aprende Lenguaje C y C++ de CERO a EXPERTO](https://coursemetry.com/aprende-lenguaje-c-y-c-de-cero-a-experto/)
+
+* [Complete Digital Advertising Course: PPC Advertising Mastery](https://coursemetry.com/complete-digital-advertising-course-ppc-advertising-mastery/)
+
+* [YouTube Marketing, YouTube Ranking & Adobe Premier Pro Guide](https://coursemetry.com/youtube-marketing-youtube-ranking-adobe-premier-pro-guide/)
+
+* [Healthy living with "No Oil" Recipes - Non Vegetarian](https://coursemetry.com/healthy-living-with-no-oil-recipes-non-vegetarian/)
+
+* [PSM1 Practice Tests Scrum Master  certification-160Q](https://coursemetry.com/psm1-practice-tests-scrum-master-certification-160q/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [poultry diseases for professionals](https://coursemetry.com/poultry-diseases-for-professionals/)
+
+* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
+
+* [Relevant Costs - Managerial Accounting Decisions & Scenarios](https://coursemetry.com/relevant-costs-managerial-accounting-decisions-scenarios/)
+
+* [PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://coursemetry.com/pspo1-practice-tests-scrum-product-owner-certification-160q/)
+
+* [Postgraduate Diploma: Digitalization of Retail Banking](https://coursemetry.com/postgraduate-diploma-digitalization-of-retail-banking/)
+
+* [RoboAuthor: Content Writing Automation - Part 11](https://coursemetry.com/roboauthor-content-writing-automation-part-11/)
+
+* [Master Persuasion & Influence: Hypnotic Communication Skills](https://coursemetry.com/master-persuasion-influence-hypnotic-communication-skills/)
+
+* [Killer ways to create and promote YouTube videos](https://coursemetry.com/killer-ways-to-create-and-promote-youtube-videos/)
+
+* [Master Course in Circular Economy 3.0](https://coursemetry.com/master-course-in-circular-economy-3-0/)
+
+* [Women and Human Rights- Lessons from Pandemic](https://coursemetry.com/women-and-human-rights-lessons-from-pandemic/)
+
+* [Artificial Intelligence in Video Creation: Supreme Edition](https://coursemetry.com/artificial-intelligence-in-video-creation-supreme-edition/)
+
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
+
+* [Aprende PYTHON de CERO a EXPERTO](https://coursemetry.com/aprende-python-de-cero-a-experto/)
+
+* [Basic Course To GST (Goods And Service Tax)](https://coursemetry.com/basic-course-to-gst-goods-and-service-tax/)
+
+* [Master Course in Early Childhood Education](https://coursemetry.com/master-course-in-early-childhood-education/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
