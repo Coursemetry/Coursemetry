@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **101 Udemy free courses published so far on 2023-02-25**
+## **102 Udemy free courses published so far on 2023-02-25**
 
 * [IntelliJ Basics Guide](https://coursemetry.com/intellij-basics-guide/)
 
@@ -205,6 +205,8 @@
 * [Facebook Ads: Run Your First Ad Campaign](https://coursemetry.com/facebook-ads-run-your-first-ad-campaign/)
 
 * [Tax Credits - Family & Dependent Tax Credits](https://coursemetry.com/tax-credits-family-dependent-tax-credits/)
+
+* [Computer Basics 2023: Hardware and Windows 11 Fundamentals](https://coursemetry.com/computer-basics-2023-hardware-and-windows-11-fundamentals/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
