@@ -2,73 +2,155 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **33 Udemy free courses published so far on 2023-02-22**
+## **74 Udemy free courses published so far on 2023-02-25**
 
-* [Entrenamiento Visual FoxPro 9 - Nivel Avanzado - Módulo 01](https://coursemetry.com/entrenamiento-visual-foxpro-9-nivel-avanzado-modulo-01/)
+* [IntelliJ Basics Guide](https://coursemetry.com/intellij-basics-guide/)
 
-* [Java And C++ And PHP Complete Course 2022](https://coursemetry.com/java-and-c-and-php-complete-course-2022/)
+* [poultry farming Bacterial diseases hindering satisfying prod](https://coursemetry.com/poultry-farming-bacterial-diseases-hindering-satisfying-prod/)
 
-* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
+* [Reselling Business - Geld verdienen mit eBay An- und Verkauf](https://coursemetry.com/reselling-business-geld-verdienen-mit-ebay-an-und-verkauf/)
 
-* [Cómo Crear una Página web con WordPress y Elementor 2023](https://coursemetry.com/como-crear-una-pagina-web-con-wordpress-y-elementor-2023/)
+* [Memory: 3 Ways of Memorising Like a Spy](https://coursemetry.com/memory-3-ways-of-memorising-like-a-spy/)
 
-* [Negotiation A-Z: Inside Secrets from a Master Negotiator](https://coursemetry.com/negotiation-a-z-inside-secrets-from-a-master-negotiator/)
+* [QuickBooks Payroll - QuickBooks Pro Desktop](https://coursemetry.com/quickbooks-payroll-quickbooks-pro-desktop/)
 
-* [Curso Básico de Canva 2023: Crea Diseños Gráficos Desde Cero](https://coursemetry.com/curso-basico-de-canva-2023-crea-disenos-graficos-desde-cero/)
+* [Learn how to make right career choices & Make One](https://coursemetry.com/learn-how-to-make-right-career-choices-make-one/)
 
 * [Cómo Crear una Landing Page con WordPress Desde Cero 2023](https://coursemetry.com/como-crear-una-landing-page-con-wordpress-desde-cero-2023/)
 
-* [Comprender las "stock options" como incentivos empresariales](https://coursemetry.com/comprender-las-stock-options-como-incentivos-empresariales/)
+* [Etsy: The Ultimate Guide to Boosting Your Business](https://coursemetry.com/etsy-the-ultimate-guide-to-boosting-your-business/)
 
-* [Passive Income: Create & Sell Online Courses [Full Course]](https://coursemetry.com/passive-income-create-sell-online-courses-full-course/)
+* [General bacteriology a concise course](https://coursemetry.com/general-bacteriology-a-concise-course/)
 
-* [Become a Successful Affiliate Marketer [Success Blueprint]](https://coursemetry.com/become-a-successful-affiliate-marketer-success-blueprint/)
+* [Make Money on YouTube Following PROVEN STEPS - Works in 2023](https://coursemetry.com/make-money-on-youtube-following-proven-steps-works-in-2023/)
 
-* [Control Your Subconscious Mind: Neuroscience Hidden Secrets](https://coursemetry.com/control-your-subconscious-mind-neuroscience-hidden-secrets/)
+* [How to manage stress - Evidence based exercises](https://coursemetry.com/how-to-manage-stress-evidence-based-exercises/)
 
-* [Adobe Dreamweaver Basics Guide](https://coursemetry.com/adobe-dreamweaver-basics-guide/)
+* [Aprende Lenguaje C++ de CERO a EXPERTO](https://coursemetry.com/aprende-lenguaje-c-de-cero-a-experto-2/)
 
-* [Time Management for Professionals](https://coursemetry.com/time-management-for-professionals/)
+* [practical bacteriology from scratch](https://coursemetry.com/practical-bacteriology-from-scratch/)
 
-* [Adobe Media Encoder Basics Guide](https://coursemetry.com/adobe-media-encoder-basics-guide/)
+* [Basics of computer Certification](https://coursemetry.com/basics-of-computer-certification/)
 
-* [Build, Host & Manage WordPress Websites using AI [10Web]](https://coursemetry.com/build-host-manage-wordpress-websites-using-ai-10web/)
+* [Adobe XD Ultimate Guide](https://coursemetry.com/adobe-xd-ultimate-guide/)
 
-* [Adobe Animate Projects Guide](https://coursemetry.com/adobe-animate-projects-guide/)
+* [The Anonymity Course For Beginners](https://coursemetry.com/the-anonymity-course-for-beginners/)
 
-* [Grow your business with Chatbot Marketing!](https://coursemetry.com/grow-your-business-with-chatbot-marketing/)
+* [Helm Basics Guide](https://coursemetry.com/helm-basics-guide/)
 
-* [Curso de Base de Datos Firebird](https://coursemetry.com/curso-de-base-de-datos-firebird/)
+* [virology 4 you](https://coursemetry.com/virology-4-you/)
 
-* [Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2023](https://coursemetry.com/complete-javascript-with-html5css3-from-zero-to-expert-2023/)
+* [Facebook Ads Marketing In Hindi/Urdu 2023](https://coursemetry.com/facebook-ads-marketing-in-hindi-urdu-2023/)
 
-* [Learn How to Earn Cryptocurrency Worldwide in 2023](https://coursemetry.com/learn-how-to-earn-cryptocurrency-worldwide-in-2023/)
+* [Contented Career Mom](https://coursemetry.com/contented-career-mom/)
 
-* [Backcasting from a solar punk future using generative AI](https://coursemetry.com/backcasting-from-a-solar-punk-future-using-generative-ai/)
+* [Influencer Content Marketing (Incredible Edition)](https://coursemetry.com/influencer-content-marketing-incredible-edition/)
 
-* [Stress Management for Success (part II)](https://coursemetry.com/stress-management-for-success-part-ii/)
+* [Creating Video Lessons with Online Video Maker InVideo](https://coursemetry.com/creating-video-lessons-with-online-video-maker-invideo/)
 
-* [JavaScript Certification Exam JSE-40-01 - Preparation (2023)](https://coursemetry.com/javascript-certification-exam-jse-40-01-preparation-2023/)
+* [Passive Income Mastery: Achieve Financial Independence Now](https://coursemetry.com/passive-income-mastery-achieve-financial-independence-now/)
 
-* [Adobe Photoshop Presets Basics Guide](https://coursemetry.com/adobe-photoshop-presets-basics-guide/)
+* [Compassion Focused Therapy (CFT) Practitioner Guide](https://coursemetry.com/compassion-focused-therapy-cft-practitioner-guide/)
 
-* [Escuela de Programación y Desarrollo Web desde cero a Master](https://coursemetry.com/escuela-de-programacion-y-desarrollo-web-desde-cero-a-master/)
+* [Financial Accounting – Inventory Costs](https://coursemetry.com/financial-accounting-inventory-costs/)
 
-* [Visual Studio 2022 C# - Nivel Intermedio](https://coursemetry.com/visual-studio-2022-c-nivel-intermedio/)
+* [Shopify Dropshipping Winning Product Research & Sourcing](https://coursemetry.com/shopify-dropshipping-winning-product-research-sourcing/)
 
-* [Entrenamiento Visual FoxPro 9 - Nivel Intermedio](https://coursemetry.com/entrenamiento-visual-foxpro-9-nivel-intermedio/)
+* [Company Registration In UK~ Make paypal & Stripe Business](https://coursemetry.com/company-registration-in-uk-make-paypal-stripe-business/)
 
-* [Build an Amazon Affiliate E-Commerce Store from Scratch](https://coursemetry.com/build-an-amazon-affiliate-e-commerce-store-from-scratch/)
+* [Grafana Basics Guide](https://coursemetry.com/grafana-basics-guide/)
 
-* [AWS Certified Solutions Architect Associate - Tests [NEW]](https://coursemetry.com/aws-certified-solutions-architect-associate-tests-new/)
+* [Copywriting: Persuasive Writing Ft. Two Forbes Writers](https://coursemetry.com/copywriting-persuasive-writing-ft-two-forbes-writers/)
 
-* [Introduction to Drinking Water Treatment](https://coursemetry.com/introduction-to-drinking-water-treatment/)
+* [poultry farming viral diseases threaten poultry industry](https://coursemetry.com/poultry-farming-viral-diseases-threaten-poultry-industry/)
 
-* [Digital Marketing Strategist. Unlock your career growth](https://coursemetry.com/digital-marketing-strategist-unlock-your-career-growth/)
+* [Google Sites Basics Guide](https://coursemetry.com/google-sites-basics-guide/)
 
-* [Adobe After Effects Projects Guide](https://coursemetry.com/adobe-after-effects-projects-guide/)
+* [Blogging and Influencer Marketing](https://coursemetry.com/blogging-and-influencer-marketing/)
 
-* [Build Profitable E-Commerce Stores with WordPress & Woostify](https://coursemetry.com/build-profitable-e-commerce-stores-with-wordpress-woostify/)
+* [DevOps Fundamentals](https://coursemetry.com/devops-fundamentals/)
+
+* [Instagram Photo: Make Your Instagram Look Pretty in 5 Steps](https://coursemetry.com/instagram-photo-make-your-instagram-look-pretty-in-5-steps/)
+
+* [Basics of Pricing (in Arabic) سلسلة التسويق، أساسيات التسعير](https://coursemetry.com/basics-of-pricing-in-arabic-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82%d8%8c-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d9%8a%d8%b1/)
+
+* [Overcoming Complex PTSD - CPTSD](https://coursemetry.com/overcoming-complex-ptsd-cptsd/)
+
+* [Cómo Crear una Tienda Online con WordPress Desde Cero 2023](https://coursemetry.com/como-crear-una-tienda-online-con-wordpress-desde-cero-2023/)
+
+* [The Complete Introduction to Online Course Creation](https://coursemetry.com/the-complete-introduction-to-online-course-creation/)
+
+* [How to deal with an upset customer.](https://coursemetry.com/how-to-deal-with-an-upset-customer/)
+
+* [Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://coursemetry.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/)
+
+* [Google Ads Mastery~ Beginner To Pro  ~ HINDI/URDU 2023](https://coursemetry.com/google-ads-mastery-beginner-to-pro-hindi-urdu-2023/)
+
+* [Neuroplasticity: Teach Your Brain  To Work 3 Times Faster](https://coursemetry.com/neuroplasticity-teach-your-brain-to-work-3-times-faster/)
+
+* [QuickBooks Online-Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-online-bookkeeping-business-easy-way/)
+
+* [WHAT IS TANTRA? Boundaries & Consent](https://coursemetry.com/what-is-tantra-boundaries-consent/)
+
+* [Unburden from constant Worry & Anxiety](https://coursemetry.com/unburden-from-constant-worry-anxiety/)
+
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners-2/)
+
+* [Aprende MATLAB de CERO a EXPERTO](https://coursemetry.com/aprende-matlab-de-cero-a-experto/)
+
+* [Passive Income By Making Udmy Courses 2023](https://coursemetry.com/passive-income-by-making-udmy-courses-2023/)
+
+* [Bookclub - gain all the benefits from reading and discussing](https://coursemetry.com/bookclub-gain-all-the-benefits-from-reading-and-discussing/)
+
+* [Meditation Masterclass: meditation teacher certification](https://coursemetry.com/meditation-masterclass-meditation-teacher-certification/)
+
+* [Ultimate Guide to Product Design: Design Thinking Approach](https://coursemetry.com/ultimate-guide-to-product-design-design-thinking-approach/)
+
+* [learn French language - learning french simply through music](https://coursemetry.com/learn-french-language-learning-french-simply-through-music/)
+
+* [Creative Infographics in PowerPoint](https://coursemetry.com/creative-infographics-in-powerpoint/)
+
+* [CSS Complete Course For Beginners](https://coursemetry.com/css-complete-course-for-beginners/)
+
+* [PHP for Beginners: PHP Crash Course 2023](https://coursemetry.com/php-for-beginners-php-crash-course-2023/)
+
+* [Crea paginas de ventas para vender productos digi en Hotmart](https://coursemetry.com/crea-paginas-de-ventas-para-vender-productos-digi-en-hotmart/)
+
+* [Google Adwords Crash Course 2023](https://coursemetry.com/google-adwords-crash-course-2023/)
+
+* [Excel Certification Exam Preparation: 4 Practice Tests 2023](https://coursemetry.com/excel-certification-exam-preparation-4-practice-tests-2023/)
+
+* [Overcome Social Anxiety - Step by Step Plan](https://coursemetry.com/overcome-social-anxiety-step-by-step-plan/)
+
+* [Facebook Conversions Ads Marketing For Selling Products 2023](https://coursemetry.com/facebook-conversions-ads-marketing-for-selling-products-2023/)
+
+* [Digital Marketing Business With Google My Business - 2023](https://coursemetry.com/digital-marketing-business-with-google-my-business-2023/)
+
+* [How to create an animated promo video in PowerPoint](https://coursemetry.com/how-to-create-an-animated-promo-video-in-powerpoint/)
+
+* [Sales Management Explained  - Be a Better Sales Manager!](https://coursemetry.com/sales-management-explained-be-a-better-sales-manager/)
+
+* [Easy Instagram Marketing In Hindi](https://coursemetry.com/easy-instagram-marketing-in-hindi/)
+
+* [Facebook Ads & Instagram Ads Course 2023 (Ready for iOS 14+)](https://coursemetry.com/facebook-ads-instagram-ads-course-2023-ready-for-ios-14/)
+
+* [Steemit Earning Full Course step by step](https://coursemetry.com/steemit-earning-full-course-step-by-step/)
+
+* [Facebook Pixel Tracking Shopify ~ Apple iOS14 ~ Ecommerce](https://coursemetry.com/facebook-pixel-tracking-shopify-apple-ios14-ecommerce/)
+
+* [Facebook Ads Google My Business & Google Ads (Adwords) 2023](https://coursemetry.com/facebook-ads-google-my-business-google-ads-adwords-2023/)
+
+* [Learn To Focus: Meditation & Mindfulness For ADHD](https://coursemetry.com/learn-to-focus-meditation-mindfulness-for-adhd/)
+
+* [Gatsby JS | Build a personal blog using gatsbyJS](https://coursemetry.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/)
+
+* [The Complete SAP Analytics Cloud Course 2023](https://coursemetry.com/the-complete-sap-analytics-cloud-course-2023/)
+
+* [Mixing & Mastering with Hybrasil](https://coursemetry.com/mixing-mastering-with-hybrasil/)
+
+* [Postgraduate Executive Diploma: Leadership](https://coursemetry.com/postgraduate-executive-diploma-leadership/)
+
+* [Cómo Crear una Página web con WordPress y Elementor 2023](https://coursemetry.com/como-crear-una-pagina-web-con-wordpress-y-elementor-2023/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
