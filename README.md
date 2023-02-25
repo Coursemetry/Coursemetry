@@ -2,7 +2,7 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **74 Udemy free courses published so far on 2023-02-25**
+## **101 Udemy free courses published so far on 2023-02-25**
 
 * [IntelliJ Basics Guide](https://coursemetry.com/intellij-basics-guide/)
 
@@ -151,6 +151,60 @@
 * [Postgraduate Executive Diploma: Leadership](https://coursemetry.com/postgraduate-executive-diploma-leadership/)
 
 * [Cómo Crear una Página web con WordPress y Elementor 2023](https://coursemetry.com/como-crear-una-pagina-web-con-wordpress-y-elementor-2023/)
+
+* [learn German - simply through music](https://coursemetry.com/learn-german-simply-through-music/)
+
+* [AWS Services for Solutions Architect Associate [2023]](https://coursemetry.com/aws-services-for-solutions-architect-associate-2023/)
+
+* [Meditation For Beginners](https://coursemetry.com/meditation-for-beginners/)
+
+* [Flutter Advanced - Clean Architecture With MVVM in Arabic](https://coursemetry.com/flutter-advanced-clean-architecture-with-mvvm-in-arabic/)
+
+* [Foundations of Positive Psychology - Complete Guide](https://coursemetry.com/foundations-of-positive-psychology-complete-guide/)
+
+* [Introduction to International Trade Finance & Trade Services](https://coursemetry.com/introduction-to-international-trade-finance-trade-services/)
+
+* [Google Certified Associate Cloud Engineer Practice Test 2023](https://coursemetry.com/google-certified-associate-cloud-engineer-practice-test-2023/)
+
+* [QuickBooks Pro Desktop -Bookkeeping Business-Easy Way](https://coursemetry.com/quickbooks-pro-desktop-bookkeeping-business-easy-way/)
+
+* [Income Tax-Business Use of Home Deduction](https://coursemetry.com/income-tax-business-use-of-home-deduction/)
+
+* [Run Search Ad In Google Ads & Easy SEO For Beginners-2023](https://coursemetry.com/run-search-ad-in-google-ads-easy-seo-for-beginners-2023/)
+
+* [AZ-900: Microsoft Certified Azure Fundamentals-Practice test](https://coursemetry.com/az-900-microsoft-certified-azure-fundamentals-practice-test/)
+
+* [Migra un Sitio Web de WordPress a otro Dominio o Hosting](https://coursemetry.com/migra-un-sitio-web-de-wordpress-a-otro-dominio-o-hosting/)
+
+* [master layer farm management the business of millionaires](https://coursemetry.com/master-layer-farm-management-the-business-of-millionaires/)
+
+* [Introduction to Eating Disorders & Treatment](https://coursemetry.com/introduction-to-eating-disorders-treatment/)
+
+* [PODCAST Crea tu Podcast y llega a miles 2022 Actualizado](https://coursemetry.com/podcast-crea-tu-podcast-y-llega-a-miles-2022-actualizado/)
+
+* [AWS Certified SysOps Administrator - Associate Pratice Paper](https://coursemetry.com/aws-certified-sysops-administrator-associate-pratice-paper/)
+
+* [Dropshipping Shopify Store Creation like  Boss for Ecommerce](https://coursemetry.com/dropshipping-shopify-store-creation-like-boss-for-ecommerce/)
+
+* [SIPOC - Supplier, Input, Process, Output, Customer](https://coursemetry.com/sipoc-supplier-input-process-output-customer/)
+
+* [MS-900: Microsoft 365 Fundamentals: Practice Tests](https://coursemetry.com/ms-900-microsoft-365-fundamentals-practice-tests-2/)
+
+* [Get Followers And engagement with Facebook  Ads (easy mode)](https://coursemetry.com/get-followers-and-engagement-with-facebook-ads-easy-mode/)
+
+* [Entrenamiento Visual FoxPro 9 - Nivel Avanzado - Módulo 01](https://coursemetry.com/entrenamiento-visual-foxpro-9-nivel-avanzado-modulo-01/)
+
+* [Master Course in Microsoft MS-720 : MS Teams Voice Engineer](https://coursemetry.com/master-course-in-microsoft-ms-720-ms-teams-voice-engineer/)
+
+* [Postgraduate Executive Diploma: General Management](https://coursemetry.com/postgraduate-executive-diploma-general-management/)
+
+* [Cognitive Behavioral Therapy Practitioner (CBT)](https://coursemetry.com/cognitive-behavioral-therapy-practitioner-cbt/)
+
+* [Managing OCD with Mindfulness & CBT - Introductory Course](https://coursemetry.com/managing-ocd-with-mindfulness-cbt-introductory-course/)
+
+* [Facebook Ads: Run Your First Ad Campaign](https://coursemetry.com/facebook-ads-run-your-first-ad-campaign/)
+
+* [Tax Credits - Family & Dependent Tax Credits](https://coursemetry.com/tax-credits-family-dependent-tax-credits/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
