@@ -2,139 +2,111 @@
 
 [Coursemetry](https://coursemetry.com/) offers 100% OFF coupons for online courses (Udemy, Coursera, edX, Eduonix)
 
-## **66 Udemy free courses published so far on 2023-02-28**
+## **52 Udemy free courses published so far on 2023-03-03**
 
-* [Master Course in Microsoft MB-330 and MB-335 (Supply Chain)](https://coursemetry.com/master-course-in-microsoft-mb-330-and-mb-335-supply-chain/)
+* [Simple and Advanced Topics of Animating 2D Characters](https://coursemetry.com/simple-and-advanced-topics-of-animating-2d-characters/)
 
-* [Learn Deep Learning From Scratch](https://coursemetry.com/learn-deep-learning-from-scratch/)
+* [Master course in Organizational Behavior and Design](https://coursemetry.com/master-course-in-organizational-behavior-and-design/)
 
-* [The Java Course - Learn From Scratch](https://coursemetry.com/the-java-course-learn-from-scratch/)
+* [Splunk Enterprise Certified Admin Practice Exam 2023](https://coursemetry.com/splunk-enterprise-certified-admin-practice-exam-2023/)
 
-* [Writing Security Tools In Ethical Hacking](https://coursemetry.com/writing-security-tools-in-ethical-hacking/)
+* [Secrets Of Psychology - Why People Do The Things They Do](https://coursemetry.com/secrets-of-psychology-why-people-do-the-things-they-do/)
 
-* [The Vulnerability Analysis Course](https://coursemetry.com/the-vulnerability-analysis-course/)
+* [AZ-900: Microsoft Azure Fundamentals - Exam Cram](https://coursemetry.com/az-900-microsoft-azure-fundamentals-exam-cram/)
 
-* [Sales Management: How To Manage Your Sales Team Successfully](https://coursemetry.com/sales-management-how-to-manage-your-sales-team-successfully/)
+* [StartUp School - Launch Your Business Idea!](https://coursemetry.com/startup-school-launch-your-business-idea/)
 
-* [Microsoft Teams Ultimate Guide](https://coursemetry.com/microsoft-teams-ultimate-guide/)
+* [JavaScript Fundamentals: A Course for Absolute Beginners](https://coursemetry.com/javascript-fundamentals-a-course-for-absolute-beginners/)
 
-* [NLP Course for Beginner](https://coursemetry.com/nlp-course-for-beginner/)
+* [Negotiation Skills: Become A Master Of Negotiation](https://coursemetry.com/negotiation-skills-become-a-master-of-negotiation/)
 
-* [Logo Design Essentials ](https://coursemetry.com/logo-design-essentials/)
+* [Big Data on Amazon web services (AWS)](https://coursemetry.com/big-data-on-amazon-web-services-aws/)
 
-* [Microsoft Sway Basics Guide](https://coursemetry.com/microsoft-sway-basics-guide/)
+* [Ace your consulting interview with ex-McKinsey & BCG secrets](https://coursemetry.com/ace-your-consulting-interview-with-ex-mckinsey-bcg-secrets/)
 
-* [AZ-400 Designing Implementing Microsoft DevOps Solution Test](https://coursemetry.com/az-400-designing-implementing-microsoft-devops-solution-test/)
+* [Awakening and Enlightenment Course](https://coursemetry.com/awakening-and-enlightenment-course/)
 
-* [Develop Your Psychic Power Now](https://coursemetry.com/develop-your-psychic-power-now/)
+* [Learn JavaScript - For Beginners](https://coursemetry.com/learn-javascript-for-beginners/)
 
-* [Time Management History, Benefits, and Techniques](https://coursemetry.com/time-management-history-benefits-and-techniques/)
+* [Learn MySQL - For Beginners](https://coursemetry.com/learn-mysql-for-beginners/)
 
-* [Sales Skills: Maximizing Sales In A Bad Economy](https://coursemetry.com/sales-skills-maximizing-sales-in-a-bad-economy/)
+* [Hidden Secrets Of Selling - Part 1](https://coursemetry.com/hidden-secrets-of-selling-part-1/)
 
-* [AZ-720 Practice Tests prep Exam](https://coursemetry.com/az-720-practice-tests-prep-exam/)
+* [Java And PHP Complete Course](https://coursemetry.com/java-and-php-complete-course/)
 
-* [Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://coursemetry.com/digital-nomad-lifestyle-live-your-dream-travel-the-world/)
+* [Master in Microsoft Power BI Desktop and Service](https://coursemetry.com/master-in-microsoft-power-bi-desktop-and-service/)
 
-* [Excel Analytics: Linear Regression Analysis in MS Excel](https://coursemetry.com/excel-analytics-linear-regression-analysis-in-ms-excel/)
+* [6 Killer Startup Business Ideas In One Masterclass Framework](https://coursemetry.com/6-killer-startup-business-ideas-in-one-masterclass-framework/)
 
-* [Complete Cognos Analytics Training Course](https://coursemetry.com/complete-cognos-analytics-training-course/)
+* [Adobe Photoshop | Filters](https://coursemetry.com/adobe-photoshop-filters/)
 
-* [Customer Experience: Build Customer Loyalty](https://coursemetry.com/customer-experience-build-customer-loyalty/)
+* [Understanding HIPAA Compliance](https://coursemetry.com/understanding-hipaa-compliance/)
 
-* [Entrepreneurship Essentials With Junior Ogunyemi](https://coursemetry.com/entrepreneurship-essentials-with-junior-ogunyemi/)
+* [Edición de videos para redes sociales para principiantes](https://coursemetry.com/edicion-de-videos-para-redes-sociales-para-principiantes/)
 
-* [Basic Interviewing Skills - Master Basic Interviewing Skills](https://coursemetry.com/basic-interviewing-skills-master-basic-interviewing-skills/)
+* [Portrait Photography for Absolute Beginners](https://coursemetry.com/portrait-photography-for-absolute-beginners/)
 
-* [Search Engine Optimization Complete Specialization Course](https://coursemetry.com/search-engine-optimization-complete-specialization-course/)
+* [Learn Github Actions for CI/CD DevOps Pipelines](https://coursemetry.com/learn-github-actions-for-ci-cd-devops-pipelines/)
 
-* [OpenGL Basics Guide](https://coursemetry.com/opengl-basics-guide/)
+* [70+ Copywriting & Content Writing Templates for your Success](https://coursemetry.com/70-copywriting-content-writing-templates-for-your-success/)
 
-* [Videoscribe Whiteboard Animations : MasterClass With Project](https://coursemetry.com/videoscribe-whiteboard-animations-masterclass-with-project/)
+* [Amazon AWS DevOps Engineer Professional Exam 2022](https://coursemetry.com/amazon-aws-devops-engineer-professional-exam-2022-2/)
 
-* [Microsoft OneDrive Ultimate Guide](https://coursemetry.com/microsoft-onedrive-ultimate-guide/)
+* [Learn 6 SIMPLE Steps to Make Money on TikTok App!](https://coursemetry.com/learn-6-simple-steps-to-make-money-on-tiktok-app/)
 
-* [The HTML 5 Course 2022](https://coursemetry.com/the-html-5-course-2022/)
+* [Emotional Intelligence: Boost Your Emotional Intelligence](https://coursemetry.com/emotional-intelligence-boost-your-emotional-intelligence/)
 
-* [Microsoft Publisher Basics Guide](https://coursemetry.com/microsoft-publisher-basics-guide/)
+* [DVA-C02: AWS Certified Developer Associate Mock Exam](https://coursemetry.com/dva-c02-aws-certified-developer-associate-mock-exam/)
 
-* [AZ-800 Windows Server Hybrid Core Infrastructure : Mock Test](https://coursemetry.com/az-800-windows-server-hybrid-core-infrastructure-mock-test/)
+* [Master Course of Facebook Training](https://coursemetry.com/master-course-of-facebook-training/)
 
-* [The Python and Django Learning Guide](https://coursemetry.com/the-python-and-django-learning-guide/)
+* [Master Course of Cloud Management](https://coursemetry.com/master-course-of-cloud-management/)
 
-* [Scanning & Discovery Techniques For Penstesters](https://coursemetry.com/scanning-discovery-techniques-for-penstesters/)
+* [Microsoft Power BI DAX from Scratch](https://coursemetry.com/microsoft-power-bi-dax-from-scratch/)
 
-* [Growth Marketing: Aprende Growth Hacking desde Cero](https://coursemetry.com/growth-marketing-aprende-growth-hacking-desde-cero/)
+* [Learn How to Make Trading Card Game Menus With Unity 3D](https://coursemetry.com/learn-how-to-make-trading-card-game-menus-with-unity-3d/)
 
-* [TESOL and TPRS Course (For Language Teachers)](https://coursemetry.com/tesol-and-tprs-course-for-language-teachers/)
+* [HTML & CSS - Certification Course for Beginners](https://coursemetry.com/html-css-certification-course-for-beginners/)
 
-* [WebGL Basics Guide](https://coursemetry.com/webgl-basics-guide/)
+* [Time Management for Professionals](https://coursemetry.com/time-management-for-professionals/)
 
-* [Open Broadcaster Basics Guide](https://coursemetry.com/open-broadcaster-basics-guide/)
+* [Adobe Photoshop | Graphic Design](https://coursemetry.com/adobe-photoshop-graphic-design/)
 
-* [Social Engineering Course](https://coursemetry.com/social-engineering-course/)
+* [ACCEPTANCE and COMMITMENT Therapy · ACT · Certification](https://coursemetry.com/acceptance-and-commitment-therapy-%c2%b7-act-%c2%b7-certification/)
 
-* [MS-500  Microsoft 365 Security Administration Practice Tests](https://coursemetry.com/ms-500-microsoft-365-security-administration-practice-tests/)
+* [Primavera P6 Training - For Beginners](https://coursemetry.com/primavera-p6-training-for-beginners/)
 
-* [Advanced Buffer Overflow Attacking Course](https://coursemetry.com/advanced-buffer-overflow-attacking-course/)
+* [Fastest Laravel app building trick](https://coursemetry.com/fastest-laravel-app-building-trick/)
 
-* [Business Model Innovation For Brand Growth](https://coursemetry.com/business-model-innovation-for-brand-growth/)
+* [A different take on Time Management](https://coursemetry.com/a-different-take-on-time-management/)
 
-* [Kanban Metrics for Agile teams: Measure & Improve Flow](https://coursemetry.com/kanban-metrics-for-agile-teams-measure-improve-flow/)
+* [Google Professional Machine Learning Engineer -Practice Exam](https://coursemetry.com/google-professional-machine-learning-engineer-practice-exam/)
 
-* [Python And Flask Framework Complete Course](https://coursemetry.com/python-and-flask-framework-complete-course/)
+* [Hidden Secrets Of Selling - Part 3](https://coursemetry.com/hidden-secrets-of-selling-part-3/)
 
-* [Aprende Lenguaje C de CERO a EXPERTO](https://coursemetry.com/aprende-lenguaje-c-de-cero-a-experto/)
+* [Data Analytics with Excel Pivot Tables](https://coursemetry.com/data-analytics-with-excel-pivot-tables/)
 
-* [Customer Service: 6 Keys To Exceptional Customer Service](https://coursemetry.com/customer-service-6-keys-to-exceptional-customer-service/)
+* [Entry-Level, Associate & Professional Python Programming](https://coursemetry.com/entry-level-associate-professional-python-programming/)
 
-* [Microsoft To Do Basics Guide](https://coursemetry.com/microsoft-to-do-basics-guide/)
+* [Entrepreneurship: 60 Day Startup Launch Blueprint](https://coursemetry.com/entrepreneurship-60-day-startup-launch-blueprint/)
 
-* [QR Code Generator Using JavaScript](https://coursemetry.com/qr-code-generator-using-javascript/)
+* [Master Course in Management Coaching and Manager Training](https://coursemetry.com/master-course-in-management-coaching-and-manager-training/)
 
-* [Zabbix Basics Guide](https://coursemetry.com/zabbix-basics-guide/)
+* [Adobe Photoshop | Basics Guide](https://coursemetry.com/adobe-photoshop-basics-guide/)
 
-* [Agile Metrics for Agile Project Management](https://coursemetry.com/agile-metrics-for-agile-project-management/)
+* [Master Course in Sales Skills](https://coursemetry.com/master-course-in-sales-skills/)
 
-* [NGINX Web Server from Scratch](https://coursemetry.com/nginx-web-server-from-scratch/)
+* [Mental Freedom: From PAIN To POWER](https://coursemetry.com/mental-freedom-from-pain-to-power/)
 
-* [Facebook Marketplace Dropship Magic](https://coursemetry.com/facebook-marketplace-dropship-magic/)
+* [CLF-C01: AWS Certified Cloud Practitioner Mock Exam](https://coursemetry.com/clf-c01-aws-certified-cloud-practitioner-mock-exam/)
 
-* [Slack Ultimate Guide](https://coursemetry.com/slack-ultimate-guide/)
+* [SCS-C01: AWS Certified Security Specialty Mock Exam](https://coursemetry.com/scs-c01-aws-certified-security-specialty-mock-exam/)
 
-* [Android ethical hacking basics | Arabic](https://coursemetry.com/android-ethical-hacking-basics-arabic/)
+* [JavaScript Beginner's Guide](https://coursemetry.com/javascript-beginners-guide/)
 
-* [Sprint it! - How to Skim Academic Articles](https://coursemetry.com/sprint-it-how-to-skim-academic-articles/)
+* [Master Course in Online Business and Home Business](https://coursemetry.com/master-course-in-online-business-and-home-business/)
 
-* [speak Arabic like natives](https://coursemetry.com/speak-arabic-like-natives/)
-
-* [Fundamentals of Mechanical Design Course](https://coursemetry.com/fundamentals-of-mechanical-design-course/)
-
-* [Learn JQuery Programming Practically](https://coursemetry.com/learn-jquery-programming-practically/)
-
-* [GCP Google Cloud Professional Data Engineer Certification](https://coursemetry.com/gcp-google-cloud-professional-data-engineer-certification/)
-
-* [Three.js Basics Guide](https://coursemetry.com/three-js-basics-guide/)
-
-* [Master Course Microsoft MB-800 Dynamics 365 Business Central](https://coursemetry.com/master-course-microsoft-mb-800-dynamics-365-business-central/)
-
-* [Microsoft Excel Weekender Crash Course](https://coursemetry.com/microsoft-excel-weekender-crash-course/)
-
-* [LookML A-Z: Google Looker for Developers](https://coursemetry.com/lookml-a-z-google-looker-for-developers/)
-
-* [WebVR Basics Guide](https://coursemetry.com/webvr-basics-guide/)
-
-* [Career Change - Find Your Perfect Job](https://coursemetry.com/career-change-find-your-perfect-job/)
-
-* [The Android-Kotlin Development Guide](https://coursemetry.com/the-android-kotlin-development-guide/)
-
-* [Mastering Google Docs: A Comprehensive Google Docs Course](https://coursemetry.com/mastering-google-docs-a-comprehensive-google-docs-course/)
-
-* [Virtual Communication Masterclass](https://coursemetry.com/virtual-communication-masterclass/)
-
-* [The Kotlin Learning Guide](https://coursemetry.com/the-kotlin-learning-guide/)
-
-* [Proceso CRUD (C Sharp y Microsoft Access)](https://coursemetry.com/proceso-crud-c-sharp-y-microsoft-access/)
+* [ZEN: For Personal Development - Zen Teachings](https://coursemetry.com/zen-for-personal-development-zen-teachings/)
 
 
 Join our [Telegram channel](https://t.me/coursemetry)
